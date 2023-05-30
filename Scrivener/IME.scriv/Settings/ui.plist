@@ -452,6 +452,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>4ED8251C-CCFA-444E-83AD-3062C476E92D</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>507F9C6F-5292-4381-B8D1-46E50CD5B1D3</key>
 		<dict>
 			<key>Row</key>
@@ -722,6 +727,11 @@
 			<integer>-1</integer>
 		</dict>
 		<key>96776348-B035-46DA-A5A5-210E99B93774</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>968B769B-B852-4FBF-9305-040B9807D51E</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -1317,7 +1327,7 @@
 	<key>mainDocumentEditor.rulerIsVisible</key>
 	<false/>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {590, 294}}</string>
+	<string>{{0, 0}, {606, 294}}</string>
 	<key>mainDocumentEditor.selectedRanges</key>
 	<string>{0, 0}</string>
 	<key>mainDocumentEditor.textEditorState</key>
@@ -1328,7 +1338,7 @@
 	<key>mainDocumentEditor.textMode</key>
 	<integer>0</integer>
 	<key>mainWindowFrame</key>
-	<string>19 200 1590 719 0 0 1920 1055 </string>
+	<string>93 161 1590 719 0 0 1920 1055 </string>
 	<key>projectStatsSheet</key>
 	<dict>
 		<key>excludeAnnots</key>
@@ -1426,7 +1436,7 @@
 		<real>84</real>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {590, 641}}</string>
+	<string>{{0, 0}, {737, 573}}</string>
 	<key>supportingDocumentEditor.selectedItemIDs</key>
 	<array/>
 	<key>supportingDocumentEditor.selectedItemUUIDs</key>
