@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="9CEE092B-52A4-40FD-A463-60A47C53A797" Version="2.0" Creator="SCRMAC-3.3.1-15588" Device="whaynes-MBP-2021" Author="" Modified="2023-05-31 06:58:54 -0400" ModID="B6F3B60F-6D05-47A1-89B0-12C9CCE9D103">
+<ScrivenerProject Identifier="9CEE092B-52A4-40FD-A463-60A47C53A797" Version="2.0" Creator="SCRMAC-3.3.1-15588" Device="whaynes-fireball-2" Author="" Modified="2023-05-31 15:21:53 -0400" ModID="BC628A11-F083-4FD2-87EC-AB57ECDE8842">
     <Binder>
         <BinderItem UUID="7A583553-3A84-40D6-B9B9-0430B8CD3E39" Type="DraftFolder" Created="2023-05-29 09:45:48 -0400" Modified="2023-05-29 09:45:48 -0400">
             <Title>Draft</Title>
@@ -961,17 +961,943 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
+                        <BinderItem UUID="556FEBAE-7103-40A0-B3DD-F17C18E0B3E7" Type="Folder" Created="2014-06-26 12:12:02 -0400" Modified="2023-05-29 14:05:31 -0400">
+                            <Title>Personal Protective Equipment</Title>
+                            <MetaData>
+                                <SectionType>7AF79F77-7E8C-44AC-96AE-BF3A8922D7D0</SectionType>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,28</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem UUID="556FEBAE-7103-40A0-B3DD-F17C18E0B3E7" Type="Folder" Created="2014-06-26 12:12:02 -0400" Modified="2023-05-29 14:05:31 -0400">
-                    <Title>Personal Protective Equipment</Title>
+                <BinderItem UUID="B558922B-5461-4ED8-8B08-C5826A44EAC5" Type="Folder" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                    <Title>Engineering Principles</Title>
                     <MetaData>
-                        <SectionType>7AF79F77-7E8C-44AC-96AE-BF3A8922D7D0</SectionType>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>0,28</TextSelection>
+                        <TextSelection>0,0</TextSelection>
                     </TextSettings>
+                    <Children>
+                        <BinderItem UUID="4D0385E8-AA46-4DBB-AFE8-A6EE3ED9AF19" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                            <Title>Introduction</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="ED35AD9F-4804-45DC-A3FB-E650A2F0AB58" Type="Folder" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                            <Title>Thermodynamic Principles (Formerly Chapter 2 in Intro to Steam)</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="B9258393-07D4-4BDB-9E5B-27890F672E06" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                    <Title>Introduction</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="80ABB92B-AA66-4D84-AD2F-59ADEDDBDA4A" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                    <Title>Force</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="2EF2EEE6-C7EF-437E-95EC-A425AC8CF51E" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                    <Title>Pressure</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="970629F8-F64E-4038-889F-C04A7A4BB900" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                    <Title>Work</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="573B3C76-4FFA-4439-80C4-F401B2DA74FD" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                    <Title>Energy</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                    <Children>
+                                        <BinderItem UUID="1931446C-6B88-4360-A0E1-71A47CC7269E" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                            <Title>Thermal Energy</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="7BD94693-E479-4D58-82E4-0FF5A919B87C" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                            <Title>Mechanical Energy</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="16BF0145-6448-4FE0-B2B7-35C43DB0D95F" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                            <Title>Energy Transformations</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="EF1F8DBC-113F-45E2-9BA9-A684C5F54751" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                            <Title>Heat Transfer</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                    </Children>
+                                </BinderItem>
+                                <BinderItem UUID="B9CEA66D-FC23-414D-BAC3-4ECE0B5134CF" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                    <Title>Power</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                    <Children>
+                                        <BinderItem UUID="31E057B1-3973-4EE5-9C19-056CCB3D6569" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                            <Title>Mechanical Power</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                            <Children>
+                                                <BinderItem UUID="328D0C46-9D0D-469A-B7D2-0001C63576FB" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                                    <Title>Torque, Speed, and Power</Title>
+                                                    <MetaData>
+                                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                                    </MetaData>
+                                                    <TextSettings>
+                                                        <TextSelection>0,0</TextSelection>
+                                                    </TextSettings>
+                                                </BinderItem>
+                                            </Children>
+                                        </BinderItem>
+                                        <BinderItem UUID="F0B06929-3AA6-4767-91DB-43BA68A658C5" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                            <Title>Efficiency, Percent Error, and Deviation</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                    </Children>
+                                </BinderItem>
+                                <BinderItem UUID="E1703ADD-4B7B-4EA5-A30A-7CCA25222A0C" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                    <Title>Heat Transfer</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                    <Children>
+                                        <BinderItem UUID="AC727B80-F58D-4AFB-8E1C-58B68F5F1864" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                            <Title>Heat Exchangers</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                    </Children>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem UUID="44491009-8E5B-4730-AB86-E89115037679" Type="Folder" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                            <Title>Introduction to Electricity and Electronics</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="EB2EC9AB-5C47-49A3-8A53-FD60DE94D62E" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                    <Title>Introduction</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="9C73A7A6-9361-4BFD-8989-EE4EEC8586BA" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                    <Title>Electrical Principles</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="479F263D-A33A-4EFA-83C5-78A2C31C31E0" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                    <Title>Electrical Power</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                    <Children>
+                                        <BinderItem UUID="529F691B-8221-4E47-A57F-548F19385CCE" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                            <Title>Voltage, Current</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="DFA22C9B-FED8-4E43-85C7-C67B4AFED36A" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                            <Title>Active Power, reactive power, power factor</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="54359550-33A9-48E9-98E0-C143B6E9506E" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                            <Title>Three phase power</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                    </Children>
+                                </BinderItem>
+                                <BinderItem UUID="DEA1BA49-926D-4109-AA2C-F06BB049DD1C" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                    <Title>Overview of Circuits</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="15DD9E16-0336-459C-9F1A-2D7772CA3A94" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                    <Title>Electrical Symbols</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="B6E868E9-CB19-4934-838C-1FF5CD2B7131" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                    <Title>Electrical Machinery</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="37E4C2B3-BFD5-42E4-AB13-7415BC93F7F0" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                    <Title>Diodes</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="0228FB59-4F77-48AC-8401-FD62556521E7" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                    <Title>Transisters</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem UUID="3F770F4B-2E9C-45FE-91DC-1F0529095F9C" Type="Folder" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                            <Title>Units and Principles of Measurement</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="F159FFDD-B849-4797-9298-276942FFEA10" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                    <Title>Introduction</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="ACF48FB2-976F-4B2D-831D-90CAB103E92F" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                    <Title>Engineering Measurement (PNE Chapter 7)</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="03A183AC-18F9-4E0F-8A9D-8D9A47B68DB2" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                    <Title>Unit conversions</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem UUID="105530C1-8E65-4E5C-8558-ABBBC0E78501" Type="Folder" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                            <Title>Measurement Instruments</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="5A3EFDC7-1B68-4A3D-B1F5-216C16EFE228" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                    <Title>pressure measurement</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="28F15D5A-BDCB-4ACA-9480-B92687C7AFCB" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                    <Title>temperature measurement</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="EA1E21F1-4061-4853-9014-63C67D975424" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                    <Title>level measurement</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="534F4FEC-08D7-4A09-9CDB-57734D04C534" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                    <Title>flow measurement</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="AB16E7CF-9AA4-4E22-8A05-D325663E3D1A" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                    <Title>Multimeter</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem UUID="E93166CF-D418-46C0-9E00-9B0F52CBE589" Type="Folder" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                            <Title>Piping systems</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="231682CA-C328-4C7D-AB7B-4D83C4613121" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                    <Title>Pipe</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="5B4144BB-7D07-46DE-91E9-3A4E4B4D2964" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                    <Title>Valves</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="C2380A36-D5AF-4898-AC0F-9BFF13C2CA1C" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                    <Title>Pumps</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="C4E520B3-DF55-4D5F-8BB6-E9BB2B9FFD3A" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                    <Title> Process and Instrumentation Diagrams (P&amp;ID)</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                    <Children>
+                                        <BinderItem UUID="444039B3-4E72-4CD4-8334-8F271C46ACAE" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                            <Title>Symbols</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="5261187A-9547-495A-9913-DE187AA7ED9A" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                            <Title>Open and Closed Systems</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="492C6D46-88DD-47E2-B891-99D82616B6BD" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                            <Title>How to read diagrams</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="0F7C9905-9BDE-4D8A-A927-5DA9AE336EAD" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                            <Title>Diagram Reading</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                    </Children>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="275F7907-CEA1-497B-BC1C-F06954AB9524" Type="Folder" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                    <Title>Marine Engineering</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="E8B35A66-8092-4914-8847-64DAA523FA34" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                            <Title>Introduction</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="A7065115-8268-4B85-9004-567504A4909C" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                    <Title>Marine Propulsion</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="CEB08A07-53DB-427C-A474-CF4D87FB2379" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                    <Title>Modes of propulsion</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="9DFC691B-5DB8-4868-808B-7E48C6FE1EA6" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                    <Title>Gas Turbines</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="1AE7692F-C1B7-444E-AA91-8E46093B4A85" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                    <Title>Nuclear Propulsion</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="0E92616F-0E9F-48DF-A00E-2B65FAD6AFAD" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                    <Title>Propellers, Thrusters, Pods, and Jets</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="D6E37E3D-2D0B-4AED-B36B-AE61FCC04867" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                    <Title>Introduction overview</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem UUID="A990D340-8B32-4517-8774-146C3611D206" Type="Folder" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                            <Title>Chapter 7  Steam Propulsion (Formerly Intro to Steam Ch. 4)</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="1BF5E6E8-51AD-4EC1-BE0A-7F905C7B6B3F" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                    <Title>Main Steam Cycle (Adapt and edit form Intro to Steam Ch. 1)</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="035DE2A7-1ACC-4405-AEE4-D801944E40A4" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                    <Title>Construction</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="AF84D833-389F-483A-BF55-4DC0D5CCEB62" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                    <Title>Operations</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="3F028FFC-332F-4DC4-BAEF-CA95FAD42A63" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                    <Title>Steam Turbines</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="153F7923-87B3-46FC-9857-566E251A510B" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                    <Title>Power Transmission and Gearing</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem UUID="98AB2B8D-DCDB-44ED-B650-63C8F1B6E92E" Type="Folder" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                            <Title>Chapter 8 - Diesel Propulsion</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="1A2F7258-4AA2-4E28-A18E-7B845D56975F" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                    <Title>Combustion Engines</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="B9873934-3150-400F-AF05-3F965FFD7689" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                    <Title>Gas vs. Diesel Engines / Otto vs. Diesel Cycle</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="211F906D-7599-4A5C-82DE-E6E784B314E1" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                    <Title>Engine Construction &amp; Components</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="A57CE6E1-DFD3-4600-A941-7A5ED239A234" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                    <Title>Two Stroke vs. Four Stroke</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem UUID="8D3ACAC0-D3C2-44E6-86D0-2026E120E330" Type="Folder" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                            <Title>Electric Propulsion</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="15ADA6D9-D608-468D-B700-0A4F879309F2" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                    <Title>Propulsion System</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="79744FFB-DBFD-47D2-A159-B75EE1220CF9" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                    <Title>Generators</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="AC648E15-E49E-4FFC-A1FD-4B77F10E8BDA" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                    <Title>Motors</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="08A84778-8F8D-4216-987B-4F3335C94084" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                    <Title>Variable Frequency Drives</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="3F8D15C4-4FC7-4C0A-BD83-F2E6526513A0" Type="Folder" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                    <Title>Electrical Distribution</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                    <Children>
+                                        <BinderItem UUID="DFCEC98D-FF79-412F-876C-603CABC8D2BF" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                            <Title>Transformers</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="FFEFC8E2-337C-4BAA-8889-830500F847A9" Type="Folder" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                            <Title>Switchgear</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                            <Children>
+                                                <BinderItem UUID="6C9CD691-CB7C-42FD-886C-E0E384379941" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                                    <Title>Circuit breakers</Title>
+                                                    <MetaData>
+                                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                                    </MetaData>
+                                                    <TextSettings>
+                                                        <TextSelection>0,0</TextSelection>
+                                                    </TextSettings>
+                                                </BinderItem>
+                                                <BinderItem UUID="66D684D1-FDC0-4212-9D67-246991D49FCB" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                                    <Title>Safety Devices</Title>
+                                                    <MetaData>
+                                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                                    </MetaData>
+                                                    <TextSettings>
+                                                        <TextSelection>0,0</TextSelection>
+                                                    </TextSettings>
+                                                </BinderItem>
+                                                <BinderItem UUID="63C536EB-83BE-4D25-94DA-AF7CC7AB128C" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                                    <Title>Overcurrent Protection</Title>
+                                                    <MetaData>
+                                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                                    </MetaData>
+                                                    <TextSettings>
+                                                        <TextSelection>0,0</TextSelection>
+                                                    </TextSettings>
+                                                </BinderItem>
+                                            </Children>
+                                        </BinderItem>
+                                        <BinderItem UUID="0D67A96B-1BF5-4948-BB9A-825975916906" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                            <Title>One Line Diagram</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="E030D0A8-F9A4-431A-97FB-7DC2FC3EF35B" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                            <Title>Energy Management System</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                    </Children>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem UUID="2D059D8F-494A-45E6-9954-9E531EF07B6F" Type="Folder" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                            <Title>Auxiliary Systems</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="D54597B2-D9CF-426A-ADD7-80FF26434B0F" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:14:42 -0400">
+                                    <Title>Lubrication systems</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                    <Children>
+                                        <BinderItem UUID="807B902B-E21E-4699-B388-057493AAF15C" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                            <Title>Requirements of a Lubrication System</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="F51C484D-2F0C-42DE-B87B-22906030F74D" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                            <Title>Rotating Machinery</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="87628BD8-4478-490C-BB11-8BDCAF1F32BF" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                            <Title>Axial and Radial Bearings</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                    </Children>
+                                </BinderItem>
+                                <BinderItem UUID="5EABE4CB-54D4-466E-8B88-7F73F2C359E8" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                    <Title>Fuel oil systems</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="6ADF611F-9DBB-4CFE-B609-901A71715EC8" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                    <Title>Cooling Systems</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="215C5B4E-92FE-41B1-A84A-F00FCAAFD06F" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                    <Title>Distilling Systems</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="7B12A412-3265-4506-A8DA-AA76D35FF994" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                    <Title>Sewage Treatment Systems</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="A1979457-5EC2-4E4F-A863-96713D714845" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                    <Title>Refrigeration cycle</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="EC5C5A62-2A71-4924-A4A8-CE190471C7CE" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                    <Title>Pneumatics ?</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="DAF12488-E0C4-46C0-9766-E59ADC5364AB" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                    <Title>Hydraulics ?</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="2396AEC7-B4DC-4946-BA72-5A07420AA072" Type="Folder" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                    <Title>TS Patriot State</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="1DCD087C-C28B-445A-9C03-CA4FE4EDA4A8" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                            <Title>Vessel Particulars</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="A73D82A9-2636-4C25-8AF8-EAD7463BC86D" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                            <Title>Chapter 14 - MMA Sea Term I</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="10FE68A2-915A-4424-BD7A-79DE8ADE2813" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                            <Title>What to expect on the training cruise</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="06451DEA-0CFA-43B9-8AB7-0AE9080DA80A" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                            <Title>System diagrams</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
                 </BinderItem>
                 <BinderItem UUID="EAF1A50C-D6E7-45EE-8719-5097F2A5FBE6" Type="Text" Created="2023-05-29 10:29:20 -0400" Modified="2023-05-29 10:29:20 -0400">
                     <Title>Appendix</Title>
@@ -3307,6 +4233,519 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem UUID="90671485-2849-417A-B5D1-CC02F8932665" Type="Text" Created="2023-05-31 15:00:42 -0400" Modified="2023-05-31 15:00:42 -0400">
+                    <Title>Introduction to Marine Engineering</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="E7895654-FDDA-42F2-B911-6E2200FBB50D" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                            <Title>introduction</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="165707FC-20CD-4CFF-8EA6-5853EB4EB2C9" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                            <Title>Safety in the workplace and the marine environment</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="07FB64A1-1B32-4AE4-B238-C734A498DD05" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                    <Title>Hazards in the workplace</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                    <Children>
+                                        <BinderItem UUID="862B1B4C-91D3-4B01-86EC-886A71F33E00" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                            <Title>Slips, trips and falls</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                            <Children>
+                                                <BinderItem UUID="D8E84EFA-B408-4C58-9A80-B0F0785E21AB" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                                    <Title>falling materials</Title>
+                                                    <MetaData>
+                                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                                    </MetaData>
+                                                    <TextSettings>
+                                                        <TextSelection>0,0</TextSelection>
+                                                    </TextSettings>
+                                                </BinderItem>
+                                                <BinderItem UUID="90E071A1-B6C9-4DF6-98CB-4065159285A2" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                                    <Title>working at heights</Title>
+                                                    <MetaData>
+                                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                                    </MetaData>
+                                                    <TextSettings>
+                                                        <TextSelection>0,0</TextSelection>
+                                                    </TextSettings>
+                                                </BinderItem>
+                                            </Children>
+                                        </BinderItem>
+                                        <BinderItem UUID="35109608-43D1-4D48-BE28-A9C8EC1FA795" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                            <Title>Mechanical Hazards</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                            <Children>
+                                                <BinderItem UUID="E26A69A1-EA1F-4274-B4C3-2A409269D0E2" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                                    <Title>Rotating Machinery</Title>
+                                                    <MetaData>
+                                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                                    </MetaData>
+                                                    <TextSettings>
+                                                        <TextSelection>0,0</TextSelection>
+                                                    </TextSettings>
+                                                </BinderItem>
+                                                <BinderItem UUID="7984DD88-4875-4268-8D0A-BBF4AE916930" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                                    <Title>Repair and Maintenance </Title>
+                                                    <MetaData>
+                                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                                    </MetaData>
+                                                    <TextSettings>
+                                                        <TextSelection>0,0</TextSelection>
+                                                    </TextSettings>
+                                                </BinderItem>
+                                            </Children>
+                                        </BinderItem>
+                                        <BinderItem UUID="30777DEC-DA73-42FD-AFA9-89B9522103AC" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                            <Title>Electrical Hazards</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="99FF9955-9E79-4F34-9FB5-6664BFB2D910" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                            <Title>Chemical Hazards</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                            <Children>
+                                                <BinderItem UUID="9FBD497F-35F6-40C5-AAAB-1048CE82BABC" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                                    <Title>Chemical handling, safety, and storage</Title>
+                                                    <MetaData>
+                                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                                    </MetaData>
+                                                    <TextSettings>
+                                                        <TextSelection>0,0</TextSelection>
+                                                    </TextSettings>
+                                                </BinderItem>
+                                            </Children>
+                                        </BinderItem>
+                                        <BinderItem UUID="EA9E3A43-4C7A-43E6-94DE-079504F9CF50" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                            <Title>Fire </Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                            <Children>
+                                                <BinderItem UUID="62A5EDE6-39EA-41BC-A3CD-34363A08C273" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                                    <Title>Hot work</Title>
+                                                    <MetaData>
+                                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                                    </MetaData>
+                                                    <TextSettings>
+                                                        <TextSelection>0,0</TextSelection>
+                                                    </TextSettings>
+                                                </BinderItem>
+                                                <BinderItem UUID="FCDF63F1-13B6-49BC-ADB2-063BB432E079" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                                    <Title>Fire Prevention Measures</Title>
+                                                    <MetaData>
+                                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                                    </MetaData>
+                                                    <TextSettings>
+                                                        <TextSelection>0,0</TextSelection>
+                                                    </TextSettings>
+                                                </BinderItem>
+                                            </Children>
+                                        </BinderItem>
+                                        <BinderItem UUID="5BB39A9B-FBFF-409F-8894-AE487B9118F8" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                            <Title>Fatigue</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                            <Children>
+                                                <BinderItem UUID="8491C8A5-FAD1-4D44-9CD2-DC70AD69266F" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                                    <Title>Causes of Fatigue</Title>
+                                                    <MetaData>
+                                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                                    </MetaData>
+                                                    <TextSettings>
+                                                        <TextSelection>0,0</TextSelection>
+                                                    </TextSettings>
+                                                </BinderItem>
+                                            </Children>
+                                        </BinderItem>
+                                        <BinderItem UUID="6211C4F9-F63C-457C-8FA3-5C1685D5541F" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                            <Title>Enclosed Spaces</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                            <Children>
+                                                <BinderItem UUID="8F27C294-BF88-4838-8B64-C06E9F21308F" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                                    <Title>Enclosed Space entry</Title>
+                                                    <MetaData>
+                                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                                    </MetaData>
+                                                    <TextSettings>
+                                                        <TextSelection>0,0</TextSelection>
+                                                    </TextSettings>
+                                                </BinderItem>
+                                            </Children>
+                                        </BinderItem>
+                                    </Children>
+                                </BinderItem>
+                                <BinderItem UUID="2865A77A-FEFF-44A9-95EE-EE12EC41B155" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                    <Title>Hazard Mitigation</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                    <Children>
+                                        <BinderItem UUID="41AD9835-7C21-4E7E-B00C-BE8B883288B4" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                            <Title>Good Housekeeping</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="B0D6F178-B7E8-4E5D-A27A-2FF54EFCB34A" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                            <Title> Personal Protective Equipment  (formerly Chapter 9)</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                            <Children>
+                                                <BinderItem UUID="FB44CFCD-83D8-4B90-876A-5A610C48E3E8" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                                    <Title>Head Protection</Title>
+                                                    <MetaData>
+                                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                                    </MetaData>
+                                                    <TextSettings>
+                                                        <TextSelection>0,0</TextSelection>
+                                                    </TextSettings>
+                                                </BinderItem>
+                                                <BinderItem UUID="D53BF8AC-FE84-45A3-AB93-77791AA6368A" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                                    <Title>Hand and Foot Protection</Title>
+                                                    <MetaData>
+                                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                                    </MetaData>
+                                                    <TextSettings>
+                                                        <TextSelection>0,0</TextSelection>
+                                                    </TextSettings>
+                                                </BinderItem>
+                                                <BinderItem UUID="08494BD3-D91E-4D7B-B478-0B6C9AE30ACC" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                                    <Title>Eye Protection</Title>
+                                                    <MetaData>
+                                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                                    </MetaData>
+                                                    <TextSettings>
+                                                        <TextSelection>0,0</TextSelection>
+                                                    </TextSettings>
+                                                </BinderItem>
+                                                <BinderItem UUID="D44CDB55-E7D3-4247-8B11-7CBB7BB64D6C" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                                    <Title>Hearing Protection</Title>
+                                                    <MetaData>
+                                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                                    </MetaData>
+                                                    <TextSettings>
+                                                        <TextSelection>0,0</TextSelection>
+                                                    </TextSettings>
+                                                </BinderItem>
+                                                <BinderItem UUID="600F64DE-F75F-44D9-A083-29F8E9910778" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                                    <Title>Respiratory Protection</Title>
+                                                    <MetaData>
+                                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                                    </MetaData>
+                                                    <TextSettings>
+                                                        <TextSelection>0,0</TextSelection>
+                                                    </TextSettings>
+                                                </BinderItem>
+                                                <BinderItem UUID="97CB2631-23E7-45C4-963A-944AF1EA314C" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                                    <Title>Personal survival equipment?</Title>
+                                                    <MetaData>
+                                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                                    </MetaData>
+                                                    <TextSettings>
+                                                        <TextSelection>0,0</TextSelection>
+                                                    </TextSettings>
+                                                </BinderItem>
+                                            </Children>
+                                        </BinderItem>
+                                        <BinderItem UUID="CB56E3D3-DBDF-4F7F-95A5-1520A91F0D26" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                            <Title>Job Hazard Analysis</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="F02C2821-601C-4684-B6C6-BD37771ED059" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                            <Title>Lock out - Tag out</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="AFEC819A-98E9-4466-A9CE-3956BDCC2A68" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                            <Title>Permit to work systems</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="FAC118AC-7797-4C1A-8DBD-F94951A32C48" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                            <Title>Safety Management System</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                            <Children>
+                                                <BinderItem UUID="48C9FFEF-E4C5-4B82-8F1D-2544ADDFF0FF" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                                    <Title>Components of a Safety Management System</Title>
+                                                    <MetaData>
+                                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                                    </MetaData>
+                                                    <TextSettings>
+                                                        <TextSelection>0,0</TextSelection>
+                                                    </TextSettings>
+                                                </BinderItem>
+                                                <BinderItem UUID="2A2DC348-C412-47A7-8BC7-8B6C34C9FF17" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                                    <Title>Management and Safety of Marine Engineering Operations (Modern Marine Engineers Manual Ch. 13)</Title>
+                                                    <MetaData>
+                                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                                    </MetaData>
+                                                    <TextSettings>
+                                                        <TextSelection>0,0</TextSelection>
+                                                    </TextSettings>
+                                                </BinderItem>
+                                                <BinderItem UUID="E75D08D9-17B9-4D9C-B0F7-C1DD03593239" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                                    <Title>ISM Code</Title>
+                                                    <MetaData>
+                                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                                    </MetaData>
+                                                    <TextSettings>
+                                                        <TextSelection>0,0</TextSelection>
+                                                    </TextSettings>
+                                                </BinderItem>
+                                                <BinderItem UUID="19E6064B-9ADE-44F1-B4C1-ECB517B19A13" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                                    <Title>SOLAS</Title>
+                                                    <MetaData>
+                                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                                    </MetaData>
+                                                    <TextSettings>
+                                                        <TextSelection>0,0</TextSelection>
+                                                    </TextSettings>
+                                                </BinderItem>
+                                                <BinderItem UUID="8ED36006-B8C0-4C59-B13D-1F39204B0020" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                                    <Title>OSHA &amp; 29CFR</Title>
+                                                    <MetaData>
+                                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                                    </MetaData>
+                                                    <TextSettings>
+                                                        <TextSelection>0,0</TextSelection>
+                                                    </TextSettings>
+                                                </BinderItem>
+                                            </Children>
+                                        </BinderItem>
+                                    </Children>
+                                </BinderItem>
+                                <BinderItem UUID="7B8AAA1C-031B-45FB-BD49-3299DDFEB06D" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                    <Title>Personal Safety</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="A9E62AEE-7286-4FDF-A7F4-EFDBB95D7F31" Type="Text" Created="2023-05-31 15:00:42 -0400" Modified="2023-05-31 15:00:42 -0400">
+                    <Title>Appendix</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="034145B5-9098-4982-BFF3-687B6EBCE0E7" Type="Text" Created="2023-05-31 15:00:42 -0400" Modified="2023-05-31 15:00:42 -0400">
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="FB5B6426-12A0-49B6-9575-D0EAE175A5E5" Type="Text" Created="2023-05-31 15:00:42 -0400" Modified="2023-05-31 15:00:42 -0400">
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="9BADBB72-D496-43DB-8C14-5F2439E76813" Type="Text" Created="2023-05-31 15:00:42 -0400" Modified="2023-05-31 15:00:42 -0400">
+                    <Title>Book</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="6ABDD502-6A52-41EA-8DEB-4B49CDAFE7D8" Type="Text" Created="2023-05-31 15:00:42 -0400" Modified="2023-05-31 15:00:42 -0400">
+                    <Title>Introduction</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="133A5D72-987F-42FC-A284-65A04D3A4510" Type="Text" Created="2023-05-31 15:00:42 -0400" Modified="2023-05-31 15:04:36 -0400">
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="DEC50459-C944-4C8E-99D9-2BCDB25CE019" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                            <Title>introduction</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="D6FC1370-53B8-418D-A57A-D0B003AC8807" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                            <Title>section</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="CAD8040B-6059-4878-8E1C-304593934B7E" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                    <Title>introduction</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="560407C8-2148-465A-B044-8F54BFC43596" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                    <Title>subsections</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem UUID="8A41C084-FB95-4749-8DA0-32FE28AC8E7C" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                            <Title>section</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="D948924B-6FA1-4F84-8BDA-970336C98C9E" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                                    <Title>words</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="F0CB5B9D-C174-45B0-A927-BA7E8319DA88" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                    <Title>Chapter 12 - Lubrication</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="A4AC558B-3FC0-48A5-AA6E-30F02DC14A88" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                    <Title>Friction and Types of Lubrication</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="3A488EE2-5B95-4469-8C27-E3193E176E60" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                    <Title>Units and Principles of Measurement</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
     </Binder>
@@ -3404,7 +4843,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 08:24:39 -0400" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2023-06-01 01:00:00 -0400" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2023-05-31 06:58:52 -0400"/>
+        <PreviousSession Words="0" Characters="0" Date="2023-05-31 15:01:20 -0400"/>
     </ProjectTargets>
     <RecentWritingHistory Date="2023-05-31 00:00:00 -0400">
         <DraftWordCount>0</DraftWordCount>
@@ -3412,7 +4851,6 @@
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
-    <TemplateFolderUUID>BB89721F-361D-4DC6-B9DC-70E2BE85968E</TemplateFolderUUID>
     <BookmarksFolderUUID>07B0D7C6-57CE-4D6F-8AD9-11F06A261A5F</BookmarksFolderUUID>
-    <PrintSettings PaperSize="611.999972,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
+    <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>

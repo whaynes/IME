@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head><!-- <editor>
+      <sidebar width="203"/>
+      <column name="text" width="1762"/>
+    </editor> -->
+    <title>IME</title>
+    <dateCreated>Wed, 31 May 2023 19:00:42 GMT</dateCreated>
+    <expansionState>0,2,3,4,7,11,13,16,18,20,22,32,39,41,46,51,52,55,57,60,69,71,72,74,80,84,89,90,91,92,97,103,108,113,114,116,124,126,135,145,147,150</expansionState>
+    <vertScrollState>0</vertScrollState>
+    <windowTop>128</windowTop>
+    <windowLeft>52</windowLeft>
+    <windowRight>1850</windowRight>
+    <windowBottom>1206</windowBottom>
+  </head>
+  <body>
+    <outline text="Introduction to Marine Engineering">
+      <outline text="introduction"/>
+      <outline text="Safety in the workplace and the marine environment">
+        <outline text="Hazards in the workplace">
+          <outline text="Slips, trips and falls">
+            <outline text="falling materials"/>
+            <outline text="working at heights"/>
+          </outline>
+          <outline text="Mechanical Hazards">
+            <outline text="Rotating Machinery"/>
+            <outline text="Repair and Maintenance "/>
+          </outline>
+          <outline text="Electrical Hazards"/>
+          <outline text="Chemical Hazards">
+            <outline text="Chemical handling, safety, and storage"/>
+          </outline>
+          <outline text="Fire ">
+            <outline text="Hot work"/>
+            <outline text="Fire Prevention Measures"/>
+          </outline>
+          <outline text="Fatigue">
+            <outline text="Causes of Fatigue"/>
+          </outline>
+          <outline text="Enclosed Spaces">
+            <outline text="Enclosed Space entry"/>
+          </outline>
+        </outline>
+        <outline text="Hazard Mitigation">
+          <outline text="Good Housekeeping"/>
+          <outline text=" Personal Protective Equipment  (formerly Chapter 9)">
+            <outline text="Head Protection"/>
+            <outline text="Hand and Foot Protection"/>
+            <outline text="Eye Protection"/>
+            <outline text="Hearing Protection"/>
+            <outline text="Respiratory Protection"/>
+            <outline text="Personal survival equipment?"/>
+          </outline>
+          <outline text="Job Hazard Analysis"/>
+          <outline text="Lock out - Tag out"/>
+          <outline text="Permit to work systems"/>
+          <outline text="Safety Management System">
+            <outline text="Components of a Safety Management System"/>
+            <outline text="Management and Safety of Marine Engineering Operations (Modern Marine Engineers Manual Ch. 13)"/>
+            <outline text="ISM Code"/>
+            <outline text="SOLAS"/>
+            <outline text="OSHA &amp; 29CFR"/>
+          </outline>
+        </outline>
+        <outline text="Personal Safety"/>
+      </outline>
+      <outline text="Engineering Principles">
+        <outline text="Introduction"/>
+        <outline text="Thermodynamic Principles (Formerly Chapter 2 in Intro to Steam)">
+          <outline text="Introduction"/>
+          <outline text="Force"/>
+          <outline text="Pressure"/>
+          <outline text="Work"/>
+          <outline text="Energy">
+            <outline text="Thermal Energy"/>
+            <outline text="Mechanical Energy"/>
+            <outline text="Energy Transformations"/>
+            <outline text="Heat Transfer"/>
+          </outline>
+          <outline text="Power">
+            <outline text="Mechanical Power">
+              <outline text="Torque, Speed, and Power"/>
+            </outline>
+            <outline text="Efficiency, Percent Error, and Deviation"/>
+          </outline>
+          <outline text="Heat Transfer">
+            <outline text="Heat Exchangers"/>
+          </outline>
+        </outline>
+        <outline text="Introduction to Electricity and Electronics">
+          <outline text="Introduction"/>
+          <outline text="Electrical Principles"/>
+          <outline text="Electrical Power">
+            <outline text="Voltage, Current"/>
+            <outline text="Active Power, reactive power, power factor"/>
+            <outline text="Three phase power"/>
+          </outline>
+          <outline text="Overview of Circuits"/>
+          <outline text="Electrical Symbols"/>
+          <outline text="Electrical Machinery"/>
+          <outline text="Diodes"/>
+          <outline text="Transisters"/>
+        </outline>
+        <outline text="Units and Principles of Measurement">
+          <outline text="Introduction"/>
+          <outline text="Engineering Measurement (PNE Chapter 7)">
+            <outline text="Units and Principles of Measurement">
+              <outline text="Unit conversions"/>
+            </outline>
+          </outline>
+          <outline text="Measurement Instruments">
+            <outline text="pressure measurement"/>
+            <outline text="temperature measurement"/>
+            <outline text="level measurement"/>
+            <outline text="flow measurement"/>
+            <outline text="Multimeter"/>
+          </outline>
+        </outline>
+        <outline text="Piping systems">
+          <outline text="Pipe"/>
+          <outline text="Valves"/>
+          <outline text="Pumps"/>
+          <outline text=" Process and Instrumentation Diagrams (P&amp;ID)">
+            <outline text="Symbols"/>
+            <outline text="Open and Closed Systems"/>
+            <outline text="How to read diagrams"/>
+            <outline text="Diagram Reading"/>
+          </outline>
+        </outline>
+      </outline>
+      <outline text="Marine Engineering">
+        <outline text="Introduction">
+          <outline text="Marine Propulsion">
+            <outline text="Introduction overview">
+              <outline text="Modes of propulsion"/>
+              <outline text="Gas Turbines"/>
+              <outline text="Nuclear Propulsion"/>
+              <outline text="Propellers, Thrusters, Pods, and Jets"/>
+            </outline>
+          </outline>
+        </outline>
+        <outline text="Chapter 7  Steam Propulsion (Formerly Intro to Steam Ch. 4)">
+          <outline text="Main Steam Cycle (Adapt and edit form Intro to Steam Ch. 1)"/>
+          <outline text="Construction"/>
+          <outline text="Operations"/>
+          <outline text="Steam Turbines"/>
+          <outline text="Power Transmission and Gearing"/>
+        </outline>
+        <outline text="Chapter 8 - Diesel Propulsion">
+          <outline text="Combustion Engines"/>
+          <outline text="Gas vs. Diesel Engines / Otto vs. Diesel Cycle"/>
+          <outline text="Engine Construction &amp; Components"/>
+          <outline text="Two Stroke vs. Four Stroke"/>
+        </outline>
+        <outline text="Electric Propulsion">
+          <outline text="Propulsion System"/>
+          <outline text="Generators"/>
+          <outline text="Motors"/>
+          <outline text="Variable Frequency Drives"/>
+        </outline>
+        <outline text="Auxiliary Systems">
+          <outline text="Lubrication oil systems">
+            <outline text="Requirements of a Lubrication System"/>
+            <outline text="Chapter 12 - Lubrication">
+              <outline text="Rotating Machinery"/>
+            </outline>
+            <outline text="Friction and Types of Lubrication"/>
+            <outline text="Axial and Radial Bearings"/>
+          </outline>
+          <outline text="Fuel oil systems"/>
+          <outline text="Cooling Systems"/>
+          <outline text="Distilling Systems"/>
+          <outline text="Sewage Treatment Systems"/>
+          <outline text="Electrical Distribution">
+            <outline text="Transformers"/>
+            <outline text="Switchgear">
+              <outline text="Circuit breakers"/>
+              <outline text="Safety Devices"/>
+              <outline text="Overcurrent Protection"/>
+            </outline>
+            <outline text="One Line Diagram"/>
+            <outline text="Energy Management System"/>
+          </outline>
+          <outline text="Refrigeration cycle"/>
+          <outline text="Pneumatics ?"/>
+          <outline text="Hydraulics ?"/>
+        </outline>
+        <outline text="TS Patriot State">
+          <outline text="Vessel Particulars"/>
+          <outline text="Chapter 14 - MMA Sea Term I"/>
+          <outline text="What to expect on the training cruise"/>
+          <outline text="System diagrams"/>
+        </outline>
+      </outline>
+    </outline>
+    <outline text="Appendix"/>
+    <outline text=""/>
+    <outline text=""/>
+    <outline text="Book"/>
+    <outline text="Introduction"/>
+    <outline text="Chapter">
+      <outline text="introduction"/>
+      <outline text="section">
+        <outline text="introduction"/>
+        <outline text="subsections"/>
+      </outline>
+      <outline text="section">
+        <outline text="words"/>
+      </outline>
+    </outline>
+  </body>
+</opml>
