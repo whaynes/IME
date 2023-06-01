@@ -19,46 +19,6 @@
 	<string>/Users/whaynes/ptx/IME/source</string>
 	<key>NotesScaleFactor</key>
 	<real>1</real>
-	<key>QRPanelSettings</key>
-	<dict>
-		<key>B915C13D-C3B5-4152-98E3-59C8F83FBF02</key>
-		<dict>
-			<key>BinderUUID</key>
-			<string>B915C13D-C3B5-4152-98E3-59C8F83FBF02</string>
-			<key>CurrentMetaData</key>
-			<integer>5</integer>
-			<key>MainPaneWidth</key>
-			<real>475</real>
-			<key>ShowsFormatBar</key>
-			<true/>
-			<key>ShowsMetaData</key>
-			<true/>
-			<key>SplitInfo</key>
-			<array>
-				<string>{{0, 0}, {475, 304.5}}</string>
-				<string>{{0, 305.5}, {475, 108.5}}</string>
-			</array>
-			<key>TextSettings</key>
-			<dict>
-				<key>hasMultiplePages</key>
-				<false/>
-				<key>isRulerVisible</key>
-				<false/>
-				<key>lineNumberingInterval</key>
-				<integer>1</integer>
-				<key>showsLineNumbers</key>
-				<false/>
-				<key>textScaleFactor</key>
-				<real>1</real>
-				<key>usesFacingPages</key>
-				<false/>
-				<key>usesTypewriterScrolling</key>
-				<false/>
-			</dict>
-			<key>WindowFrame</key>
-			<string>741 469 475 522 0 0 1920 1178 </string>
-		</dict>
-	</dict>
 	<key>QuickRefFloatBehavior</key>
 	<integer>3</integer>
 	<key>SuppressBookmarksFolderCheck</key>
@@ -818,7 +778,7 @@
 		<real>84</real>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {620, 573}}</string>
+	<string>{{0, 0}, {606, 294}}</string>
 	<key>supportingDocumentEditor.selectedItemIDs</key>
 	<array/>
 	<key>supportingDocumentEditor.selectedItemUUIDs</key>

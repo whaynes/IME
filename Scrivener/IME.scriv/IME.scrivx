@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="9CEE092B-52A4-40FD-A463-60A47C53A797" Version="2.0" Creator="SCRMAC-3.3.1-15588" Device="whaynes-MBP-2021" Author="" Modified="2023-05-31 22:05:25 -0400" ModID="F3815026-42BC-450D-8CDC-F8BA55EF2434">
+<ScrivenerProject Identifier="9CEE092B-52A4-40FD-A463-60A47C53A797" Version="2.0" Creator="SCRMAC-3.3.1-15588" Device="whaynes-fireball-2" Author="" Modified="2023-06-01 17:39:39 -0400" ModID="4777E411-774B-40FC-BEE4-E90E8658AAA2">
     <Binder>
         <BinderItem UUID="7A583553-3A84-40D6-B9B9-0430B8CD3E39" Type="DraftFolder" Created="2023-05-29 09:45:48 -0400" Modified="2023-05-29 09:45:48 -0400">
             <Title>Draft</Title>
@@ -452,8 +452,8 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="F4A92438-A5C0-44C6-A400-F1A19E8CF612" Type="Folder" Created="2023-05-29 10:30:12 -0400" Modified="2023-05-29 11:09:00 -0400">
-                                    <Title>Safety Management Systems</Title>
+                                <BinderItem UUID="F4A92438-A5C0-44C6-A400-F1A19E8CF612" Type="Folder" Created="2023-05-29 10:30:12 -0400" Modified="2023-06-01 10:33:57 -0400">
+                                    <Title>Safety Management</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
@@ -461,6 +461,64 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                     <Children>
+                                        <BinderItem UUID="E21C7AC5-6DB9-4370-8618-6389ACC50514" Type="Text" Created="2023-06-01 11:01:15 -0400" Modified="2023-06-01 11:02:32 -0400">
+                                            <MetaData>
+                                                <SectionType>9D1ADC50-E7BB-4E40-BA04-CCA44927A08E</SectionType>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>736,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="EF069A83-E56B-4BF4-956B-3F444E307B6D" Type="Folder" Created="2023-05-29 10:30:12 -0400" Modified="2023-06-01 11:10:27 -0400">
+                                            <Title>ISM Code</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>901,0</TextSelection>
+                                            </TextSettings>
+                                            <Children>
+                                                <BinderItem UUID="803EB210-B0D5-4AE2-86E7-8D1A5FCC0811" Type="Text" Created="2023-06-01 11:10:24 -0400" Modified="2023-06-01 11:11:55 -0400">
+                                                    <Title>Ship Obligations</Title>
+                                                    <MetaData>
+                                                        <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
+                                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                                    </MetaData>
+                                                    <TextSettings>
+                                                        <TextSelection>1269,0</TextSelection>
+                                                    </TextSettings>
+                                                </BinderItem>
+                                                <BinderItem UUID="60024A80-A3D6-4725-A0F0-8A17BB188B9A" Type="Text" Created="2023-06-01 11:10:30 -0400" Modified="2023-06-01 11:12:11 -0400">
+                                                    <Title>Company Obligations</Title>
+                                                    <MetaData>
+                                                        <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
+                                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                                    </MetaData>
+                                                    <TextSettings>
+                                                        <TextSelection>1283,0</TextSelection>
+                                                    </TextSettings>
+                                                </BinderItem>
+                                                <BinderItem UUID="8F8066D3-5174-4A50-B2FA-1FE9E1AF9AA4" Type="Text" Created="2023-06-01 11:10:44 -0400" Modified="2023-06-01 11:10:59 -0400">
+                                                    <Title>Crew Obligations</Title>
+                                                    <MetaData>
+                                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                                    </MetaData>
+                                                    <TextSettings>
+                                                        <TextSelection>0,0</TextSelection>
+                                                    </TextSettings>
+                                                </BinderItem>
+                                                <BinderItem UUID="4BF3E8A7-1793-4614-B525-2AF0F6F34BB4" Type="Text" Created="2023-06-01 11:12:04 -0400" Modified="2023-06-01 11:12:54 -0400">
+                                                    <Title>conclusion</Title>
+                                                    <MetaData>
+                                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                                    </MetaData>
+                                                    <TextSettings>
+                                                        <TextSelection>0,0</TextSelection>
+                                                    </TextSettings>
+                                                </BinderItem>
+                                            </Children>
+                                        </BinderItem>
                                         <BinderItem UUID="D4499CD7-4218-4DDD-8ACB-A8A39325A1D6" Type="Text" Created="2023-05-29 10:30:12 -0400" Modified="2023-05-29 10:30:12 -0400">
                                             <Title>Components of a Safety Management System</Title>
                                             <MetaData>
@@ -479,15 +537,6 @@
                                                 <TextSelection>0,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="EF069A83-E56B-4BF4-956B-3F444E307B6D" Type="Text" Created="2023-05-29 10:30:12 -0400" Modified="2023-05-29 10:30:12 -0400">
-                                            <Title>ISM Code</Title>
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>0,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
                                         <BinderItem UUID="CA520FD5-3488-4DAB-9E06-C3147927C1B7" Type="Text" Created="2023-05-29 10:30:12 -0400" Modified="2023-05-29 10:30:12 -0400">
                                             <Title>SOLAS</Title>
                                             <MetaData>
@@ -499,6 +548,14 @@
                                         </BinderItem>
                                         <BinderItem UUID="1D099C1C-1253-43A5-96FE-E29AE86FCFFE" Type="Text" Created="2023-05-29 10:30:12 -0400" Modified="2023-05-29 12:20:33 -0400">
                                             <Title>OSHA &amp;amp; 29CFR</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="DE060C11-1F97-4372-94D2-6B5D3DD8302E" Type="Text" Created="2023-06-01 10:33:49 -0400" Modified="2023-06-01 10:33:49 -0400">
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
@@ -1081,7 +1138,6 @@
                                 <BinderItem UUID="F159FFDD-B849-4797-9298-276942FFEA10" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 20:00:41 -0400">
                                     <Title>Introduction</Title>
                                     <MetaData>
-                                        <SectionType>E1FFAC63-C826-4974-853A-CD45B4CBE7F9</SectionType>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
@@ -1091,7 +1147,6 @@
                                 <BinderItem UUID="ACF48FB2-976F-4B2D-831D-90CAB103E92F" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 20:00:45 -0400">
                                     <Title>Engineering Measurement - PNE Chapter 7</Title>
                                     <MetaData>
-                                        <SectionType>E1FFAC63-C826-4974-853A-CD45B4CBE7F9</SectionType>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
@@ -1101,7 +1156,6 @@
                                 <BinderItem UUID="03A183AC-18F9-4E0F-8A9D-8D9A47B68DB2" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 20:00:50 -0400">
                                     <Title>Unit conversions</Title>
                                     <MetaData>
-                                        <SectionType>E1FFAC63-C826-4974-853A-CD45B4CBE7F9</SectionType>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
@@ -1122,7 +1176,6 @@
                                 <BinderItem UUID="5A3EFDC7-1B68-4A3D-B1F5-216C16EFE228" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 20:00:57 -0400">
                                     <Title>pressure measurement</Title>
                                     <MetaData>
-                                        <SectionType>E1FFAC63-C826-4974-853A-CD45B4CBE7F9</SectionType>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
@@ -1132,7 +1185,6 @@
                                 <BinderItem UUID="28F15D5A-BDCB-4ACA-9480-B92687C7AFCB" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 20:01:05 -0400">
                                     <Title>temperature measurement</Title>
                                     <MetaData>
-                                        <SectionType>E1FFAC63-C826-4974-853A-CD45B4CBE7F9</SectionType>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
@@ -1142,7 +1194,6 @@
                                 <BinderItem UUID="EA1E21F1-4061-4853-9014-63C67D975424" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 20:01:09 -0400">
                                     <Title>level measurement</Title>
                                     <MetaData>
-                                        <SectionType>E1FFAC63-C826-4974-853A-CD45B4CBE7F9</SectionType>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
@@ -1152,7 +1203,6 @@
                                 <BinderItem UUID="534F4FEC-08D7-4A09-9CDB-57734D04C534" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 20:01:12 -0400">
                                     <Title>flow measurement</Title>
                                     <MetaData>
-                                        <SectionType>E1FFAC63-C826-4974-853A-CD45B4CBE7F9</SectionType>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
@@ -1162,7 +1212,6 @@
                                 <BinderItem UUID="AB16E7CF-9AA4-4E22-8A05-D325663E3D1A" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 20:01:15 -0400">
                                     <Title>Multimeter</Title>
                                     <MetaData>
-                                        <SectionType>E1FFAC63-C826-4974-853A-CD45B4CBE7F9</SectionType>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
@@ -1183,7 +1232,6 @@
                                 <BinderItem UUID="231682CA-C328-4C7D-AB7B-4D83C4613121" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 20:01:26 -0400">
                                     <Title>Pipe</Title>
                                     <MetaData>
-                                        <SectionType>E1FFAC63-C826-4974-853A-CD45B4CBE7F9</SectionType>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
@@ -1193,7 +1241,6 @@
                                 <BinderItem UUID="5B4144BB-7D07-46DE-91E9-3A4E4B4D2964" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 20:01:32 -0400">
                                     <Title>Valves</Title>
                                     <MetaData>
-                                        <SectionType>E1FFAC63-C826-4974-853A-CD45B4CBE7F9</SectionType>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
@@ -1203,7 +1250,6 @@
                                 <BinderItem UUID="C2380A36-D5AF-4898-AC0F-9BFF13C2CA1C" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 20:01:35 -0400">
                                     <Title>Pumps</Title>
                                     <MetaData>
-                                        <SectionType>E1FFAC63-C826-4974-853A-CD45B4CBE7F9</SectionType>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
@@ -1224,7 +1270,6 @@
                                 <BinderItem UUID="444039B3-4E72-4CD4-8334-8F271C46ACAE" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 20:01:38 -0400">
                                     <Title>Symbols</Title>
                                     <MetaData>
-                                        <SectionType>E1FFAC63-C826-4974-853A-CD45B4CBE7F9</SectionType>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
@@ -1234,7 +1279,6 @@
                                 <BinderItem UUID="5261187A-9547-495A-9913-DE187AA7ED9A" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 20:01:42 -0400">
                                     <Title>Open and Closed Systems</Title>
                                     <MetaData>
-                                        <SectionType>E1FFAC63-C826-4974-853A-CD45B4CBE7F9</SectionType>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
@@ -1244,7 +1288,6 @@
                                 <BinderItem UUID="492C6D46-88DD-47E2-B891-99D82616B6BD" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 20:01:45 -0400">
                                     <Title>How to read diagrams</Title>
                                     <MetaData>
-                                        <SectionType>E1FFAC63-C826-4974-853A-CD45B4CBE7F9</SectionType>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
@@ -1254,7 +1297,6 @@
                                 <BinderItem UUID="0F7C9905-9BDE-4D8A-A927-5DA9AE336EAD" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 20:01:49 -0400">
                                     <Title>Diagram Reading</Title>
                                     <MetaData>
-                                        <SectionType>E1FFAC63-C826-4974-853A-CD45B4CBE7F9</SectionType>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
@@ -1794,7 +1836,6 @@
     <SectionTypes>
         <TypeDefinitions>
             <Type ID="C25A5009-E5E6-441A-936C-C29E1879ADAC">ptx-para</Type>
-            <Type ID="E1FFAC63-C826-4974-853A-CD45B4CBE7F9">TBD</Type>
             <Type ID="F2CC3694-551C-46A7-BFD9-B161A49072A7">ptx-p</Type>
             <Type ID="64FF4E31-B055-4FA3-9FCF-95AD75D0D317">ptx-book</Type>
             <Type ID="CBF56464-F86D-4F3B-97C4-3CE16CFA0500">ptx-assemblage</Type>
@@ -1873,14 +1914,14 @@
     </CustomMetaDataSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 08:24:39 -0400" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2023-06-01 01:00:00 -0400" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="-269" Characters="-1591" Date="2023-05-31 21:33:00 -0400"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2023-06-02 01:00:00 -0400" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="637" Characters="4396" Date="2023-06-01 17:39:32 -0400"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2023-05-31 00:00:00 -0400">
-        <DraftWordCount>-269</DraftWordCount>
-        <DraftCharCount>-1591</DraftCharCount>
+    <RecentWritingHistory Date="2023-06-01 00:00:00 -0400">
+        <DraftWordCount>637</DraftWordCount>
+        <DraftCharCount>4396</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
-    <PrintSettings PaperSize="611.999972,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
+    <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
