@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CompileSettings>
     <ProjectSettings>
-        <Content Scope="Included">
+        <Content Scope="Included" TreatAsComplete="Yes">
             <Filter State="Off" Exclude="No" Type="Label">
                 <CollectionID>2655DDF6-4AB8-42CB-A433-1CD76FC351D2</CollectionID>
                 <Label>-1</Label>
@@ -99,6 +99,7 @@
         <Format ID="50CE0DA7-14E4-4663-8DF9-56FA47C07C0E">
             <SectionLayouts>
                 <Type ID="C25A5009-E5E6-441A-936C-C29E1879ADAC">DEABC96A-5631-40E6-B12D-C60E67F6A9DF</Type>
+                <Type ID="E1FFAC63-C826-4974-853A-CD45B4CBE7F9">8B6011A8-CC61-4DB1-9871-8761F9767D29</Type>
                 <Type ID="F2CC3694-551C-46A7-BFD9-B161A49072A7">8CA83A26-FB3F-4363-929D-5A3CBF7980DC</Type>
                 <Type ID="64FF4E31-B055-4FA3-9FCF-95AD75D0D317">AS-IS</Type>
                 <Type ID="CBF56464-F86D-4F3B-97C4-3CE16CFA0500">AS-IS</Type>
