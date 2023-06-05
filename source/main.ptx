@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pretext xmlns:xi="http://www.w3.org/2001/XInclude">
+  <book>
+    <title>Introduction to Marine Engineering</title>
+    <xi:include href="frontmatter.ptx"/>
+<!--    <xi:include href="safety.ptx"/>
+    <xi:include href="ppe.ptx"/>
+-->    <xi:include href="thermodynamics.ptx"/>
+  </book>
+</pretext>

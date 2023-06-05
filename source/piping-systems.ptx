@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="piping-systems">
+   <title>Piping Systems</title>
+   <section xml:id="piping-systems-pipe">
+      <title>Pipe</title>
+   </section>
+   <section xml:id="piping-systems-valves">
+      <title>Valves</title>
+   </section>
+   <section xml:id="piping-systems-pumps">
+      <title>Pumps</title>
+   </section>
+   <section xml:id="piping-systems-process-and-instrument-diagrams">
+      <title>Process and Instrument Diagrams</title>
+   </section>
+</chapter>

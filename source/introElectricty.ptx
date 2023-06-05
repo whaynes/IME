@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="introElectricty">
+   <title>Electricity</title>
+   <introduction>
+      <p>	Current is the flow of electricity. </p>
+      <p>	Voltage is the measurement of electric potential. </p>
+      <p>	A Circuit is a network consisting of a closed loop, giving a return path for the current. </p>
+      <p>	Alternating Current is the form in which electric power is delivered to businesses and residences.(such as the power from your wall outlet). </p>
+      <p>	Direct Current the flow of electric charge is only in one direction (such asfrom a battery). </p>
+      <p>	Conductor is an object or type of material that allows the flow of electricity. </p>
+      <p>	Resistance is the capacity of a material to lower or stop electric current. </p>
+   </introduction>
+   <paragraphs>
+      <title>Electrical Principles</title>
+      <p>
+         <term>Current</term> refers to the flow of electric charge in an electrical circuit. It is the rate at which electric charges, typically electrons, move through a <term>conductor</term>. Current is measured in amperes and is represented by the symbol <m>I</m>. It can be thought of as the quantity of charge passing through a point in a circuit per unit of time. The flow of current occurs when there is a potential difference (voltage) applied across a conductor, providing the driving force for the movement of electric charges.</p>
+      <p>
+         <term>Voltage</term>, also known as electric potential difference, is a fundamental concept in electricity. It represents the electrical potential energy per unit charge between two points in an electrical circuit. Voltage is measured in volts (V) and is denoted by the symbol "V". It can be thought of as the "push" or "force" that drives electric charges to move in a circuit. When a voltage is applied across a conductor, it creates an electric field that exerts a force on the charged particles, causing them to move and establish an electric current. In simpler terms, voltage can be understood as the driving force behind the movement of electric charges in an electrical system.</p>
+      <p>
+         <term>Resistance</term> is a property of a material or component in an electrical circuit that opposes the flow of electric current. It is measured in ohms (Ω) and is denoted by the symbol "R". Resistance determines the extent to which a material or device hinders the flow of electrical charge. When a voltage is applied across a conductor, the resistance restricts the flow of current, resulting in a decrease in the magnitude of the current. Materials with high resistance impede the flow of electricity more than materials with low resistance. The resistance of a component depends on factors such as its length, cross-sectional area, and the material it is made of.</p>
+   </paragraphs>
+   <paragraphs>
+      <title>Electrical Power</title>
+      <paragraphs>
+         <title>DC Power</title>
+      </paragraphs>
+      <paragraphs>
+         <title>AC Single phasePower</title>
+      </paragraphs>
+      <paragraphs>
+         <title>AC Three phase power</title>
+      </paragraphs>
+      <paragraphs>
+         <title>Active Power, reactive power, power factor</title>
+      </paragraphs>
+   </paragraphs>
+   <paragraphs>
+      <title>Overview of Circuits</title>
+   </paragraphs>
+   <paragraphs>
+      <title>Electrical Symbols</title>
+   </paragraphs>
+   <paragraphs>
+      <title>Diodes</title>
+   </paragraphs>
+   <paragraphs>
+      <title>Transisters</title>
+   </paragraphs>
+   <section xml:id="introElectricty-electrical-safety">
+      <title>Electrical Safety</title>
+   </section>
+</chapter>
