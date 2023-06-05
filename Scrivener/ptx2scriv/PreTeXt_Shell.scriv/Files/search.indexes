@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SearchIndexes Version="1.0">
+    <Documents>
+        <Document ID="68F9DB8A-73A7-4E9C-9336-36748787D6CB">
+            <Title>Style Samples</Title>
+            <Text>before tag after
+before code after
+before \int y^2 dx after 
+before term after
+before emphasis after
+ptx-p
+comment
+don't export
+md
+ol
+li
+no style
+raw pix
+</Text>
+        </Document>
+    </Documents>
+</SearchIndexes>

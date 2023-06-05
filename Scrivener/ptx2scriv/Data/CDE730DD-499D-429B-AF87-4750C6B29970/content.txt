@@ -1,0 +1,26 @@
+<statement>
+   <p> As steam accomplishes work in an engine or turbine, the pressure of the steam is reduced
+          because it ______. </p>
+</statement>
+<choices>
+   <choice>
+      <statement>
+         <p>diminishes in volume </p>
+      </statement>
+   </choice>
+   <choice>
+      <statement>
+         <p>becomes saturated again </p>
+      </statement>
+   </choice>
+   <choice correct="yes">
+      <statement>
+         <p>expands in volume </p>
+      </statement>
+   </choice>
+   <choice>
+      <statement>
+         <p>becomes superheated again </p>
+      </statement>
+   </choice>
+</choices>

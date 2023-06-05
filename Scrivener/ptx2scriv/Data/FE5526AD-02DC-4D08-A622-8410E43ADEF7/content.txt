@@ -1,0 +1,26 @@
+<statement>
+   <p> Machinery operating features are designed to help conserve energy. Which of the
+          following results will not contribute to energy conservation? </p>
+</statement>
+<choices>
+   <choice>
+      <statement>
+         <p>Reduction of friction. </p>
+      </statement>
+   </choice>
+   <choice>
+      <statement>
+         <p>Insulation of hot surfaces. </p>
+      </statement>
+   </choice>
+   <choice>
+      <statement>
+         <p>Lubrication of moving parts. </p>
+      </statement>
+   </choice>
+   <choice correct="yes">
+      <statement>
+         <p>Elevation of cooler outlet temperatures. </p>
+      </statement>
+   </choice>
+</choices>

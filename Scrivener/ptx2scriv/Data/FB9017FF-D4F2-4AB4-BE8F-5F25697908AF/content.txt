@@ -1,0 +1,28 @@
+<statement>
+   <p> Assume that steam has formed in a boiler in which all of the steam stop valves are
+          closed, and the water level is held constant. When there is an increase in the temperature
+          of the steam and water in the boiler, which of the following effects will occur on the
+          pressure and the specific volume of the steam? </p>
+</statement>
+<choices>
+   <choice>
+      <statement>
+         <p>The steam pressure and volume will remain constant. </p>
+      </statement>
+   </choice>
+   <choice correct="yes">
+      <statement>
+         <p>The pressure will increase and the volume will remain constant. </p>
+      </statement>
+   </choice>
+   <choice>
+      <statement>
+         <p>The pressure will remain constant and the volume will increase. </p>
+      </statement>
+   </choice>
+   <choice>
+      <statement>
+         <p>The pressure will increase and the specific volume will decrease. </p>
+      </statement>
+   </choice>
+</choices>

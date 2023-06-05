@@ -1,0 +1,5 @@
+<p> Radiation is a mode of heat transfer that does not require any physical contact
+            between the warmer substance and the cooler substance. For example, a person sitting
+            near a hot stove is warmed by radiant heat even though the air between the person and
+            the stove may remain cold. Similarly, radiant heat from the sun warms the earth without
+            warming the space through which it passes. </p>

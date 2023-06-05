@@ -1,0 +1,26 @@
+<statement>
+   <p> Which of the following forms of energy is demonstrated through the process of
+          combustion? </p>
+</statement>
+<choices>
+   <choice correct="yes">
+      <statement>
+         <p>Chemical energy </p>
+      </statement>
+   </choice>
+   <choice>
+      <statement>
+         <p>Mechanical energy </p>
+      </statement>
+   </choice>
+   <choice>
+      <statement>
+         <p>Thermal energy </p>
+      </statement>
+   </choice>
+   <choice>
+      <statement>
+         <p>Electrical energy </p>
+      </statement>
+   </choice>
+</choices>

@@ -1,0 +1,25 @@
+<statement>
+   <p> Which of the following statements concerning energy is correct? </p>
+</statement>
+<choices>
+   <choice>
+      <statement>
+         <p>Energy can be created or destroyed. </p>
+      </statement>
+   </choice>
+   <choice>
+      <statement>
+         <p>Energy may not be transformed. </p>
+      </statement>
+   </choice>
+   <choice correct="yes">
+      <statement>
+         <p>The total quantity of energy in the universe is always the same. </p>
+      </statement>
+   </choice>
+   <choice>
+      <statement>
+         <p>None of the above. </p>
+      </statement>
+   </choice>
+</choices>

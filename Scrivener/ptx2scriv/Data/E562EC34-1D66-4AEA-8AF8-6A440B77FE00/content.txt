@@ -1,0 +1,13 @@
+<p> You will also find another kind of pressure unit, which appears to be a length. These
+        units include inches of water, inches of mercury (Hg), or the height of some other liquid of
+        known density. These units, while measured in length units, still represent a pressure. The
+        length describes the pressure exerted by a column of liquid of the given height, and is
+        known as the <em>head</em>. For example, a pressure reading of 1 inch of water (1 in. H₂O)
+        means that the exerted pressure is equal to the pressure exerted by a column of water 1 inch
+        high, or that a column of water in a U-tube would be displaced 1 inch by the pressure being
+        measured. Similarly, a reading of 12 inches of mercury (12 in. Hg) means that the measured
+        pressure is sufficient to support a column of mercury 12 inches high. What is really being
+        expressed (even though it is not mentioned in the pressure unit) is the fact that a certain
+        quantity of material (water, mercury, etc.) of known density will exert a certain definite
+        force upon a specified area. Pressure is still force per unit area even if the pressure unit
+        refers to the height of some liquid. </p>

@@ -1,0 +1,4 @@
+<p> The machinery and equipment in the engineering plant aboard ship is designed either to
+        carry energy from one place to another or to change a substance from one form to another.
+        The principles of energy transformations and some of the important energy changes that occur
+        in the shipboard propulsion cycle are discussed here. </p>
