@@ -1,3 +1,6 @@
-# My Great Book
+# Introduction to Marine Engineering
 
-Visit <https://pretextbook.org/documentation.html> to learn more.
+
+Introductory textbook for use at Massachusetts Maritime Academy.
+
+June 2023  Status: Work in progress
