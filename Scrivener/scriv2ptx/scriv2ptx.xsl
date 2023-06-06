@@ -9,14 +9,16 @@
    <xsl:apply-templates select="@*"/>
    <xsl:apply-templates/>
   </xsl:copy>
-  <!-- copy each chapter in source book.xml to its own file -->
+  <!-- copy each chapter in source book.xml to its own file 
+    uncomment to produce individual chapter files
   <xsl:result-document href="{@xml:id}.ptx">
    <xsl:copy>
     <xsl:apply-templates select="@*"/>
     <xsl:apply-templates/>
    </xsl:copy>
-  </xsl:result-document>
+  </xsl:result-document>-->
  </xsl:template>
+  
  <!-- IdentityTransform -->
  <xsl:template match="node() | @*">
   <xsl:copy>
@@ -54,7 +56,7 @@
   </xsl:copy>
   <xsl:text>&#xa;&#xa;</xsl:text>
  </xsl:template>
- <xsl:template match="p | li | row">
+ <xsl:template match="p | li | row | mrow">
   <!-- starts on new line -->
   <xsl:text>&#xa;</xsl:text>
   <xsl:copy>

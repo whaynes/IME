@@ -22,10 +22,17 @@ In this chapter we will discuss some of the personal protective equipment normal
             <Title>Pressure</Title>
         </Document>
         <Document ID="9C73A7A6-9361-4BFD-8989-EE4EEC8586BA">
-            <Title>Electrical Principles</Title>
-            <Text>Current refers to the flow of electric charge in an electrical circuit. It is the rate at which electric charges, typically electrons, move through a conductor. Current is measured in amperes and is represented by the symbol I. It can be thought of as the quantity of charge passing through a point in a circuit per unit of time. The flow of current occurs when there is a potential difference (voltage) applied across a conductor, providing the driving force for the movement of electric charges.
-Voltage, also known as electric potential difference, is a fundamental concept in electricity. It represents the electrical potential energy per unit charge between two points in an electrical circuit. Voltage is measured in volts (V) and is denoted by the symbol "V". It can be thought of as the "push" or "force" that drives electric charges to move in a circuit. When a voltage is applied across a conductor, it creates an electric field that exerts a force on the charged particles, causing them to move and establish an electric current. In simpler terms, voltage can be understood as the driving force behind the movement of electric charges in an electrical system.
-Resistance is a property of a material or component in an electrical circuit that opposes the flow of electric current. It is measured in ohms (Ω) and is denoted by the symbol "R". Resistance determines the extent to which a material or device hinders the flow of electrical charge. When a voltage is applied across a conductor, the resistance restricts the flow of current, resulting in a decrease in the magnitude of the current. Materials with high resistance impede the flow of electricity more than materials with low resistance. The resistance of a component depends on factors such as its length, cross-sectional area, and the material it is made of.</Text>
+            <Title>Electrical Properties</Title>
+            <Text>Voltage, or electric potential difference, is a fundamental concept in electricity.  Voltage  is measured in units of volts (V), and symbolized as V.  Voltage can be seen as the &lt;q&gt;push&lt;/q&gt; or&lt;q&gt;force&lt;/q&gt; that propels electric charges within a circuit. When voltage is applied to a circuit, it creates an electric field that influences the movement of charged particles, resulting in the establishment of an electric current. In simpler terms, voltage serves as the driving force behind the flow of electric charges in an electrical system.
+Voltage can be produced through several methods, including chemical reactions (such as in batteries) and the photovoltaic effect (as in solar cells). However, the most important method of is electromagnetic induction.  Electromagnetic induction is the process where a changing magnetic field induces (creates) an electric voltage in a nearby conductor.   This phenomenon is the basis for generating electricity in devices like generators and transformers.  Electrical generators will be described in more detail in &lt;xref provisional="generators"/&gt;
+Current refers to the flow of electric charge in an electrical circuit. It is the rate at which electric charges, typically electrons, move through a conductor. Current is measured in amperes (A) and is represented by the symbol I. It can be thought of as the quantity of charge passing through a point in a circuit per unit of time. The flow of current occurs when there is a potential difference (voltage) applied across a conductor, providing the driving force for the movement of electric charges.
+Resistance is a property of a material or component in an electrical circuit that opposes the flow of electric current. It is measured in ohms (Ω) and is denoted by the symbol R. Resistance determines the extent to which a material or device hinders the flow of electrical charge. When a voltage is applied across a conductor, the resistance restricts the flow of current, resulting in a decrease in the magnitude of the current. Materials with high resistance impede the flow of electricity more than materials with low resistance. The resistance of a component depends on factors such as its length, cross-sectional area, and the material it is made of.
+Ohm’s law describes the relationship between current, voltage, and resistance. According to Ohm's Law, the current flowing through a circuit is directly proportional to the voltage across it and inversely proportional to the resistance of the circuit. Mathematically, this relationship is expressed as &lt;me&gt;I = V/R&lt;/me&gt;  where: &lt;ul marker=""&gt;
+I is the the current in amperes
+V is the voltage in volts, and 
+R is the resistance in ohms (Ω). 
+&lt;/ul&gt;&lt;/p&gt;
+In other words, an increase in voltage leads to a corresponding increase in current if the resistance remains constant, while an increase in resistance results in a decrease in current for a given voltage.</Text>
         </Document>
         <Document ID="CEF28B7A-F007-4ADB-9C70-5CD6DD16E15F">
             <Title>Arc Flash and Arc Blast</Title>
@@ -55,6 +62,7 @@ The same relationships apply when heat is being removed. The removal of 42 BTU f
         </Document>
         <Document ID="9DFC691B-5DB8-4868-808B-7E48C6FE1EA6">
             <Title>Gas Turbines</Title>
+            <Text>tbd</Text>
         </Document>
         <Document ID="1D099C1C-1253-43A5-96FE-E29AE86FCFFE">
             <Title>OSHA &amp;amp; 29CFR</Title>
@@ -126,6 +134,17 @@ By following these safety practices, you will not only protect yourself but also
         </Document>
         <Document ID="0E92616F-0E9F-48DF-A00E-2B65FAD6AFAD">
             <Title>Propellers, Thrusters, Pods, and Jets</Title>
+            <Text>tbd
+</Text>
+        </Document>
+        <Document ID="D088C253-C44F-4B23-A84E-96E05ABC5794">
+            <Title>Electrical Circuits</Title>
+            <Text>An electrical circuit is a complete loop or path that allows for the regulated flow of electric current to power devices and carry out different tasks. It consists of different elements like voltage sources, switches, and electrical loads that are interconnected through wires. Electrical loads refer to devices that consume electrical energy and convert it into another form like mechanical work, light, or heat.   Motors, light bulbs and heating elements are some common examples of electrical loads.  
+Series Circuit: In a series circuit, the components are connected in a single path such that the same current flows through each component. The components are connected end-to-end, creating a sequential circuit. In a series circuit, the total resistance is the sum of the individual resistances, and the total voltage across the circuit is divided among the components. If one component fails or is disconnected, the entire circuit is broken, and the flow of current stops.
+
+Parallel Circuit: In a parallel circuit, the components are connected in multiple paths, allowing the current to divide and flow through different branches simultaneously. Each component in a parallel circuit has the same voltage across it. The total current in the circuit is divided among the branches based on the resistance of each branch. If one component fails or is disconnected in a parallel circuit, the current can still flow through the remaining branches.
+
+In summary, a series circuit has components connected in a single path with the same current flowing through each component, while a parallel circuit has components connected in multiple paths, allowing current to divide among the branches.</Text>
         </Document>
         <Document ID="9A3EABF7-24EA-49E5-9CFF-473DF220E1B0">
             <Title>Introduction</Title>
@@ -213,6 +232,13 @@ Electrically Conductive Safety Shoes These shoes protect against the buildup of 
         <Document ID="CBBC0D8D-2D52-4BD9-B8CB-36E5F079A0CD">
             <Title>introduction</Title>
             <Text>Electricity is a powerful and essential source of energy, but it can cause severe injuries, fires, and even fatalities if not handled properly.  Understanding the hazards posed by electricity is crucial for practicing electrical safety.
+
+&lt;figure xml:id="reddy_kilowatt"&gt;
+&lt;caption&gt; Danger High Voltage &lt;/caption&gt;
+&lt;image width="40%" source="pics/safety/reddy_kilowatt.jpg"&gt;
+&lt;!-- Source:  Public Domain  --&gt;
+&lt;/image&gt;
+&lt;/figure&gt;
 Here are some of the main hazards associated with electricity:</Text>
         </Document>
         <Document ID="807B902B-E21E-4699-B388-057493AAF15C">
@@ -270,11 +296,10 @@ Permits to work are required for dangerous jobs such as hot work  (welding or bu
 The permit to work system is designed to prevent accidents, injuries, and damage to the ship and its equipment by ensuring that work activities are conducted in a controlled manner. It helps to manage high-risk tasks and ensure that proper procedures are followed. 
 
 &lt;figure xml:id="hot-work-tag"&gt;
-   &lt;caption&gt;
-Hot Work Tag
-   &lt;/caption&gt;
-  &lt;image width="75%" source="images/safety/hot-work-tag"&gt;
-  &lt;/image&gt;
+&lt;caption&gt;Hot Work Tag&lt;/caption&gt;
+&lt;image width="75%" source="pics/safety/hot-work-tag.png"&gt;
+&lt;/image&gt;
+&lt;!-- Source:  https://www.idescosafety.com/  --&gt;
 &lt;/figure&gt;
 </Text>
         </Document>
@@ -1138,6 +1163,7 @@ Maintain Records: The ship is responsible for maintaining accurate records of sa
         </Document>
         <Document ID="CEB08A07-53DB-427C-A474-CF4D87FB2379">
             <Title>Modes of propulsion</Title>
+            <Text>tbd</Text>
         </Document>
         <Document ID="8F8066D3-5174-4A50-B2FA-1FE9E1AF9AA4">
             <Title>Crew Obligations</Title>
@@ -1157,13 +1183,7 @@ Maintain Records: The ship is responsible for maintaining accurate records of sa
         </Document>
         <Document ID="EB2EC9AB-5C47-49A3-8A53-FD60DE94D62E">
             <Title>Introduction</Title>
-            <Text>	Current is the flow of electricity. 
-	Voltage is the measurement of electric potential. 
-	A Circuit is a network consisting of a closed loop, giving a return path for the current. 
-	Alternating Current is the form in which electric power is delivered to businesses and residences.(such as the power from your wall outlet). 
-	Direct Current the flow of electric charge is only in one direction (such asfrom a battery). 
-	Conductor is an object or type of material that allows the flow of electricity. 
-	Resistance is the capacity of a material to lower or stop electric current. 
+            <Text> 
 </Text>
         </Document>
         <Document ID="FFEFC8E2-337C-4BAA-8889-830500F847A9">
@@ -1171,6 +1191,7 @@ Maintain Records: The ship is responsible for maintaining accurate records of sa
         </Document>
         <Document ID="A7065115-8268-4B85-9004-567504A4909C">
             <Title>Marine Propulsion</Title>
+            <Text>tbd</Text>
         </Document>
         <Document ID="EAF1A50C-D6E7-45EE-8719-5097F2A5FBE6">
             <Title>Appendix</Title>
@@ -1464,6 +1485,7 @@ Aboard ship, additional hazards exist due to the dynamic and often wet environme
         </Document>
         <Document ID="D6E37E3D-2D0B-4AED-B36B-AE61FCC04867">
             <Title>Introduction overview</Title>
+            <Text>tbd</Text>
         </Document>
         <Document ID="E8B35A66-8092-4914-8847-64DAA523FA34">
             <Title>Introduction</Title>
@@ -1586,6 +1608,13 @@ The main advantage of safety glasses is that they are lightweight and relatively
             <Text>A confined space is defined by OSHA as a space that has limited or restricted means of entry, is not designed for continuous occupancy, and is large enough and configured so that a person can enter the space and maneuver well enough to perform tasks.  
 Confined spaces pose several hazards that can endanger workers who enter  them due to their limited entry and exit points, restricted airflow, and potential for hazardous atmospheres. 
 On ships, some examples of confined spaces include:  Cargo and fuel tanks, cofferdams, pressure vessels, sewage tanks, and void spaces. 
+
+&lt;figure xml:id="confined-space-sign"&gt;
+&lt;caption&gt; Confined Space Hazards  &lt;/caption&gt;
+&lt;image width="50%" source="pics/safety/confined-space-sign.png"&gt;
+&lt;!-- Source:  smartsign.com  --&gt;
+&lt;/image&gt;
+&lt;/figure&gt;
 Here are some hazards associated with confined spaces:</Text>
         </Document>
         <Document ID="EBE74B50-0022-4566-B284-A0A024296210">
@@ -1764,7 +1793,16 @@ Conduction, radiation, and convection are usually considered to be the three met
         </Document>
         <Document ID="575D7532-DA11-40A8-9FA0-AF04E3565DAC">
             <Title>introduction</Title>
-            <Text>Chemicals can pose significant risks to human health and safety.  By identifying and understanding the potential hazards, following proper storage and handling procedures, and adhering to safety protocols, you can significantly reduce the risks associated with hazardous chemicals and create a safer environment for everyone.</Text>
+            <Text>Chemicals can pose significant risks to human health and safety.  By identifying and understanding the potential hazards, following proper storage and handling procedures, and adhering to safety protocols, you can significantly reduce the risks associated with hazardous chemicals and create a safer environment for everyone.
+
+&lt;figure xml:id="hazardous-material-placards"&gt;
+&lt;caption&gt; Hazardous Material Placards  &lt;/caption&gt;
+&lt;image width="90%" source="pics/safety/hazardous-material-placards.jpg"&gt;
+&lt;!-- Source:  https://airseacontainers.com/blog/how-to-read-and-understand-hazmat-placards/  --&gt;
+&lt;/image&gt;
+&lt;/figure&gt;
+
+</Text>
         </Document>
         <Document ID="4DB0BBD2-EFB1-48F2-A91D-9657941C7452">
             <Title>Temperature</Title>
@@ -1777,6 +1815,7 @@ Temperature can be measured in a variety of scales. When the temperature scale i
         </Document>
         <Document ID="1AE7692F-C1B7-444E-AA91-8E46093B4A85">
             <Title>Nuclear Propulsion</Title>
+            <Text>tbd</Text>
         </Document>
         <Document ID="968C80D9-D89F-4198-95D9-B18F5128F14E">
             <Title>Radiation</Title>
