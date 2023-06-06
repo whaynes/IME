@@ -1,0 +1,385 @@
+<!DOCTYPE html>
+<!--********************************************-->
+<!--*       Generated from PreTeXt source      *-->
+<!--*                                          *-->
+<!--*         https://pretextbook.org          *-->
+<!--*                                          *-->
+<!--********************************************-->
+<html lang="en-US">
+<head xmlns:og="http://ogp.me/ns#" xmlns:book="https://ogp.me/ns/book#">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Thermal Energy</title>
+<meta name="Keywords" content="Authored in PreTeXt">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta property="og:type" content="book">
+<meta property="book:title" content="Introduction to Marine Engineering">
+<meta property="book:author" content="">
+<script>var runestoneMathReady = new Promise((resolve) => window.rsMathReady = resolve);
+window.MathJax = {
+  tex: {
+    inlineMath: [['\\(','\\)']],
+    tags: "none",
+    tagSide: "right",
+    tagIndent: ".8em",
+    packages: {'[+]': ['base', 'extpfeil', 'ams', 'amscd', 'color', 'newcommand', 'knowl']}
+  },
+  options: {
+    ignoreHtmlClass: "tex2jax_ignore|ignore-math",
+    processHtmlClass: "process-math",
+  },
+  chtml: {
+    scale: 0.98,
+    mtextInheritFont: true
+  },
+  loader: {
+    load: ['input/asciimath', '[tex]/extpfeil', '[tex]/amscd', '[tex]/color', '[tex]/newcommand', '[pretext]/mathjaxknowl3.js'],
+    paths: {pretext: "https://pretextbook.org/js/lib"},
+  },
+  startup: {
+    pageReady() {
+      return MathJax.startup.defaultPageReady().then(function () {
+      console.log("in ready function");
+      rsMathReady();
+      }
+    )}
+  },
+};
+</script><script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script><script src="https://unpkg.com/lunr/lunr.js"></script><script src="lunr-pretext-search-index.js"></script><script src="https://pretextbook.org/js/0.2/pretext_search.js"></script><link href="https://pretextbook.org/css/0.6/pretext_search.css" rel="stylesheet" type="text/css">
+<script>js_version = 0.2</script><script src="https://pretextbook.org/js/lib/jquery.min.js"></script><script src="https://pretextbook.org/js/lib/jquery.sticky.js"></script><script src="https://pretextbook.org/js/lib/jquery.espy.min.js"></script><script src="https://pretextbook.org/js/0.2/pretext.js"></script><script>miniversion=0.1</script><script src="https://pretextbook.org/js/0.2/pretext_add_on.js?x=1"></script><script src="https://pretextbook.org/js/0.2/user_preferences.js"></script><script src="https://pretextbook.org/js/lib/knowl.js"></script><!--knowl.js code controls Sage Cells within knowls--><script>sagecellEvalName='Evaluate (Sage)';
+</script><link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+<link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@400;700&amp;family=Noto+Serif:ital,wght@0,400;0,700;1,400;1,700&amp;family=Tinos:ital,wght@0,400;0,700;1,400;1,700&amp;display=swap" rel="stylesheet">
+<link href="https://fonts.cdnfonts.com/css/dejavu-serif" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Serif:opsz,wdth,wght@8..144,50..150,100..900&amp;display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Open+Sans:wdth,wght@75..100,300..800&amp;display=swap" rel="stylesheet">
+<link href="https://pretextbook.org/css/0.6/pretext.css" rel="stylesheet" type="text/css">
+<link href="https://pretextbook.org/css/0.6/pretext_add_on.css" rel="stylesheet" type="text/css">
+<link href="https://pretextbook.org/css/0.6/shell_default.css" rel="stylesheet" type="text/css">
+<link href="https://pretextbook.org/css/0.6/banner_default.css" rel="stylesheet" type="text/css">
+<link href="https://pretextbook.org/css/0.6/navbar_default.css" rel="stylesheet" type="text/css">
+<link href="https://pretextbook.org/css/0.6/toc_default.css" rel="stylesheet" type="text/css">
+<link href="https://pretextbook.org/css/0.6/knowls_default.css" rel="stylesheet" type="text/css">
+<link href="https://pretextbook.org/css/0.6/style_default.css" rel="stylesheet" type="text/css">
+<link href="https://pretextbook.org/css/0.6/colors_blue_red.css" rel="stylesheet" type="text/css">
+<link href="https://pretextbook.org/css/0.6/setcolors.css" rel="stylesheet" type="text/css">
+</head>
+<body class="pretext book ignore-math">
+<a class="assistive" href="#ptx-content">Skip to main content</a><header id="ptx-masthead"><div class="ptx-banner">
+<a id="logo-link" href=""></a><div class="title-container">
+<h1 class="heading"><a href="book-1.html"><span class="title">Introduction to Marine Engineering</span></a></h1>
+<p class="byline"></p>
+</div>
+<div id="searchresultsplaceholder" style="display: none">
+<button id="closesearchresults" onclick="document.getElementById('searchresultsplaceholder').style.display = 'none'; return false;">x</button><h2>Search Results: <span id="searchterms"></span>
+</h2>
+<div id="searchempty"><span>No results.</span></div>
+<ol id="searchresults"></ol>
+</div>
+</div></header><nav id="ptx-navbar" class="navbar"><button class="toc-toggle button" aria-label="Show or hide table of contents"><span class="icon">☰</span><span class="name">Contents</span></button><button id="user-preferences-button" class="user-preferences-button button" title="Modify user preferences"><span id="theavatarbutton" class="name">You!</span><div id="preferences_menu_holder" class="hidden"><ol id="preferences_menu" style="font-family: 'Roboto Serif', serif;">
+<li data-env="avatar" tabindex="-1">Choose avatar<div class="wrap_to_submenu"><span class="to_submenu">▻</span></div>
+<ol class="hidden avatar">
+<li data-val="You!" tabindex="-1">
+<span id="theYou!" class="avatarcheck">✔️</span>You!</li>
+<li data-val="😺" tabindex="-1">
+<span id="the😺" class="avatarcheck"></span>😺</li>
+<li data-val="👤" tabindex="-1">
+<span id="the👤" class="avatarcheck"></span>👤</li>
+<li data-val="👽" tabindex="-1">
+<span id="the👽" class="avatarcheck"></span>👽</li>
+<li data-val="🐶" tabindex="-1">
+<span id="the🐶" class="avatarcheck"></span>🐶</li>
+<li data-val="🐼" tabindex="-1">
+<span id="the🐼" class="avatarcheck"></span>🐼</li>
+<li data-val="🌈" tabindex="-1">
+<span id="the🌈" class="avatarcheck"></span>🌈</li>
+</ol>
+</li>
+<li data-env="fontfamily" tabindex="-1">Font family<div class="wrap_to_submenu"><span class="to_submenu">▻</span></div>
+<ol class="hidden fontfamily">
+<li data-val="face" data-change="OS" tabindex="-1" style="font-family: 'Open Sans'">
+<span id="theOS" class="ffcheck">✔️</span><span class="name">Open Sans</span><span class="sample">AaBbCc 123 PreTeXt</span>
+</li>
+<li data-val="face" data-change="RS" tabindex="-1" style="font-family: 'Roboto Serif'">
+<span id="theRS" class="ffcheck"></span><span class="name">Roboto Serif</span><span class="sample">AaBbCc 123 PreTeXt</span>
+</li>
+</ol>
+</li>
+<li data-env="font" tabindex="-1">Adjust font<div class="wrap_to_submenu"><span class="to_submenu">▻</span></div>
+<ol class="hidden fonts">
+<li>Size</li>
+<li><span id="thesize">12</span></li>
+<li data-val="size" data-change="-1" tabindex="-1" style="font-size: 80%">Smaller</li>
+<li data-val="size" data-change="1" tabindex="-1" style="font-size: 110%">Larger</li>
+<li>Width</li>
+<li><span id="thewdth">100</span></li>
+<li data-val="wdth" data-change="-5" tabindex="-1" style="font-variation-settings: 'wdth' 60">narrower</li>
+<li data-val="wdth" data-change="5" tabindex="-1" style="font-variation-settings: 'wdth' 150">wider</li>
+<li>Weight</li>
+<li><span id="thewght">400</span></li>
+<li data-val="wght" data-change="-50" tabindex="-1" style="font-weight: 200">thinner</li>
+<li data-val="wght" data-change="50" tabindex="-1" style="font-weight: 700">heavier</li>
+<li>Letter spacing</li>
+<li>
+<span id="thelspace">0</span><span class="byunits">/200</span>
+</li>
+<li data-val="lspace" data-change="-1" tabindex="-1">closer</li>
+<li data-val="lspace" data-change="1" tabindex="-1">f a r t h e r</li>
+<li>Word spacing</li>
+<li>
+<span id="thewspace">0</span><span class="byunits">/50</span>
+</li>
+<li data-val="wspace" data-change="-1" tabindex="-1">smaller gap </li>
+<li data-val="wspace" data-change="1" tabindex="-1">larger gap</li>
+<li>Line Spacing</li>
+<li>
+<span id="theheight">135</span><span class="byunits">/100</span>
+</li>
+<li data-val="height" data-change="-5" tabindex="-1" style="line-height: 1">closer<br>together</li>
+<li data-val="height" data-change="5" tabindex="-1" style="line-height: 1.75">further<br>apart</li>
+</ol>
+</li>
+<li data-env="atmosphere" tabindex="-1">Light/dark mode<div class="wrap_to_submenu"><span class="to_submenu">▻</span></div>
+<ol class="hidden atmosphere">
+<li data-val="default" tabindex="-1">
+<span id="thedefault" class="atmospherecheck">✔️</span>default</li>
+<li data-val="pastel" tabindex="-1">
+<span id="thepastel" class="atmospherecheck"></span>pastel</li>
+<li data-val="darktwilight" tabindex="-1">
+<span id="thedarktwilight" class="atmospherecheck"></span>twilight</li>
+<li data-val="dark" tabindex="-1">
+<span id="thedark" class="atmospherecheck"></span>dark</li>
+<li data-val="darkmidnight" tabindex="-1">
+<span id="thedarkmidnight" class="atmospherecheck"></span>midnight</li>
+</ol>
+</li>
+<li data-env="ruler" tabindex="-1">Reading ruler<div class="wrap_to_submenu"><span class="to_submenu">▻</span></div>
+<ol class="hidden ruler">
+<li data-val="none" tabindex="-1">
+<span id="thenone" class="rulercheck">✔️</span>none</li>
+<li data-val="underline" tabindex="-1">
+<span id="theunderline" class="rulercheck"></span>underline</li>
+<li data-val="lunderline" tabindex="-1">
+<span id="thelunderline" class="rulercheck"></span>L-underline</li>
+<li data-val="greybar" tabindex="-1">
+<span id="thegreybar" class="rulercheck"></span>grey bar</li>
+<li data-val="lightbox" tabindex="-1">
+<span id="thelightbox" class="rulercheck"></span>light box</li>
+<li data-val="sunrise" tabindex="-1">
+<span id="thesunrise" class="rulercheck"></span>sunrise</li>
+<li data-val="sunriseunderline" tabindex="-1">
+<span id="thesunriseunderline" class="rulercheck"></span>sunrise underline</li>
+<li class="moveQ">Motion by:</li>
+<li data-val="mouse" tabindex="-1">
+<span id="themouse" class="motioncheck">✔️</span>follow the mouse</li>
+<li data-val="arrow" tabindex="-1">
+<span id="thearrow" class="motioncheck"></span>up/down arrows - not yet</li>
+<li data-val="eye" tabindex="-1">
+<span id="theeye" class="motioncheck"></span>eye tracking - not yet</li>
+</ol>
+</li>
+</ol></div></button><span class="treebuttons"><a class="previous-button button" href="thermodynamics-mechanical-energy.html" title="Previous"><span class="icon">&lt;</span><span class="name">Prev</span></a><a class="up-button button" href="thermodynamics-energy.html" title="Up"><span class="icon">^</span><span class="name">Up</span></a><a class="next-button button" href="thermodynamics-energy-transformations.html" title="Next"><span class="name">Next</span><span class="icon">&gt;</span></a></span><div class="searchbox"><div class="searchwidget">
+<input id="ptxsearch" type="text" name="terms" placeholder="Search" onchange="doSearch()"><button id="searchbutton" type="button" onclick="doSearch()">🔍</button>
+</div></div></nav><div id="latex-macros" class="hidden-content process-math" style="display:none"><span class="process-math">\(
+\newcommand{\lt}{&lt;}
+\newcommand{\gt}{&gt;}
+\newcommand{\amp}{&amp;}
+\definecolor{fillinmathshade}{gray}{0.9}
+\newcommand{\fillinmath}[1]{\mathchoice{\colorbox{fillinmathshade}{$\displaystyle     \phantom{\,#1\,}$}}{\colorbox{fillinmathshade}{$\textstyle        \phantom{\,#1\,}$}}{\colorbox{fillinmathshade}{$\scriptstyle      \phantom{\,#1\,}$}}{\colorbox{fillinmathshade}{$\scriptscriptstyle\phantom{\,#1\,}$}}}
+\)</span></div>
+<div class="ptx-page">
+<div id="ptx-sidebar"><nav id="ptx-toc" class="depth3"><ul class="structural">
+<li><div class="toc-item"><a href="frontmatter.html" class="internal"><span class="title">Front Matter</span></a></div></li>
+<li>
+<div class="toc-item"><a href="safety.html" class="internal"><span class="codenumber">1</span> <span class="title">Safety</span></a></div>
+<ul class="structural">
+<li>
+<div class="toc-item"><a href="safety-hazards-in-the-workplace.html" class="internal"><span class="codenumber">1.1</span> <span class="title">Hazards in the workplace</span></a></div>
+<ul class="structural">
+<li><div class="toc-item"><a href="safety-slips--trips-and-falls.html" class="internal"><span class="codenumber">1.1.1</span> <span class="title">Slips, Trips and Falls</span></a></div></li>
+<li><div class="toc-item"><a href="safety-mechanical-hazards.html" class="internal"><span class="codenumber">1.1.2</span> <span class="title">Mechanical Hazards</span></a></div></li>
+<li><div class="toc-item"><a href="safety-electrical-hazards.html" class="internal"><span class="codenumber">1.1.3</span> <span class="title">Electrical Hazards</span></a></div></li>
+<li><div class="toc-item"><a href="safety-chemical-hazards.html" class="internal"><span class="codenumber">1.1.4</span> <span class="title">Chemical Hazards</span></a></div></li>
+<li><div class="toc-item"><a href="safety-fire-.html" class="internal"><span class="codenumber">1.1.5</span> <span class="title">Fire</span></a></div></li>
+<li><div class="toc-item"><a href="safety-fatigue.html" class="internal"><span class="codenumber">1.1.6</span> <span class="title">Fatigue</span></a></div></li>
+<li><div class="toc-item"><a href="safety-confined-spaces.html" class="internal"><span class="codenumber">1.1.7</span> <span class="title">Confined Spaces</span></a></div></li>
+</ul>
+</li>
+<li>
+<div class="toc-item"><a href="safety-hazard-mitigation.html" class="internal"><span class="codenumber">1.2</span> <span class="title">Hazard Mitigation</span></a></div>
+<ul class="structural">
+<li>
+<div class="toc-item"><a href="safety-safety-management.html" class="internal"><span class="codenumber">1.2.1</span> <span class="title">Safety Management</span></a></div>
+<ul class="structural"><li><div class="toc-item"><a href="safety-safety-management.html#safety-ism-code" class="internal"><span class="title">ISM Code</span></a></div></li></ul>
+</li>
+<li><div class="toc-item"><a href="safety-job-hazard-analysis.html" class="internal"><span class="codenumber">1.2.2</span> <span class="title">Job Hazard Analysis</span></a></div></li>
+<li><div class="toc-item"><a href="safety-lock-out-tag-out.html" class="internal"><span class="codenumber">1.2.3</span> <span class="title">Lock out-Tag out</span></a></div></li>
+<li><div class="toc-item"><a href="safety-permit-to-work-.html" class="internal"><span class="codenumber">1.2.4</span> <span class="title">Permit to work</span></a></div></li>
+</ul>
+</li>
+<li><div class="toc-item"><a href="safety-personal-safety.html" class="internal"><span class="codenumber">1.3</span> <span class="title">Personal Safety</span></a></div></li>
+</ul>
+</li>
+<li>
+<div class="toc-item"><a href="ppe.html" class="internal"><span class="codenumber">2</span> <span class="title">Personal Protective Equipment</span></a></div>
+<ul class="structural">
+<li><div class="toc-item"><a href="ppe-head-protection.html" class="internal"><span class="codenumber">2.1</span> <span class="title">Head Protection</span></a></div></li>
+<li><div class="toc-item"><a href="ppe-eye-protection.html" class="internal"><span class="codenumber">2.2</span> <span class="title">Eye Protection</span></a></div></li>
+<li><div class="toc-item"><a href="ppe-hearing-protection.html" class="internal"><span class="codenumber">2.3</span> <span class="title">Hearing Protection</span></a></div></li>
+<li><div class="toc-item"><a href="ppe-respiratory-protection.html" class="internal"><span class="codenumber">2.4</span> <span class="title">Respiratory Protection</span></a></div></li>
+<li><div class="toc-item"><a href="ppe-arm-and-hand-protection.html" class="internal"><span class="codenumber">2.5</span> <span class="title">Arm and Hand Protection</span></a></div></li>
+<li><div class="toc-item"><a href="ppe-foot-protection.html" class="internal"><span class="codenumber">2.6</span> <span class="title">Foot Protection</span></a></div></li>
+</ul>
+</li>
+<li>
+<div class="toc-item"><a href="marineEngineering.html" class="internal"><span class="codenumber">3</span> <span class="title">Marine Propulsion</span></a></div>
+<ul class="structural"><li><div class="toc-item"><a href="marineEngineering-introduction.html" class="internal"><span class="codenumber">3.1</span> <span class="title">Introduction</span></a></div></li></ul>
+</li>
+<li>
+<div class="toc-item"><a href="thermodynamics.html" class="internal"><span class="codenumber">4</span> <span class="title">Principles of Thermodynamics</span></a></div>
+<ul class="structural">
+<li><div class="toc-item"><a href="thermodynamics-force.html" class="internal"><span class="codenumber">4.1</span> <span class="title">Force</span></a></div></li>
+<li>
+<div class="toc-item"><a href="thermodynamics-pressure.html" class="internal"><span class="codenumber">4.2</span> <span class="title">Pressure</span></a></div>
+<ul class="structural">
+<li><div class="toc-item"><a href="thermodynamics-head.html" class="internal"><span class="codenumber">4.2.1</span> <span class="title">Head</span></a></div></li>
+<li><div class="toc-item"><a href="thermodynamics-atmospheric-pressure.html" class="internal"><span class="codenumber">4.2.2</span> <span class="title">Atmospheric Pressure</span></a></div></li>
+<li><div class="toc-item"><a href="thermodynamics-gage-pressure.html" class="internal"><span class="codenumber">4.2.3</span> <span class="title">Gage Pressure</span></a></div></li>
+<li><div class="toc-item"><a href="thermodynamics-absolute-pressure.html" class="internal"><span class="codenumber">4.2.4</span> <span class="title">Absolute Pressure</span></a></div></li>
+<li><div class="toc-item"><a href="thermodynamics-vacuum.html" class="internal"><span class="codenumber">4.2.5</span> <span class="title">Vacuum</span></a></div></li>
+<li><div class="toc-item"><a href="thermodynamics-pressure-conversions.html" class="internal"><span class="codenumber">4.2.6</span> <span class="title">Pressure Conversions</span></a></div></li>
+</ul>
+</li>
+<li>
+<div class="toc-item"><a href="thermodynamics-energy.html" class="internal"><span class="codenumber">4.3</span> <span class="title">Energy</span></a></div>
+<ul class="structural">
+<li>
+<div class="toc-item"><a href="thermodynamics-mechanical-energy.html" class="internal"><span class="codenumber">4.3.1</span> <span class="title">Mechanical Energy</span></a></div>
+<ul class="structural">
+<li><div class="toc-item"><a href="thermodynamics-mechanical-energy.html#thermodynamics-work" class="internal"><span class="title">Work</span></a></div></li>
+<li><div class="toc-item"><a href="thermodynamics-mechanical-energy.html#thermodynamics-power" class="internal"><span class="title">Power</span></a></div></li>
+</ul>
+</li>
+<li class="active">
+<div class="toc-item"><a href="thermodynamics-thermal-energy.html" class="internal"><span class="codenumber">4.3.2</span> <span class="title">Thermal Energy</span></a></div>
+<ul class="structural">
+<li><div class="toc-item"><a href="thermodynamics-thermal-energy.html#thermodynamics-temperature" class="internal"><span class="title">Temperature</span></a></div></li>
+<li><div class="toc-item"><a href="thermodynamics-thermal-energy.html#thermodynamics-internal-energy" class="internal"><span class="title">Internal Energy</span></a></div></li>
+<li><div class="toc-item"><a href="thermodynamics-thermal-energy.html#thermodynamics-heat" class="internal"><span class="title">Heat</span></a></div></li>
+<li><div class="toc-item"><a href="thermodynamics-thermal-energy.html#thermodynamics-enthalpy" class="internal"><span class="title">Enthalpy</span></a></div></li>
+<li><div class="toc-item"><a href="thermodynamics-thermal-energy.html#thermodynamics-units-of-measurement" class="internal"><span class="title">Units of Measurement</span></a></div></li>
+<li><div class="toc-item"><a href="thermodynamics-thermal-energy.html#thermodynamics-heat-transfer" class="internal"><span class="title">Heat Transfer</span></a></div></li>
+<li><div class="toc-item"><a href="thermodynamics-thermal-energy.html#thermodynamics-sensible-heat-and-latent-heat" class="internal"><span class="title">Sensible Heat and Latent Heat</span></a></div></li>
+<li><div class="toc-item"><a href="thermodynamics-thermal-energy.html#thermodynamics-specific-heat" class="internal"><span class="title">Specific Heat</span></a></div></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<div class="toc-item"><a href="thermodynamics-energy-transformations.html" class="internal"><span class="codenumber">4.4</span> <span class="title">Energy Transformations</span></a></div>
+<ul class="structural">
+<li><div class="toc-item"><a href="thermodynamics-conservation-of-energy.html" class="internal"><span class="codenumber">4.4.1</span> <span class="title">Conservation of Energy</span></a></div></li>
+<li><div class="toc-item"><a href="thermodynamics-transforming-heat-to-work.html" class="internal"><span class="codenumber">4.4.2</span> <span class="title">Transforming Heat to Work</span></a></div></li>
+<li><div class="toc-item"><a href="thermodynamics-energy-relationships-in-the-shipboard-propulsion-cycle.html" class="internal"><span class="codenumber">4.4.3</span> <span class="title">Energy Relationships in the Shipboard Propulsion Cycle</span></a></div></li>
+</ul>
+</li>
+<li><div class="toc-item"><a href="thermodynamics-the-generation-of-steam.html" class="internal"><span class="codenumber">4.5</span> <span class="title">The Generation of Steam</span></a></div></li>
+</ul>
+</li>
+<li>
+<div class="toc-item"><a href="introElectricty.html" class="internal"><span class="codenumber">5</span> <span class="title">Electricity</span></a></div>
+<ul class="structural"><li><div class="toc-item"><a href="introElectricty-electrical-safety.html" class="internal"><span class="codenumber">5.1</span> <span class="title">Electrical Safety</span></a></div></li></ul>
+</li>
+<li>
+<div class="toc-item"><a href="piping-systems.html" class="internal"><span class="codenumber">6</span> <span class="title">Piping Systems</span></a></div>
+<ul class="structural">
+<li><div class="toc-item"><a href="piping-systems-pipe.html" class="internal"><span class="codenumber">6.1</span> <span class="title">Pipe</span></a></div></li>
+<li><div class="toc-item"><a href="piping-systems-valves.html" class="internal"><span class="codenumber">6.2</span> <span class="title">Valves</span></a></div></li>
+<li><div class="toc-item"><a href="piping-systems-pumps.html" class="internal"><span class="codenumber">6.3</span> <span class="title">Pumps</span></a></div></li>
+<li><div class="toc-item"><a href="piping-systems-process-and-instrument-diagrams.html" class="internal"><span class="codenumber">6.4</span> <span class="title">Process and Instrument Diagrams</span></a></div></li>
+</ul>
+</li>
+<li><div class="toc-item"><a href="steam-power.html" class="internal"><span class="codenumber">7</span> <span class="title">Steam Power</span></a></div></li>
+<li><div class="toc-item"><a href="diesel-power.html" class="internal"><span class="codenumber">8</span> <span class="title">Diesel Power</span></a></div></li>
+<li>
+<div class="toc-item"><a href="Electric-power.html" class="internal"><span class="codenumber">9</span> <span class="title">Electrical Power</span></a></div>
+<ul class="structural">
+<li><div class="toc-item"><a href="Electric-power-propulsion-system.html" class="internal"><span class="codenumber">9.1</span> <span class="title">Propulsion System</span></a></div></li>
+<li><div class="toc-item"><a href="Electric-power-electrical-distribution.html" class="internal"><span class="codenumber">9.2</span> <span class="title">Electrical Distribution</span></a></div></li>
+</ul>
+</li>
+<li>
+<div class="toc-item"><a href="auxiliary-systems.html" class="internal"><span class="codenumber">10</span> <span class="title">Auxiliary Systems</span></a></div>
+<ul class="structural">
+<li><div class="toc-item"><a href="auxiliary-systems-lubrication-systems.html" class="internal"><span class="codenumber">10.1</span> <span class="title">Lubrication systems</span></a></div></li>
+<li><div class="toc-item"><a href="auxiliary-systems-fuel-oil-systems.html" class="internal"><span class="codenumber">10.2</span> <span class="title">Fuel oil systems</span></a></div></li>
+<li><div class="toc-item"><a href="auxiliary-systems-cooling-systems.html" class="internal"><span class="codenumber">10.3</span> <span class="title">Cooling Systems</span></a></div></li>
+</ul>
+</li>
+<li><div class="toc-item"><a href="refrigeration.html" class="internal"><span class="codenumber">11</span> <span class="title">Refrigeration</span></a></div></li>
+<li><div class="toc-item"><a href="fresh-water.html" class="internal"><span class="codenumber">12</span> <span class="title">Fresh Water</span></a></div></li>
+<li><div class="toc-item"><a href="sewage-treatment.html" class="internal"><span class="codenumber">13</span> <span class="title">Sewage Treatment</span></a></div></li>
+<li><div class="toc-item"><a href="TSPS.html" class="internal"><span class="codenumber">14</span> <span class="title">TS Patriot State</span></a></div></li>
+</ul></nav></div>
+<main class="ptx-main"><div id="ptx-content" class="ptx-content"><section class="subsection" id="thermodynamics-thermal-energy"><h2 class="heading hide-type">
+<span class="type">Subsection</span> <span class="codenumber">4.3.2</span> <span class="title">Thermal Energy</span>
+</h2>
+<section class="introduction" id="introduction-10"><div class="para" id="p-232">All substances are composed of molecules. The energy associated with molecules is called thermal energy. Thermal energy, like mechanical energy, exists in two stored forms and in one transitional form. The two stored forms of thermal energy are called internal potential energy, and internal kinetic energy. Thermal energy in transition is called <em class="emphasis">heat.</em>Although molecules are too small to be seen, they behave in some ways pretty much like the larger objects we considered in the discussion of mechanical energy. Molecules have energy of position (internal potential energy) because of the forces which attract molecules to each other. In this way, they are somewhat like the rock and the earth we considered before. Molecules have energy of motion (internal kinetic energy) because they are constantly in motion. Thus, the two stored forms of thermal energy-internal potential energy and internal kinetic energy-are in some ways similar to mechanical potential energy and mechanical kinetic energy, except that everything is on a smaller scale.</div></section><section class="subsubsection" id="thermodynamics-temperature"><h3 class="heading hide-type">
+<span class="type">Subsubsection</span> <span class="codenumber"></span> <span class="title">Temperature</span>
+</h3>
+<div class="para" id="p-233">You are probably already familiar with temperature, and know that we use is it to describe how hot or cold an object is, but what, exactly is it? Temperature is not energy and it’s not heat. It is simply a number related to the average kinetic energy of the molecules of a substance; the greater the average kinetic energy, the greater the temperature. Notice that temperature is not equal to the kinetic energy, just proportional to it, and temperature readings do not tell you anything directly about the potential energy of the substance.</div>
+<div class="para" id="p-234">Temperature can be measured in a variety of scales. When the temperature scale is measured up from the point where there is no molecular motion, it is known as an absolute scale, and is directly proportional to the average kinetic energy of the molecules in the substance. The Kelvin and Rankine scales are absolute scales. We normally use the Fahrenheit or Celsius scales, which are offset from the corresponding absolute scale, and so are only indirectly related to the kinetic energy.</div></section><section class="subsubsection" id="thermodynamics-internal-energy"><h3 class="heading hide-type">
+<span class="type">Subsubsection</span> <span class="codenumber"></span> <span class="title">Internal Energy</span>
+</h3>
+<div class="para" id="p-235">Although the term may be unfamiliar to you, you probably know more about <em class="emphasis">internal energy</em> than you realize. Because molecules are constantly in motion, they exert a pressure on the walls of the pipe, boiler, cylinder, or other object in which they are contained. Also, the temperature of any substance arises from, and is directly proportional to, the activity of the molecules. Therefore, every time you read thermometers and pressure gages you are finding out something about the amount of internal energy contained in the substance. High pressures and temperatures indicate that the molecules are moving rapidly and that the substance therefore has a lot of internal energy.</div>
+<div class="para" id="p-236">For most purposes, we will not need to distinguish between the two stored forms of thermal energy. Therefore, instead of referring to internal potential energy and internal kinetic energy, from now on we will simply use the term “internal energy.” By internal energy, then, we will mean the sum total of all internal energy stored in the substance or system because of the motion of the molecules and because of the forces of attraction between molecules.</div></section><section class="subsubsection" id="thermodynamics-heat"><h3 class="heading hide-type">
+<span class="type">Subsubsection</span> <span class="codenumber"></span> <span class="title">Heat</span>
+</h3>
+<div class="para" id="p-237">
+<em class="emphasis">Heat</em> is a more familiar term than internal energy, but may actually be more difficult to define correctly. The important thing to remember is that heat is <em class="emphasis">thermal energy in transition</em> - that is, it is thermal energy that is moving from one substance or system to another.</div>
+<div class="para" id="p-238">An example will help to illustrate the difference between heat and internal energy. Suppose there are two equal lengths of pipe made of identical materials and containing steam at the same pressure and temperature. One pipe is well insulated; the other is not insulated at all. From everyday experience you know that more heat will flow from the uninsulated pipe than from the insulated pipe. When the two pipes are first filled with steam, the steam in one pipe contains exactly as much internal energy as the steam in the other pipe. We know this is true because the two pipes contain equal volumes of steam at the same pressure and at the same temperature. After a few minutes, the steam in the uninsulated pipe will contain much less internal energy than the steam in the insulated pipe, as we can tell by measuring the pressure and the temperature of the steam in each pipe. What has happened? Stored thermal energy - internal energy - has moved from one system to another, first from the steam to the pipe, then from the uninsulated pipe to the air. This movement or flow of thermal energy from one system to another is called heat.</div>
+<div class="para" id="p-239">A good deal of confusion exists concerning the use of the word “heat.” For example, you will hear people say that a hot object “contains” a lot of heat when they really mean that it contains a lot of internal energy. Or you will hear that heat is “added to” or “removed from” a substance. Since heat is the flow of thermal energy, it can no more be added to a substance than the flow of water could be added to a river. (You might add water, and this addition might increase the flow; but you could hardly say that you had added flow.) The only kind of thermal energy that can in any sense be added to or removed from a substance is internal energy. The distinction between heat and internal energy must be clear in your own mind before you can understand the basic principles of a steam plant. Remember, steam contains internal energy but it does not “contain heat.” Heat exists when the internal energy flows from the steam to something else (another substance or system).</div></section><section class="subsubsection" id="thermodynamics-enthalpy"><h3 class="heading hide-type">
+<span class="type">Subsubsection</span> <span class="codenumber"></span> <span class="title">Enthalpy</span>
+</h3>
+<div class="para" id="p-240">When discussing a system involving work and heat, such as a boiler and turbine, you may hear the term <em class="emphasis">enthalpy.</em> Enthalpy is a thermodynamic quantity defined as the sum of internal energy and the work done by the substance to move its surroundings out of the way as it moves or expands, known as “flow work.” One consequence of this definition is that when heat flows into a substance at constant pressure, its enthalpy increases by the amount of heat energy added. This is why enthalpy is sometimes described as the “heat content” of a substance. Remember that heat is energy in transition, and is never stored so no substance ever really “contains” heat.</div></section><section class="subsubsection" id="thermodynamics-units-of-measurement"><h3 class="heading hide-type">
+<span class="type">Subsubsection</span> <span class="codenumber"></span> <span class="title">Units of Measurement</span>
+</h3>
+<div class="para" id="p-241">In engineering, temperature is commonly measured in degrees Fahrenheit. In this scale, the boiling point of water at atmospheric pressure is designated 212°, and the freezing point is 32° with 180 equal degrees between. When working in the metric system, the Celsius scale is used. The Celsius scale (sometimes called the centigrade scale) uses zero as the freezing point of water and 100° as its boiling point, with 100 equal divisions or degrees between.</div>
+<div class="para logical" id="p-242">
+<div class="para">To convert from Celsius to Fahrenheit: multiply by 1.8 and add 32.</div>
+<div class="displaymath process-math">
+\begin{equation*}
+°\mathrm{F} = (1.8 \times °\mathrm{C}) + 32°
+\end{equation*}
+</div>
+<div class="para">The British thermal unit (BTU) is used to measure heat. Originally, 1 BTU was defined as the quantity of energy required to raise the temperature of 1 pound of water through 1° on the Fahrenheit (F) scale. A similar unit called the calorie (cal) was originally defined as the quantity of heat required to raise the temperature of 1 gram of water through 1° on the Celsius (C) scale. The BTU and calorie are still in use, but the original definitions have been abandoned by international agreement. These units are now defined in terms of the unit of energy called the “joule.” By definition, 1 BTU is equal to 1054.886 joules, and 1 cal is equal to 4.18605 joules. As may be seen, the BTU is a much larger unit than the calorie; 1 BTU is equal to approximately 252 cal.</div>
+</div></section><section class="subsubsection" id="thermodynamics-heat-transfer"><h3 class="heading hide-type">
+<span class="type">Subsubsection</span> <span class="codenumber"></span> <span class="title">Heat Transfer</span>
+</h3>
+<div class="para" id="p-243">Heat can flow from one substance to another only when a temperature difference exists. Heat flow can occur only from a higher temperature to a lower temperature. When two objects at different temperatures are placed in contact with each other (or near each other), heat flows from the warmer object to the cooler one until both are at the same temperature. Heat transfer occurs at a faster rate when there is a larger temperature difference between the two objects. As the temperature difference approaches zero, the rate of heat transfer approaches zero.</div>
+<div class="para" id="p-244">Conduction, radiation, and convection are usually considered to be the three methods by which heat transfer can occur. It is more accurate, however, to consider conduction and radiation as the two basic methods of heat transfer and to consider convection separately as a special process which involves movement within a mass of fluid.</div>
+<section class="paragraphs" id="paragraphs-30"><h4 class="heading"><span class="title">Conduction.</span></h4> <div class="para" id="p-245">Conduction is the method by which heat flows from a hotter to a colder substance when there is physical contact between the two substances. For example, consider a cold metal bar which is held firmly against a piece of red-hot metal. In a short time, the end of the bar which is not touching the hotter metal will have become too hot to hold. We say that heat has been conducted from molecule to molecule, throughout the entire bar. The process of conduction will continue as long as there is a temperature difference between the two ends of the bar.</div></section><section class="paragraphs" id="paragraphs-31"><h4 class="heading"><span class="title">Radiation.</span></h4> <div class="para" id="p-246">Radiation is a mode of heat transfer that does not require any physical contact between the warmer substance and the cooler substance. For example, a person sitting near a hot stove is warmed by radiant heat even though the air between the person and the stove may remain cold. Similarly, radiant heat from the sun warms the earth without warming the space through which it passes.</div></section><section class="paragraphs" id="paragraphs-32"><h4 class="heading"><span class="title">Convection.</span></h4> <div class="para" id="p-247">At the molecular or sub-molecular level, heat transfer takes place through both the processes of conduction and radiation. If we use the term “heat transfer” in a somewhat different way, we may also include convection as a mode of heat transfer. However, it is important to understand the difference between convection and the basic heat transfer processes of conduction and radiation.</div> <div class="para" id="p-248">If we put a hot brick into a wheelbarrow and wheel it across the street, we have in one sense “transferred” heat. However, any heat transfer that takes place between the brick and its surroundings while we are wheeling it across the street will be by conduction and by radiation. Therefore, it would really be more accurate to say that we have “transported” the brick and all its contained thermal energy from one side of the street to the other.</div> <div class="para" id="p-249">Convection occurs only in fluids – liquids, gases, and vapors – not in solids, such as the brick we have just transported in the wheelbarrow. Convection is the transportation or movement of some portions of a fluid within the total mass of the fluid. As this movement occurs, the moving portions of the fluid transfer their contained thermal energy from one part of the fluid to another. The effect of convection is thus to mix the various portions of the fluid; the part that was at the bottom of the container may move to the top, or the part that was at one side may move to the other side. As this mixing takes place, heat transfer occurs from one part of the fluid to another and between the fluid and its surroundings. But this heat transfer, like any other heat transfer, takes place by conduction and by radiation. In other words, convection transports portions of the fluid; conduction and radiation transfer the thermal energy.</div> <div class="para" id="p-250">Convection serves a vital purpose in bringing the different parts of the fluid into close contact so that heat transfer can occur. Without convection, there can be little heat transfer from or within fluids. Most fluids are poor conductors of heat when they are not in motion.</div> <div class="para" id="p-251">What causes this transportation of a mass of fluid? In the case of <em class="emphasis">natural convection</em>, the movement is caused by differences in the density of different parts of the fluid. The differences in density are usually caused by unequal temperatures within the mass of fluid. For example, as the air over a hot radiator is heated, it becomes less dense and therefore begins to rise. Cooler, heavier air is drawn in to replace the heated air, and convection currents are thus setup. Another example of natural convection is the circulation of water in a natural circulation boiler. As the water in the generating tubes is heated, it expands and becomes much lighter (less dense) than the cooler water in the downcomers. Therefore the hotter and lighter water rises, while the cooler and heavier water flows downward. The resulting circulation of water in the boiler is thus clearly an example of convection currents established by differences in temperature (and therefore differences in density) in various parts of the fluid.</div> <div class="para" id="p-252">In the case of <em class="emphasis">forced convection</em>, some mechanical device such as a pump or a fan produces the movement of the fluid. When the main feed pump moves feedwater toward the boiler, the water is transported by forced convection. The flow of combustion gases through a boiler is partly by natural convection and partly by forced convection. Natural convection occurs because the gases of combustion are hotter and lighter than air, so they tend to rise and go up the stack. Forced convection is also involved in this process, however, because the forced draft blowers supply an air pressure which increases the rate at which the combustion gases travel across the tubes and up the stack. When you stir a cup of hot coffee, you are forcing convection and thus increasing the rate of heat transfer. Natural convection currents would be set up in the coffee if you did not stir it, because differences in density would occur as some portions of the coffee cooled before others. If you want to cool the coffee rapidly, use forced convection (stirring). If you do not want it to cool so rapidly, wait for natural convection to do the job.</div> <div class="para" id="p-253">In summary, then, we use the term convection to describe the transportation, or loosely, the “heat transfer” of a mass of fluid and its contained thermal energy. However, the processes by which any substance gains or loses thermal energy are most accurately described in terms of conduction and radiation.</div></section></section><section class="subsubsection" id="thermodynamics-sensible-heat-and-latent-heat"><h3 class="heading hide-type">
+<span class="type">Subsubsection</span> <span class="codenumber"></span> <span class="title">Sensible Heat and Latent Heat</span>
+</h3>
+<div class="para" id="p-254">The terms <em class="emphasis">sensible heat</em> and <em class="emphasis">latent heat</em> are often used to indicate the effect that the flow of heat has on a substance. The flow of heat from one substance to another is normally reflected in a temperature change in each substance-the hotter substance becomes cooler; the cooler substance becomes hotter. However, the flow of heat is not reflected in a temperature change in a substance that is in the process of changing from one physical state (solid, liquid, or gas) to another. When the flow of heat is reflected in a temperature change, we say that sensible heat has been added to or removed from the substance. When the flow of heat is not reflected in a temperature change but is reflected in the changing physical state of a substance, we say that latent heat has been added or removed.</div>
+<div class="para" id="p-255">Does anything bother you in this last paragraph? It should. Here we are, talking about adding and removing heat. And, furthermore, we are talking about sensible heat and latent heat as though we had two different kinds of heat to consider. As noted before, this is common (if inaccurate) engineering language. So keep the following points clear in your mind: (1) heat is the flow of thermal energy; (2) when we talk about adding and removing heat, we mean that we are providing temperature differentials so that thermal energy can flow from one substance to another; and (3) when we talk about sensible heat and latent heat, we are talking about two different kinds of effects that can be produced by heat, but not about two different kinds of heat.</div>
+<div class="para" id="p-256">The three basic physical states of all matter are <em class="emphasis">solid,</em> <em class="emphasis">liquid,</em> and <em class="emphasis">gas</em> (or vapor). The physical state of a substance is closely related to the distance between molecules. The molecules are closest together in solids, farther apart in liquids, and farthest apart in gases. When the flow of heat to a substance is not reflected in a temperature change, we know that the energy is being used to increase the distance between the molecules of the substance and thus to change it from a solid to a liquid or from a liquid to a gas. Such a change is known as a <em class="emphasis">phase change</em>. You might say that latent heat is the energy price that must be paid for a change of state from solid to liquid or from liquid to gas. The energy is not lost; rather, it is stored in the substance as internal energy. The energy price is “repaid,” so to speak, when the substance changes back from gas to liquid or from liquid to solid.</div>
+<figure class="figure figure-like" id="LatentHeat_png"><div class="image-box" style="width: 75%; margin-left: 12.5%; margin-right: 12.5%;"><img src="external/pics/thermo/LatentHeat.png" class="contained"></div>
+<figcaption><span class="type">Figure</span><span class="space"> </span><span class="codenumber">4.3.1<span class="period">.</span></span><span class="space"> </span>Phase Changes</figcaption></figure><div class="para" id="p-257">
+<a href="" class="xref" data-knowl="./knowl/LatentHeat_png.html" title="Figure 4.3.1">Figure 4.3.1</a> shows the relationship between sensible heat and latent heat for one substance, water, at atmospheric pressure. The same kind of chart could be drawn up for other substances; however, different amounts of thermal energy would of course be required for each change of temperature and for each change of physical state.</div>
+<div class="para" id="p-258">If we start with 1 pound of ice at 0 °F, we must add 16 BTU in order to raise the temperature of the ice to 32 °F. We call this adding sensible heat. To change the pound of ice at 32 °F to a pound of water at 32 °F, we must add 144 BTU (the <em class="emphasis">latent heat of fusion</em>). There will be no change in temperature while the ice is melting. After all the ice has melted, however, the temperature of the water will be raised as additional heat is supplied. If we add 180 BTU that is, 1 BTU for each degree of temperature between 32 °F and 212 °F the temperature of the water will be raised to the boiling point. To change the pound of water at 212 °F, to a pound of steam at 212 °F, we must add 970 BTU (the <em class="emphasis">latent heat of vaporization</em>). After all the water has been converted to steam, the addition of more heat will cause an increase in the temperature of the steam. If we add approximately 42 BTU to the pound of steam which is at 212 °F, we can superheat it to 300 °F.</div>
+<div class="para" id="p-259">The same relationships apply when heat is being removed. The removal of 42 BTU from the pound of steam which is at 300 °F will cause the temperature to drop to 212 °F. As the pound of steam at 212 °F changes to a pound of water at 212 °F, 970 BTU are given off. When a substance is changing from a gas or vapor to a liquid, we usually use the term <em class="emphasis">latent heat of condensation</em> for the heat that is given off. Notice, however, that the latent heat of condensation is exactly the same as the latent heat of vaporization. Only the terms differ to indicate whether a substance is being changed into a liquid or into a gas. The removal of another 180 BTU of sensible heat will lower the temperature of the pound of water from 212 °F to 32 °F. As the pound of water at 32 °F changes to a pound of ice at 32 °F 144 BTU are given off without any accompanying change of temperature. Further removal of heat causes the temperature of the ice to decrease.</div></section><section class="subsubsection" id="thermodynamics-specific-heat"><h3 class="heading hide-type">
+<span class="type">Subsubsection</span> <span class="codenumber"></span> <span class="title">Specific Heat</span>
+</h3>
+<div class="para" id="p-260">In the discussion of sensible heat and latent heat, you may have noticed that it takes only 16 BTU to raise the temperature of 1 pound of ice from 0 °F to 32 °F that is, only 1/2 BTU for each degree of rise in temperature. However, we know that it takes 1 BTU (on the average) to raise the temperature of the same amount of water 1 °F. This difference occurs because the <em class="emphasis">specific heat</em> of water is about twice the specific heat of ice.</div>
+<div class="para" id="p-261">Specific heat is a thermal property of matter that must be determined experimentally for each substance. In general, we may say that specific heat is the property of matter; this explains the reason that equal quantities of thermal energy added to two different substances will not necessarily produce the same temperature rise, even when no change of state is involved. The specific heat of a substance is defined as the quantity of heat required to raise the temperature of unit mass of the substance 1 °F. For most engineering applications, specific heat is expressed in BTU per pound per degree Fahrenheit. In metric systems of measurement, specific heat is expressed in calories per gram per degree Celsius. Even though the units of measurement are different in the different systems, the <em class="emphasis">numerical value</em> of specific heat for any given substance is the same in all systems. The specific heat of water is 1.00 in all systems.</div></section></section></div>
+<div class="ptx-content-footer">
+<a class="previous-button button" href="thermodynamics-mechanical-energy.html" title="Previous"><span class="icon">&lt;</span><span class="name">Prev</span></a><a class="top-button button" href="#" title="Top"><span class="icon">^</span><span class="name">Top</span></a><a class="next-button button" href="thermodynamics-energy-transformations.html" title="Next"><span class="name">Next</span><span class="icon">&gt;</span></a>
+</div></main>
+</div>
+<div class="ptx-page-footer">
+<a class="pretext-link" href="https://pretextbook.org"><div class="name">Authored in PreTeXt</div>
+<div class="logo"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="338 3000 8772 6866"><g style="stroke-width:.025in; stroke:black; fill:none"><polyline points="472,3590 472,9732 " style="stroke:#000000;stroke-width:174; stroke-linejoin:miter; stroke-linecap:round; "></polyline><path style="stroke:#000000;stroke-width:126;stroke-linecap:butt;" d="M 4724,9448 A 4660 4660  0  0  1  8598  9259 "></path><path style="stroke:#000000;stroke-width:174;stroke-linecap:butt;" d="M 4488,9685 A 4228 4228  0  0  0  472  9732 "></path><path style="stroke:#000000;stroke-width:126;stroke-linecap:butt;" d="M 4724,3590 A 4241 4241  0  0  1  8598  3496 "></path><path style="stroke:#000000;stroke-width:126;stroke-linecap:round;" d="M 850,3496 A 4241 4241  0  0  1  4724  3590 "></path><path style="stroke:#000000;stroke-width:126;stroke-linecap:round;" d="M 850,9259 A 4507 4507  0  0  1  4724  9448 "></path><polyline points="5385,4299 4062,8125 " style="stroke:#000000;stroke-width:300; stroke-linejoin:miter; stroke-linecap:round; "></polyline><polyline points="8598,3496 8598,9259 " style="stroke:#000000;stroke-width:126; stroke-linejoin:miter; stroke-linecap:round; "></polyline><polyline points="850,3496 850,9259 " style="stroke:#000000;stroke-width:126; stroke-linejoin:miter; stroke-linecap:round; "></polyline><polyline points="4960,9685 4488,9685 " style="stroke:#000000;stroke-width:174; stroke-linejoin:miter; stroke-linecap:round; "></polyline><polyline points="3070,4582 1889,6141 3070,7700 " style="stroke:#000000;stroke-width:300; stroke-linejoin:miter; stroke-linecap:round; "></polyline><polyline points="6418,4582 7600,6141 6418,7700 " style="stroke:#000000;stroke-width:300; stroke-linejoin:miter; stroke-linecap:round; "></polyline><polyline points="8976,3590 8976,9732 " style="stroke:#000000;stroke-width:174; stroke-linejoin:miter; stroke-linecap:round; "></polyline><path style="stroke:#000000;stroke-width:174;stroke-linecap:butt;" d="M 4960,9685 A 4228 4228  0  0  1  8976  9732 "></path></g></svg></div></a><a class="runestone-link" href="https://runestone.academy"><div class="name">Powered by Runestone</div>
+<img class="logo" title="Powered by Runestone" src="https://runestone.academy/runestone/static/rectangle_badge.png" alt="Powered by Runestone"></a><a class="mathjax-logo" href="https://www.mathjax.org"><img title="Powered by MathJax" src="https://www.mathjax.org/badge/badge.gif" alt="Powered by MathJax"></a>
+</div>
+</body>
+</html>
