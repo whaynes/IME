@@ -393,6 +393,13 @@ During Compile, documents assigned the “Front Matter” section type will be l
             <Title>Fire </Title>
             <Text>Fire aboard ship is an ever-present threat that can swiftly escalate into a catastrophic disaster. With limited means of escape, a ship becomes a confined space where flames can spread rapidly, fueled by combustible materials and confined by its structure. 
 The close quarters, complex layout, and intricate ventilation systems aboard ship create formidable challenges for the ship’s small firefighting team. In addition to the immediate threat to human lives, a shipboard fire poses a significant risk to the environment, as toxic smoke, potential oil spills, and the release of hazardous substances can wreak havoc on marine ecosystems. 
+
+&lt;figure xml:id="Hyundai_Fortune"&gt;
+&lt;caption&gt;&lt;em&gt;Hyundai Fortune&lt;/em&gt; on fire 21 March 2006&lt;/caption&gt;
+&lt;image width="75%" source="pics/safety/Burning_container_ship_Hyundai_Fortune_yemin-ship-76682.jpg"&gt;
+&lt;!-- Source:  Royal Netherlands Navy, CC0, via Wikimedia Commons https://commons.wikimedia.org/wiki/File:Burning_container_ship_Hyundai_Fortune_yemin-ship-76682.jpg  --&gt;
+&lt;/image&gt;
+&lt;/figure&gt;
 Effective fire prevention measures, comprehensive emergency response plans, rigorous training, and state-of-the-art firefighting equipment are crucial in mitigating this threat and ensuring the safety of everyone on board.
 Fire prevention measures play a vital role in minimizing the risk of fire and maintaining a safe environment aboard ship. These measures encompass a range of proactive strategies aimed at preventing fires from starting or spreading. One fundamental aspect is implementing rigorous safety protocols and adhering to international standards, such as the International Maritime Organization's (IMO) regulations for fire safety.
 Some key fire prevention measures include:
@@ -498,8 +505,8 @@ In situations where the safety of the ship, crew, or passengers is compromised, 
         </Document>
         <Document ID="421B2EAF-A06A-4C9D-B8EC-73AF68C0A1BC">
             <Title>Electrical Shock</Title>
-            <Text>The most immediate and dangerous hazard of electricity is electrical shock. When a person comes into contact with an electrical current, it can pass through their body, causing electrical shock. Even low-voltage shocks can lead to muscle contractions, burns, and disruption of the body's electrical signals. High-voltage shocks can result in severe burns, organ damage, and cardiac arrest.
-</Text>
+            <Text>The most immediate and dangerous hazard of electricity is electrical shock. When a person comes into contact with an electrical voltage, current can pass through their body, causing electrical shock. 
+Roughly speaking, the greater the current, the more severe the shock.  High voltage presents more danger than lower voltages, but even normal household voltage (120 V AC) can cause severe shock or even death.</Text>
         </Document>
         <Document ID="5B4144BB-7D07-46DE-91E9-3A4E4B4D2964">
             <Title>Valves</Title>
@@ -625,7 +632,15 @@ Since heat is measured in BTU and work is measured in foot-pounds, how can we co
             <Title>introduction</Title>
             <Text>Mechanical hazards are a physical hazards associated with machines and other movable objects that may cause harm to a person.
 Injuries caused by mechanical hazards include friction or abrasion, lacerations, cutting, severing, pinching, crushing, or entanglement of body parts. Additionally, non-mechanical hazards such as chips, splashes, and sparks can injure you or others in the area.
-Mechanical hazards can be managed by adopting safe work procedures and the application of appropriate safeguards. As such, you should always wear appropriate PPE, follow the machine’s operating instructions, and ensure that all machine safety features and guards are in place. Be aware that some machines may start automatically at any time, so take appropriate precautions including de-energizing and locking out machinery before working on it.</Text>
+&lt;figure xml:id="machine-safety"&gt;
+&lt;caption&gt;Rotating Shaft Hazard Sign&lt;/caption&gt;
+&lt;image width="50%" source="pics/safety/machine-safety.jpeg"&gt;
+&lt;!-- Source: https://www.compliancesigns.com --&gt;
+&lt;/image&gt;
+&lt;/figure&gt;
+
+Mechanical hazards can be managed by adopting safe work procedures and the application of appropriate safeguards. As such, you should always wear appropriate PPE, follow the machine’s operating instructions, and ensure that all machine safety features and guards are in place. Be aware that some machines may start automatically at any time, so take appropriate precautions including de-energizing and locking out machinery before working on it.
+</Text>
         </Document>
         <Document ID="06451DEA-0CFA-43B9-8AB7-0AE9080DA80A">
             <Title>System diagrams</Title>
@@ -1161,13 +1176,6 @@ Maintain Records: The ship is responsible for maintaining accurate records of sa
         <Document ID="5120A7E2-BB5A-4588-9EC2-8D931AC37F1D">
             <Title>Confined Spaces</Title>
         </Document>
-        <Document ID="CEB08A07-53DB-427C-A474-CF4D87FB2379">
-            <Title>Modes of propulsion</Title>
-            <Text>tbd</Text>
-        </Document>
-        <Document ID="8F8066D3-5174-4A50-B2FA-1FE9E1AF9AA4">
-            <Title>Crew Obligations</Title>
-        </Document>
         <Document ID="DBE5FFCE-0317-424C-993D-244C06593A02">
             <Title>exercise</Title>
             <Text>&lt;statement&gt; Machinery operating features are designed to help conserve energy. Which of the following results will not contribute to energy conservation? 
@@ -1176,6 +1184,13 @@ Maintain Records: The ship is responsible for maintaining accurate records of sa
 &lt;/choices&gt;
 </Text>
         </Document>
+        <Document ID="8F8066D3-5174-4A50-B2FA-1FE9E1AF9AA4">
+            <Title>Crew Obligations</Title>
+        </Document>
+        <Document ID="CEB08A07-53DB-427C-A474-CF4D87FB2379">
+            <Title>Modes of propulsion</Title>
+            <Text>tbd</Text>
+        </Document>
         <Document ID="4A8EA5D7-4177-46D9-BFBA-EAAA4E4FDA2F">
             <Title>Biological hazards</Title>
             <Text>In certain confined spaces, such as sewage tanks or areas with stagnant water, there may be an increased risk of exposure to bacteria, viruses, or mold, which can lead to respiratory issues, allergies, or infectious diseases.
@@ -1183,8 +1198,6 @@ Maintain Records: The ship is responsible for maintaining accurate records of sa
         </Document>
         <Document ID="EB2EC9AB-5C47-49A3-8A53-FD60DE94D62E">
             <Title>Introduction</Title>
-            <Text> 
-</Text>
         </Document>
         <Document ID="FFEFC8E2-337C-4BAA-8889-830500F847A9">
             <Title>Switchgear</Title>
@@ -1355,17 +1368,17 @@ Key components of safety management include risk assessment, safety planning, es
         <Document ID="C2380A36-D5AF-4898-AC0F-9BFF13C2CA1C">
             <Title>Pumps</Title>
         </Document>
+        <Document ID="2A19D987-EA14-4F2C-906E-9543CE575E6D">
+            <Title>ABE-C3.1 Lockout/tag-out</Title>
+        </Document>
         <Document ID="FBE7BD3C-FABB-4A00-B16A-63DF1E79C908">
             <Title>Objectives</Title>
             <Text>&lt;url href="https://weh.maritime.edu/stcw/2023/tables/35.html#ABE-C3.1" visual="ABE-C3.1"/&gt; Lockout/tag-out</Text>
         </Document>
-        <Document ID="2A19D987-EA14-4F2C-906E-9543CE575E6D">
-            <Title>ABE-C3.1 Lockout/tag-out</Title>
-        </Document>
         <Document ID="3CD03BD1-24CA-4A84-B699-27DE5B4BF51C">
             <Title>Effects of Electrical Current on the Human Body</Title>
-            <Text>The severity of an electrical shock depends on the current’s magnitude, the duration, the contact area, and the path taken by the current through the body.  In extreme cases the shock causes failure of the normal action of the heart and lungs resulting in unconsciousness or death.
-The shock current received obeys Ohm’s, so high voltages are always more dangerous.  But your body resistance is equally important.  Body resistance with dry skin may be above 100,000 ohms, However, if the skin is wet or broken, the body's resistance decreases to a few thousand ohms.
+            <Text>Electrical shock occurs when current passes through the body.  The severity of the shock depends on the current’s magnitude, the duration, the contact area, and the path taken by the current through the body. 
+The shock current received obeys &lt;xref provisional="ohms-law"&gt;Ohm’s law&lt;/xref&gt;, so high voltages are always more dangerous.  But your body resistance is equally important.  Body resistance with dry skin may be above 100,000 ohms, However, if the skin is wet or broken, the body's resistance decreases to a few thousand ohms.
 
 &lt;tabular halign="left" width="100%"&gt;
               &lt;col width="20%"/&gt; 
@@ -1450,9 +1463,6 @@ For most purposes, we will not need to distinguish between the two stored forms 
 A barometer is the device used to measure the pressure of the atmosphere, so the absolute pressure of the atmosphere is also known as the barometric pressure. When you hear a weather report, this is the value reported. The barometric pressure changes with weather conditions, but for most purposes aboard ship, this fact can be ignored, and we can assume that the atmospheric pressure is 14.7 psia or 760 mm Hg. at all times. Notice, however, that the figure of 14.7 pounds per square inch absolute (psia.) represents the average atmospheric pressure at sea level, and does not always represent the actual pressure being exerted by the atmosphere at the moment that a gage is being read. 
 </Text>
         </Document>
-        <Document ID="DEA1BA49-926D-4109-AA2C-F06BB049DD1C">
-            <Title>Overview of Circuits</Title>
-        </Document>
         <Document ID="5B5238CB-5F5A-4AD4-9FAD-FFF81A698AFF">
             <Title>exercise</Title>
             <Text>&lt;statement&gt; Which of the following forms of energy is demonstrated through the process of combustion? 
@@ -1460,6 +1470,9 @@ A barometer is the device used to measure the pressure of the atmosphere, so the
 &lt;choices&gt; &lt;choice correct="yes"&gt; &lt;statement&gt; Chemical energy  &lt;/statement&gt; &lt;/choice&gt; &lt;choice&gt; &lt;statement&gt; Mechanical energy  &lt;/statement&gt; &lt;/choice&gt; &lt;choice&gt; &lt;statement&gt; Thermal energy  &lt;/statement&gt; &lt;/choice&gt; &lt;choice&gt; &lt;statement&gt; Electrical energy  &lt;/statement&gt; &lt;/choice&gt;
 &lt;/choices&gt;
 </Text>
+        </Document>
+        <Document ID="DEA1BA49-926D-4109-AA2C-F06BB049DD1C">
+            <Title>Overview of Circuits</Title>
         </Document>
         <Document ID="6ADF611F-9DBB-4CFE-B609-901A71715EC8">
             <Title>Cooling Systems</Title>
@@ -1480,7 +1493,6 @@ A barometer is the device used to measure the pressure of the atmosphere, so the
 Common trip and fall hazards include obstructions on walkways, such as cables, tools, or equipment left in pathways. Uneven surfaces, loose gratings, and obstructions, can also contribute to tripping incidents. Additionally, poor lighting, cluttered work areas, improper storage of materials, and inadequate lighting can increase the risk of trips and falls.  
 Spilled liquids, oils, or water can make surfaces extremely slippery. Wet surfaces due to cleaning or maintenance activities, and the presence of loose debris are additional factors that can contribute to slip incidents.
 Falls can be particularly dangerous when you are working at above the ground, such as on a ladder, scaffolding or staging.
-Falling objects such as tools, equipment, materials, or debris can potentially cause serious injuries or fatalities.  When tools and are stored haphazardly or left unsecured, they are susceptible to falling on someone. 
 Aboard ship, additional hazards exist due to the dynamic and often wet environment. Obstructions such as hatch combings, pad-eyes and container hold-downs can cause individuals to trip. Slip hazards arise from seawater or rainwater on deck surfaces, spilled liquids in galley areas, or lubricants used for machinery maintenance.  In rough seas, the motion of the ship can cause unsecured objects to fall, or cause you to lose your balance and fall. You must be particularly careful when working at heights or over the side. Always follow the old adage, “one hand for the ship and one hand for yourself.</Text>
         </Document>
         <Document ID="D6E37E3D-2D0B-4AED-B36B-AE61FCC04867">
@@ -1569,9 +1581,6 @@ You can easily tell if you should be wearing hearing protection. If you find you
         <Document ID="54359550-33A9-48E9-98E0-C143B6E9506E">
             <Title>AC Three phase power</Title>
         </Document>
-        <Document ID="66E78489-5E26-4645-B3E5-EE2B8D9CB779">
-            <Title>Fire Prevention Measures</Title>
-        </Document>
         <Document ID="4C265676-35F7-47B2-9D79-DFF21E79CFCF">
             <Title>exercise</Title>
             <Text>&lt;statement&gt; Heat which brings about a change in the physical state of a substance without a change in temperature, is called ______. 
@@ -1579,6 +1588,9 @@ You can easily tell if you should be wearing hearing protection. If you find you
 &lt;choices&gt; &lt;choice&gt; &lt;statement&gt; specific heat  &lt;/statement&gt; &lt;/choice&gt; &lt;choice&gt; &lt;statement&gt; sensible heat  &lt;/statement&gt; &lt;/choice&gt; &lt;choice correct="yes"&gt; &lt;statement&gt; latent heat  &lt;/statement&gt; &lt;/choice&gt; &lt;choice&gt; &lt;statement&gt; ambient heat  &lt;/statement&gt; &lt;/choice&gt;
 &lt;/choices&gt;
 </Text>
+        </Document>
+        <Document ID="66E78489-5E26-4645-B3E5-EE2B8D9CB779">
+            <Title>Fire Prevention Measures</Title>
         </Document>
         <Document ID="736C0DE4-8179-405D-ACE3-C43ABC28C9B8">
             <Title>Types of Eye Protection</Title>
@@ -1603,6 +1615,9 @@ The main advantage of safety glasses is that they are lightweight and relatively
 
 </Text>
         </Document>
+        <Document ID="A30B3C69-C741-4C8D-BB24-90C253FB20D6">
+            <Title>conclusion</Title>
+        </Document>
         <Document ID="416DB2BB-CAF6-4CAA-BD38-12B589E1BB1B">
             <Title>introduction</Title>
             <Text>A confined space is defined by OSHA as a space that has limited or restricted means of entry, is not designed for continuous occupancy, and is large enough and configured so that a person can enter the space and maneuver well enough to perform tasks.  
@@ -1619,9 +1634,6 @@ Here are some hazards associated with confined spaces:</Text>
         </Document>
         <Document ID="EBE74B50-0022-4566-B284-A0A024296210">
             <Title>ABE-A9.1 Electrical isolation procedures</Title>
-        </Document>
-        <Document ID="A30B3C69-C741-4C8D-BB24-90C253FB20D6">
-            <Title>conclusion</Title>
         </Document>
         <Document ID="BA0FA56C-C2AC-4652-8205-C47CE261A96D">
             <Title>objectives</Title>
