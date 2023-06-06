@@ -6,13 +6,7 @@
 -->
 <project>
   <targets>
-    <target name="all">
-      <format>html</format>
-      <source>source/book.ptx</source>
-      <publication>publication/publication.ptx</publication>
-      <output-dir>output/web</output-dir>
-    </target>
-    
+
     <!-- To build this target, run `pretext build web` -->
     <target name="web">
       <format>html</format>
