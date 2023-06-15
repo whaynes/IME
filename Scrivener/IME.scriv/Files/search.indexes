@@ -41,6 +41,16 @@ Arc blast, on the other hand, refers to the high-pressure shockwave produced by 
         </Document>
         <Document ID="0D67A96B-1BF5-4948-BB9A-825975916906">
             <Title>One Line Diagram</Title>
+            <Text>An overview of the electric propulsion system of the Patriot State II is shown below in &lt;xref ref="propulsion_system"/&gt;.
+Electrical power for both propulsion and ship’s services is produced by four Hyundai HSJ9 913-08P diesel driven generators.    These are 6600 Volt, three-phase AC synchronous generators capable of producing up to 4053 kW at 80% power factor, or 5066.25 kVA. 
+Generators 1 and 2 are located in engineroom 1 and directly supply main switchboard No.1 , and generators 3 and 4 are located in engine room 2 and supply main switchboard No. 2.  The switchboards can be split or cross-connected as necessary for emergency operations.
+
+&lt;figure xml:id="propulsion_system"&gt;
+&lt;caption&gt;Propulsion System One Line Diagram  &lt;/caption&gt;
+&lt;image width="100%" source="pics/electric-propulsion/propulsion_system"/&gt;
+&lt;!-- Source:  P1206 EMPIRE STATE MACHINERY MANUAL  FIRST DRAFT MAY 2022  --&gt;
+&lt;/figure&gt;
+</Text>
         </Document>
         <Document ID="105530C1-8E65-4E5C-8558-ABBBC0E78501">
             <Title>Measurement</Title>
@@ -125,6 +135,50 @@ Maintain Documentation: The company must maintain comprehensive documentation of
         <Document ID="61AE1694-8DF6-44E3-A7EB-61F20EDA72BE">
             <Title>Pressure</Title>
         </Document>
+        <Document ID="2B434DCB-9DEC-4D8D-9365-1C0EA714565A">
+            <Title>Construction</Title>
+            <Text>Specs:
+
+The principle components  of the Hyundai HSJ9 generator are shown in &lt;xref ref="generator"/&gt; and  in exploded view &lt;xref ref="generator_exploded"/&gt;.  
+&lt;figure xml:id="generator"&gt;
+&lt;!-- Source:  P1206 EMPIRE STATE MACHINERY MANUAL  FIRST DRAFT MAY 2022   --&gt;
+&lt;caption&gt;  generator.svg  &lt;/caption&gt;
+&lt;image width="100%" source="pics/electric-propulsion/generator"/&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;The main components include: &lt;ol cols="2"&gt;
+              &lt;li&gt;Water cooled Air Cooler&lt;/li&gt;
+              &lt;li&gt;Ventilation Fan&lt;/li&gt;
+              &lt;li&gt;Stator Windings&lt;/li&gt;
+              &lt;li&gt;Rotor Windings&lt;/li&gt;
+              &lt;li&gt;End Shield&lt;/li&gt;
+              &lt;li&gt;Shaft&lt;/li&gt;
+              &lt;li&gt;Drive End Bearing&lt;/li&gt;
+              &lt;li&gt;Main Stator Core&lt;/li&gt;
+              &lt;li&gt;Main Rotor Core&lt;/li&gt;
+              &lt;li&gt;Rotating Rectifier&lt;/li&gt;
+              &lt;li&gt;Rectifier Leads&lt;/li&gt;
+              &lt;li&gt;Non-Drive End Bearing&lt;/li&gt;
+              &lt;li&gt;Pilot Generator Rotor&lt;/li&gt;
+              &lt;li&gt;Pilot Generator Stator&lt;/li&gt; 
+              &lt;li&gt;End Shield&lt;/li&gt;
+              &lt;li&gt;Exciter Rotor&lt;/li&gt;
+              &lt;li&gt;Exciter Stator&lt;/li&gt;
+              &lt;li&gt;Exciter Equipment&lt;/li&gt;
+              &lt;li&gt;Current Transformer&lt;/li&gt;
+              &lt;li&gt;Pilot Rectifier Assembly&lt;/li&gt;
+              &lt;li&gt;Rectifier Cover&lt;/li&gt;
+            &lt;/ol&gt;
+          &lt;/p&gt;
+
+&lt;figure xml:id="generator_exploded"&gt;
+&lt;!-- Source: DV951E001_MAIN ALTERNATOR_OPERATION MANUAL_ALTERNATOR --&gt;
+&lt;caption&gt; Generator Exploded View &lt;/caption&gt;
+&lt;image width="100%" source="pics/electric-propulsion/generator_exploded.png"/&gt;
+&lt;/figure&gt;
+
+</Text>
+        </Document>
         <Document ID="AC727B80-F58D-4AFB-8E1C-58B68F5F1864">
             <Title>Heat Exchangers</Title>
         </Document>
@@ -144,7 +198,8 @@ Series Circuit: In a series circuit, the components are connected in a single pa
 
 Parallel Circuit: In a parallel circuit, the components are connected in multiple paths, allowing the current to divide and flow through different branches simultaneously. Each component in a parallel circuit has the same voltage across it. The total current in the circuit is divided among the branches based on the resistance of each branch. If one component fails or is disconnected in a parallel circuit, the current can still flow through the remaining branches.
 
-In summary, a series circuit has components connected in a single path with the same current flowing through each component, while a parallel circuit has components connected in multiple paths, allowing current to divide among the branches.</Text>
+In summary, a series circuit has components connected in a single path with the same current flowing through each component, while a parallel circuit has components connected in multiple paths, allowing current to divide among the branches.
+</Text>
         </Document>
         <Document ID="9A3EABF7-24EA-49E5-9CFF-473DF220E1B0">
             <Title>Introduction</Title>
@@ -247,6 +302,10 @@ Here are some of the main hazards associated with electricity:</Text>
         <Document ID="035DE2A7-1ACC-4405-AEE4-D801944E40A4">
             <Title>Construction</Title>
         </Document>
+        <Document ID="0EB86D09-DFFF-4C1A-B44A-482746F9903E">
+            <Title>Economical Part-Load Operation</Title>
+            <Text>By employing multiple generators operating in parallel, ships can secure one or more engines under reduced load conditions. The remaining engines can then operate at nearly full load, resulting in improved efficiency compared to having more engines operating at part-load. Load management systems continuously monitor the electrical demand and promptly initiate the startup of an additional generator when necessary.</Text>
+        </Document>
         <Document ID="2396AEC7-B4DC-4946-BA72-5A07420AA072">
             <Title>TS Patriot State</Title>
         </Document>
@@ -259,6 +318,9 @@ Here are some of the main hazards associated with electricity:</Text>
         </Document>
         <Document ID="E030D0A8-F9A4-431A-97FB-7DC2FC3EF35B">
             <Title>Energy Management System</Title>
+        </Document>
+        <Document ID="5D5A82B5-5C9C-4541-9459-3FD7FF88F526">
+            <Title>Drive Train</Title>
         </Document>
         <Document ID="B6E868E9-CB19-4934-838C-1FF5CD2B7131">
             <Title>Electrical Machinery</Title>
@@ -322,6 +384,10 @@ The permit to work system is designed to prevent accidents, injuries, and damage
         <Document ID="A6A9868B-5EED-4215-8962-55E54E65ECD4">
             <Title>Maintain Cleanliness and Organization</Title>
             <Text>Keep your work area clean, organized, and free of clutter. Properly stow tools and equipment after use to prevent trip hazards. Promptly clean up any spills or debris to maintain a safe working environment.</Text>
+        </Document>
+        <Document ID="43E26F08-B89F-476C-A58A-6A21D3438890">
+            <Title>Efficient operation</Title>
+            <Text>Electric propulsion systems enable both the prime mover and the propeller to operate at their optimal speeds, eliminating the need for reduction gears. Typically, medium speed diesel engines are coupled with low-speed motors and propellers. The speed reduction is accomplished by selecting the appropriate number of motor poles, and the shaft speed (RPM) is established by adjusting the electrical frequency to the motor. This setup allows each component to operate within its most efficient range, maximizing overall energy efficiency and reducing fuel consumption.</Text>
         </Document>
         <Document ID="3F770F4B-2E9C-45FE-91DC-1F0529095F9C">
             <Title>Units </Title>
@@ -393,13 +459,6 @@ During Compile, documents assigned the “Front Matter” section type will be l
             <Title>Fire </Title>
             <Text>Fire aboard ship is an ever-present threat that can swiftly escalate into a catastrophic disaster. With limited means of escape, a ship becomes a confined space where flames can spread rapidly, fueled by combustible materials and confined by its structure. 
 The close quarters, complex layout, and intricate ventilation systems aboard ship create formidable challenges for the ship’s small firefighting team. In addition to the immediate threat to human lives, a shipboard fire poses a significant risk to the environment, as toxic smoke, potential oil spills, and the release of hazardous substances can wreak havoc on marine ecosystems. 
-
-&lt;figure xml:id="Hyundai_Fortune"&gt;
-&lt;caption&gt;&lt;em&gt;Hyundai Fortune&lt;/em&gt; on fire 21 March 2006&lt;/caption&gt;
-&lt;image width="75%" source="pics/safety/Burning_container_ship_Hyundai_Fortune_yemin-ship-76682.jpg"&gt;
-&lt;!-- Source:  Royal Netherlands Navy, CC0, via Wikimedia Commons https://commons.wikimedia.org/wiki/File:Burning_container_ship_Hyundai_Fortune_yemin-ship-76682.jpg  --&gt;
-&lt;/image&gt;
-&lt;/figure&gt;
 Effective fire prevention measures, comprehensive emergency response plans, rigorous training, and state-of-the-art firefighting equipment are crucial in mitigating this threat and ensuring the safety of everyone on board.
 Fire prevention measures play a vital role in minimizing the risk of fire and maintaining a safe environment aboard ship. These measures encompass a range of proactive strategies aimed at preventing fires from starting or spreading. One fundamental aspect is implementing rigorous safety protocols and adhering to international standards, such as the International Maritime Organization's (IMO) regulations for fire safety.
 Some key fire prevention measures include:
@@ -470,7 +529,27 @@ The most common scale used on vacuum gages aboard ship display vacuum in inches 
 </Text>
         </Document>
         <Document ID="08A84778-8F8D-4216-987B-4F3335C94084">
-            <Title>Variable Frequency Drives</Title>
+            <Text>principle of operation
+power electronics
+pulse width modulation
+
+&lt;figure xml:id="propulsion_converter_schematic"&gt;
+&lt;!-- Source:  P1206 EMPIRE STATE MACHINERY MANUAL  FIRST DRAFT MAY 2022 --&gt;
+&lt;caption&gt; Propulsion Frequency Converter Schematic &lt;/caption&gt;
+&lt;image width="100%" source="pics/electric-propulsion/propulsion_converter_schematic"/&gt;
+&lt;/figure&gt;
+
+&lt;figure xml:id="propulsion_converter"&gt;
+&lt;!-- Source:  P1206 EMPIRE STATE MACHINERY MANUAL  FIRST DRAFT MAY 2022 --&gt;
+&lt;caption&gt; Propulsion Frequency Converter &lt;/caption&gt;
+&lt;image width="100%" source="pics/electric-propulsion/propulsion_converter"/&gt;
+&lt;/figure&gt;
+
+&lt;figure xml:id="MV7000_internal"&gt;
+&lt;!-- Source: GEA30737C MV7000 Press Pack  --&gt;
+&lt;caption&gt;  MV7000_internal.png  &lt;/caption&gt;
+&lt;image width="100%" source="pics/electric-propulsion/MV7000_internal.png"/&gt;
+&lt;/figure&gt;</Text>
         </Document>
         <Document ID="AB16E7CF-9AA4-4E22-8A05-D325663E3D1A">
             <Title>electrical mesurement</Title>
@@ -505,11 +584,449 @@ In situations where the safety of the ship, crew, or passengers is compromised, 
         </Document>
         <Document ID="421B2EAF-A06A-4C9D-B8EC-73AF68C0A1BC">
             <Title>Electrical Shock</Title>
-            <Text>The most immediate and dangerous hazard of electricity is electrical shock. When a person comes into contact with an electrical voltage, current can pass through their body, causing electrical shock. 
-Roughly speaking, the greater the current, the more severe the shock.  High voltage presents more danger than lower voltages, but even normal household voltage (120 V AC) can cause severe shock or even death.</Text>
+            <Text>The most immediate and dangerous hazard of electricity is electrical shock. When a person comes into contact with an electrical current, it can pass through their body, causing electrical shock. Even low-voltage shocks can lead to muscle contractions, burns, and disruption of the body's electrical signals. High-voltage shocks can result in severe burns, organ damage, and cardiac arrest.
+</Text>
         </Document>
         <Document ID="5B4144BB-7D07-46DE-91E9-3A4E4B4D2964">
             <Title>Valves</Title>
+        </Document>
+        <Document ID="58E3BDDE-7E7C-47F6-A70A-610C4AF3AFFB">
+            <Title>GEA30737C MV7000 Press Pack</Title>
+            <Text>GE
+Power Conversion
+ MV7000
+Press Pack (PP)
+Reliable, high performance medium voltage drive
+ ecomagination
+
+ 
+The next generation of drive technology
+Benefits
+• Peak power density — our drive can deliver up to 15MW with just 18 IGBTs, which is equivalent
+to a power density of 1.5MVA/m3
+• High reliability and availability — over 14 million hours in operation across an installed base of over 15+GW
+• Power scalability with à la carte option packaging that can be adapted to a wide range of applications
+• Standard configurations for improved delivery time and reduced price
+• A full family of drives — GE is your one-stop provider with a wide portfolio of drives
+Cutting-edge power electronics technology and decades of process expertise come together in the MV7000 — a world-class water-cooled medium voltage drive suitable for a wide range of power conversion applications. Easy to install and maintain, the drive offers high reliability and availability and helps increase the uptime of critical processes. The MV7000 provides
+a flexible approach to achieve a customized solution across different applications.
+With the MV7000 PP our power conversion expertise helps increase operating efficiency, power availability, plant throughput, operational precision, and process yield. We are helping our customers meet the demands and opportunities of the new electric age.
+ The MV7000 PP belongs to GE’s wide range of drives for all applications.
+GE I MV7000 PP 3
+
+Advantages of a medium voltage variable frequency system
+Reliability &amp; availability
+The higher reliability and lower maintenance needs of a variable speed drive system compared to gearboxes and hydraulic couplings result in lower lifecycle cost.
+Short repair times thanks to optimized design also directly improve customer system availability.
+Saving energy, caring for
+the environment
+In today’s world more than ever, energy saved is energy produced. For a variety of loads, from water pumps to gas compressors, variable speed control
+offers the best way to capture energy savings.
+The introduction of variable speed drives in customers’ systems when they are upgraded directly improves efficiency, which answers to the latest regulations’ requirements.
+Precise power delivery
+In many applications, the superiority of electrical control simply cannot
+be matched by mechanical systems. Precise control of power means better outcomes, from the flatness of a steel sheet to the accuracy of offshore
+Oil &amp; Gas exploration.
+Variable frequency drives can be used in a variety of industries and applications
+ Industry sector
+Applications
+ Oil and gas
+    eLNG trains, injection compressors and pumps, gas storage, multiphase pumps, pipeline compressors
+   Marine
+    Cruise ships, LNG carriers, offshore drilling vessels, research vessels, megayachts, merchant vessels, navy support vessels
+   General and heavy industry
+     Metal rolling mills, test benches, grinders, water pumps, mine winders, crushers, ID fans, FD fans, wind turbines, static frequency converters, boiler feed pumps, STATCOM (rail, wind, utilities)
+    4 GE I MV7000 PP
+
+ MV7000 — Enhanced technology
+Key benefits
+• Peak power density
+• High reliability and availability
+• Power scalability with customizable
+options featuring:
+– Low harmonics without
+additional equipment
+– Four quadrant operation for
+regenerative applications
+– Transformerless design for
+compactness
+– Common DC bus system for energy
+savings
+– High performance process control – Visor Connect supports warranty
+with remote real-time support
+and advice
+• Front access maintenance
+Best-in-class power density
+The phase power stack is the main modular building block of the three-level inverter.
+• Compact enclosures thanks to double sided cooling of the IGBTs
+• Just 18 IGBTs at 3.3kV can deliver 15MW
+• Control hardware mounted on a slide in/out frame
+• Inverters can be mounted against walls or back to back
+• Simplifiedcoolingsystemarchitecture and gate drive power supply topology
+• Fuseless design
+Power stack
+Inverter cubicle
+  GE I MV7000 PP 5
+
+ High reliability and availability
+The MV7000 is a great example
+of a design philosophy based on minimizing component count while retaining peak performance. Press-pack IGBT (PPI) power
+devices enable:
+• The capability to limit overcurrent with
+safe turn-off under all operating and
+failure conditions
+• Case rupture-free due to pressed
+contacts and no-wire bonding Pre-charge &amp;
+• N+1 series redundancy thanks to the capability of PPI for continuous conduction under failure mode
+• Long life expectancy even under load cycling
+• Effective performance even at low motor frequency operation
+ Control Cubicle Cooling Unit
+Pre-magnetizing Diode front-end
+DC Capacitor filter
+AC Output Inverter
+       6
+GE I MV7000 PP
+Inside look at the MV7000
+
+Power scalability with customizable options
+The MV7000 PP drive comes in a standard Diode-Front-End (DFE) rectifier configuration.
+Low harmonics without additional equipment
+• Available in 12, 24 and 36-pulse configurations
+• Low levels on harmonics – IEEE 519 compliant
+• No additional filters necessary
+• Fully able to handle faults such
+as voltage dips
+• For regenerative applications, an
+active-front-end (AFE) is available
+Four quadrant operation for energy savings
+• Regeneration of the energy to the network through IGBT bridge
+• Sinusoidal input with negligible harmonics
+• Unity power factor for cable losses reduction
+• Reactive compensation on network side
+Active DC Bus Inverter Front End
+Active front-end
+Ph-Ph voltages and line currents at common point of coupling
+Rectifier
+DC Bus
+Inverter
+         NP
+  NP
+ Diode front-end
+  Output voltage and current
+GE I MV7000 PP 7
+
+Transformerless design for compactness
+The MV7000 is available in transformerless design
+• AFE with additional input filter
+to reduce line harmonics
+• Big savings in capital cost,
+installation cost and footprint
+• Increased overall system
+efficiency and reliability
+Transformerless design
+Common DC bus system for energy savings
+For multi-drive applications, a common DC link system is available
+• Shared Active-Front-End rectifier
+configuration
+• Saves energy by the redistribution of power from braking
+• Reduction in overall equipment cost, operating cost and footprint
+Active Front End
+         8 GE I MV7000 PP
+Input Filter
+Active Front End
+ DC Bus
++
+-
+NP
+Inverter
+Common DC bus system
+High performance process control
+MV7000 is equipped with a standard Power Electronics Controller (PECe)
+• Mounted on slide in/out frame for easy
+access and compactness
+• Advanced Vector Control (AVC)
+• Fast dynamic response
+• Clean, robust power delivery
+• Fully customizable
+Machine Bridge
+         
+    Anywhere
+GE PC remote engineer
+GE
+Remote Connection
+Dedicated Portal
+Customer Site
+Site Equipment
+ GE PC Global Service Operations
+Central Data Warehouse and Analytics
+Visor DMZ
+Visor Connect with Proficy historian
+Automation &amp; DP
+Drives
+Machines
+Visor Connect: Remote connection
+to equipment, monitoring and support
+Visor Connect provides secured remote connection to GE equipment (outside the control network).
+Remote connection enables GE‘s service engineers to provide real-time support, ongoing health analytics
+and key performance indicators (KPIs), as well as basic configuration management support.
+Key benefits
+• Reduce unscheduled downtime
+• Real-time support and advice
+• Customers can access GE’s
+global Services organization
+24/7, 365 days a year from anywhere in the world
+GE I MV7000 PP
+9
+
+Process control benefits
+Incoming power dip ride-through
+The MV7000 provides incoming power loss ride-through and keeps the process running without tripping.
+Under-voltage operation
+The MV7000 operates continuously and provides power to the motor at a lower input supply voltage (down to 70% of nominal voltage).
+Flying start into a spinning load
+The MV7000 offers the ability to
+catch and take control of a spinning load without any damaging torque, voltage or current impacting the equipment
+if started while the load is already spinning.
+Critical speed avoidance
+The MV7000 can be programmed for up to three critical frequency bands and ride-through these without any resonance issues.
+Independent acceleration and deceleration ramps
+The MV7000 can be programmed into the drive controls as needed for controlled starting and stopping of the load.
+ 10 GE I MV7000 PP
+High performance control
+
+ MV7000 — À la carte option packaging
+Feature suite for every application
+Standard product customizable with pre-engineered options including, but not limited to:
+• Redundant pump for cooling
+• Customizable process control
+• DB chopper
+• Communication protocols
+• Harsh environment packaging
+• Vibration and shock reinforcement • Marine-class package
+• Up and down synchronous transfer
+Motor friendly
+• Suited for synchronous induction and permanent magnet motors
+• Output waveforms reduce motor
+losses
+• Reduced motor noise and vibration
+• No significant motor shaft torque
+pulsations
+• Wide speed range with a consistent
+response
+GE I MV7000 PP 11
+
+MV7000 ratings, dimensions &amp; weights
+  Output voltage
+VFD frame size
+MV7303-3L MV7303-3L MV7306-3L MV7306-3L MV7308-3L MV7308-3L MV7310-3L MV7310-3L MV7310-5L MV7310-5L MV7312-3L MV7312-3L MV7315-3L MV7315-3L 2xMV7310-3L 2xMV7310-3L 2xMV7312-3L 2xMV7312-3L 2xMV7315-3L 2xMV7315-3L MV7507-3L* MV7507-3L* MV7515-3L*
+Rectifier Power type output
+MVA
+DFE 12p 4 AFE 4 DFE 12p 8 AFE 8
+DFE 12p 12 AFE 12 DFE 12p 11 AFE 11 DFE 12p 35 AFE 28 DFE 24p 14 AFE 14 DFE 24p 17 AFE 17 2xDFE 12p 23 AFE 17 2xDFE 24p 27 AFE 27 2xDFE 24p 35 AFE 35
+DFE 24p 8.1 AFE 7
+Output current
+A
+700
+700 1,400 1,400 2,100 2,100 2,000 1,875 2,000 1,600 2,400 2,400 3,050 3,050 4,000 3,000 4,800 4,800 6,100 6,100 900 750 1,700 1,500
+Width
+Depth
+Weight
+  inches/mm
+inches/mm
+lbs./kg
+   165/4,200
+     39/1,000
+  9,257/4,200
+   205/5,200
+     39/1,000
+  11,461/5,200
+   173/4,400
+     39/1,000
+  9,698/4,400
+   220/5,600
+     39/1,000
+  12,342/5,600
+   181/4,600
+     39/1,000
+  10,138/4,600
+   228/5,800
+     39/1,000
+  12,783/5,800
+   173/4,400
+     39/1,000
+  9,698/4,400
+   220/5,600
+     39/1,000
+  12,342/5,600
+   220/5,600
+     39/1,000
+  12,342/5,600
+   244/6,200
+     39/1,000
+  13,665/6,200
+   189/4,800
+     39/1,000
+  10,579/4,800
+   283/7,200
+     39/1,000
+  15,869/7,200
+   197/5,000
+     39/1,000
+  11,020/5,000
+   315/8,000
+     39/1,000
+  17,632/8,000
+   346/8,800
+        39/1,000
+      19,395/8,800
+                                                                                                                    3.3kV
+                                                                  441/11,200 378/9,600
+39/1,000 39/1,000
+24,685/11,200 21,158/9,600
+                                   567/14,400
+     39/1,000
+  31,738/14,400
+   394/10,000
+     39/1,000
+  22,040/10,000
+   630/16,000
+     39/1,000
+  35,264/16,000
+   331/8,400
+     55/1,400
+  18,514/8,400
+   441/11,200
+     55/1,400
+  24,685/11,200
+   339/8,600
+     55/1,400
+  18,954/8,600
+   504/12,800
+        55/1,400
+      28,211/12,800
+                                                 5.2kV
+DFE 24p 15 MV7515-3L* AFE 14
+                                    12 GE I MV7000 PP
+*N+1 redundancy Available
+Table shows the typical ratings for variable torque load applications. Please contact GE sales for constant torque applications.
+
+ MV7000 ratings, dimensions &amp; weights
+  Output voltage
+6.6kV
+8.2kV
+10kV
+11kV
+13.8kV
+VFD frame size
+MV7609-3L* MV7609-3L* MV7616-3L* MV7616-3L* MV7618-3L* MV7618-3L* MV7821-3L* MV7821-3L* MV7913-3L MV7913-3L MV7927-3L MV7927-3L 2xMV7927 3xMV7927 MV7B18-5L MV7B18-5L MV7B37-5L MV7B37-5L MV7D23-5L MV7D23-5L MV7D45-5L MV7D45-5L
+Rectifier Power type output
+Output current
+Width
+inches/mm
+331/8,400 441/11,200 339/8,600 504/12,800 339/8,600 661/16,800 465/11,800 567/14,400 425/10,800 472/12,000 465/11,800 567/14,400 929/23,600 1,394/35,400 457/11,600 On request 512/13,000 On request 449/11,400 On request 504/12,800 On request
+Depth
+inches/mm
+55/1,400 55/1,400 55/1,400 55/1,400 55/1,400 55/1,400 55/1,400 55/1,400 55/1,400 55/1,400 55/1,400 55/1,400 55/1,400 55/1,400 63/1,600 63/1,600 63/1,600 63/1,600 63/1,600 63/1,600 63/1,600 63/1,600
+Weight
+lbs./kg
+18,514/8,400 24,685/11,200 18,954/8,600 28,211/12,800 18,954/8,600 37,027/16,800 26,007/11,800 31,738/14,400 23,803/10,800 26,448/12,000 26,007/11,800 31,738/14,400 52,014/23,600 78,022/35,400 25,566/11,600 On request 28,652/13,000 On request 25,126/11,400 On request 28,211/12,800 On request
+  MVA A
+                        DFE 24p 13 AFE 11 DFE 24p 17 AFE 17 DFE 24p 23 AFE 23 DFE 36p 26 AFE 25 DFE 36p 17 AFE 17 DFE 36p 35 AFE 32 2xDFE 36p 69
+3xDFE 36p 104 DFE 24p 19
+AFE 15/19** DFE 24p 42
+AFE 30/38** DFE 36p 24
+AFE 19/24** DFE 24p 48
+AFE 38/48**
+1,100 1,000 1,500 1,500 2,000 2,000 1,800 1,750 1,000 1,000 2,000 1,875 4,000 6,000 1,100 1,000 2,200 2,000 1,000 1,000 2,000 2,000
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             *N+1 redundancy Available ** AFE/Inverter
+GE I MV7000 PP 13
+
+MV7000 drive specifications
+  Output power Output voltage Output frequency Input voltage Input frequency
+Auxiliary voltage
+Line side converter Load side inverter VFD system efficiency Power factor
+Input harmonics
+DC link
+Mode of operation Mode of control Analog input / output Digital input / output Speed regulation
+LAN interface Protective functions
+Enclosure
+Ambient / elevation Insulation coordination
+Standards
+VFD ratings
+3 – 81MW
+up to 13kV
+15-90 Hz, 0 to 15 Hz and 90 to 300Hz on request
+3 to 13.8kV ±10% for AFE Txless, 3-650kV with transformer
+50 or 60Hz ±5%
+3 phase, 400V, 440V, 480V, or 600V; 50/60Hz 1 phase, 110V, 230V, 50/60Hz
+Power quality
+DFE 12 to 36-pulse / AFE IGBT 6-pulse 3- or 5-level VSI; IGBTs
+Up to 99%
+&gt;0.96 (DFE) / 1 (AFE)
+IEEE 519 compliant
+Energy storage
+Self-healing, long life, film capacitors
+VFD control
+Four-quadrant
+Flux vector / without encoder / induction motor &amp; synchronous (option)
+(3) inputs / (3) outputs +/-10 Vdc or 4-20 mA standard
+(6) inputs / (6) outputs standard
+&lt;0.5 % without encoder and &lt;0.1 % with encoder
+Standard: Profinet, Modbus, Ethercat, IEC68150 Optional: profibus, devicenet, EGD
+Over-current, current limit, over and under-voltage, motor stall
+Environment &amp; enclosure
+IP31, standard, IP33, IP44, option, others on request 0-45oC / 1000m above sea level; higher with de-rating Pollution degree 2 per EN 61800-5-1 and EN 50178
+Industry standards
+IEC 61800-3, IEC 61800-4, IEC 61800-5, IEC 60068-2-31 (vibration) Qualification to industry-specific standards available
+Marine classification society/compliant
+                                                                                                                                                               14 GE I MV7000 PP
+
+.
+ Services from GE – a focus on availability
+We understand the vital importance of process availability – and our focus on service keeps us actively engaged, both when things are going right, and when they are going wrong.
+Our world-class Global Customer Service and Support Center is available 24/7, 365 days a year. Our strategic distribution centers and authorized distributors carry an extensive inventory of GE’s drives, allowing us to quickly fulfill your genuine replacement part needs, no matter where you are located.
+With a comprehensive global network of service engineers and technicians, GE is uniquely positioned to provide the knowledge, experience and skills for your full range of industrial service requirements. From system design to maintenance and outage support, we have the resources and capabilities to advance your equipment‘s performance and reliability. Some key benefits of GE’s support are:
+• Single point of contact
+• Reduced call-out rates
+• 24/7 availability
+• Rapid mobilization of engineers • Routine maintenance visits
+• Training
+• System health checks
+• Spares management
+• Obsolescence management
+GE also provides managed system upgrade paths for our legacy systems and has significant experience
+in replacing systems from other manufacturers with low disruption to the existing infrastructure.
+Remote support
+Visor Connect, GE’s remote diagnostic and support system, is based on highly secure satellite communications links. It enables our experts, regardless of their geographical location, to look over the shoulder of your onsite equipment operator or technician and advise
+and assist you on fault finding and resolution.
+GE I MV7000 PP 15
+
+MAIN OFFICES
+Australia
+Tel: +61 408 134 094
+Brazil
+Tel: +55 31 3268 8000
+China
+Tel: +86 177 0163 1000
+France
+Tel: +33 1 77 31 20 00
+Germany
+Tel: +49 30 7622 0
+India
+Tel: +91 44 49680000
+Korea
+Tel: +82 51 712 8000
+Russia
+Tel: +7 495 739 68 11
+Singapore
+Tel: +65 6326 3000
+UK
+Tel: +44 1788 563 563
+USA
+Tel: +1 412 967 0765
+ www.gepowerconversion.com
+© 2013-2019 General Electric Company and/or its affiliates. All rights reserved. GEA30737C MV7000 Press Pack (PP)
+</Text>
         </Document>
         <Document ID="1A2F7258-4AA2-4E28-A18E-7B845D56975F">
             <Title>Combustion Engines</Title>
@@ -547,9 +1064,6 @@ In summary, then, we use the term convection to describe the transportation, or 
             <Title>Electrocution</Title>
             <Text>In the most severe cases, electric shocks can lead to electrocution, resulting in death. High-voltage shocks can cause cardiac arrest, severe internal injuries, and other life-threatening conditions. Contact with overhead power lines, unauthorized access to electrical panels or equipment, and improper handling of live wires are some situations that can lead to fatal accidents.</Text>
         </Document>
-        <Document ID="FEF72D55-55BA-4DC5-B68E-E934BDBE09B7">
-            <Title>Principles of Thermodynamics</Title>
-        </Document>
         <Document ID="28D8EC7F-07A2-4DE3-A262-4129AAE85CBD">
             <Title>introduction</Title>
             <Text>All substances are composed of molecules. The energy associated with molecules is called thermal energy. Thermal energy, like mechanical energy, exists in two stored forms and in one transitional form. The two stored forms of thermal energy are called internal potential energy, and internal kinetic energy. Thermal energy in transition is called &lt;em&gt;heat.&lt;/em&gt;Although molecules are too small to be seen, they behave in some ways pretty much like the larger objects we considered in the discussion of mechanical energy. Molecules have energy of position (internal potential energy) because of the forces which attract molecules to each other. In this way, they are somewhat like the rock and the earth we considered before. Molecules have energy of motion (internal kinetic energy) because they are constantly in motion. Thus, the two stored forms of thermal energy-internal potential energy and internal kinetic energy-are in some ways similar to mechanical potential energy and mechanical kinetic energy, except that everything is on a smaller scale. 
@@ -574,6 +1088,10 @@ In summary, then, we use the term convection to describe the transportation, or 
         </Document>
         <Document ID="479F263D-A33A-4EFA-83C5-78A2C31C31E0">
             <Title>Electrical Power</Title>
+        </Document>
+        <Document ID="5B047FA9-144C-46BA-9DF7-343FDBD429DD">
+            <Title>Layout Flexibility</Title>
+            <Text>One notable advantage of electric propulsion is the ability to install the prime mover in any convenient location, without being restricted to a direct line with the propeller. Power is transmitted through flexible cable runs, as opposed to rigid line shafts. Furthermore, instead of relying on a single large main engine, multiple smaller engines can be used, allowing for placement in smaller spaces and more convenient locations.	</Text>
         </Document>
         <Document ID="BD9884C7-29A0-42D5-9BB4-7984A9DF7353">
             <Title>Precautions</Title>
@@ -632,15 +1150,7 @@ Since heat is measured in BTU and work is measured in foot-pounds, how can we co
             <Title>introduction</Title>
             <Text>Mechanical hazards are a physical hazards associated with machines and other movable objects that may cause harm to a person.
 Injuries caused by mechanical hazards include friction or abrasion, lacerations, cutting, severing, pinching, crushing, or entanglement of body parts. Additionally, non-mechanical hazards such as chips, splashes, and sparks can injure you or others in the area.
-&lt;figure xml:id="machine-safety"&gt;
-&lt;caption&gt;Rotating Shaft Hazard Sign&lt;/caption&gt;
-&lt;image width="50%" source="pics/safety/machine-safety.jpeg"&gt;
-&lt;!-- Source: https://www.compliancesigns.com --&gt;
-&lt;/image&gt;
-&lt;/figure&gt;
-
-Mechanical hazards can be managed by adopting safe work procedures and the application of appropriate safeguards. As such, you should always wear appropriate PPE, follow the machine’s operating instructions, and ensure that all machine safety features and guards are in place. Be aware that some machines may start automatically at any time, so take appropriate precautions including de-energizing and locking out machinery before working on it.
-</Text>
+Mechanical hazards can be managed by adopting safe work procedures and the application of appropriate safeguards. As such, you should always wear appropriate PPE, follow the machine’s operating instructions, and ensure that all machine safety features and guards are in place. Be aware that some machines may start automatically at any time, so take appropriate precautions including de-energizing and locking out machinery before working on it.</Text>
         </Document>
         <Document ID="06451DEA-0CFA-43B9-8AB7-0AE9080DA80A">
             <Title>System diagrams</Title>
@@ -1050,7 +1560,20 @@ Emergency repairs to boilers must sometimes be made before the boiler has had a 
             <Title>Energy</Title>
         </Document>
         <Document ID="AC648E15-E49E-4FFC-A1FD-4B77F10E8BDA">
-            <Title>Motors</Title>
+            <Title>Propulsion Motors</Title>
+            <Text>
+&lt;figure xml:id="propulsion_motor"&gt;
+&lt;!-- Source:  DV951E001_MAIN ALTERNATOR_OPERATION MANUAL_ALTERNATOR--&gt;
+&lt;caption&gt; Propulsion Motor &lt;/caption&gt;
+&lt;image width="100%" source="pics/electric-propulsion/propulsion_motor"/&gt;
+&lt;/figure&gt;
+
+&lt;figure xml:id="DriveTrain"&gt;
+&lt;!-- Source:  P1206 EMPIRE STATE MACHINERY MANUAL  FIRST DRAFT MAY 2022  --&gt;
+&lt;caption&gt; Drive Train  &lt;/caption&gt;
+&lt;image width="100%" source="pics/electric-propulsion/DriveTrain"/&gt;
+&lt;/figure&gt;
+</Text>
         </Document>
         <Document ID="A0F93C81-06B5-4B1B-A48A-B30F2D0811C7">
             <Title>Types of Hearing Protectors</Title>
@@ -1095,9 +1618,6 @@ Systematically analyzing and communicating job hazards and implementing appropri
         <Document ID="B9258393-07D4-4BDB-9E5B-27890F672E06">
             <Title>Introduction</Title>
             <Text>(TBD)</Text>
-        </Document>
-        <Document ID="98AB2B8D-DCDB-44ED-B650-63C8F1B6E92E">
-            <Title>Diesel Power</Title>
         </Document>
         <Document ID="543AE612-98FE-435D-8420-A65EB25AD8C6">
             <Title>exercise</Title>
@@ -1170,6 +1690,27 @@ Maintain Records: The ship is responsible for maintaining accurate records of sa
         <Document ID="628E6611-8744-42F0-B6C9-70663C1385F7">
             <Title>Arm and Hand Protection</Title>
         </Document>
+        <Document ID="FA0476F0-AA0B-49CD-9C52-1A70BBA36591">
+            <Title>Principle of operation</Title>
+            <Text>An electrical generator converts mechanical energy into electrical energy by utilizing the principle of electromagnetic induction.   Electromagnetic induction was first discovered in the early 19th century by English scientist Michael Faraday (1791 &lt;ndash/&gt; 1867) . According to Faraday's law of electromagnetic induction, a changing magnetic field induces an electric voltage in a nearby conductor. If the conductor forms a closed loop, an electric current will flow through it.
+
+A generator consists of two main components: a rotating part called the rotor and a stationary part called the stator. In a typical AC synchronous generator, the rotor carries the field windings which produce the magnetic field, and the stator carries the armature windings, where the voltage is induced. 
+A direct current (DC) is passed through the rotor's field windings to create the magnetic field.   The process of supplying electrical current to the field winding is known as excitation.  Alternately, some generators use permanent magnets to supply the magnetic field, but this has the disadvantage that the field is not adjustable.  The rotor is connected to a prime mover, such as a steam turbine or a diesel engine, and as it spins it produces a rotating magnetic field.  
+The stator consists of multiple windings arranged in a specific configuration. The rotating magnetic field interacts with the stator windings, inducing a voltage across them. If the stator winding are connected to a closed circuit containing a load like a motor or resistor, the induced voltage drives current through the circuit and transmits power to load. 
+The induced voltage is proportional to the speed of rotation and also the strength of the magnetic field, therefore the output voltage can be adjusted by controlling the excitation current. The frequency in Hz (cycles/sec) depends on the speed of rotation and the number of magnetic poles. &lt;me&gt; f = \frac{P \;n }{120}&lt;/me&gt; where &lt;ul marker = ""&gt;
+f = frequency
+n= speed 
+P = number of north/south pole pairs
+&lt;/ul&gt;&lt;/p&gt; 
+The induced voltage is typically generated at a fixed frequency, such as 60 Hz in the United States.
+To generate three-phase power, the stator is fitted with three windings arranged symmetrically, 120 degrees apart from each other. As the rotor rotates, the rotating magnetic field induces voltages into each stator winding in turn, generating three sine waves of voltage, equally spaced, shown in &lt;xref ref="three-phase"/&gt;. 
+
+&lt;figure xml:id="three-phase"&gt;
+&lt;!-- Source:  whaynes CC0  --&gt;
+&lt;caption&gt;  three-phase.pdf  &lt;/caption&gt;
+&lt;image width="80%" source="pics/electric-propulsion/three-phase"/&gt;
+&lt;/figure&gt;</Text>
+        </Document>
         <Document ID="9822F29A-1369-4670-BD26-B60F469484C4">
             <Title>Management and Safety of Marine Engineering Operations (Modern Marine Engineers Manual Ch. 13)</Title>
         </Document>
@@ -1198,6 +1739,41 @@ Maintain Records: The ship is responsible for maintaining accurate records of sa
         </Document>
         <Document ID="EB2EC9AB-5C47-49A3-8A53-FD60DE94D62E">
             <Title>Introduction</Title>
+        </Document>
+        <Document ID="B7289D47-F735-4CC7-93AF-5401F0A297B1">
+            <Title>Excitation</Title>
+            <Text>
+&lt;figure xml:id="exciter_exploded"&gt;
+&lt;!-- Source:  P1206 EMPIRE STATE MACHINERY MANUAL  FIRST DRAFT MAY 2022  --&gt;
+&lt;caption&gt; Exciter Exploded View &lt;/caption&gt;
+&lt;image width="100%" source="pics/electric-propulsion/exciter_exploded.png"/&gt;
+&lt;/figure&gt;
+
+ &lt;sidebyside width="48%" xml:id='pilot_generator'&gt;
+        &lt;figure xml:id="exciter_rotor"&gt;
+          &lt;!-- DV951E001_MAIN ALTERNATOR_OPERATION MANUAL_PMG  --&gt;
+          &lt;caption&gt; Exciter Rotor showing Permanent Magnets&lt;/caption&gt;
+          &lt;image width="100%" source="pics/electric-propulsion/exciter_rotor.png"/&gt;
+        &lt;/figure&gt;
+
+        &lt;figure xml:id="exciter_stator"&gt;
+          &lt;!-- Source: DV951E001_MAIN ALTERNATOR_OPERATION MANUAL_PMG --&gt;
+          &lt;caption&gt; Exciter Stator &lt;/caption&gt;
+          &lt;image width="100%" source="pics/electric-propulsion/exciter_stator.png"/&gt;
+        &lt;/figure&gt;
+&lt;/sidebyside&gt;
+
+&lt;figure xml:id="excitation_system"&gt;
+&lt;!-- Source:  --&gt;
+&lt;caption&gt;  DV951E001_MAIN ALTERNATOR_OPERATION MANUAL_ALTERNATOR &lt;/caption&gt;
+&lt;image width="100%" source="pics/electric-propulsion/excitation_system"/&gt;
+&lt;/figure&gt;
+
+The pilot generator is used to supply current to the exciter field, making the main generator separately excited, as opposed to self excited, where the output of the main generator itself is used to supply power to the the exciter generator. The AC output voltage of the pilot generator varies with the rotor speed, however its output current is automatically adjusted by an Automatic Voltage Regulator (AVR) to maintain its rated output (terminal) voltage, regardless of the load changes. 
+The pilot generator consists of stator and rotor part as shown in &lt;xref ref="exciter_exploded"/&gt; and &lt;xrer ref="pilot_generator"/&gt;.  The rotor part carries sixteen permanent magnets bolted on the shaft with alternating polarities making this a Permanent Magnet Generator (PMG).  The stator part is bolted on the bearing housing of non drive-end side of the generator and carries 3-phase wye-connected armature windings.  The rotating magnets induce an AC voltage into the armature windings and three-phase rectifier attached to the stator converts the AC voltage to a DC voltage.  
+The resulting DC voltage is used to create a stationary magnetic field in the exciter.  In other words, the pilot generator excites the exciter, which in turn excites the main generator. 
+
+</Text>
         </Document>
         <Document ID="FFEFC8E2-337C-4BAA-8889-830500F847A9">
             <Title>Switchgear</Title>
@@ -1305,8 +1881,10 @@ To convert from Celsius to Fahrenheit: multiply by 1.8 and add 32.  &lt;me&gt;°
 Specific heat is a thermal property of matter that must be determined experimentally for each substance. In general, we may say that specific heat is the property of matter; this explains the reason that equal quantities of thermal energy added to two different substances will not necessarily produce the same temperature rise, even when no change of state is involved. The specific heat of a substance is defined as the quantity of heat required to raise the temperature of unit mass of the substance 1 °F. For most engineering applications, specific heat is expressed in BTU per pound per degree Fahrenheit. In metric systems of measurement, specific heat is expressed in calories per gram per degree Celsius. Even though the units of measurement are different in the different systems, the &lt;em&gt;numerical value&lt;/em&gt; of specific heat for any given substance is the same in all systems. The specific heat of water is 1.00 in all systems. 
 </Text>
         </Document>
-        <Document ID="8D3ACAC0-D3C2-44E6-86D0-2026E120E330">
-            <Title>Electrical Power</Title>
+        <Document ID="78F0C541-C91D-4A8B-9C2B-17AAB1CB9136">
+            <Title>AC vs. DC</Title>
+            <Text>single phase, three phase
+batteries and solar cells</Text>
         </Document>
         <Document ID="34D84876-8763-40E3-82F3-986BBB055466">
             <Title>exercise</Title>
@@ -1377,8 +1955,8 @@ Key components of safety management include risk assessment, safety planning, es
         </Document>
         <Document ID="3CD03BD1-24CA-4A84-B699-27DE5B4BF51C">
             <Title>Effects of Electrical Current on the Human Body</Title>
-            <Text>Electrical shock occurs when current passes through the body.  The severity of the shock depends on the current’s magnitude, the duration, the contact area, and the path taken by the current through the body. 
-The shock current received obeys &lt;xref provisional="ohms-law"&gt;Ohm’s law&lt;/xref&gt;, so high voltages are always more dangerous.  But your body resistance is equally important.  Body resistance with dry skin may be above 100,000 ohms, However, if the skin is wet or broken, the body's resistance decreases to a few thousand ohms.
+            <Text>The severity of an electrical shock depends on the current’s magnitude, the duration, the contact area, and the path taken by the current through the body.  In extreme cases the shock causes failure of the normal action of the heart and lungs resulting in unconsciousness or death.
+The shock current received obeys Ohm’s, so high voltages are always more dangerous.  But your body resistance is equally important.  Body resistance with dry skin may be above 100,000 ohms, However, if the skin is wet or broken, the body's resistance decreases to a few thousand ohms.
 
 &lt;tabular halign="left" width="100%"&gt;
               &lt;col width="20%"/&gt; 
@@ -1493,6 +2071,7 @@ A barometer is the device used to measure the pressure of the atmosphere, so the
 Common trip and fall hazards include obstructions on walkways, such as cables, tools, or equipment left in pathways. Uneven surfaces, loose gratings, and obstructions, can also contribute to tripping incidents. Additionally, poor lighting, cluttered work areas, improper storage of materials, and inadequate lighting can increase the risk of trips and falls.  
 Spilled liquids, oils, or water can make surfaces extremely slippery. Wet surfaces due to cleaning or maintenance activities, and the presence of loose debris are additional factors that can contribute to slip incidents.
 Falls can be particularly dangerous when you are working at above the ground, such as on a ladder, scaffolding or staging.
+Falling objects such as tools, equipment, materials, or debris can potentially cause serious injuries or fatalities.  When tools and are stored haphazardly or left unsecured, they are susceptible to falling on someone. 
 Aboard ship, additional hazards exist due to the dynamic and often wet environment. Obstructions such as hatch combings, pad-eyes and container hold-downs can cause individuals to trip. Slip hazards arise from seawater or rainwater on deck surfaces, spilled liquids in galley areas, or lubricants used for machinery maintenance.  In rough seas, the motion of the ship can cause unsecured objects to fall, or cause you to lose your balance and fall. You must be particularly careful when working at heights or over the side. Always follow the old adage, “one hand for the ship and one hand for yourself.</Text>
         </Document>
         <Document ID="D6E37E3D-2D0B-4AED-B36B-AE61FCC04867">
@@ -1516,6 +2095,1397 @@ Under the ISM Code, both the ship and the company have specific obligations to e
 &lt;url href="https://weh.maritime.edu/stcw/2023/tables/614.html#PSSR-X6.4" visual="PSSR-X6.4"/&gt; Effects of environmental stressors in and outside the ship and their impact on seafarers
 &lt;url href="https://weh.maritime.edu/stcw/2023/tables/614.html#PSSR-X6.5" visual="PSSR-X6.5"/&gt; Effects of schedule changes on seafarer fatigue
 </Text>
+        </Document>
+        <Document ID="5CBD8F74-35AA-4D49-83C3-F83D6915485D">
+            <Title>Redundancy and Reliability</Title>
+            <Text>	Electric propulsion systems provide inherent redundancy and enhanced reliability compared to traditional propulsion systems. With multiple smaller generator sets, the system can continue to function even if one or more generators or motors fail or require maintenance. This redundancy  reduces the risk of complete propulsion failure and ensures that the propulsion system remains operational. </Text>
+        </Document>
+        <Document ID="8647444A-E9BC-4EA2-84AB-1AF76020973A">
+            <Title>DV951E001_MAIN ALTERNATOR_OPERATION MANUAL_ALTERNATOR</Title>
+            <Text>INSTALLATION, OPERATING &amp; MAINTENANCE
+INSTRUCTION MANUAL FOR SYNCHRONOUS GENERATOR
+ Head Office
+(Sales &amp; Marketing)
+Ulsan(Factory)
+5 Floor, 55, Bundang-ro, Bundang-gu, Seongnam-si, Gyeonggi-do, Korea Tel : 82-31-8006-6654, 6671 Fax : 82-31-8006-6686
+1000, Bangeojinsunhwan-doro, Dong-gu, Ulsan, Korea Tel: 82-52-202-6608 Fax: 82-52-202-6689
+CCopyright January, 2019 Hyundai electric and energy system, Co., Ltd All rights reserved throughout the world
+Specifications subject to change without notice
+
+ Important Notice
+The examples and diagrams in this manual are included solely for illustrative purposes. Because of many variables and requirements associated with any particular installation, Hyundai Electric &amp; Energy Systems Co., Ltd cannot assume responsibility or liability for actual use based on the examples and diagrams.
+Hyundai Electric &amp; Energy Systems Co., Ltd cannot accept any responsibility for damage incurred as a result of mishandling the equipment regardless of whether particular reference is made in this instructions or not.
+The availability and design of all features and options are subject to modification without notice. Should further information be required, contact Hyundai Electric &amp; Energy Systems Co., Ltd.
+Reproduction of the contents of this manual, in whole or in part, without permission of Hyundai Electric &amp; Energy Systems Co., Ltd is prohibited.
+Manufacturer’s Address
+Hyundai Electric &amp; Energy Systems Co., Ltd
+http://www.hyundai-elec.co.kr
+Head Office (Sales &amp; Marketing):
+5 Floor, 55, Bundang-ro, Bundang-gu, Seongnam-si, Gyeonggi-do, Korea Telephone: +82 31 8006 6608
+Fax : +82 31 8006 6686
+Ulsan (Rotating Machinery Sales Department):
+1000, Bangeojinsunhwan-doro, Dong-gu, Ulsan, Korea Telephone: +82 52 202 6608
+Fax : +82 52 202 6995
+Service Inquiries: +82 52 202 6671
+ Hyundai Electric &amp; Energy Systems, Co., Ltd
+Rotating Machines
+1
+
+Contents
+ Chapter 1 Introduction
+1.1 General information 1.2 Site conditions
+1.3 Safety Precautions
+Chapter 2 Packing, Transport and Storage
+2.1 Packing 2.2 Transport 2.3 Storage
+Chapter 3 Constructional details of Generator
+3.1 General construction 3.2 Construction of rotor 3.3 Construction of bearing 3.4 Space Heaters
+3.5 Water cooler
+3.6 Excitation system
+3.7 Construction of PMG
+Chapter 4 Installation and alignment
+4.1 Installation of generator 4.2 Alignment of generator
+Chapter 5 Electrical Connections
+5.1 General information
+5.2 Connection of main power cables and neutral cable 5.3 Earth connection
+5.4 Insulation distance of main power connections
+5.5 Connection of auxiliaries and instruments
+Chapter 6 Commissioning
+6.1 General
+ Hyundai Electric &amp; Energy Systems, Co., Ltd
+Rotating Machines
+2
+
+Contents
+6.2 Checking list of mechanical construction 6.3 Checking list of electrical connections 6.4 Insulation resistance measurements
+6.5 AVR connection check
+6.6 First run of the set of prime mover and generator. 6.7 General Construction
+Chapter 7 Operation
+7.1 General
+7.2 Normal operating conditions 7.3 Start-up procedure
+7.4 Continuous supervision
+7.5 Shun down procedures
+Chapter 8 Maintenance
+8.1 Preventive maintenance
+8.2 Safety precautions
+8.3 Recommended maintenance program 8.4 Maintenance of general construction 8.5 Maintenance of bearing
+8.6 Maintenance of stator and rotor winding
+Chapter 9 Troubleshooting
+9.1 General
+9.2 Mechanical performance
+9.3 Lubrication system and rolling bearings
+9.4 Thermal performance, open air cooling system
+9.5 Electrical performance and excitation system of generators
+Annex
+1. Sleeve Bearing User's Manual 2. A.V.R User's Manual
+3. PMG Manual
+  Hyundai Electric &amp; Energy Systems, Co., Ltd
+Rotating Machines
+3
+
+Chapter 1 Introduction
+1.1 General information
+This User’s Manual contains information on the transport, installation, operation and maintenance of synchronous machines supplied by Hyundai Electric &amp; Energy Systems (Hyundai Electric).
+This manual provides information regarding all aspects of installation, operation, maintenance and shows how to disassemble/assemble major component, if required. Careful study of the contents of this manual and other machine related documentation before any actions are taken is necessary to ensure functionality and a long lifetime of the machine.
+Actions shown in this manual are only to be performed by trained personnel with previous experience in similar tasks, and authorized by the owner of the equipment.
+Depending on the application, the machines may also be designed in accordance with the type variant defined in Table 1-1.
+Table 1.1 Type definition
+Type Type of construction
+     HFC HFJ HSR HSJ HAR HAJ
+Low voltage cylindrical type rotor machine with open-circuit cooling and air to air
+Low voltage cylindrical type rotor machine with closed-circuit cooling and air to water cooler
+Medium and high voltage cylindrical type rotor machine with open- circuit cooling and air to air
+Medium and high voltage cylindrical type rotor machine with closed- circuit cooling and air to water cooler
+Medium and high voltage salient pole type rotor machine with open- circuit cooling and air to air
+Medium and high voltage salient pole type rotor machine with closed- circuit cooling and air to water cooler
+            1.2 Site conditions
+The machinery is to be used on a site with conditions according to Technical Specifications of customer.
+1.3 Safety Precautions
+1.3.1 Safety Instructions used in this manual
+Read these instructions carefully before operating.
+The instructions are used to draw the user’s attention different points :
+DANGER
+This warning is used when an operation, procedure, or use may cause personal injury or loss of life.
+W ARNING
+This Warning is used when an operation, procedure, or use may cause a latently dangerous state of personal injury or loss of life.
+CAUTION
+This warning is used when an operation, procedure, or use may cause damage to or destruction of equipment and a slight or serious injury.
+NOTICE
+This warning is used when an operation, procedure, or use may cause damage to or destruction of equipment.
+NOTE!
+This warning is used when an operation, procedure, or delicate installation requires clarification.
+                          Hyundai Electric &amp; Energy Systems, Co., Ltd
+Rotating Machines
+4
+
+Chapter 1 Introduction
+1.3.2 Safety Instructions used in this manual
+The instructions are addressed to experienced and qualified technical personnel who are familiar with the procedures and equipment.
+1.3.3 General Safety Instruction
+• Only use the generator in correct working condition as well as in the manner intended, with due consideration for safety and hazards while following the documentation and the local health and safety regulations.
+• Correct any malfunctions without delay that may affect safety or have them rectified by our service organization.
+• Always store this documentation with the generator.
+• Regularly check that personal work with due consideration for safety and hazards and follow the documentation.
+• Use appropriate personal protective equipment at all times
+• Follow all information on safety and hazards on the generator and maintain in legible condition.
+• On the occurrence of safety-related changes on the generator or in its operating behavior, immediately shut down the generator and correct malfunction without delay.
+• Do not make any changes, additions or modifications to the generator. This statement also applies to installation and the settings for safety features.
+• Do not circumvent or bypass any safety features. Before opening doors or covers for which the use of a tool is required, the generator must be shut down, electrically isolated and grounded.
+• Service parts must comply with the technical requirements defined by the manufacturer. This aspect is only ensured with genuine branded service parts. On the use of other service parts, liability by the manufacturer is excluded.
+• Do not make any changes to the program (software) in the programmable control system. Changes to the program must only be made by appropriately trained personnel.
+• Comply with stipulated intervals or intervals defined in the documentation for regular inspections and servicing work.
+• Use only appropriate tools for undertaking maintenance measures.
+• Only allow trainees, apprentices or personnel under instruction or personnel undergoing general training to work on the generator under the constant supervision of an experienced person.
+• Only task trained and experienced persons with the attachment of loads and signaling to crane drivers. The person providing the signals must be visible for the operator.
+• During installation work above head height, climbing aids and working platforms intended for this purpose with appropriate safety features must be used. Do not use generator components and attachments as climbing aids! During servicing work at heights, wear fall arresting equipment.
+• Keep all grips, steps, railing, pedestals, platforms, ladders free of debris and dirt.
+• The generator electrical equipment is to be checked regularly; loose connections or burnt, damaged cables must be rectified immediately.
+• If work is necessary on electrically live parts, involve a second person who can provide immediate assistance in case of an emergency. Cordon off working area with a red-white safety chain and a warning sign. Only use electrically insulated tools.
+1.3.4 General Guidance for Use
+Generators have dangerous, live and rotating parts and hot surfaces. All work in relation to transport, storage, installation, connection, commissioning, operation and servicing must be done by authorized, trained specialist staff.
+In cases where there is a contradiction between the content of this manual and the machine supplied, contact the manufacturer.
+  Hyundai Electric &amp; Energy Systems, Co., Ltd
+Rotating Machines
+5
+
+Chapter 2 Packing, Transport and Storage
+2.1 Packing
+The purpose of packing is to protect goods during transport, transshipment and storage and to minimize the cost of such transport, transshipment and storage. In addition to the economic efficiency of packaging, safety - i.e. retention of the value of the packed goods - is of primary importance. All items will be packed in proper type of packing (box, skid, bundle, drum ,bare, etc.) by the supplier under his responsibility. Packing will be designed according to the type and quality of the item. The packing shall be strong enough to ensure maximum safety during shipping.
+2.2 Transport
+2.2.1 Protective Measures Prior to Transport
+The following protective measures are taken before delivery of the machine from the factory. The same protective measures should be taken, whenever the machine is moved:
+• All synchronous machines delivered as a unit are provided with transport locking device protecting the machine against damages during transport. The locking device must be attached whenever the machine is transported.
+• Machined metal surfaces, such as the shaft extension, are coated with an anti-corrosive coating before delivery.
+• The bearings are greased at the factory or during the tests prior to delivery. This gives sufficient protection against corrosion.
+• During shipping the machine should be placed under deck.
+2.2.2 Lifting the machine
+Before the machine is lifted, ensure that suitable lifting equipment is available and that personnel are familiar with lifting work. The weight of the machine is shown on the rating plate, dimension drawing and packing list.
+NOTE!
+Use only the lifting lugs or eyes intended for lifting the complete machine. Do not use any small additional lifting lugs or eyes available, as they are there only for service purposes. These additional lifting lugs usually have caution name plates adjacent to them.
+NOTE!
+The center of gravity of machines with the same frame may vary due to different outputs, mounting arrangements and auxiliary equipment.
+NOTE!
+Check that eyebolts or the lifting lugs integrated with the machine frame are undamaged before lifting. Damaged lifting lugs must not be used.
+NOTE!
+Lifting eyebolts must be tightened before lifting. If needed, the position of the eyebolt must be adjusted with suitable washers.
+                      Hyundai Electric &amp; Energy Systems, Co., Ltd
+Rotating Machines
+6
+
+Chapter 2 Packing, Transport and Storage
+2.2.3 Lifting of unpacked machine
+Lifting must be performed with great care and using slings long enough to assure the lifting angle requirements, see Figure 2-1. Lifting of unpacked machines. If the requirements are not met, there is a risk of damage.
+• The machine must be lifted from its frame. Do not attempt to lift the machine from the top cover! • lift the complete generating set by the generator lifting points.
+• When moving the generator always keep it in the horizontal plane, this will reduce the risk of the rotor falling out if 1-bearing design considered.
+2.2.4 Checks upon arrival and unpacking
+Check upon arrival
+Inspect the machine and the package immediately upon arrival. Any transport damage must be photographed and reported immediately, i.e. within less than one (1) week after arrival, if the transport insurance is to be claimed. It is therefore important, that evidence of careless handling is checked and reported immediately to the transport company and the supplier. A machine that is not installed immediately upon arrival must not be left without supervision or without protective precautions. For more details, see Chapter 2.3.Storage.
+Unpacking
+Place the synchronous machine so that it does not hinder the handling of any other goods and on a flat, vibration-free surface. When the package has been removed, a check should be made to see that the machine is not damaged and that all accessories are included. Tick off the accessories on the packing list which is enclosed. If there is any damage, suspected damage, or if accessories are missing, please report this immediately to the supplier.
+   Hyundai Electric &amp; Energy Systems, Co., Ltd
+Rotating Machines
+7
+
+Chapter 2 Packing, Transport and Storage
+2.3 Storage
+2.3.1 Short term storage (less than 2 months)
+The machine should be stored in a proper warehouse with a controllable environment. A good warehouse or storage place has:
+• A stable temperature, preferably in the range from 10 oC (50 oF) to 50 oC (120 oF). If the anti- condensation heaters are energized, and the surrounding air is above 50 oC (120 oF), make sure that the machine is not overheated.
+• Low relative air humidity, preferably below 75 %. The temperature of the machine should be kept above dew point to prevent moisture from condensing inside the machine. If the machine is equipped with anti-condensation heaters, they should be energized. Verify the operation of the anti-condensation heaters periodically. The anti-condensation heaters shall be de-energized when air temperature inside the machine enclosure exceeds +40 oC. Before connecting power supply to the anti-condensation heater, check the supply voltage and power. If the machine is not equipped with anti-condensation heaters, an alternative method of heating the machine and preventing moisture from condensing in the machine must be used. Machine can be e.g. heated by using power supply in the machine main terminals. Required DC voltage is approx. 5% of the rated voltage and current shall not exceed 30% of the nominal current.
+• A stable support free from excessive vibrations and shocks. If vibrations are suspected to be too high, the machine should be isolated by placing suitable rubber blocks under the machine feet.
+• Air which is ventilated, clean and free from dust and corrosive gases.
+• Protection against harmful insects and vermin.
+If the machine needs to be stored outdoors, the machine must never be left ‘as is’ in its transportation package. To store the machine outdoors:
+• Take the machine out from its plastic wrap.
+• Cover the machine to prevent rain from entering it. The cover should allow ventilation of the machine.
+• Place the machine on at least 100 mm (4”) high rigid supports. This prevents moisture from entering the machine from below.
+• Provide with good ventilation. If the machine is left in its transportation package, make large enough ventilation holes in the package.
+• Use anti-condensation heaters or alternative method of heating for heating the machine and preventing moisture from condensing in the machine
+• Protect from harmful insects and vermin.
+2.3.2 Long term storage (2-6 months)
+In addition to the measures described in Chapter 2.3.1. Short term storage (less than 2 months), some extra measures need taken depending on whether the machine is stored indoors or outdoors.
+NOTE!
+Be careful not to damage the seals or the bearings.
+Storage indoors
+To store the machine indoors:
+• If the machine is stored in its transportation package, make big enough holes on the sides of the transportation package so that the D-end and ND-end of the machine are accessible.
+• If the protection made by the manufacturer has been removed, protect the unpainted surfaces such as shaft extensions, coupling discs, coupling halves and jacking screws with suitable anti-corrosion agent. • If the machine has been delivered in fully assembled condition, turn the rotor approximately 10 revolutions once per every 3 months to maintain a protective oil film or grease on the bearing surfaces.
+       Hyundai Electric &amp; Energy Systems, Co., Ltd
+Rotating Machines
+8
+
+Chapter 2 Packing, Transport and Storage
+Storage outdoors
+• To store the machine outdoors:
+• Take all the measures described in Storage indoors above.
+• Cover the machine completely with a big enough waterproof cover.
+• Remove the side and end covers of the machine.
+• Protect the bare shaft surfaces and non-painted parts with anti-corrosive agent.
+2.3.3 Very long term storage (over 6 months)
+Clean all the protected surfaces listed in Chapter 2.3.1.Short term storage (less than 2 months) and Chapter 2.3.2. Long term storage (2-6 months), and renew the anti-corrosive treatment every 12 months. Otherwise follow the instructions for shorter storage periods.
+2.3.4 Rolling bearings apply the following measures:
+• Rolling bearings should be well lubricated during storage. For bearings without re-lubrication option this action is neglected.
+• Turn the rotor 10 revolutions every three months to keep the bearings in good condition. Remove any possible transport locking device during turning the rotor.
+• Machines may be provided with a locking device to protect the bearings against damage during transport and storage. Check the bearing locking device periodically.
+2.3.5 Regular checks during storage
+The following checks should be made regularly during storage.
+Every month:
+• Check that the anti-condensation heaters or alternative method of heating the machine is working. • Check that the ventilation works.
+Every 3 months:
+• Check the insulation resistance.
+• Check that there is no corrosion on the surfaces. If corrosion is observed, remove the corrosion and protect the surfaces.
+• Check that the anti-corrosion agents have not cracked.
+2.3.6 Storage and care after installation
+If the machine will not be in operation for a longer period of time after installation, the same measures as in Chapter 2.3.1. Short term storage (less than 2 months) should be applied. Remember to rotate the shaft 10 revolutions at least every 3 months.
+  Hyundai Electric &amp; Energy Systems, Co., Ltd
+Rotating Machines
+9
+
+Chapter 3 Constructional details of Generator
+ 3.1 General Construction 3.1.1 General Construction
+ 1. Bearing (Drive-end side)
+2. End shield (Drive-end side)
+3. Rotor Assembly
+4. Frame Assembly with Stator Winding Assembly
+5. End shield with Exciter Poles (Non Drive-end side)
+3.2 Construction of Rotor 3.2.1 Rotor Assembly
+6. Bearing (Non Drive-end side) 7. PMG Stator Assembly
+8. Rectifier Assembly
+9. Stator Winding
+ 1. Fan
+2. Shaft
+3. Rotor winding assembly 4. Exciter Rotor Assembly 5. PMG Rotor Assembly 6. Rectifier Assembly
+7. Key for DG set coupling
+8. Key for Fan
+9. Key for Rotor Winding Assembly 10. Key for Exciter rotor
+ Hyundai Electric &amp; Energy Systems, Co., Ltd
+Rotating Machines
+10
+
+Chapter 3 Constructional details of Generator
+3.3 Construction of Bearing 3.3.1 Bearing Assembly
+  1. Top part of the housing 2. Hole for position pin
+3. Positioning pin
+4. Oil ring
+5. Top sight glass 6. Eye bolt
+7. Screw
+8. Screw
+9. Tapped hole
+10. Sealing cover
+11. Top part of the shell 12. Screw
+13. Bottom part of the shell
+14. Spherical seating
+15. Engraved number – housing
+16. Tapped hole
+17. Screw
+18. Screw
+19. Engraved number – shell
+20. Bottom part of the housing
+21. Tapped hole for temperature measurement of the journal part 22. Oil inlet connection hole
+23. Tapped hole for the oil sump temperature measurement
+24. Outlet / bottom sight glass
+For the details, check the supplementary manual.
+(Please refer to Annex 1 - the supplementary manual for the bearing manual.)
+ Hyundai Electric &amp; Energy Systems, Co., Ltd
+Rotating Machines
+11
+
+Chapter 3 Constructional details of Generator
+3.4 Space heaters
+   CAUTION
+In order to prevent the accumulation of moisture and condensation while the generator is idle, space heaters are provided within the generator frame.
+The space heaters can be easily removed from outside the enclosure. The heater is comprised of stainless-sheathed Ni-chrome, filled with insulators in the sheath and is U-shaped as shown as below.
+2
+3.5 Water cooler 3.5.1 General points
+The purpose of the cooler is to remove heat losses of machine.(mechanical, ohmic, etc)
+Water cooler is applied if a higher degree of protection is required from IP44 and over. The generators HFJ and HSJ can easily be converted for emergency operation as an open-circuit air-cooled machine if the coolant system or the cooling element fails. The cooler is located on the top of the machine.
+The air is circulated by a fan fixed to the synchronous machine shaft.
+3.5.2.1 Description of air-water double tube cooler
+The double-tube technique keeps the cooling circuit from being affected by possible water leakage. The double tube provides a high safety level.
+In case of leakage, the water goes from the inside of the internal tube to the coaxial space between the two tubes. The water is drained axially to a leakage chamber where it may activate a sensor.
+An exchanger comprises a fin-tube block containing : • A steel frame
+• A fin-tube block expanded mechanically to the tubes.
+The tube bundle is roll-expanded in the end plates.
+The water distribution in the tubes is provided by two removable water boxes.
+A water box is equipped with collars for fitting the inlet and outlet lines. Neoprene seals ensure water tightness between the water boxes and the end plates.
+3.5.2.2 Description of air-water single tube cooler
+The single-tube technique keeps the vertical direction of cooling circuit from being affected by possible water leakage.
+In case of leakage, the water goes from the inside of the tube to the frame. The water is drained to a leakage chamber where it may activate a sensor.
+     4
+3 1
+    Hyundai Electric &amp; Energy Systems, Co., Ltd
+Rotating Machines
+12
+
+Chapter 3 Constructional details of Generator
+3.5.3 Cleaning
+The frequency of cleaning operations depends essentially on the purity of the water used. Annual inspection is recommended at least.
+The life of zinc block for anti-corrosion is about a year. Therefore, replace it with a new one every year. Cut off the water supply by isolating the inlet and outlet lines, and drain the water. Disconnect the leakage sensor, and make sure that there are no leaks.
+Remove the water boxes on each side of the machine.
+Rinse and brush each water box. NOTE !
+3.5.4 Stop the machine
+Leak detection for water cooler : If a leak is detected, cut off the power supply of the water inlet / outlet lines and change to emergency operations immediately.
+The problem must be ascertained and repaired.
+Remove the two water boxes, apply a slight positive pressure in the leakage chamber and between the two tubes(only concerns double tube coolers).
+If a tube is damaged, plug it at both ends.
+Use a tapered plug.
+Preferably the plug should be made of salt-water resistant aluminum bronze or a synthetic material. 3.5.5 Leak detection(Float system)
+A magnet float activates a switch located in the float case.
+3.5.5 Cooler removal
+The cooler unit is slid into its housing.
+It is possible to remove the cooler from the housing without removing the water boxes as shown as below.
+The cooler is fastened to the housing via a series of screws on the housing.
+Remove the water supply and return pipes.
+Provide two eye-bolts to hold the cooler when it comes out of its housing.
+Remove the cooler using slings that can be attached to the connecting flanges.
+        Do not use a hard wire brush as this will remove the protective tar-epoxy layer which has formed on the surfaces of the water boxes.
+Clean each tube with a metal scraper.
+Rinse in soft water.
+Keep the leakage chamber dry(double-tube water cooler only)
+     Hyundai Electric &amp; Energy Systems, Co., Ltd
+Rotating Machines
+13
+
+Chapter 3 Constructional details of Generator
+3.5.6 Cooler re-assembly
+Carry out the operations of the cooler Removal in the reverse order.
+Be careful to push the cooler completely into its housing before tightening the fastening screws of the cooler to the casing.
+Fig. 3.1 Cooler removal
+3.5.7 Cooling water failure emergency operation.
+Generators have a facility for emergency operation if the cooling water supply fails.
+The following supplements the machine description and the model for the closed-circuit cooling. Should the cooling water supply fails, the machine can be changed over to an open cooling circuit as follows.
+The electrical version of the alternator remains unchanged.
+1. Open the air vents at the non drive end for the air inlet and at the drive end for the air outlet(No.3 &amp; 5 of above picture)
+2. Remove enclosure or cover NO.2
+      Normal operation with air to water closed-circuit cooling
+    Emergency operation with open cooling circuit following failure of the cooling water supply
+  Hyundai Electric &amp; Energy Systems, Co., Ltd
+Rotating Machines
+14
+
+Chapter 3 Constructional details of Generator
+3. Insert air cut-off plate NO.6 into the slot in the raised section on the housing on the hot air side of the cooler and secure.
+3.6 Excitation system
+The excitation system consists of AVR and the excitation power supply devices, exciter stator, exciter rotor and rotating diodes.
+The AVR (Automatic voltage regulator) is for regulating the generator output voltage by controlling the excitation current. The AVR always monitors the generator output voltage / current and maintain the generator output power as stable condition.
+The various excitation system applications have been prepared for different customer demands.
+     No. AVR type
+1 Digital AVR(*)
+2 Digital AVR(*)
+3 Analog AVR
+Excitation power devices PMG
+VT &amp;
+CBS module with CTs Excitation components(**)
+Remark
+                (*) Digital AVR types : HDEC series(HHI standard), DECs series, Unitrol series
+(**) Excitation components consists of CT, PT, steady diodes, reactors or other components.
+For each AVR system please check the supplementary AVR manuals.
+The exciter stator is installed at end shield for the non-drive end side, the excitation current is supplied from AVR and become the stationary field for exciter rotor.
+The exciter rotor is installed on the shaft (between main rotor and non-drive end bearing). While the rotor is rotated, the exciter rotor generates AC power by stationary field at exciter stator. This AC power is the source of main rotor field current.
+The AC power generated by exciter rotor is rectified by rotating diodes on the generator shaft. The 3 phase full wave rectifier circuit is applied for main rotor magnetization.
+For reference, the overall block diagram for excitation system is shown as below.
+(*) A-AVR : Analog AVR.
+(**) Optional : The excitation power devices may be optional depending on the AVR types.
+  Hyundai Electric &amp; Energy Systems, Co., Ltd
+Rotating Machines
+15
+
+Chapter 3 Constructional details of Generator
+ 3.7 Construction of PMG 3.7.1 Construction
+The PMG is consisted of stator and rotor part. The detailed components are shown in the below figure. The stator part having the 3 phase windings is bolted on the bearing housing of non-drive-end side. The rotor part having the permanent magnets for magnetic field is bolted on the shaft end.
+ 1. Rectifier Cover
+2. Rectifier Assembly
+3. PMG Stator Assembly
+4. PMG Adaptor Ring
+5. PMG Rotor
+6. Bearing (Non Drive-end Side)
+For the details, check the supplementary manual.
+ Hyundai Electric &amp; Energy Systems, Co., Ltd
+Rotating Machines
+16
+
+Chapter 4 Installation and alignment
+4.1 Installation of generator
+NOTICE
+Experience has shown that any base mounted assemblies of generator and driven units temporarily aligned at the factory, no matter how rugged or deep in section may twist during shipment. Therefore, alignment must be checked after mounting.
+The lubrication measures for normal bearings to be carried out before or during erection of the machines.
+Install the machines so that the cooling air has free access and can escape unobstructed. Warm exhaust air must not be drawn in again.
+Louver openings must face downwards to maintain the particular degree protection. Remove the shaft block (where applicable).
+Follow the instruction attached to the shaft extension or shown in the terminal box.
+The rotors are normally balanced dynamically by mans of a half feather key placed in the shaft extension.
+Align the machines carefully and accurately balance the elements to be fitted on the shaft to ensure smooth and vibration-free running.
+Place shims under the feet of the machines if necessary to prevent them from being stressed mechanically. Transmissions elements may be fitted and removed only by prevent them from falling out during shipment. A machine must not be commissioned without its transmission element having been fitted.
+4.2 Alignment of generator
+The correct alignment of machinery is very important for reducing the stress and vibration of the shaft and the wear of the bearing and coupling.
+In case a coupling maker gives those instructions, it is recommended that the instructions be followed.
+      4.2.1 Flexible Coupling
+The flexible coupling set forth herein means the one driven through the rubber brush or the
+leather brush including the gear coupling. In aligning the generator equipped with the sleeve bearing, attention is to be paid to the endplay of the generator bearing and to the position of the coupling. The
+center of the generator bearing endplay is indicated by the end play indicator.
+The bearing endplay can be equally divided by setting the end play indicator to the standard line of the shaft as shown in Fig. 4.1
+ Fig. 4.1 Position of with axial end play
+ Hyundai Electric &amp; Energy Systems, Co., Ltd
+Rotating Machines
+17
+
+Chapter 4 Installation and alignment
+In case of key type coupling, the axial, parallel and angular tolerance are to be acceptable by coupling element property. In case of flange type coupling, coupling works should be carried out in accordance with standard instructions of the engine maker. (HHI alignment standard as shown on Fig. 4.2)
+Fig. 4.2 HHI alignment standard
+CAUTION
+NOTICE
+Experience has shown that any base mounted assemblies of generator and driven units temporarily aligned at the factory, no matter how rugged or deep in section may twist during shipment. Therefore, alignment must be checked after mounting.
+4.2.2 Rigid Coupling
+In case of the sleeve bearing, when both flanges are connected to each other, the endplay indicator is referred to install the flexible coupling in order to determine the position of the generator.
+4.2.3 Alignment
+NOTE !
+The foot plane is of concern for each unit of rotating equipment. Checked driven equipment if necessary.
+Alignment is made to bring the shaft centers of the generator and machine combined with it into the same line; the parallel and eccentricity are measured through the coupling. Generally a thickness gauge or a taper gauge is used in
+measuring the parallel, and in
+         In case the coupling is used, it may be considered that the rotor can be easily moved in the axial direction. In fact, however, it hardly slides in the axial direction at the coupling as the torque grows greater. When by some reason the rotor has undergone some axial movement, and the coupling does not provide enough slip to allow the rotor to return to the magnetic center of the generator, it will continue to operate with the bearing end in contact with the shoulder of the journal.
+             measuring the eccentricity, a dial gauge is to be fitted to the coupling on one side; the
+both shafts are to be turned by 0 deg, 90 deg, 180 deg and 270 deg; and the dial gauge
+reading is to be taken at the four points as shown in Fig. 4.3 The alignment accuracy is to
+be generally 0.025 mm or less (both plate and circle).
+Hyundai Electric &amp; Energy Systems, Co., Ltd
+Rotating Machines
+18
+Fig. 4.3 Procedure for Alignment
+ 
+Chapter 4 Installation and alignment
+4.2.4 Measurement of Eccentricity
+The both shafts are to be simultaneously turned; the values shall be obtained from the measurement made at four points by means of a dial gauge and are to be recorded; and the corrected value is to be obtained in the following manners.
+ 180 deg
+90 deg
+Circle
+270 deg
+(Measured Value)
+B
+Circle D
+(Measured Value)
+0 deg
+  C
+A
+  Corrected value of left and right = 𝐴−𝐶 2
+Corrected value of top and bottom = 𝐵−𝐷 2
+(Corrected Value)
+CAUTION
+       The difference between the total of the measured values at the left and right points (A-C) and the total of the measured values at the top and bottom points (B- D) should not exceed 0.03 mm. The improper fitting of the dial gauge and the erection of the fitting arm, if any, may cause greater difference.
+   Hyundai Electric &amp; Energy Systems, Co., Ltd
+Rotating Machines
+19
+
+Chapter 4 Installation and alignment
+4.2.5 Measurement of parallelism
+The values at the four points of E1, F1, G1 and H1 are to be corrected after measurement made by means of a thickness gauge at the position where both shafts were connected to each other at the time of eccentricity measurement; and measurements are to be made again at the points of E2,F2,G2 and H2 after turning both shafts.
+ G1
+F1
+Circle E1
+H1
+(Measured Value)
+F2
+Circle E2 H2
+(Measured Value)
+  G2
+  Corrected value of top and bottom = (𝐹1+𝐹2)−(𝐻1+𝐻2) 2
+Corrected value of left and right = (𝐸1+𝐸2)−(𝐺1+𝐺2)
+2
+  Hyundai Electric &amp; Energy Systems, Co., Ltd
+Rotating Machines
+(Measured Value)
+ 20
+
+Chapter 5 Electrical Connections
+5.1 General information
+Electrical connections are made after the mechanical installation and alignment procedures.
+The electrical connections included the connection of main and auxiliary cables, earthing cables and possible external components.
+5.2 Connection of main power cables and neutral cable
+The main terminal box is typically supplied drilled plate with cable glands if customer send us specification of main &amp; aux cables. If not, cable gland plates will be supplied as blind. The customer or a third party is therefore responsible for this. The stator terminals are marked with the letters U, V and W according to IEC 60034-8. Stripping, splicing and insulating of the cables must be performed in accordance with the instructions delivered by the cable manufacturer. The lugs should not be permanently tightened by bus bars, but only attached (for checking of insulation resistance). The cables must be supported so that no stress is applied to the bus bars in the terminal box. When three- phase cables are used, the prescribed distance must be maintained between the leads at intersections. Bracing and spacers should be used if necessary.
+5.3 Earth connection
+The ground cable can be connected inside of the main terminal box. The earth connection of generator frame is located on the foot.
+5.4 Insulation distance of main power connections
+The connections of the main power cables are designed to withstand demanding operation conditions where the insulators can be subjected to dirt, humidity and surge voltages. In order to ensure lasting and trouble free running, it is therefore important that local requirements or other applicable standards for the insulation distances are met. If no local requirements or other applicable standards are available, it is suggested that the minimum insulation distances mentioned below table. Recommended minimum insulation distances are used. These distances apply both for insulation distances between two different phases, and for insulation distances between one phase and the earth. The air insulation distance is the shortest distance through air between two points with different electrical potential. The surface insulation distance is the shortest distance along surfaces next to each other between two points with different electrical potential.
+   Nominal Voltage (kV)
+≤1.1 3.3 ~ 4.2 6.0 ~ 7.2 10 ~ 12 13.8
+HYUNDAI STANDARD
+  Separation distance
+Creepage
+   35 35
+55 55 100 100 140 140 165 165
+                Hyundai Electric &amp; Energy Systems, Co., Ltd
+Rotating Machines
+21
+
+Chapter 5 Electrical Connections
+ 5.5 Connection of auxiliaries and instruments
+At the factory, the conductors from supply and monitoring devices are routed inside the machine to a separate terminal box with line-up terminals. The terminal assignment is shown on the auxiliary terminal diagram. Consult the dimension drawing text for details of the maximum conductor cross- sections that can be connected.
+The appropriate types of screwed gland for incoming cables are listed in the dimension drawing. Before closing the terminal box :
+1. Consult the terminal diagram before connecting the incoming conductors.
+2. Check that the inside of the terminal box is clean and free from odds and ends of wiring material. 3. Ensure that unused cable entries are closed and that the plugs are screwed down tight.
+ Hyundai Heavy Industries, Co., Ltd Rotating Machines
+
+Chapter 6 Commissioning
+6.1 General
+Commissioning work (The generator start-up) should be performed according to this chapter. The commissioning report is very important for the maintenance, trouble shooting and future support from us. The commissioning checklist is prepared as below.
+ 6.2 Checking list of mechanical construction
+The generator should be checked mechanically before commissioning.
+   Seq. No.
+2
+4
+6.3 Checking list of electrical connections
+Checkpoint
+Confirm the fixing the generator on the foundation.
+- The foundation bolt / nut should be checked one by one. - Any crack or foundation condition should be reported.
+Check the terminal boxes and confirm any loosen parts and cabling condition on terminal blocks.
+Check
+   1
+  Confirm the installation and alignment work is finished according to Chapter 4.
+The alignment report should be made and attached at the commissioning report.
+        3
+  If rotor turning gear at prime mover is available and the lubrication condition is prepared, the rotor should be turned with low speed.
+- confirm that no abnormal sound is occurred.
+        The generator should be checked electrically before commissioning.
+   Seq. No.
+Checkpoint
+Check
+   1
+ Before main power cable (at main terminal box) connection, the insulation resistance value for each parts should be confirmed.
+- main stator winding (busbar)
+- main rotor winding and exciter rotor - exciter field
+- space heater
+   Insulation resistance measurement method is referred 6.4 Insulation resistance measurement.
+   2
+  The main power cable should be connected on the busbar tightly.
+- confirm the insulation resistance value after connection.
+     3 4 5
+Confirm the condition of cable gland and main terminal box assembly
+The auxiliary terminal box and its blocks should be checked according to the connection drawing. Confirm the condition of cable gland and auxiliary terminal box assembly
+         6.4 Insulation resistance measurements.
+The insulation resistance is a spot insulation test which uses an applied DC voltage to measure insulation resistance in MΩ. The measured insulation resistance intended to indicate the condition of insulation. Portable insulation tester is generally used for this test.
+6.4.1. Test voltage and minimum value for Insulation resistance test
+The test voltage is different from the machine rated voltage. The Table 6.4.1 describes the test voltage and minimum value for the test.
+ Hyundai Electric &amp; Energy Systems, Co., Ltd
+Rotating Machines
+23
+
+Chapter 6 Commissioning
+ Table 6.4.1
+Rated voltage(Vr)
+For stator winding Vr &lt; 2500V 2500V&lt;Vr&lt;5000V 5000V&lt;Vr&lt;12000V Vr&gt;12000V
+For rotor winding and space heater
+Test voltage in DC
+500Vdc 1000Vdc 2500Vdc 5000Vdc
+500Vdc
+Minimum value for stator winding
+5 MΩ 10 MΩ 10 MΩ 10 MΩ
+5 MΩ
+Check
+                            6.4.2. Measurement points 6.4.2.1 Measure point of stator
+Generator main terminal bus bar side is the measuring point. If power cable is already installed, the panel control fuse should be removed. Please check the main switch board back side for fuse removal.
+6.4.2.2 Measure point of rotor
+Generator main terminal bus bar side is the measuring point. If power cable is already installed, the panel control fuse should be removed. Please check the main switch board back side for fuse removal.
+Measure insulation resistance between connector ring and ground
+6.5 AVR connection check
+The AVR connection shall be checked according to AVR connection drawing very carefully. Simple connection error may lead to abnormal phenomenon.
+Please note that the AVR has been set during shop test period so the final setting should be checked once again before running the generator.
+Below 4 connection points shall be confirmed very carefully. 1. Sensing voltage connection (2phase or 3phase)
+If this cable is not connected, the generator voltage may be increased too high. (loss of sensing) 2. Sensing current connection (1 phase)
+    Hyundai Electric &amp; Energy Systems, Co., Ltd
+Rotating Machines
+24
+
+Chapter 6 Commissioning
+If this cable is not connected, the parallel running of generator will not be possible.
+3. AVR field output
+If this cable is not connected, the generator voltage will not be build-up. Only residual voltage
+(below 10% rated voltage will be applied at the generator bus bar.
+4. AVR Excitation input
+If this cable is not connected, the generator voltage will not be build-up. Only residual voltage (below 10% rated voltage will be applied at the generator bus bar.
+6.6 First run of the set of prime mover and generator
+Only 6.2~6.5 items are checked carefully, the generator set may be operated with the procedure below
+    Seq. No. 1
+2
+3 4
+5 6 7
+8
+9 10 11
+6.7 General Construction
+6.7.1 Recommended torque values for bolts and screws
+Recommended torque values for metric 8.8 class bolts and screws specified in ISO.
+Checkpoint Confirm if the space heater is switched off.
+(If the space heater is switched on/off by generator breaker, this sequence may be neglected)
+Confirm if the excitation current is switched off
+Confirm if Lubrication system for the bearing is prepared properly.(*) Start prime mover (engine, turbine or motor) and check if the prime mover speed is reached to rated speed.
+At the rated speed, confirm if any abnormal noise or vibration is not occurred.
+Excitation on and check the no load voltage build up
+At the rated voltage, confirm if any abnormal voltage control is not occurred. (ex. voltage hunting )
+If load is available, switch on the generator circuit breaker and check the voltage control
+Reduce the generator load to zero and open the breaker
+Confirm if excitation current is switched off
+check
+                                 Confirm if space heater is switched on.
+(*) Regarding lubrication system preparation, please refer to the chapter 3.3 construction of bearing
+          Bolt Diameter Pitch
+Torque [kgf·cm] Bolt Diameter Pitch
+M6 M8 M10 1.0 1.3 1.5 110 210 430 M16 M20 M22 2.0 2.5 2.5 1,800 3,500 4,900
+M12 M14 1.8 2.0 750 1,210 M24 M30 3.0 3.5
+M36 4.0 21,500
+                                   Torque [kgf·cm]
+6,000 12,400 For the rectifier assembly, the torque values in the table below are recommended.
+        Hyundai Electric &amp; Energy Systems, Co., Ltd
+Rotating Machines
+25
+
+Chapter 6 Commissioning
+      Part a b Torque 300 [kgf•cm] 210 [kgf•cm]
+       Hyundai Electric &amp; Energy Systems, Co., Ltd
+Rotating Machines
+26
+
+Chapter 7 Operation
+7.1 General
+To ensure trouble-free operation, the generator must be carefully looked after and supervised.
+In case any deviations from normal operating condition, e.g. temperature rise, vibration, noise or etc., generator must be stopped and cause must be found to be correct.
+Always before starting the generator, ensure the following; There must be no work in progress
+• All of associated with the generator must be ready to start up the generator. • All protection function for prime-mover must to be ready for activation.
+NOTICE
+7.2 Normal operating conditions
+In the HHI’s approval drawing, operation conditions such as maximum ambient temperature, applied rule is described. Also the IEC standard and HHI’s own standard are applied to the generator design.
+Operating environment shall be free from dust, salt and corrosive gases in the air and external vibration in the foundation.
+7.3 Start-up procedure
+The sequential procedure for generator starting is referred to Chapter 6.6 starting. Always before starting up generator, ensure that following;
+• There must be no work in progress
+• All of associated with the generator must be ready to start up the generator. • All protection function for prime-mover must to be ready for activation.
+To start the generator;
+1. Turn off the space heater, if interlock system is not furnished at switchgear panel.
+2. Check whether a Lo unit or Jack up unit is installed on the generator.
+If a Lo unit or Jack up unit is installed, please operate each unit refer to the project document for "Bearings Lubrication Operation principles" before operating the generator.
+3. Operate the generator by starting of prime mover.
+4. Check the rated speed and voltage. Speed will be controlled by governor of prime-mover and voltage will be controlled by AVR (excitation system) of generator.
+5. Synchronize with other generator or grid (if necessary).
+6. Close the generator circuit breaker and check the load operation (if necessary).
+7.4 Continuous supervision
+The periodic supervision is to allow operating person to be familiar with the generator in normal
+        Temperature of generator surface could be increased based on amount of loads and operation time and it could be personal injury or damage to generator.
+Especially, overload operation could be critical damage to generator.
+If necessary, consult the manufacturer for special instruction.
+   Hyundai Electric &amp; Energy Systems, Co., Ltd
+Rotating Machines
+27
+
+Chapter 6 Commissioning
+operating conditions. This activity is best way to detect and fix abnormal occurrences in future. Also operating person shall log the various parameter of generator during operation periodically. From above operator’s feeling and collected data could be used for reference for maintenance work, trouble shooting and repairs.
+Recommended data to be logged are as follows; • Generator load
+• Power factor • Speed
+• Voltage
+• Current
+For the regular supervision, the relative facilities such as counting device of start and duty timer is recommended to be included in the system.
+If DCS or SCADA system is storing the data of generator as well as Prime-mover’s operation, the trend data will be of help to investigate the phenomenon of unexpected failure.
+7.5 Shut down procedure
+Always before stopping the generator, ensure that following; • There must be no work in progress
+• All of associated with the generator must be ready to stop the generator. • All protection function for prime-mover must to be ready for activation.
+The shut-down of the machine depends on the application, but main guidelines are: 1. De-load the generator’s output to about zero.
+2. Open the generator breaker.
+3. Switch the machine excitation off (if applicable).
+4. Stop the prime-mover.
+5. Turn on the space heater, if interlock system is not furnished at switchgear panel.
+  Hyundai Electric &amp; Energy Systems, Co., Ltd
+Rotating Machines
+28
+
+Chapter 8 Maintenance
+8.1 Preventive maintenance
+A synchronous machine often forms an important part of a larger installation and if it is supervised and maintained properly, it will be reliable in operation and guarantee a normal life time.
+The purpose of maintenance is therefore to :
+• Secure that the machine will function reliably without any unforeseen actions or interventions.
+• Estimate and plan service actions in order to minimize down time.
+This chapter presents recommendations regarding maintenance program, and work instructions how to conduct common maintenance tasks. These instructions and recommendations should be read carefully. Note that the maintenance recommendations presented in this chapter represent a minimum level of maintenance. By intensifying maintenance and supervision activities, the reliability of the machine and the long-term availability will increase.
+The data obtained during supervision and maintenance is useful for estimating and planning additional service. In case some of this data indicates something out of the ordinary, trouble shooting will aid in locating the reason for the trouble. HHI recommends the use of experts in the creating maintenance programs, as well as in performing the actual maintenance and possible trouble shooting.
+8.2 Safety precautions
+Before working on any electrical equipment, general electrical safety precautions are to be taken into account, and local regulations are to be respected in order to prevent personnel injury. This should be made according to instructions of security personnel.
+Personnel performing maintenance on electrical equipment and installation must be highly qualified. The personnel must be trained in, and familiar with, the specific maintenance procedure and tests required for rotating electrical machines.
+ 8.3 Recommended maintenance program
+Abbreviation used in maintenance program • V = Visual checking
+• C = Cleaning
+• D = disassembling and assembling • R = reconditioning or replacement • T = testing and measurement
+NOTE !
+Not all options are applicable for all machines.
+Table 8.3.1 Maintenance intervals
+               Maintenance object
+Maintenance interval
+In equivalent operating hours ir time period, whichever comes
+first
+T1 T2 T3 T4
+    4000 8000 0.5 year Annual
+24000 3-5 years
+80000 Overhaul
+Check/test
+           Hyundai Electric &amp; Energy Systems, Co., Ltd
+Rotating Machines
+29
+
+Chapter 8 Maintenance
+ Table 8.3.2 Maintenance objects for general construction.
+      Maintenance object
+Machine operation
+Exterior Fastenings
+T1 T2
+V/T V/T
+V V V V
+T3
+V/T
+V V
+T3
+V/T V/T V
+T4
+V/T
+V V
+T4
+V/T V/T V
+Check / Test
+Starting, Shut down, Vibration measurement
+Rust, Leakage Tightness of all fastenings
+Check / Test
+Wear, Fastening Oxidation, Fastening General condition
+Check / Test
+Fixing, Cracks, Welds
+Insulation damages Insulation damages, tightness Fixing, insulation
+Tightness, condition
+Movement, bending Movement, fixing Fixing, general condition
+                        Table 8.3.3 Maintenance objects for cable connection
+      Maintenance object Cabling Connections Terminal box
+T1 T2
+V V V V V V
+                    Cable transits
+   V
+ V
+    V
+  V
+   Condition of cables entering the machine and inside the machine
+ Table 8.3.4 Maintenance objects for main stator and rotor
+      Maintenance object
+Stator core
+Stator coil overhangs
+Stator coil supports
+Stator terminal bars Stator cable terminal fastening
+Rotor coil supports Rotor balancing weights
+Connections in rotor
+T1 V
+V V V V
+V V
+V
+T2 V
+T3
+V V/C
+T4
+        Stator winding insulation
+    V/T
+  V/T
+    V/T
+   V/T/C
+   Wear, Cleanliness, insulation resistance
+ V V V V V V
+V V V
+                  V/T V/T V/T
+VVV VVV
+V V/T V/T
+  Rotor winding insulation
+    V
+  V/T
+    V/T
+   V/T/C
+   Wear, Cleanliness, insulation resistance
+                    Hyundai Electric &amp; Energy Systems, Co., Ltd
+Rotating Machines
+30
+
+Chapter 8 Maintenance
+ Table 8.3.5 Maintenance objects for excitation system
+      Maintenance object
+Exciter diode bridge Exciter semiconductors Exciter winding insulation
+Temperature detectors Anti-condensation heaters Auxiliary terminals (if applied)
+T1 T2 T3 T4
+V VVV V VVV
+Check / Test
+Cleanliness, operation Operation, fixing, damage
+Wear, cleanliness, insulation resistance
+Operation, resistance
+Operation, insulation resistance
+Wiring condition
+Check / Test
+General condition, damage
+                  V V/T
+V V/T
+V V/T
+V VVV
+V/T V/T
+  Current transformer for parallel operation
+    V
+   V
+  V
+    V
+   Operation, cleanliness, damage
+ V/T V/T V/T V/T
+                  Table 8.3.6 Maintenance objects for bearings
+      Maintenance object
+Bearing assembly
+T1 T2 V V
+T3 T4 V V
+            8.4 Maintenance of general construction
+To ensure a long life span for the general construction of the machine, the machine exterior should be kept clean and should periodically be inspected for rust, leaks and other defects. Dirt on the machine exterior exposes the frame to corrosion and can affect the cooling of the machines.
+8.4.1 Checking during running of machine
+During the first days of running it is important to keep the machine under close surveillance in case any changes occur in the vibration or temperature levels or there are abnormal sounds.
+During running, pay special attention to temperature and vibration levels.
+8.4.2 Vibration
+Reciprocating engines used as prime mover impress vibrations on the alternator because of the pulsating torque output.
+1) Permissible vibration stress measured at the bearing is :
+   Rotation Speed &lt; 10 Hz 10-100 Hz &gt;100 Hz
+Item Vibration amplitude, S
+Vibration velocity, Veff Acceleration, b
+Permissible level &lt; 0.40 [mm-peak] &lt; 18 [mm/s·rms]
+&lt; 1.6 g
+             Hyundai Electric &amp; Energy Systems, Co., Ltd
+Rotating Machines
+31
+
+  Chapter 8 Maintenance
+Please inquire if a higher vibration stress level is expected.
+2) Permissible vibration stress measured at turbine generator bearing housing is : (less than following value)
+     1500/1800 rpm
+Amplitude (mm:peak-peak)
+Velocity (mm/sec)
+Acceleration (m/s2)
+    Vertical 37
+Horizontal 37
+Axial 37 Reference : IEC 60034-14, ISO10816-13,
+8.4.3 Temperature levels
+2.3 3.6 2.3 3.6 2.3 3.6
+JIS B0906
+            The temperature of bearings, stator windings and cooling air should be checked when the synchronous machine is running.
+The bearing might not reach a stable temperature until after several (1~3) hours, when running at full speed.
+The stator winding temperature depends on the load of machine. If full load cannot be reached during or soon after commissioning, present load and temperature should be noted and included in the commissioning report.
+8.4.4 The tightness of fastenings
+Recommended torque values for metric 8.8 class bolts and screws specified in ISO
+       Bolt Diameter Pitch
+Torque [kgf·cm] Bolt Diameter Pitch
+M6 M8 M10 1.0 1.3 1.5 110 210 430 M16 M20 M22 2.0 2.5 2.5 1,800 3,500 4,900
+M12 M14 1.8 2.0 750 1,210 M24 M30 3.0 3.5
+M36 4.0 21,500
+                                   Torque [kgf·cm]
+6,000 12,400 For the rectifier assembly, the torque values in the table below are recommended.
+          Part a b Hyundai Electric &amp; Energy Systems, Co., Ltd
+Rotating Machines
+    32
+
+Chapter 8 Maintenance
+ Torque 300 [kgf•cm] 210 [kgf•cm]
+8.5. Maintenance of bearing 8.5.1 Operating description
+NOTICE
+Before starting, check if the bearing is filled with oil or not to the necessary oil level.
+CAUTION
+Prolonged operation at extremely slow rotation speeds (several rpm) without lubrication could seriously damage for the service life of the bearing.
+CAUTION
+8.5.2 Oil change
+8.5.2.1 Ring lubrication system
+Check the bearing temperature regularly.
+The governing factor is not the temperature rise itself, but the temperature variations over a period of time. If abrupt variations without apparent cause are noticed, shut down the machine and renew the oil.
+The lubrication oil indicated on the data plate is used for starting up the machines at an ambient temperature of above +5°C.
+At lower temperatures (to about -20°C), it is necessary to preheat the oil.
+If the ambient temperature is below -20°C another type of oil according to the special conditions is
+used.
+Do not mix oils of different grades.
+Recommended oil changing intervals are about 3000 and 6000 operating hours in the case of intermittent and continuous duty.
+When cleaning, first flush the bearings with kerosene and then with oil.
+NOTE !
+If the lubrication oil contains unusual residues or its color looks changed, bearings shall be inspected.
+Pour in the kerosene and oil through the top sight-glass hole.
+Leave the drain open until all the kerosene has been removed and clean oil runs out. Now, plug the drain and fill the bearing with oil up to the center of the lateral inspection glass.
+When the machine has run up to speed, check the oil ring through the top inspection glass to see that it rotates correctly, and check the bearing temperature.
+Should the bearing temperature not drop to the normal value after the oil change, it is recommended that the surfaces of the bearing shells be inspected.
+                    If the bearing temperature exceeds the normal operating value by 15 K, stop the machine immediately. Inspect the bearing and determine the causes. Setting values of a safety device
+- Alarm: 95°C
+- Trip: 100°C
+        Hyundai Electric &amp; Energy Systems, Co., Ltd
+Rotating Machines
+33
+
+Chapter 8 Maintenance
+If the bearings are fitted with thermometers for checking the bearing temperature, fill the thermometer well in the upper bearing shell for thermo feeler with oil to improve heat transfer and top up with oil every time the lubricating oil is changed.
+8.5.2.2 Forced lubrication system
+Check the bearing temperature regularly.
+The governing factor is not the temperature rise itself, but the temperature variations over a period of time. If abrupt variations without apparent cause are noticed, shut down the machine and renew the oil.
+Recommended oil changing intervals are about 20,000 operating hours.
+After the machine has come to a stand-still, the old oil is drained out of the bearings and oil tank and operate the oil pump with kerosene for a short time and then with oil to clean the bearings.
+For the oil pump, the oil tank, the cooler and the pipe lines: Pour in the kerosene and then the oil through the filling opening of the oil tank. Leave the drains open from time to time until all the kerosene has been removed and clean oil runs out of the bearings and oil tank. Then plug the drains and fill the tank with oil. Should the bearing temperature not drop to the normal value after the oil change, it is recommended that the surfaces of the bearing shells be inspected.
+8.5.3 Dismantling, assembling
+Supplementary Sleeve Bearing User’s Manual.
+8.6. Maintenance of stator and rotor winding
+The windings of rotating electrical machines are subjected to electrical, mechanical and thermal stress. The windings and insulation gradually age and deteriorate due to these stresses. Therefore, the service life of the machine often depends on the insulation durability.
+Many processes leading to damages can be prevented or at least slowed down with appropriate maintenance and regular testing. This character offers a general description on how to perform basic cleaning, maintenance and test.
+Before conducting any maintenance work on the electrical windings, general electrical safety precautions are to be taken and local regulations are to be respected in order to prevent personnel accidents.
+Independent test and maintenance instructions can also be found in the following international standards:
+• IEEE Std 43-2000, IEEE Recommended Practice for Testing insulation Resistance of Rotating Machines
+8.6.1 Cleaning of stator and rotor winding
+Insulated windings should be kept reasonably clean of dirt, oil, metal particles and other contaminants. A film of dirty oil tends to accumulate particles that may interfere with satisfactory ventilation of the machine.
+Access the rotor and stator assemblies and then clean windings using one or all of the following methods.
+  Hyundai Electric &amp; Energy Systems, Co., Ltd
+Rotating Machines
+34
+
+Chapter 8 Maintenance
+W ARNING
+Use cleaning solution in an open or well-ventilated area; avoid breathing fumes. Keep away from open flames. Do not use a wire brush or a steel blade scraper to clean parts. Do not use gasoline, fuel oil or kerosene for cleaning.
+8.6.1.1 Cleaning method
+1. Vacuum Cleaning
+To remove dust, dirt and particles the use of suction is preferable to blowing out with compressed air, since there is less possibility of damage to insulation and less chance of blowing conducting or harmful particles into areas that may later result in damage during operation.
+2. Compressed Air Cleaning
+Compressed air to blow out loose dust and particles from inaccessible areas such as air ducts and between stator end turns.
+3. Solvent Cleaning
+Solvent Cleaning: A method for removing all visible oil, grease, soil, drawing and cutting compounds, and other soluble contaminants from steel surfaces. It is intended that solvent cleaning be used prior to the application of paint and in conjunction with surface preparation methods specified for the removal of rust, mill scale, or paint.
+3.1 System Procedure Before Solvent Cleaning
+Prior to solvent cleaning, remove foreign matter (other than grease and oil) by one or a combination of the following: brush with stiff fiber or wire brushes, abrade, scrape, or clean with solutions of appropriate cleaners, provided such cleaners are followed by a fresh water rinse.
+3.2 Methods of Solvent Cleaning
+Remove heavy oil or grease first by scraper. Then remove the remaining oil or grease by either of the following methods:
+1) Wipe or scrub the surface with rags or brushes wetted with solvent. Use clean solvent and clean rags or brushes for the final wiping. Acceptable solvents are lacquer thinner and denatured alcohol.
+2) Steam clean, using detergents or cleaners and follow by steam or fresh water wash to remove detrimental residues.
+3) Solvent cleaned surfaces should be primed or prepared as specified before any detrimental corrosion or recontamination occurs.
+4. Steam Cleaning
+To provide general guidelines for steam cleaning electrical winding, stator and rotor that have been processed through a complete resin impregnation and cure process.
+(Do not steam clean green windings.)
+4.1 Scope
+1) Cleaning and removal of foreign materials that have accumulated near or on the windings of stators, rotors, exciters, armatures.
+2) Cleaning of the outside of these units; provided the defined bake times required to dry the unit after cleaning is adhered to.
+4.2 Definitions (optional)
+1) Green winding – any winding that does not have a fully cured application of resin or varnish on it.
+4.3 Special Tools Required
+1) Vacuum Cleaner – preferably with a clean filter so any collected materials can be bagged and saved for evaluation.
+2) Preheated oven large enough to accommodate the part.
+3) Water containment system to assure water is diverted to a location it can be recovered from and properly disposed of.
+4) Calibrated temperature measuring device.
+8.6.1.2 Cleaning instructions
+       Hyundai Electric &amp; Energy Systems, Co., Ltd
+Rotating Machines
+35
+
+Chapter 8 Maintenance
+1. Electrical Windings
+• Remove any baffles, shrouds, or other feature that may be removed that could block access to the
+areas that require cleaning.
+• Vacuum the loose debris from the unit. (DO NOT use an air hose at this operation.)
+If practical, use a vacuum with a bag and send the bag with materials collected to QC when task is complete (this is most important for warranty repair work).
+• Initiate pre-heat of oven at 50 – 65 0C before starting the steam cleaning process.
+The oven must be preheated before placing the just cleaned part into it. Oven must have calibrated
+controls and have a temperature recording chart in use.
+• Do not begin steam cleaning frame until the steam cleaner spray is clearly a mixture of steam and water. (Do not use soap or detergent.)
+• Make sure the waste water is diverted to a location where it can be contained.
+• Make sure no unauthorized personnel are in the work area for safety reasons. • To avoid the risk of damage from the steam cleaning process:
+1) The nozzle should typically be held 305 to 610 mm from any coil. The practical minimum Distance from nozzle to coils is 105 mm.
+2) Avoid a direct spray onto any temperature sensing device or its leads.
+3) Only turn the stream of steam on when the wand or nozzle is moving and turn it off before it stops moving.
+4) The motion of the wand should create a sweeping type action. 5) Do not apply a continuous stream to any point on the windings.
+• Start cleaning at the top surfaces and gradually work down. Repeat the process several times as
+needed. Estimated time to clean parts effectively is a minimum of 15minutes plus 3 minutes for every 450 kg of mass. The actual time will vary based on the condition of the unit, but everyeffort should be made to completely clean the unit so a second cleaning can be avoided.
+• Place the unit into a preheated 50 – 65 0C oven as soon as possible, but not to exceed 90 minutes from the time the cleaning operation is complete.
+• Have inspection visually verify the unit is clean and free of damage.
+1) Look for any damage to coils or leads. Highest risk is damage caused by high pressure fluids hitting coil wedges, temperature sensors, space heaters, and coils.
+2) Look for evidence of residual debris or dirt that may not have been removed by the steam cleaning process. If a possible problem area exists, sample the area by applying a strip of masking tape to the area, removing and attaching the masking tape to clear plastic film.
+Identify the location the sample was collected from and forward samples with this work instruction.
+2. Stator and Rotor cores
+• Remove any baffles, shrouds, or other feature, that may be removed, that could block access to the areas that require cleaning.
+• Vacuum the loose debris from the unit. (DO NOT use an air hose at this operation.)
+• Remove any oil, grease or similar materials from the unit with a combination of scrapers, cloths,
+solvents, or high pressure fluid stream at room temperature or cooler.
+• Preheat the part in an oven at 105 – 120 0C before starting the steam cleaning process. The oven
+must be preheated before placing the part into it. Oven must have calibrated controls and have a temperature recording chart in use.
+• Do not begin steam cleaning frame until the steam cleaner spray is clearly a mixture of steam and water. (Do not use soap or detergent.) Check temperature of fitting as it enters the flow control handle.
+I should be greater than 65 0C.
+• Make sure the waste water is diverted to a location where it can be contained.
+  Hyundai Electric &amp; Energy Systems, Co., Ltd
+Rotating Machines
+36
+
+Chapter 8 Maintenance
+• Make sure no unauthorized personnel are in the work area for safety reasons.
+• Start cleaning at the top surfaces and gradually work down. Repeat the process several times as
+needed. Estimated time to clean parts effectively is a minimum of 15minutes plus 3 minutes for every 450 kg of mass. The actual time will vary based on the condition of the unit, but every effort should be
+ made to completely clean the unit so a second cleaning can be avoided. Orient freely drain and not puddle in hidden recesses.
+• Cleaning must include in this order:
+1) The slots in the stator or rotor.
+2) The vents in the core.
+3) The Outer diameter of the stator and around the stator studs if applicable 4) Any accessible area on the Inside of the frame
+5) The entire outside of the frame.
+the part so it will
+• Place the unit into a preheated 105 – 120 0C oven as soon as possible, but not to exceed 90 minutes from the time the cleaning operation is complete. The oven must be preheated before placing the just
+cleaned part into it. Oven must have calibrated controls and have a temperature recording chart in use. • Have inspection visually verify the unit is clean and free of damage
+8.6.2 The correct operating temperature
+The correct temperature of the windings is ensured by keeping the exterior surfaces of the machine Clean, by seeing to the correct operation of the cooling system by monitoring the temperature sensors.
+For air cooled machines it is important to the cleanliness of air inlets and outlets of air filter.
+If the machine is equipped with the temperature detectors, stator operating temperature must be monitored. Significant temperature differences among the detectors or high temperature could be a sign of damage in the windings.
+8.6.3 Insulation resistance test
+During general maintenance work and before the machine is started up for the first time or after long standstill period, the insulation resistance of stator and rotor windings must be measured.
+The insulation resistance measurement provides information about the humidity and dirtiness of the insulation. Based upon this information, correct cleaning and drying actions can be determined.
+For new machines with dry winding, the insulation resistance is very high. The resistance can, however, be extremely low if the machine has been subjected to incorrect transportation and storage conditions and humidity, or if the machine is operated incorrectly.
+NOTE !
+Windings should be earthed briefly immediately after measurement in order to avoid risk of electric shock.
+Conversion of measured insulation value
+In order to be able to compare measured insulation resistance value, the values are stated at 40°C. The actual measured value is therefore converted to a corresponding 40°C value with the help of the following figure. The use of this figure should be limited to temperature near to the standard value of 40°C, since large deviations from it could result in errors.
+      Hyundai Electric &amp; Energy Systems, Co., Ltd
+Rotating Machines
+37
+
+Chapter 8 Maintenance
+  Fig. 8.6.3 Correlation between the insulation resistance and the temperature
+• Rc : Insulation resistance value corrected to 40°C
+• Rt : Measured insulation resistance at temperature t°C
+• Kt : Insulation resistance temperature coefficient at temperature t°C
+Example :
+Rt = 30 MΩ measured at 20°C Kt = 0.5
+R40 = 0.5 x 30 = 15 MΩ
+General consideration
+The following consideration should be noted, before deciding any actions based upon the insulation resistance tests :
+• If the measured value is considered too low, the winding must be cleaned and /or dried, see Chapter 8.6.7 Drying for details.
+• Machines, that are suspected to have a moisture problem, should be dried carefully independent of the measured insulation resistance value.
+• The insulation resistance value will decrease when the winding temperature rises.
+• The resistance is halved for every 10-15°C temperature rise.
+Minimum values for insulation resistance
+The limit values for minimum insulation resistance and critical insulation resistance(for measurement at a winding temperature of 25°C) and for measuring voltage can be derived from the following table depending on the rated voltage for the machine.
+ Hyundai Electric &amp; Energy Systems, Co., Ltd
+Rotating Machines
+38
+
+Chapter 8 Maintenance
+   Limit values at rated voltage
+      Measuring voltage
+Minimum insulation resistance with new machine.
+Cleaned of repaired windings Critical specific insulation Resistance after long period operation
+Rated voltage &lt; 2kV 500V DC
+(Min. 100V DC)
+10 MΩ
+0.5 MΩ / kV
+Rated voltage ≥ 2kV 500V DC
+(Max. 1000V DC)
+100 MΩ
+5 MΩ / kV
+         Stator winding insulation resistance measurement
+The insulation resistance is measured using an insulation resistance meter. The test voltage is 500V or 1000 VDC. The test time is 1 minute, after which the insulation resistance value is recorded. Before the insulation resistance test is conducted, check that :
+CAUTION
+If any CT or PT of generator is earthed, it should be removed before megger test.
+• Opening the side cover of cable gland (or main terminal) box on generator top side. • You can see the generator main bus bars.
+• Connect the each terminal of Megger Tester between Main Bus Bar (One Phase) and frame
+earthling.
+• If the measurement value is greater than 100 MOHM, the condition of generator stator winding is
+O.K. If not so good, please sufficiently dry the generator windings using the space heater installed into generator body. And then retry the megger test.
+• After megger test, please connect the jumper line between main bus bar and frame earthling in order to remove the voltage charged into the generator stator windings.
+(Please note that this action is for the safety.)
+Insulation resistance measurement of the rotor field winding and excitation machine
+The test voltage for the rotor winding and excitation machine is 100V or 500VDC. When testing the windings of the rotors:
+• Short circuit the rectifier before measuring
+• Measure the rotor winding temperature if possible or estimate otherwise measurement temperature of the rotor winding.
+• Opening the air intake side (or inspection cover) of frame body.
+• You can see the rotating rectifier's rings on the generator rotor part
+• Connect the each terminal of 500V Megger Tester between Rectifier Ring (for Rotating Diode) and Frame Eathing.
+• If the measurement value is greater than 10 MOHM, the condition of generator rotor winding
+is O.K. If not so good, please sufficiently dry the generator windings using the space heater installed into generator body. And then retry the megger test.
+• After megger test, please connect the jumper line between rectifier ring and frame earthing in order to remove the voltage charged into the generator rotor windings.
+(Please note that this action is for the satiety.) When testing the stator winding of the excitation machine: • Disconnect the power supply cables from the voltage source.
+• Connect the insulation resistance meter between the stator winding and the frame of machine as shown in below figure.
+      Hyundai Electric &amp; Energy Systems, Co., Ltd
+Rotating Machines
+39
+
+Chapter 8 Maintenance
+  • Measurement of winding of the rotors.
+• Measurement of the stator winding of the excitation machine. MΩ represents the insulation
+resistance meter.
+8.6.4 Polarization index for Medium voltage machine
+For the polarization index test the insulation resistance is measured after the voltage has been applied for 15 seconds and 1 minute (or 1 minute and 10 minutes). The polarization index test is less dependent on the temperature is below 50°C, it may be considered independent of temperature. High temperatures can cause unpredictable changes in the polarization index. Therefore the test should not be used in temperature above 50°C.
+Dirt and humidity accumulating in the winding normally reduces the insulation resistance, and the polarization index, as well as their dependence on temperature.
+There are several rules for determining the lowest acceptable value with which the machine can be safely started. For the polarization index (PI), the values usually range between 1 and 4. Value close to 1 indicate that the windings are humid and dirty.
+The minimum PI value for class H stator winding is more than 2, where PI = 𝑅1𝑚𝑖𝑛 or PI = 𝑅10𝑚𝑖𝑛
+𝑅1.5𝑠 𝑅1𝑚𝑖𝑛
+Note !
+If the 1 minute insulation resistance is above 5000 MΩ, it can be disregarded.
+8.6.5 High voltage test
+A voltage test is used to check for electrically weak spots in the windings that may lead to insulation failure during servicing. It is carried out during major inspections, troubleshooting and repairs.
+     8.6.6 Visual winding inspection
+Winding inspection give information on:
+• The rate of contamination ; presence of dirt and humidity
+• Stability of bracings, vibration marks, and cracking Hyundai Electric &amp; Energy Systems, Co., Ltd
+Rotating Machines
+ 40
+
+Chapter 8 Maintenance
+• Marks of overheating
+• Marks of movement
+• Tightness of the slot wedges
+• Winding overhangs and their supports
+When examining the contamination, particular attention should be paid to the open creep age surfaces, as the insulation resistance is easily affected by the dirt accumulating there.
+Accumulating dirt blocks the coil gaps and air ducts, and thus diminishes the cooling capacity of the machine. As a result, the winding temperature rises, and aging may speed up considerably.
+Mechanical strain, vibration, and shocks may cause cracks on the edges of the supports, bindings, and around slot ends. Loose supports and slot wedges are signs of further deterioration. Check for abrasion marks and powder near the supports, bindings, and at the slot ends. Complete loosening of the slot wedges and bent coils are serious problem that must be rectified immediately.
+Humidity in the winding often causes e.g. rust on iron, drop marks, dripping, and wetting marks on dirt layers. Brush-shaped patterns, often charred and left behind by the tracking currents, warm of an approaching failure. In rare cases, the conductors are corroded.
+Marks of the electrical effects (apart from tracking current marks), are usually hidden inside the slot and conductor insulations.
+The following are marks of overheating:
+Copper in the damper windings grows darker (darkening may also be due to the gases in the environment), and it oxidizes.
+• Core laminations of the rotor become blue (over 350°C)
+• There are color differences in the fastening bolts of synchronous machines.
+• Insulation may shrink or split (usually over 200°C), bindings may crack (over 200°C), and polyester film or fibers may melt (over 250°C).
+Prolonged periods over temperatures cause premature aging. The insulating materials become brittle and darken in the early, stages. As a result, the windings split, disintegrate, and fracture.
+8.6.7 Drying
+The winding must be dried:
+• After washing (especially water wash and rinse)
+• If they have become humid in use or during a standstill.
+Drying should always be started with an external blower or warm air. Other means should be
+attempted, only if blower and warm air do not suffice.
+During drying, the rate of temperature rise of the winding should not exceed 5 K per hour, and the final temperature should not exceed 105°C. A sudden temperature rise or a too high final temperature can cause steam to be formed in the cavities of the winding, which in turn can destroy the windings. During the drying process, the temperature should be monitored periodically, and the insulation resistance should be measured at regular intervals.
+A very wet machine should be dismantled and the winding dried in an oven. Every part should be checked. If the machine is not very wet, the winding can be dried by passing a current through it.
+  Hyundai Electric &amp; Energy Systems, Co., Ltd
+Rotating Machines
+41
+
+Chapter 8 Maintenance
+If the winding is dried by passing a current through it, the source of electricity can be e.g. a welding machine or a similar device.
+Note !
+Direct current or alternate current can be used. The current must not exceed 25% of the nominal current, which is indicated on the rating plate on the machine. The winding temperature should also be continuously monitored.
+When drying in an oven, the temperature rise and the maximum temperature should be monitored carefully. The oven temperature should be around 90°C for 12 to 16 hours and then 105°C, for 6 to 8 hours. These times can vary, and the correct time should be monitored with and insulation resistance test.
+Drying in an oven with good ventilation is the most effective technique. Unfortunately this is not usually possible at the machine’s operating site. Therefore, either hot-air-blow or heating the windings with current should be used.
+An insulation resistance test should be performed after drying the windings. When drying is started, the insulation resistance decreases due to the temperature rise. As the drying continuous, however, the insulation resistance increases until it reaches a stable value.
+8.6.8 Maintenance related to electrical performance, excitation, control and Protection
+8.6.8.1 Protection trips
+The synchronous machine needs to be protected with alarms or alarms/trips in case of abnormal running conditions, both electrical and mechanical. Some of these protections can be reset and the machine restarted directly as the fault is located.
+8.6.8.2 Automatic voltage regulator (AVR)
+The automatic voltage regulator (AVR) is important in controlling and protecting the machine, and problems in connections or settings of the AVR might lead to different types of operational faults. For detailed information about AVR see Annex 2 - AVR manual.
+8.6.8.3 Insulation resistance measurement for auxiliaries
+To ensure correct operation of the machines protections and other auxiliaries, their condition can also be determined by an insulation resistance test, however this is not recommended.
+8.6.8.4 Diode fault
+If a diode in the rotating rectifier fails, the generator must be tripped. To determine and locate a faulty diode:
+Open the rectifier covers at the non-drive end of the machine and measure the voltage with an ohm- meter over one of the diodes.
+If diode failure is detected, disconnect all diodes and test them separately to locate the faulty diode. To replace faulty diodes:
+• Open the rectifier cover at Non-Drive end of the machine.
+• Disconnect the wires connected to the diodes and exciter winding connection cables.
+• Check the condition of the diodes by measuring the voltage over a diode in both directions • Replace the damaged diode(s).
+• Clean the contact surface and apply electric joint compound.
+       Hyundai Electric &amp; Energy Systems, Co., Ltd
+Rotating Machines
+42
+
+Chapter 8 Maintenance
+• Fasten the diode(s). Bind the connection leads of the diodes as on original assembly. • Check fastening and locking of all rectifier bridge components.
+• Make sure that no tools etc. are inside the machine and close the service covers.
+After replacing the diodes, the condition of the diodes can be checked by comparing no-load excitation current to commissioning values. A diode failure result as a significant increase or decrease in excitation current.
+  Hyundai Electric &amp; Energy Systems, Co., Ltd
+Rotating Machines
+43
+
+Chapter 9 Troubleshooting
+9.1 General
+This chapter is intended as a help in the event of an operational failure with an HHI delivered machine. The troubleshooting charts given below can aid in locating and repairing mechanical, electrical and thermal problems and problems associated with the lubrication system. The checks and corrective actions mentioned should always be conducted by qualified personnel. If in any doubt, the After Sales of HHI should be contacted for more information or technical assistance regarding troubleshooting and maintenance.
+For optional PMG-unit, see Annex 3. Permanent Magnet Regulator (PMG) User's Manual.
+ 9.2 Mechanical performance
+   The kind of experience
+Possible cause
+Corrective action
+Check lubricant quality and quantity and lubrication system function
+Check bearing condition and replace bearing parts Check alignment
+Inspect and repair cooling system Inspect and repair excitation system Check machine alignment Rebalance rotor
+Check rotor wedges, poles etcx, repair and rebalance rotor
+Check the balance of connected machinery and coupling type
+Check alignment and coupling function and type Check coupling function
+Reinforce foundation as per HHI instructions
+Check main machine and excitation machine windings
+Check that network balance fulfils requirements Check bearing pedestal alignment
+Check and clean machine interior, dry windings
+  Vibration
+x x
+x x x x
+x x
+Noise
+    Lubrication malfunction
+Bearing malfunction
+Faulty cooling fan(s)
+Damaged bearing parts Faulty bearing assembly Imbalanced or damaged fan(s)
+                   x Malfunctioning cooling system
+x Malfunctioning excitation system
+        x x x x
+x x
+x x
+x x x x
+x
+Machine misalignment Rotor or shaft imbalance
+Loose parts in rotor
+Vibration coming from connected machinery
+Axial load coming from connected machinery Faulty or incorrectly assembled coupling Insufficient foundation strength Reinforce foundation as per
+                            x Main machine or excitation machine winding fault
+    x x x x
+Excessive network unbalance
+    Bearing misalignment
+x Foreign material, moisture or dirt inside the
+machine
+        9.3 Lubrication system and rolling bearings The kind of experience
+      High Bearing Temper ature
+Lubrican t leaks
+Bearing noise or vibration
+Possible cause
+Insufficient lubrication Insufficient amount of grease
+Unsuitablegreasequalityor viscosity
+Excessive axial forces
+Corrective action
+Check bearing condition, add grease
+Check HHI grease recommendation, change grease
+Check coupling, mounting and alignment
+      x xxx x
+x
+            Faulty
+or mounting
+coupling
+       Hyundai Electric &amp; Energy Systems, Co., Ltd
+Rotating Machines
+44
+
+Chapter 9 Troubleshooting
+       xx Reduced grease quality xx
+Incorrect regreasing period
+Check HHI recommendation, regrease
+Check HHI operating and grease recommendations
+Clean bearing and add correct amount of lubricant
+Change grease, check bearing condition Check bearing and insulation condition
+Replace bearing
+Replace wom bearing parts
+Check bearing seals and lubricant quality
+Check bearing seals and lubricant quality Replace bearing, ensure correct assembly Rebalance machine, repair bearing bore and replace bearing
+Replace bearing
+Clean bearing assembly, check seal conditions and replace bearing.
+      Faulty conditions
+operating
+      x x
+x x x x
+x x x x x x
+Excessive lubrication Damaged bearing parts
+Faulty instrumentation
+Impurities in grease Bearing currents Complete bearing failure
+Normal wearing
+                              Faulty detector
+temperature
+      x x
+Faulty bearing seals Incorrectly assembled bearing
+     x x
+x Outer ring is rotating due to unbalanced load x Bearing noise due to deformed roller element x Foreign matter inside the bearing
+                    9.4 Thermal performance, open air cooling system The kind of experience
+     High High winding cooling air
+temperature temperature
+xx High intake air
+Possible cause
+Ambient temperature too high
+Exiting air is pulled back in
+Heat source nearby Dirty machine interior Faulty cooling arrangement
+Air intakes are blocked Air filter is clogged
+Corrective action
+Add ventilation to decrease ambient temperature
+Ensure sufficient clear distances surrounding the machine
+Place heat sources further away, check ventilation Inspect and repair cooling system
+         xx
+x x x x
+x x
+x X x x x x
+x x x
+x x x
+x x x
+temperature
+Faulty air flow
+                          Damaged cooling fan(s)
+Cooling fan rotating in the wrong direction
+Inspect and repair excitation system
+Check machine alignment
+Rebalance rotor
+Replace fan(s)
+Replace fan(s) or change rotating direction of external fan
+Check machine controls, eliminate overload
+Check actual speed and HHI recommendations
+Check that network balance fulfils requirements
+Check measurements, sensors and wiring
+Check main machine and excitation machine windings
+         Overload
+Overspeed Network unbalance
+Control system setting
+     speed
+        Faulty instrumentation or measurement system
+Main machine or excitation machine winding fault
+         Hyundai Electric &amp; Energy Systems, Co., Ltd
+Rotating Machines
+45
+
+Chapter 9 Troubleshooting
+9.5 Electrical performance and excitation system of generators
+The kind of experience
+Possible cause
+Speed variation of operating machine
+Incorrect setting or defect of auxiliary
+Corrective action
+Check speed control device of prime mover
+Check auxiliary relay of excitation panel and AVR setting parameter
+Check wiring of inside excitation panel and interface cable.
+Carry out the field flushing.
+Check transformer winding insulation resistance and connections
+Check transformer winding insulation resistance and connections
+Check operation of short circuit excitation system Check generator winding and insulation resistances
+Check exciter winding and insulation resistances Check connection and condition of rectifier components
+Check electrical connections in excitation system Check and adjust AVR setting parameters.
+Check AVR tuning (PID parameters) Check and replace AVR.
+Check AVR wiring and connections
+Check AVR condition
+Check connections and condition of voltage reference
+Check actual value measurement system and electrical connections
+xx
+x
+x x
+x
+x
+relay
+Incorrect wiring
+x
+x
+x x
+x
+x x
+x
+x x
+x
+x x
+x x x x
+x
+x x
+Field application failure
+x x
+x x x x
+x
+x x x x x x
+x
+Main generator winding fault
+Excitation system winding fault
+Faulty rotating rectifier
+Faulty wiring in excitation system Faulty AVR settings
+Incorrect AVR tuning parameters Defective AVR
+Voltage oscillation, poor response
+x
+x
+x x
+x x
+x
+x
+x
+x x
+x
+Demagnetized excitation magnet Defective parallel operation transformer
+Defective current transformer
+Short circuit excitation system failure
+Hyundai Electric &amp; Energy Systems, Co., Ltd
+Rotating Machines
+Faulty AVR wiring or incorrect connections Power factor variation over permitted values Faulty external voltage reference system No actual value information for AVR
+46
+                    Lost excitation
+Increase in excitation current
+Malfunction during start-up
+Performance deviation
+Operation not adjustable
+Faulty parallel operation
+                                         </Text>
         </Document>
         <Document ID="6D899136-E788-4290-B821-C609E552BE15">
             <Title>Introduction</Title>
@@ -1829,9 +3799,196 @@ Temperature can be measured in a variety of scales. When the temperature scale i
             <Title>Nuclear Propulsion</Title>
             <Text>tbd</Text>
         </Document>
+        <Document ID="CBA8D930-D1E9-47AF-8DC7-9753F09F7086">
+            <Title>introduction</Title>
+            <Text>Marine electric propulsion systems utilize generators to provide power for electric motors, which in turn drive the ship's propeller. The electric generators may be driven by any suitable prime mover, most commonly, diesel engines. While it may initially seem counterintuitive to interpose complex and costly equipment between the prime mover and the propeller when a simple line shaft and gearbox could transmit the power instead, there are valid justifications for the added complexity and expense. 
+The advantages of electric propulsion are as follows:</Text>
+        </Document>
         <Document ID="968C80D9-D89F-4198-95D9-B18F5128F14E">
             <Title>Radiation</Title>
             <Text>Radiation is a mode of heat transfer that does not require any physical contact between the warmer substance and the cooler substance. For example, a person sitting near a hot stove is warmed by radiant heat even though the air between the person and the stove may remain cold. Similarly, radiant heat from the sun warms the earth without warming the space through which it passes. 
+</Text>
+        </Document>
+        <Document ID="D3EB7D05-9591-4DD9-8A84-ABF80015DFFD">
+            <Title>DV951E001_MAIN ALTERNATOR_OPERATION MANUAL_PMG</Title>
+            <Text> Permanent Magnet Generator (PMG) User’s Manual for HSJ9 TYPE
+   www.hyundai-elec.com
+
+Manufacturer’s Address
+HYUNDAI ELECTRIC AND ENERGY SYSTEMS CO., LTD http://www.hyundai-elec.co.kr
+Head office (Sales and Marketing) :
+5 Floor, 55, Bundang-ro, Bundang-gu, Seongnam-si, Gyeonggi-do, Korea Tel. : +82 31 8006 6654, 6671
+Fax : +82 31 8006 6686
+Ulsan (Factory) :
+1000, bangeojinsunhwan-doro, Dong-gu, Ulsan, Korea Tel. : +82 52 202 6608
+Fax : +82 52 202 6689
+Service Inquiries: +82 52 202 6671
+PMG User’s Manual – HSJ9 TYPE
+ Important Notice
+Hyundai electric and energy system Co., Ltd cannot accept any responsibility for damage incurred as a result of mishandling the equipment regardless of whether particular reference is made in this instructions or not.
+Reproduction of the contents of this manual, in whole or in part, without permission of Hyundai electric and energy system Co., Ltd is prohibited.
+  HYUNDAI ELECTRIC
+2
+
+1. GENERAL INFORMATION
+1.1 Safety Notes ..............................................................................................................................4 1.2 Description ................................................................................................................................5 1.3 Construction .........................................................................................................................5 1.4 Operating temperature ...............................................................................................................6
+2. OPERATION
+2.1 Connection ................................................................................................................................7 2.2 Operation ....................................................................................................................7
+3. INSTALLATION
+3.1 Components ................................................................................................................................8 3.2 Mounting Process ....................................................................................................................8 3.2.1 Mounting PMG Rotor ass’y ...................................................................................................8 3.2.2 Mounting PMG Stator ass’y ..................................................................................................10 3.2.3 Mounting PMG Housing Cover ...............................................................................................12 3.2.4 Disassembly PMG ass’y .................................................................................................13
+PMG User’s Manual – HSJ9 TYPE
+ CONTENTS
+ HYUNDAI ELECTRIC
+3
+
+1. GENERAL INFORMATION 1.1 Safety Notes
+This manual concerns the Permanent Magnet Generator (PMG) which is installed on the generator’s shaft end and non drive-end side bearing.
+Before using the generator, it is important to read the whole of this user’s manual.
+All necessary operations and interventions on this machine should be performed by a qualified technician.
+Our technical support will be provided any additional information if required.
+The warnings (DANGER, WARNING, CAUTION, NOTICE, NOTE) are used to draw the user’s attention different points:
+PMG User’s Manual – HSJ9 TYPE
+       HYUNDAI ELECTRIC
+4
+
+1.2 Description
+The Permanent Magnet Generator (PMG) is a system which is used to supply the stable and reliable electric power for Automatic Voltage Regulator (AVR) regardless of the generator’s terminal voltage and to supply at least 300% rated current to the generator during short circuit of the generator terminals, which occurs for 2 ~ 10 seconds.
+The output AC voltage of PMG is increased proportionate to the speed. The output of it is connected to AVR’s input power terminals. The required field excitation power is supplied to the generator by the AVR.
+A PMG has a strong magnetic field that could interfere with an implanted medical device, such as a pacemaker. Do not go near the PMG if the worker has and implanted medical device.
+1.3 Construction
+The PMG consists of stator and rotor part. The detailed components are shown in the below figure. The stator part having the 3 phase windings is bolted on the bearing housing of non drive-end side. The rotor part having the permanent magnets for magnetic field is bolted on the shaft end.
+PMG User’s Manual – HSJ9 TYPE
+   1. Rectifier Cover
+2. Rectifier Assembly
+3. PMG Stator Assembly
+4. PMG Adaptor Ring
+5. PMG Rotor
+6. Bearing (Non Drive-end Side)
+&lt;Figure 1 PMG Construction&gt;
+ HYUNDAI ELECTRIC
+5
+
+1.4 Operation Temperature
+Since the performance of permanent magnet is sensitivity to the high temperature, draw attention to storage and operational conditions as follows:
+ Operation temperature : Max. 75°C  Storage temperature : Max. 85°C
+PMG User’s Manual – HSJ9 TYPE
+  HYUNDAI ELECTRIC
+6
+
+PMG User’s Manual – HSJ9 TYPE
+ 2. OPERATION 2.1 Connection
+The output terminals (2 or 3 phases) of PMG are brought out to the auxiliary terminal blocks of the generator. The PMG connections between generator terminal block and AVR should be correctly made as per AVR Connection diagram which is included in final drawing of generator.
+For the arrangement of auxiliary terminal blocks of the generator, please refer to the specification of generator.
+The schematic diagram of PMG excitation system is as below figure.
+&lt;Figure 2 PMG Excitation system&gt;
+2.2 Operation
+The typical operation range of PMG is as follows:
+ Output Voltage : 150 ~ 260Vac depending on the applied AVR Model.  Frequency : 150Hz ~ 250Hz depending on the No. of Pole and speed.
+   HYUNDAI ELECTRIC
+7
+
+3. INSTALLATION 3.1 Components
+ PMG Rotor Ass’y
+ PMG Stator Ass’y
+ PMG Housing Cover
+3.2 Mounting process
+3.2.1 Mounting PMG Rotor Ass’y 3.2.1.1 Case 1 : Without Adaptor Ring
+ Install the PMG Rotor at the end of Shaft by using stud bolts.&lt;Figure 3&gt;
+ Put the tongue washers on the hole of the PMG rotor, then tighten 6 pcs of hexagonal
+screws on the washer.&lt;Figure 4&gt;
+ Bend the 6 pcs of tongue washers to fix the fastened bolts and washers.&lt;Figure 5&gt;
+ Check the appearance of magnets and remove impurities on the surface of magnets.
+&lt;Figure 3 Installation of PMG Rotor&gt;
+&lt;Figure 4 Bending tongue washer&gt; &lt;Figure 5 Assembly of tongue washer and screw&gt;
+PMG User’s Manual – HSJ9 TYPE
+     HYUNDAI ELECTRIC
+8
+
+3.2.1.1 Case 2 : With Adaptor Ring
+ Install the Adaptor ring on the Bearing.&lt;Figure 6&gt;
+ Install the PMG Rotor at the end of Shaft by using stud bolts.&lt;Figure 3&gt;
+ Put the Tongue Washers on the hole of the PMG rotor, then tighten 6 pcs of hexagonal
+screws on the washer.&lt;Figure 4&gt;
+ Bend the 6 pcs of tongue washers to fix the fastened bolts and washers.&lt;Figure 5&gt;
+ Check the appearance of magnets and remove impurities on the surface of magnets.
+Because of Rotor’s magnets, the worker should not have the thing like credit card during PMG rotor assembly work.
+&lt;Figure 6 Installation of Adaptor ring &gt;
+PMG User’s Manual – HSJ9 TYPE
+    HYUNDAI ELECTRIC
+9
+
+ Install 2 pcs of guide bolts on the assembling surface of the bearing or on the adaptor ring if it is applied. &lt;Figure 7&gt;
+ Locate the guide bolts at 180 degree interval as shown in &lt;Figure 8&gt;.
+ Set the terminal box on the PMG stator to be headed upward, and insert the PMG stator
+along the guide bolts. It is recommended to apply the protection liner made of EGP or non-magnetic material on the outer surface of rotor to avoid damage between the PMG rotor and stator before stator inserting. &lt;Figure 9/10/11&gt;
+ Check the air gap between the PMG rotor and the PMG stator. &lt;Figure 12&gt;
+ When the PMG stator is handled, it is recommended that the stator should be lifted and
+installed with 2 people at least.
+Because of the Rotor’s magnets, the worker should not have the thing like credit card during PMG rotor assembly work.
+During the PMG stator assembly work, do not put hands on the bearing side. Because of very powerful magnetic force, the stator assembly may be attached so strongly to the bearing side. It can cause the dangerous state of the injury. Therefore, insert the PMG stator assembly very carefully.
+&lt;Figure 7 Installation of Guide bolts&gt; &lt;Figure 8 Location of Guide bolts&gt;
+PMG User’s Manual – HSJ9 TYPE
+ 3.2.2 Mounting PMG Stator Ass’y
+       HYUNDAI ELECTRIC
+10
+
+&lt;Figure 9 PMG stator assembly 1&gt; &lt;Figure 10 PMG stator assembly 2&gt;
+&lt;Figure 11 PMG stator assembly 3&gt;
+&lt;Figure 12 Air gap check&gt;
+PMG User’s Manual – HSJ9 TYPE
+      HYUNDAI ELECTRIC
+11
+
+PMG User’s Manual – HSJ9 TYPE
+ 3.2.3 Mounting the Rectifier ass’y &amp; Rectifier cover
+ Install the Rectifier ass’y and Rectifier cover. &lt;Figure 13 &amp; 14&gt;
+&lt;Figure 13 Installation of Rectifier ass’y &gt;
+&lt;Figure 14 Installation of Rectifier cover &gt;
+   HYUNDAI ELECTRIC
+12
+
+2) Disassemble the rectifier cover &amp; ass’y of the PMG.
+PMG User’s Manual – HSJ9 TYPE
+ 3.2.4 Disassembly PMG ass’y  Process
+1) Disconnect the wiring of the PMG terminal box.
+2) Disassemble the cover of the PMG.
+3) Insert the protection liner.
+4) Disassemble the PMG stator
+5) Disassemble the PMG rotor
+1) Disconnect the wiring of the PMG terminal box.
+  Loosen the bolts to open the cover of the terminal box.
+ Open the cover of the terminal box.
+ Disconnect the wiring of the terminal block.
+ Disassemble the flexible connector for the PMG.
+ &lt;Figure 15 Disconnection control cable&gt;
+  Loosen the bolts for the earth cables.
+ Loosen the bolts to open the cover of the Rectifier
+ass’y.
+ Open the cover and Loosen the bolts of rectifier
+ass’y
+ Remove the rectifier ass’y
+  &lt;Figure 16 Disassembly of cover&gt;
+ HYUNDAI ELECTRIC
+13
+
+3) Insert the protection liner.
+&lt;Figure 17 Inserting protection liner 1&gt; &lt;Figure 18 Inserting protection liner 2&gt;
+ Insert the protection liner made of EGP (t 0.5) or non-magnetic material between the stator core and the magnets.
+4) Disassemble the PMG stator.
+&lt;Figure 19 PMG stator disassembly 1&gt; &lt;Figure 20 PMG stator disassembly 2&gt;
+PMG User’s Manual – HSJ9 TYPE
+      HYUNDAI ELECTRIC
+14
+
+&lt;Figure 21 PMG stator disassembly 3&gt; &lt;Figure 22 After PMG stator disassembly&gt;
+ Pull the PMG stator out of PMG rotor.
+During the PMG stator disassembly work, do not put hands on the bearing side. Because of very powerful magnetic force, the stator assembly may be attached so strongly to the bearing side. And be careful not to fall over the object on the floor near the workshop. It can cause the dangerous state of the injury. Therefore, insert the PMG stator assembly very carefully.
+5) Disassemble the PMG rotor
+ Loosen the bolts between the PMG rotor and the shaft and disassemble the PMG rotor from the shaft.
+Because of the Rotor’s magnets, the worker should not have the thing like credit card during PMG rotor disassembly work.
+PMG User’s Manual – HSJ9 TYPE
+      HYUNDAI ELECTRIC
+15
 </Text>
         </Document>
         <Document ID="2F3949EE-0DEA-4AF2-BFA1-70AACFF382A7">

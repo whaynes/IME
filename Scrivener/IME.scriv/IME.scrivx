@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="9CEE092B-52A4-40FD-A463-60A47C53A797" Version="2.0" Creator="SCRMAC-3.3.1-15588" Device="whaynes-fireball-2" Author="" Modified="2023-06-06 12:40:08 -0400" ModID="539DF428-3DDE-4D52-B52F-265199AFDCFE">
+<ScrivenerProject Identifier="9CEE092B-52A4-40FD-A463-60A47C53A797" Version="2.0" Creator="SCRMAC-3.3.1-15588" Device="whaynes-MBP-2021" Author="" Modified="2023-06-15 07:45:54 -0400" ModID="621AD80F-7132-4502-A1ED-49FC72C09A59">
     <Binder>
         <BinderItem UUID="7A583553-3A84-40D6-B9B9-0430B8CD3E39" Type="DraftFolder" Created="2023-05-29 09:45:48 -0400" Modified="2023-05-29 09:45:48 -0400">
             <Title>Draft</Title>
@@ -27,7 +27,6 @@
                     <Title>Safety</Title>
                     <MetaData>
                         <SectionType>19994618-B85C-43F7-8889-C2BE42671C92</SectionType>
-                        <IncludeInCompile>Yes</IncludeInCompile>
                         <CustomMetaData>
                             <MetaDataItem>
                                 <FieldID>xml:id</FieldID>
@@ -43,7 +42,6 @@
                             <Title>objectives</Title>
                             <MetaData>
                                 <SectionType>BEB6ECD8-4CED-4BC3-88C4-382A387A971A</SectionType>
-                                <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>533,0</TextSelection>
@@ -53,7 +51,6 @@
                             <Title>Introduction</Title>
                             <MetaData>
                                 <SectionType>9D1ADC50-E7BB-4E40-BA04-CCA44927A08E</SectionType>
-                                <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>720,0</TextSelection>
@@ -62,7 +59,6 @@
                         <BinderItem UUID="3DF517E3-F28A-4318-BF3A-33F548D3D21B" Type="Folder" Created="2023-05-29 10:30:12 -0400" Modified="2023-06-03 11:49:33 -0400">
                             <Title>Hazards in the workplace</Title>
                             <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
                                 <CustomMetaData>
                                     <MetaDataItem>
                                         <FieldID>xml:id</FieldID>
@@ -78,7 +74,6 @@
                                     <Title>Introduction</Title>
                                     <MetaData>
                                         <SectionType>9D1ADC50-E7BB-4E40-BA04-CCA44927A08E</SectionType>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>297,0</TextSelection>
@@ -87,7 +82,6 @@
                                 <BinderItem UUID="6BF1DD9F-FC0F-4E60-8312-8BF30D0D909E" Type="Folder" Created="2023-05-29 10:30:12 -0400" Modified="2023-06-03 10:35:07 -0400">
                                     <Title>Slips, Trips and Falls</Title>
                                     <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
                                         <CustomMetaData>
                                             <MetaDataItem>
                                                 <FieldID>xml:id</FieldID>
@@ -99,33 +93,28 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                     <Children>
-                                        <BinderItem UUID="606E2F6A-318D-44EA-A9BC-81093A72CD2F" Type="Text" Created="2023-05-29 09:45:48 -0400" Modified="2023-06-06 11:32:32 -0400">
+                                        <BinderItem UUID="606E2F6A-318D-44EA-A9BC-81093A72CD2F" Type="Text" Created="2023-05-29 09:45:48 -0400" Modified="2023-06-05 20:04:29 -0400">
                                             <Title>Slips, trips and falls</Title>
                                             <MetaData>
                                                 <SectionType>7AF79F77-7E8C-44AC-96AE-BF3A8922D7D0</SectionType>
                                                 <StatusID>2</StatusID>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>866,0</TextSelection>
+                                                <TextSelection>1365,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                     </Children>
                                 </BinderItem>
                                 <BinderItem UUID="A87C6926-5E86-45CB-88E8-5CE5A6B31799" Type="Folder" Created="2023-05-29 10:30:12 -0400" Modified="2023-06-04 09:06:39 -0400">
                                     <Title>Mechanical Hazards</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
                                     <TextSettings>
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                     <Children>
-                                        <BinderItem UUID="EF444405-9209-4695-892C-21AAA9F96164" Type="Text" Created="2023-05-29 16:51:02 -0400" Modified="2023-06-06 11:41:24 -0400">
+                                        <BinderItem UUID="EF444405-9209-4695-892C-21AAA9F96164" Type="Text" Created="2023-05-29 16:51:02 -0400" Modified="2023-06-05 20:04:29 -0400">
                                             <Title>introduction</Title>
                                             <MetaData>
                                                 <SectionType>7AF79F77-7E8C-44AC-96AE-BF3A8922D7D0</SectionType>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
                                                 <TextSelection>23,0</TextSelection>
@@ -135,9 +124,6 @@
                                 </BinderItem>
                                 <BinderItem UUID="DE874D11-C7EF-4EE4-AEC4-705682EAE532" Type="Folder" Created="2023-05-29 10:30:12 -0400" Modified="2023-05-29 11:09:13 -0400">
                                     <Title>Electrical Hazards</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
                                     <TextSettings>
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
@@ -146,47 +132,24 @@
                                             <Title>introduction</Title>
                                             <MetaData>
                                                 <SectionType>7AF79F77-7E8C-44AC-96AE-BF3A8922D7D0</SectionType>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
                                                 <TextSelection>327,0</TextSelection>
                                             </TextSettings>
                                             <Children>
-                                                <BinderItem UUID="421B2EAF-A06A-4C9D-B8EC-73AF68C0A1BC" Type="Text" Created="2023-05-29 18:03:18 -0400" Modified="2023-06-06 12:37:20 -0400">
+                                                <BinderItem UUID="421B2EAF-A06A-4C9D-B8EC-73AF68C0A1BC" Type="Text" Created="2023-05-29 18:03:18 -0400" Modified="2023-06-05 20:04:29 -0400">
                                                     <Title>Electrical Shock</Title>
                                                     <MetaData>
                                                         <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
-                                                        <IncludeInCompile>Yes</IncludeInCompile>
                                                     </MetaData>
                                                     <TextSettings>
-                                                        <TextSelection>388,0</TextSelection>
-                                                    </TextSettings>
-                                                </BinderItem>
-                                                <BinderItem UUID="124BAB9A-8CEB-4F79-A650-587B56EEBB99" Type="Text" Created="2023-05-29 18:03:32 -0400" Modified="2023-06-05 20:04:29 -0400">
-                                                    <Title>Electrical Burns</Title>
-                                                    <MetaData>
-                                                        <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
-                                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                                    </MetaData>
-                                                    <TextSettings>
-                                                        <TextSelection>95,0</TextSelection>
-                                                    </TextSettings>
-                                                </BinderItem>
-                                                <BinderItem UUID="8ECCBCCE-C0A6-41A0-AD48-8268FE3E9605" Type="Text" Created="2023-05-29 18:03:36 -0400" Modified="2023-06-05 20:04:29 -0400">
-                                                    <Title>Electrocution</Title>
-                                                    <MetaData>
-                                                        <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
-                                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                                    </MetaData>
-                                                    <TextSettings>
-                                                        <TextSelection>379,0</TextSelection>
+                                                        <TextSelection>171,0</TextSelection>
                                                     </TextSettings>
                                                 </BinderItem>
                                                 <BinderItem UUID="9E616309-8789-4680-BDFB-F857A5A393B8" Type="Text" Created="2023-05-29 18:03:24 -0400" Modified="2023-06-05 20:04:29 -0400">
                                                     <Title>Electrical Fires</Title>
                                                     <MetaData>
                                                         <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
-                                                        <IncludeInCompile>Yes</IncludeInCompile>
                                                     </MetaData>
                                                     <TextSettings>
                                                         <TextSelection>247,0</TextSelection>
@@ -196,31 +159,44 @@
                                                     <Title>Arc Flash and Arc Blast</Title>
                                                     <MetaData>
                                                         <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
-                                                        <IncludeInCompile>Yes</IncludeInCompile>
                                                     </MetaData>
                                                     <TextSettings>
                                                         <TextSelection>235,720</TextSelection>
                                                     </TextSettings>
                                                 </BinderItem>
+                                                <BinderItem UUID="124BAB9A-8CEB-4F79-A650-587B56EEBB99" Type="Text" Created="2023-05-29 18:03:32 -0400" Modified="2023-06-05 20:04:29 -0400">
+                                                    <Title>Electrical Burns</Title>
+                                                    <MetaData>
+                                                        <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
+                                                    </MetaData>
+                                                    <TextSettings>
+                                                        <TextSelection>95,0</TextSelection>
+                                                    </TextSettings>
+                                                </BinderItem>
+                                                <BinderItem UUID="8ECCBCCE-C0A6-41A0-AD48-8268FE3E9605" Type="Text" Created="2023-05-29 18:03:36 -0400" Modified="2023-06-05 20:04:29 -0400">
+                                                    <Title>Electrocution</Title>
+                                                    <MetaData>
+                                                        <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
+                                                    </MetaData>
+                                                    <TextSettings>
+                                                        <TextSelection>0,0</TextSelection>
+                                                    </TextSettings>
+                                                </BinderItem>
                                             </Children>
                                         </BinderItem>
-                                        <BinderItem UUID="3CD03BD1-24CA-4A84-B699-27DE5B4BF51C" Type="Text" Created="2023-06-04 09:52:15 -0400" Modified="2023-06-06 12:39:53 -0400">
+                                        <BinderItem UUID="3CD03BD1-24CA-4A84-B699-27DE5B4BF51C" Type="Text" Created="2023-06-04 09:52:15 -0400" Modified="2023-06-05 20:04:29 -0400">
                                             <Title>Effects of Electrical Current on the Human Body</Title>
                                             <MetaData>
                                                 <SectionType>CBF56464-F86D-4F3B-97C4-3CE16CFA0500</SectionType>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>288,0</TextSelection>
+                                                <TextSelection>1733,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                     </Children>
                                 </BinderItem>
                                 <BinderItem UUID="E5053EE6-B45F-4083-9EB2-CC7D4399EA1E" Type="Folder" Created="2023-05-29 10:30:12 -0400" Modified="2023-05-29 11:09:15 -0400">
                                     <Title>Chemical Hazards</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
                                     <TextSettings>
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
@@ -229,7 +205,6 @@
                                             <Title>introduction</Title>
                                             <MetaData>
                                                 <SectionType>7AF79F77-7E8C-44AC-96AE-BF3A8922D7D0</SectionType>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
                                                 <TextSelection>170,0</TextSelection>
@@ -239,7 +214,6 @@
                                             <Title>Chemical Exposure</Title>
                                             <MetaData>
                                                 <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
                                                 <TextSelection>0,710</TextSelection>
@@ -249,7 +223,6 @@
                                             <Title>Chemical Storage</Title>
                                             <MetaData>
                                                 <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
                                                 <TextSelection>0,0</TextSelection>
@@ -259,7 +232,6 @@
                                             <Title>Handling and Transporation</Title>
                                             <MetaData>
                                                 <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
                                                 <TextSelection>0,0</TextSelection>
@@ -267,29 +239,20 @@
                                         </BinderItem>
                                     </Children>
                                 </BinderItem>
-                                <BinderItem UUID="EA75B660-3DFF-4017-9463-C04EB252C7FA" Type="Folder" Created="2023-05-29 10:30:12 -0400" Modified="2023-06-06 11:19:02 -0400">
+                                <BinderItem UUID="EA75B660-3DFF-4017-9463-C04EB252C7FA" Type="Folder" Created="2023-05-29 10:30:12 -0400" Modified="2023-06-05 20:04:29 -0400">
                                     <Title>Fire </Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
                                     <TextSettings>
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                     <Children>
                                         <BinderItem UUID="84386EA3-3FDE-43F5-8C06-CFF7BB7C8164" Type="Text" Created="2023-05-29 10:30:12 -0400" Modified="2023-05-29 10:30:12 -0400">
                                             <Title>Hot work</Title>
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                            </MetaData>
                                             <TextSettings>
                                                 <TextSelection>0,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem UUID="66E78489-5E26-4645-B3E5-EE2B8D9CB779" Type="Text" Created="2023-05-29 10:30:12 -0400" Modified="2023-05-29 10:30:12 -0400">
                                             <Title>Fire Prevention Measures</Title>
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                            </MetaData>
                                             <TextSettings>
                                                 <TextSelection>0,0</TextSelection>
                                             </TextSettings>
@@ -298,9 +261,6 @@
                                 </BinderItem>
                                 <BinderItem UUID="666815FB-B502-49C1-B94F-1F098EDCF2A7" Type="Folder" Created="2023-05-29 10:30:12 -0400" Modified="2023-06-04 09:06:39 -0400">
                                     <Title>Fatigue</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
                                     <TextSettings>
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
@@ -309,7 +269,6 @@
                                             <Title>Objectives</Title>
                                             <MetaData>
                                                 <SectionType>BEB6ECD8-4CED-4BC3-88C4-382A387A971A</SectionType>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
                                                 <TextSelection>758,0</TextSelection>
@@ -317,27 +276,18 @@
                                         </BinderItem>
                                         <BinderItem UUID="D9C51DF8-1157-4ABB-A4ED-C5F49CC0A325" Type="Text" Created="2023-06-03 10:04:13 -0400" Modified="2023-06-05 20:04:29 -0400">
                                             <Title>Introduction</Title>
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                            </MetaData>
                                             <TextSettings>
                                                 <TextSelection>673,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem UUID="CE8CEB48-1C64-4264-9B8F-E4558F72DD22" Type="Text" Created="2023-05-29 19:42:28 -0400" Modified="2023-06-05 20:04:29 -0400">
                                             <Title>Impaired cognitive function</Title>
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                            </MetaData>
                                             <TextSettings>
                                                 <TextSelection>0,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem UUID="9201FC73-C5B0-4339-9102-014A68698E2C" Type="Text" Created="2023-05-29 19:49:02 -0400" Modified="2023-06-05 20:04:29 -0400">
                                             <Title>IMO Guidelines</Title>
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                            </MetaData>
                                             <TextSettings>
                                                 <TextSelection>856,0</TextSelection>
                                             </TextSettings>
@@ -346,9 +296,6 @@
                                 </BinderItem>
                                 <BinderItem UUID="5120A7E2-BB5A-4588-9EC2-8D931AC37F1D" Type="Folder" Created="2023-05-29 10:30:12 -0400" Modified="2023-06-04 09:06:39 -0400">
                                     <Title>Confined Spaces</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
                                     <TextSettings>
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
@@ -357,7 +304,6 @@
                                             <Title>objectives</Title>
                                             <MetaData>
                                                 <SectionType>BEB6ECD8-4CED-4BC3-88C4-382A387A971A</SectionType>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
                                                 <TextSelection>118,0</TextSelection>
@@ -365,9 +311,6 @@
                                         </BinderItem>
                                         <BinderItem UUID="416DB2BB-CAF6-4CAA-BD38-12B589E1BB1B" Type="Text" Created="2023-06-03 10:04:57 -0400" Modified="2023-06-05 20:04:29 -0400">
                                             <Title>introduction</Title>
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                            </MetaData>
                                             <TextSettings>
                                                 <TextSelection>646,0</TextSelection>
                                             </TextSettings>
@@ -376,7 +319,6 @@
                                             <Title>Dangers</Title>
                                             <MetaData>
                                                 <SectionType>7AF79F77-7E8C-44AC-96AE-BF3A8922D7D0</SectionType>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
                                                 <TextSelection>0,0</TextSelection>
@@ -386,7 +328,6 @@
                                                     <Title>Lack of oxygen</Title>
                                                     <MetaData>
                                                         <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
-                                                        <IncludeInCompile>Yes</IncludeInCompile>
                                                     </MetaData>
                                                     <TextSettings>
                                                         <TextSelection>175,0</TextSelection>
@@ -396,7 +337,6 @@
                                                     <Title>Toxic gases and vapors</Title>
                                                     <MetaData>
                                                         <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
-                                                        <IncludeInCompile>Yes</IncludeInCompile>
                                                     </MetaData>
                                                     <TextSettings>
                                                         <TextSelection>84,0</TextSelection>
@@ -406,7 +346,6 @@
                                                     <Title>Fire and explosion risks</Title>
                                                     <MetaData>
                                                         <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
-                                                        <IncludeInCompile>Yes</IncludeInCompile>
                                                     </MetaData>
                                                     <TextSettings>
                                                         <TextSelection>169,0</TextSelection>
@@ -416,7 +355,6 @@
                                                     <Title>Engulfment or entrapment</Title>
                                                     <MetaData>
                                                         <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
-                                                        <IncludeInCompile>Yes</IncludeInCompile>
                                                     </MetaData>
                                                     <TextSettings>
                                                         <TextSelection>6,0</TextSelection>
@@ -426,7 +364,6 @@
                                                     <Title>Physical hazards</Title>
                                                     <MetaData>
                                                         <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
-                                                        <IncludeInCompile>Yes</IncludeInCompile>
                                                     </MetaData>
                                                     <TextSettings>
                                                         <TextSelection>174,1</TextSelection>
@@ -436,7 +373,6 @@
                                                     <Title>Extreme temperatures</Title>
                                                     <MetaData>
                                                         <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
-                                                        <IncludeInCompile>Yes</IncludeInCompile>
                                                     </MetaData>
                                                     <TextSettings>
                                                         <TextSelection>13,339</TextSelection>
@@ -446,7 +382,6 @@
                                                     <Title>Biological hazards</Title>
                                                     <MetaData>
                                                         <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
-                                                        <IncludeInCompile>Yes</IncludeInCompile>
                                                     </MetaData>
                                                     <TextSettings>
                                                         <TextSelection>8,0</TextSelection>
@@ -458,7 +393,6 @@
                                             <Title>Precautions</Title>
                                             <MetaData>
                                                 <SectionType>7AF79F77-7E8C-44AC-96AE-BF3A8922D7D0</SectionType>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
                                                 <TextSelection>443,0</TextSelection>
@@ -471,7 +405,6 @@
                         <BinderItem UUID="759750A9-2A37-4BA3-8494-E4E627A18D82" Type="Folder" Created="2023-05-29 10:30:12 -0400" Modified="2023-05-29 12:34:15 -0400">
                             <Title>Hazard Mitigation</Title>
                             <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
                                 <CustomMetaData>
                                     <MetaDataItem>
                                         <FieldID>xml:id</FieldID>
@@ -487,7 +420,6 @@
                                     <Title>Objectives</Title>
                                     <MetaData>
                                         <SectionType>BEB6ECD8-4CED-4BC3-88C4-382A387A971A</SectionType>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>450,0</TextSelection>
@@ -497,7 +429,6 @@
                                     <Title>Introduction</Title>
                                     <MetaData>
                                         <SectionType>9D1ADC50-E7BB-4E40-BA04-CCA44927A08E</SectionType>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>3,0</TextSelection>
@@ -505,9 +436,6 @@
                                 </BinderItem>
                                 <BinderItem UUID="F4A92438-A5C0-44C6-A400-F1A19E8CF612" Type="Folder" Created="2023-05-29 10:30:12 -0400" Modified="2023-06-05 20:04:29 -0400">
                                     <Title>Safety Management</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
                                     <TextSettings>
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
@@ -515,7 +443,6 @@
                                         <BinderItem UUID="E21C7AC5-6DB9-4370-8618-6389ACC50514" Type="Text" Created="2023-06-01 11:01:15 -0400" Modified="2023-06-05 20:04:29 -0400">
                                             <MetaData>
                                                 <SectionType>9D1ADC50-E7BB-4E40-BA04-CCA44927A08E</SectionType>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
                                                 <TextSelection>736,0</TextSelection>
@@ -523,9 +450,6 @@
                                         </BinderItem>
                                         <BinderItem UUID="EF069A83-E56B-4BF4-956B-3F444E307B6D" Type="Folder" Created="2023-05-29 10:30:12 -0400" Modified="2023-06-05 20:04:29 -0400">
                                             <Title>ISM Code</Title>
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                            </MetaData>
                                             <TextSettings>
                                                 <TextSelection>901,0</TextSelection>
                                             </TextSettings>
@@ -534,7 +458,6 @@
                                                     <Title>Ship Obligations</Title>
                                                     <MetaData>
                                                         <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
-                                                        <IncludeInCompile>Yes</IncludeInCompile>
                                                     </MetaData>
                                                     <TextSettings>
                                                         <TextSelection>1269,0</TextSelection>
@@ -544,7 +467,6 @@
                                                     <Title>Company Obligations</Title>
                                                     <MetaData>
                                                         <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
-                                                        <IncludeInCompile>Yes</IncludeInCompile>
                                                     </MetaData>
                                                     <TextSettings>
                                                         <TextSelection>5,0</TextSelection>
@@ -552,18 +474,12 @@
                                                 </BinderItem>
                                                 <BinderItem UUID="8F8066D3-5174-4A50-B2FA-1FE9E1AF9AA4" Type="Text" Created="2023-06-01 11:10:44 -0400" Modified="2023-06-01 11:10:59 -0400">
                                                     <Title>Crew Obligations</Title>
-                                                    <MetaData>
-                                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                                    </MetaData>
                                                     <TextSettings>
                                                         <TextSelection>0,0</TextSelection>
                                                     </TextSettings>
                                                 </BinderItem>
                                                 <BinderItem UUID="4BF3E8A7-1793-4614-B525-2AF0F6F34BB4" Type="Text" Created="2023-06-01 11:12:04 -0400" Modified="2023-06-05 20:04:29 -0400">
                                                     <Title>conclusion</Title>
-                                                    <MetaData>
-                                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                                    </MetaData>
                                                     <TextSettings>
                                                         <TextSelection>0,0</TextSelection>
                                                     </TextSettings>
@@ -572,36 +488,24 @@
                                         </BinderItem>
                                         <BinderItem UUID="D4499CD7-4218-4DDD-8ACB-A8A39325A1D6" Type="Text" Created="2023-05-29 10:30:12 -0400" Modified="2023-05-29 10:30:12 -0400">
                                             <Title>Components of a Safety Management System</Title>
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                            </MetaData>
                                             <TextSettings>
                                                 <TextSelection>0,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem UUID="9822F29A-1369-4670-BD26-B60F469484C4" Type="Text" Created="2023-05-29 10:30:12 -0400" Modified="2023-05-29 10:30:12 -0400">
                                             <Title>Management and Safety of Marine Engineering Operations (Modern Marine Engineers Manual Ch. 13)</Title>
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                            </MetaData>
                                             <TextSettings>
                                                 <TextSelection>0,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem UUID="CA520FD5-3488-4DAB-9E06-C3147927C1B7" Type="Text" Created="2023-05-29 10:30:12 -0400" Modified="2023-05-29 10:30:12 -0400">
                                             <Title>SOLAS</Title>
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                            </MetaData>
                                             <TextSettings>
                                                 <TextSelection>0,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem UUID="1D099C1C-1253-43A5-96FE-E29AE86FCFFE" Type="Text" Created="2023-05-29 10:30:12 -0400" Modified="2023-05-29 12:20:33 -0400">
                                             <Title>OSHA &amp;amp; 29CFR</Title>
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                            </MetaData>
                                             <TextSettings>
                                                 <TextSelection>0,0</TextSelection>
                                             </TextSettings>
@@ -610,17 +514,11 @@
                                 </BinderItem>
                                 <BinderItem UUID="90904326-E79D-4D52-88EA-B87F0A2DF6FF" Type="Folder" Created="2023-05-29 10:30:12 -0400" Modified="2023-05-29 11:08:51 -0400">
                                     <Title>Job Hazard Analysis</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
                                     <TextSettings>
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                     <Children>
                                         <BinderItem UUID="15A3F12D-4BFA-4CB8-9422-CCDE094256DA" Type="Text" Created="2023-05-29 12:49:53 -0400" Modified="2023-06-05 20:04:29 -0400">
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                            </MetaData>
                                             <TextSettings>
                                                 <TextSelection>1588,4</TextSelection>
                                             </TextSettings>
@@ -629,9 +527,6 @@
                                 </BinderItem>
                                 <BinderItem UUID="1CB996C0-251D-4B0B-852C-A8B7E4087242" Type="Folder" Created="2023-05-29 10:30:12 -0400" Modified="2023-05-29 21:44:57 -0400">
                                     <Title>Lock out-Tag out</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
                                     <TextSettings>
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
@@ -640,16 +535,12 @@
                                             <Title>Objectives</Title>
                                             <MetaData>
                                                 <SectionType>BEB6ECD8-4CED-4BC3-88C4-382A387A971A</SectionType>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
                                                 <TextSelection>106,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem UUID="6A664494-B5BB-4CB0-8BA9-B956F61D5B46" Type="Text" Created="2023-06-03 10:11:00 -0400" Modified="2023-06-05 20:04:29 -0400">
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                            </MetaData>
                                             <TextSettings>
                                                 <TextSelection>3,0</TextSelection>
                                             </TextSettings>
@@ -658,18 +549,12 @@
                                 </BinderItem>
                                 <BinderItem UUID="507F9C6F-5292-4381-B8D1-46E50CD5B1D3" Type="Folder" Created="2023-05-29 10:30:12 -0400" Modified="2023-06-05 20:04:29 -0400">
                                     <Title>Permit to work </Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
                                     <TextSettings>
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                     <Children>
                                         <BinderItem UUID="CE042EEC-0FBB-47A7-8333-9AE5CD612417" Type="Text" Created="2023-05-31 21:38:23 -0400" Modified="2023-06-05 20:04:29 -0400">
                                             <Title>Permit to work</Title>
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                            </MetaData>
                                             <TextSettings>
                                                 <TextSelection>929,0</TextSelection>
                                             </TextSettings>
@@ -681,7 +566,6 @@
                         <BinderItem UUID="4BB02E29-15A6-42B8-A3D7-95BE9B5774F9" Type="Folder" Created="2023-05-29 10:30:12 -0400" Modified="2023-05-29 12:33:12 -0400">
                             <Title>Personal Safety</Title>
                             <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
                                 <CustomMetaData>
                                     <MetaDataItem>
                                         <FieldID>xml:id</FieldID>
@@ -697,16 +581,12 @@
                                     <Title>objectives</Title>
                                     <MetaData>
                                         <SectionType>BEB6ECD8-4CED-4BC3-88C4-382A387A971A</SectionType>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>747,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="605273E1-9C2F-40A5-AE93-F1790AB6CC61" Type="Text" Created="2023-05-29 14:35:00 -0400" Modified="2023-06-05 20:04:29 -0400">
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
                                     <TextSettings>
                                         <TextSelection>114,0</TextSelection>
                                     </TextSettings>
@@ -715,7 +595,6 @@
                                     <Title>Maintain Situational Awareness</Title>
                                     <MetaData>
                                         <SectionType>2BB0CFC2-B3AF-41C8-B9CD-2CFA6D9B8C9D</SectionType>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>323,0</TextSelection>
@@ -725,7 +604,6 @@
                                     <Title>Follow Safe Working Procedures</Title>
                                     <MetaData>
                                         <SectionType>2BB0CFC2-B3AF-41C8-B9CD-2CFA6D9B8C9D</SectionType>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>0,0</TextSelection>
@@ -735,7 +613,6 @@
                                     <Title>Use PPE </Title>
                                     <MetaData>
                                         <SectionType>2BB0CFC2-B3AF-41C8-B9CD-2CFA6D9B8C9D</SectionType>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>149,0</TextSelection>
@@ -745,7 +622,6 @@
                                     <Title>Maintain Cleanliness and Organization</Title>
                                     <MetaData>
                                         <SectionType>2BB0CFC2-B3AF-41C8-B9CD-2CFA6D9B8C9D</SectionType>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>10,4</TextSelection>
@@ -755,7 +631,6 @@
                                     <Title>Practice Safe Lifting Techniques</Title>
                                     <MetaData>
                                         <SectionType>2BB0CFC2-B3AF-41C8-B9CD-2CFA6D9B8C9D</SectionType>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>421,0</TextSelection>
@@ -765,7 +640,6 @@
                                     <Title>Maintain Personal Fitness and Well-being</Title>
                                     <MetaData>
                                         <SectionType>2BB0CFC2-B3AF-41C8-B9CD-2CFA6D9B8C9D</SectionType>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>303,0</TextSelection>
@@ -775,7 +649,6 @@
                                     <Title>Follow Emergency Procedures</Title>
                                     <MetaData>
                                         <SectionType>2BB0CFC2-B3AF-41C8-B9CD-2CFA6D9B8C9D</SectionType>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>217,0</TextSelection>
@@ -785,7 +658,6 @@
                                     <Title>Practice Good Communication</Title>
                                     <MetaData>
                                         <SectionType>2BB0CFC2-B3AF-41C8-B9CD-2CFA6D9B8C9D</SectionType>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>378,0</TextSelection>
@@ -795,16 +667,12 @@
                                     <Title>Learn Continuously</Title>
                                     <MetaData>
                                         <SectionType>2BB0CFC2-B3AF-41C8-B9CD-2CFA6D9B8C9D</SectionType>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>296,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="13F6D922-B201-4C62-A1DB-50FE5DB88A38" Type="Text" Created="2023-05-29 14:49:09 -0400" Modified="2023-06-05 20:04:29 -0400">
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
                                     <TextSettings>
                                         <TextSelection>9,0</TextSelection>
                                     </TextSettings>
@@ -816,7 +684,6 @@
                 <BinderItem UUID="FE240C34-3316-4080-A433-65BA7E9ADA4A" Type="Folder" Created="2023-06-03 14:45:03 -0400" Modified="2023-06-04 13:44:46 -0400">
                     <Title>Personal Protective Equipment</Title>
                     <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
                         <CustomMetaData>
                             <MetaDataItem>
                                 <FieldID>xml:id</FieldID>
@@ -832,7 +699,6 @@
                             <Title>introduction</Title>
                             <MetaData>
                                 <SectionType>9D1ADC50-E7BB-4E40-BA04-CCA44927A08E</SectionType>
-                                <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>231,0</TextSelection>
@@ -840,9 +706,6 @@
                         </BinderItem>
                         <BinderItem UUID="018B1F5D-7CBC-4DC2-8D11-5B5365194BE8" Type="Folder" Created="2023-06-03 14:45:03 -0400" Modified="2023-06-03 14:48:28 -0400">
                             <Title>Head Protection</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
@@ -851,7 +714,6 @@
                                     <Title>Introduction</Title>
                                     <MetaData>
                                         <SectionType>F2CC3694-551C-46A7-BFD9-B161A49072A7</SectionType>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>132,0</TextSelection>
@@ -861,7 +723,6 @@
                                             <Title>Types of Head Protection</Title>
                                             <MetaData>
                                                 <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
                                                 <TextSelection>0,0</TextSelection>
@@ -871,7 +732,6 @@
                                             <Title>Fit</Title>
                                             <MetaData>
                                                 <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
                                                 <TextSelection>0,0</TextSelection>
@@ -883,9 +743,6 @@
                         </BinderItem>
                         <BinderItem UUID="C2BA585A-869D-426E-A8FB-42649BEE89F5" Type="Folder" Created="2023-06-03 14:45:03 -0400" Modified="2023-06-03 14:48:30 -0400">
                             <Title>Eye Protection</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
@@ -894,7 +751,6 @@
                                     <Title>Introduction</Title>
                                     <MetaData>
                                         <SectionType ChildDefault="9D1ADC50-E7BB-4E40-BA04-CCA44927A08E">F2CC3694-551C-46A7-BFD9-B161A49072A7</SectionType>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>986,0</TextSelection>
@@ -904,7 +760,6 @@
                                             <Title>Types of Eye Protection</Title>
                                             <MetaData>
                                                 <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
                                                 <TextSelection>827,0</TextSelection>
@@ -914,7 +769,6 @@
                                             <Title>Eye Protection for Welding</Title>
                                             <MetaData>
                                                 <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
                                                 <TextSelection>868,0</TextSelection>
@@ -926,9 +780,6 @@
                         </BinderItem>
                         <BinderItem UUID="62422D85-1CB2-41DA-A6F8-92122F08779D" Type="Folder" Created="2023-06-03 14:45:03 -0400" Modified="2023-06-03 14:48:33 -0400">
                             <Title>Hearing Protection</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
@@ -937,7 +788,6 @@
                                     <Title>Introduction</Title>
                                     <MetaData>
                                         <SectionType>F2CC3694-551C-46A7-BFD9-B161A49072A7</SectionType>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>2779,0</TextSelection>
@@ -947,7 +797,6 @@
                                             <Title>Types of Hearing Protectors</Title>
                                             <MetaData>
                                                 <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
                                                 <TextSelection>5346,0</TextSelection>
@@ -959,9 +808,6 @@
                         </BinderItem>
                         <BinderItem UUID="B7284B7E-6877-461F-86AD-F9D365AF130D" Type="Folder" Created="2023-06-03 14:45:03 -0400" Modified="2023-06-04 10:59:13 -0400">
                             <Title>Respiratory Protection</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
@@ -970,7 +816,6 @@
                                     <Title>Introduction</Title>
                                     <MetaData>
                                         <SectionType>F2CC3694-551C-46A7-BFD9-B161A49072A7</SectionType>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>1138,0</TextSelection>
@@ -980,7 +825,6 @@
                                             <Title>Types of Respirators</Title>
                                             <MetaData>
                                                 <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
                                                 <TextSelection>2335,0</TextSelection>
@@ -992,9 +836,6 @@
                         </BinderItem>
                         <BinderItem UUID="628E6611-8744-42F0-B6C9-70663C1385F7" Type="Folder" Created="2023-06-03 14:45:03 -0400" Modified="2023-06-03 14:48:39 -0400">
                             <Title>Arm and Hand Protection</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
@@ -1003,7 +844,6 @@
                                     <Title>Introduction</Title>
                                     <MetaData>
                                         <SectionType>F2CC3694-551C-46A7-BFD9-B161A49072A7</SectionType>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>0,0</TextSelection>
@@ -1013,7 +853,6 @@
                                             <Title>Types of Gloves</Title>
                                             <MetaData>
                                                 <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
                                                 <TextSelection>0,0</TextSelection>
@@ -1025,9 +864,6 @@
                         </BinderItem>
                         <BinderItem UUID="BA0DCC9C-FB8C-4014-AD8D-861B079A7C95" Type="Folder" Created="2023-06-03 14:45:03 -0400" Modified="2023-06-03 14:48:42 -0400">
                             <Title>Foot Protection</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
@@ -1036,7 +872,6 @@
                                     <Title>Introduction</Title>
                                     <MetaData>
                                         <SectionType>F2CC3694-551C-46A7-BFD9-B161A49072A7</SectionType>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>1673,0</TextSelection>
@@ -1046,7 +881,6 @@
                                     <Title>Types</Title>
                                     <MetaData>
                                         <SectionType>7AF79F77-7E8C-44AC-96AE-BF3A8922D7D0</SectionType>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>2491,0</TextSelection>
@@ -1059,7 +893,6 @@
                 <BinderItem UUID="275F7907-CEA1-497B-BC1C-F06954AB9524" Type="Folder" Created="2023-05-31 15:03:02 -0400" Modified="2023-06-03 08:13:29 -0400">
                     <Title>Marine Propulsion</Title>
                     <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
                         <CustomMetaData>
                             <MetaDataItem>
                                 <FieldID>xml:id</FieldID>
@@ -1073,9 +906,6 @@
                     <Children>
                         <BinderItem UUID="E8B35A66-8092-4914-8847-64DAA523FA34" Type="Folder" Created="2023-05-31 15:03:02 -0400" Modified="2023-06-05 19:57:53 -0400">
                             <Title>Introduction</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
@@ -1084,7 +914,6 @@
                                     <Title>Introduction overview</Title>
                                     <MetaData>
                                         <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>0,3</TextSelection>
@@ -1094,7 +923,6 @@
                                     <Title>Marine Propulsion</Title>
                                     <MetaData>
                                         <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>0,0</TextSelection>
@@ -1104,7 +932,6 @@
                                     <Title>Modes of propulsion</Title>
                                     <MetaData>
                                         <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>0,0</TextSelection>
@@ -1114,7 +941,6 @@
                                     <Title>Gas Turbines</Title>
                                     <MetaData>
                                         <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>0,0</TextSelection>
@@ -1122,9 +948,6 @@
                                 </BinderItem>
                                 <BinderItem UUID="1AE7692F-C1B7-444E-AA91-8E46093B4A85" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-06-05 20:04:29 -0400">
                                     <Title>Nuclear Propulsion</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
                                     <TextSettings>
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
@@ -1133,7 +956,6 @@
                                     <Title>Propellers, Thrusters, Pods, and Jets</Title>
                                     <MetaData>
                                         <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>0,0</TextSelection>
@@ -1141,12 +963,19 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
+                        <BinderItem UUID="746F2703-DAD7-41B7-9573-3251544B13AE" Type="Text" Created="2023-06-13 13:29:10 -0400" Modified="2023-06-13 13:29:10 -0400">
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem UUID="FEF72D55-55BA-4DC5-B68E-E934BDBE09B7" Type="Folder" Created="2023-06-04 11:39:42 -0400" Modified="2023-06-04 11:39:42 -0400">
-                    <Title>Principles of Thermodynamics</Title>
+                <BinderItem UUID="FEF72D55-55BA-4DC5-B68E-E934BDBE09B7" Type="Folder" Created="2023-06-04 11:39:42 -0400" Modified="2023-06-13 13:28:30 -0400">
+                    <Title>Principles of Thermodynamics - Susie</Title>
                     <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
                         <CustomMetaData>
                             <MetaDataItem>
                                 <FieldID>xml:id</FieldID>
@@ -1162,7 +991,6 @@
                             <Title>introduction</Title>
                             <MetaData>
                                 <SectionType>9D1ADC50-E7BB-4E40-BA04-CCA44927A08E</SectionType>
-                                <IncludeInCompile>Yes</IncludeInCompile>
                                 <CustomMetaData>
                                     <MetaDataItem>
                                         <FieldID>xml:id</FieldID>
@@ -1177,7 +1005,6 @@
                         <BinderItem UUID="DBFA52DC-1D9F-4D57-BD9D-86C083DCB06F" Type="Folder" Created="2023-06-04 11:39:42 -0400" Modified="2023-06-05 20:04:29 -0400">
                             <Title>Force</Title>
                             <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
                                 <CustomMetaData>
                                     <MetaDataItem>
                                         <FieldID>xml:id</FieldID>
@@ -1192,7 +1019,6 @@
                         <BinderItem UUID="61AE1694-8DF6-44E3-A7EB-61F20EDA72BE" Type="Folder" Created="2023-06-04 11:39:42 -0400" Modified="2023-06-04 11:39:42 -0400">
                             <Title>Pressure</Title>
                             <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
                                 <CustomMetaData>
                                     <MetaDataItem>
                                         <FieldID>xml:id</FieldID>
@@ -1208,7 +1034,6 @@
                                     <Title>introduction</Title>
                                     <MetaData>
                                         <SectionType>9D1ADC50-E7BB-4E40-BA04-CCA44927A08E</SectionType>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
                                         <CustomMetaData>
                                             <MetaDataItem>
                                                 <FieldID>xml:id</FieldID>
@@ -1223,7 +1048,6 @@
                                 <BinderItem UUID="815BC044-2586-4291-829E-F0C6DD075585" Type="Folder" Created="2023-06-04 11:39:42 -0400" Modified="2023-06-05 20:04:29 -0400">
                                     <Title>Head</Title>
                                     <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
                                         <CustomMetaData>
                                             <MetaDataItem>
                                                 <FieldID>xml:id</FieldID>
@@ -1238,7 +1062,6 @@
                                 <BinderItem UUID="694CE6D3-CDCF-4432-97FF-437DC78F0544" Type="Folder" Created="2023-06-04 11:39:42 -0400" Modified="2023-06-05 20:04:29 -0400">
                                     <Title>Atmospheric Pressure</Title>
                                     <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
                                         <CustomMetaData>
                                             <MetaDataItem>
                                                 <FieldID>xml:id</FieldID>
@@ -1253,7 +1076,6 @@
                                 <BinderItem UUID="D3A69991-48ED-4C86-B3FE-0D351BDF8FE5" Type="Folder" Created="2023-06-04 11:39:42 -0400" Modified="2023-06-05 20:04:29 -0400">
                                     <Title>Gage Pressure</Title>
                                     <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
                                         <CustomMetaData>
                                             <MetaDataItem>
                                                 <FieldID>xml:id</FieldID>
@@ -1268,7 +1090,6 @@
                                 <BinderItem UUID="1031EE7B-4AB3-46E4-9611-DDA92855C570" Type="Folder" Created="2023-06-04 11:39:42 -0400" Modified="2023-06-05 20:04:29 -0400">
                                     <Title>Absolute Pressure</Title>
                                     <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
                                         <CustomMetaData>
                                             <MetaDataItem>
                                                 <FieldID>xml:id</FieldID>
@@ -1283,7 +1104,6 @@
                                 <BinderItem UUID="EBF4FFA7-4B5B-46EB-A03D-61131E7AF5C0" Type="Folder" Created="2023-06-04 11:39:42 -0400" Modified="2023-06-05 20:04:29 -0400">
                                     <Title>Vacuum</Title>
                                     <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
                                         <CustomMetaData>
                                             <MetaDataItem>
                                                 <FieldID>xml:id</FieldID>
@@ -1298,7 +1118,6 @@
                                 <BinderItem UUID="42A75A9B-5EDE-4011-851B-47B5B46E0BEF" Type="Folder" Created="2023-06-04 11:39:42 -0400" Modified="2023-06-05 20:04:29 -0400">
                                     <Title>Pressure Conversions</Title>
                                     <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
                                         <CustomMetaData>
                                             <MetaDataItem>
                                                 <FieldID>xml:id</FieldID>
@@ -1314,7 +1133,6 @@
                                             <Title>psia to vacuum conversion</Title>
                                             <MetaData>
                                                 <SectionType>377EE401-2EDE-4A95-A5D9-961DF245887A</SectionType>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
                                                 <TextSelection>1,0</TextSelection>
@@ -1324,7 +1142,6 @@
                                                     <Title>Statement</Title>
                                                     <MetaData>
                                                         <SectionType>0E7D4855-8318-4C92-AADE-7CA18291E1B7</SectionType>
-                                                        <IncludeInCompile>Yes</IncludeInCompile>
                                                     </MetaData>
                                                     <TextSettings>
                                                         <TextSelection>26,0</TextSelection>
@@ -1334,7 +1151,6 @@
                                                     <Title>answer</Title>
                                                     <MetaData>
                                                         <SectionType>A609ADD0-B939-42A0-AE82-BCE58A64D5DA</SectionType>
-                                                        <IncludeInCompile>Yes</IncludeInCompile>
                                                     </MetaData>
                                                     <TextSettings>
                                                         <TextSelection>10,0</TextSelection>
@@ -1344,7 +1160,6 @@
                                                     <Title>solution</Title>
                                                     <MetaData>
                                                         <SectionType>1B99BA13-CEDE-4D91-8EE2-B05B3DD3A38E</SectionType>
-                                                        <IncludeInCompile>Yes</IncludeInCompile>
                                                     </MetaData>
                                                     <TextSettings>
                                                         <TextSelection>231,0</TextSelection>
@@ -1359,7 +1174,6 @@
                         <BinderItem UUID="B6E03637-F601-430B-B9D5-83DCE200C367" Type="Folder" Created="2023-06-04 11:39:42 -0400" Modified="2023-06-04 11:39:42 -0400">
                             <Title>Energy</Title>
                             <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
                                 <CustomMetaData>
                                     <MetaDataItem>
                                         <FieldID>xml:id</FieldID>
@@ -1375,7 +1189,6 @@
                                     <Title>introduction</Title>
                                     <MetaData>
                                         <SectionType>9D1ADC50-E7BB-4E40-BA04-CCA44927A08E</SectionType>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
                                         <CustomMetaData>
                                             <MetaDataItem>
                                                 <FieldID>xml:id</FieldID>
@@ -1390,7 +1203,6 @@
                                 <BinderItem UUID="9A588431-F7BD-483F-8AED-2EA5D8CAE96D" Type="Folder" Created="2023-06-04 11:39:42 -0400" Modified="2023-06-04 13:34:14 -0400">
                                     <Title>Mechanical Energy</Title>
                                     <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
                                         <CustomMetaData>
                                             <MetaDataItem>
                                                 <FieldID>xml:id</FieldID>
@@ -1406,7 +1218,6 @@
                                             <Title>Introduction</Title>
                                             <MetaData>
                                                 <SectionType>9D1ADC50-E7BB-4E40-BA04-CCA44927A08E</SectionType>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
                                                 <CustomMetaData>
                                                     <MetaDataItem>
                                                         <FieldID>xml:id</FieldID>
@@ -1421,7 +1232,6 @@
                                         <BinderItem UUID="34014151-A0E1-4C76-A85F-CA46CEA1AF00" Type="Folder" Created="2023-06-04 11:39:42 -0400" Modified="2023-06-05 20:04:29 -0400">
                                             <Title>Work</Title>
                                             <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
                                                 <CustomMetaData>
                                                     <MetaDataItem>
                                                         <FieldID>xml:id</FieldID>
@@ -1436,7 +1246,6 @@
                                         <BinderItem UUID="DE30FD0D-7F12-4025-A8E7-D8DAE261E5C4" Type="Folder" Created="2023-06-04 11:39:42 -0400" Modified="2023-06-05 20:04:29 -0400">
                                             <Title>Power</Title>
                                             <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
                                                 <CustomMetaData>
                                                     <MetaDataItem>
                                                         <FieldID>xml:id</FieldID>
@@ -1453,7 +1262,6 @@
                                 <BinderItem UUID="68250206-0728-4659-A41B-FEEBEDA9A0A7" Type="Folder" Created="2023-06-04 11:39:42 -0400" Modified="2023-06-04 11:39:42 -0400">
                                     <Title>Thermal Energy</Title>
                                     <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
                                         <CustomMetaData>
                                             <MetaDataItem>
                                                 <FieldID>xml:id</FieldID>
@@ -1469,7 +1277,6 @@
                                             <Title>introduction</Title>
                                             <MetaData>
                                                 <SectionType>9D1ADC50-E7BB-4E40-BA04-CCA44927A08E</SectionType>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
                                                 <CustomMetaData>
                                                     <MetaDataItem>
                                                         <FieldID>xml:id</FieldID>
@@ -1484,7 +1291,6 @@
                                         <BinderItem UUID="4DB0BBD2-EFB1-48F2-A91D-9657941C7452" Type="Folder" Created="2023-06-04 11:39:42 -0400" Modified="2023-06-05 20:04:29 -0400">
                                             <Title>Temperature</Title>
                                             <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
                                                 <CustomMetaData>
                                                     <MetaDataItem>
                                                         <FieldID>xml:id</FieldID>
@@ -1499,7 +1305,6 @@
                                         <BinderItem UUID="BF0E7F5C-4E54-48EA-B5D4-E752F704D087" Type="Folder" Created="2023-06-04 11:39:42 -0400" Modified="2023-06-05 20:04:29 -0400">
                                             <Title>Internal Energy</Title>
                                             <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
                                                 <CustomMetaData>
                                                     <MetaDataItem>
                                                         <FieldID>xml:id</FieldID>
@@ -1514,7 +1319,6 @@
                                         <BinderItem UUID="2D8576B6-E101-4CD4-A195-304F9570EE20" Type="Folder" Created="2023-06-04 11:39:42 -0400" Modified="2023-06-05 20:04:29 -0400">
                                             <Title>Heat</Title>
                                             <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
                                                 <CustomMetaData>
                                                     <MetaDataItem>
                                                         <FieldID>xml:id</FieldID>
@@ -1529,7 +1333,6 @@
                                         <BinderItem UUID="446F694B-EBA2-4C8F-9E26-3FE4F3F4A0D2" Type="Folder" Created="2023-06-04 11:39:42 -0400" Modified="2023-06-05 20:04:29 -0400">
                                             <Title>Enthalpy</Title>
                                             <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
                                                 <CustomMetaData>
                                                     <MetaDataItem>
                                                         <FieldID>xml:id</FieldID>
@@ -1544,7 +1347,6 @@
                                         <BinderItem UUID="A36A6298-BD0F-4435-84DC-D75571B55723" Type="Folder" Created="2023-06-04 11:39:42 -0400" Modified="2023-06-05 20:04:29 -0400">
                                             <Title>Units of Measurement</Title>
                                             <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
                                                 <CustomMetaData>
                                                     <MetaDataItem>
                                                         <FieldID>xml:id</FieldID>
@@ -1559,7 +1361,6 @@
                                         <BinderItem UUID="5BA168C1-9A91-4536-95AD-7CDB7BB77CBF" Type="Folder" Created="2023-06-04 11:39:42 -0400" Modified="2023-06-05 20:04:29 -0400">
                                             <Title>Heat Transfer</Title>
                                             <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
                                                 <CustomMetaData>
                                                     <MetaDataItem>
                                                         <FieldID>xml:id</FieldID>
@@ -1574,7 +1375,6 @@
                                                 <BinderItem UUID="4ED9208F-5DC3-4F69-9D22-3A96F0511552" Type="Folder" Created="2023-06-04 11:39:42 -0400" Modified="2023-06-05 20:04:29 -0400">
                                                     <Title>Conduction</Title>
                                                     <MetaData>
-                                                        <IncludeInCompile>Yes</IncludeInCompile>
                                                         <CustomMetaData>
                                                             <MetaDataItem>
                                                                 <FieldID>xml:id</FieldID>
@@ -1589,7 +1389,6 @@
                                                 <BinderItem UUID="968C80D9-D89F-4198-95D9-B18F5128F14E" Type="Folder" Created="2023-06-04 11:39:42 -0400" Modified="2023-06-05 20:04:29 -0400">
                                                     <Title>Radiation</Title>
                                                     <MetaData>
-                                                        <IncludeInCompile>Yes</IncludeInCompile>
                                                         <CustomMetaData>
                                                             <MetaDataItem>
                                                                 <FieldID>xml:id</FieldID>
@@ -1604,7 +1403,6 @@
                                                 <BinderItem UUID="167FE95C-777C-46A4-8B2C-C0FE550DA332" Type="Folder" Created="2023-06-04 11:39:42 -0400" Modified="2023-06-05 20:04:29 -0400">
                                                     <Title>Convection</Title>
                                                     <MetaData>
-                                                        <IncludeInCompile>Yes</IncludeInCompile>
                                                         <CustomMetaData>
                                                             <MetaDataItem>
                                                                 <FieldID>xml:id</FieldID>
@@ -1621,7 +1419,6 @@
                                         <BinderItem UUID="3BFA5BA8-DFA0-460E-A38F-A2B9A4084A3B" Type="Folder" Created="2023-06-04 11:39:42 -0400" Modified="2023-06-05 20:04:29 -0400">
                                             <Title>Sensible Heat and Latent Heat</Title>
                                             <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
                                                 <CustomMetaData>
                                                     <MetaDataItem>
                                                         <FieldID>xml:id</FieldID>
@@ -1636,7 +1433,6 @@
                                         <BinderItem UUID="9C10A308-3E10-429C-9719-E1D92271375F" Type="Folder" Created="2023-06-04 11:39:42 -0400" Modified="2023-06-05 20:04:29 -0400">
                                             <Title>Specific Heat</Title>
                                             <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
                                                 <CustomMetaData>
                                                     <MetaDataItem>
                                                         <FieldID>xml:id</FieldID>
@@ -1655,7 +1451,6 @@
                         <BinderItem UUID="1712D062-7169-42DB-B312-64BA4BE461A9" Type="Folder" Created="2023-06-04 11:39:42 -0400" Modified="2023-06-04 11:39:42 -0400">
                             <Title>Energy Transformations</Title>
                             <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
                                 <CustomMetaData>
                                     <MetaDataItem>
                                         <FieldID>xml:id</FieldID>
@@ -1671,7 +1466,6 @@
                                     <Title>introduction</Title>
                                     <MetaData>
                                         <SectionType>9D1ADC50-E7BB-4E40-BA04-CCA44927A08E</SectionType>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
                                         <CustomMetaData>
                                             <MetaDataItem>
                                                 <FieldID>xml:id</FieldID>
@@ -1686,7 +1480,6 @@
                                 <BinderItem UUID="81075C45-DA88-4D0E-8CD4-3FDA87252332" Type="Folder" Created="2023-06-04 11:39:42 -0400" Modified="2023-06-05 20:04:29 -0400">
                                     <Title>Conservation of Energy</Title>
                                     <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
                                         <CustomMetaData>
                                             <MetaDataItem>
                                                 <FieldID>xml:id</FieldID>
@@ -1701,7 +1494,6 @@
                                 <BinderItem UUID="AF33F8DB-CB47-4B25-AC83-ED660D0BDB9E" Type="Folder" Created="2023-06-04 11:39:42 -0400" Modified="2023-06-05 20:04:29 -0400">
                                     <Title>Transforming Heat to Work</Title>
                                     <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
                                         <CustomMetaData>
                                             <MetaDataItem>
                                                 <FieldID>xml:id</FieldID>
@@ -1716,7 +1508,6 @@
                                 <BinderItem UUID="305D33AC-547B-49BE-9231-762469FC8494" Type="Folder" Created="2023-06-04 11:39:42 -0400" Modified="2023-06-05 20:04:29 -0400">
                                     <Title>Energy Relationships in the Shipboard Propulsion Cycle</Title>
                                     <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
                                         <CustomMetaData>
                                             <MetaDataItem>
                                                 <FieldID>xml:id</FieldID>
@@ -1733,7 +1524,6 @@
                         <BinderItem UUID="206FAC30-97D3-4070-B164-3DA231233971" Type="Folder" Created="2023-06-04 11:39:42 -0400" Modified="2023-06-05 20:04:29 -0400">
                             <Title>The Generation of Steam</Title>
                             <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
                                 <CustomMetaData>
                                     <MetaDataItem>
                                         <FieldID>xml:id</FieldID>
@@ -1771,20 +1561,28 @@
                                 <TextSelection>2657,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="D088C253-C44F-4B23-A84E-96E05ABC5794" Type="Text" Created="2023-06-05 21:49:05 -0400" Modified="2023-06-05 22:08:54 -0400">
+                        <BinderItem UUID="D088C253-C44F-4B23-A84E-96E05ABC5794" Type="Text" Created="2023-06-05 21:49:05 -0400" Modified="2023-06-13 12:51:13 -0400">
                             <Title>Electrical Circuits</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>980,15</TextSelection>
+                                <TextSelection>1690,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="78F0C541-C91D-4A8B-9C2B-17AAB1CB9136" Type="Text" Created="2023-06-13 12:50:58 -0400" Modified="2023-06-13 12:51:21 -0400">
+                            <Title>AC vs. DC</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>51,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="479F263D-A33A-4EFA-83C5-78A2C31C31E0" Type="Folder" Created="2023-05-31 15:03:02 -0400" Modified="2023-06-05 20:33:41 -0400">
                             <Title>Electrical Power</Title>
                             <MetaData>
                                 <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
-                                <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
@@ -1794,7 +1592,6 @@
                                     <Title>DC Power</Title>
                                     <MetaData>
                                         <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>0,0</TextSelection>
@@ -1804,7 +1601,6 @@
                                     <Title>AC Single phasePower</Title>
                                     <MetaData>
                                         <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>0,0</TextSelection>
@@ -1814,7 +1610,6 @@
                                     <Title>AC Three phase power</Title>
                                     <MetaData>
                                         <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>0,0</TextSelection>
@@ -1824,7 +1619,6 @@
                                     <Title>Active Power, reactive power, power factor</Title>
                                     <MetaData>
                                         <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>0,0</TextSelection>
@@ -1836,7 +1630,6 @@
                             <Title>Overview of Circuits</Title>
                             <MetaData>
                                 <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
-                                <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
@@ -1846,7 +1639,6 @@
                             <Title>Electrical Symbols</Title>
                             <MetaData>
                                 <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
-                                <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
@@ -1856,7 +1648,6 @@
                             <Title>Diodes</Title>
                             <MetaData>
                                 <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
-                                <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
@@ -1866,17 +1657,66 @@
                             <Title>Transisters</Title>
                             <MetaData>
                                 <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
-                                <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
+                        <BinderItem UUID="3F8D15C4-4FC7-4C0A-BD83-F2E6526513A0" Type="Folder" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                            <Title>Electrical Distribution</Title>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="6C9CD691-CB7C-42FD-886C-E0E384379941" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 20:37:42 -0400">
+                                    <Title>Circuit breakers</Title>
+                                    <MetaData>
+                                        <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="66D684D1-FDC0-4212-9D67-246991D49FCB" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 20:37:42 -0400">
+                                    <Title>Safety Devices</Title>
+                                    <MetaData>
+                                        <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="63C536EB-83BE-4D25-94DA-AF7CC7AB128C" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 20:37:42 -0400">
+                                    <Title>Overcurrent Protection</Title>
+                                    <MetaData>
+                                        <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="FFEFC8E2-337C-4BAA-8889-830500F847A9" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 20:37:42 -0400">
+                                    <Title>Switchgear</Title>
+                                    <MetaData>
+                                        <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="E030D0A8-F9A4-431A-97FB-7DC2FC3EF35B" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 20:37:42 -0400">
+                                    <Title>Energy Management System</Title>
+                                    <MetaData>
+                                        <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
                         <BinderItem UUID="3EF1E819-1D32-4FA8-872E-F0D68B06405A" Type="Folder" Created="2023-06-03 08:45:54 -0400" Modified="2023-06-03 08:47:28 -0400">
                             <Title>Electrical Safety</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
@@ -1886,7 +1726,6 @@
                 <BinderItem UUID="E93166CF-D418-46C0-9E00-9B0F52CBE589" Type="Folder" Created="2023-05-31 15:03:02 -0400" Modified="2023-06-04 14:28:32 -0400">
                     <Title>Piping Systems</Title>
                     <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
                         <CustomMetaData>
                             <MetaDataItem>
                                 <FieldID>xml:id</FieldID>
@@ -1900,72 +1739,48 @@
                     <Children>
                         <BinderItem UUID="231682CA-C328-4C7D-AB7B-4D83C4613121" Type="Folder" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 20:01:26 -0400">
                             <Title>Pipe</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="5B4144BB-7D07-46DE-91E9-3A4E4B4D2964" Type="Folder" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 20:01:32 -0400">
                             <Title>Valves</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="C2380A36-D5AF-4898-AC0F-9BFF13C2CA1C" Type="Folder" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 20:01:35 -0400">
                             <Title>Pumps</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="C4E520B3-DF55-4D5F-8BB6-E9BB2B9FFD3A" Type="Folder" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 20:21:37 -0400">
                             <Title>Process and Instrument Diagrams</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
                                 <BinderItem UUID="444039B3-4E72-4CD4-8334-8F271C46ACAE" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 20:01:38 -0400">
                                     <Title>Symbols</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
                                     <TextSettings>
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="5261187A-9547-495A-9913-DE187AA7ED9A" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 20:01:42 -0400">
                                     <Title>Open and Closed Systems</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
                                     <TextSettings>
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="492C6D46-88DD-47E2-B891-99D82616B6BD" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 20:01:45 -0400">
                                     <Title>How to read diagrams</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
                                     <TextSettings>
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="0F7C9905-9BDE-4D8A-A927-5DA9AE336EAD" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 20:01:49 -0400">
                                     <Title>Diagram Reading</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
                                     <TextSettings>
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
@@ -1977,7 +1792,6 @@
                 <BinderItem UUID="A990D340-8B32-4517-8774-146C3611D206" Type="Folder" Created="2023-05-31 15:03:02 -0400" Modified="2023-06-04 14:28:40 -0400">
                     <Title>Steam Power</Title>
                     <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
                         <CustomMetaData>
                             <MetaDataItem>
                                 <FieldID>xml:id</FieldID>
@@ -1993,7 +1807,6 @@
                             <Title>Main Steam Cycle -Adapt and edit form Intro to Steam Ch 1</Title>
                             <MetaData>
                                 <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
-                                <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
@@ -2003,7 +1816,6 @@
                             <Title>Construction</Title>
                             <MetaData>
                                 <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
-                                <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
@@ -2013,7 +1825,6 @@
                             <Title>Operations</Title>
                             <MetaData>
                                 <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
-                                <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
@@ -2023,7 +1834,6 @@
                             <Title>Steam Turbines</Title>
                             <MetaData>
                                 <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
-                                <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
@@ -2033,26 +1843,21 @@
                             <Title>Power Transmission and Gearing</Title>
                             <MetaData>
                                 <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
-                                <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="DD4C0EFA-CFAE-43D1-A226-7F8AA3E61A9A" Type="Text" Created="2023-05-31 20:53:03 -0400" Modified="2023-05-31 20:53:03 -0400">
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem UUID="98AB2B8D-DCDB-44ED-B650-63C8F1B6E92E" Type="Folder" Created="2023-05-31 15:03:02 -0400" Modified="2023-06-04 14:28:50 -0400">
-                    <Title>Diesel Power</Title>
+                <BinderItem UUID="98AB2B8D-DCDB-44ED-B650-63C8F1B6E92E" Type="Folder" Created="2023-05-31 15:03:02 -0400" Modified="2023-06-13 13:27:24 -0400">
+                    <Title>Diesel Power - Will</Title>
                     <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
                         <CustomMetaData>
                             <MetaDataItem>
                                 <FieldID>xml:id</FieldID>
@@ -2068,7 +1873,6 @@
                             <Title>Combustion Engines</Title>
                             <MetaData>
                                 <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
-                                <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
@@ -2078,7 +1882,6 @@
                             <Title>Gas vs. Diesel Engines and  Otto vs. Diesel Cycle</Title>
                             <MetaData>
                                 <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
-                                <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
@@ -2088,7 +1891,6 @@
                             <Title>Engine Construction and Components</Title>
                             <MetaData>
                                 <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
-                                <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
@@ -2098,7 +1900,6 @@
                             <Title>Two Stroke vs. Four Stroke</Title>
                             <MetaData>
                                 <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
-                                <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
@@ -2106,8 +1907,8 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem UUID="8D3ACAC0-D3C2-44E6-86D0-2026E120E330" Type="Folder" Created="2023-05-31 15:03:02 -0400" Modified="2023-06-04 14:29:02 -0400">
-                    <Title>Electrical Power</Title>
+                <BinderItem UUID="8D3ACAC0-D3C2-44E6-86D0-2026E120E330" Type="Folder" Created="2023-05-31 15:03:02 -0400" Modified="2023-06-13 08:17:56 -0400">
+                    <Title>Electrical Propulsion</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <CustomMetaData>
@@ -2121,8 +1922,69 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="15ADA6D9-D608-468D-B700-0A4F879309F2" Type="Folder" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
-                            <Title>Propulsion System</Title>
+                        <BinderItem UUID="CBA8D930-D1E9-47AF-8DC7-9753F09F7086" Type="Folder" Created="2023-06-13 08:54:15 -0400" Modified="2023-06-14 08:02:57 -0400">
+                            <Title>introduction</Title>
+                            <MetaData>
+                                <SectionType>9D1ADC50-E7BB-4E40-BA04-CCA44927A08E</SectionType>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>555,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="5B047FA9-144C-46BA-9DF7-343FDBD429DD" Type="Text" Created="2023-06-13 20:45:48 -0400" Modified="2023-06-13 20:48:07 -0400">
+                                    <Title>Layout Flexibility</Title>
+                                    <MetaData>
+                                        <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="43E26F08-B89F-476C-A58A-6A21D3438890" Type="Text" Created="2023-06-13 20:46:01 -0400" Modified="2023-06-13 20:47:50 -0400">
+                                    <Title>Efficient operation</Title>
+                                    <MetaData>
+                                        <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>566,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="0EB86D09-DFFF-4C1A-B44A-482746F9903E" Type="Text" Created="2023-06-13 20:46:17 -0400" Modified="2023-06-13 20:47:50 -0400">
+                                    <Title>Economical Part-Load Operation</Title>
+                                    <MetaData>
+                                        <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>416,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="5CBD8F74-35AA-4D49-83C3-F83D6915485D" Type="Text" Created="2023-06-13 20:46:25 -0400" Modified="2023-06-13 20:47:50 -0400">
+                                    <Title>Redundancy and Reliability</Title>
+                                    <MetaData>
+                                        <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>1,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem UUID="0D67A96B-1BF5-4948-BB9A-825975916906" Type="Folder" Created="2023-05-31 15:03:02 -0400" Modified="2023-06-14 16:24:14 -0400">
+                            <Title>One Line Diagram</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>120,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="79744FFB-DBFD-47D2-A159-B75EE1220CF9" Type="Folder" Created="2023-05-31 15:03:02 -0400" Modified="2023-06-13 21:36:05 -0400">
+                            <Title>Generators</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
@@ -2130,30 +1992,27 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="AC648E15-E49E-4FFC-A1FD-4B77F10E8BDA" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
-                                    <Title>Motors</Title>
+                                <BinderItem UUID="FA0476F0-AA0B-49CD-9C52-1A70BBA36591" Type="Folder" Created="2023-06-13 21:35:34 -0400" Modified="2023-06-14 16:07:35 -0400">
+                                    <Title>Principle of operation</Title>
                                     <MetaData>
-                                        <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
+                                        <TextSelection>1876,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="79744FFB-DBFD-47D2-A159-B75EE1220CF9" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
-                                    <Title>Generators</Title>
+                                <BinderItem UUID="2B434DCB-9DEC-4D8D-9365-1C0EA714565A" Type="Folder" Created="2023-06-14 08:03:59 -0400" Modified="2023-06-14 16:13:20 -0400">
+                                    <Title>Construction</Title>
                                     <MetaData>
-                                        <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
+                                        <TextSelection>159,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="08A84778-8F8D-4216-987B-4F3335C94084" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
-                                    <Title>Variable Frequency Drives</Title>
+                                <BinderItem UUID="B7289D47-F735-4CC7-93AF-5401F0A297B1" Type="Folder" Created="2023-06-13 21:34:24 -0400" Modified="2023-06-14 08:04:55 -0400">
+                                    <Title>Excitation</Title>
                                     <MetaData>
-                                        <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
@@ -2162,93 +2021,35 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem UUID="3F8D15C4-4FC7-4C0A-BD83-F2E6526513A0" Type="Folder" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
-                            <Title>Electrical Distribution</Title>
+                        <BinderItem UUID="08A84778-8F8D-4216-987B-4F3335C94084" Type="Folder" Created="2023-05-31 15:03:02 -0400" Modified="2023-06-14 16:21:18 -0400">
+                            <Title>Propulsion Frequency Converters</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
-                            <Children>
-                                <BinderItem UUID="DFCEC98D-FF79-412F-876C-603CABC8D2BF" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 20:37:42 -0400">
-                                    <Title>Transformers</Title>
-                                    <MetaData>
-                                        <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem UUID="6C9CD691-CB7C-42FD-886C-E0E384379941" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 20:37:42 -0400">
-                                    <Title>Circuit breakers</Title>
-                                    <MetaData>
-                                        <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem UUID="66D684D1-FDC0-4212-9D67-246991D49FCB" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 20:37:42 -0400">
-                                    <Title>Safety Devices</Title>
-                                    <MetaData>
-                                        <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem UUID="63C536EB-83BE-4D25-94DA-AF7CC7AB128C" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 20:37:42 -0400">
-                                    <Title>Overcurrent Protection</Title>
-                                    <MetaData>
-                                        <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem UUID="FFEFC8E2-337C-4BAA-8889-830500F847A9" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 20:37:42 -0400">
-                                    <Title>Switchgear</Title>
-                                    <MetaData>
-                                        <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem UUID="0D67A96B-1BF5-4948-BB9A-825975916906" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 20:37:42 -0400">
-                                    <Title>One Line Diagram</Title>
-                                    <MetaData>
-                                        <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem UUID="E030D0A8-F9A4-431A-97FB-7DC2FC3EF35B" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 20:37:42 -0400">
-                                    <Title>Energy Management System</Title>
-                                    <MetaData>
-                                        <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                            </Children>
+                        </BinderItem>
+                        <BinderItem UUID="AC648E15-E49E-4FFC-A1FD-4B77F10E8BDA" Type="Folder" Created="2023-05-31 15:03:02 -0400" Modified="2023-06-14 16:00:27 -0400">
+                            <Title>Propulsion Motors</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>446,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="DFCEC98D-FF79-412F-876C-603CABC8D2BF" Type="Folder" Created="2023-05-31 15:03:02 -0400" Modified="2023-06-13 18:28:28 -0400">
+                            <Title>Transformers</Title>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
                         </BinderItem>
                     </Children>
                 </BinderItem>
                 <BinderItem UUID="2D059D8F-494A-45E6-9954-9E531EF07B6F" Type="Folder" Created="2023-05-31 15:03:02 -0400" Modified="2023-06-04 14:29:13 -0400">
                     <Title>Auxiliary Systems</Title>
                     <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
                         <CustomMetaData>
                             <MetaDataItem>
                                 <FieldID>xml:id</FieldID>
@@ -2262,9 +2063,6 @@
                     <Children>
                         <BinderItem UUID="D54597B2-D9CF-426A-ADD7-80FF26434B0F" Type="Folder" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:14:42 -0400">
                             <Title>Lubrication systems</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
@@ -2273,7 +2071,6 @@
                                     <Title>Requirements of a Lubrication System</Title>
                                     <MetaData>
                                         <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>0,0</TextSelection>
@@ -2283,7 +2080,6 @@
                                     <Title>Rotating Machinery</Title>
                                     <MetaData>
                                         <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>0,0</TextSelection>
@@ -2293,7 +2089,6 @@
                                     <Title>Axial and Radial Bearings</Title>
                                     <MetaData>
                                         <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>0,0</TextSelection>
@@ -2303,18 +2098,12 @@
                         </BinderItem>
                         <BinderItem UUID="5EABE4CB-54D4-466E-8B88-7F73F2C359E8" Type="Folder" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
                             <Title>Fuel oil systems</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="6ADF611F-9DBB-4CFE-B609-901A71715EC8" Type="Folder" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
                             <Title>Cooling Systems</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
@@ -2324,7 +2113,6 @@
                 <BinderItem UUID="A1979457-5EC2-4E4F-A863-96713D714845" Type="Folder" Created="2023-05-31 15:03:02 -0400" Modified="2023-06-04 14:29:21 -0400">
                     <Title>Refrigeration</Title>
                     <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
                         <CustomMetaData>
                             <MetaDataItem>
                                 <FieldID>xml:id</FieldID>
@@ -2339,7 +2127,6 @@
                 <BinderItem UUID="215C5B4E-92FE-41B1-A84A-F00FCAAFD06F" Type="Folder" Created="2023-05-31 15:03:02 -0400" Modified="2023-06-04 14:29:29 -0400">
                     <Title>Fresh Water</Title>
                     <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
                         <CustomMetaData>
                             <MetaDataItem>
                                 <FieldID>xml:id</FieldID>
@@ -2354,7 +2141,6 @@
                 <BinderItem UUID="7B12A412-3265-4506-A8DA-AA76D35FF994" Type="Folder" Created="2023-05-31 15:03:02 -0400" Modified="2023-06-04 14:29:35 -0400">
                     <Title>Sewage Treatment</Title>
                     <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
                         <CustomMetaData>
                             <MetaDataItem>
                                 <FieldID>xml:id</FieldID>
@@ -2369,7 +2155,6 @@
                 <BinderItem UUID="2396AEC7-B4DC-4946-BA72-5A07420AA072" Type="Folder" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 20:45:53 -0400">
                     <Title>TS Patriot State</Title>
                     <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
                         <CustomMetaData>
                             <MetaDataItem>
                                 <FieldID>xml:id</FieldID>
@@ -2385,7 +2170,6 @@
                             <Title>Vessel Particulars</Title>
                             <MetaData>
                                 <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
-                                <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
@@ -2395,7 +2179,6 @@
                             <Title>Chapter 14 - MMA Sea Term I</Title>
                             <MetaData>
                                 <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
-                                <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
@@ -2405,7 +2188,6 @@
                             <Title>What to expect on the training cruise</Title>
                             <MetaData>
                                 <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
-                                <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
@@ -2415,7 +2197,6 @@
                             <Title>System diagrams</Title>
                             <MetaData>
                                 <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
-                                <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
@@ -2430,6 +2211,38 @@
             <CorkboardAndOutliner>
                 <SelectedSubdocumentUUIDs>8DDDF593-7D99-4FBB-83FA-B095E6D5E072</SelectedSubdocumentUUIDs>
             </CorkboardAndOutliner>
+            <Children>
+                <BinderItem UUID="D3EB7D05-9591-4DD9-8A84-ABF80015DFFD" Type="PDF" Created="2021-05-31 13:32:00 -0400" Modified="2023-06-12 16:10:33 -0400">
+                    <Title>DV951E001_MAIN ALTERNATOR_OPERATION MANUAL_PMG</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>pdf</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <CurrentPDFPage>1</CurrentPDFPage>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem UUID="8647444A-E9BC-4EA2-84AB-1AF76020973A" Type="PDF" Created="2020-12-14 09:26:18 -0500" Modified="2023-06-14 16:02:40 -0400">
+                    <Title>DV951E001_MAIN ALTERNATOR_OPERATION MANUAL_ALTERNATOR</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>pdf</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <CurrentPDFPage>0</CurrentPDFPage>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem UUID="58E3BDDE-7E7C-47F6-A70A-610C4AF3AFFB" Type="PDF" Created="2021-10-14 13:42:16 -0400" Modified="2022-09-28 03:03:03 -0400">
+                    <Title>GEA30737C MV7000 Press Pack</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>pdf</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <CurrentPDFPage>0</CurrentPDFPage>
+                    </MediaSettings>
+                </BinderItem>
+            </Children>
         </BinderItem>
         <BinderItem UUID="A41BA2A1-C599-43C2-99CC-8C1A7FFC2C24" Type="TrashFolder" Created="2023-05-29 09:45:48 -0400" Modified="2023-05-29 09:45:48 -0400">
             <Title>Trash</Title>
@@ -2997,6 +2810,21 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
+                <BinderItem UUID="15ADA6D9-D608-468D-B700-0A4F879309F2" Type="Folder" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 15:03:02 -0400">
+                    <Title>Propulsion System</Title>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="5D5A82B5-5C9C-4541-9459-3FD7FF88F526" Type="Folder" Created="2023-06-13 18:23:16 -0400" Modified="2023-06-14 16:00:27 -0400">
+                    <Title>Drive Train</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
     </Binder>
@@ -3090,14 +2918,14 @@
     </CustomMetaDataSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 08:24:39 -0400" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2023-06-07 01:00:00 -0400" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="28" Characters="348" Date="2023-06-06 11:00:26 -0400"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2023-06-16 01:00:00 -0400" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2023-06-15 07:45:51 -0400"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2023-06-06 00:00:00 -0400">
-        <DraftWordCount>28</DraftWordCount>
-        <DraftCharCount>348</DraftCharCount>
+    <RecentWritingHistory Date="2023-06-15 00:00:00 -0400">
+        <DraftWordCount>0</DraftWordCount>
+        <DraftCharCount>0</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
-    <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
+    <PrintSettings PaperSize="611.999972,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
