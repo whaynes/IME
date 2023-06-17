@@ -91,8 +91,8 @@
 	</array>
 	<key>binderSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {311, 674}}</string>
-		<string>{{312, 0}, {1316, 674}}</string>
+		<string>{{0, 0}, {507, 674}}</string>
+		<string>{{508, 0}, {1070, 674}}</string>
 	</array>
 	<key>binderState</key>
 	<array>
@@ -406,6 +406,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>489187EA-1F21-4D5E-A56F-A86070C0F198</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>4A8EA5D7-4177-46D9-BFBA-EAAA4E4FDA2F</key>
 		<dict>
 			<key>Row</key>
@@ -621,6 +626,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>8502C6BE-F400-4A3A-B0BE-DA67748EA4F0</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>8647444A-E9BC-4EA2-84AB-1AF76020973A</key>
 		<dict>
 			<key>Row</key>
@@ -632,6 +642,11 @@
 			<integer>-1</integer>
 		</dict>
 		<key>88A6BBF1-113F-4D38-8FD6-E54B349E830B</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>89C51861-F132-4DDE-BEB9-DB6040808E0A</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -1021,6 +1036,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>E06D114C-F027-4771-B57D-16410B29641E</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>E1703ADD-4B7B-4EA5-A30A-7CCA25222A0C</key>
 		<dict>
 			<key>Row</key>
@@ -1148,7 +1168,7 @@
 	<true/>
 	<key>editorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {1215, 322}}</string>
+		<string>{{0, 0}, {842, 322}}</string>
 	</array>
 	<key>editorSplitType</key>
 	<integer>0</integer>
@@ -1177,8 +1197,8 @@
 	<integer>0</integer>
 	<key>inspectorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {1069, 644}}</string>
-		<string>{{1070, 0}, {246, 644}}</string>
+		<string>{{0, 0}, {842, 644}}</string>
+		<string>{{843, 0}, {227, 644}}</string>
 	</array>
 	<key>inspectorWidth</key>
 	<real>246</real>
@@ -1246,7 +1266,7 @@
 	<key>mainDocumentEditor.rulerIsVisible</key>
 	<false/>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {1054, 588}}</string>
+	<string>{{0, 1619}, {827, 588}}</string>
 	<key>mainDocumentEditor.selectedRanges</key>
 	<string>{0, 0}</string>
 	<key>mainDocumentEditor.textEditorState</key>
@@ -1257,7 +1277,7 @@
 	<key>mainDocumentEditor.textMode</key>
 	<integer>0</integer>
 	<key>mainWindowFrame</key>
-	<string>537 265 1628 702 0 0 1920 1055 </string>
+	<string>88 353 1578 702 0 0 1920 1055 </string>
 	<key>projectStatsSheet</key>
 	<dict>
 		<key>excludeAnnots</key>
@@ -1355,7 +1375,7 @@
 		<real>84</real>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {1200, 556}}</string>
+	<string>{{0, 0}, {606, 294}}</string>
 	<key>supportingDocumentEditor.selectedItemIDs</key>
 	<array/>
 	<key>supportingDocumentEditor.selectedItemUUIDs</key>

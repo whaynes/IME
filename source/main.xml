@@ -1,271 +1,322 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- intermediate copy. Process with scriv2ptx.xslt -->
 <pretext>
-  <book xmlns:xi="http://www.w3.org/2001/XInclude">
-    <title>Introduction to Marine Engineering</title>
-    <chapter xml:id="Electric-power">
-      <title>Electrical Propulsion</title>
-      <introduction>
-        <p>Marine electric propulsion systems utilize generators to provide power for electric
-          motors, which in turn drive the ship's propeller. The electric generators may be driven by
-          any suitable prime mover, most commonly, diesel engines. While it may initially seem
-          counterintuitive to interpose complex and costly equipment between the prime mover and the
-          propeller when a simple line shaft and gearbox could transmit the power instead, there are
-          valid justifications for the added complexity and expense. </p>
-        <p>The advantages of electric propulsion are as follows:</p>
-        <paragraphs>
-          <title>Layout Flexibility</title>
+<book xmlns:xi="http://www.w3.org/2001/XInclude">
+<title>Introduction to Marine Engineering</title>
+<frontmatter xml:id="frontmatter">
+      <titlepage>
+        <author>
+          <personname/>
+          <department>Engineering Department</department>
+          <institution>Massachusetts Maritime Academy</institution> 
+       </author> 
+       <date>
+          <today/>
+        </date> 
+     </titlepage>
+ </frontmatter>
+<chapter xml:id="introElectricty"> 
+<title>Electricity</title>
+<p><term>Voltage</term>, or <em>electric potential difference</em>, is a fundamental concept in electricity.  Voltage  is measured in units of volts (V), and symbolized as <m>V</m>.  Voltage can be seen as the <q>push</q> or<q>force</q> that propels electric charges within a circuit. When voltage is applied to a circuit, it creates an electric field that influences the movement of charged particles, resulting in the establishment of an electric current. In simpler terms, voltage serves as the driving force behind the flow of electric charges in an electrical system.</p>
+<p>Voltage can be produced through several methods, including <em>chemical reactions</em> (such as in batteries) and the <em>photovoltaic effect</em> (as in solar cells). However, the most important method of is <term>electromagnetic induction</term>.  Electromagnetic induction is the process where a changing magnetic field induces (creates) an electric voltage in a nearby conductor.   This phenomenon is the basis for generating electricity in devices like generators and transformers.  Electrical generators will be described in more detail in <xref provisional="generators"/></p>
+<p><term>Current</term> refers to the flow of electric charge in an electrical circuit. It is the rate at which electric charges, typically electrons, move through a <term>conductor</term>. Current is measured in amperes (A) and is represented by the symbol <m>I</m>. It can be thought of as the quantity of charge passing through a point in a circuit per unit of time. The flow of current occurs when there is a potential difference (voltage) applied across a conductor, providing the driving force for the movement of electric charges.</p>
+<p><term>Resistance</term> is a property of a material or component in an electrical circuit that opposes the flow of electric current. It is measured in ohms (Ω) and is denoted by the symbol <m>R</m>. Resistance determines the extent to which a material or device hinders the flow of electrical charge. When a voltage is applied across a conductor, the resistance restricts the flow of current, resulting in a decrease in the magnitude of the current. Materials with high resistance impede the flow of electricity more than materials with low resistance. The resistance of a component depends on factors such as its length, cross-sectional area, and the material it is made of.</p>
+<p><term>Ohm’s law</term> describes the relationship between current, voltage, and resistance. According to Ohm's Law, the current flowing through a circuit is directly proportional to the voltage across it and inversely proportional to the resistance of the circuit. Mathematically, this relationship is expressed as <me>I = V/R</me>  where: <ul marker="">
+<li><m>I</m> is the the current in amperes</li>
+<li><m>V</m> is the voltage in volts, and </li>
+<li><m>R</m> is the resistance in ohms (Ω). </li>
+</ul></p>
+<p>In other words, an increase in voltage leads to a corresponding increase in current if the resistance remains constant, while an increase in resistance results in a decrease in current for a given voltage.</p>
+<p>An <term>electrical circuit</term> is a complete loop or path that allows for the regulated flow of electric current to power devices and carry out different tasks. It consists of different elements like voltage sources, switches, and electrical loads that are interconnected through wires. <term>Electrical loads</term> refer to devices that consume electrical energy and convert it into another form like mechanical work, light, or heat.   Motors, light bulbs and heating elements are some common examples of electrical loads.  </p>
+<p><term>Series Circuit</term>: In a series circuit, the components are connected in a single path such that the same current flows through each component. The components are connected end-to-end, creating a sequential circuit. In a series circuit, the total resistance is the sum of the individual resistances, and the total voltage across the circuit is divided among the components. If one component fails or is disconnected, the entire circuit is broken, and the flow of current stops.</p>
 
-          <p>One notable advantage of electric propulsion is the ability to install the prime mover
-            in any convenient location, without being restricted to a direct line with the
-            propeller. Power is transmitted through flexible cable runs, as opposed to rigid line
-            shafts. Furthermore, instead of relying on a single large main engine, multiple smaller
-            engines can be used, allowing for placement in smaller spaces and more convenient
-            locations. </p>
-        </paragraphs>
+<p><term>Parallel Circui</term>t: In a parallel circuit, the components are connected in multiple paths, allowing the current to divide and flow through different branches simultaneously. Each component in a parallel circuit has the same voltage across it. The total current in the circuit is divided among the branches based on the resistance of each branch. If one component fails or is disconnected in a parallel circuit, the current can still flow through the remaining branches.</p>
 
-        <paragraphs>
-          <title>Efficient operation</title>
+<p>In summary, a series circuit has components connected in a single path with the same current flowing through each component, while a parallel circuit has components connected in multiple paths, allowing current to divide among the branches.</p>
 
-          <p>Electric propulsion systems enable both the prime mover and the propeller to operate at
-            their optimal speeds, eliminating the need for reduction gears. Typically, medium speed
-            diesel engines are coupled with low-speed motors and propellers. The speed reduction is
-            accomplished by selecting the appropriate number of motor poles, and the shaft speed
-            (RPM) is established by adjusting the electrical frequency to the motor. This setup
-            allows each component to operate within its most efficient range, maximizing overall
-            energy efficiency and reducing fuel consumption.</p>
-        </paragraphs>
+single phase, three phase
+batteries and solar cells</chapter>
 
-        <paragraphs>
-          <title>Economical Part-Load Operation</title>
+<chapter xml:id="Electric-power"> 
+<title>Electrical Propulsion</title>
+<introduction>
+<p>Marine electric propulsion systems utilize generators to provide power for electric motors, which in turn drive the ship's propeller. The electric generators may be driven by any suitable prime mover, most commonly, diesel engines. While it may initially seem counterintuitive to interpose complex and costly equipment between the prime mover and the propeller when a simple line shaft and gearbox could transmit the power instead, there are valid justifications for the added complexity and expense. </p>
+<p>The advantages of electric propulsion are as follows:</p>
+<paragraphs><title>Layout Flexibility</title>
 
-          <p>By employing multiple generators operating in parallel, ships can secure one or more
-            engines under reduced load conditions. The remaining engines can then operate at nearly
-            full load, resulting in improved efficiency compared to having more engines operating at
-            part-load. Load management systems continuously monitor the electrical demand and
-            promptly initiate the startup of an additional generator when necessary.</p>
-        </paragraphs>
+<p>One notable advantage of electric propulsion is the ability to install the prime mover in any convenient location, without being restricted to a direct line with the propeller. Power is transmitted through flexible cable runs, as opposed to rigid line shafts. Furthermore, instead of relying on a single large main engine, multiple smaller engines can be used, allowing for placement in smaller spaces and more convenient locations.	</p></paragraphs>
 
-        <paragraphs>
-          <title>Redundancy and Reliability</title>
+<paragraphs><title>Efficient operation</title>
 
-          <p> Electric propulsion systems provide inherent redundancy and enhanced reliability
-            compared to traditional propulsion systems. With multiple smaller generator sets, the
-            system can continue to function even if one or more generators or motors fail or require
-            maintenance. This redundancy reduces the risk of complete propulsion failure and ensures
-            that the propulsion system remains operational. </p>
-        </paragraphs>
-      </introduction>
+<p>Electric propulsion systems enable both the prime mover and the propeller to operate at their optimal speeds, eliminating the need for reduction gears. Typically, medium speed diesel engines are coupled with low-speed motors and propellers. The speed reduction is accomplished by selecting the appropriate number of motor poles, and the shaft speed (RPM) is established by adjusting the electrical frequency to the motor. This setup allows each component to operate within its most efficient range, maximizing overall energy efficiency and reducing fuel consumption.</p></paragraphs>
 
-      <section xml:id="">
-        <title>One Line Diagram</title>
+<paragraphs><title>Economical Part-Load Operation</title>
 
-        <p><xref ref="propulsion_system"/> is an overview of the electric propulsion system of the
-            <em>Patriot State II.</em></p>
-        <p>Electrical power for both propulsion and ship’s services is produced by four Hyundai HSJ9
-          913-08P diesel driven generators. These are 6600 Volt, three-phase AC synchronous
-          generators capable of producing up to 4053 kW at 80% power factor, or 5066.25 kVA. </p>
-        <p>Generators 1 and 2 are located in engineroom 1 and directly supply main switchboard No.1
-          , and generators 3 and 4 are located in engine room 2 and supply main switchboard No. 2.
-          The switchboards can be split or cross-connected as necessary for emergency
-          operations.</p>
+<p>By employing multiple generators operating in parallel, ships can secure one or more engines under reduced load conditions. The remaining engines can then operate at nearly full load, resulting in improved efficiency compared to having more engines operating at part-load. Load management systems continuously monitor the electrical demand and promptly initiate the startup of an additional generator when necessary.</p></paragraphs>
 
-        <figure xml:id="propulsion_system">
-          <caption>Propulsion System One Line Diagram </caption>
-          <image width="100%" source="pics/electric-propulsion/propulsion_system"/>
-          <!-- Source:  P1206 EMPIRE STATE MACHINERY MANUAL  FIRST DRAFT MAY 2022  -->
-        </figure>
-      </section>
+<paragraphs><title>Redundancy and Reliability</title>
 
-      <section xml:id="">
-        <title>Generators</title>
-        <subsection xml:id="">
-          <title>Principle of operation</title>
+<p>	Electric propulsion systems provide inherent redundancy and enhanced reliability compared to traditional propulsion systems. With multiple smaller generator sets, the system can continue to function even if one or more generators or motors fail or require maintenance. This redundancy  reduces the risk of complete propulsion failure and ensures that the propulsion system remains operational. </p></paragraphs>
+</introduction>
 
-          <p>An electrical generator converts mechanical energy into electrical energy by utilizing
-            the principle of <term>electromagnetic induction</term>. Electromagnetic induction was
-            first discovered in the early 19th century by English scientist Michael Faraday (1791
-            <ndash/> 1867) . According to Faraday's law of electromagnetic induction, a changing
-            magnetic field induces an electric voltage in a nearby conductor. If the conductor forms
-            a closed loop, an electric current will flow through it.</p>
+<section xml:id=""><title>Style Guide</title>
 
-          <p>A generator consists of two main components: a rotating part called the
-              <term>rotor</term> and a stationary part called the <term>stator</term>. In a typical
-            AC synchronous generator, the rotor carries the <term>field windings</term> which
-            produce the magnetic field, and the stator carries the <term>armature windings</term>,
-            where the voltage is induced. </p>
-          <p>A direct current (DC) is passed through the rotor's field windings to create the
-            magnetic field. The process of supplying electrical current to the field winding is
-            known as <term>excitation</term>. Alternately, some generators use permanent magnets to
-            supply the magnetic field, but this has the disadvantage that the field is not
-            adjustable. The rotor is connected to a prime mover, such as a steam turbine or a diesel
-            engine, and as it spins it produces a <term>rotating magnetic field</term>. </p>
-          <p>The stator consists of multiple windings arranged in a specific configuration. The
-            rotating magnetic field interacts with the stator windings, inducing a voltage across
-            them. If the stator winding are connected to a closed circuit containing a load like a
-            motor or resistor, the induced voltage drives current through the circuit and transmits
-            power to load. </p>
-          <p>The induced voltage is proportional to the speed of rotation and also the strength of
-            the magnetic field, therefore the output voltage can be adjusted by controlling the
-            excitation current. The frequency in Hz (cycles/sec) depends on the speed of rotation
-            and the number of magnetic poles. <me> f = \frac{P \;n }{120}</me> where <ul marker="">
-              <li><m>f</m> = frequency</li>
-              <li><m>n</m>= speed </li>
-              <li><m>P</m> = number of north/south pole pairs</li>
-            </ul></p>
-          <p>The induced voltage is typically generated at a fixed frequency, such as 60 Hz in the
-            United States.</p>
-          <p>To generate three-phase power, the stator is fitted with three windings arranged
-            symmetrically, 120 degrees apart from each other. As the rotor rotates, the rotating
-            magnetic field induces voltages into each stator winding in turn, generating three sine
-            waves of voltage, equally spaced, shown in <xref ref="three-phase"/>. </p>
+<blockquote>
+<p>Omit needless words.  Vigorous writing is concise. </p>
+<p>A sentence should contain no unnecessary words, a paragraph no unnecessary sentences, for the same reason that a drawing should have no unnecessary lines and a machine no unnecessary parts. This requires not that the writer make all his sentences short, or that he avoid all detail and treat his subjects only in outline, but that every word tell.</p>
+<attribution>Strunk and White, <pubtitle>The Elements of Style</pubtitle></attribution>
+</blockquote>
 
-          <figure xml:id="three-phase">
-            <!-- Source:  whaynes CC0  -->
-            <caption> three-phase.pdf </caption>
-            <image width="80%" source="pics/electric-propulsion/three-phase"/>
-          </figure>
-        </subsection>
+<p>Bad <mdash/>  <q>The type of friction which Statics focuses on is dry friction.</q></p>
+<p>Good <mdash/> <q>Statics focuses on dry friction.</q></p>
+<p>Bad <mdash/> <q>All normal forces on a FBD should be pointing at (and not away from) the body.</q></p>
+<p>Good <mdash/><q>Normal forces on a FBD should point towards the body.</q></p>
 
-        <subsection xml:id="">
-          <title>Construction</title>
+<p>Which vs. That: How to Choose
+<ol ><li>	In a defining clause, use that.</li>
+<li>	In non-defining clauses, use which.</li>
+<li>	Remember, which is as disposable as a sandwich bag. If you can remove the clause without destroying the meaning of the sentence, the clause is nonessential and you can use which.</li></ol></p>
 
-          <p>Specs:</p>
+Consistency
+<p>What's our point of view?  It is all over the place in the text. </p>
+<p>Formal or informal?</p>
+<p>Are we directing and guiding the students?  <q>You start by...</q>   </p>
+<p>Are we collaborating with the students?  <q>We can see that...</q> </p>
+<p>Are we the wise sage?  <q>Let us transition to the forces...</q></p>
+<p>Should we avoid pronouns and just make statements?  <q>The result is...</q></p>
 
-          <p>The principle components of the Hyundai HSJ9 generator are shown in <xref
-              ref="generator"/> and in exploded view <xref ref="generator_exploded"/>. </p>
-          <figure xml:id="generator">
-            <!-- Source:  P1206 EMPIRE STATE MACHINERY MANUAL  FIRST DRAFT MAY 2022   -->
-            <caption> generator.svg </caption>
-            <image width="100%" source="pics/electric-propulsion/generator"/>
-          </figure>
+<p><ul>
+<li>Say free-body diagram, not free body diagram, alternately you can say <acro>FBD</acro>. Never say FBD’s; you mean FBDs.</li>
+<li>Say two-dimensional problem, not 2D problem or <q>two dimensional</q></li>
+<li>Say zero-force member</li>
+<li>There is no hyphen in two dimensions.</li>
+<li><m>x</m> axis, not <m>x</m>-axis.</li>
+<li>Use US for United States, not U.S.</li>
+<li>use double quotes <tag>q</tag> to set off a word as a word, or better still if it is a term, use <tag>term</tag> tag.</li>
+<li>Use unordered lists when order is not significant.  Use ordered lists for things that <em>need</em> to be numbered, like a procedure.</li>
+<li>Punctuate ordered lists with periods at the end of each item. Punctuate unordered list like one long sentence  <ie/>, commas or semicolons at the end of each item except the last, which gets a period</li>
+<li>No <q>use your equations of equilibrium </q> Yes<q>the equations of equilibrium.</q></li>
+<li>Spell out clockwise and counter-clockwise, unless in space is limited, like in a table or caption.</li>
+<li>Spell out numbers less than ten.</li>
+<li>Maintain consistent capitalization in chapter/section titles - use title case.  </li>
+<li>Chapter/Section titles are nouns, and short enough to fit in one line in the  pretext sidebar.</li>
+<li>Keep an eye out for 'emphasis' quotes or ALL CAPS.  Instead use the <tag>em</tag> tag.</li>
+<li>Statics or statics or mechanics?  I say statics for the subject, and Statics for the course.</li>
+</ul></p></section>
 
-          <p>The main components include: <ol cols="2">
+<section xml:id=""><title>Overview</title>
+
+<p>An overview of the electric propulsion system of the <em>Patriot State II</em> is shown in the one-line diagram below, <xref ref="propulsion_system"/>.</p>
+<p>Electrical power for both propulsion and ship’s services is produced by four Hyundai HSJ9 913-08P diesel driven generators.    These are 6600 Volt, three-phase AC synchronous generators capable of producing up to 4053 kW at 80% power factor, or 5066.25 kVA. </p>
+<p>Generators 1 and 2 are located in engineroom 1 and directly supply main switchboard No.1 , and generators 3 and 4 are located in engine room 2 and supply main switchboard No. 2.  The switchboards can be split or cross-connected as necessary for emergency operations.</p>
+
+<figure xml:id="propulsion_system">
+<caption>Propulsion System One Line Diagram  </caption>
+<image width="100%" source="pics/electric-propulsion/propulsion_system"/>
+<!-- Source:  P1206 EMPIRE STATE MACHINERY MANUAL  FIRST DRAFT MAY 2022  -->
+</figure>
+
+<p>Each switchboard supplies electrical power at 60 Hz, 1850 Volts to a <term>Propulsion Converter</term> via a step-down <term>transformer</term>. The purpose of the propulsion converters is to change input voltage and frequency to the voltage and frequency needed to spin the propulsion motor in the desired direction, at the desired speed, as ordered by the bridge. </p>
+<p>Each propulsion converter provides power to a <term>Propulsion Motor</term>.  The two propulsion motors drive a common shaft which is directly connected to the ship’s single propeller, as shown in <xref ref="DriveTrain"/>.  </p>
+<p>The generators, transformers, propulsion converters, and propulsion motors will be discussed in more detail in the sections that follow.</p></section>
+
+<section xml:id=""><title>Generators</title>
+<subsection xml:id="" ><title>Principle of Operation</title>
+
+<p>An electrical generator converts mechanical energy into electrical energy by utilizing the principle of <term>electromagnetic induction</term>.   Electromagnetic induction was first discovered in the early 19th century by English scientist Michael Faraday (1791 <ndash/> 1867). According to Faraday's law of electromagnetic induction, a moving or changing magnetic field induces an electric voltage in a nearby conductor. If the conductor forms a closed loop, an electric current will flow and electrical power will be transmitted.</p>
+<p>An electrical generator consists of two main mechanical components: a rotating part called the <term>rotor</term> and a stationary part called the <term>stator</term>, and two main electrical components: the <term>armature</term> and the <term>field</term>.  Both the armature and the field are made of a conducting material, usually copper wire, wound into multi-loop coils called <term>windings</term>. The rotor is connected to a prime mover, such as a steam turbine or a diesel engine which supplies the mechanical energy to the generator.</p>
+<p>The <term>field windings</term> are like an electromagnet.  When direct current (DC) flows through the field windings, a magnetic field is created similar to the one which surrounds the north and south poles of an ordinary magnet, but adjustable. The strength of the field is controlled by the amount of the field current.  The process of supplying electrical current to the field winding is known as <term>excitation</term>.  </p>
+<p>The <term>armature windings</term> are the part of the generator where the voltage is induced.  The armature consists of several individual windings connected in a specific configuration. The end points of the armature windings are called the generator <term>terminals</term>.  As long as the generator is spinning, the field will induce a sinusoidal AC voltage into the armature windings.  The armature windings deliver power to the terminals and thence to the load circuit.</p>
+<p>The induced voltage is proportional to the speed of rotation and also the strength of the magnetic field, therefore the output voltage can be adjusted by controlling the excitation current. The frequency in Hz (cycles/sec) depends on the speed of rotation and the number of magnetic poles. <me> f = \frac{P \;n }{120}</me> where <ul marker = "">
+<li><m>f</m> = frequency</li>
+<li><m>n</m>= speed </li>
+<li><m>P</m> = number of north/south pole pairs</li>
+</ul></p> 
+<p>The induced voltage is typically generated at a fixed frequency, such as 60 Hz in the United States.</p>
+<p>In a typical AC synchronous generator, the rotor carries the field windings and the stator carries the armature windings, however the opposite arrangement is also possible. To generate three-phase power, the stator is fitted with three armature windings arranged symmetrically, 120 degrees apart from each other. As the rotor rotates, the rotating magnetic field induces voltages into each stator winding in turn, generating three sine waves of voltage, equally spaced, shown in <xref ref="three-phase"/>. </p>
+
+<figure xml:id="three-phase">
+<!-- Source:  whaynes CC0  -->
+<caption>  three-phase.pdf  </caption>
+<image width="80%" source="pics/electric-propulsion/three-phase"/>
+</figure></subsection>
+
+<subsection xml:id="" ><title>Construction</title>
+
+<p>The specifications of the the Hyundai HSJ9 used on the training ship are shown in <xref ref="generator_specs"/>.</p>
+          <table xml:id="generator_specs" >
+<title>Main Generator Specifications</title><tabular>
+            
+            <row>
+              <cell>Manufacturer</cell><cell>Hyundai</cell>
+            </row>
+            <row>
+              <cell>Model</cell><cell>HSJ9 913-08P </cell>
+            </row>
+            <row>
+              <cell>Type</cell><cell>8 pole, cylindrical rotor, brushless,.separately excited </cell>
+            </row>
+            <row>
+              <cell>Rated Output</cell><cell>5066.25kVA / 4053kW</cell>
+            </row>
+            <row>
+              <cell>Rated Voltage</cell><cell> 6.6kV AC</cell>
+            </row>
+            <row>
+              <cell>Current</cell><cell>443.2A</cell>
+            </row>
+            <row>
+              <cell>Speed</cell><cell>900 rpm </cell>
+            </row>
+            <row>
+              <cell>Frequency</cell><cell>60 Hz</cell>
+            </row>
+            <row>
+              <cell>Power factor</cell><cell>0.8</cell>
+            </row>
+            <row>
+              <cell>Excitation voltage</cell><cell>60V DC</cell>
+            </row>
+            <row>
+              <cell>Excitation current</cell><cell>4A DC</cell>
+            </row></tabular>
+          </table>
+<p> </p>
+<p>As discussed in the previous section the primary components of an AC generator are the armature and the field, one of which is located on the rotor and the other on the stator.  However a practical generator requires  many other components, including an enclosure, bearings, cooling, lubrication, instrumentation and control, and a method to excite the field.  </p>
+<p>Please refer to <xref ref="generator"/> and  <xref ref="generator_exploded"/>.</p>
+<p>The generator main shaft (6) is driven by a 16 cylinder, 4-stroke, 4,200 kW diesel engine at 900 rpm, not shown.  </p>
+<p>The shaft is supported by two journal bearings (7 and 13), one on the drive end (DE) and the other on the non-drive end (NDE).  These bearings have an integral oil sump with sight glass, cooling fins, and an oil ring that circulates the oil to the top of the shaft as it rotates. </p>
+<p>The shaft itself supports and carries the rotating components: primarily the main rotor core (9) and main field windings (3), but also a cooling fan (2) and several other components (10, 11, 12, 14, 16, and 19) that are required to excite the generator.  These components will be discussed in <xref ref="Excitation" />. </p>
+<p>Generators produce lots of heat while they are operating due to unavoidable losses caused by mechanical friction and electrical resistance, among others.  If this heat is not removed as it is produced, the generator temperature will rise to unacceptable limits, and high temperature is extremely damaging to electrical insulation. Electrical machines are designed to run for 100,000 hours or more when operated at or below their design temperature limit, however for every 10° C rise above this temperature, the thermal life expectancy of the electrical insulation is reduced by half, so generator cooling is critical.</p>
+<p>The generator’s cooling system consists the shaft driven internal fan (2) which circulates the air through the machine to cool it. This warmed air passes over a water-cooled heat exchanger where it is cooled and then recirculated. </p>
+<p>The cooling water tubes are double walled with slotted plate fins. Water flows through the inner tube and cools the outer tube and the slotted fins. Air flows between the fins and around the outer tubes and so is cooled.  </p>
+<p>In the case of a tube leak,  water will flow between the inner and outer tubes to a leak detector and trigger an alarm.  This prevents water from leaking on to the electrical components.</p>
+<p>If for some reason the cooling water is not available, an  emergency cooling mode is available.  In this mode  cover plates on the generator are removed which allows the fan to draw cool air from the engine room and discharge the heated air back. </p>
+
+<figure xml:id="generator">
+<!-- Source:  P1206 EMPIRE STATE MACHINERY MANUAL  FIRST DRAFT MAY 2022   -->
+<caption> Hyundai HSJ9 Generator </caption>
+<image width="100%" source="pics/electric-propulsion/generator"/>
+</figure>
+
+<figure xml:id="generator_exploded">
+<!-- Source: DV951E001_MAIN ALTERNATOR_OPERATION MANUAL_ALTERNATOR -->
+<caption> Generator Exploded View </caption>
+<image width="100%" source="pics/electric-propulsion/generator_exploded.png"/>
+</figure>
+
+<p><ol cols="2">
               <li>Water cooled Air Cooler</li>
               <li>Ventilation Fan</li>
-              <li>Stator Windings</li>
-              <li>Rotor Windings</li>
-              <li>End Shield</li>
+              <li>Main Armature Winding </li>
+              <li>Main Field Windings</li>
+              <li>End Shield, (DE)</li>
               <li>Shaft</li>
-              <li>Drive End Bearing</li>
+              <li>Bearing, (DE)</li>
               <li>Main Stator Core</li>
               <li>Main Rotor Core</li>
+              <li>Main Field Terminals</li>
+              <li>Leads to/from Rectifier</li>
+              <li>Exciter Rotor Core</li>
+              <li>Bearing, (NDE)</li>
               <li>Rotating Rectifier</li>
-              <li>Rectifier Leads</li>
-              <li>Non-Drive End Bearing</li>
-              <li>Pilot Generator Rotor</li>
-              <li>Pilot Generator Stator</li>
-              <li>End Shield</li>
-              <li>Exciter Rotor</li>
-              <li>Exciter Stator</li>
-              <li>Exciter Equipment</li>
-              <li>Current Transformer</li>
-              <li>Pilot Rectifier Assembly</li>
               <li>Rectifier Cover</li>
-            </ol>
+              <li>Permanent Magnet Rotor</li>
+              <li>Permanent Magnet Stator</li>
+              <li>End Shield, (NDE)</li>
+              <li>Exciter Armature Winding</li>
+              <li>Exciter Field Winding</li>
+              <li>Exciter Stator Core</li>
+              <li>Current Transformer</li>
+              <li>Main Terminal Box</li>
+              </ol>
           </p>
+</subsection>
 
-          <figure xml:id="generator_exploded">
-            <!-- Source: DV951E001_MAIN ALTERNATOR_OPERATION MANUAL_ALTERNATOR -->
-            <caption> Generator Exploded View </caption>
-            <image width="100%" source="pics/electric-propulsion/generator_exploded.png"/>
-          </figure>
-
-        </subsection>
-
-        <subsection xml:id="">
-          <title>Excitation</title>
+<subsection xml:id="" ><title>Excitation</title>
 
 
-          <figure xml:id="exciter_exploded">
-            <!-- Source:  P1206 EMPIRE STATE MACHINERY MANUAL  FIRST DRAFT MAY 2022  -->
-            <caption> Exciter Exploded View </caption>
-            <image width="100%" source="pics/electric-propulsion/exciter_exploded.png"/>
-          </figure>
+<figure xml:id="exciter_exploded">
+<!-- Source:  P1206 EMPIRE STATE MACHINERY MANUAL  FIRST DRAFT MAY 2022  -->
+<caption> Exciter Exploded View </caption>
+<image width="100%" source="pics/electric-propulsion/exciter_exploded.png"/>
+</figure>
 
-          <sidebyside width="48%" xml:id="pilot_generator">
-            <figure xml:id="exciter_rotor">
-              <!-- DV951E001_MAIN ALTERNATOR_OPERATION MANUAL_PMG  -->
-              <caption> Exciter Rotor showing Permanent Magnets</caption>
-              <image width="100%" source="pics/electric-propulsion/exciter_rotor.png"/>
-            </figure>
-
-            <figure xml:id="exciter_stator">
-              <!-- Source: DV951E001_MAIN ALTERNATOR_OPERATION MANUAL_PMG -->
-              <caption> Exciter Stator </caption>
-              <image width="100%" source="pics/electric-propulsion/exciter_stator.png"/>
-            </figure>
-          </sidebyside>
-
-          <figure xml:id="excitation_system">
-            <!-- Source:  -->
-            <caption> DV951E001_MAIN ALTERNATOR_OPERATION MANUAL_ALTERNATOR </caption>
-            <image width="100%" source="pics/electric-propulsion/excitation_system"/>
-          </figure>
-
-          <p>The pilot generator is used to supply current to the exciter field, making the main
-            generator <term>separately excited</term>, as opposed to <term>self excited</term>,
-            where the output of the main generator itself is used to supply power to the the exciter
-            generator. The AC output voltage of the pilot generator varies with the rotor speed,
-            however its output current is automatically adjusted by an Automatic Voltage Regulator
-            (AVR) to maintain its rated output (terminal) voltage, regardless of the load changes. </p>
-          <p>The pilot generator consists of stator and rotor part as shown in <xref
-              ref="exciter_exploded"/> and <xrer ref="pilot_generator"/>. The rotor part carries
-            sixteen permanent magnets bolted on the shaft with alternating polarities making this a
-              <term>Permanent Magnet Generator</term> (PMG). The stator part is bolted on the
-            bearing housing of non drive-end side of the generator and carries 3-phase wye-connected
-            armature windings. The rotating magnets induce an AC voltage into the armature windings
-            and three-phase rectifier attached to the stator converts the AC voltage to a DC
-            voltage. </p>
-          <p>The resulting DC voltage is used to create a stationary magnetic field in the exciter.
-            In other words, the pilot generator excites the exciter, which in turn excites the main
-            generator. </p>
-
-        </subsection>
-      </section>
-
-      <section xml:id="">
-        <title>Propulsion Frequency Converters</title>
-
-        <p>principle of operation</p>
-        <p>power electronics</p>
-        <p>pulse width modulation</p>
-
-        <figure xml:id="propulsion_converter_schematic">
-          <!-- Source:  P1206 EMPIRE STATE MACHINERY MANUAL  FIRST DRAFT MAY 2022 -->
-          <caption> Propulsion Frequency Converter Schematic </caption>
-          <image width="100%" source="pics/electric-propulsion/propulsion_converter_schematic"/>
+ <sidebyside width="48%" xml:id='pilot_generator'>
+        <figure xml:id="exciter_rotor">
+          <!-- DV951E001_MAIN ALTERNATOR_OPERATION MANUAL_PMG  -->
+          <caption> Exciter Rotor showing Permanent Magnets</caption>
+          <image width="100%" source="pics/electric-propulsion/exciter_rotor.png"/>
         </figure>
 
-        <figure xml:id="propulsion_converter">
-          <!-- Source:  P1206 EMPIRE STATE MACHINERY MANUAL  FIRST DRAFT MAY 2022 -->
-          <caption> Propulsion Frequency Converter </caption>
-          <image width="100%" source="pics/electric-propulsion/propulsion_converter"/>
+        <figure xml:id="exciter_stator">
+          <!-- Source: DV951E001_MAIN ALTERNATOR_OPERATION MANUAL_PMG -->
+          <caption> Exciter Stator </caption>
+          <image width="100%" source="pics/electric-propulsion/exciter_stator.png"/>
         </figure>
+</sidebyside>
 
-        <figure xml:id="MV7000_internal">
-          <!-- Source: GEA30737C MV7000 Press Pack  -->
-          <caption> MV7000_internal.png </caption>
-          <image width="100%" source="pics/electric-propulsion/MV7000_internal.png"/>
-        </figure>
-      </section>
+<figure xml:id="excitation_system">
+<!-- Source:  -->
+<caption>  DV951E001_MAIN ALTERNATOR_OPERATION MANUAL_ALTERNATOR </caption>
+<image width="100%" source="pics/electric-propulsion/excitation_system"/>
+</figure>
 
-      <section xml:id="">
-        <title>Propulsion Motors</title>
+<p>The pilot generator is used to supply current to the exciter field, making the main generator <term>separately excited</term>, as opposed to <term>self excited</term>, where the output of the main generator itself is used to supply power to the the exciter generator. The AC output voltage of the pilot generator varies with the rotor speed, however its output current is automatically adjusted by an Automatic Voltage Regulator (AVR) to maintain its rated output (terminal) voltage, regardless of the load changes. </p>
+<p>The pilot generator consists of stator and rotor part as shown in <xref ref="exciter_exploded"/> and <xrer ref="pilot_generator"/>.  The rotor part carries sixteen permanent magnets bolted on the shaft with alternating polarities making this a <term>Permanent Magnet Generator</term> (PMG).  The stator part is bolted on the bearing housing of non drive-end side of the generator and carries 3-phase wye-connected armature windings.  The rotating magnets induce an AC voltage into the armature windings and three-phase rectifier attached to the stator converts the AC voltage to a DC voltage.  </p>
+<p>The resulting DC voltage is used to create a stationary magnetic field in the exciter.  In other words, the pilot generator excites the exciter, which in turn excites the main generator. </p>
 
 
-        <figure xml:id="propulsion_motor">
-          <!-- Source:  DV951E001_MAIN ALTERNATOR_OPERATION MANUAL_ALTERNATOR-->
-          <caption> Propulsion Motor </caption>
-          <image width="100%" source="pics/electric-propulsion/propulsion_motor"/>
-        </figure>
 
-        <figure xml:id="DriveTrain">
-          <!-- Source:  P1206 EMPIRE STATE MACHINERY MANUAL  FIRST DRAFT MAY 2022  -->
-          <caption> Drive Train </caption>
-          <image width="100%" source="pics/electric-propulsion/DriveTrain"/>
-        </figure>
-      </section>
-    </chapter>
-  </book>
+The Permanent Magnet Generator (PMG) supplies high frequency AC power to the voltage regulator. The voltage regulator receives voltage and reactive current feedback provided by potential and current transformers to provide voltage and reactive current feedback. Comparing these signals to a reference set- point in the voltage regulator, the voltage regulator provides a controlled variable DC current to the stationary field of the rotating exciter. With its stationary field and rotating armature, the exciter generates three phase high frequency AC output. This output is rectified by the rotating rectifiers. This DC current is fed via conductors to the center of the rotor shaft and carried by a special lead bar in the hollow shaft area under the bearing journal which is then applied to the main generator field winding.
+For more information, please contact: E-mail: service-em@weg.net Phone: 24 Hour Customer Support: +1 (612) 247-9232
+The rotating rectifier is a three phase full wave diode bridge. 100% diode redundancy provides 100% of full rating with a diode out of service.
+</subsection>
+
+<subsection xml:id="" ><title>Voltage Regulation</title></subsection>
+</section>
+
+<section xml:id=""><title>Transformers</title></section>
+
+<section xml:id=""><title>Propulsion Converters</title>
+
+<p>principle of operation</p>
+<p>power electronics</p>
+<p>pulse width modulation</p>
+
+<figure xml:id="propulsion_converter_schematic">
+<!-- Source:  P1206 EMPIRE STATE MACHINERY MANUAL  FIRST DRAFT MAY 2022 -->
+<caption> Propulsion Frequency Converter Schematic </caption>
+<image width="100%" source="pics/electric-propulsion/propulsion_converter_schematic"/>
+</figure>
+
+<figure xml:id="propulsion_converter">
+<!-- Source:  P1206 EMPIRE STATE MACHINERY MANUAL  FIRST DRAFT MAY 2022 -->
+<caption> Propulsion Frequency Converter </caption>
+<image width="100%" source="pics/electric-propulsion/propulsion_converter"/>
+</figure>
+
+<figure xml:id="MV7000_internal">
+<!-- Source: GEA30737C MV7000 Press Pack  -->
+<caption>  MV7000_internal.png  </caption>
+<image width="100%" source="pics/electric-propulsion/MV7000_internal.png"/>
+</figure></section>
+
+<section xml:id=""><title>Propulsion Motors</title>
+
+
+<figure xml:id="propulsion_motor">
+<!-- Source:  DV951E001_MAIN ALTERNATOR_OPERATION MANUAL_ALTERNATOR-->
+<caption> Propulsion Motor </caption>
+<image width="100%" source="pics/electric-propulsion/propulsion_motor"/>
+</figure>
+
+<figure xml:id="DriveTrain">
+<!-- Source:  P1206 EMPIRE STATE MACHINERY MANUAL  FIRST DRAFT MAY 2022  -->
+<caption> Drive Train  </caption>
+<image width="100%" source="pics/electric-propulsion/DriveTrain"/>
+</figure>
+</section>
+</chapter>
+</book>
 </pretext>

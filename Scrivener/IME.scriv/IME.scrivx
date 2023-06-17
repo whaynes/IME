@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="9CEE092B-52A4-40FD-A463-60A47C53A797" Version="2.0" Creator="SCRMAC-3.3.1-15588" Device="whaynes-MBP-2021" Author="" Modified="2023-06-15 07:45:54 -0400" ModID="621AD80F-7132-4502-A1ED-49FC72C09A59">
+<ScrivenerProject Identifier="9CEE092B-52A4-40FD-A463-60A47C53A797" Version="2.0" Creator="SCRMAC-3.3.1-15588" Device="whaynes-MBP-2021" Author="" Modified="2023-06-16 22:55:04 -0400" ModID="AC84CA93-83C3-4352-8D24-82846F6B4CC7">
     <Binder>
         <BinderItem UUID="7A583553-3A84-40D6-B9B9-0430B8CD3E39" Type="DraftFolder" Created="2023-05-29 09:45:48 -0400" Modified="2023-05-29 09:45:48 -0400">
             <Title>Draft</Title>
@@ -1974,13 +1974,22 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem UUID="0D67A96B-1BF5-4948-BB9A-825975916906" Type="Folder" Created="2023-05-31 15:03:02 -0400" Modified="2023-06-14 16:24:14 -0400">
-                            <Title>One Line Diagram</Title>
+                        <BinderItem UUID="8502C6BE-F400-4A3A-B0BE-DA67748EA4F0" Type="Folder" Created="2023-06-16 08:17:22 -0400" Modified="2023-06-16 08:25:47 -0400">
+                            <Title>Style Guide</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>120,0</TextSelection>
+                                <TextSelection>2825,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="0D67A96B-1BF5-4948-BB9A-825975916906" Type="Folder" Created="2023-05-31 15:03:02 -0400" Modified="2023-06-15 18:31:10 -0400">
+                            <Title>Overview</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1237,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="79744FFB-DBFD-47D2-A159-B75EE1220CF9" Type="Folder" Created="2023-05-31 15:03:02 -0400" Modified="2023-06-13 21:36:05 -0400">
@@ -1992,26 +2001,35 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="FA0476F0-AA0B-49CD-9C52-1A70BBA36591" Type="Folder" Created="2023-06-13 21:35:34 -0400" Modified="2023-06-14 16:07:35 -0400">
-                                    <Title>Principle of operation</Title>
+                                <BinderItem UUID="FA0476F0-AA0B-49CD-9C52-1A70BBA36591" Type="Folder" Created="2023-06-13 21:35:34 -0400" Modified="2023-06-16 21:25:37 -0400">
+                                    <Title>Principle of Operation</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>1876,0</TextSelection>
+                                        <TextSelection>2542,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="2B434DCB-9DEC-4D8D-9365-1C0EA714565A" Type="Folder" Created="2023-06-14 08:03:59 -0400" Modified="2023-06-14 16:13:20 -0400">
+                                <BinderItem UUID="2B434DCB-9DEC-4D8D-9365-1C0EA714565A" Type="Folder" Created="2023-06-14 08:03:59 -0400" Modified="2023-06-16 22:55:04 -0400">
                                     <Title>Construction</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>159,0</TextSelection>
+                                        <TextSelection>3375,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="B7289D47-F735-4CC7-93AF-5401F0A297B1" Type="Folder" Created="2023-06-13 21:34:24 -0400" Modified="2023-06-14 08:04:55 -0400">
+                                <BinderItem UUID="B7289D47-F735-4CC7-93AF-5401F0A297B1" Type="Folder" Created="2023-06-13 21:34:24 -0400" Modified="2023-06-15 21:41:39 -0400">
                                     <Title>Excitation</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>3192,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="E06D114C-F027-4771-B57D-16410B29641E" Type="Folder" Created="2023-06-16 21:26:12 -0400" Modified="2023-06-16 21:26:18 -0400">
+                                    <Title>Voltage Regulation</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
@@ -2021,8 +2039,17 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem UUID="08A84778-8F8D-4216-987B-4F3335C94084" Type="Folder" Created="2023-05-31 15:03:02 -0400" Modified="2023-06-14 16:21:18 -0400">
-                            <Title>Propulsion Frequency Converters</Title>
+                        <BinderItem UUID="489187EA-1F21-4D5E-A56F-A86070C0F198" Type="Folder" Created="2023-06-15 18:15:08 -0400" Modified="2023-06-15 18:15:45 -0400">
+                            <Title>Transformers</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="08A84778-8F8D-4216-987B-4F3335C94084" Type="Folder" Created="2023-05-31 15:03:02 -0400" Modified="2023-06-15 18:15:50 -0400">
+                            <Title>Propulsion Converters</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
@@ -2036,13 +2063,7 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>446,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem UUID="DFCEC98D-FF79-412F-876C-603CABC8D2BF" Type="Folder" Created="2023-05-31 15:03:02 -0400" Modified="2023-06-13 18:28:28 -0400">
-                            <Title>Transformers</Title>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
+                                <TextSelection>245,10</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -2212,6 +2233,16 @@
                 <SelectedSubdocumentUUIDs>8DDDF593-7D99-4FBB-83FA-B095E6D5E072</SelectedSubdocumentUUIDs>
             </CorkboardAndOutliner>
             <Children>
+                <BinderItem UUID="89C51861-F132-4DDE-BEB9-DB6040808E0A" Type="PDF" Created="2022-09-30 14:07:35 -0400" Modified="2022-09-30 14:07:34 -0400">
+                    <Title>P1206 EMPIRE STATE MACHINERY MANUAL - FIRST DRAFT MAY 2022</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>pdf</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <CurrentPDFPage>0</CurrentPDFPage>
+                    </MediaSettings>
+                </BinderItem>
                 <BinderItem UUID="D3EB7D05-9591-4DD9-8A84-ABF80015DFFD" Type="PDF" Created="2021-05-31 13:32:00 -0400" Modified="2023-06-12 16:10:33 -0400">
                     <Title>DV951E001_MAIN ALTERNATOR_OPERATION MANUAL_PMG</Title>
                     <MetaData>
@@ -2825,6 +2856,12 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem UUID="DFCEC98D-FF79-412F-876C-603CABC8D2BF" Type="Folder" Created="2023-05-31 15:03:02 -0400" Modified="2023-06-13 18:28:28 -0400">
+                    <Title>Transformers</Title>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
     </Binder>
@@ -2834,7 +2871,7 @@
         </Collection>
         <Collection Type="RecentSearch" ID="2655DDF6-4AB8-42CB-A433-1CD76FC351D2" Color="0.922173 0.818612 0.999627">
             <Title>Search Results</Title>
-            <SearchSettings Operator="Any" Type="All" Scope="Draft" ExcludeTrash="Yes" CaseSensitive="No" IgnoreDiacritics="No">include</SearchSettings>
+            <SearchSettings Operator="Any" Type="All" Scope="Draft" ExcludeTrash="Yes" CaseSensitive="No" IgnoreDiacritics="No">&lt;table</SearchSettings>
         </Collection>
     </Collections>
     <SectionTypes>
@@ -2918,12 +2955,12 @@
     </CustomMetaDataSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 08:24:39 -0400" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2023-06-16 01:00:00 -0400" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2023-06-15 07:45:51 -0400"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2023-06-17 01:00:00 -0400" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="1024" Characters="6097" Date="2023-06-16 08:17:12 -0400"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2023-06-15 00:00:00 -0400">
-        <DraftWordCount>0</DraftWordCount>
-        <DraftCharCount>0</DraftCharCount>
+    <RecentWritingHistory Date="2023-06-16 00:00:00 -0400">
+        <DraftWordCount>1024</DraftWordCount>
+        <DraftCharCount>6097</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>

@@ -1,66 +1,121 @@
 {\rtf1\ansi\ansicpg1252\cocoartf2709
 \cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fswiss\fcharset0 Helvetica-Light;\f2\fmodern\fcharset0 Courier;
-}
-{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red97\green16\blue51;\red0\green0\blue150;
-}
-{\*\expandedcolortbl;;\csgray\c0;\cssrgb\c46300\c11000\c25900;\csgenericrgb\c0\c0\c58824;
-}
+\f3\froman\fcharset0 TimesNewRomanPSMT;\f4\fswiss\fcharset0 ArialMT;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red97\green16\blue51;\red0\green0\blue0;
+\red0\green0\blue150;}
+{\*\expandedcolortbl;;\csgray\c0;\cssrgb\c46300\c11000\c25900;\cssrgb\c0\c0\c0;
+\csgenericrgb\c0\c0\c58824;}
 \pard\sb240\partightenfactor0
 
 \f0\fs24 \cf2 <$Scr_Ps::0>
-\f1\fs32 Specs:\
+\f1\fs32 The specifications of the the Hyundai HSJ9 used on the training ship are shown in <xref ref="generator_specs"/>.
+\f2\fs28 \cf3 \
+\pard\sb40\sa40\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf3 <!$Scr_Ps::0><$Scr_Ps::1>
+\f2\fs28           <table xml:id="generator_specs" >\
+<title>Main Generator Specifications</title><tabular>\
+            \
+            <row>\
+              <cell>Manufacturer</cell><cell>Hyundai</cell>\
+            </row>\
+            <row>\
+              <cell>Model</cell><cell>HSJ9 913-08P </cell>\
+            </row>\
+            <row>\
+              <cell>Type</cell><cell>8 pole, cylindrical rotor, brushless,.separately excited </cell>\
+            </row>\
+            <row>\
+              <cell>Rated Output</cell><cell>5066.25kVA / 4053kW</cell>\
+            </row>\
+            <row>\
+              <cell>Rated Voltage</cell><cell> 6.6kV AC</cell>\
+            </row>\
+            <row>\
+              <cell>Current</cell><cell>443.2A</cell>\
+            </row>\
+            <row>\
+              <cell>Speed</cell><cell>900 rpm </cell>\
+            </row>\
+            <row>\
+              <cell>Frequency</cell><cell>60 Hz</cell>\
+            </row>\
+            <row>\
+              <cell>Power factor</cell><cell>0.8</cell>\
+            </row>\
+            <row>\
+              <cell>Excitation voltage</cell><cell>60V DC</cell>\
+            </row>\
+            <row>\
+              <cell>Excitation current</cell><cell>4A DC</cell>\
+            </row></tabular>\
+          </table>\
+\pard\sb240\partightenfactor0
+
+\f0\fs24 \cf2 <!$Scr_Ps::1><$Scr_Ps::0>
+\f1\fs32  \
+As discussed in the previous section the primary components of an AC generator are the armature and the field, one of which is located on the rotor and the other on the stator.  However a practical generator requires  many other components, including an enclosure, bearings, cooling, lubrication, instrumentation and control, and a method to excite the field.  \
+Please refer to <xref ref="generator"/> and  <xref ref="generator_exploded"/>.\
+The generator main shaft (6) is driven by a 16 cylinder, 4-stroke, 4,200 kW diesel engine at 900 rpm, not shown.  \
+The shaft is supported by two journal bearings (7 and 13), one on the drive end (DE) and the other on the non-drive end (NDE).  These bearings have an integral oil sump with sight glass, cooling fins, and an oil ring that circulates the oil to the top of the shaft as it rotates. \
+The shaft itself supports and carries the rotating components: primarily the main rotor core (9) and main field windings (3), but also a cooling fan (2) and several other components (10, 11, 12, 14, 16, and 19) that are required to excite the generator.  These components will be discussed in <xref ref="Excitation" />. 
+\f3\fs26\fsmilli13333 \cf4 \expnd0\expndtw0\kerning0
 \
-The principle components  of the Hyundai HSJ9 generator are shown in <xref ref="generator"/> and  in exploded view <xref ref="generator_exploded"/>.  \
+
+\f1\fs32 \cf2 \kerning1\expnd0\expndtw0 Generators produce lots of heat while they are operating due to unavoidable losses caused by mechanical friction and electrical resistance, among others.  If this heat is not removed as it is produced, the generator temperature will rise to unacceptable limits, and high temperature is extremely damaging to electrical insulation. Electrical machines are designed to run for 100,000 hours or more when operated at or below their design temperature limit, however for every 10\'b0 C rise above this temperature, the thermal life expectancy of the electrical insulation is reduced by half, so generator cooling is critical.
+\f4\fs29\fsmilli14667 \cf0 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec4 \
+
+\f1\fs32 \cf2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 The generator\'92s cooling system consists the shaft driven internal fan (2) which circulates the air through the machine to cool it. This warmed air passes over a water-cooled heat exchanger where it is cooled and then recirculated.  The cooling water tubes are double walled with slotted plate fins. Water flows through the inner tube and cools the outer tube and the slotted fins. Air flows between the fins and around the outer tubes and so is cooled.  \
+In the case of a tube leak,  water will flow between the inner and outer tubes to a leak detector and trigger an alarm.  This prevents water from leaking on to the electrical components.\
+If for some reason the cooling water is not available, an  emergency cooling mode is available.  In this mode  cover plates on the generator are removed which allows the fan to draw cool air from the engine room and discharge the heated air back. \
+\
 \pard\sb40\sa40\pardirnatural\partightenfactor0
 
 \f0\fs24 \cf3 <!$Scr_Ps::0><$Scr_Ps::1>
 \f2\fs28 <figure xml:id="generator">\
 <!-- Source:  P1206 EMPIRE STATE MACHINERY MANUAL  FIRST DRAFT MAY 2022   -->\
-<caption>  generator.svg  </caption>\
+<caption> Hyundai HSJ9 Generator </caption>\
 <image width="100%" source="pics/electric-propulsion/generator"/>\
 </figure>\
 \pard\sb240\partightenfactor0
 
-\f0\fs24 \cf2 <!$Scr_Ps::1><$Scr_Ps::0>
-\f1\fs32 \
+\f0\fs24 \cf3 <!$Scr_Ps::1><$Scr_Ps::0>
+\f2\fs28 \
 \pard\sb40\sa40\pardirnatural\partightenfactor0
 
-\f0\fs24 \cf2 <!$Scr_Ps::0><$Scr_Ps::1>
-\f2\fs28 <p>The main components include: <ol cols="2">\
-\pard\sb40\sa40\pardirnatural\partightenfactor0
-\cf3               \cf4 <li>\cf3 Water cooled Air Cooler\cf4 </li>\cf3 \
-              \cf4 <li>\cf3 Ventilation Fan\cf4 </li>\cf3 \
-              \cf4 <li>\cf3 Stator Windings\cf4 </li>\cf3 \
-              \cf4 <li>\cf3 Rotor Windings\cf4 </li>\cf3 \
-              \cf4 <li>\cf3 End Shield\cf4 </li>\cf3 \
-              \cf4 <li>\cf3 Shaft\cf4 </li>\cf3 \
-              \cf4 <li>\cf3 Drive End Bearing\cf4 </li>\cf3 \
-              \cf4 <li>\cf3 Main Stator Core\cf4 </li>\cf3 \
-              \cf4 <li>\cf3 Main Rotor Core\cf4 </li>\cf3 \
-              \cf4 <li>\cf3 Rotating Rectifier\cf4 </li>\cf3 \
-              \cf4 <li>\cf3 Rectifier Leads\cf4 </li>\cf3 \
-              \cf4 <li>\cf3 Non-Drive End Bearing\cf4 </li>\
-\cf3               \cf4 <li>\cf3 Pilot Generator Rotor\cf4 </li>\cf3 \
-              \cf4 <li>\cf3 Pilot Generator Stator\cf4 </li>\cf3  \
-              \cf4 <li>\cf3 End Shield\cf4 </li>\
-\cf3               \cf4 <li>\cf3 Exciter Rotor\cf4 </li>\cf3 \
-              \cf4 <li>\cf3 Exciter Stator\cf4 </li>\cf3 \
-              \cf4 <li>\cf3 Exciter Equipment\cf4 </li>\
-              <li>\cf3 Current Transformer\cf4 </li>\
-              <li>\cf3 Pilot Rectifier Assembly\cf4 </li>\
-              <li>\cf3 Rectifier Cover\cf4 </li>\
-\pard\sb40\sa40\pardirnatural\partightenfactor0
-\cf2             </ol>\
-\pard\sb40\sa40\pardirnatural\partightenfactor0
-\cf3           </p>\
-\pard\sb40\sa40\pardirnatural\partightenfactor0
-\cf3 \
-\pard\sb40\sa40\pardirnatural\partightenfactor0
-\cf3 <figure xml:id="generator_exploded">\
+\f0\fs24 \cf3 <!$Scr_Ps::0><$Scr_Ps::1>
+\f2\fs28 <figure xml:id="generator_exploded">\
 <!-- Source: DV951E001_MAIN ALTERNATOR_OPERATION MANUAL_ALTERNATOR -->\
 <caption> Generator Exploded View </caption>\
 <image width="100%" source="pics/electric-propulsion/generator_exploded.png"/>\
 </figure>\
 \
+<p><ol cols="2">\
+              \cf5 <li>\cf3 Water cooled Air Cooler\cf5 </li>\cf3 \
+              \cf5 <li>\cf3 Ventilation Fan\cf5 </li>\cf3 \
+              \cf5 <li>\cf3 Main Armature Winding \cf5 </li>\cf3 \
+              \cf5 <li>\cf3 Main Field Windings\cf5 </li>\cf3 \
+              \cf5 <li>\cf3 End Shield, (DE)\cf5 </li>\cf3 \
+              \cf5 <li>\cf3 Shaft\cf5 </li>\cf3 \
+              \cf5 <li>\cf3 Bearing, (DE)\cf5 </li>\cf3 \
+              \cf5 <li>\cf3 Main Stator Core\cf5 </li>\cf3 \
+              \cf5 <li>\cf3 Main Rotor Core\cf5 </li>\cf3 \
+              \cf5 <li>\cf3 Main Field Terminals\cf5 </li>\
+              <li>\cf3 Leads to/from Rectifier\cf5 </li>\
+\cf3               \cf5 <li>\cf3 Exciter Rotor Core\cf5 </li>\cf3 \
+              \cf5 <li>\cf3 Bearing, (NDE)\cf5 </li>\
+             \cf3  \cf5 <li>\cf3 Rotating Rectifier\cf5 </li>\
+              <li>\cf3 Rectifier Cover<\cf5 /li>\
+\cf3               \cf5 <li>\cf3 Permanent Magnet Rotor\cf5 </li>\
+\cf3               \cf5 <li>\cf3 Permanent Magnet Stator\cf5 </li>\cf3 \
+              \cf5 <li>\cf3 End Shield, (NDE)\cf5 </li>\
+\cf3               \cf5 <li>\cf3 Exciter Armature Winding\cf5 </li>\
+              <li>Exciter Field Winding</li>\cf3 \
+              \cf5 <li>\cf3 Exciter Stator Core\cf5 </li>\cf3 \
+       \cf5        <li>\cf3 Current Transformer\cf5 </li>\
+              <li>\cf3 Main Terminal Box\cf5 </li>\
+  \cf2             </ol>\
+\cf3           </p>\
 
 \f0\fs24 <!$Scr_Ps::1>}
