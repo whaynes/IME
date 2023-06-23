@@ -12,5 +12,10 @@
     <Day dwc="1020" dcc="6918" dtwc="1260" owc="247" occ="2555" dtcc="9413">2023-06-13</Day>
     <Day dwc="216" dcc="1634" dtwc="1476" owc="0" occ="0" dtcc="11047">2023-06-14</Day>
     <Day dwc="382" dcc="2914" dtwc="1858" owc="0" occ="0" dtcc="13961">2023-06-15</Day>
-    <Day dwc="1024" dcc="6097" owc="0" occ="0">2023-06-16</Day>
+    <Day dwc="1024" dcc="6097" dtwc="3645" owc="0" occ="0" dtcc="25023">2023-06-16</Day>
+    <Day dwc="238" dcc="1565" dtwc="3394" owc="0" occ="0" dtcc="23763">2023-06-18</Day>
+    <Day dwc="893" dcc="6153" dtwc="4548" owc="261" occ="1777" dtcc="31689">2023-06-19</Day>
+    <Day dwc="5146" dcc="34838" dtwc="4452" owc="0" occ="0" dtcc="30875">2023-06-20</Day>
+    <Day dwc="-13" dcc="-116" dtwc="4439" owc="0" occ="0" dtcc="30759">2023-06-21</Day>
+    <Day dwc="215" dcc="1596" owc="0" occ="0">2023-06-22</Day>
 </WritingHistory>

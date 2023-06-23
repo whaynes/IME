@@ -92,7 +92,7 @@
 <p class="itemText">&lt;frontmatter xml:id="frontmatter"&gt;</span></p></p>
 <p class="itemText"><p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>&lt;titlepage&gt;</span></p></p>
 <p class="itemText"><p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>&lt;author&gt;</span></p></p>
-<p class="itemText"><p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>&lt;personname/&gt;</span></p></p>
+<p class="itemText"><p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>&lt;personname&gt;Engineering Departement&lt;/personname&gt;</span></p></p>
 <p class="itemText"><p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>&lt;department&gt;Engineering Department&lt;/department&gt;</span></p></p>
 <p class="itemText"><p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>&lt;institution&gt;Massachusetts Maritime Academy&lt;/institution&gt;<span class="Apple-converted-space"> </span></span></p></p>
 <p class="itemText"><p class="p1"><span class="s1"><span class="Apple-converted-space">       </span>&lt;/author&gt;<span class="Apple-converted-space"> </span></span></p></p>
@@ -1022,6 +1022,9 @@
 <p class="folderTitle">Electrical Symbols</p>
 </li>
 <li>
+<p class="folderTitle">Transformers</p>
+</li>
+<li>
 <p class="folderTitle">Diodes</p>
 </li>
 <li>
@@ -1162,18 +1165,14 @@
 </li>
 <li>
 <p class="itemTitle">Redundancy and Reliability</p>
-<p class="itemText"> Electric propulsion systems provide inherent redundancy and enhanced reliability compared to traditional propulsion systems. With multiple smaller generator sets, the system can continue to function even if one or more generators or motors fail or require maintenance. This redundancy<span class="Apple-converted-space">  </span>reduces the risk of complete propulsion failure and ensures that the propulsion system remains operational. </p>
+<p class="itemText">Electric propulsion systems provide inherent redundancy and enhanced reliability compared to traditional propulsion systems. With multiple smaller generator sets, the system can continue to function even if one or more generators or motors fail or require maintenance. This redundancy<span class="Apple-converted-space">  </span>reduces the risk of complete propulsion failure and ensures that the propulsion system remains operational. </p>
+</li>
+<li>
+<p class="itemTextStart">&lt;/ul&gt;&lt;/p&gt;</p>
 </li>
 </ul>
 <hr class="afterText"/>
 
-<li>
-<p class="folderTitle">Style Guide</p>
-<p class="itemText">&lt;blockquote&gt;</span></p></p>
-<p class="itemText"><p class="p1"><span class="s1">Omit needless words.<span class="Apple-converted-space">  </span>Vigorous writing is concise.<span class="Apple-converted-space"> </span></span></p></p>
-<p class="itemText"><p class="p1"><span class="s1">A sentence should contain no unnecessary words, a paragraph no unnecessary sentences, for the same reason that a drawing should have no unnecessary lines and a machine no unnecessary parts. This requires not that the writer make all his sentences short, or that he avoid all detail and treat his subjects only in outline, but that every word tell.</span></p></p>
-<p class="itemText"><p class="p1"><span class="s1">&lt;attribution&gt;Strunk and White, &lt;pubtitle&gt;The Elements of Style&lt;/pubtitle&gt;&lt;/attribution&gt;...</p>
-</li>
 <li>
 <p class="folderTitle">Overview</p>
 <p class="itemText">An overview of the electric propulsion system of the Patriot State II is shown in the one-line diagram below, &lt;xref ref="propulsion_system"/&gt;.</span></p></p>
@@ -1190,7 +1189,7 @@
 <p class="itemText">An electrical generator converts mechanical energy into electrical energy by utilizing the principle of electromagnetic induction. <span class="Apple-converted-space">  </span>Electromagnetic induction was first discovered in the early 19th century by English scientist Michael Faraday (1791 &lt;ndash/&gt; 1867). According to Faraday's law of electromagnetic induction, a moving or changing magnetic field induces an electric voltage in a nearby conductor. If the conductor forms a closed loop, an electric current will flow and electrical power wi...</p>
 </li>
 <li>
-<p class="folderTitle">Construction</p>
+<p class="folderTitle">Description</p>
 <p class="itemText">The specifications of the the Hyundai HSJ9 used on the training ship are shown in &lt;xref ref="generator_specs"/&gt;.</span></p></p>
 <p class="itemText"><p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>&lt;table xml:id="generator_specs" &gt;</span></p></p>
 <p class="itemText"><p class="p1"><span class="s1">&lt;title&gt;Main Generator Specifications&lt;/title&gt;&lt;tabular&gt;</span></p></p>
@@ -1205,61 +1204,239 @@
 <p class="itemText"><p class="p1"><span class="s1"><span class="Apple-converted-space">              </span>&lt;cell&gt;Type&lt;/cell&gt;&lt;cell&gt;8 pole, cylindrical rotor, b...</p>
 </li>
 <li>
-<p class="folderTitle">Excitation</p>
-<p class="itemText"></span></p></p>
-<p class="itemText"><p class="p1"><span class="s1">&lt;figure xml:id="exciter_exploded"&gt;</span></p></p>
-<p class="itemText"><p class="p1"><span class="s1">&lt;!-- Source:<span class="Apple-converted-space">  </span>P1206 EMPIRE STATE MACHINERY MANUAL<span class="Apple-converted-space">  </span>FIRST DRAFT MAY 2022<span class="Apple-converted-space">  </span>--&gt;</span></p></p>
-<p class="itemText"><p class="p1"><span class="s1">&lt;caption&gt; Exciter Exploded View &lt;/caption&gt;</span></p></p>
-<p class="itemText"><p class="p1"><span class="s1">&lt;image width="100%" source="pics/electric-propulsion/exciter_exploded.png"/&gt;</span></p></p>
-<p class="itemText"><p class="p1"><span class="s1">&lt;/figure&gt;</span></p></p>
-<p class="itemText"><p class="p2"><span class="s1"></span><br></p></p>
-<p class="itemText"><p class="p1"><span class="s1"><span class="Apple-converted-space"> </span>&lt;sidebyside width="48%" xml:id='pilot_generator'&gt;</span></p></p>
-<p class="itemText"><p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>&lt;figure xml:id="exciter_rotor"&gt;</span></p></p>
-<p class="itemText"><p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>&lt;!-- DV951E001_MAIN ALTERNATOR_OPERATION MANUAL_PMG<span class="Apple-converted-space">  </span>--&gt;</span></p></p>
-<p class="itemText"><p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>&lt;caption&gt; Exciter Rotor showing Permanent Magnets&lt;/caption&gt;</span></p></p>
-<p class="itemText"><p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>&lt;image width="100%...</p>
+<p class="folderTitle">Excitation System</p>
+</li>
+<hr class="afterTitle"/>
+<ul>
+<li>
+<p class="itemTitle">Introduction</p>
+<p class="itemText">The purpose of the excitation system is to excite the generator’s field.<span class="Apple-converted-space">  </span>That is, the system supplies the DC voltage and current to the generator’s main field windings that creates the magnetic field required for electrical generation.<span class="Apple-converted-space">  </span>The amount of excitation current determines the strength of this field, which in turn affects the generator output.</span></p></p>
+<p class="itemText"><p class="p1"><span class="s1">Generator excitation systems consists of several components that work together excite the field, maintain a constant and correct output voltage de...</p>
 </li>
 <li>
-<p class="folderTitle">Voltage Regulation</p>
+<p class="folderTitle">Exciter</p>
+<p class="itemText">An exciter, also known as an excitation generator, is a second generator which spins on the same shaft as the main generator.<span class="Apple-converted-space">  </span>The function of the exciter is to produce the direct current required to energize the main rotor windings, thereby creating a magnetic field.<span class="Apple-converted-space"> </span></span></p></p>
+<p class="itemText"><p class="p1"><span class="s1">There are several important differences between the main generator and the exciter.<span class="Apple-converted-space">  </span>Although both are 3-phase generators, the main generator has a rotating field and a stationary armature while the exciter has a stationary field ...</p>
+</li>
+<li>
+<p class="folderTitle">Pilot Generator</p>
+<p class="itemText">Just as the exciter generator is needed to supply the field for the main generator, a third generator is needed to supply the field for the exciter.<span class="Apple-converted-space">  </span>This is the pilot generator.<span class="Apple-converted-space"> </span></span></p></p>
+<p class="itemText"><p class="p1"><span class="s1">In other words, the main generator is excited by the exciter, and the exciter is excited by the pilot generator. This process stops here however, because the field of the pilot generator is produced by permanent magnets, not a field winding.<span class="Apple-converted-space">  </span>For this reason, the pilot generator is alternately called the permanent magn...</p>
+</li>
+<li>
+<p class="folderTitle">Voltage Regulator</p>
+<p class="itemText">An automatic voltage regulator (AVR) is a control device which detects any fluctuation in a generator’s voltage and adjusts the excitation current to offset the fluctuation and so keep the output voltage constant regardless of load changes.<span class="Apple-converted-space"> </span></span></p></p>
+<p class="itemText"><p class="p1"><span class="s1">A simplified block diagram of the components of the Hyundai HDEC2000 AVR used on the training ship is shown in &lt;xref ref ="avr_block_diagram"/&gt;. <span class="Apple-converted-space">    </span>The primary function is to provide continuous voltage regulation of the generator through excitation current ...</p>
+</li>
+</ul>
+</ul>
+<hr class="afterText"/>
+
+<li>
+<p class="folderTitle">Propulsion Converters</p>
+</li>
+<hr class="afterTitle"/>
+<ul>
+<li>
+<p class="folderTitle">Principle of Operation</p>
+<p class="itemText">The ship’s propulsion converters are used to convert the fixed 6,600 V, 60 Hz of the vessel’s main<span class="Apple-converted-space">  </span>power supply into a variable voltage and frequency that is used to drive the two electric propulsion motors.<span class="Apple-converted-space"> </span></span></p></p>
+<p class="itemText"><p class="p1"><span class="s1">The converters (also called VFDs for variable frequency drive) take AC from the main switchboard, and first convert it to DC via rectification, then use Pulse Width Modulation (PWM) techniques to synthesize an AC sine wave that has the voltage and frequency required to drive the propulsion...</p>
+</li>
+<li>
+<p class="folderTitle">Description</p>
+</li>
+<hr class="afterTitle"/>
+<ul>
+<li>
+<p class="itemTitle">Overview</p>
+<p class="itemText">&lt;table&gt;</span></p></p>
+<p class="itemText"><p class="p1"><span class="s1"><span class="Apple-converted-space"> </span>&lt;title&gt;Frequency Converter Specifications&lt;/title&gt;</span></p></p>
+<p class="itemText"><p class="p1"><span class="s1"><span class="Apple-converted-space">              </span>&lt;tabular&gt;</span></p></p>
+<p class="itemText"><p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>&lt;row&gt;</span></p></p>
+<p class="itemText"><p class="p1"><span class="s1"><span class="Apple-converted-space">                  </span>&lt;cell&gt;Manufacturer&lt;/cell&gt;</span></p></p>
+<p class="itemText"><p class="p1"><span class="s1"><span class="Apple-converted-space">                  </span>&lt;cell&gt;General Electric&lt;/cell&gt;</span></p></p>
+<p class="itemText"><p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>&lt;/row&gt;</span></p></p>
+<p class="itemText"><p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>&lt;row&gt;</span></p></p>
+<p class="itemText"><p class="p1"><span class="s1"><span class="Apple-converted-space">                  </span>&lt;cell&gt;Model&lt;/cell&gt;</span></p></p>
+<p class="itemText"><p class="p1"><span class="s1"><span class="Apple-converted-space">                  </span>&lt;cell&gt;MV7306 DFE 12P &lt;fn&gt;3.3 kV Diode Front End, 12 pulse, Neutral Point Clamped (NPC)<span class="Apple-converted-space"> </span></span></p></p>
+<p class="itemText"><p class="p1"><span class="s1">&lt;/fn&gt;&lt;/cell&gt;</span></p></p>
+<p class="itemText"><p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>&lt;/row&gt;</span></p></p>
+<p class="itemText"><p class="p1"><span class="s1"><span class="Apple-converted-space">                </span>&lt;row&gt;</span></p></p>
+<p class="itemText"><p class="p1"><span class="s1"><span class="Apple-converted-space">                  </span>&lt;cell&gt;Rated output power&lt;/cell&gt;</span></p></p>
+<p class="itemText"><p class="p1"><span class="s1"><span class="Apple-converted-space">       </span>...</p>
+</li>
+<li>
+<p class="folderTitle">ProcessControl Section - PRC</p>
+<p class="itemText">ProcessControl Section - PRC<span class="Apple-converted-space"> </span></span></p></p>
+<p class="itemText"><p class="p1"><span class="s1"><span class="Apple-converted-space"> </span>• The process control cubicle contains all the control and management modules for the propulsion system. It also contains a 230V AC 1.5kVA UPS for power supply security, the UPS output goes to the CLC section for distribution. The front panel of the PRC also contains the local control panel for the propulsion unit, this includes the following:<span class="Apple-converted-space"> </span></span></p></p>
+<p class="itemText"><p class="p1"><span class="s1"><span class="Apple-converted-space"> </span>• Speed setting dial and reply pointer.<span class="Apple-converted-space"> </span></span></p></p>
+<p class="itemText"><p class="p1"><span class="s1"><span class="Apple-converted-space"> </span>• TFT touch screen.<span class="Apple-converted-space"> </span></span></p></p>
+<p class="itemText"><p class="p1"><span class="s1"><span class="Apple-converted-space"> </span>• Propeller rpm meter.<span class="Apple-converted-space"> </span></span></p></p>
+<p class="itemText"><p class="p1"><span class="s1"><span class="Apple-converted-space"> </span>• Power meter.<span class="Apple-converted-space"> </span></span></p></p>
+<p class="itemText"><p class="p1"><span class="s1"><span class="Apple-converted-space"> </span>• Panel mounted...</p>
+</li>
+<li>
+<p class="folderTitle">The Power Electronic Controller - PECe</p>
+<p class="itemText">The Power Electronic Controller - PECe<span class="Apple-converted-space"> </span></span></p></p>
+<p class="itemText"><p class="p1"><span class="s1">The propulsion motor control is based on a Power Electronic Controller Ethercat (PECe). The PECe is a distributed control system consisting of the following:<span class="Apple-converted-space"> </span></span></p></p>
+<p class="itemText"><p class="p1"><span class="s1"><span class="Apple-converted-space"> </span>• A PECeP80i industril PC.<span class="Apple-converted-space"> </span></span></p></p>
+<p class="itemText"><p class="p1"><span class="s1"><span class="Apple-converted-space"> </span>• A Power Interface Board Ethernet (PIBe).<span class="Apple-converted-space"> </span></span></p></p>
+<p class="itemText"><p class="p1"><span class="s1"><span class="Apple-converted-space"> </span>• Ethernet network for communication and data acquisition.<span class="Apple-converted-space"> </span></span></p></p>
+<p class="itemText"><p class="p1"><span class="s1"><span class="Apple-converted-space"> </span>• A Beckoff I/O low speeddata acquisition unit.<span class="Apple-converted-space"> </span></span></p></p>
+<p class="itemText"><p class="p1"><span class="s1">The PECe PC is located inside the converter local control cubicle and it manages the following control functions of ...</p>
+</li>
+<li>
+<p class="folderTitle">Propulsion Process Controller - PPC</p>
+<p class="itemText">Propulsion ProcessController - PPC<span class="Apple-converted-space"> </span></span></p></p>
+<p class="itemText"><p class="p1"><span class="s1">This is an integral part of the control PC PECe and has control over the following functions:<span class="Apple-converted-space"> </span></span></p></p>
+<p class="itemText"><p class="p1"><span class="s1"><span class="Apple-converted-space"> </span>• Starting and stopping of the system auxiliaries.<span class="Apple-converted-space"> </span></span></p></p>
+<p class="itemText"><p class="p1"><span class="s1"><span class="Apple-converted-space"> </span>• Process fault management.<span class="Apple-converted-space"> </span></span></p></p>
+<p class="itemText"><p class="p1"><span class="s1"><span class="Apple-converted-space"> </span>• The Propulsion Limitation System (PLS). This controls the automatic limitation of the propulsion in case of overloading of the main diesel generators.<span class="Apple-converted-space"> </span></span></p></p>
+<p class="itemText"><p class="p1"><span class="s1"><span class="Apple-converted-space"> </span>• The management of the remote control system from the operating positions around the vessel.<span class="Apple-converted-space"> </span></span></p></p>
+<p class="itemText"><p class="p1"><span class="s1"><span class="Apple-converted-space"> </span>• Interfaces with external system ...</p>
+</li>
+<li>
+<p class="folderTitle">Optic Fibre I/O Ethernet Network </p>
+<p class="itemText">Optic Fibre I/O Ethernet Network<span class="Apple-converted-space"> </span></span></p></p>
+<p class="itemText"><p class="p1"><span class="s1">This network provides communications between the PPC and the remote control positions. Due to the systemsloop configuration it is fault tolerant. The propulsion system can be controlled from the eight possible remote control positions that utilize this network:<span class="Apple-converted-space"> </span></span></p></p>
+<p class="itemText"><p class="p1"><span class="s1"><span class="Apple-converted-space"> </span>• Bridge console.<span class="Apple-converted-space"> </span></span></p></p>
+<p class="itemText"><p class="p1"><span class="s1"><span class="Apple-converted-space"> </span>• Port bridge wing console.<span class="Apple-converted-space"> </span></span></p></p>
+<p class="itemText"><p class="p1"><span class="s1"><span class="Apple-converted-space"> </span>• Starboard bridge wing console.<span class="Apple-converted-space"> </span></span></p></p>
+<p class="itemText"><p class="p1"><span class="s1"><span class="Apple-converted-space"> </span>• Training bridge console<span class="Apple-converted-space"> </span></span></p></p>
+<p class="itemText"><p class="p1"><span class="s1"><span class="Apple-converted-space"> </span>• Engine control room 1.<span class="Apple-converted-space"> </span></span></p></p>
+<p class="itemText"><p class="p1"><span class="s1"><span class="Apple-converted-space"> </span>•<span class="Apple-converted-space">  </span>• Engine control room 2.<span class="Apple-converted-space"> </span></span></p></p>
+<p class="itemText"><p class="p1"><span class="s1"><span class="Apple-converted-space"> </span>• Port local control panel.<span class="Apple-converted-space"> </span></span></p></p>
+<p class="itemText"><p class="p1"><span class="s1"><span class="Apple-converted-space"> </span>• ...</p>
+</li>
+<li>
+<p class="folderTitle">Converter Local Control Section- CLC </p>
+<p class="itemText"> • Converter Local Control Section- CLC<span class="Apple-converted-space"> </span></span></p></p>
+<p class="itemText"><p class="p1"><span class="s1"><span class="Apple-converted-space"> </span>• This section contains the following:<span class="Apple-converted-space"> </span></span></p></p>
+<p class="itemText"><p class="p1"><span class="s1"><span class="Apple-converted-space"> </span>• The PECe P80i industrial PC.<span class="Apple-converted-space"> </span></span></p></p>
+<p class="itemText"><p class="p1"><span class="s1"><span class="Apple-converted-space"> </span>• Power Interface Boards (PIBe) units (x2).<span class="Apple-converted-space"> </span></span></p></p>
+<p class="itemText"><p class="p1"><span class="s1"><span class="Apple-converted-space"> </span>• Interconnection and interfaces between the various units of the system and also between the system and external equipment.<span class="Apple-converted-space"> </span></span></p></p>
+<p class="itemText"><p class="p1"><span class="s1"><span class="Apple-converted-space"> </span>• Switching for the cooling system.<span class="Apple-converted-space"> </span></span></p></p>
+<p class="itemText"><p class="p1"><span class="s1"><span class="Apple-converted-space"> </span>• The 24V DC converters to convert 230V AC from the UPS in the PRC for control and for processcomputer supplies.<span class="Apple-converted-space"> </span></span></p></p>
+<p class="itemText"><p class="p1"><span class="s1"><span class="Apple-converted-space"> </span>• Cabinet heater supplies distribution.<span class="Apple-converted-space"> </span></span></p></p>
+<p class="itemText"><p class="p1"><span class="s1"><span class="Apple-converted-space"> </span>• Cabinet fans s...</p>
+</li>
+<li>
+<p class="folderTitle">Converter Cooling Section- CCU </p>
+<p class="itemText">Converter Cooling Section- CCU<span class="Apple-converted-space"> </span></span></p></p>
+<p class="itemText"><p class="p1"><span class="s1">This section contains the converter cooling pumps and switching system. The cooling of the drive is achieved by a closed loop de-ionised water to fresh (raw) water heat exchanger system.<span class="Apple-converted-space"> </span></span></p></p>
+<p class="itemText"><p class="p1"><span class="s1">The system consists of two pumps, one normal and one standby; the normal pump will start during the auxiliaries starting sequence.The water cooling system consists of:<span class="Apple-converted-space"> </span></span></p></p>
+<p class="itemText"><p class="p1"><span class="s1">• Two electrically in standby.<span class="Apple-converted-space"> </span></span></p></p>
+<p class="itemText"><p class="p1"><span class="s1">powered pumps; one in normal mode and one<span class="Apple-converted-space"> </span></span></p></p>
+<p class="itemText"><p class="p1"><span class="s1">• A resin de-ionising cartridge.</span></p></p>
+<p class="itemText"><p class="p1"><span class="s1">• A...</p>
+</li>
+<li>
+<p class="folderTitle">Pre-charging Section- PRE </p>
+<p class="itemText">Pre-charging Section- PRE<span class="Apple-converted-space"> </span></span></p></p>
+<p class="itemText"><p class="p1"><span class="s1">The pre-magnetisation (pre-charging) transformer and switchgear for the pre-magnetising of the propulsion transformer and the DC filter capacitors is located in this section.</p>
+</li>
+<li>
+<p class="folderTitle">Diode Front End Section- DFE </p>
+<p class="itemText">Diode Front End Section- DFE<span class="Apple-converted-space"> </span></span></p></p>
+<p class="itemText"><p class="p1"><span class="s1">This section consists of the diode font end bridge. This bridge receives the output of the two secondary windings of the propulsion transformer and rectifies this to a DC voltage. The diode bridge is madeup of four stacks of six diodes, one stack to each transformer secondary. The output is passed to the DC Capacitorfilter circuit (DCC).<span class="Apple-converted-space"> </span></span></p></p>
+<p class="itemText"><p class="p1"><span class="s1">Due to the arrangementof the propulsion transformer secondaries,onestar and one delta wound, the resulting phaseshift is applied ...</p>
+</li>
+<li>
+<p class="folderTitle">DC Capacitor Section- DCC</p>
+<p class="itemText">DC Capacitor Section- DCC<span class="Apple-converted-space"> </span></span></p></p>
+<p class="itemText"><p class="p1"><span class="s1">ThissectionhousestheDCfilter capacitorbanks.Thesecapacitorsprovide the DC filtering of the rectified AC to remove any residual ripple from the waveform to provide a more stable DC supply. The capacitors are water cooled. During the power sequencethey are all pre-charged.</span></p></p>
+<p class="itemText"><p class="p1"><span class="s1">artboard 9</p>
+</li>
+<li>
+<p class="folderTitle">Inverter Section- INV</p>
+<p class="itemText">In the inverter section, the DC from the rectifier section via the DCC section is converted back to AC using pulse width modulation via the IGBTs; these are high power semi-conductor switches that when triggered can switch on and off extremely fast, allowing precise control of the PWM and therefore precise control over the motor speedand torque. The IGBTs are triggered by optical fibre links from the trigger circuits in the PIBe board.<span class="Apple-converted-space"> </span></span></p></p>
+<p class="itemText"><p class="p2"><span class="s1"></span><br></p></p>
+<p class="itemText"><p class="p1"><span class="s1">&lt;figure xml:id="propulsion_converter_schematic"&gt;</span></p></p>
+<p class="itemText"><p class="p1"><span class="s1">&lt;!-- Sour...</p>
+</li>
+<li>
+<p class="folderTitle">ILC</p>
+</li>
+<li>
+<p class="folderTitle">Output Section- AC OUT </p>
+<p class="itemText">Output Section- AC OUT<span class="Apple-converted-space"> </span></span></p></p>
+<p class="itemText"><p class="p1"><span class="s1">This section contains the connections between the output of the inverter section and the cabling to the propulsion motor.<span class="Apple-converted-space"> </span></span></p></p>
+<p class="itemText"><p class="p1"><span class="s1">It also contains a PIBe unit that provides the triggering pulses for the inverter IGBTs and the braking chopperIGBTs.</p>
+</li>
+</ul>
+<hr class="afterText"/>
+
+<li>
+<p class="itemTitle">Propulsion Motor Braking </p>
+<p class="itemText">Propulsion Motor Braking<span class="Apple-converted-space"> </span></span></p></p>
+<p class="itemText"><p class="p1"><span class="s1">When the speed of a variable speed motor is reduced by reducing the frequency of the motor supply voltage, energy is fedback into<span class="Apple-converted-space">  </span>on the DC link will increase.This does not matter for small changes in motor speed, however, for large changes this could be a problem, as the feedback of large amounts of energy into the drive could cause damage.<span class="Apple-converted-space"> </span></span></p></p>
+<p class="itemText"><p class="p1"><span class="s1">As this converter system uses a Diode Front End (DFE) (and not an active front end), this energy cannot be fed back into the sup...</p>
+</li>
+<li>
+<p class="itemTitle">Emergency Converter Control</p>
+<p class="itemText">Emergency Converter Control<span class="Apple-converted-space"> </span></span></p></p>
+<p class="itemText"><p class="p1"><span class="s1">Each converter is fitted with a Local emergency Operating Panel (LOP) which is directly connected to the power electronic controller PLC.<span class="Apple-converted-space"> </span></span></p></p>
+<p class="itemText"><p class="p1"><span class="s1">If the propulsion remote control system fails (a link failure between PPC and PECe, or all remote control stations failed), the propulsion can be operated from the actual converters in ‘StandaloneMode’ using the LOP. Thisf acility is usually for maintenance via r service engineers or trained operators.<span class="Apple-converted-space"> </span></span></p></p>
+<p class="itemText"><p class="p1"><span class="s1">local operation allows runn...</p>
+</li>
+<li>
+<p class="itemTitle">Pulse Width Modulation</p>
+</li>
+<li>
+<p class="itemTitle">Power Electronics</p>
 </li>
 </ul>
 <hr class="afterTitle"/>
 
-<li>
-<p class="folderTitle">Transformers</p>
-</li>
-<li>
-<p class="folderTitle">Propulsion Converters</p>
-<p class="itemText">principle of operation</span></p></p>
-<p class="itemText"><p class="p1"><span class="s1">power electronics</span></p></p>
-<p class="itemText"><p class="p1"><span class="s1">pulse width modulation</span></p></p>
-<p class="itemText"><p class="p2"><span class="s1"></span><br></p></p>
-<p class="itemText"><p class="p1"><span class="s1">&lt;figure xml:id="propulsion_converter_schematic"&gt;</span></p></p>
-<p class="itemText"><p class="p1"><span class="s1">&lt;!-- Source:<span class="Apple-converted-space">  </span>P1206 EMPIRE STATE MACHINERY MANUAL<span class="Apple-converted-space">  </span>FIRST DRAFT MAY 2022 --&gt;</span></p></p>
-<p class="itemText"><p class="p1"><span class="s1">&lt;caption&gt; Propulsion Frequency Converter Schematic &lt;/caption&gt;</span></p></p>
-<p class="itemText"><p class="p1"><span class="s1">&lt;image width="100%" source="pics/electric-propulsion/propulsion_converter_schematic"/&gt;</span></p></p>
-<p class="itemText"><p class="p1"><span class="s1">&lt;/figure&gt;</span></p></p>
-<p class="itemText"><p class="p2"><span class="s1"></span><br></p></p>
-<p class="itemText"><p class="p1"><span class="s1">&lt;figure xml:id="propulsion_converter"&gt;</span></p></p>
-<p class="itemText"><p class="p1"><span class="s1">&lt;!-- Source:<span class="Apple-converted-space">  </span>P1206 EMPIRE STATE MACHINERY MANUAL<span class="Apple-converted-space">  </span>FIRST DRAFT MAY 2022 --&gt;</span></p></p>
-<p class="itemText"><p class="p1"><span class="s1">&lt;caption&gt; Propulsion Frequency Conv...</p>
-</li>
 <li>
 <p class="folderTitle">Propulsion Motors</p>
 <p class="itemText"></span></p></p>
 <p class="itemText"><p class="p1"><span class="s1">&lt;figure xml:id="propulsion_motor"&gt;</span></p></p>
 <p class="itemText"><p class="p1"><span class="s1">&lt;!-- Source:<span class="Apple-converted-space">  </span>DV951E001_MAIN ALTERNATOR_OPERATION MANUAL_ALTERNATOR--&gt;</span></p></p>
 <p class="itemText"><p class="p1"><span class="s1">&lt;caption&gt; Propulsion Motor &lt;/caption&gt;</span></p></p>
-<p class="itemText"><p class="p1"><span class="s1">&lt;image width="100%" source="pics/electric-propulsion/propulsion_motor"/&gt;</span></p></p>
+<p class="itemText"><p class="p1"><span class="s1">&lt;image width="100%" source="images/propulsion_motor"/&gt;</span></p></p>
 <p class="itemText"><p class="p1"><span class="s1">&lt;/figure&gt;</span></p></p>
 <p class="itemText"><p class="p2"><span class="s1"></span><br></p></p>
 <p class="itemText"><p class="p1"><span class="s1">&lt;figure xml:id="DriveTrain"&gt;</span></p></p>
 <p class="itemText"><p class="p1"><span class="s1">&lt;!-- Source:<span class="Apple-converted-space">  </span>P1206 EMPIRE STATE MACHINERY MANUAL<span class="Apple-converted-space">  </span>FIRST DRAFT MAY 2022<span class="Apple-converted-space">  </span>--&gt;</span></p></p>
 <p class="itemText"><p class="p1"><span class="s1">&lt;caption&gt; Drive Train<span class="Apple-converted-space">  </span>&lt;/caption&gt;</span></p></p>
-<p class="itemText"><p class="p1"><span class="s1">&lt;image width="100%" source="pics/electric-propulsion/DriveTrain"/&gt;</span></p></p>
+<p class="itemText"><p class="p1"><span class="s1">&lt;image width="100%" source="images/DriveTrain"/&gt;</span></p></p>
 <p class="itemText"><p class="p1"><span class="s1">&lt;/figure&gt;</span></p></p>
 <p class="itemText"><p class="p1"><span class="s1"></p>
 </li>
+<hr class="afterText"/>
+<ul>
+<li>
+<p class="itemTextStart">artboard 13</span></p></p>
+<p class="itemText"><p class="p2"><span class="s1"></span><br></p></p>
+<p class="itemText"><p class="p1"><span class="s1">Manufacturer:<span class="Apple-converted-space"> </span></span></p></p>
+<p class="itemText"><p class="p1"><span class="s1">Type:<br></p>
+<p class="itemText">Model:<br></p>
+<p class="itemText">No. of sets:<span class="Apple-converted-space"> </span></span></p></p>
+<p class="itemText"><p class="p1"><span class="s1">Rated: Voltage:<span class="Apple-converted-space"> </span></span></p></p>
+<p class="itemText"><p class="p1"><span class="s1">Current:<span class="Apple-converted-space"> </span></span></p></p>
+<p class="itemText"><p class="p1"><span class="s1">No. of Poles:<span class="Apple-converted-space"> </span></span></p></p>
+<p class="itemText"><p class="p1"><span class="s1">Speed:<span class="Apple-converted-space"> </span></span></p></p>
+<p class="itemText"><p class="p1"><span class="s1">Weight:<span class="Apple-converted-space"> </span></span></p></p>
+<p class="itemText"><p class="p1"><span class="s1">Protection:<span class="Apple-converted-space"> </span></span></p></p>
+<p class="itemText"><p class="p1"><span class="s1">GE Power Conversion AC induction<br></p>
+<p class="itemText">N3 HXC 1250 L/10/V 2<span class="Apple-converted-space"> </span></span></p></p>
+<p class="itemText"><p class="p1"><span class="s1">4,500kW 3,150V 1,035A 10 0-115rpm 57,500kg IP44/56<span class="Apple-converted-space"> </span></span></p></p>
+<p class="itemText"><p class="p1"><span class="s1">Propulsion motors</span></p></p>
+<p class="itemText"><p class="p1"><span class="s1">The two propulsion motors PM1 and PM2 are located at tank top level, PM1 located in motor room 1 and PM2 in motor room 2. They are tandem mounted driving a common propeller shaft which drives the fixed pitch propeller.<span class="Apple-converted-space"> </span></span></p></p>
+<p class="itemText"><p class="p1"><span class="s1">The motors are directly coup...</p>
+</li>
+<li>
+<p class="itemTitle">artboard 14</p>
+<p class="itemText">Cooling Fan Failures<span class="Apple-converted-space"> </span></span></p></p>
+<p class="itemText"><p class="p1"><span class="s1">If one motor cooling fan fails, a non-critical fault alarm is raised.<span class="Apple-converted-space"> </span></span></p></p>
+<p class="itemText"><p class="p1"><span class="s1">If two motor cooling fans fail, one from fans 1 and 2 or one from fans 3 and 4, a non-critical fault alarm is raised.<span class="Apple-converted-space"> </span></span></p></p>
+<p class="itemText"><p class="p1"><span class="s1">If two motor cooling fans fail, both fan 1 and fan 2 or both fan 3 and fan 4, a critical fault alarm is raised.<span class="Apple-converted-space"> </span></span></p></p>
+<p class="itemText"><p class="p1"><span class="s1">If any three motor cooling fans fail, both drives are tripped.<span class="Apple-converted-space"> </span></span></p></p>
+<p class="itemText"><p class="p1"><span class="s1">Propeller Shaft<span class="Apple-converted-space"> </span></span></p></p>
+<p class="itemText"><p class="p1"><span class="s1">The propeller shaft system is made up of different sections, connecting the propulsion motors ...</p>
+</li>
+</ul>
 </ul>
 <hr class="afterText"/>
 

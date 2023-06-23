@@ -317,7 +317,8 @@
 {\*\expandedcolortbl;;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
 
-\f0\fs24 \cf0 <section xml:id="">}]]></Prefix>
+\f0\fs24 \cf0 <section xml:id="\expnd0\expndtw0\kerning0
+<$custom:xml:id>\kerning1\expnd0\expndtw0 ">}]]></Prefix>
             <Suffix AfterSubdocs="Yes"><![CDATA[{\rtf1\ansi\ansicpg1252\cocoartf2709
 \cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
@@ -414,7 +415,7 @@
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
 
 \f0\fs24 \cf0 <subsection xml:id="\expnd0\expndtw0\kerning0
-" >}]]></Prefix>
+<$custom:xml:id>" >}]]></Prefix>
             <Suffix AfterSubdocs="Yes"><![CDATA[{\rtf1\ansi\ansicpg1252\cocoartf2709
 \cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
@@ -1988,7 +1989,7 @@
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
 
 \f0\fs24 \cf0 <subsubsection  xml:id="\expnd0\expndtw0\kerning0
-" \kerning1\expnd0\expndtw0 >}]]></Prefix>
+<$custom:xml:id>" \kerning1\expnd0\expndtw0 >}]]></Prefix>
             <Suffix AfterSubdocs="Yes"><![CDATA[{\rtf1\ansi\ansicpg1252\cocoartf2709
 \cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
@@ -2790,7 +2791,8 @@
     </EBookSettings>
     <PostProcessing Enabled="Yes" Type="Script">
         <Script><![CDATA[(java -jar /Applications/Oxygen\ XML\ Editor/frameworks/dita/DITA-OT3.x/lib/saxon/Saxon-HE-10.6.jar -xsl:/Users/whaynes/ptx/ime/Scrivener/scriv2ptx/scriv2ptx.xsl -o:main.ptx -s:main.xml && 
-osascript -e 'display notification "Export Success" with title "Scriv2PTX"' ) ]]></Script>
+osascript -e 'display notification "Export Success" with title "Scriv2PTX"' &&
+cd ~/ptx/ime && ~/Library/Python/3.11/bin/pretext build) ]]></Script>
         <Env>/Users/whaynes/.rbenv/shims:</Env>
     </PostProcessing>
 </CompileFormat>
