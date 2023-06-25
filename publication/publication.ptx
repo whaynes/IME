@@ -9,7 +9,7 @@
 <publication>
   <common>
     <!-- Level at which are html files generated (chapter/section/etc): -->
-    <chunking level="3"/>
+    <chunking level="4"/>
     <!-- Depth for table of contents.  0 means no TOC -->
     <tableofcontents level="3"/>
     <!-- Visibility of exercise components where they first appear.          -->
@@ -71,11 +71,13 @@
       <!-- Add content to \geometry{}: -->
       <!-- <geometry></geometry> -->
       <!-- The asymptote/@links set to "yes" would produce  -->
-      <!-- links the html version of asymptote graphics.    --></page>
+      <!-- links the html version of asymptote graphics.    -->
+        <geometry>letterpaper, height=9in, width=6.5in</geometry>
+      </page>
     <asymptote links="no"/>
     <!-- Set @formatted to "no" to remove formatting on worksheets: -->
     <worksheets formatted="yes"/>
-     <cover front="cover/IME_cover.pdf"/>
+    <cover front="cover/IME_cover.pdf"/>
   </latex>
 
   <html platform="web">

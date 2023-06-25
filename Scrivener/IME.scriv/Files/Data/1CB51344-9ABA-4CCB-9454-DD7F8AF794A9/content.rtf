@@ -1,46 +1,33 @@
 {\rtf1\ansi\ansicpg1252\cocoartf2709
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fswiss\fcharset0 Helvetica-Bold;\f2\fswiss\fcharset0 Helvetica-Light;
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fswiss\fcharset0 Helvetica-Light;\f2\fswiss\fcharset0 Helvetica-Bold;
 \f3\fmodern\fcharset0 Courier;}
-{\colortbl;\red255\green255\blue255;\red251\green0\blue23;\red0\green0\blue0;\red16\green128\blue214;
-\red97\green16\blue51;}
-{\*\expandedcolortbl;;\csgenericrgb\c98600\c0\c9100;\cssrgb\c0\c0\c0;\csgenericrgb\c6100\c50000\c84000;
-\cssrgb\c46300\c11000\c25900;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red97\green16\blue51;}
+{\*\expandedcolortbl;;\csgray\c0;\cssrgb\c46300\c11000\c25900;}
 \pard\sb240\partightenfactor0
 
 \f0\fs24 \cf2 <$Scr_Ps::0>
-\f1\b\fs32 I
-\f2\b0 n the inverter section, the DC from the rectifier section via the DCC section is converted back to AC using pulse width modulation via the IGBTs; these are high power semi-conductor switches that when triggered can switch on and off extremely fast, allowing precise control of the PWM and therefore precise control over the motor speedand torque. The IGBTs are triggered by optical fibre links from the trigger circuits in the PIBe board. \
-\pard\tx560\pardeftab720\sa293\partightenfactor0
-
-\f0\fs24 \cf3 \expnd0\expndtw0\kerning0
-<!$Scr_Ps::0>
-\fs29\fsmilli14667 \
-\pard\sb240\partightenfactor0
-
-\fs24 \cf4 \kerning1\expnd0\expndtw0 <$Scr_Ps::0>
-\f2\fs32 The inverter features the \'93Press-Pack\'94 IGBT power semiconductors, which enhance the power capabili- ties of the MV7000 in the larger sizes. For the higher power range these devices give considerably increased power, less losses and improved reliability due to lower component count and rugged design. As a result, the MV7000 is at the top level for reliability, efficiency and power density. \
-The PWM 3-level NPC (Neutral Point Clamped) inver- ter provides excellent output waveform, and subse- quently very low current THD (Total Harmonic Distortion). \
-\pard\tx560\pardeftab720\sa293\partightenfactor0
-
-\f0\fs24 \cf3 \expnd0\expndtw0\kerning0
-<!$Scr_Ps::0>
-\fs29\fsmilli14667 \
+\f1\fs32 The inverter section contains three subassemblies called 
+\f0\fs24 <$Scr_Cs::2>
+\f2\b\fs32 stacks
+\f0\b0\fs24 <!$Scr_Cs::2>
+\f1\fs32 , one for each phase of the output.  Each stack consists of four IGBT and two diode 
+\f0\fs24 <$Scr_Cs::2>
+\f2\b\fs32 press pack
+\f0\b0\fs24 <!$Scr_Cs::2>
+\f1\fs32  modules, a gate driver, water-cooled heat sink and balancing resistors.   \
+The term press pack refers to the physical packaging of electronic components.  It typically consists of a semiconductor chip,  along with its associated control and protection circuitry, mounted between two metal plates which serve as electrical contacts and provide mechanical support. These plates are made of good thermal conductors such as copper or aluminum. This design allows for efficient heat dissipation, as the metal plates can be directly attached to a heat sink.
+\f3\fs28 \cf3 \
 \pard\sb40\sa40\pardirnatural\partightenfactor0
 
-\fs24 \cf5 \kerning1\expnd0\expndtw0 <$Scr_Ps::1>
-\f3\fs28 <figure xml:id="propulsion_converter_schematic">\
-<!-- Source:  P1206 EMPIRE STATE MACHINERY MANUAL  FIRST DRAFT MAY 2022 -->\
-<caption> Propulsion Frequency Converter Schematic </caption>\
-<image width="100%" source="images/propulsion_converter_schematic"/>\
+\f0\fs24 \cf3 <!$Scr_Ps::0><$Scr_Ps::1>
+\f3\fs28 <figure xml:id="IGBT_stack">\
+<!-- Source:  IGBT  -->\
+<caption> IGBT Stack  </caption>\
+<image width="75%" source="images/IGBT_stack.png"/>\
 </figure>\
 \pard\sb240\partightenfactor0
 
 \f0\fs24 \cf2 <!$Scr_Ps::1><$Scr_Ps::0>
-\f2\fs32 A press pack IGBT (Insulated Gate Bipolar Transistor) refers to a type of power semiconductor device that is commonly used in high-power applications, including motor drives, power converters, and industrial equipment. It is designed to handle large currents and voltages.\
-\
-The term "press pack" refers to the physical packaging of the IGBT. It consists of a semiconductor chip, typically made of silicon, along with its associated control and protection circuitry. The chip is mounted between two metal plates, which serve as electrical contacts and provide mechanical support. These plates are typically made of materials such as copper or aluminum.\
-\
-The press pack design allows for efficient heat dissipation, as the metal plates can be directly attached to a heat sink to dissipate heat generated during operation. This ensures that the IGBT can handle high-power applications without overheating.\
-\
-Press pack IGBTs are known for their robustness, reliability, and high current-carrying capability. They are widely used in industries where high-power switching and control are required, such as electric propulsion systems, renewable energy systems, and industrial motor drives.
+\f1\fs32 The IGBT gates are triggered by pulse width signals produced in the CLC section which change the direct current stored in the DC capacitors into variable voltage, variable frequency alternating current.\
+
 \f0\fs24 <!$Scr_Ps::0>}

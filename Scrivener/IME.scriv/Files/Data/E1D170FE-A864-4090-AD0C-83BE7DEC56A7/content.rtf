@@ -1,87 +1,170 @@
 {\rtf1\ansi\ansicpg1252\cocoartf2709
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fmodern\fcharset0 Courier;\f1\fswiss\fcharset0 Helvetica;\f2\froman\fcharset0 Times-Roman;
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fswiss\fcharset0 Helvetica-Light;\f2\fmodern\fcharset0 Courier;
 \f3\fswiss\fcharset0 Helvetica-Bold;}
-{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red0\green0\blue0;}
-{\*\expandedcolortbl;;\csgray\c0;\cssrgb\c0\c0\c0;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red97\green16\blue51;\red6\green20\blue127;
+\red16\green128\blue214;\red65\green107\blue34;}
+{\*\expandedcolortbl;;\csgray\c0;\cssrgb\c46300\c11000\c25900;\cssrgb\c2000\c14900\c57300;
+\csgenericrgb\c6100\c50000\c84000;\cssrgb\c31800\c48600\c17600;}
+{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid1}}
+{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}}
+\pard\sb240\partightenfactor0
+
+\f0\fs24 \cf2 <$Scr_Ps::0>
+\f1\fs32 A three-phase induction motor is a type of electric motor that operates based on the principles of electromagnetic induction. \
+\pard\sb40\sa40\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf3 <!$Scr_Ps::0><$Scr_Ps::1>
+\f2\fs28 <figure xml:id="induction_motor">\
+<!-- Source:  Siemens STEP program Basics of Induction Motors  -->\
+<caption>  Three-phases Induction Motor  </caption>\
+<image width="50%" source="images/induction_motor"/>\
+</figure>\
+\pard\sb240\partightenfactor0
+
+\f0\fs24 \cf2 <!$Scr_Ps::1><$Scr_Ps::0>
+\f1\fs32 The stator carries three identical sets of 
+\f0\fs24 <$Scr_Cs::4>
+\f3\b\fs32 phase windings
+\f0\b0\fs24 <!$Scr_Cs::4>
+\f1\fs32  placed 120 degrees apart in a symmetrical pattern and connected in wye.. The specific pattern of the windings determines the number of magnetic poles.  Small motors typically have two or four poles per phase, but the ship\'92s propulsion motors have ten poles per phase. \
+\pard\sb40\sa40\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf3 <!$Scr_Ps::0><$Scr_Ps::1>
+\f2\fs28 <figure>\
+<caption>Stator Windings</caption>\
+<sidebyside width="30%" valign="bottom">\
+<figure xml:id="stator_1">\
+<!-- Source:  Siemens STEP program Basics of Induction Motors  -->\
+<caption> Partially Wound  </caption>\
+<image source="images/stator_1"/>\
+</figure>\
+<figure xml:id="stator_2">\
+<!-- Source:  Siemens STEP program Basics of Induction Motors  "/>\
+</figure>  -->\
+<caption>  Complete  </caption>\
+<image  source="images/stator_2"/>\
+</figure>\
+</sidebyside>\
+</figure>\
 \pard\sb120\sa120\pardirnatural\partightenfactor0
 
-\f0\fs28 \cf2 artboard 13\
+\f0\fs24 \cf2 <!$Scr_Ps::1>
+\f2\fs28 \
+\pard\sb240\partightenfactor0
+
+\f0\fs24 \cf2 <$Scr_Ps::0>
+\f1\fs32 When three-phase AC power is applied to the stator windings, a 
+\f0\fs24 <$Scr_Cs::4>
+\f3\b\fs32 rotating magnetic field
+\f0\b0\fs24 <!$Scr_Cs::4>
+\f1\fs32  develops rotating at the 
+\f0\fs24 <$Scr_Cs::4>
+\f3\b\fs32 synchronous speed
+\f0\b0\fs24 <!$Scr_Cs::4>
+\f1\fs32 . \
+\pard\tx720\tx1395\sb400\sa120\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf4 <!$Scr_Ps::0><$Scr_Ps::2>
+\f1\fs32 The synchronous speed is determined by the frequency of the power supply and the number of motor poles.  <me>n_s =\\frac\{120 f\}\{ P\}</me> Where: <ul marker="">\
+\pard\tx560\pardeftab720\sl336\slmult1\sb60\sa60\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf5 <$Scr_Cs::5><!$Scr_Ps::2><$Scr_Ps::3>
+\f2\fs28 n_s
+\f0\fs24 \cf6 <!$Scr_Cs::5>
+\f2\fs28  is the synchronous speed in revolutions per minute (RPM).\
+
+\f0\fs24 \cf5 <$Scr_Cs::5>
+\f2\fs28 f
+\f0\fs24 \cf6 <!$Scr_Cs::5>
+\f2\fs28  is the frequency of the power supply in hertz (Hz).\
+
+\f0\fs24 \cf5 <$Scr_Cs::5>
+\f2\fs28 P
+\f0\fs24 \cf6 <!$Scr_Cs::5>
+\f2\fs28  is the number of magnetic poles per phase.\
+\pard\sb40\sa40\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf3 <!$Scr_Ps::3><$Scr_Ps::1>
+\f2\fs28 </ul></p>\
+\pard\sb240\partightenfactor0
+
+\f0\fs24 \cf2 <!$Scr_Ps::1><$Scr_Ps::0>
+\f1\fs32 Synchronous speed represents the speed the motor will spin under no load conditions.  \
+The 
+\f0\fs24 <$Scr_Cs::4>
+\f3\b\fs32 rotor
+\f0\b0\fs24 <!$Scr_Cs::4>
+\f1\fs32  is typically made of a laminated iron core with conductive bars embedded within it.  The bars are shorted at the ends, to form closed loop 
+\f0\fs24 <$Scr_Cs::4>
+\f3\b\fs32 rotor windings
+\f0\b0\fs24 <!$Scr_Cs::4>
+\f1\fs32 . \
+\pard\sb40\sa40\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf3 <!$Scr_Ps::0><$Scr_Ps::1>
+\f2\fs28 <figure xml:id="rotor_cutaway">\
+<!-- Source:   Siemens STEP program Basics of Induction Motors   -->\
+<caption>  Rotor Cutaway Diagram </caption>\
+<image width="75%" source="images/rotor_cutaway"/>\
+\pard\sb120\sa120\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf2 <!$Scr_Ps::1>
+\f2\fs28 </figure>\
+\pard\sb240\partightenfactor0
+
+\f0\fs24 \cf2 <$Scr_Ps::0>
+\f1\fs32 As the rotating magnetic field passes over the rotor windings, it induces a voltage, according to Faraday's law of electromagnetic induction. This voltage drives a current through the rotor windings, which, in turn, generates a magnetic field surrounding the rotor windings.\
+The magnetic field of the rotor interacts with the rotating magnetic field of the stator and magnetic attraction pulls the rotor in the same direction as the rotating magnetic field. As the rotor rotates, it tries to catch up with the rotating magnetic field. \
+However, the mechanical load on the motor retards the shaft, so the rotor  speed 
+\f0\fs24 \cf5 <$Scr_Cs::5>
+\f2\fs32 n
+\f0\fs24 \cf2 <!$Scr_Cs::5>
+\f1\fs32 , always remains slightly less than the synchronous speed, 
+\f0\fs24 \cf5 <$Scr_Cs::5>
+\f2\fs32 n_s
+\f0\fs24 \cf2 <!$Scr_Cs::5>
+\f1\fs32 .  The difference between the synchronous speed and the actual \
+operating speed is called 
+\f0\fs24 <$Scr_Cs::4>
+\f3\b\fs32 slip
+\f0\b0\fs24 <!$Scr_Cs::4>
+\f1\fs32 , often expressed as a percentage of the synchronous speed <me>\\textrm\{\\% slip\}= \\left(\\frac\{n_s-n\}\{n_s\}\\right) \\times 100\\%</me>.\
+The difference in speed between the rotating magnetic field and the rotor's rotational speed induces the current, torque, and power that drives the load connected to the motor shaft.   Slip is required for the motor to generate torque and perform useful work.
+\f2\fs28 \
+\pard\tx720\tx1395\sb400\sa120\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf4 <!$Scr_Ps::0><$Scr_Ps::2>
+\f1\fs32 The mechanical power produced by a motor can be calculated using the formula:<me>P  = \\tau \\omega</me> Where: <ul marker="">\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sl336\slmult1\sb60\sa60\pardirnatural\partightenfactor0
+\ls1\ilvl0
+\f0\fs24 \cf5 <$Scr_Cs::5><!$Scr_Ps::2><$Scr_Ps::3>
+\f2\fs28 P
+\f0\fs24 \cf6 <!$Scr_Cs::5>
+\f2\fs28  is the shaft power in Watt (W). \
+\ls1\ilvl0
+\f0\fs24 \cf5 <$Scr_Cs::5>
+\f2\fs28 \\tau
+\f0\fs24 \cf6 <!$Scr_Cs::5>
+\f2\fs28  is torque or twisting force generated by the motor, measured in Newton-meters (Nm).\
+\ls1\ilvl0
+\f0\fs24 \cf5 <$Scr_Cs::5>
+\f2\fs28 \\omega
+\f0\fs24 \cf6 <!$Scr_Cs::5>
+\f2\fs28  is the angular velocity of the motor in radians per second (rad/s).  Angular velocity is equal to the shaft rpm 
+\f0\fs24 \cf5 <$Scr_Cs::5>
+\f2\fs28 \\times \\frac\{2\\pi\}\{60\}.
+\f0\fs24 \cf6 <!$Scr_Cs::5>
+\f2\fs28 \
+\pard\sb40\sa40\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf3 <!$Scr_Ps::3><$Scr_Ps::1>
+\f2\fs28 </ul></p>\
+\pard\sb240\partightenfactor0
+
+\f0\fs24 \cf2 <!$Scr_Ps::1><$Scr_Ps::0>
+\f1\fs32 In practical applications, mechanical power can also be expressed in other units such as kilowatts (kW), Horsepower (HP),  or foot-pounds per minute (ft-lb/min).\
+An increase in load on the motor causes the shaft to slow down slightly, which increases both slip and torque.  The power output of the motor automatically adjusts to match the requirements of the load.\
+Although the motor always has some slip, the rotor speed is generally close to the synchronous speed.  For a motor with a fixed number of poles, the rotor speed can be changed by changing the frequency of the power supply with a variable speed drive or a frequency converter. \
 \
-\pard\pardeftab720\sa240\partightenfactor0
 
-\f1\fs29\fsmilli14667 \cf3 \expnd0\expndtw0\kerning0
-Manufacturer: \
-Type:\uc0\u8232 Model:\u8232 No. of sets: \
-Rated: Voltage: \
-Current: 
-\f2\fs24 \
-
-\f1\fs29\fsmilli14667 No. of Poles: \
-Speed: \
-Weight: \
-Protection: 
-\f2\fs24 \
-
-\f1\fs29\fsmilli14667 GE Power Conversion AC induction\uc0\u8232 N3 HXC 1250 L/10/V 2 
-\f2\fs24 \
-
-\f1\fs29\fsmilli14667 4,500kW 3,150V 1,035A 10 0-115rpm 57,500kg IP44/56 
-\f2\fs24 \
-Propulsion motors\
-
-\f1\fs29\fsmilli14667 The two propulsion motors PM1 and PM2 are located at tank top level, PM1 located in motor room 1 and PM2 in motor room 2. They are tandem mounted driving a common propeller shaft which drives the fixed pitch propeller. 
-\f2\fs24 \
-
-\f1\fs29\fsmilli14667 The motors are directly coupled to the propeller shaft without gearing and the motors can operate in both directions, the minimum speedof rotation in either directionisXXX rpm. 
-\f2\fs24 \
-
-\f1\fs29\fsmilli14667 The motors and shafts are fitted with turning gear and a shaft lock. When either of thesetwo facilities areengaged,propulsion is blocked. 
-\f2\fs24 \
-
-\f1\fs29\fsmilli14667 Eachpropulsion motor is fitted with two pulse generatorsto accurately measure the position of the rotor. This is for starting and operating the motors. Speed monitoring is from sensorsfitted to the toothed wheels on the motor shafts. 
-\f2\fs24 \
-Construction\
-
-\f1\fs29\fsmilli14667 The stator core is madeup of electrically insulated sheets,bracedwith clamping bolts and rings and mounted in the stator housing. The stator windings consists of layered coils mounted in the open slots of the stator core. The stator is connected to two terminal boxes on the stator housing. The terminal boxes contain the current barsfor connecting the stator cables.The starpoints arealso arranged in two boxes at the front of the housing. 
-\f2\fs24 \
-
-\f1\fs29\fsmilli14667 The rotor is comprised of a forged shaft with a shrunk on rotor body. The 10 poles are screwed onto the rotor body. 
-\f2\fs24 \
-\pard\pardeftab720\sa240\partightenfactor0
-
-\f3\b\fs29\fsmilli14667 \cf3 Motor Bearings 
-\f2\b0\fs24 \
-\pard\pardeftab720\sa240\partightenfactor0
-
-\f1\fs29\fsmilli14667 \cf3 The motor is equipped with self-lubricated, sleeve bearings, equipped with hydrostatic jacking pumps. There are two jacking oil pumps for the drive end bearings and two jacking oil pumps for the non-drive end bearings, normally with one operating and one in standby. 
-\f2\fs24 \
-\pard\pardeftab720\sa240\partightenfactor0
-
-\f3\b\fs29\fsmilli14667 \cf3 Cooling 
-\f2\b0\fs24 \
-\pard\pardeftab720\sa240\partightenfactor0
-
-\f1\fs29\fsmilli14667 \cf3 The motors are fitted with two air-water heat exchangers providing cooled air which is forced through internal cooling openings via four 440V 9.2kW electric-motor driven fans. This air is then circulated back to the coolers. In the event of a fan/fans failing, it is still possible to operate at a reduced speed. 
-\f2\fs24 \
-
-\f1\fs29\fsmilli14667 In theeventof failure of cooling water, it is possibleto operatethemotor with draught ventilation. The motor is provided with emergencyair openings in the coolerhoodandinthestatorhousing.Thelossofthecoolingfanswill causea \'91request for reduction\'92 signal to be raised via the control system. 
-\f2\fs24 \
-
-\f1\fs29\fsmilli14667 After stopping the propulsion motors, the fans will continue to operatefor a 30 minute cooling down period. 
-\f2\fs24 \
-
-\f1\fs29\fsmilli14667 Each motor is equipped with anti-condensation space heaters. There are two 120V AC 1,650W electrical heatersfitted. 
-\f2\fs24 \
-
-\f1\fs29\fsmilli14667 Thefollowing temperaturemonitoring sensorsarefitted: 
-\f2\fs24 \
-
-\f1\fs29\fsmilli14667 \'95 Embedded resistance temperature sensors in each of the stator windings. There is one in use and one spare in each stator winding. 
-\f2\fs24 \
-
-\f1\fs29\fsmilli14667 \'95 Monitoring of internal cold air temperatureat the DE and NDE. \'95 Monitoring of internal hot air temperature\uc0\u8232 \'95 Monitoring of the two coolers for cooling water leakage.\u8232 \'95 Bearing shell temperature at DE and NDE. 
-\f2\fs24 \
-
-\f1\fs29\fsmilli14667 If any of the parameters of the monitored points are exceeded, an alarm is raised. If exceededfurther, automatic reductions in power or a shutdown. 
-\f2\fs24 \
-}
+\f0\fs24 <!$Scr_Ps::0>}
