@@ -1,0 +1,27 @@
+<statement>
+   <p> If the flow of water from a centrifugal pump is allowed to be stopped by closing
+            the discharge valve while the pump continues to run for an indefinite period, the
+            ______. </p>
+</statement>
+<choices>
+   <choice>
+      <statement>
+         <p>relief valve will open </p>
+      </statement>
+   </choice>
+   <choice>
+      <statement>
+         <p>water pressure will lower continually to shut off head </p>
+      </statement>
+   </choice>
+   <choice>
+      <statement>
+         <p>water pressure will tend to rise continuously </p>
+      </statement>
+   </choice>
+   <choice>
+      <statement>
+         <p>liquid may overheat and vaporize </p>
+      </statement>
+   </choice>
+</choices>

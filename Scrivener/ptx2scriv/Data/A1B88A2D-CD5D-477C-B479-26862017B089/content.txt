@@ -1,0 +1,7 @@
+<p>
+   <em>Net static head</em> is the distance the pump has to raise the pumped fluid between
+            the liquid level in the supply tank to the liquid level in the discharge tank. </p>
+<blockquote>
+   <p> Net static head = Static Discharge Head - Static Gravity Head </p>
+   <p> Net static head = Static Discharge Head + Static Suction Lift </p>
+</blockquote>

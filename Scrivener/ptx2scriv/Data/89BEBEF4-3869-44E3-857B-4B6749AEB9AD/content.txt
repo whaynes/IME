@@ -1,0 +1,27 @@
+<statement>
+   <p> Which of the following statements is true regarding a positive displacement rotary
+            pump? </p>
+</statement>
+<choices>
+   <choice>
+      <statement>
+         <p>Theoretically, there is no limit to shut off head pressure. </p>
+      </statement>
+   </choice>
+   <choice>
+      <statement>
+         <p>Theoretically it is self priming. </p>
+      </statement>
+   </choice>
+   <choice>
+      <statement>
+         <p>The discharge side should be protected against excessive pressure build up
+              via a relief valve. </p>
+      </statement>
+   </choice>
+   <choice>
+      <statement>
+         <p>All of the above. </p>
+      </statement>
+   </choice>
+</choices>

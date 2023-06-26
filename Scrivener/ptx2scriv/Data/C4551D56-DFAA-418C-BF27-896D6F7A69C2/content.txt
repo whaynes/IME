@@ -1,0 +1,25 @@
+<statement>
+   <p> The pressure of a liquid leaving the pump can be referred to as the ______. </p>
+</statement>
+<choices>
+   <choice>
+      <statement>
+         <p>total head </p>
+      </statement>
+   </choice>
+   <choice>
+      <statement>
+         <p>discharge head </p>
+      </statement>
+   </choice>
+   <choice>
+      <statement>
+         <p>net positive suction head </p>
+      </statement>
+   </choice>
+   <choice>
+      <statement>
+         <p>suction head </p>
+      </statement>
+   </choice>
+</choices>

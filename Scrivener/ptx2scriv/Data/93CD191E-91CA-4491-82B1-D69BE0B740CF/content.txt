@@ -1,0 +1,9 @@
+<p> All shaft driven pumps will deliver liquids at different volume rates if they are run
+            at different speeds. Most pump designs require a change in speed to change their
+            capacity (<em>constant delivery</em>). However, some rotary type pumps, and some radial
+            or axial piston pumps are designed to vary the quantity of liquid delivered while
+            maintaining the prime mover at a single speed. Pumps with these characteristics are
+            known as <em>variable delivery</em> pumps. </p>
+<p> Variable delivery pumps are most commonly found in hydraulic systems, where the
+            delivery rate can be adjusted to control the rate of motion of hydraulic cylinders and
+            actuators. </p>

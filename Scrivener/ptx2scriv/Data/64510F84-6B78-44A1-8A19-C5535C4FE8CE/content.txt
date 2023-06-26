@@ -1,0 +1,29 @@
+<statement>
+   <p> Increasing the speed of a centrifugal pump will result in an increase in its
+            capacity. Another means of increasing the capacity of a centrifugal pump is to
+            increase the ______. </p>
+</statement>
+<choices>
+   <choice>
+      <statement>
+         <p>diameter of the discharge piping, with all other factors remaining the same
+            </p>
+      </statement>
+   </choice>
+   <choice>
+      <statement>
+         <p>diameter of the suction piping, with all other factors remaining the same
+            </p>
+      </statement>
+   </choice>
+   <choice>
+      <statement>
+         <p>width of the impeller only </p>
+      </statement>
+   </choice>
+   <choice>
+      <statement>
+         <p>diameter of the impeller </p>
+      </statement>
+   </choice>
+</choices>

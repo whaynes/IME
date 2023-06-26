@@ -1,9 +1,0 @@
-<p> Pressure is defined as force per unit area. That is, a force acting over an area is a
-          <em>pressure</em>, and when you multiply a pressure by the area that it acts over, you get
-        a force. <me> P = \frac{F}{A} \qquad \text{or} \qquad F = PA </me>
-</p>
-<p> Many different units are used to describe pressure. The simplest pressure units are ones
-        that indicate how much force is applied to an area of a certain size. These units include
-        pounds per square inch, pounds per square foot, newtons per square meter, kilopascals, bars
-        or others depending upon the system being used. Aboard ship we most commonly use pounds per
-        square inch (psi). </p>

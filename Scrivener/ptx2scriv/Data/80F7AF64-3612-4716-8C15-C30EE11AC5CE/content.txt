@@ -1,0 +1,47 @@
+<p> The following steps describe the procedure for safely starting a centrifugal pump. </p>
+<p>
+   <term>Centrifugal Pump Starting Procedure</term>
+</p>
+<p>
+   <ol>
+      <li>
+         <p> Rotate the pump by hand to insure it is free to turn. </p>
+      </li>
+      <li>
+         <p> If the pump has a packed shaft and is to operate with a high vacuum on the
+                    suction side, open the seal water line to the stuffing box (if fitted with a
+                    valve), and the suction vent line to remove vapors from the suction casing. On a
+                    high speed boiler feed pump, open the recirculating line. </p>
+      </li>
+      <li>
+         <p> Open the suction valve and close the discharge valve. </p>
+      </li>
+   </ol>
+</p>
+<p>
+   <ol>
+      <li>
+         <p> Prime or flood the pump casing with liquid. </p>
+      </li>
+      <li>
+         <p> Start the pump prime mover. </p>
+      </li>
+      <li>
+         <p> As the pump comes up to running speed, briefly open the casing vent valve (if
+                    installed) to expel any air from the casing. </p>
+      </li>
+      <li>
+         <p> When the pump is up to its normal running speed, open the discharge valve.
+                  </p>
+      </li>
+      <li>
+         <p> Check the suction and discharge pressure gages to insure the pump is operating
+                    normally and make sure a packed pump shaft has a small amount of liquid leakage.
+                  </p>
+      </li>
+      <li>
+         <p> After the pump has run for a little while, check the casing, stuffing box area
+                    (on a packed pump), and the bearing housings for excessive temperatures. </p>
+      </li>
+   </ol>
+</p>

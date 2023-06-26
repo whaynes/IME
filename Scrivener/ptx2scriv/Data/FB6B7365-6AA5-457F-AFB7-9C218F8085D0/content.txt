@@ -1,0 +1,25 @@
+<statement>
+   <p> Which of the listed pumps is NOT a positive displacement pump? </p>
+</statement>
+<choices>
+   <choice>
+      <statement>
+         <p>Centrifugal </p>
+      </statement>
+   </choice>
+   <choice>
+      <statement>
+         <p>Reciprocating </p>
+      </statement>
+   </choice>
+   <choice>
+      <statement>
+         <p>Gear </p>
+      </statement>
+   </choice>
+   <choice>
+      <statement>
+         <p>Rotary </p>
+      </statement>
+   </choice>
+</choices>

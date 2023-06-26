@@ -30,15 +30,17 @@ The
 \f1\b\fs32 period
 \f0\b0\fs24 <!$Scr_Cs::2>
 \f2\fs32  <mdash/> the time to complete one cycle. It determines the average value of the signal. A duty cycle of 50% means the signal is on for half the time and off for the other half, resulting in an average voltage or power that is halfway between the high and low levels. By changing the duty cycle, the average value of the signal can be controlled. Increasing the duty cycle increases the average value, while decreasing the duty cycle decreases the average value.\
-PWM requires a control signal that determines the desired average value. This control signal could come from a microcontroller, analog circuit, or other control systems.\
-The PWM signal is often passed through a low-pass filter. The filter averages out the rapid switching of the signal, resulting in a smoother output signal with the desired average value.\
 \pard\sb40\sa40\pardirnatural\partightenfactor0
 
 \f0\fs24 \cf3 <!$Scr_Ps::0><$Scr_Ps::1>
-\f4\fs28 \
-<figure xml:id="pulse_width_mod">\
+\f4\fs28 <sidebyside width="75%">\
 <!-- Source:  Pulse Width Modulation weh cc0 -->\
-<caption> Pulse Width Modulation </caption>\
-<image width="75%" source="images/pulse_width_mod"/>\
-</figure>
-\f0\fs24 <!$Scr_Ps::1>}
+<image width="60%" source="images/pulse_width_mod"/>\
+</sidebyside>\
+\pard\sb240\partightenfactor0
+
+\f0\fs24 \cf2 <!$Scr_Ps::1><$Scr_Ps::0>
+\f2\fs32 PWM requires a control signal that determines the desired average value. This control signal could come from a microcontroller, analog circuit, or other control systems.\
+The PWM signal is often passed through a low-pass filter. The filter averages out the rapid switching of the signal, resulting in a smoother output signal with the desired average value.\
+
+\f0\fs24 <!$Scr_Ps::0>}

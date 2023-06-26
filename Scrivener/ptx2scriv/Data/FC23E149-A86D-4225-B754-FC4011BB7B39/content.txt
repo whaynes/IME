@@ -1,0 +1,105 @@
+<p> In reciprocating pumps, a power source drives a piston or plunger back and forth in a
+            cylinder. This action pushes liquid out into the discharge on the discharge stroke, and
+            draws liquid into the cylinder, from the source of supply, on the suction stroke. For
+            each stroke, the same quantity of liquid enters and leaves the cylinder. The fluid flow
+            through the pump is controlled by two check valves, one in the suction line and the
+            other in the discharge line of the pump. </p>
+<p>
+   <xref ref="recip_pump_png"/> shows a steam driven reciprocating pump. The steam piston
+            (7) is driven up and down by steam, delivering power to the liquid piston, or
+              <em>plunger</em> (69), which pumps the liquid. When the liquid piston (69) is moved
+            down, the area above the piston is on a suction stroke. As the piston moves down in
+            cylinder (72), the increase in cylinder volume causes a decrease in cylinder pressure.
+            When the pressure in the cylinder drops below atmospheric pressure (creating a vacuum in
+            the cylinder), the atmospheric pressure on the liquid in the suction tank forces the
+            liquid up the suction pipe, through suction valve (85) and into the cylinder.
+            Atmospheric pressure plus the liquid pressure in the discharge pipe create a pressure
+            higher than the pressure in the cylinder. This holds the discharge valve (84) closed.
+            When the piston begins to move up on the discharge stroke, a decrease in cylinder volume
+            occurs, attempting to compress the liquid. This results in an increase in liquid
+            pressure in the cylinder. As soon as the cylinder pressure exceeds the pressure in the
+            suction pipe, the suction valve (85) is forced closed. As the piston continues to move
+            up, the liquid pressure in the cylinder continues to rise. When the liquid pressure in
+            the cylinder exceeds the pressure in the discharge pipe, the discharge valve (84) opens
+            and fluid flows from the cylinder into the discharge line. This process repeated many
+            times can build up a considerable discharge head (pressure) on the discharge side of the
+            pump. </p>
+<figure xml:id="recip_pump_png">
+   <caption>Simplex Reciprocating Pump</caption>
+   <image source="pics/pumps/recip_pump.png"/>
+</figure>
+<p> Reciprocating pumps are classified as positive displacement, self-priming and most are
+            constant delivery, except for some specialized hydraulic pumps. Reciprocating pumps are
+            additionally classified by the characteristics in <xref ref="recip-terms"/>
+</p>
+<list xml:id="recip-terms">
+   <title>Reciprocating Pump Terminology</title>
+   <dl>
+      <li>
+         <title>Bore</title>
+         <p> The bore is the inside diameter (ID) of the cylinder, usually measured in
+                  inches. </p>
+      </li>
+      <li>
+         <title>Stroke</title>
+         <p> The stroke of a pump is the maximum distance the piston can travel from one end
+                  of the cylinder to the other, usually measured in inches. </p>
+      </li>
+      <li>
+         <title>Single stroke</title>
+         <p> The motion of the piston from one extreme to the other. </p>
+      </li>
+      <li>
+         <title>Double stroke</title>
+         <p> The motion of the piston from one end of the cylinder to the other and back to
+                  its original starting point. It is equal in distance to two single strokes. It is
+                  also a complete operating cycle for that piston (piston has returned to its
+                  original starting point and now the cycle repeats.) </p>
+      </li>
+      <li>
+         <title>Single-acting</title>
+         <p> A single acting pump uses only one side of the piston to pump liquid. It is
+                  normally the side not attached to the piston rod or the connecting rod. </p>
+      </li>
+      <li>
+         <title>Double-acting</title>
+         <p> A double acting pump is fitted with suction and discharge valves on both sides
+                  of the piston, allowing the piston to pump liquid on both strokes of the pump
+                  cycle. </p>
+      </li>
+      <li>
+         <title>Direct-acting</title>
+         <p> The engine used is a steam reciprocating engine. The steam piston is pushed back
+                  and forth in the steam cylinder and the rod attached to the steam piston extends
+                  into the liquid cylinder and is directly attached to the liquid piston in the
+                  reciprocating pump. The engine produces the mechanical motion the reciprocating
+                  pistons require, hence; direct-acting. </p>
+      </li>
+      <li>
+         <title>Indirect-acting</title>
+         <p> The power sources provide rotary motion to this type of reciprocating pump. The
+                  rotary motion of the power supply source must be converted to reciprocating motion
+                  at the pistons using a mechanical device called a crankshaft. </p>
+      </li>
+      <li>
+         <title>Simplex</title>
+         <p> Only one liquid cylinder and piston are built into the pump. They may be
+                  operated by a steam reciprocating engine or more commonly today from a rotary
+                  engine via a crankshaft and connecting rod. </p>
+      </li>
+      <li>
+         <title>Duplex</title>
+         <p> Two liquid cylinders and pistons are built into a common pump housing. Each
+                  cylinder may be operated by its own separate reciprocating engine. (with both
+                  engines built into the common housing) More commonly today, they are driven from a
+                  rotary engine via a crankshaft and connecting rods. </p>
+      </li>
+      <li>
+         <title>Triplex</title>
+         <p> Three liquid cylinders and pistons are built into a common pump housing.
+                  Normally driven by a rotary engine via a crankshaft and connecting rods. Although
+                  direct-acting and indirecting-acting pumps can be built with more than three
+                  cylinders, they are not very common. </p>
+      </li>
+   </dl>
+</list>

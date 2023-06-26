@@ -1,0 +1,25 @@
+<statement>
+   <p> The discharge head of a centrifugal pump will vary directly with the ______. </p>
+</statement>
+<choices>
+   <choice>
+      <statement>
+         <p>change in impeller diameter </p>
+      </statement>
+   </choice>
+   <choice>
+      <statement>
+         <p>square of the impeller diameter </p>
+      </statement>
+   </choice>
+   <choice>
+      <statement>
+         <p>cube of the impeller diameter </p>
+      </statement>
+   </choice>
+   <choice>
+      <statement>
+         <p>impeller efficiency for large changes in the size of the impeller </p>
+      </statement>
+   </choice>
+</choices>

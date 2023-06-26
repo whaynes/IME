@@ -2,7 +2,6 @@
 <CompileSettings>
     <ProjectSettings>
         <Content Scope="Included" TreatAsComplete="Yes" IncludeGroupText="Yes">
-            <CompileGroup Type="BinderItem">8D3ACAC0-D3C2-44E6-86D0-2026E120E330</CompileGroup>
             <Filter State="Off" Exclude="No" Type="Label">
                 <CollectionID>2655DDF6-4AB8-42CB-A433-1CD76FC351D2</CollectionID>
                 <Label>-1</Label>
@@ -80,7 +79,7 @@
                 <Type ID="19994618-B85C-43F7-8889-C2BE42671C92">CHAPTER-NUMBER</Type>
                 <Type ID="BEB6ECD8-4CED-4BC3-88C4-382A387A971A">5A295EBB-899A-4098-B425-85F635697BC9</Type>
                 <Type ID="9D1ADC50-E7BB-4E40-BA04-CCA44927A08E">469CF571-276D-4499-BA06-3A5328C4C145</Type>
-                <Type ID="14DD4C77-FD6F-449F-98DF-960CAC93AFCE">AS-IS</Type>
+                <Type ID="14DD4C77-FD6F-449F-98DF-960CAC93AFCE">19CCDCE9-AD4F-49F8-AED0-9295E60D106D</Type>
                 <Type ID="5FC2A189-B262-41BE-936B-1F27E1D9CA3A">A45D83ED-D92D-4F88-8B37-46C3C2A07BCE</Type>
                 <Type ID="3CF68AC5-853C-466F-8FB8-9ED176DEF1B5">A27EC185-3B08-4DE3-A42C-9960F2439824</Type>
                 <Type ID="36DE5A0F-C224-4173-A070-402ADDD80AB3">1B4CB7FA-6AB5-48E3-B780-17C5ACAC9EA5</Type>
