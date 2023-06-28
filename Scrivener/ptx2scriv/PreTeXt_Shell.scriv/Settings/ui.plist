@@ -77,7 +77,7 @@
 		<real>1</real>
 	</dict>
 	<key>mainWindowFrame</key>
-	<string>1132 275 1253 679 0 0 1920 1055 </string>
+	<string>1920 275 1253 679 1920 39 1512 944 </string>
 	<key>searchResultsTable</key>
 	<dict>
 		<key>order</key>
