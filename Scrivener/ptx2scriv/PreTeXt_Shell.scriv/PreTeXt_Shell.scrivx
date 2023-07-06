@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="7230DFF0-D98F-4CD3-826E-BAA953D9CA8C" Version="2.0" Creator="SCRMAC-3.3.1-15588" Device="whaynes-MBP-2021" Author="" Modified="2023-06-27 12:36:50 -0400" ModID="C218845E-5591-4F75-845A-E16CFA46C37A">
+<ScrivenerProject Identifier="7230DFF0-D98F-4CD3-826E-BAA953D9CA8C" Version="2.0" Creator="SCRMAC-3.3.1-15588" Device="whaynes-MBP-2021" Author="" Modified="2023-07-06 14:47:43 -0400" ModID="4C55BED0-04D1-49B1-AC4C-EFBB5C75CF36">
     <Binder>
         <BinderItem UUID="4497343D-E609-408A-B00A-2B537F7BADFD" Type="DraftFolder" Created="2019-08-02 15:16:02 -0400" Modified="2019-08-02 15:16:02 -0400">
             <MetaData>
@@ -770,10 +770,10 @@
     </CustomMetaDataSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2019-08-02 14:45:12 -0400" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2023-06-28 01:00:00 -0400" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2023-06-27 12:36:47 -0400"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2023-07-07 01:00:00 -0400" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2023-07-06 14:47:40 -0400"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2023-06-27 00:00:00 -0400">
+    <RecentWritingHistory Date="2023-07-06 00:00:00 -0400">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>

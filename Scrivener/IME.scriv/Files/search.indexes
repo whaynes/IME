@@ -99,8 +99,8 @@ Other types of pumps, because of larger internal clearances, will not pump air o
         </Document>
         <Document ID="421B2EAF-A06A-4C9D-B8EC-73AF68C0A1BC">
             <Title>Electrical Shock</Title>
-            <Text>The most immediate and dangerous hazard of electricity is electrical shock. When a person comes into contact with an electrical current, it can pass through their body, causing electrical shock. Even low-voltage shocks can lead to muscle contractions, burns, and disruption of the body's electrical signals. High-voltage shocks can result in severe burns, organ damage, and cardiac arrest.
-</Text>
+            <Text>The most immediate and dangerous hazard of electricity is electrical shock. When a person comes into contact with an electrical voltage, current can pass through their body, causing electrical shock. 
+Roughly speaking, the greater the current, the more severe the shock.  High voltage presents more danger than lower voltages, but even normal household voltage (120 V AC) can cause severe shock or even death.</Text>
         </Document>
         <Document ID="1AEEB279-493C-4CDA-831C-E018EB6A9456">
             <Title>General Pump Classifications</Title>
@@ -392,6 +392,9 @@ Impeller vanes which curve backwards with respect to their direction of rotation
             <Title>introduction</Title>
             <Text>All substances are composed of molecules. The energy associated with molecules is called thermal energy. Thermal energy, like mechanical energy, exists in two stored forms and in one transitional form. The two stored forms of thermal energy are called internal potential energy, and internal kinetic energy. Thermal energy in transition is called &lt;em&gt;heat.&lt;/em&gt;Although molecules are too small to be seen, they behave in some ways pretty much like the larger objects we considered in the discussion of mechanical energy. Molecules have energy of position (internal potential energy) because of the forces which attract molecules to each other. In this way, they are somewhat like the rock and the earth we considered before. Molecules have energy of motion (internal kinetic energy) because they are constantly in motion. Thus, the two stored forms of thermal energy-internal potential energy and internal kinetic energy-are in some ways similar to mechanical potential energy and mechanical kinetic energy, except that everything is on a smaller scale. 
 </Text>
+        </Document>
+        <Document ID="41A0A8A3-3D37-4460-B453-AEA9CE3728F0">
+            <Title>Centrifugal Pumps</Title>
         </Document>
         <Document ID="4A8EA5D7-4177-46D9-BFBA-EAAA4E4FDA2F">
             <Title>Biological hazards</Title>
@@ -2060,6 +2063,9 @@ An expansion tank is used to set static pressure of water circuit, and mitigate 
         <Document ID="B7284B7E-6877-461F-86AD-F9D365AF130D">
             <Title>Respiratory Protection</Title>
         </Document>
+        <Document ID="E93166CF-D418-46C0-9E00-9B0F52CBE589">
+            <Title>Engineering Systems</Title>
+        </Document>
         <Document ID="798450C6-05DD-491F-99DF-AF351ECEB812">
             <Title>Introduction</Title>
             <Text> Over the years, many marine engineers have suffered permanent hearing loss due to hours of exposure to the high noise levels in the engine room. You can prevent the loss of your own hearing by using proper hearing protection such as earplugs and earmuffs religiously whenever you are exposed to loud noises. 
@@ -2259,6 +2265,9 @@ To carry out these functions, the PPC requires inputs and outputs to/from differ
             <Text>Convert from 10.4 psia to mm Hg Vacuum 
 </Text>
         </Document>
+        <Document ID="87AC8D51-8827-4197-BDE3-A3C25248B66E">
+            <Title>Description</Title>
+        </Document>
         <Document ID="5261187A-9547-495A-9913-DE187AA7ED9A">
             <Title>Open and Closed Systems</Title>
         </Document>
@@ -2351,6 +2360,7 @@ Eye injuries can be prevented by wearing effective eye protection. To be effecti
             <Title>ABE-A9.1 Electrical isolation procedures</Title>
         </Document>
         <Document ID="878B82A6-E5BF-4E25-A9B7-206AB5E324A2">
+            <Title>conclusion</Title>
             <Text>&lt;figure xml:id="valve_symbols_png"&gt;
    &lt;caption&gt;Valve Symbols&lt;/caption&gt;
    &lt;image source="pics/valves/valve_symbols.png"/&gt;
@@ -2377,8 +2387,10 @@ Eye injuries can be prevented by wearing effective eye protection. To be effecti
 Common trip and fall hazards include obstructions on walkways, such as cables, tools, or equipment left in pathways. Uneven surfaces, loose gratings, and obstructions, can also contribute to tripping incidents. Additionally, poor lighting, cluttered work areas, improper storage of materials, and inadequate lighting can increase the risk of trips and falls.  
 Spilled liquids, oils, or water can make surfaces extremely slippery. Wet surfaces due to cleaning or maintenance activities, and the presence of loose debris are additional factors that can contribute to slip incidents.
 Falls can be particularly dangerous when you are working at above the ground, such as on a ladder, scaffolding or staging.
-Falling objects such as tools, equipment, materials, or debris can potentially cause serious injuries or fatalities.  When tools and are stored haphazardly or left unsecured, they are susceptible to falling on someone. 
 Aboard ship, additional hazards exist due to the dynamic and often wet environment. Obstructions such as hatch combings, pad-eyes and container hold-downs can cause individuals to trip. Slip hazards arise from seawater or rainwater on deck surfaces, spilled liquids in galley areas, or lubricants used for machinery maintenance.  In rough seas, the motion of the ship can cause unsecured objects to fall, or cause you to lose your balance and fall. You must be particularly careful when working at heights or over the side. Always follow the old adage, “one hand for the ship and one hand for yourself.</Text>
+        </Document>
+        <Document ID="A990D340-8B32-4517-8774-146C3611D206">
+            <Title>Steam Propulsion</Title>
         </Document>
         <Document ID="34014151-A0E1-4C76-A85F-CA46CEA1AF00">
             <Title>Work</Title>
@@ -2453,8 +2465,8 @@ The diode bridge is made up of four stacks of six diodes, one stack to each tran
         </Document>
         <Document ID="3CD03BD1-24CA-4A84-B699-27DE5B4BF51C">
             <Title>Effects of Electrical Current on the Human Body</Title>
-            <Text>The severity of an electrical shock depends on the current’s magnitude, the duration, the contact area, and the path taken by the current through the body.  In extreme cases the shock causes failure of the normal action of the heart and lungs resulting in unconsciousness or death.
-The shock current received obeys Ohm’s, so high voltages are always more dangerous.  But your body resistance is equally important.  Body resistance with dry skin may be above 100,000 ohms, However, if the skin is wet or broken, the body's resistance decreases to a few thousand ohms.
+            <Text>Electrical shock occurs when current passes through the body.  The severity of the shock depends on the current’s magnitude, the duration, the contact area, and the path taken by the current through the body. 
+The shock current received obeys &lt;xref provisional="ohms-law"&gt;Ohm’s law&lt;/xref&gt;, so high voltages are always more dangerous.  But your body resistance is equally important.  Body resistance with dry skin may be above 100,000 ohms, However, if the skin is wet or broken, the body's resistance decreases to a few thousand ohms.
 
 &lt;tabular halign="left" width="100%"&gt;
               &lt;col width="20%"/&gt; 
@@ -2576,6 +2588,9 @@ The most common scale used on vacuum gages aboard ship display vacuum in inches 
             <Title>Conduction</Title>
             <Text>Conduction is the method by which heat flows from a hotter to a colder substance when there is physical contact between the two substances. For example, consider a cold metal bar which is held firmly against a piece of red-hot metal. In a short time, the end of the bar which is not touching the hotter metal will have become too hot to hold. We say that heat has been conducted from molecule to molecule, throughout the entire bar. The process of conduction will continue as long as there is a temperature difference between the two ends of the bar. 
 </Text>
+        </Document>
+        <Document ID="98AB2B8D-DCDB-44ED-B650-63C8F1B6E92E">
+            <Title>Diesel Propulsion - Will</Title>
         </Document>
         <Document ID="556FEBAE-7103-40A0-B3DD-F17C18E0B3E7">
             <Title>Personal Protective Equipment</Title>
@@ -3796,6 +3811,16 @@ This saves us from having to manually assign the “Front Matter” section type
 
 During Compile, documents assigned the “Front Matter” section type will be laid out differently from documents in the main body of the manuscript.</Notes>
         </Document>
+        <Document ID="037D59AB-4C36-4583-B888-F540BA1CA872">
+            <Title>A Brief History</Title>
+            <Text>
+The way base units of length have been determined has changed greatly over time. Long ago, the base for reference was the human body. For example, the cubit was a unit that indicated the length from the elbow to the fingertips.
+Length units based on the human body were used for thousands of years. The Roman mile (In Latin &lt;foreign&gt;mille passus &lt;/foreign&gt;, which means &lt;q&gt;thousand paces&lt;/q&gt;) consisted of a thousand paces (of 5 feet each) as measured by every other step—as in the total distance of the left foot hitting the ground 1,000 times, which equals approximately 5,000 ft. In 1592, English Parliament wanted to standardize the measurement of the mile and made the decision that it should be equal to eight furlongs. Furlongs, which are still used as a unit of measurement in horse racing, are 660 feet long. 660 times eight equals, you guessed it, 5,280 ft.
+This continued until a major change took place around 200 years ago. As the Age of Discovery came to an end and industry grew primarily in Western Europe, it became necessary to unify units of length on a global scale. In the 17th century, discussions were held in Europe regarding the unification of units. After a century of discussions, France proposed the unit of the meter (meaning "to measure" in Greek) in 1791. The reference at this time was the distance of the meridian from the north pole to the equator. One meter was set as 1/10,000,000 of this distance. Today, one meter is defined as "the distance that light travels in a vacuum in 1/299,792,458 of a second," as defined in 1983.
+For navigation on water (marine), air, and space the nautical mile unit of length is used. Historically, a nautical mile was defined as the meridian arc length corresponding to one minute of a degree of latitude.  Nautical mile is based on Earth’s circumference being 360 degrees. These degrees can then be divided into 60 minutes. One of these minutes (or minutes of arc as they are called in navigation) along a great circle on Earth represents one nautical mile. Today the international nautical mile is defined as exactly 1,852 meters (6,076 ft; 1.151 mi).
+In terms of statute or land miles, a nautical mile represents 1.15 miles. This is because one degree of latitude is approximately 69 statute miles in length. 1/60th of that measure would be 1.15 statute miles. 
+</Text>
+        </Document>
         <Document ID="0E92616F-0E9F-48DF-A00E-2B65FAD6AFAD">
             <Title>Propellers, Thrusters, Pods, and Jets</Title>
             <Text>tbd
@@ -4032,6 +4057,9 @@ To protect yourself, you must be wearing the proper personal protective when it 
 In this chapter we will discuss some of the personal protective equipment normally found and used aboard ship. 
 </Text>
         </Document>
+        <Document ID="E9C9BF4D-1A28-41D9-90B5-E52441ECD3C7">
+            <Title>Length</Title>
+        </Document>
         <Document ID="78F0C541-C91D-4A8B-9C2B-17AAB1CB9136">
             <Title>AC vs. DC</Title>
             <Text>single phase, three phase
@@ -4127,13 +4155,65 @@ Electrically Conductive Safety Shoes These shoes protect against the buildup of 
             <Text>Safety management is a systematic approach taken by regulatory bodies and companies to identify, assess, control, and mitigate risks in order to ensure the safety of personnel, assets, and the environment. It involves the development and implementation of policies, procedures, and practices aimed at preventing accidents, injuries, and damage. 
 Key components of safety management include risk assessment, safety planning, establishment of policies and procedures, training and education, reporting and investigation of incidents, audits and inspections, and continuous improvement efforts. The goal of safety management is to protect lives, prevent harm, and promote a culture of safety within organizations across various industries.</Text>
         </Document>
-        <Document ID="0E5E7548-42EC-4800-8E3A-5A5AE46483EE">
-            <Title>exercise</Title>
-            <Text>&lt;statement&gt; Which of the devices listed is used to convert thermal energy to useful mechanical work? 
-&lt;/statement&gt;
-&lt;choices&gt; &lt;choice correct="yes"&gt; &lt;statement&gt; Turbine  &lt;/statement&gt; &lt;/choice&gt; &lt;choice&gt; &lt;statement&gt; Condenser  &lt;/statement&gt; &lt;/choice&gt; &lt;choice&gt; &lt;statement&gt; Air ejector  &lt;/statement&gt; &lt;/choice&gt; &lt;choice&gt; &lt;statement&gt; Each of the above  &lt;/statement&gt; &lt;/choice&gt;
-&lt;/choices&gt;
-</Text>
+        <Document ID="3C1A2B86-9A77-49DD-A708-FBEF463D0342">
+            <Title>Length Units</Title>
+            <Text>In the US standard system, the inch (in) 1” (double apostrophe) is the primary unit, with the foot (ft) 1’ (single apostrophe) and mile (mi) used for larger distances.
+In the metric system, the base unit for length is the meter (m). Its subdivisions include the centimeter (cm), millimeter (mm). The kilometer (km), equivalent to 1,000 m is used for longer distances.
+For navigation on water (marine), air, and space, the Nautical Mile (NM) unit of length is used.
+
+&lt;table&gt;
+              &lt;title&gt; Length units for US Standard and Metric systems&lt;/title&gt;
+              &lt;tabular&gt;
+                &lt;row header='yes'&gt;
+                  &lt;cell&gt;U.S. Standard&lt;/cell&gt;
+                  &lt;cell&gt;Metric&lt;/cell&gt;
+                  &lt;cell&gt;Conversions&lt;/cell&gt;
+                &lt;/row&gt;
+                &lt;row&gt;
+                  &lt;cell&gt;12 inches = 1 foot&lt;/cell&gt;
+                  &lt;cell&gt;1 centimeter (cm) = 10 millimeters&lt;/cell&gt;
+                  &lt;cell&gt; 1 inch = 2.54 cm&lt;/cell&gt;
+                &lt;/row&gt;
+                &lt;row&gt;
+                  &lt;cell&gt;3 feet = 1 yard&lt;/cell&gt;
+                  &lt;cell&gt;1 meter = 100 centimeters&lt;/cell&gt;
+                  &lt;cell&gt;1 ft = 0.3048 m&lt;/cell&gt;
+                &lt;/row&gt;
+                &lt;row&gt;
+                  &lt;cell&gt;1,760 yards = 1 mile&lt;/cell&gt;
+                  &lt;cell&gt;1 kilometer = 100,000 centimeters&lt;/cell&gt;
+                  &lt;cell&gt;1 yd = 0.9144 m&lt;/cell&gt;
+                &lt;/row&gt;
+                &lt;row&gt;
+                  &lt;cell&gt;5,280 feet = 1 mile&lt;/cell&gt;
+                  &lt;cell&gt; 1 kilometer = 1,000 meters&lt;/cell&gt;
+                  &lt;cell&gt; 1 mile = 1.6093 km&lt;/cell&gt;
+                &lt;/row&gt;
+              &lt;/tabular&gt;
+            &lt;/table&gt;
+
+
+&lt;table&gt;
+              &lt;title&gt; Length units for US Standard and Metric systems&lt;/title&gt;
+              &lt;tabular&gt;
+                &lt;row&gt;
+                  &lt;cell&gt; 1 Nautical Mile = 6,076 ft&lt;/cell&gt;
+                  &lt;cell&gt;1 Standard Mile = 5,280 ft&lt;/cell&gt;
+                  &lt;cell&gt;1 Kilometer = 3,280.84 ft&lt;/cell&gt;
+                &lt;/row&gt;
+              &lt;/tabular&gt;
+            &lt;/table&gt;
+
+&lt;figure xml:id="length_comparison"&gt;
+&lt;!-- Source:  roger gill/&gt;
+  --&gt;
+&lt;caption&gt;Visual comparison of Kilometer, Statute Mile and Nautical mile&lt;/caption&gt;
+&lt;image width="60%" source="pics/measurement/length_comparison.png"/&gt;
+&lt;/figure&gt;
+#
+Fathom: A nautical measurement equal to 6 feet or 1.8288 meters. It is commonly used for measuring depth in water. Finger tip to finger tip 
+&lt;image width="40%" source="pics/measurement/fathom.png"/&gt;
+#</Text>
         </Document>
         <Document ID="211F906D-7599-4A5C-82DE-E6E784B314E1">
             <Title>Engine Construction and Components</Title>
@@ -4142,6 +4222,14 @@ Key components of safety management include risk assessment, safety planning, es
         <Document ID="F51C484D-2F0C-42DE-B87B-22906030F74D">
             <Title>Rotating Machinery</Title>
             <Text>TBD</Text>
+        </Document>
+        <Document ID="0E5E7548-42EC-4800-8E3A-5A5AE46483EE">
+            <Title>exercise</Title>
+            <Text>&lt;statement&gt; Which of the devices listed is used to convert thermal energy to useful mechanical work? 
+&lt;/statement&gt;
+&lt;choices&gt; &lt;choice correct="yes"&gt; &lt;statement&gt; Turbine  &lt;/statement&gt; &lt;/choice&gt; &lt;choice&gt; &lt;statement&gt; Condenser  &lt;/statement&gt; &lt;/choice&gt; &lt;choice&gt; &lt;statement&gt; Air ejector  &lt;/statement&gt; &lt;/choice&gt; &lt;choice&gt; &lt;statement&gt; Each of the above  &lt;/statement&gt; &lt;/choice&gt;
+&lt;/choices&gt;
+</Text>
         </Document>
         <Document ID="CBBC0D8D-2D52-4BD9-B8CB-36E5F079A0CD">
             <Title>introduction</Title>
@@ -4173,6 +4261,19 @@ Here are some of the main hazards associated with electricity:</Text>
             <Title>Swing Check</Title>
             <Text>In a swing check valve the valve seat is angled 45° to the fluid flow path through the   valve. The disk is attached by an arm to a hinge pin inside the valve body near the   cover opening. The hinge pin is located just above the highest part of the seat opening.   When the fluid flow is from right to left and the pressure on the bottom of the disk is   greater than the pressure on the top of the disk, the disk swings away from the seat   allowing flow to take place. When fluid flow tries to reverse (from left to right), the   pressure on top of the disk becomes greater than the pressure on the bottom of the disk,   the disk to moves back toward the seat, preventing flow in this direction. The arm and   hinge pin assembly assure correct alignment between the disk and seat for a tight   closure. 
 </Text>
+        </Document>
+        <Document ID="699A39E0-B3CC-42FF-AE04-6F72CCDD1025">
+            <Title>Introduction</Title>
+            <Text>Length
+Mass
+Time
+Area
+Volume
+Temperature
+Pressure
+Torque
+Power
+Speed</Text>
         </Document>
         <Document ID="7E3F274D-D471-4271-BE09-8EBD247F3A82">
             <Title>exercise</Title>
@@ -28270,6 +28371,27 @@ Before using a respirator you should be thoroughly trained in its use. Some of t
 
 </Text>
         </Document>
+        <Document ID="80DBD682-07C7-4010-8D68-E799E9136D48">
+            <Title>Example</Title>
+            <Text>Using unit-factor method we can express a distance in meters from feet as:
+To Find distance in meters = (distance in ft) \times  (12 in/1 ft) \times (2.54 cm/1 in) \times (1 m/100 cm)
+The Conversion factor is .3048 m/ft
+distance in meters = (distance in ft) x 0.3048 m/ft
+1 foot = 12”/1 ft \times 2.54 cm/1” = 30.48 cm/ft
+1 foot = 1 M/100 cm \times 30.48 cm = 0.3048 Meters 
+Conversion Factor = .3048
+
+1 meter =1ft/12 in \times 1 in/2.54 cm \times 100 cm/1 m=100 /30.48
+1 meter = 100/30 =3.28 ft
+Conversion Factor
+1 foot = 0.3048 m
+1 inch = 2.54 cm
+Nautical Miles
+1 Statute Mile= 1 Statute Mile/5280 ft x 6076 ft/1 NM = 1.15 Mile/NM
+Conversion Factor = 1.15 mile/NM
+
+1 km =1.852 NM</Text>
+        </Document>
         <Document ID="2B434DCB-9DEC-4D8D-9365-1C0EA714565A">
             <Title>Description</Title>
             <Text>
@@ -28406,7 +28528,15 @@ Plug-type valves have a rotating element with a hole drilled or cast through it.
             <Title>introduction</Title>
             <Text>Mechanical hazards are a physical hazards associated with machines and other movable objects that may cause harm to a person.
 Injuries caused by mechanical hazards include friction or abrasion, lacerations, cutting, severing, pinching, crushing, or entanglement of body parts. Additionally, non-mechanical hazards such as chips, splashes, and sparks can injure you or others in the area.
-Mechanical hazards can be managed by adopting safe work procedures and the application of appropriate safeguards. As such, you should always wear appropriate PPE, follow the machine’s operating instructions, and ensure that all machine safety features and guards are in place. Be aware that some machines may start automatically at any time, so take appropriate precautions including de-energizing and locking out machinery before working on it.</Text>
+&lt;figure xml:id="machine-safety"&gt;
+&lt;caption&gt;Rotating Shaft Hazard Sign&lt;/caption&gt;
+&lt;image width="50%" source="pics/safety/machine-safety.jpeg"&gt;
+&lt;!-- Source: https://www.compliancesigns.com --&gt;
+&lt;/image&gt;
+&lt;/figure&gt;
+
+Mechanical hazards can be managed by adopting safe work procedures and the application of appropriate safeguards. As such, you should always wear appropriate PPE, follow the machine’s operating instructions, and ensure that all machine safety features and guards are in place. Be aware that some machines may start automatically at any time, so take appropriate precautions including de-energizing and locking out machinery before working on it.
+</Text>
         </Document>
         <Document ID="2DB349BE-4341-4553-813C-8F493374F6A1">
             <Title>exercise</Title>
@@ -28629,6 +28759,9 @@ The IGBT gates are triggered by pulse width signals produced in the CLC section 
             <Title>Learn Continuously</Title>
             <Text>Stay proactive in expanding your safety knowledge and skills. Participate in safety training programs, attend safety briefings, and stay updated on safety regulations and best practices. Take safety drills seriously.  The more informed you are, the better equipped you will be to protect yourself contribute to a safe working environment.</Text>
         </Document>
+        <Document ID="D491F6BD-4AE2-4F44-B407-69871128D98D">
+            <Title>Engineering Measurement</Title>
+        </Document>
         <Document ID="F6BD64BD-D085-4933-AEEB-9580D810A65C">
             <Title>objectives</Title>
             <Text>&lt;url href="https://weh.maritime.edu/stcw/2023/tables/35.html#ABE-C3.1" visual="ABE-C3.1"/&gt; Working in enclosed spaces
@@ -28649,6 +28782,9 @@ The same relationships apply when heat is being removed. The removal of 42 BTU f
         </Document>
         <Document ID="9A588431-F7BD-483F-8AED-2EA5D8CAE96D">
             <Title>Mechanical Energy</Title>
+        </Document>
+        <Document ID="8D3ACAC0-D3C2-44E6-86D0-2026E120E330">
+            <Title>Electrical Propulsion</Title>
         </Document>
         <Document ID="479F263D-A33A-4EFA-83C5-78A2C31C31E0">
             <Title>Electrical Power</Title>
@@ -28828,6 +28964,17 @@ The permit to work system is designed to prevent accidents, injuries, and damage
             <Title>Internal Energy</Title>
             <Text>Although the term may be unfamiliar to you, you probably know more about &lt;em&gt;internal energy&lt;/em&gt; than you realize. Because molecules are constantly in motion, they exert a pressure on the walls of the pipe, boiler, cylinder, or other object in which they are contained. Also, the temperature of any substance arises from, and is directly proportional to, the activity of the molecules. Therefore, every time you read thermometers and pressure gages you are finding out something about the amount of internal energy contained in the substance. High pressures and temperatures indicate that the molecules are moving rapidly and that the substance therefore has a lot of internal energy. 
 For most purposes, we will not need to distinguish between the two stored forms of thermal energy. Therefore, instead of referring to internal potential energy and internal kinetic energy, from now on we will simply use the term &lt;q&gt;internal energy.&lt;/q&gt; By internal energy, then, we will mean the sum total of all internal energy stored in the substance or system because of the motion of the molecules and because of the forces of attraction between molecules. 
+</Text>
+        </Document>
+        <Document ID="C665FB82-DC0D-427E-80C4-7F67E64D5A9D">
+            <Title>Objectives</Title>
+            <Text>Understand the units of measurement for length, mass, time, area, volume, speed, temperature, pressure, torque, power, and speed
+Understand conversions from U.S to metric and metric to U.S.
+Understand Nautical Mile definition
+Be able to calculate conversions
+Identify and draw standard measurement symbols
+Understand basic measuring instruments
+Understand accuracy, precision, tolerance, calibration
 </Text>
         </Document>
         <Document ID="42A75A9B-5EDE-4011-851B-47B5B46E0BEF">
@@ -33904,6 +34051,21 @@ The motors are fitted with two air-water heat exchangers providing cooled air wh
             <Title>Steam Turbines</Title>
             <Text>TBD</Text>
         </Document>
+        <Document ID="13B13BB2-8F58-431A-B282-F87BF9A91CF3">
+            <Title>Example Problem</Title>
+            <Text>The last example explains how to convert meters to inches. We start with the same units as in the first example, but finish with different units. There will be two separate conversions. First, we convert from meters to feet. Then we convert from feet to inches. Remember, there are 
+.
+Convert 
+Feet to Meters
+Meters to Feet
+Miles to KM
+KM to Miles
+
+7 meters to inches. 7 meters × 3.28084 feet
+
+
+ </Text>
+        </Document>
         <Document ID="6061E920-477E-48AA-B5E3-904B8A839E21">
             <Title>Gear Pumps</Title>
             <Text>&lt;figure xml:id="gear_pump_png"&gt;
@@ -34494,11 +34656,8 @@ Tel: +1 412 967 0765
         <Document ID="4220B3A7-F96B-49C7-9CDA-0A9F744F958B">
             <Title>Gate Valves</Title>
         </Document>
-        <Document ID="4DB0BBD2-EFB1-48F2-A91D-9657941C7452">
-            <Title>Temperature</Title>
-            <Text>You are probably already familiar with temperature, and know that we use is it to describe how hot or cold an object is, but what, exactly is it? Temperature is not energy and it’s not heat. It is simply a number related to the average kinetic energy of the molecules of a substance; the greater the average kinetic energy, the greater the temperature. Notice that temperature is not equal to the kinetic energy, just proportional to it, and temperature readings do not tell you anything directly about the potential energy of the substance. 
-Temperature can be measured in a variety of scales. When the temperature scale is measured up from the point where there is no molecular motion, it is known as an absolute scale, and is directly proportional to the average kinetic energy of the molecules in the substance. The Kelvin and Rankine scales are absolute scales. We normally use the Fahrenheit or Celsius scales, which are offset from the corresponding absolute scale, and so are only indirectly related to the kinetic energy. 
-</Text>
+        <Document ID="AEE513C9-930D-4F1F-9E9A-A597A45A1B35">
+            <Title>Power Electronics</Title>
         </Document>
         <Document ID="0F7C9905-9BDE-4D8A-A927-5DA9AE336EAD">
             <Title>Diagram Reading</Title>
@@ -34508,6 +34667,12 @@ Temperature can be measured in a variety of scales. When the temperature scale i
             <Text>Fatigue, which refers to a state of extreme tiredness and lack of energy, can pose several risks.   The primary cause of fatigue is insufficient or poor-quality sleep.  To avoid fatigue, it's important to prioritize adequate rest and sleep, and maintain a healthy lifestyle.
 Other factor which can contribute to fatigue include: medical conditions such as chronic fatigue syndrome, anemia, and thyroid disorders; depression and anxiety, and unhealthy lifestyle habits, including inadequate physical activity, poor nutrition, excessive caffeine or alcohol intake, and smoking. Certain medications have fatigue as a side effect. 
 The negative consequences of fatigue include:</Text>
+        </Document>
+        <Document ID="4DB0BBD2-EFB1-48F2-A91D-9657941C7452">
+            <Title>Temperature</Title>
+            <Text>You are probably already familiar with temperature, and know that we use is it to describe how hot or cold an object is, but what, exactly is it? Temperature is not energy and it’s not heat. It is simply a number related to the average kinetic energy of the molecules of a substance; the greater the average kinetic energy, the greater the temperature. Notice that temperature is not equal to the kinetic energy, just proportional to it, and temperature readings do not tell you anything directly about the potential energy of the substance. 
+Temperature can be measured in a variety of scales. When the temperature scale is measured up from the point where there is no molecular motion, it is known as an absolute scale, and is directly proportional to the average kinetic energy of the molecules in the substance. The Kelvin and Rankine scales are absolute scales. We normally use the Fahrenheit or Celsius scales, which are offset from the corresponding absolute scale, and so are only indirectly related to the kinetic energy. 
+</Text>
         </Document>
         <Document ID="D3A69991-48ED-4C86-B3FE-0D351BDF8FE5">
             <Title>Gage Pressure</Title>
@@ -34681,6 +34846,42 @@ A relief valve opens at 250 psi and has a bottom surface area when closed of 0.7
             <Text>Piping inlet and outlet connections are fitted to the body 180° apart  only,    similar to the straight globe valve. Piping connections to the body are the same as a   globe valve: threaded, flanged, etc. 
 The body has two seats inside facing each other. One surrounds the inlet opening and   the other the outlet opening. The distance between the seats nearest the bonnet opening   is greater than the distance between the seats at the bottom of the valve body creating   a wedge shape between them. The gate is moved down from the bonnet location between the   two seats. It has a machined surface on both sides and has a wedge shape that matches   the two seats forcing it to seal tightly against both seats when it is pushed down   between them. 
 The upper part of the body and sometimes the lower part of the bonnet form a large   cavity for the gate to retract into as the valve is opened. Since the gate slides off   the seats sideways, it must be moved more than the full diameter of the seat opening to   be fully open. This is why most gate valves are taller than globe valves of a comparable   size. 
+</Text>
+        </Document>
+        <Document ID="C326C5C1-84DB-4822-9E91-50156CDF3B7D">
+            <Title>General Purpose</Title>
+            <Text>Rulers and Yardsticks  are straight, flat measuring tools commonly used for shorter lengths. A ruler measure 1 ft. or 12 inches whereas a yardstick measure 3 ft. or 1 yd.
+#
+&lt;image width="50%" source="pics/measurement/ruler.png"/&gt;
+&lt;image  width="50%" source="pics/measurement/yardstick.png"/&gt;
+#
+A Tape Measure is a flexible tape marked with inches and feet for measuring longer distances. It is often used in construction and carpentry. 
+ #
+&lt;image width="50%"  source="pics/measurement/tapemeasure.png"/&gt;
+
+Calipers or callipers are used to measure he dimensions of an object, generally by placing two movable points of the instrument across the object or span to be measured..
+#
+&lt;image  width="50%" source="pics/measurement/calipers.png"/&gt;
+
+A micrometer, sometimes known as a micrometer screw gauge, is a device incorporating a calibrated screw widely used for accurate measurement of components. Outside, inside, and depth micrometers are all used. The outside micrometer has a unit conversion chart between fractional and decimal inch measurements etched onto the frame
+#
+&lt;image  width="50%" source="pics/measurement/micrometer.png"/&gt;
+A surveyor's tape is a long, flexible tape marked in meters used in land surveying.
+
+A sextant is a navigation instrument used to measure the angle between celestial objects and the horizon. It helps determine a ship's position at sea. 
+#
+&lt;image width="50%"  source="pics/measurement/sextant.png"/&gt;
+
+Microwave instruments use microwaves to take survey measurements. They have a range up to 100 km and are comprised of two identical units, a master unit, and a remote unit.
+Infrared wave instruments use amplitude modulated infrared waves and prism reflectors. They have a range up to 3 km and accuracy of +/- 10mm.
+Light wave instruments rely on the propagation of modulated light waves. Their accuracy varies from 0.5mm to 5mm/km, and they have a daytime range of 3km and night range of 2.5km.
+Laser measuring tools send a beam to the target, which reflects off the surface and is sent back to the device. Lasers are focused beams of light that stay at a particular frequency. And because they travel from one place to another at a fairly constant rate, they can be used to measure distance with a great deal of accuracy. A laser measuring device also has a longer range than many other measuring tools, which gives it an advantage over other devices that become less precise the farther out you measure. Lasers are less likely to disperse than white light, so they can travel at a greater distance without losing their intensity. They keep most of their intensity once they reflect off a target, which is important if you want to get accurate distance measurements.
+&lt;image  width="50%" source="pics/measurement/laser.png"/&gt;#
+Sonar is an object-finding system that uses sound waves to determine the distance, speed of and direction to objects within its range. ..
+#
+&lt;image  width="50%" source="pics/measurement/sonar.png"/&gt;
+
+These instruments allow engineers, sailors, and others to accurately measure lengths and distances according to their respective systems of measurement. It's important to note that many professionals now use digital instruments, such as laser distance measurers, which can provide precise measurements in multiple units.
 </Text>
         </Document>
         <Document ID="4BB02E29-15A6-42B8-A3D7-95BE9B5774F9">
@@ -38667,8 +38868,22 @@ Systematically analyzing and communicating job hazards and implementing appropri
         <Document ID="1712D062-7169-42DB-B312-64BA4BE461A9">
             <Title>Energy Transformations</Title>
         </Document>
+        <Document ID="BF2A12A6-E6F9-4363-A18D-4D41F162A65D">
+            <Title>Introduction</Title>
+            <Text>Measurement is the process of associating numbers with quantities. Units of measurement establish a common language for engineers to communicate and quantify various physical quantities. There are two basic standard units of measurement systems that are used worldwide, the U.S. Standard Measurement System and the Metric System.
+In the world of engineering, measurement is fundamental. Accurate measurements are crucial for designing, constructing, and evaluating systems. Engineers rely on standardized units and principles of measurement to ensure consistency and precision in their work.
+This chapter provides an overview of the categories and units of measurement used in engineering systems, covering both the metric and US standard systems as well as nautical measurement. An overview of basic instruments used for making measurements will be discussed along with the principles of measurement including accuracy, efficiency, percent error and deviation.
+As you study this chapter, you will encounter new terms and definitions for you to learn. At the end of the chapter, you will find example problems. Be sure to take the time to practice with these problems. They will help prepare you to apply these concepts.</Text>
+        </Document>
         <Document ID="3398E671-B9ED-4B34-A476-CE7BDDAE3994">
             <Title>OICEW-C2.1 Safe isolation of shipboard machinery and equipment before personnel are permitted to work</Title>
+        </Document>
+        <Document ID="139B499D-205C-433F-A6AA-A079228AD44B">
+            <Title>Unit Conversions</Title>
+            <Text>Frequently, engineers need to find length equivalents between different systems of measurement. For example, in the construction of a ship there may be different contractors, some of whom use US standard measurement and others who use metric. Since the agreed upon system is metric, conversions are required to standardize all measurements.
+Conversion of units is the process to convert between different units of measurement for the same quantity, typically through multiplicative conversion factors which change the measured quantity value without changing its effects. Unit conversion is often easier within the metric or the SI than in others, due to the regular 10-base in all units and the prefixes that increase or decrease by 3 powers of 10 at a time.
+The unit-factor method or the unity bracket method is a widely used technique for unit conversions using the rules of algebra. 
+The factor-label method is the sequential application of conversion factors expressed as fractions and arranged so that any dimensional unit appearing in both the numerator and denominator of any of the fractions can be cancelled out until only the desired set of dimensional units is obtained. For example, 10 miles per hour (mi/hr or mph) can be converted to meters per second (m/s) by using a sequence of conversion factors as shown below:</Text>
         </Document>
         <Document ID="60F720BA-18C5-4F60-BE5A-431145DDEBA9">
             <Title>Ball Valves</Title>
@@ -38679,6 +38894,9 @@ Systematically analyzing and communicating job hazards and implementing appropri
 A ball valve, &lt;xref ref="ball_valve_png"/&gt;, is similar to a plug valve except that a   spherical rather than cylindrical plug is used. The ball has a hole or port bored   through it and is made tight to the two openings in the body by plastic or synthetic   rubber seat seal rings. These plastic or synthetic seat rings limit most ball valves to   fluid temperatures of 350° or less. When the ball is rotated to the closed position, the   fluid pressure pushes the ball tightly against the outlet seat ring insuring tight   closure. 
 Ball valves are compact, self-sealing, non-sticking, require little effort to rotate   the valve stem and they provide smooth fluid flow. Since the port in the ball is   normally the same I.D. as the piping, the ball valve offers little resistance to flow   and low pressure drop. 
 </Text>
+        </Document>
+        <Document ID="987DD2D6-15FF-4F29-821C-001089999C76">
+            <Title>Length Measuring Instruments</Title>
         </Document>
     </Documents>
 </SearchIndexes>
