@@ -1,0 +1,16 @@
+<p>
+   <term>Generators</term> are machines for producing DC electric power, while alternators are
+        machines that produce AC power. It is common to refer to alternators as generators. Aboard
+        ship generators and alternators are rotating machines driven by engines or turbines, serving
+        as the normal source of electricity, and on larger vessels, for standby and emergency
+        electric power as well.</p>
+<p>When a conductor is passed through a magnetic field, or when a magnetic field is passed
+        over a conductor, an <term>electromotive force</term> or <term>impressed voltage</term> is
+        induced in the conductor. If the conductor is part of a complete circuit, the current that
+        will then flow is called an <term>induced current</term>. The linkage of relative motion
+        between a magnetic field and a conductor, and the resulting impressed voltage and induced
+        current, is the principle behind generators and alternators. In a generator, conductors are
+        arranged on the rotor, driven through a stationary magnetic field by a prime mover, with the
+        induced current collected from the rotor for delivery to the load. In most alternators, the
+        conductors are stationary, and surround a rotating magnetic field: current is induced in the
+        stationary conductors as they are swept by the magnetic field.</p>

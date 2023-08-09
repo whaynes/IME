@@ -1,0 +1,928 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter xml:id="SNAME_Electric_Systems" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Electric Systems</title>
+  <introduction>
+    <p>This chapter is adapted from <pubtitle>Introduction to Practical Marine
+        Engineering</pubtitle>, SNAME 2005.</p>
+  </introduction>
+  <section xml:id="Fundamentals_of_electricity">
+
+    <title>Fundamentals of electricity</title>
+
+
+    <p>Electricity is associated with the accumulation or the flow of electrons, which are
+      negatively-charged, subatomic particles. Static electricity is caused by the accumulation of
+      electrons, as might occur from rubbing hard rubber on a wool carpet. The resulting static
+      charge of the stored electrons might then be released suddenly as a spark. In a more useful
+      form of electricity, the electrons flow through wires to energize light bulbs and computers
+      and to turn the shafts of motors.</p>
+
+    <p>As long as a complete electric path or circuit is available, electron flow can be initiated
+      and sustained in a number of ways, including chemical reaction and magnetic induction.
+        <term>Batteries</term> and <term>fuel cells</term> cause electron flow by chemical reaction.
+      For most applications <term>alternators</term> or <term>generators</term> are used to produce
+      electron flow by magnetic induction, in which the mechanical power output of an engine is used
+      to drive conductors through a magnetic field, inducing an electron flow In the conductors.
+      Electron flows can also be created by <term>thermocouples</term> and <term>photovoltaic
+        cells</term>, which respond to heat and light, respectively. Thermocouples are commonly used
+      to generate electric signals for temperature measurement. Fuel cells and photovoltaic (or
+      solar) cells have been used in low-power applications for years but are becoming more common
+      and more capable of higher-power applications.</p>
+
+    <p>Electrons flow from areas of higher electron concentration (negative charge) to areas of
+      lower electron concentration (less negative charge) if a conductor path is established. The
+      conductor can be solid, like a copper wire, but liquids, such as salt water and mercury, and
+      ionized gasses, can also conduct electricity. The effects of electron flow are recognizable
+      and include, as examples, heating of the conducting wire element of an electric heater,
+      causing a magnetic field around the conductors in an electric motor to produce mechanical
+      torque, and heating of the ionized gas in a fluorescent lamp to produce light.</p>
+  </section>
+  <section xml:id="Electrical_terms">
+    <title>Electrical terms</title>
+
+    <introduction>
+      <p>Engineers do not normally speak of flowing electrons but rather of electric
+          <term>current</term>. Current is an imaginary stream that flows from the less negatively
+        charged area (more positive) to the more negatively charged area (less positive). That is\s,
+        the direction of the current is opposite to the electron flow. This convention was adopted
+        because it is easier to think of a flow going from a higher level (more positive) to a lower
+        level (less positive). Current flow is normally given the symbol <m>I</m> and is measured in
+        units of <term>amperes</term>, usually abbreviated to <term>amps</term>. Current in amperes
+        is analogous to fluid flow in gallons or liters per minute.</p>
+
+      <p>The force used to push current through a conductor is the <term>electromotive force
+          (emf)</term> or <term>potential</term>. It is measured in units of <term>volts</term> and
+        identified by the symbol <m>V</m> or <m>E</m>. The fluid analog of the electromotive force
+        in volts is pressure in psi or pascals.</p>
+    </introduction>
+    <subsection>
+      <title>Direct current vs. alternating current</title>
+
+      <p>Electricity may be supplied as either <term>direct current</term> (DC) or <term>alternating
+          current</term> (AC). DC flows in only one direction in the conductor because the potential
+        always acts in the same direction. Current originating from a battery in a flashlight and
+        flowing to the bulb is an example of DC. The current flows from the positive terminal of the
+        battery, through a circuit consisting of the switch, the bulb, and the conductors, to the
+        negative terminal of the battery. Only the <term>resistance</term> (to electron flow) of the
+        circuit limits the current. </p>
+      <p>With alternating current the driving potential (or voltage) continually reverses direction,
+        forcing the current in the circuit to continually reverse direction as well. The voltage
+        takes the form of a sine wave as shown in <xref ref="fig_24_1_png"/>, rising first to a
+        positive peak value as shown, then falling through zero to an equal negative peak value. As
+        a result, the current first flows in one direction, peaks, slows, stops, reverses direction,
+        increases to an equal peak value in the other direction, slows, stops, and resumes its flow
+        in the original direction. In the United States the standard generating systems produce
+        alternating current that reverses with a <term>frequency</term> of 60 cycles per second
+        (cps), commonly referred to as 60 <term>cycles</term> or 60 <term>Hertz</term> (Hz). In
+        Europe and Japan, the standard is 50 Hz.</p>
+
+
+    </subsection>
+    <subsection>
+      <title>Resistance and resistance <q>loss</q></title>
+
+      <p><term>Resistance</term> to current flow is symbolized by <m>R</m> and is measured in units
+        of <term>ohms</term>. Resistance can be calculated by <term>Ohm's Law</term>: if <m>E</m> is
+        the voltage and <m>I</m> is the current, <me>R= \frac{E}{I}</me></p>
+
+      <p>The magnitude of the resistance of a conductor is affected by the ease with which electrons
+        (current) flow in the material. If electrons flow easily the material is said to have low
+        resistance. Copper is a better conductor than steel, and is used in most power applications.
+        The resistance also depends on the available area through which the electrons flow, and on
+        the conductor length. As with fluid in a pipe, the narrower or longer the path, the more
+        difficult it is to push the electrons through. Since most electric conductors are round, so
+        that area is proportional to diameter squared, conductor area is often abbreviated to
+        circular mils, where a mil is 0.001 inch, and a circular mil is the diameter squared. As an
+        example a wire of 0.100 inch (100 mil) outside diameter is said to be a 10,000 circular-mil
+        wire. Engineers often identify a conductor by its <term>American Wire Gage</term> (AWG)
+        number. In this system the higher the number, the smaller the diameter, so that #12 wire is
+        thinner than #10 wire.</p>
+
+      <p>Just as friction and other resistance to fluid flow in piping results in a <q>loss</q> of
+        energy, so does the resistance in a conductor result in a <q>loss</q>. This <q>loss</q> is
+        proportional to the square of the current, multiplied by the resistance: <me>\text{
+          resistance "loss"} = I^2 R</me></p>
+
+      <p>Because it is a function of the current squared, a modest increase in current in a
+        conductor results in a much larger <q>loss</q> of energy. This <q>loss</q> manifests itself
+        as heat.</p>
+
+      <p>The unit <term>megohm</term> is a resistance of one million ohms and is used to express the
+        resistance of electric insulation.</p>
+    </subsection>
+    <subsection>
+      <title>Magnetic field</title>
+
+      <p>An electron flow, or current, is always surrounded by a magnetic field. When a conductor is
+        wound into a cylindrical coil, the magnetic field that will be formed will be oriented along
+        the axis of the cylinder. One end of the coil will act like the north pole of a permanent
+        magnet, and the other end, like the south pole. The coil is therefore an
+          <term>electromagnet</term>. </p>
+    </subsection>
+    <subsection>
+      <title>Impedance</title>
+
+      <p>With alternating current, the electron flow is opposed not only by the resistance but also
+        by an additional factor, the reactance. Reactance is caused by the response of the circuit
+        to the cyclic fluctuations of the alternating current and voltage, and may be further
+        categorized as inductive reactance or capacitive reactance. The sum of the resistance and
+        the reactance is the <term>impedance</term>
+        <m>Z</m>, and has units of ohms. Impedance is defined as: <me>Z= E/I</me></p>
+
+      <p>The magnitude of the impedance depends on factors that include the characteristics of the
+        components in the circuit and the frequency of the current.</p>
+    </subsection>
+    <subsection>
+      <title>Open circuits, short circuits, and grounds</title>
+
+      <p>An <term>open</term> in an electric circuit occurs where the conducting path has been
+        broken, stopping the flow of current. An open occurs when a switch is opened, or a wire
+        breaks or becomes disconnected.</p>
+
+      <p>A <term>short circuit</term> occurs when the current path is bridged, allowing the current
+        to bypass one or more components, for example, when two conductors accidentally touch.</p>
+
+      <p>A <term>ground</term> occurs when an electric circuit is accidentally or intentionally
+        connected to a very low potential sink, like a ship's hull or the sea. A common example of a
+        ground occurs when insulation on a conductor breaks down, allowing the conductor to contact
+        the adjacent metal housing or structure.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="Electric_power">
+    <title>Electric power</title>
+
+    <introduction>
+
+
+      <p>The energy of flowing electrons is a power source that can be used do work in an electric
+        motor or can generate heat as in an a toaster element. The unit of power associated with
+        electric devices is the <term>watt</term> (W), which is the power produced when one ampere
+        of current is pushed through an electric circuit by one volt of electromotive force (a
+        potential difference). In a similar manner, hydraulic power is developed when a flow of
+        fluid is pushed through a fluid circuit by pressure difference. Since the watt is a
+        relatively small amount of <term>power</term>, <term>kilowatts</term> (kW) and
+          <term>megawatts</term> (MW) are commonly used. One kW is equal to 1000 W, and one MW
+        equals 1000 kW.</p>
+
+      <p>The law of conservation of energy dictates that electric energy or power can be converted
+        to mechanical power or to heat, and vice versa. If the conversions were complete, one kW of
+        electric power would provide a kW of mechanical power or a kW of heat. In familiar units,
+        these approximate energy equivalents are listed below: <md>
+          <mrow>746 \text{ W} = 0.746 \text{ kW} = 1 \text{ hp}</mrow>
+
+          <mrow>1 \text{ kW}= 1.340 \text{ hp}</mrow>
+
+          <mrow>1 \text{ kW}= 3412 \text{ Btu/hr}</mrow>
+        </md></p>
+    </introduction>
+
+    <subsection>
+      <title>Power from direct current</title>
+
+      <p>In a DC circuit, where the voltage and current are at constant, steady values, the power in
+        kW can easily be calculated as the product of voltage and current in amps: <me>P = E I
+        </me></p>
+    </subsection>
+    <subsection>
+      <title>Power from alternating current</title>
+
+      <p>In an AC circuit the power cannot be calculated so easily because first, both voltage and
+        current fluctuate in magnitude and direction in sinusoidal patterns, and second, because the
+        voltage and current do not necessarily act in unison, as shown in <xref ref="fig_24_1_png"
+        />. To account for the cyclic variation in magnitude of voltage and current, an averaged
+        value is used, called the <term>root-mean-square</term> or <term>rms</term> value. See <xref
+          ref="fig_24_3_png"/>. For AC circuits the values typically cited for current (<m>I</m>)
+        and voltage (<m>E</m>) are in fact therms values, and not the peak values. These rms values
+        are each about 71 % of the peak values. For 120 volt, 60 Hz power, the rms values are +120
+        volts and -120 volts, while the peak values are +170 volts and -170 volts, yielding a
+          <term>peak-to-peak voltage</term> of 340 volts.</p>
+
+      <figure xml:id="fig_24_1_png">
+        <caption>60 Hz AC voltage sine wave</caption>
+        <image source="pics/sname/24-1.png" width="50%"/>
+      </figure>
+
+
+
+      <p>In <xref ref="fig_24_2_png"/>, note that the voltage reaches its peak value before the
+        current reaches its peak, so that the current is said to be <term>lagging</term>. If the
+        current were to reach its peak first we would say that it is <term>leading</term>. The
+        degree of lagging or leading is dependent on the circuit components, and their response to
+        the cyclic fluctuations of the alternating current and voltage. Note that it takes 360
+        degrees for a sine wave to complete its cycle, enabling the abscissa in <xref
+          ref="fig_24_2_png"/> to be given in degrees as shown. The difference between corresponding
+        points on the two sine waves for voltage and current, measured in degrees, is called the
+          <term>phase shift</term>.</p>
+
+      <p>Power is the product of current and voltage, but it can be seen in <xref ref="fig_24_2_png"
+        /> that whenever there is a phase shift, this product will never reach the high values that
+        it would reach if the current and voltage acted in unison. For example, at 90 degrees the
+        voltage is 100% of its peak value but the current is at only 60% of its peak value, so that
+        the instantaneous power is only 60% of what it would be if current and voltage reached their
+        peak values together at 90 degrees. To account for the lower power caused by a phase shift,
+        the power factor (pf) is defined as follows: <me> pf = \frac{\text{active
+          power}}{\text{apparent power}}</me></p>
+
+      <figure xml:id="fig_24_2_png">
+        <caption>Alternating current with lagging voltage</caption>
+        <image source="pics/sname/24-2.png" width="50%"/>
+      </figure>
+
+      <figure xml:id="fig_24_3_png">
+        <caption>AC voltage - peak and rms values</caption>
+        <image source="pics/sname/24-3.png" width="50%"/>
+      </figure>
+
+      <p>The <term>apparent power</term> is simply the product of the rms voltage (<m>E</m>) and the
+        rms current (<m>I</m>), and is expressed in volt-amperes (VA) or kilovolt-amperes (kVA). The
+          <term>active power</term>, which is the <term>real power</term>, is expressed In watts or
+        kilowatts. <md>
+          <mrow>\text{apparent power in kVA}= EI</mrow>
+          <mrow>\text{active (real) power in kW} = pf \times EI</mrow>
+        </md></p>
+
+
+
+      <p>If there is no phase shift, then the voltage and current follow sine curves that are
+        exactly in step. In these cases the voltage and current are said to be <term>in
+        phase</term>, the active power is equal to the apparent power, and the power factor is one.
+        This condition is the exception, rather than the rule. More often, the power factor is less
+        than one because the voltage and current cycles do not coincide, that is they are <term>out
+          of phase</term>, and the active power (kW) is therefore less than the product of volts and
+        amperes. The significance of the power factor, therefore, is that only at a power factor of
+        one, where the voltage and current are in phase, will the real power be equal to the product
+        of the volts and amperes. Usually the voltage and current are out of phase, the power factor
+        is less than one, and the active power is less than the product of volts and amperes.</p>
+
+      <p>To appreciate the significance of having voltage and current out of phase, it should be
+        noted that what is required from an electric circuit Is usually a certain amount of real
+        power, such as might be needed to drive a motor. If the power factor is less than one, and
+        if the voltage is fixed, then for the required real power a higher current is necessary than
+        if the voltage and current were in phase. Recall that whenever there is a current in a
+        conductor there is also a <q>loss</q>, and that this <q>loss</q> is proportional to the
+        square of the current. For example, in a circuit supplying a motor with AC power, if the
+        power factor is 0.8, then the current must rise to 125% of what would be required for the
+        same power if the power factor were one, while the <q>loss</q> in the conductors rises to
+        156% (125% squared). Viewed another way, all of the current contributes to wasteful heat
+        generation, even when only a portion of the current contributes to the real power.</p>
+    </subsection>
+  </section>
+  <section xml:id="Basic_electric_circuits">
+    <title>Basic electric circuits</title>
+
+    <p>Basic electric circuits are either <term>series</term> circuits or <term>parallel</term>
+      circuits.</p>
+
+    <p>In a series circuit, the components are connected in succession, so that the total line
+      current must pass through each of the components in turn, as in <xref ref="fig_24_4_png"/>.
+      Therefore, for the resistors in this circuit: <me>I = I_1 = I_2 = I_3</me></p>
+    <figure xml:id="fig_24_4_png">
+      <caption>Series Circuit</caption>
+      <image source="pics/sname/24-4.png" width="50%"/>
+    </figure>
+    <p>The total voltage drop across these resistors is the sum of the voltage drops across each of
+      the resistors: <me> V = V_1 + V_2 + V_3</me></p>
+    <p>Recalling Ohm's Law (<m>I=V/R</m> or <m>V=IR</m>), the <term>equivalent resistance</term>
+        (<m>R_e</m>) of the series circuit is:<me> R_e = R_1 + R_2 + R_3</me></p>
+
+    <p>And the voltage drop across each of the resistors is equal to the line current times that
+      resistance of that resistor:<md>
+        <mrow>V_1 \amp= I_1 R_1 \amp V_2 \amp= I_2 R_2 \amp V_3 \amp= I_3 R_3 \amp</mrow>
+      </md></p>
+
+    <p>In a parallel circuit, the components are connected in branches, which permit the current to
+      divide and flow through two or more independent parallel paths, as shown in <xref
+        ref="fig_24_5_png"/> on the left. Therefore, each of the three resistors has the full line
+      voltage across it: <me> V = V_1 = V_2 = V_3</me></p>
+
+    <p>At the same time, the total line current is the sum of the three branch current flows: <me> I
+        = I_1 + I_2 + I_3</me></p>
+
+    <p>The equivalent resistance of a parallel circuit is the value of a single resistor that would
+      pass the same line current as the group of resistors in the parallel circuit, as shown on the
+      right in <xref ref="fig_24_5_png"/>. This equivalent resistance can be calculated for the
+      parallel circuit of the figure using Ohm's Law, which yields: <me> R_e = \frac{1}{1/R_1 +
+        1/R_2 + 1/R_3}</me></p>
+
+    <figure xml:id="fig_24_5_png">
+      <caption>Parallel circuit and circuit with equivalent resistance</caption>
+      <image source="pics/sname/24-5.png" width="85%"/>
+    </figure>
+
+  </section>
+  <section xml:id="Electric_components_and_instruments">
+    <title>Electric components and instruments</title>
+
+    <p>A short list of electric components and instruments most likely to be of interest to marine
+      engineers appears in this section.</p>
+
+    <p><term>Voltmeters</term> are used to measure the strength of the electromotive force or
+      potential between two points. </p>
+    <p>At the heart of a voltmeter is a pivoted movement, surrounded by a coil. The movement is
+      attached to the pointer, and turns in response to the magnetic field produced by the small
+      current that flows in the coil when a voltage is applied across the meter terminals.
+      Voltmeters are connected in parallel to the component for which the voltage drop is desired as
+      shown in <xref ref="fig_24_6_png"/>. Voltmeters must have high ·internal resistance so that
+      the current they draw is negligible. In low-voltage electronic circuits, ordinary voltmeters
+      may draw too much current to permit their use.</p>
+
+
+
+    <figure xml:id="fig_24_6_png">
+      <caption>Voltmeter</caption>
+      <image source="pics/sname/24-6.png" width="50%"/>
+    </figure>
+
+
+
+    <p><term>Voltage testers</term> are used where it is necessary to know only whether there is
+      full voltage or no voltage.</p>
+
+    <p><term>Ammeters</term> are used to measure current. The basic movement of an ammeter is
+      similar to that of a voltmeter, but the coil of the meter is wired in parallel with a
+      low-resistance resistor called a shunt. The movement then responds to the voltage drop
+      associated with a particular current in the shunt. The scale is graduated in appropriate units
+      such as milliamperes (1 ma is one-thousandth of an amp) or amps, depending on the shunt.
+      Ammeters are connected in a series with the conductor in which the current flow is to be
+      measured. A basic ammeter with its integral shunt is shown in <xref ref="fig_24_7_png"/>.</p>
+
+    <figure xml:id="fig_24_7_png">
+      <caption>Ammeteter</caption>
+      <image source="pics/sname/24-7.png" width="50%"/>
+    </figure>
+
+    <p><term>Clamp-on ammeters</term> are hand-held instruments used with AC circuits. A plier-like
+      pick-up coil is closed around the conductor in which current is to be measured, and the
+      movement responds to current induced in the pick-up coil by the changing magnetic field in the
+      conductor.</p>
+
+    <p><term>Ohmmeters</term> are used to measure resistance. An ohmmeter consists of a simple meter
+      movement connected in series with a battery. When the ohmmeter is connected in series with the
+      component or circuit to be tested, the battery, which acts as a constant-voltage source,
+      supplies current to develop a voltage drop across the test device. The movement is calibrated
+      to read in ohms. Ohmmeters must never be used on energized circuits.</p>
+
+    <p>A <term>megger</term> is a special ohmmeter used for testing electric insulation. The voltage
+      source is a hand-cranked DC generator. Meggers are used only when equipment is secured and
+      isolated from the power source. After connection to the selected insulated component, the high
+      voltage from the generator is applied momentarily, while the meter measures the current flow
+      through the insulation. Meggers are calibrated in megohms.</p>
+
+    <p>A <term>multimeter</term> is an instrument containing one movement that can be connected by a
+      selector switch to a variety of shunts to serve as an ammeter, or to special resistors to
+      serve as a voltmeter, or to a small dry cell battery for use as an oh meter.</p>
+
+    <p><term>Wattmeters</term> are used to measure electric power. Since electric power is the
+      product of current and voltage, a wattmeter will have four connections, two for measuring
+      current and two for measuring voltage.</p>
+
+    <p>Clamp-on wattmeters are similar to clamp-on ammeters in having a plier-like pick-up coil to
+      measure current, but they also have two or three leads for connection to the power leads, in
+      order to simultaneously measure voltage.</p>
+
+    <p><term>Watt-hour meters</term> are used to measure the amount of energy consumed over time.
+      Watt-hour meters must not only measure power (current and voltage) but must also have device
+      for measuring the time interval involved.</p>
+  </section>
+  <section xml:id="Alternators_and_generators">
+    <title>Alternators and generators</title>
+
+    <introduction>
+      <p><term>Generators</term> are machines for producing DC electric power, while alternators are
+        machines that produce AC power. It is common to refer to alternators as generators. Aboard
+        ship generators and alternators are rotating machines driven by engines or turbines, serving
+        as the normal source of electricity, and on larger vessels, for standby and emergency
+        electric power as well.</p>
+
+      <p>When a conductor is passed through a magnetic field, or when a magnetic field is passed
+        over a conductor, an <term>electromotive force</term> or <term>impressed voltage</term> is
+        induced in the conductor. If the conductor is part of a complete circuit, the current that
+        will then flow is called an <term>induced current</term>. The linkage of relative motion
+        between a magnetic field and a conductor, and the resulting impressed voltage and induced
+        current, is the principle behind generators and alternators. In a generator, conductors are
+        arranged on the rotor, driven through a stationary magnetic field by a prime mover, with the
+        induced current collected from the rotor for delivery to the load. In most alternators, the
+        conductors are stationary, and surround a rotating magnetic field: current is induced in the
+        stationary conductors as they are swept by the magnetic field.</p>
+    </introduction>
+
+    <subsection>
+      <title>Single-phase alternators</title>
+
+      <p>In the simple alternator of <xref ref="fig_24_8_png"/> the engine or turbine spins a magnet
+        (on the rotor}, with north and south <term>poles</term>, which is surrounded by a coil of
+        stationary conductors (the winding on the <term>stator</term>). The magnitude of the
+        impressed voltage will depend on the strength of the magnetic field, denoted as
+          <term>magnetic flux</term>, and the speed at which the conductors are swept or "cut" by
+        the magnetic flux.</p>
+
+      <figure xml:id="fig_24_8_png">
+        <caption>Single-phase alternator with two-pole rotor</caption>
+        <image source="pics/sname/24-8.png" width="50%"/>
+      </figure>
+
+      <p>Because of the rotation of the magnetic poles the impressed voltage is not constant, but
+        varies in magnitude and direction cyclically, as shown in <xref ref="fig_24_1_png"/>. The
+        flux cutting the right side of the conductor is that associated with a south pole, but when
+        the magnet rotates 180 degrees the conductor is being cut by the flux associated with the
+        north pole, reversing the direction or <term>polarity</term> of the voltage. When the magnet
+        is vertical no flux cuts the conductors and therefore no voltage is impressed. The result is
+        a voltage curve with the shape of a sine wave, as shown in <xref ref="fig_24_1_png"/>. Since
+        this alternator generates voltage that is described by a single sine wave It is a
+          <term>single-phase</term> alternator.</p>
+
+      <p>If the two-pole rotor (one north and one south pole) of <xref ref="fig_24_8_png"/> is
+        rotated at 3600 rpm the current will have a frequency of 3600 cycles per minute or 60 cycles
+        per second. If the rotor were a four-pole magnet as in <xref ref="fig_24_9_png"/>, then in
+        each revolution of the rotor the conductors in the winding will be cut by the magnetic field
+        twice as frequently. Turning the rotor at 1800 rpm would then produce the same 60 Hz sine
+        wave. The frequency of the voltage generated by an alternator can be expressed as: <me>f =
+          \frac{120 \times N}{2 \times 60}</me></p>
+
+      <p>where <m>f</m> is the frequency in Hz and <m>N</m> is the total number of poles.</p>
+
+      <figure xml:id="fig_24_9_png">
+        <caption>Four-pole rotor for an alternator</caption>
+        <image source="pics/sname/24-9.png" width="60%"/>
+      </figure>
+
+    </subsection>
+
+    <subsection>
+      <title>Three-phase alternators</title>
+
+      <p>If a two-pole generator were fitted with three sets of windings on the stator, as in <xref
+          ref="fig_24_10_png"/>, a three-phase alternator results. The windings are positioned 120
+        degrees apart and are not connected to each other. As the poles of the field rotate a
+        sinusoidal voltage is induced in turn in each winding, 120 degrees out of phase with the
+        voltage produced in the adjacent windings. Each winding has one end connected to a common
+        ground, and the voltages that result, <m>V_1</m>, <m>V_2</m>, and <m>V_3</m>, measured
+        relative to ground, are shown in <xref ref="fig_24_11_png"/>.</p>
+
+
+
+      <figure xml:id="fig_24_11_png">
+        <caption>Three-phase voltage</caption>
+        <image source="pics/sname/24-11.png" width="75%"/>
+      </figure>
+
+    </subsection>
+    <subsection>
+      <title>Field and excitation</title>
+
+      <p>In most generators the magnet that provides the field is an electromagnet, comprised of a
+        steel core wound with coils of wire that form the <term>field windings</term>, as in <xref
+          ref="fig_24_12_png"/>. The <term>field</term> is energized by the <term>excitation
+          current</term> that flows through these field windings. To maintain the polarity of the
+        field, the excitation must be direct current. <xref ref="fig_24_12_png"/> shows how copper
+          <term>slip rings</term> mounted on the rotor are used with stationary carbon
+          <term>brushes</term> to provide the electrical connection from the excitation source to
+        the field windings. The brushes are pressed against the slip rings by springs, and are
+        replaced as they wear.</p>
+
+      <figure xml:id="fig_24_12_png">
+        <caption>Rotating field for two-pole alternator, showing slip rings</caption>
+        <image source="pics/sname/24-12.png" width="75%"/>
+      </figure>
+
+      <p>Most generators are <term>self-excited</term>, meaning that the excitation current is
+        derived from the power produced by the generator. Starting of a self-excited generator makes
+        use of the residual permanent magnetism of the field core. Once the generator starts
+        rotating, the residual permanent magnetism induces current to begin to excite the field
+        coils, and the resulting magnetic flux builds up to the desired level.</p>
+    </subsection>
+    <subsection>
+      <title>Direct-current generators</title>
+
+      <p>Since any generator with a rotating element will naturally produce an alternating voltage,
+        it is necessary, in a DC generator, to continually convert this alternating voltage into a
+        direct voltage. In traditional DC generators the construction of the machine is reversed
+        relative to the alternators discussed above, so that the magnetic field is stationary, while
+        the windings rotate, as in <xref ref="fig_24_13_png"/>. The rotor is then called the
+          <term>armature</term>, and is fitted with a rotating switching device called a
+          <term>commutator</term>, which does the AC to DC conversion. The voltage produced in the
+        windings of the armature is sinusoidal, as it is in an alternator. If this voltage were
+        taken out of the rotor by slip rings and brushes, as in <xref ref="fig_24_12_png"/>,
+        single-phase AC would be delivered to the generator terminals. The commutator is essentially
+        a single slip ring divided into separate segments called <term>commutator bars</term>. Each
+        terminal of the armature winding is connected to one commutator bar. As the armature
+        rotates, the winding terminal beneath each brush switches half way through every revolution,
+        simultaneously with the change in polarity of the voltage in the winding. The polarity of
+        one brush and its connected generator terminal is thus always positive, while the other
+        brush and generator terminal is always negative.</p>
+
+      <figure xml:id="fig_24_13_png">
+        <caption>Two-pole DC generator with commutator</caption>
+        <image source="pics/sname/24-13.png" width="75%"/>
+      </figure>
+
+      <p>The DC voltage produced by a generator with a single armature winding and a two-bar
+        commutator fluctuates as shown in the upper plot of <xref ref="fig_24_14_png"/>. To obtain a
+        more constant voltage more windings would be added to the armature, with each winding
+        connected to a pair of diametrically-opposed commutator bars, to yield an output voltage
+        curve as shown in the lower plot of <xref ref="fig_24_14_png"/>. The more windings there are
+        on the armature, the steadier will be the resulting terminal voltage of the generator. Large
+        DC generators have dozens of armature windings and commutator bars.</p>
+
+      <figure xml:id="fig_24_14_png">
+        <caption>Voltage delivered by a DC generator with, at top, a single winding and a
+          two-segment commutator, and, at bottom, three evenly-spaced windings and as six-bar
+          commutator.</caption>
+        <image source="pics/sname/24-14.png" width="60%"/>
+      </figure>
+
+      <p>A commutator is only one way to achieve the continual switching necessary to convert AC to
+        DC; electronic devices called <term>rectifiers</term> are also used. Modern rectifiers are
+        built around solid-state <term>diodes</term>. A diode has low resistance to current flow in
+        one direction and very high resistance to current flow in the other direction. <xref
+          ref="fig_24_15_png"/> depicts a rectifier circuit. By appropriately connecting rectifiers
+        to the stator windings of an alternator, DC can be provided without the maintenance problems
+        associated with brushes and commutators. Alternators can be used in automobiles, where the
+        power is distributed as DC, because they are fitted with rectifiers.</p>
+
+      <figure xml:id="fig_24_15_png">
+        <caption>Rectifier</caption>
+        <image source="pics/sname/24-15.png" width="50%"/>
+      </figure>
+
+    </subsection>
+  </section>
+  <section xml:id="Electric_motors">
+    <title>Electric motors</title>
+    <introduction>
+      <p>An electric motor has a role opposite to that of a generator, in that a motor draws
+        electric power and converts it to mechanical power. Most shipboard motors are AC, because
+        they are smaller and less costly than DC motors of similar power output. DC motors are used
+        only rarely on modern ships. <term>Universal motors</term> operate on either AC or DC.</p>
+    </introduction>
+    <subsection>
+      <title>Alternating current motors</title>
+
+      <p>In concept and construction, a three-phase AC motor is very similar to a three-phase
+        alternator, as shown in <xref ref="fig_24_10_png"/>. When three-phase AC current (the line
+        current) is applied to the stator windings of the motor, with one phase connected to each
+        winding, the current will produce a magnetic field around each winding that varies in
+        magnitude and direction in a sinusoidal pattern. The magnetic field produced by each winding
+        interacts with that of the adjoining windings to produce a net magnetic field that revolves
+        around the stator. If a compass needle were placed in the center of the stator it would
+        rotate at a speed coinciding with the frequency of the applied current, since the compass
+        needle is a two-pole magnet. The direction of rotation of the field will depend on the order
+        in which the windings are connected to receive the line current: if two of the three line
+        connections are interchanged at the motor terminals, the direction in which the magnetic
+        field produced by the stator windings will reverse, as will the compass needle.</p>
+
+      <p>The stator windings of the three-phase machine in <xref ref="fig_24_10_png"/> are spaced at
+        120-degree intervals, so that the field produced by these stator windings rotates once per
+        cycle of the applied current, a speed <m>n_s</m>called the <term>synchronous speed</term>.
+        This stator is said to have two poles, and the corresponding synchronous speed can be
+        calculated from the following relation: <me>n_s = \frac{120 f}{P}</me></p>
+
+      <figure xml:id="fig_24_10_png">
+        <caption>Three-phase alternator</caption>
+        <image source="pics/sname/24-10.png" width="75%"/>
+      </figure>
+
+      <p>where <m>P</m> is the number of poles on the stator and <m>f</m> is the line frequency. A
+        two-pole stator supplied with 60 Hz line current would have a synchronous speed of 3600 rpm.
+        In this example, the magnetic field produced by the stator and the compass needle would both
+        rotate at this speed.</p>
+
+      <p>Additional windings can be fitted to the stator for each phase. Each additional winding per
+        phase provides an additional pair of poles. For example, the stator could be arranged with
+        nine windings, with every third winding connected to the same phase, so that there are three
+        windings per phase. Since each set of windings provides one pair of poles this would be a
+        6-pole motor. The synchronous speed of a 6-pole motor, when supplied with 60 Hz line
+        current, is 1200 rpm.</p>
+    </subsection>
+    <subsection>
+      <title>Synchronous motors</title>
+
+      <p>If we replace the compass needle in the above example with a more powerful magnet, the
+        magnetic field produced by this magnet would lock onto the rotating magnetic field produced
+        by the stator windings. The rotor can be a strong permanent magnet or an electromagnet
+        supplied (excited) by a DC source. This type of AC motor is called a <term>synchronous
+          motor</term> and is characterized by the fact that the rotor rotates at the same speed as
+        the magnetic field produced by the stator windings, the synchronous speed. Synchronous
+        motors range in size from small motors for electric clocks fitted with permanent-magnet
+        rotors, to very large propulsion motors, developing 70,000 HP or more, with electromagnetic
+        rotors.</p>
+    </subsection>
+    <subsection>
+      <title>Induction motors</title>
+
+      <p>A more common type of AC motor, widely used for driving pumps and fans, is the
+          <term>induction motor</term>. In most induction motors the rotor is built up of laminated
+        steel plates, into which are inserted a number of conductor <term>bars</term>, connected at
+        the ends by <term>end-connecting rings</term> as shown in <xref ref="fig_24_16_png"/>.
+        Without the core, the conductor bars and end-connecting rings would form a rotating
+        cage-like structure, for which reason this type of motor is often called a
+          <term>squirrel-cage induction motor</term>.</p>
+
+      <figure xml:id="fig_24_16_png">
+        <caption>Squirrel-cage rotor for AC induction motor</caption>
+        <image source="pics/sname/24-16.png" width="75%"/>
+      </figure>
+
+      <p>If a squirrel-cage rotor is placed in the rotating magnetic field of an AC-motor stator,
+        but is locked to prevent its rotation, then as the rotating magnetic field, produced by the
+        stator, crosses the conductor bars it will induce a voltage in these bars, and therefore a
+        current will circulate through the rotor, since the bars are connected together to form a
+        complete circuit. The current in the bars of the rotor produces a magnetic field surrounding
+        the bars, which causes the rotor to act as if it were a permanent magnet or electromagnet.
+        If the rotor were then released it would rotate as any magnet would, and will accelerate
+        towards the synchronous speed of the stator field. However, it will never reach synchronous
+        speed because, if it did, the conductor bars of the rotor would no longer be crossed by the
+        rotating magnetic field of the stator and no induced rotor current or rotor magnetism would
+        result. Therefore, induction-motor rotors always run at a speed slightly less than the
+        synchronous speed in order to induce a voltage and current in the rotor conductor bars. The
+        difference from synchronous speed is called the <term>slip</term> and is defined as follows:
+          <me> \text{\% slip} = \frac{\text{synchronous speed} - \text{actual rotor
+          speed}}{\text{synchronous speed}} \times 100\%</me></p>
+
+
+
+      <p>As the torque on an induction motor increases, the rotor must slow down (slip must
+        increase) so that sufficient current is induced in the conductor bars of the rotor to
+        develop an induced magnetism strong enough to develop the necessary torque. However, it is
+        important to note that the slip is not much more than five percent even at high torque, so
+        that induction motors are almost constant-speed machines when supplied with
+        constant-frequency line power.</p>
+
+      <p>As with synchronous motors, induction~motor stators can have multiple pairs of stator poles
+        for different speed requirements, and that they can easily be reversed by interchanging two
+        of the three line connections.</p>
+    </subsection>
+
+    <subsection>
+      <title>Single-phase motors</title>
+
+      <p>Although most large motors aboard ship are supplied with three-phase power, smaller motors,
+        such as those driving appliances, must operate from single-phase circuits.
+          <term>Single-phase motors</term> are most often arranged with two sets of stator windings,
+        with the second set supplied from the line connections through a <term>capacitor</term>. The
+        capacitor imposes a phase shift on the line current reaching these windings, to make it look
+        like two-phase AC current. The stator is thus able to develop a rotating magnetic field to
+        drive a rotor.</p>
+    </subsection>
+
+    <subsection>
+      <title>DC motors</title>
+
+      <p>In construction, DC motors are similar to DC generators. The traditional advantage that DC
+        motors have had over AC motors is that, unlike AC motors, their speed can be easily
+        controlled over a wide range by a <term>rheostat</term>. A rheostat is an easily adjusted
+        variable resistor that can be connected in series with the motor field windings to control
+        field current and, therefore, motor speed. However, solid-state electronic controls like
+        variable frequency converters are now available, allowing AC motors to be operated with
+        variable speed. Consequently, few DC motors are found aboard modern ships.</p>
+    </subsection>
+  </section>
+  <section xml:id="Transformers">
+    <title>Transformers</title>
+
+    <p>An advantage of AC power is that <term>transformers</term> can be used to easily and
+      efficiently change the magnitude of the voltage to best meet requirements. Transformers are
+      simple, have no moving components, and are easily maintained.</p>
+
+    <p>Transformers convert AC power from one voltage to another by taking advantage of the varying
+      magnetic field developed by an AC current and the fact that this fluctuating magnetic field
+      can induce a voltage in a second conductor. Simple transformers consist of a <term>primary
+        winding</term> wound around a laminated-steel core, which is also wound with a second
+      winding, the <term>secondary winding</term>. Typically the core and windings are arranged as
+      shown in <xref ref="fig_24_17_png"/>. If the secondary winding has more coils or
+        <term>turns</term> than the primary winding, the secondary voltage will be higher than the
+      primary voltage and the transformer is referred to as a <term>step-up</term> transformer.
+      Conversely, if the secondary winding has fewer turns than the primary winding the secondary
+      voltage will be less than the primary voltage, and the transformer is a <term>step-down</term>
+      transformer. The relationships between transformer voltages and currents are as follows, where
+        <m>n</m> is the number of turns in each winding: <md>
+        <mrow>V_1 n_2 \amp= V_2 n_1</mrow>
+
+        <mrow>I_1 n_1 \amp = I_2 n_2</mrow>
+      </md></p>
+
+    <figure xml:id="fig_24_17_png">
+      <caption>Transformer</caption>
+      <image source="pics/sname/24-17.png" width="85%"/>
+    </figure>
+
+    <p>Transformer cores are made of steel laminates which are electrically insulated from each
+      other in order to reduce <term>hysteresis</term> losses in the magnetic core. Overall
+      transformer efficiencies are very high, 98 to 99%.</p>
+
+    <p>Auto-transformers have a core with only one winding, arranged with one or more
+        <term>taps</term>, as shown in <xref ref="fig_24_18_png"/>. The taps are used to take off
+      secondary voltages of lower magnitude than the full secondary voltage. The magnitude of the
+      tapped voltage is dependent on the relative number of turns in the respective sections of the
+      transformer.</p>
+
+    <figure xml:id="fig_24_18_png">
+      <caption>Autotransformer</caption>
+      <image source="pics/sname/24-18.png" width="75%"/>
+    </figure>
+  </section>
+  <section xml:id="Motor_starters">
+    <title>Motor starters</title>
+
+    <subsection>
+      <title>Motor starting current</title>
+
+      <p>When the rotor of an AC motor rotates, the magnetic field surrounding the rotor interacts
+        with the stationary windings to induce a voltage in the windings. This induced voltage is
+        opposite in polarity to the line voltage, and therefore it actually counteracts the effect
+        of the line voltage at the motor terminals. An analogous effect occurs in DC motor
+        armatures, where the induced voltage is called the <term>counter</term> or <term>back
+          electromotive force</term>, or <term>back emf</term>. The induced voltage or back emf
+        limits the current flow through the windings.</p>
+
+      <p>Since a motor rotor needs to be rotating to generate induced voltage or back emf, a motor
+        which is just being started, whose rotor has not yet begun to turn, will have no such
+        induced voltage or back emf. At starting, therefore, current will be limited only by the
+        impedance and resistance of the motor windings. As a result, when full line voltage is
+        applied to a motor at starting the <term>motor starting current</term> will be many times
+        greater than the full-power running current. As the rotor accelerates, the induced voltage
+        or back emf increases, and the current in the line and motor windings falls to normal
+        values.</p>
+
+      <p>High starting currents have two negative effects, which affect large motors in particular.
+        First, the high current in the windings can generate enough heat to damage the motor,
+        especially if the driven load accelerates slowly. Second, the very high starting current can
+        draw down line voltage sufficiently to cause lights to dim and other equipment being
+        supplied from the same line to malfunction. For these reasons all DC motors and large AC
+        motors are started with reduced voltage applied to the motor terminals by a <term>motor
+          starter.</term></p>
+    </subsection>
+    <subsection>
+      <title>Motor starters</title>
+
+      <p>AC motor starters are of two general types, across-the-line starters and reduced-voltage
+        starters.</p>
+
+      <p>Across-the-line starters are commonly used for small and medium-power AC motors where the
+        line capacity is sufficient to prevent objectionable voltage drops upon starting, and where
+        the driven loads allow the motor to accelerate quickly. As the name implies, this type of
+        starter simply closes the necessary contacts to apply full line voltage to the motor
+        terminals. <xref ref="fig_24_19_png"/> depicts a simple across-the-line starter. When the
+        run button is depressed the magnetic-hold solenoid is energized to close the <m>L_1</m>,
+          <m>L_2</m>, and <m>L_3</m> contacts, sending current to the motor. </p>
+
+      <figure xml:id="fig_24_19_png">
+        <caption>Across-the-line starter</caption>
+        <image source="pics/sname/24-19.png" width="75%"/>
+      </figure>
+
+      <p>Reduced-voltage starters are used for larger motors or where the supply lines are not large
+        enough to handle the full starting current. Reduced-voltage AC starters use
+        auto-transformers with one or more taps to obtain the necessary reduced voltage. A simple
+        reduced-voltage starter is shown in <xref ref="fig_24_20_png"/>. Depressing the start button
+        initially supplies current to the motor at reduced voltage, but also starts a timer. As the
+        motor accelerates, the timer bypasses the autotransformer to apply full line voltage to the
+        motor terminals.</p>
+
+      <figure xml:id="fig_24_20_png">
+        <caption>Reduced-voltage starter</caption>
+        <image source="pics/sname/24-20.png" width="80%"/>
+      </figure>
+
+      <p>The simple starters shown in these figures include overload trips, but do not include other
+        protective devices that are normal features of actual starters.</p>
+
+      <p>DC motor starters use resistors to limit the initial starting current. As the motor
+        accelerates the resistors are automatically removed from the circuit.</p>
+    </subsection>
+  </section>
+  <section xml:id="Batteries_and_fuel_cells">
+    <title>Batteries and fuel cells</title>
+
+    <introduction>
+      <p>Batteries and fuel cells are electro-chemical, direct-current power supplies. Batteries
+        provide power for finite periods of time before they are replaced or recharged. Aboard ship,
+        batteries are used as power supplies for portable equipment, as temporary emergency-power
+        sources, and for starting small auxiliary engines. On the other hand, fuel cells are
+        continuous power sources, and while not yet in use aboard ship, they are considered a
+        likely, near-future alternative to generators.</p>
+    </introduction>
+    <subsection>
+      <title>Batteries</title>
+
+      <p>The chemical energy stored in a battery is finite in quantity, and is measured as its
+          <term>ampere-hour capacity</term>. As electric power is drawn from the battery, the
+        chemical energy is depleted until the cells are discharged. Batteries are classified as
+        either <term>primary</term> or <term>secondary</term> depending on whether they are
+        discarded after discharge or are rechargeable, respectively. Most batteries used aboard ship
+        are rechargeable after use.</p>
+
+      <p><term>Dry cells</term> contain an <term>electrolyte</term> in a solid or semi-solid state,
+        while <term>wet cells</term> contain a liquid electrolyte. Dry cells are commonly used for
+        low-power purposes, as in flashlights and other portable equipment. and as back-up supplies
+        for computers. Large, wet-cell <term>storage batteries</term> are used where higher power is
+        required, such as for starting small auxiliary engines, and as short-term power supplies for
+        emergency lighting and control circuits.</p>
+
+      <p>The two most common types of wet-cell storage batteries are the <term>lead-acid</term> and
+        the <term>nickel-cadmium alkali (Nicad)</term> types. Generally, a battery is made up of a
+        number of cells connected in series, with each cell delivering 1.5 volts or less. The state
+        of charge of a battery is determined differently for each type. For lead•acid batteries the
+        charge is determined by measuring the density of the electrolyte with a hydrometer, while
+        the charge of the Nicad batteries is determined by measuring the cell voltage.</p>
+    </subsection>
+    <subsection>
+      <title>Fuel cells</title>
+
+      <p>Fuel cells are similar to·batteries but supply power continuously because the electrolyte
+        is continuously rejuvenated. This rejuvenation is achieved by continuously adding hydrogen
+        and oxygen to the electrolyte. Fuel cells operating on pure hydrogen have been used in space
+        vehicles for years, but advancing technology will allow fuel cell systems to operate on less
+        expensive, readily available hydrocarbon fuels from which the hydrogen can be separated.
+        Fuel-cell systems have the potential to achieve efficiencies higher than those based on
+        engine-driven generators. </p>
+    </subsection>
+  </section>
+  <section xml:id="Shipboard_electric_systems">
+    <title>Shipboard electric systems</title>
+
+    <p>Most American ships use 60 Hz AC supplied at 480 volts. For large shipboard electric plants,
+      where the ship's generating capacity is above 2500 kW, it is often more economical to supply
+      the power at 2400 or 4160 volts. 50 Hz is common on foreign ships. Some naval vessels use 400
+      Hz for special applications.</p>
+
+    <p>Regulations normally require that a ship's electric-generating plant must be capable of
+      supplying the design electric load with one generator shut down. Most ships therefore have two
+      or three <term>ship's-service generators</term>. The ship's-service generators are connected
+      to the <term> main switchboard</term>, which includes generator panels and <term>distribution
+        switchboards</term>, connected by large conductors called bus bars. From the distribution
+      switchboards the power is passed through <term>feeders</term> to other switchboards called
+        <term>load centers</term>, <term>group-control centers</term>, and <term>power
+      panels</term>. These switchboards house <term>circuit breakers</term> and control equipment
+      known collectively as <term>switchgear</term>. <xref ref="fig_24_21_png"/> is a <term>one-line
+        diagram</term>, which shows the electric <term>distribution system</term> for a typical
+      merchant ship. An emergency switchboard is used to supply electric power to vital loads and is
+      normally supplied with power from the main switchboard. In the event of a complete loss of
+      electric power (a <term>black-out</term>) the emergency switchboard is isolated from the main
+      switchboard, and supplied with power from the <term>emergency generator</term>. The emergency
+      generator is required to be located outside of the engine room and above the ship's margin
+      line (3 inches or 75 mm above the bulkhead deck, sometimes referred to the upper deck).</p>
+
+    <figure xml:id="fig_24_21_png">
+      <caption>One-line diagram of electrical distribution system</caption>
+      <image source="pics/sname/24-21.png" width="100%"/>
+    </figure>
+
+    <p>Most shipboard motors driving pumps, compressors, and blowers are 460 volt, three-phase
+      motors. The motors are assumed to receive power at 460 volts, although the power is generated
+      at 480 volts, because of the <term>voltage drop</term> associated with the line losses in the
+      conductors and switchgear. When power levels are high, high voltages (2400 or 4160 volts) are
+      preferable for transmission since, for a given power, the current decreases proportionally as
+      the voltage goes up (power is proportional to the product of voltage and current). Low
+      currents allow smaller conductors and cause lower line losses (line losses are proportional to
+      the square of the current).</p>
+
+    <p>For safety reasons and for commonality with shore-side equipment, the power used for lighting
+      circuits, and for general distribution to accommodation and work areas of a ship, is reduced
+      to a lower voltage by transformers. On American ships 120 volt, single-phase power is normal
+      for these purposes, but 220 volt, single-phase power is common on other vessels. Specialized
+      equipment aboard ship, such as control systems and battery chargers, usually use even lower
+      voltages, with 24 volts being a typical value.</p>
+  </section>
+  <section xml:id="Electric_propulsion">
+    <title>Electric propulsion</title>
+
+    <p>Electric drives for ship propulsion have been used for over 100 years, employing generators
+      driven by steam turbines, diesel engines, or gas turbines to power the <term>propulsion
+        motor</term>(s) on the propeller shaft(s). ln comparison to geared drive, electric drive is
+      more expensive to install, heavier, and less efficient. Electric drive is therefore normally
+      used only where these disadvantages are outweighed by the advantages, which include excellent
+      control of propeller speed and direction, as well as the flexibility of locating the
+      generators and their prime movers in different spaces than the propulsion motors. A further
+      advantage is that the power output from any number of generators can be combined to drive one
+      or more propulsion motors.</p>
+
+    <p>When ship's service power as well as propulsion power is derived from the same generators,
+      the ship is said to have an <term>integrated</term> power plant.</p>
+
+    <p><xref ref="fig_24_22_png"/> shows a modern electric-propulsion system using AC/AC
+      variable-frequency drive. In this system the mechanical prime mover drives an AC generator at
+      constant speed, enabling ship's services to be supplied at constant frequency. For full speed
+      of the ship, the maximum rpm of the propeller can be achieved without the frequency converter,
+      based on the ratio of numbers of poles: <me>\text{rpm}_{\text{motor}} =
+        \text{rpm}_{\text{alternator}} \left(\frac{N_a}{N_m}\right)</me></p>
+
+
+    <figure xml:id="fig_24_22_png">
+      <caption>Electric drive with multiple prime movers and frequency converter</caption>
+      <image source="pics/sname/24-22.png" width="85%"/>
+    </figure>
+
+
+    <p>where <m>N_a</m> and <m>N_m</m> are the numbers of poles in the alternator and propulsion
+      motor respectively. As an example, if the prime mover is a gas turbine running at 3600 rpm,
+      driving a two-pole alternator, and the propulsion motor is a 60-pole synchronous motor
+      directly connected to the propeller shaft, the propeller will turn at 120 rpm. (If an
+      induction motor is used, the propeller rpm will be slightly lower.) For maneuvering, lower
+      propeller rpm is achieved without changing the generator speed by using the frequency
+      converter to reduce the frequency of the power to the propulsion motor. Reversing of the
+      propulsion motor is easily accomplished by switching two of the three leads supplying the
+      motor. </p>
+  </section>
+</chapter>

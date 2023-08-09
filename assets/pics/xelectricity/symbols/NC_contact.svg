@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 101 101" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;">
+    <g transform="matrix(1,0,0,1,-15,-1700)">
+        <g transform="matrix(1.0101,0,0,1.11111,-535.914,447.128)">
+            <rect id="NC_contact" x="546" y="1128" width="99" height="90" style="fill:none;"/>
+            <clipPath id="_clip1">
+                <rect id="NC_contact1" serif:id="NC_contact" x="546" y="1128" width="99" height="90"/>
+            </clipPath>
+            <g clip-path="url(#_clip1)">
+                <g id="variable-cap" serif:id="variable cap" transform="matrix(0.99,0,0,0.9,-706.929,-528.401)">
+                    <g id="CAPACITOR" transform="matrix(1,0,0,1,0,206.97)">
+                        <g transform="matrix(0.999445,-0.0266556,0.0333148,0.799667,-54.2936,373.133)">
+                            <path d="M1305,1669L1304,1699" style="fill:none;stroke:black;stroke-width:3.43px;"/>
+                        </g>
+                        <g transform="matrix(0.999445,-0.0266556,0.0333148,0.799667,-45.2936,373.133)">
+                            <path d="M1305,1669L1304,1699" style="fill:none;stroke:black;stroke-width:3.43px;"/>
+                        </g>
+                        <path d="M1316,1685L1369.51,1685" style="fill:none;stroke:black;stroke-width:3.13px;"/>
+                        <path d="M1249,1685L1304,1685" style="fill:none;stroke:black;stroke-width:3.13px;"/>
+                    </g>
+                    <g transform="matrix(0.902876,-0.0223744,-0.0223744,0.899315,171.153,215.823)">
+                        <path d="M1296,1906.98L1319.05,1885.69" style="fill:none;stroke:black;stroke-width:3.56px;"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

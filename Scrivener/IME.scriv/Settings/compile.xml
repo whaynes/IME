@@ -232,10 +232,11 @@
     </FormatSettings>
     <LastUsedFormats>
         <Print>ms-non-fiction-times</Print>
-        <rtfd>4F6361BD-390C-4858-BD6E-07169B96C632</rtfd>
-        <txt>A3AAA52A-1166-4FF7-8952-3742980C806D</txt>
         <rtf>manuscript-courier</rtf>
-        <epub2>e-book-legacy</epub2>
         <epub3>e-book</epub3>
+        <txt>A3AAA52A-1166-4FF7-8952-3742980C806D</txt>
+        <rtfd>4F6361BD-390C-4858-BD6E-07169B96C632</rtfd>
+        <epub2>e-book-legacy</epub2>
+        <docx>DEFAULT</docx>
     </LastUsedFormats>
 </CompileSettings>

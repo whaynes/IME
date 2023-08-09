@@ -1,0 +1,6 @@
+<p>Batteries and fuel cells are electro-chemical, direct-current power supplies. Batteries
+        provide power for finite periods of time before they are replaced or recharged. Aboard ship,
+        batteries are used as power supplies for portable equipment, as temporary emergency-power
+        sources, and for starting small auxiliary engines. On the other hand, fuel cells are
+        continuous power sources, and while not yet in use aboard ship, they are considered a
+        likely, near-future alternative to generators.</p>

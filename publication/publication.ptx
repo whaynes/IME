@@ -17,7 +17,7 @@
     <!-- of five exercise types (inline/divisional/worksheet/reading/        -->
     <!-- project). Some examples:                                            -->
     <exercise-inline statement="yes" hint="yes" answer="no" solution="no"/>
-    <exercise-divisional statement="yes" hint="yes"/>
+  	<exercise-divisional statement="yes" hint="yes"  answer="no" solution="no"/>
     <!-- Style of fill-in-the-blanks: -->
     <fillin textstyle="underline" mathstyle="shade"/>
     <!-- You can set a watermark: -->
@@ -54,7 +54,7 @@
     <projects level="2"/>
     <equations level="2"/>
     <footnotes level="2"/>
-    <divisions level="3" chapter-start="1"/>
+    <divisions level="4" chapter-start="1"/>
   </numbering>
 
   <!-- LaTeX specific options: set @print="yes" to get pdf set up   -->
@@ -85,9 +85,9 @@
 
     <!-- Whether to knowl a particular elements is set here    -->
     <!-- Lots of elements have this possibility; see the guide -->
-    <knowl theorem="no" proof="yes" definition="no" example="yes" example-solution="yes"
+    <knowl theorem="no" proof="yes" definition="no" example="no" example-solution="yes"
       project="no" task="no" remark="no" objectives="no" outcomes="no" figure="no" table="no"
-      listing="no" list="no" exercise-inline="yes" exercise-divisional="no" exercise-worksheet="no"
+      listing="no" list="no" exercise-inline="no" exercise-divisional="no" exercise-worksheet="no"
       exercise-readingquestion="no"/>
     <!-- Specify the style of the html by giving names to      -->
     <!-- override defaults.  Ex: to use "style_oscarlevin.css" -->

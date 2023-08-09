@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 301 189" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-4,-1943)">
+        <g transform="matrix(0.840336,0,0,0.731518,-473.849,1898.44)">
+            <rect id="ohms-law-example" x="569" y="62" width="357" height="257" style="fill:none;"/>
+            <g id="ohms-law-example1" serif:id="ohms-law-example">
+                <g transform="matrix(1,0,0,1,1.28297,-18.0122)">
+                    <g transform="matrix(1.19,0,0,1.36702,-125.96,-21.3883)">
+                        <g transform="matrix(1,-0,-0,1,582.62,73.3795)">
+                            <path d="M157.63,35.371L173.38,40.621L157.63,45.871L157.63,35.371Z"/>
+                            <path d="M127.38,40.621L160.78,40.621" style="fill:none;stroke:black;stroke-width:3.5px;"/>
+                        </g>
+                    </g>
+                    <g transform="matrix(1.19,0,0,1.36702,566.168,-2578.67)">
+                        <rect x="43.38" y="1968.7" width="215" height="138.202" style="fill:none;stroke:black;stroke-width:3px;stroke-miterlimit:10;"/>
+                    </g>
+                    <g transform="matrix(1.19,0,0,1.36702,-137.279,-27.2176)">
+                        <g transform="matrix(24,0,0,24,885.484,179)">
+                        </g>
+                        <text x="868px" y="179px" style="font-family:'CMUSerif-Italic', 'CMU Serif';font-weight:500;font-style:italic;font-size:24px;">R</text>
+                    </g>
+                    <g transform="matrix(1.19,0,0,1.36702,-171.208,-50.5504)">
+                        <g transform="matrix(24,0,0,24,768.234,159.434)">
+                        </g>
+                        <text x="759px" y="159.434px" style="font-family:'CMUSerif-Italic', 'CMU Serif';font-weight:500;font-style:italic;font-size:24px;">I</text>
+                    </g>
+                </g>
+                <g id="Battery" transform="matrix(-7.28665e-17,1.36702,1.19,8.37059e-17,-1644.72,-625.612)">
+                    <g transform="matrix(-6.12323e-17,1,1,6.12323e-17,-1450.8,1855.96)">
+                        <rect x="36.967" y="2028.43" width="19.026" height="35.212" style="fill:white;"/>
+                    </g>
+                    <g transform="matrix(1,0,0,1,-11.3625,173.244)">
+                        <path d="M589,1709L589,1749" style="fill:none;stroke:black;stroke-width:3px;stroke-linecap:square;stroke-miterlimit:10;"/>
+                        <g transform="matrix(0.998618,0.0525588,-0.0525588,0.998618,91.6779,-28.6725)">
+                            <path d="M600,1719L601,1738" style="fill:none;stroke:black;stroke-width:3px;stroke-linecap:square;stroke-miterlimit:10;"/>
+                        </g>
+                    </g>
+                    <g transform="matrix(1,0,0,1,12.3496,173.445)">
+                        <path d="M589,1709L589,1749" style="fill:none;stroke:black;stroke-width:3px;stroke-linecap:square;stroke-miterlimit:10;"/>
+                        <g transform="matrix(0.998618,0.0525588,-0.0525588,0.998618,91.6779,-28.6725)">
+                            <path d="M600,1719L601,1738" style="fill:none;stroke:black;stroke-width:3px;stroke-linecap:square;stroke-miterlimit:10;"/>
+                        </g>
+                    </g>
+                    <g transform="matrix(1,0,0,1,-10.5,182.244)">
+                        <path d="M574,1700L574,1709" style="fill:none;stroke:black;stroke-width:2.71px;stroke-linecap:square;"/>
+                        <g transform="matrix(6.12323e-17,-1,1,6.12323e-17,-1130.5,2278.5)">
+                            <path d="M574,1700L574,1709" style="fill:none;stroke:black;stroke-width:2.71px;stroke-linecap:square;"/>
+                        </g>
+                    </g>
+                </g>
+                <g id="resistor" transform="matrix(7.36025e-17,1.38083,-1.32222,9.30066e-17,2425.89,-633.254)">
+                    <g transform="matrix(0.99,0,0,0.9,546,-26.7)">
+                        <path d="M32,1333L64,1333" style="fill:none;stroke:white;stroke-width:3.33px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;"/>
+                    </g>
+                    <g id="resistor1" serif:id="resistor" transform="matrix(0.99,0,0,0.9,-709.32,-700.8)">
+                        <path d="M1268,2082L1300,2082L1302,2074L1306,2090L1310,2074L1314,2089.5L1318,2074L1322,2090L1326,2074L1330,2090L1332,2082L1368,2082" style="fill:none;stroke:black;stroke-width:3px;stroke-miterlimit:10;"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

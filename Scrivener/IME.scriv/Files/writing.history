@@ -22,5 +22,19 @@
     <Day dwc="209" dcc="1200" dtwc="6615" owc="58" occ="123" dtcc="45157">2023-06-24</Day>
     <Day dwc="-77" dcc="-483" owc="0" occ="0">2023-06-25</Day>
     <Day dwc="0" dcc="0" owc="0" occ="-120">2023-06-26</Day>
-    <Day dwc="-144" dcc="-1079" owc="0" occ="0">2023-07-06</Day>
+    <Day dwc="-141" dcc="-1053" dtwc="40615" owc="69" occ="1164" dtcc="253793">2023-07-06</Day>
+    <Day dwc="507" dcc="2543" dtwc="9370" owc="0" occ="0" dtcc="57808">2023-08-07</Day>
+    <Day dwc="435" dcc="2765" dtwc="10909" owc="27" occ="108" dtcc="67307">2023-08-08</Day>
+    <Day dwc="524" dcc="4683" dtwc="9327" owc="0" occ="0" dtcc="58537">2023-08-09</Day>
+    <Day dwc="759" dcc="4870" dtwc="9985" owc="0" occ="0" dtcc="62751">2023-08-10</Day>
+    <Day dwc="1461" dcc="11958" dtwc="51336" owc="0" occ="0" dtcc="323933">2023-08-11</Day>
+    <Day dwc="1153" dcc="8553" dtwc="12599" owc="0" occ="0" dtcc="83262">2023-08-12</Day>
+    <Day dwc="-289" dcc="-1631" dtwc="12815" owc="45" occ="246" dtcc="84481">2023-08-13</Day>
+    <Day dwc="70" dcc="462" dtwc="12885" owc="0" occ="0" dtcc="84943">2023-08-14</Day>
+    <Day dwc="1185" dcc="8168" dtwc="30614" owc="0" occ="0" dtcc="203673">2023-08-15</Day>
+    <Day dwc="-389" dcc="-1942" dtwc="29069" owc="0" occ="0" dtcc="194595">2023-08-16</Day>
+    <Day dwc="-230" dcc="-1567" dtwc="28812" owc="0" occ="0" dtcc="192804">2023-08-17</Day>
+    <Day dwc="424" dcc="3058" dtwc="29236" owc="0" occ="0" dtcc="195862">2023-08-18</Day>
+    <Day dwc="503" dcc="3248" dtwc="30486" owc="720" occ="5935" dtcc="205269">2023-08-19</Day>
+    <Day dwc="-188" dcc="-2395" owc="0" occ="0">2023-08-20</Day>
 </WritingHistory>

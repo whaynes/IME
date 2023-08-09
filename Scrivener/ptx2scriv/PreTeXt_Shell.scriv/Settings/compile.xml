@@ -3,6 +3,7 @@
     <ProjectSettings>
         <Content Scope="Included">
             <Filter State="Off" Exclude="No" Type="Label">
+                <CollectionID>AA3D5B2E-5662-4D3A-B5D3-07710DB02173</CollectionID>
                 <Label>-1</Label>
                 <Status>-1</Status>
             </Filter>
@@ -13,7 +14,7 @@
             <ResampleImages DPI="72">No</ResampleImages>
             <ConvertTablesAndListToMMD>Yes</ConvertTablesAndListToMMD>
             <PDF>
-                <Cover Bleed="9.0" BleedUnits="pt"/>
+                <Cover Source="FrontMatter" Bleed="9.0" BleedUnits="pt"/>
                 <Compression Enabled="No">
                     <ImageResolutionCompressionType>Set</ImageResolutionCompressionType>
                     <ImageResolution>150</ImageResolution>
@@ -59,13 +60,8 @@
         </MetaData>
     </ProjectSettings>
     <CurrentFileType>Print</CurrentFileType>
-    <FormatSettings>
-        <Format ID="DEFAULT">
-            <SectionLayouts>
-                <Type ID="E08343E2-5BF9-497B-A227-DD65753362F4">NEW-PAGE-HEADER-WITH-TEXT</Type>
-                <Type ID="55A5C828-E6B5-490E-B741-9A279AE56891">TEXT-SECTION</Type>
-            </SectionLayouts>
-        </Format>
-    </FormatSettings>
-    <LastUsedFormats/>
+    <FormatSettings/>
+    <LastUsedFormats>
+        <Print>50CE0DA7-14E4-4663-8DF9-56FA47C07C0E</Print>
+    </LastUsedFormats>
 </CompileSettings>

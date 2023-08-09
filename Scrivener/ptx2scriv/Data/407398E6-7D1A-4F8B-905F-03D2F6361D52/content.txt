@@ -1,0 +1,27 @@
+<p>
+   <term>Resistance</term> to current flow is symbolized by <m>R</m> and is measured in units
+        of <term>ohms</term>. Resistance can be calculated by <term>Ohm's Law</term>: if <m>E</m> is
+        the voltage and <m>I</m> is the current, <me>R= \frac{E}{I}</me>
+</p>
+<p>The magnitude of the resistance of a conductor is affected by the ease with which electrons
+        (current) flow in the material. If electrons flow easily the material is said to have low
+        resistance. Copper is a better conductor than steel, and is used in most power applications.
+        The resistance also depends on the available area through which the electrons flow, and on
+        the conductor length. As with fluid in a pipe, the narrower or longer the path, the more
+        difficult it is to push the electrons through. Since most electric conductors are round, so
+        that area is proportional to diameter squared, conductor area is often abbreviated to
+        circular mils, where a mil is 0.001 inch, and a circular mil is the diameter squared. As an
+        example a wire of 0.100 inch (100 mil) outside diameter is said to be a 10,000 circular-mil
+        wire. Engineers often identify a conductor by its <term>American Wire Gage</term> (AWG)
+        number. In this system the higher the number, the smaller the diameter, so that #12 wire is
+        thinner than #10 wire.</p>
+<p>Just as friction and other resistance to fluid flow in piping results in a <q>loss</q> of
+        energy, so does the resistance in a conductor result in a <q>loss</q>. This <q>loss</q> is
+        proportional to the square of the current, multiplied by the resistance: <me>\text{
+          resistance "loss"} = I^2 R</me>
+</p>
+<p>Because it is a function of the current squared, a modest increase in current in a
+        conductor results in a much larger <q>loss</q> of energy. This <q>loss</q> manifests itself
+        as heat.</p>
+<p>The unit <term>megohm</term> is a resistance of one million ohms and is used to express the
+        resistance of electric insulation.</p>

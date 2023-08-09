@@ -1,0 +1,4 @@
+<p>An electric motor has a role opposite to that of a generator, in that a motor draws
+        electric power and converts it to mechanical power. Most shipboard motors are AC, because
+        they are smaller and less costly than DC motors of similar power output. DC motors are used
+        only rarely on modern ships. <term>Universal motors</term> operate on either AC or DC.</p>

@@ -1,5 +1,0 @@
-<p> Hundreds of different types of pumps have been invented and improved over the years to
-            meet every conceivable pumping requirement. These pumps differ in principles of
-            operation and in design details; nevertheless, they may be broadly categorized according
-            to their displacement characteristics, their delivery characteristics, and their suction
-            characteristics. These broad categories are described in this section. </p>
