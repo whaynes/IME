@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 300 190" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;">
+    <g transform="matrix(2.32558,0,0,3.51852,-367.442,-577.037)">
+        <rect id="electric_field" x="158" y="164" width="129" height="54" style="fill:none;"/>
+        <clipPath id="_clip1">
+            <rect id="electric_field1" serif:id="electric_field" x="158" y="164" width="129" height="54"/>
+        </clipPath>
+        <g clip-path="url(#_clip1)">
+            <g id="VFPt_charges_plus_minus_thumb.svg" transform="matrix(0.586364,0,0,0.38756,222.5,191.142)">
+                <g transform="matrix(1,0,0,1,-110,-82.5)">
+                    <clipPath id="_clip2">
+                        <rect x="0" y="0" width="220" height="165"/>
+                    </clipPath>
+                    <g clip-path="url(#_clip2)">
+                        <rect id="background" x="0" y="0" width="220" height="165" style="fill:white;"/>
+                        <g id="image" transform="matrix(30,0,0,-30,110,82.5)">
+                            <clipPath id="_clip3">
+                                <rect x="-3.667" y="-2.75" width="7.333" height="5.5"/>
+                            </clipPath>
+                            <g clip-path="url(#_clip3)">
+                                <g id="fieldlines">
+                                    <g id="fieldline1">
+                                        <path d="M-1,0L-0.677,0.063L-0.505,0.093L-0.371,0.113L-0.256,0.127L-0.15,0.135L-0.05,0.139L0.049,0.139L0.15,0.135L0.256,0.127L0.371,0.113L0.505,0.093L0.677,0.063L1,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.03px;"/>
+                                        <g transform="matrix(0.0466569,-0.000952884,0.000952884,0.0466569,0,0.1385)">
+                                            <g id="arrows1">
+                                                <path id="arrow1" d="M0.3,0L-2.2,2.25L3.8,0L-2.2,-2.25L0.3,0Z" style="fill-rule:nonzero;"/>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g id="fieldline2">
+                                        <path d="M-1,0L-0.793,0.137L-0.675,0.21L-0.581,0.265L-0.498,0.308L-0.423,0.343L-0.352,0.372L-0.284,0.395L-0.219,0.412L-0.155,0.426L-0.093,0.434L-0.031,0.438L0.031,0.438L0.093,0.434L0.155,0.426L0.219,0.412L0.284,0.395L0.352,0.372L0.423,0.343L0.498,0.308L0.581,0.265L0.675,0.21L0.793,0.137L1,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.03px;"/>
+                                        <g transform="matrix(0.0465888,-0.00269445,0.00269445,0.0465888,-0.0001,0.4363)">
+                                            <g id="arrows2">
+                                                <path id="arrow11" serif:id="arrow1" d="M0.3,0L-2.2,2.25L3.8,0L-2.2,-2.25L0.3,0Z" style="fill-rule:nonzero;"/>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g id="fieldline3">
+                                        <path d="M-1,0L-0.875,0.186L-0.798,0.293L-0.733,0.377L-0.673,0.448L-0.616,0.509L-0.561,0.563L-0.507,0.61L-0.453,0.651L-0.4,0.687L-0.347,0.718L-0.294,0.744L-0.24,0.765L-0.187,0.782L-0.134,0.795L-0.08,0.803L-0.027,0.808L0.027,0.808L0.08,0.803L0.134,0.795L0.187,0.782L0.24,0.765L0.294,0.744L0.347,0.718L0.4,0.687L0.453,0.651L0.507,0.61L0.561,0.563L0.616,0.509L0.673,0.448L0.733,0.377L0.798,0.293L0.875,0.186L1,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.03px;"/>
+                                        <g id="arrows3">
+                                            <g id="arrow12" serif:id="arrow1" transform="matrix(0.043771,0.0161827,-0.0161827,0.043771,-0.2923,0.7408)">
+                                                <path d="M0.3,0L-2.2,2.25L3.8,0L-2.2,-2.25L0.3,0Z" style="fill-rule:nonzero;"/>
+                                            </g>
+                                            <g id="arrow13" serif:id="arrow1" transform="matrix(0.0414651,-0.0214109,0.0214109,0.0414651,0.292,0.7412)">
+                                                <path d="M0.3,0L-2.2,2.25L3.8,0L-2.2,-2.25L0.3,0Z" style="fill-rule:nonzero;"/>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g id="fieldline4">
+                                        <path d="M-1,0L-0.956,0.215L-0.925,0.347L-0.896,0.456L-0.866,0.552L-0.834,0.639L-0.801,0.719L-0.766,0.793L-0.729,0.861L-0.69,0.924L-0.65,0.982L-0.607,1.036L-0.563,1.085L-0.517,1.13L-0.469,1.17L-0.421,1.206L-0.371,1.238L-0.32,1.266L-0.268,1.289L-0.215,1.308L-0.162,1.323L-0.108,1.333L-0.054,1.34L-0,1.342L0.054,1.34L0.108,1.333L0.162,1.323L0.215,1.308L0.268,1.289L0.32,1.266L0.371,1.238L0.421,1.206L0.469,1.17L0.517,1.13L0.563,1.085L0.607,1.036L0.65,0.982L0.69,0.924L0.729,0.861L0.766,0.793L0.801,0.719L0.834,0.639L0.866,0.552L0.896,0.456L0.925,0.347L0.956,0.215L1,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.03px;"/>
+                                        <g id="arrows4">
+                                            <g id="arrow14" serif:id="arrow1" transform="matrix(0.0291398,0.0364506,-0.0364506,0.0291398,-0.655,0.9712)">
+                                                <path d="M0.3,0L-2.2,2.25L3.8,0L-2.2,-2.25L0.3,0Z" style="fill-rule:nonzero;"/>
+                                            </g>
+                                            <g id="arrow15" serif:id="arrow1" transform="matrix(0.0260349,-0.0387294,0.0387294,0.0260349,0.6551,0.9715)">
+                                                <path d="M0.3,0L-2.2,2.25L3.8,0L-2.2,-2.25L0.3,0Z" style="fill-rule:nonzero;"/>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g id="fieldline5">
+                                        <path d="M-1,0L-1.043,0.224L-1.067,0.37L-1.085,0.496L-1.096,0.613L-1.103,0.722L-1.105,0.826L-1.103,0.925L-1.097,1.021L-1.086,1.114L-1.072,1.203L-1.054,1.29L-1.033,1.373L-1.008,1.453L-0.979,1.53L-0.947,1.603L-0.912,1.674L-0.874,1.74L-0.833,1.803L-0.79,1.863L-0.744,1.919L-0.696,1.97L-0.645,2.019L-0.593,2.063L-0.539,2.103L-0.483,2.139L-0.425,2.17L-0.367,2.198L-0.307,2.221L-0.247,2.241L-0.186,2.255L-0.124,2.266L-0.062,2.273L0,2.275L0.062,2.273L0.124,2.266L0.186,2.255L0.247,2.241L0.307,2.221L0.367,2.198L0.425,2.17L0.483,2.139L0.539,2.103L0.593,2.063L0.645,2.019L0.696,1.97L0.744,1.919L0.79,1.863L0.833,1.803L0.874,1.74L0.912,1.674L0.947,1.603L0.979,1.53L1.008,1.453L1.033,1.373L1.054,1.29L1.072,1.203L1.086,1.114L1.097,1.021L1.103,0.925L1.105,0.826L1.103,0.722L1.096,0.613L1.085,0.496L1.067,0.37L1.043,0.224L1,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.03px;"/>
+                                        <g id="arrows5">
+                                            <g id="arrow16" serif:id="arrow1" transform="matrix(0.00550934,0.0463403,-0.0463403,0.00550934,-1.0941,1.0315)">
+                                                <path d="M0.3,0L-2.2,2.25L3.8,0L-2.2,-2.25L0.3,0Z" style="fill-rule:nonzero;"/>
+                                            </g>
+                                            <g id="arrow17" serif:id="arrow1" transform="matrix(0.0465993,-0.00250741,0.00250741,0.0465993,-0.0002,2.2718)">
+                                                <path d="M0.3,0L-2.2,2.25L3.8,0L-2.2,-2.25L0.3,0Z" style="fill-rule:nonzero;"/>
+                                            </g>
+                                            <g id="arrow18" serif:id="arrow1" transform="matrix(0.00324718,-0.0465536,0.0465536,0.00324718,1.0941,1.0315)">
+                                                <path d="M0.3,0L-2.2,2.25L3.8,0L-2.2,-2.25L0.3,0Z" style="fill-rule:nonzero;"/>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g id="fieldline6">
+                                        <path d="M-1,0L-1.132,0.2L-1.221,0.34L-1.296,0.466L-1.363,0.586L-1.423,0.702L-1.478,0.816L-1.528,0.929L-1.574,1.042L-1.615,1.154L-1.652,1.265L-1.685,1.377L-1.714,1.488L-1.738,1.599L-1.759,1.709L-1.775,1.819L-1.787,1.929L-1.796,2.038L-1.8,2.145L-1.8,2.252L-1.797,2.358L-1.789,2.463L-1.778,2.566L-1.763,2.667L-1.744,2.767M1.744,2.767L1.763,2.667L1.778,2.566L1.789,2.463L1.797,2.358L1.8,2.252L1.8,2.145L1.796,2.038L1.787,1.929L1.775,1.819L1.759,1.709L1.738,1.599L1.714,1.488L1.685,1.377L1.652,1.265L1.615,1.154L1.574,1.042L1.528,0.929L1.478,0.816L1.423,0.702L1.363,0.586L1.296,0.466L1.221,0.34L1.132,0.2L1,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.03px;"/>
+                                        <g id="arrows6">
+                                            <g id="arrow19" serif:id="arrow1" transform="matrix(-0.0180841,0.0430203,-0.0430203,-0.0180841,-1.5152,0.9015)">
+                                                <path d="M0.3,0L-2.2,2.25L3.8,0L-2.2,-2.25L0.3,0Z" style="fill-rule:nonzero;"/>
+                                            </g>
+                                            <g id="arrow110" serif:id="arrow1" transform="matrix(-0.00046425,0.0466644,-0.0466644,-0.00046425,-1.7984,2.134)">
+                                                <path d="M0.3,0L-2.2,2.25L3.8,0L-2.2,-2.25L0.3,0Z" style="fill-rule:nonzero;"/>
+                                            </g>
+                                            <g id="arrow111" serif:id="arrow1" transform="matrix(-0.00202743,-0.0466226,0.0466226,-0.00202743,1.7985,2.1341)">
+                                                <path d="M0.3,0L-2.2,2.25L3.8,0L-2.2,-2.25L0.3,0Z" style="fill-rule:nonzero;"/>
+                                            </g>
+                                            <g id="arrow112" serif:id="arrow1" transform="matrix(-0.0192485,-0.042512,0.042512,-0.0192485,1.5155,0.9014)">
+                                                <path d="M0.3,0L-2.2,2.25L3.8,0L-2.2,-2.25L0.3,0Z" style="fill-rule:nonzero;"/>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g id="fieldline7">
+                                        <path d="M-1,0L-1.242,0.163L-1.413,0.283L-1.567,0.396L-1.712,0.508L-1.852,0.62L-1.987,0.734L-2.119,0.85L-2.247,0.969L-2.372,1.09L-2.494,1.214L-2.614,1.342L-2.73,1.472L-2.844,1.605L-2.955,1.741L-3.062,1.88L-3.167,2.022L-3.268,2.166L-3.366,2.313L-3.461,2.462L-3.552,2.613L-3.64,2.767M3.64,2.767L3.552,2.613L3.461,2.462L3.366,2.313L3.268,2.166L3.167,2.022L3.062,1.88L2.955,1.741L2.844,1.605L2.73,1.472L2.614,1.342L2.494,1.214L2.372,1.09L2.247,0.969L2.119,0.85L1.987,0.734L1.852,0.62L1.712,0.508L1.567,0.396L1.413,0.283L1.242,0.163L1,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.03px;"/>
+                                        <g id="arrows7">
+                                            <g id="arrow113" serif:id="arrow1" transform="matrix(-0.0358845,0.0298342,-0.0298342,-0.0358845,-1.8407,0.6114)">
+                                                <path d="M0.3,0L-2.2,2.25L3.8,0L-2.2,-2.25L0.3,0Z" style="fill-rule:nonzero;"/>
+                                            </g>
+                                            <g id="arrow114" serif:id="arrow1" transform="matrix(-0.0273244,0.0378306,-0.0378306,-0.0273244,-3.1319,1.975)">
+                                                <path d="M0.3,0L-2.2,2.25L3.8,0L-2.2,-2.25L0.3,0Z" style="fill-rule:nonzero;"/>
+                                            </g>
+                                            <g id="arrow115" serif:id="arrow1" transform="matrix(-0.0278042,-0.0374794,0.0374794,-0.0278042,3.1321,1.9748)">
+                                                <path d="M0.3,0L-2.2,2.25L3.8,0L-2.2,-2.25L0.3,0Z" style="fill-rule:nonzero;"/>
+                                            </g>
+                                            <g id="arrow116" serif:id="arrow1" transform="matrix(-0.0363027,-0.029324,0.029324,-0.0363027,1.8408,0.6113)">
+                                                <path d="M0.3,0L-2.2,2.25L3.8,0L-2.2,-2.25L0.3,0Z" style="fill-rule:nonzero;"/>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g id="fieldline8">
+                                        <path d="M-1,0L-1.433,0.088L-1.769,0.16L-2.088,0.232L-2.403,0.308L-2.719,0.389L-3.037,0.474L-3.359,0.565L-3.683,0.661M3.683,0.661L3.359,0.565L3.037,0.474L2.719,0.389L2.403,0.308L2.088,0.232L1.769,0.16L1.433,0.088L1,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.03px;"/>
+                                        <g id="arrows8">
+                                            <g id="arrow117" serif:id="arrow1" transform="matrix(-0.0454541,0.0105691,-0.0105691,-0.0454541,-2.0172,0.2163)">
+                                                <path d="M0.3,0L-2.2,2.25L3.8,0L-2.2,-2.25L0.3,0Z" style="fill-rule:nonzero;"/>
+                                            </g>
+                                            <g id="arrow118" serif:id="arrow1" transform="matrix(-0.0449124,0.0126751,-0.0126751,-0.0449124,-3.1312,0.5008)">
+                                                <path d="M0.3,0L-2.2,2.25L3.8,0L-2.2,-2.25L0.3,0Z" style="fill-rule:nonzero;"/>
+                                            </g>
+                                            <g id="arrow119" serif:id="arrow1" transform="matrix(-0.0449454,-0.0125574,0.0125574,-0.0449454,3.1312,0.5009)">
+                                                <path d="M0.3,0L-2.2,2.25L3.8,0L-2.2,-2.25L0.3,0Z" style="fill-rule:nonzero;"/>
+                                            </g>
+                                            <g id="arrow120" serif:id="arrow1" transform="matrix(-0.0455034,-0.0103548,0.0103548,-0.0455034,2.0172,0.2161)">
+                                                <path d="M0.3,0L-2.2,2.25L3.8,0L-2.2,-2.25L0.3,0Z" style="fill-rule:nonzero;"/>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g id="fieldline9">
+                                        <path d="M-1,0L-1.433,-0.088L-1.769,-0.16L-2.088,-0.232L-2.403,-0.308L-2.719,-0.389L-3.037,-0.474L-3.359,-0.565L-3.683,-0.661M3.683,-0.661L3.359,-0.565L3.037,-0.474L2.719,-0.389L2.403,-0.308L2.088,-0.232L1.769,-0.16L1.433,-0.088L1,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.03px;"/>
+                                        <g id="arrows9">
+                                            <g id="arrow121" serif:id="arrow1" transform="matrix(-0.0454541,-0.0105691,0.0105691,-0.0454541,-2.0172,-0.2163)">
+                                                <path d="M0.3,0L-2.2,2.25L3.8,0L-2.2,-2.25L0.3,0Z" style="fill-rule:nonzero;"/>
+                                            </g>
+                                            <g id="arrow122" serif:id="arrow1" transform="matrix(-0.0449124,-0.0126751,0.0126751,-0.0449124,-3.1312,-0.5008)">
+                                                <path d="M0.3,0L-2.2,2.25L3.8,0L-2.2,-2.25L0.3,0Z" style="fill-rule:nonzero;"/>
+                                            </g>
+                                            <g id="arrow123" serif:id="arrow1" transform="matrix(-0.0449454,0.0125574,-0.0125574,-0.0449454,3.1312,-0.5009)">
+                                                <path d="M0.3,0L-2.2,2.25L3.8,0L-2.2,-2.25L0.3,0Z" style="fill-rule:nonzero;"/>
+                                            </g>
+                                            <g id="arrow124" serif:id="arrow1" transform="matrix(-0.0455034,0.0103548,-0.0103548,-0.0455034,2.0172,-0.2161)">
+                                                <path d="M0.3,0L-2.2,2.25L3.8,0L-2.2,-2.25L0.3,0Z" style="fill-rule:nonzero;"/>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g id="fieldline10">
+                                        <path d="M-1,0L-1.242,-0.163L-1.413,-0.283L-1.567,-0.396L-1.712,-0.508L-1.852,-0.62L-1.987,-0.734L-2.119,-0.85L-2.247,-0.969L-2.372,-1.09L-2.494,-1.214L-2.614,-1.342L-2.73,-1.472L-2.844,-1.605L-2.955,-1.741L-3.062,-1.88L-3.167,-2.022L-3.268,-2.166L-3.366,-2.313L-3.461,-2.462L-3.552,-2.613L-3.64,-2.767M3.64,-2.767L3.552,-2.613L3.461,-2.462L3.366,-2.313L3.268,-2.166L3.167,-2.022L3.062,-1.88L2.955,-1.741L2.844,-1.605L2.73,-1.472L2.614,-1.342L2.494,-1.214L2.372,-1.09L2.247,-0.969L2.119,-0.85L1.987,-0.734L1.852,-0.62L1.712,-0.508L1.567,-0.396L1.413,-0.283L1.242,-0.163L1,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.03px;"/>
+                                        <g id="arrows10">
+                                            <g id="arrow125" serif:id="arrow1" transform="matrix(-0.0358845,-0.0298342,0.0298342,-0.0358845,-1.8407,-0.6114)">
+                                                <path d="M0.3,0L-2.2,2.25L3.8,0L-2.2,-2.25L0.3,0Z" style="fill-rule:nonzero;"/>
+                                            </g>
+                                            <g id="arrow126" serif:id="arrow1" transform="matrix(-0.0273244,-0.0378306,0.0378306,-0.0273244,-3.1319,-1.975)">
+                                                <path d="M0.3,0L-2.2,2.25L3.8,0L-2.2,-2.25L0.3,0Z" style="fill-rule:nonzero;"/>
+                                            </g>
+                                            <g id="arrow127" serif:id="arrow1" transform="matrix(-0.0278042,0.0374794,-0.0374794,-0.0278042,3.1321,-1.9748)">
+                                                <path d="M0.3,0L-2.2,2.25L3.8,0L-2.2,-2.25L0.3,0Z" style="fill-rule:nonzero;"/>
+                                            </g>
+                                            <g id="arrow128" serif:id="arrow1" transform="matrix(-0.0363027,0.029324,-0.029324,-0.0363027,1.8408,-0.6113)">
+                                                <path d="M0.3,0L-2.2,2.25L3.8,0L-2.2,-2.25L0.3,0Z" style="fill-rule:nonzero;"/>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g id="fieldline11">
+                                        <path d="M-1,0L-1.132,-0.2L-1.221,-0.34L-1.296,-0.466L-1.363,-0.586L-1.423,-0.702L-1.478,-0.816L-1.528,-0.929L-1.574,-1.042L-1.615,-1.154L-1.652,-1.265L-1.685,-1.377L-1.714,-1.488L-1.738,-1.599L-1.759,-1.709L-1.775,-1.819L-1.787,-1.929L-1.796,-2.038L-1.8,-2.145L-1.8,-2.252L-1.797,-2.358L-1.789,-2.463L-1.778,-2.566L-1.763,-2.667L-1.744,-2.767M1.744,-2.767L1.763,-2.667L1.778,-2.566L1.789,-2.463L1.797,-2.358L1.8,-2.252L1.8,-2.145L1.796,-2.038L1.787,-1.929L1.775,-1.819L1.759,-1.709L1.738,-1.599L1.714,-1.488L1.685,-1.377L1.652,-1.265L1.615,-1.154L1.574,-1.042L1.528,-0.929L1.478,-0.816L1.423,-0.702L1.363,-0.586L1.296,-0.466L1.221,-0.34L1.132,-0.2L1,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.03px;"/>
+                                        <g id="arrows11">
+                                            <g id="arrow129" serif:id="arrow1" transform="matrix(-0.0180841,-0.0430203,0.0430203,-0.0180841,-1.5152,-0.9015)">
+                                                <path d="M0.3,0L-2.2,2.25L3.8,0L-2.2,-2.25L0.3,0Z" style="fill-rule:nonzero;"/>
+                                            </g>
+                                            <g id="arrow130" serif:id="arrow1" transform="matrix(-0.00046425,-0.0466644,0.0466644,-0.00046425,-1.7984,-2.134)">
+                                                <path d="M0.3,0L-2.2,2.25L3.8,0L-2.2,-2.25L0.3,0Z" style="fill-rule:nonzero;"/>
+                                            </g>
+                                            <g id="arrow131" serif:id="arrow1" transform="matrix(-0.00202743,0.0466226,-0.0466226,-0.00202743,1.7985,-2.1341)">
+                                                <path d="M0.3,0L-2.2,2.25L3.8,0L-2.2,-2.25L0.3,0Z" style="fill-rule:nonzero;"/>
+                                            </g>
+                                            <g id="arrow132" serif:id="arrow1" transform="matrix(-0.0192485,0.042512,-0.042512,-0.0192485,1.5155,-0.9014)">
+                                                <path d="M0.3,0L-2.2,2.25L3.8,0L-2.2,-2.25L0.3,0Z" style="fill-rule:nonzero;"/>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g id="fieldline12">
+                                        <path d="M-1,0L-1.043,-0.224L-1.067,-0.37L-1.085,-0.496L-1.096,-0.613L-1.103,-0.722L-1.105,-0.826L-1.103,-0.925L-1.097,-1.021L-1.086,-1.114L-1.072,-1.203L-1.054,-1.29L-1.033,-1.373L-1.008,-1.453L-0.979,-1.53L-0.947,-1.603L-0.912,-1.674L-0.874,-1.74L-0.833,-1.803L-0.79,-1.863L-0.744,-1.919L-0.696,-1.97L-0.645,-2.019L-0.593,-2.063L-0.539,-2.103L-0.483,-2.139L-0.425,-2.17L-0.367,-2.198L-0.307,-2.221L-0.247,-2.241L-0.186,-2.255L-0.124,-2.266L-0.062,-2.273L0,-2.275L0.062,-2.273L0.124,-2.266L0.186,-2.255L0.247,-2.241L0.307,-2.221L0.367,-2.198L0.425,-2.17L0.483,-2.139L0.539,-2.103L0.593,-2.063L0.645,-2.019L0.696,-1.97L0.744,-1.919L0.79,-1.863L0.833,-1.803L0.874,-1.74L0.912,-1.674L0.947,-1.603L0.979,-1.53L1.008,-1.453L1.033,-1.373L1.054,-1.29L1.072,-1.203L1.086,-1.114L1.097,-1.021L1.103,-0.925L1.105,-0.826L1.103,-0.722L1.096,-0.613L1.085,-0.496L1.067,-0.37L1.043,-0.224L1,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.03px;"/>
+                                        <g id="arrows12">
+                                            <g id="arrow133" serif:id="arrow1" transform="matrix(0.00550934,-0.0463403,0.0463403,0.00550934,-1.0941,-1.0315)">
+                                                <path d="M0.3,0L-2.2,2.25L3.8,0L-2.2,-2.25L0.3,0Z" style="fill-rule:nonzero;"/>
+                                            </g>
+                                            <g id="arrow134" serif:id="arrow1" transform="matrix(0.0465993,0.00250741,-0.00250741,0.0465993,-0.0002,-2.2718)">
+                                                <path d="M0.3,0L-2.2,2.25L3.8,0L-2.2,-2.25L0.3,0Z" style="fill-rule:nonzero;"/>
+                                            </g>
+                                            <g id="arrow135" serif:id="arrow1" transform="matrix(0.00324718,0.0465536,-0.0465536,0.00324718,1.0941,-1.0315)">
+                                                <path d="M0.3,0L-2.2,2.25L3.8,0L-2.2,-2.25L0.3,0Z" style="fill-rule:nonzero;"/>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g id="fieldline13">
+                                        <path d="M-1,0L-0.956,-0.215L-0.925,-0.347L-0.896,-0.456L-0.866,-0.552L-0.834,-0.639L-0.801,-0.719L-0.766,-0.793L-0.729,-0.861L-0.69,-0.924L-0.65,-0.982L-0.607,-1.036L-0.563,-1.085L-0.517,-1.13L-0.469,-1.17L-0.421,-1.206L-0.371,-1.238L-0.32,-1.266L-0.268,-1.289L-0.215,-1.308L-0.162,-1.323L-0.108,-1.333L-0.054,-1.34L-0,-1.342L0.054,-1.34L0.108,-1.333L0.162,-1.323L0.215,-1.308L0.268,-1.289L0.32,-1.266L0.371,-1.238L0.421,-1.206L0.469,-1.17L0.517,-1.13L0.563,-1.085L0.607,-1.036L0.65,-0.982L0.69,-0.924L0.729,-0.861L0.766,-0.793L0.801,-0.719L0.834,-0.639L0.866,-0.552L0.896,-0.456L0.925,-0.347L0.956,-0.215L1,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.03px;"/>
+                                        <g id="arrows13">
+                                            <g id="arrow136" serif:id="arrow1" transform="matrix(0.0291398,-0.0364506,0.0364506,0.0291398,-0.655,-0.9712)">
+                                                <path d="M0.3,0L-2.2,2.25L3.8,0L-2.2,-2.25L0.3,0Z" style="fill-rule:nonzero;"/>
+                                            </g>
+                                            <g id="arrow137" serif:id="arrow1" transform="matrix(0.0260349,0.0387294,-0.0387294,0.0260349,0.6551,-0.9715)">
+                                                <path d="M0.3,0L-2.2,2.25L3.8,0L-2.2,-2.25L0.3,0Z" style="fill-rule:nonzero;"/>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g id="fieldline14">
+                                        <path d="M-1,0L-0.875,-0.186L-0.798,-0.293L-0.733,-0.377L-0.673,-0.448L-0.616,-0.509L-0.561,-0.563L-0.507,-0.61L-0.453,-0.651L-0.4,-0.687L-0.347,-0.718L-0.294,-0.744L-0.24,-0.765L-0.187,-0.782L-0.134,-0.795L-0.08,-0.803L-0.027,-0.808L0.027,-0.808L0.08,-0.803L0.134,-0.795L0.187,-0.782L0.24,-0.765L0.294,-0.744L0.347,-0.718L0.4,-0.687L0.453,-0.651L0.507,-0.61L0.561,-0.563L0.616,-0.509L0.673,-0.448L0.733,-0.377L0.798,-0.293L0.875,-0.186L1,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.03px;"/>
+                                        <g id="arrows14">
+                                            <g id="arrow138" serif:id="arrow1" transform="matrix(0.043771,-0.0161827,0.0161827,0.043771,-0.2923,-0.7408)">
+                                                <path d="M0.3,0L-2.2,2.25L3.8,0L-2.2,-2.25L0.3,0Z" style="fill-rule:nonzero;"/>
+                                            </g>
+                                            <g id="arrow139" serif:id="arrow1" transform="matrix(0.0414651,0.0214109,-0.0214109,0.0414651,0.292,-0.7412)">
+                                                <path d="M0.3,0L-2.2,2.25L3.8,0L-2.2,-2.25L0.3,0Z" style="fill-rule:nonzero;"/>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g id="fieldline15">
+                                        <path d="M-1,0L-0.793,-0.137L-0.675,-0.21L-0.581,-0.265L-0.498,-0.308L-0.423,-0.343L-0.352,-0.372L-0.284,-0.395L-0.219,-0.412L-0.155,-0.426L-0.093,-0.434L-0.031,-0.438L0.031,-0.438L0.093,-0.434L0.155,-0.426L0.219,-0.412L0.284,-0.395L0.352,-0.372L0.423,-0.343L0.498,-0.308L0.581,-0.265L0.675,-0.21L0.793,-0.137L1,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.03px;"/>
+                                        <g transform="matrix(0.0465888,0.00269445,-0.00269445,0.0465888,-0.0001,-0.4363)">
+                                            <g id="arrows15">
+                                                <path id="arrow140" serif:id="arrow1" d="M0.3,0L-2.2,2.25L3.8,0L-2.2,-2.25L0.3,0Z" style="fill-rule:nonzero;"/>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g id="fieldline16">
+                                        <path d="M-1,0L-0.677,-0.063L-0.505,-0.093L-0.371,-0.113L-0.256,-0.127L-0.15,-0.135L-0.05,-0.139L0.049,-0.139L0.15,-0.135L0.256,-0.127L0.371,-0.113L0.505,-0.093L0.677,-0.063L1,0" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.03px;"/>
+                                        <g transform="matrix(0.0466569,0.000952884,-0.000952884,0.0466569,0,-0.1385)">
+                                            <g id="arrows16">
+                                                <path id="arrow141" serif:id="arrow1" d="M0.3,0L-2.2,2.25L3.8,0L-2.2,-2.25L0.3,0Z" style="fill-rule:nonzero;"/>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                                <g id="symbols">
+                                    <g id="charge1" transform="matrix(0.0261905,0,0,0.0261905,-1,0)">
+                                        <circle cx="0" cy="0" r="14" style="fill:rgb(255,0,0);"/>
+                                        <circle cx="0" cy="0" r="14" style="fill:url(#_Radial4);stroke:black;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;"/>
+                                        <path d="M2,2L2,8L-2,8L-2,2L-8,2L-8,-2L-2,-2L-2,-8L2,-8L2,-2L8,-2L8,2L2,2Z" style="fill-rule:nonzero;"/>
+                                    </g>
+                                    <g id="charge2" transform="matrix(0.0261905,0,0,0.0261905,1,0)">
+                                        <circle cx="0" cy="0" r="14" style="fill:rgb(0,0,255);"/>
+                                        <circle cx="0" cy="0" r="14" style="fill:url(#_Radial5);stroke:black;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;"/>
+                                        <rect x="-8" y="-2" width="16" height="4" style="fill-rule:nonzero;"/>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <defs>
+        <radialGradient id="_Radial4" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(21,0,0,21,4.2,5.6)"><stop offset="0" style="stop-color:white;stop-opacity:0.7"/><stop offset="0.1" style="stop-color:white;stop-opacity:0.5"/><stop offset="0.6" style="stop-color:white;stop-opacity:0"/><stop offset="0.6" style="stop-color:black;stop-opacity:0"/><stop offset="0.75" style="stop-color:black;stop-opacity:0.05"/><stop offset="0.85" style="stop-color:black;stop-opacity:0.15"/><stop offset="1" style="stop-color:black;stop-opacity:0.5"/></radialGradient>
+        <radialGradient id="_Radial5" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(21,0,0,21,4.2,5.6)"><stop offset="0" style="stop-color:white;stop-opacity:0.7"/><stop offset="0.1" style="stop-color:white;stop-opacity:0.5"/><stop offset="0.6" style="stop-color:white;stop-opacity:0"/><stop offset="0.6" style="stop-color:black;stop-opacity:0"/><stop offset="0.75" style="stop-color:black;stop-opacity:0.05"/><stop offset="0.85" style="stop-color:black;stop-opacity:0.15"/><stop offset="1" style="stop-color:black;stop-opacity:0.5"/></radialGradient>
+    </defs>
+</svg>

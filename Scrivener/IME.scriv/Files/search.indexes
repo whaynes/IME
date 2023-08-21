@@ -398,7 +398,7 @@ The upper part of the bonnet on this particular valve is split into two supporti
             <Title>Transformers</Title>
         </Document>
         <Document ID="1CB996C0-251D-4B0B-852C-A8B7E4087242">
-            <Title>Lock out-Tag out</Title>
+            <Title>Lockout-Tagout</Title>
         </Document>
         <Document ID="8ECCBCCE-C0A6-41A0-AD48-8268FE3E9605">
             <Title>Electrocution</Title>
@@ -531,13 +531,36 @@ Because the source of the excitation in this generator is from permanent magnets
 </Text>
         </Document>
         <Document ID="6A664494-B5BB-4CB0-8BA9-B956F61D5B46">
-            <Text>TBD</Text>
+            <Title>Procedure</Title>
+            <Text>&lt;sidebyside width="48%" margin="0" valign="middle"&gt;
+Lockout-Tagout (LOTO) is a safety procedure used to ensure that dangerous equipment is properly shut down, isolated from energy sources, and secured while undergoing maintenance or repair. The goal of LOTO is to prevent unexpected startup or release of stored energy, which could lead to serious injuries or fatalities for workers involved in maintenance or repair activities.
+&lt;figure xml:id="fig_612524341066_T9-13"&gt;
+&lt;caption&gt; Lockout Tag &lt;/caption&gt;
+&lt;image width="40%" source="pics/safety/612524341066_T9-13.png"&gt;
+&lt;remix&gt; &lt;![CDATA[  https://www.idescosafety.com/  ]]&gt;&lt;/remix&gt;
+&lt;/image&gt;
+&lt;/figure&gt;
+&lt;/sidebyside&gt;
+Lockout refers to disabling a piece of equipment or machinery by isolating it from its energy sources (electrical, mechanical, hydraulic, pneumatic, chemical, thermal or other), and placing a physical lock on the isolating devices (such as switches, valves, or breakers) that control those energy sources. 
+Tagout refers to affixing a label or tag that communicates information about equipment's status and the ongoing maintenance activities. The tag typically includes information about the equipment being serviced, the reason for the lockout/tagout, the name of the authorized person who applied the lock and tag, contact information, and the expected duration of the job &lt;etc/&gt;
+The steps of the LOTO process are: &lt;ol&gt;
+Identify the equipment or machinery that needs maintenance or repair.
+Inform all affected personell that a LOTO procedure will be performed on the identified equipment.
+Shut down the equipment using the appropriate procedures outlined in the manufacturer's instructions or company protocols.
+Physically isolate the equipment from its energy sources. This might involve locking out switches, valves, or other control mechanisms. In some cases, this can involve disconnecting power sources, bleeding fluids, or other actions to ensure there's no energy flowing to the equipment.
+Place a lock on the energy-isolating device to prevent it from being operated. A tag is also attached to the lock indicating who performed the lockout and why. This helps communicate that the equipment is being worked on and should not be operated.
+Ensure that any residual or stored energy in the equipment is safely released. This might involve releasing pressure, tension, or any other forms of stored energy.
+Verify that the equipment is truly isolated by attempting to start or activate it. This step is important to confirm that the energy sources have been effectively disconnected.
+Perform the necessary maintenance, repairs, or servicing on the equipment while it is in the locked and tagged state.
+Once the maintenance or servicing is complete, the person who performed the LOTO procedure removes the locks and tags, and the equipment is ready to be safely restarted.
+&lt;/ol&gt;&lt;/p&gt;
+</Text>
         </Document>
         <Document ID="3218A0EE-12F2-45DC-84CB-5817CF94E8AB">
             <Title>Check Valves</Title>
         </Document>
         <Document ID="98E4FA7C-719B-4827-8431-5FFC66DFE5EA">
-            <Title>ILC &lt;ndash/&gt; Inverter Local Contol</Title>
+            <Title>Inverter Local Contol (ILC)</Title>
             <Text>The ILC cubicle contains instrumentation to measure the DC link voltage, output current measurements, and the DC link grounding switch.  
 This module also protects the inverter and DC bus from damage caused by the propulsion motors when the ship is slowing down.  During these periods the momentum of the ship will drive the propellor and motor, causing the motors to behave like generators and produce electrical power.  
 Excessive electrical power cannot be fed back into the electrical distribution system, so when the DC bus reaches a certain voltage, the excess energy is shunted through a chopper unit to braking resistors.  The braking resistors are located near the converter rooms, and are capable of dissipating up to 10 MJ for 20 seconds once every 30 minutes</Text>
@@ -2495,7 +2518,6 @@ In a three-phase wye circuit, &lt;mdn&gt;
             <Text>Keep your work area clean, organized, and free of clutter. Properly stow tools and equipment after use to prevent trip hazards. Promptly clean up any spills or debris to maintain a safe working environment.</Text>
         </Document>
         <Document ID="52A63732-E948-4F44-93C5-FD01F315E5A1">
-            <Title>CLC &lt;ndash/&gt; Converter Local Control</Title>
             <Text>This Converter Local Control cabinet contains equipment to monitor and control the converter, including:&lt;ul&gt;&lt;li&gt;
 Main PLC.  The primary function of this Programmable Logic Controller is to control the sequences, safeties and regulation of the converter and control of motor speed and torque. It acquires signals from various current and voltage measurements and gates the inverter IGBTs accordingly. 
 Additional tasks of the controller include control of the incoming AC supply breaker, protection of motor and converter, auxiliaries and the interface to the customer application software.
@@ -2770,6 +2792,18 @@ Contactors are relays designed to handle higher voltages and currents than typic
 &lt;/sidebyside&gt;
 &lt;/figure&gt;</Text>
         </Document>
+        <Document ID="7B72A900-9796-41AE-A7D7-C1E38D1349E0">
+            <Title>Introduction</Title>
+            <Text>The components of the propulsion converter are housed in eight connected cabinets.  Each cabinet supports a particular function, as described below: 
+
+&lt;figure xml:id="MV7000_internal"&gt;
+&lt;caption&gt;  Drive Cabinets, interior &lt;/caption&gt;
+&lt;image width="100%" source="pics/Eprop/MV7000_internal.png"&gt;
+&lt;remix&gt;&lt;![CDATA[   Source: GEA30737C MV7000 Press Pack    ]]&gt;&lt;/remix&gt;
+&lt;/image&gt;
+&lt;/figure&gt;
+</Text>
+        </Document>
         <Document ID="34014151-A0E1-4C76-A85F-CA46CEA1AF00">
             <Title>Work</Title>
             <Text>Mechanical energy in transition is called &lt;em&gt;work.&lt;/em&gt; When an object is moved through a distance against a resisting force, we say that work has been done. The formula for calculating work is:  &lt;me&gt;W=Fd&lt;/me&gt;
@@ -2838,7 +2872,6 @@ Maintain proper lighting to ensure visibility within the confined space. Establi
 </Text>
         </Document>
         <Document ID="DC012F76-010A-429A-BD5A-35EA344C9913">
-            <Title>DFE &lt;ndash/&gt; Diode Front End Section</Title>
             <Text>This section contains the Diode Front Edge bridge. This bridge receives the output of the two secondary windings of the propulsion transformer and rectifies this to a DC voltage in the diode bridge. 
 The propulsion transformers reduce the network voltage (6,600 V) to the requirements of the frequency converters (1,850V).   The transformers have a single primary winding, delta connected, and two secondary windings, one is delta connected and the other is wye connected. This provides a 30° phase shift in one of the supplies to the diode front end.  This arrangement effectively provides a 12-pulse configuration that reduces harmful harmonics. 
 The diode bridge is made up of four stacks of six diodes, one stack to each transformer secondary. The output is passed to the DC Capacitor and filter circuit in the DCC cabinet . 
@@ -2942,7 +2975,7 @@ This definition of current, sometimes called conventional current for clarity, i
 </Text>
         </Document>
         <Document ID="1F3754F5-9DDA-45BC-9FF8-577A09BA1DE1">
-            <Title>PRE &lt;ndash/&gt; Pre-charging</Title>
+            <Title>Pre-charging (PRE)</Title>
             <Text>The pre&lt;ndash/&gt;magnetization (pre&lt;ndash/&gt;charging) transformer and switchgear for the pre&lt;ndash/&gt;magnetizing of the propulsion transformer and the DC filter capacitors is located in this section.
 During startup, magnetizing the main transformers and charging the DC filter capacitors will draw a large (&gt; 400 A) current which can affect other parts of the electrical distribution system if not controlled.  The pre-charging system reduces the peak currents by limiting the charging rate with resistors and spreading the charging/magnetizing cycle out over about 10 minutes.
 Power for pre-charging is supplied by a 440 V circuit from the main switchboard.
@@ -3003,7 +3036,7 @@ The most common scale used on vacuum gages aboard ship display vacuum in inches 
             <Title>Power</Title>
         </Document>
         <Document ID="192D5ED8-D9E3-455C-9B19-1A6B237D525F">
-            <Title>AC OUT &lt;ndash/&gt; Output  </Title>
+            <Title>AC Output  (AC OUT)</Title>
             <Text>This section contains the connections between the output of the inverter and the cabling to the propulsion motor. 
 </Text>
         </Document>
@@ -3626,7 +3659,21 @@ The PWM signal is often passed through a low-pass filter. The filter averages ou
         </Document>
         <Document ID="1D099C1C-1253-43A5-96FE-E29AE86FCFFE">
             <Title>OSHA &amp;amp; 29CFR</Title>
-            <Text>TBD</Text>
+            <Text>OSHA, the Occupational Safety and Health Administration, is a U.S. federal agency under the Department of Labor. OSHA's primary mission is to ensure safe and healthy working conditions for employees by enforcing workplace safety regulations, conducting inspections, and providing resources to help employers and workers prevent workplace injuries, illnesses, and fatalities. 
+OSHA regulations are found in the US Code of Federal Regulations, Title 29 CFR Part 1910  where they address many aspects of workplace safety, including: &lt;ul cols="2"&gt;
+Personal Protective Equipment (PPE)
+Lockout/Tagout (LOTO)
+Confined Spaces
+Electrical Safety
+Machine Guarding
+Fall Protection
+Welding, Cutting, and Brazing
+Respiratory Protection
+Chemical Exposure
+Hazard Communication
+&lt;/ul&gt;&lt;/p&gt;
+It's important to note that OSHA regulations mainly pertain to workplaces on land. For most safety matters on board ship, the U.S. Coast Guard and international maritime regulations (such as SOLAS) take precedence; however OSHA regulations are sensible guidance that should be followed whenever possible whether you are working at sea, at a shore job, or even at home.
+</Text>
         </Document>
         <Document ID="62422D85-1CB2-41DA-A6F8-92122F08779D">
             <Title>Hearing Protection</Title>
@@ -4359,7 +4406,6 @@ The interchangeability of matter and energy is mentioned here only to point out 
             <Text>Familiarize yourself with the ship's emergency procedures, including evacuation routes, muster stations, and the proper use of life-saving equipment. Be prepared to respond calmly and promptly in case of an emergency.</Text>
         </Document>
         <Document ID="770325D1-50D9-41F9-833E-3870109B6C24">
-            <Title>CCU &lt;ndash/&gt; Converter Cooling</Title>
             <Text>The Converter Cooling cabinet contains the equipment required to remove the heat generated by diodes and IGBTs when the converter is operating. The cubicle contains two circulating pumps (one always in stand-by), a stainless steel plate-type heat exchanger, an expansion tank, a resin deionizing cartridge, stainless steel piping and high pressure hoses.
 Deionized water is used as the primary cooling medium. because its low conductivity minimizes corrosion and improves heat transfer, while its purity reduces the accumulation of scale formation.  
 De-ionized water is circulated by the pump to the cooling pipes and ducts of the high voltage sections. Returning coolant then passes through a the heat exchange and the heat from the de-ionized water is removed by raw water.  A three-way thermostatic bypass valve controls the flow of raw water to through the heat exchanger to maintain the coolant temperature at an optimum level. 
@@ -5416,7 +5462,16 @@ Fathom: A nautical measurement equal to 6 feet or 1.8288 meters. It is commonly 
         </Document>
         <Document ID="7CED0421-D524-49E7-B90A-0CBF08FB141C">
             <Title>Charge</Title>
-            <Text>Electrical charge is a fundamental property of matter that gives rise to the electromagnetic force, one of the four fundamental forces in nature. It is the property that describes the interaction between particles due to their electric fields. Electric charge is responsible for phenomena such as electricity, magnetism, and the behavior of charged particles.
+            <Text>&lt;sidebyside width="48%" margin="0%" valign="middle"&gt;
+Electrical charge is a fundamental property of matter that gives rise to the electromagnetic force, one of the four fundamental forces in nature. It is the property that describes the interaction between particles due to their electric fields. Electric charge is responsible for phenomena such as electricity, magnetism, and the behavior of charged particles.
+
+&lt;figure xml:id="fig_electric_field"&gt;
+&lt;caption&gt; Electric Field between + and - charges  &lt;/caption&gt;
+&lt;image width="100%" source="pics/electricity/electric_field"&gt;
+&lt;remix&gt; &lt;![CDATA[  &lt;a href="https://commons.wikimedia.org/wiki/File:VFPt_charges_plus_minus_thumb.svg"&gt;Geek3&lt;/a&gt;, &lt;a href="https://creativecommons.org/licenses/by-sa/3.0"&gt;CC BY-SA 3.0&lt;/a&gt;, via Wikimedia Commons  ]]&gt;&lt;/remix&gt;
+&lt;/image&gt;
+&lt;/figure&gt;
+&lt;/sidebyside&gt;
 There are two types of electric charge:
 Positive Charge: Particles with a positive charge have a deficiency of electrons compared to the number of protons in their atomic nuclei. Protons carry a positive charge, and when there is an excess of protons, an object is positively charged.
 Negative Charge: Particles with a negative charge have an excess of electrons compared to the number of protons in their atomic nuclei. Electrons carry a negative charge, and when there is an excess of electrons, an object is negatively charged.
@@ -29240,8 +29295,8 @@ Produced by: WMT Limited, UK Email: manuals@wmtmarine.com
         </Document>
         <Document ID="73075EB8-3199-4DB8-820F-CAA02626BE26">
             <Title>Ground Faults</Title>
-            <Text>A ground fault occurs when an electric circuit is unintentionally connected to the earth or to the ship's hull. This connection allows current to return to the source through an unintended path.
-Ground faults are caused by insulation failure due to age, abrasion, or abuse, and especially due to moisture, either from the humidity in the air or by direct impingement. Salt water infiltration common cause of ground faults in deck equipment.  When a person accidentally comes in contact with a live wire and ground at the same time, the resulting shock is actually a ground fault.
+            <Text>A ground fault occurs when an electric circuit  unintentionally contacts the earth or the ship's hull. This connection allows current to return to the source through an unintended path.
+Ground faults are caused by insulation failure due to age, abrasion, abuse, and especially due to moisture, either from the humidity or by direct water impingement. Salt water infiltration is a common cause of ground faults in deck equipment.  When a person accidentally contacts a live wire and ground at the same time, the resulting shock is actually a ground fault.
 Aboard ship, we continuously monitor for ground faults using ground lamps and ground ammeters.  When a ground fault is detected the ship’s engineers repair them as soon as possible to prevent bigger problems such as equipment failure.
 
 &lt;figure&gt;
@@ -29314,7 +29369,7 @@ The generators, transformers, propulsion converters, and propulsion motors will 
 </Text>
         </Document>
         <Document ID="60B63A8A-9BF7-4104-BA4F-B74C0C364533">
-            <Title>DCC &lt;ndash/&gt; DC Capacitor Section</Title>
+            <Title>DC Capacitor Section (DCC)</Title>
             <Text>This section houses the DC filter capacitor banks.These capacitors store energy and filter the rectified AC to remove any residual ripple from the waveform to provide a more stable DC supply. The capacitors are water cooled. During the power sequence they are all pre-charged.
 </Text>
         </Document>
@@ -30020,33 +30075,15 @@ In a typical AC synchronous generator, the rotor carries the field windings and 
             <Title>Open circuits, short circuits, and grounds</Title>
         </Document>
         <Document ID="C84A7AAB-51EF-4608-9E59-4FEDB756768F">
-            <Title>Overview</Title>
-            <Text>The ship has two General Electric MV7306 propulsion converters, one for each propulsion motor.  The converters include the three main components shown in &lt;xref ref="VFD_main_components"/&gt;, as well as other supporting components housed in a row of cabinets. located in converter rooms one and two, on the 4th deck. The converters operate at extremely dangerous high voltages, so this room is normally locked and off-limits to all unauthorized personnel.
-Each drive cabinet supports a particular function, as described below: &lt;ol&gt;
-PRC Process control cabinet. 
-CLC Converter local control cabinet. 
-CCU Converter cooling cabinet. 
-PRE Pre-charging (pre-magnetizing) cabinet. 
-DFE Diode front end cabinet. 
-DCC DC capacitor cabinet. 
-INV Inverter cabinet. 
-ILC Inverter local control cabinet. 
-AC OUT Alternating current output to motor cabinet. 
-&lt;/ol&gt;&lt;/p&gt;
+            <Title>Description</Title>
+            <Text>The ship has two General Electric MV7306 propulsion converters, one for each propulsion motor.  The converters include the three main components shown in &lt;xref ref="VFD_main_components"/&gt;, as well as other supporting components housed in a row of cabinets located in converter rooms 1 and 2, on the 4th deck. The converters operate at extremely dangerous high voltages, so these rooms are normally locked and off-limits to all unauthorized personnel.
 
 &lt;figure xml:id="propulsion_converter"&gt;
-&lt;caption&gt; Propulsion Frequency Converter &lt;/caption&gt;
+&lt;caption&gt; Propulsion Frequency Converter, exterior &lt;/caption&gt;
 &lt;image width="100%" source="pics/Eprop/propulsion_converter"&gt;
 &lt;remix&gt;&lt;![CDATA[   Source:  P1206 EMPIRE STATE MACHINERY MANUAL  FIRST DRAFT MAY 2022   ]]&gt;&lt;/remix&gt;
 &lt;/image&gt;
 &lt;/figure&gt;
-&lt;figure xml:id="MV7000_internal"&gt;
-&lt;caption&gt;  MV7000_internal.png  &lt;/caption&gt;
-&lt;image width="100%" source="pics/Eprop/MV7000_internal.png"&gt;
-&lt;remix&gt;&lt;![CDATA[   Source: GEA30737C MV7000 Press Pack    ]]&gt;&lt;/remix&gt;
-&lt;/image&gt;
-&lt;/figure&gt;
-
 </Text>
         </Document>
         <Document ID="D76B36DB-6076-4716-8858-2203D23AEAE8">
@@ -30247,7 +30284,7 @@ Several different head measurements are used to describe the operation of a pump
 </Text>
         </Document>
         <Document ID="1CB51344-9ABA-4CCB-9454-DD7F8AF794A9">
-            <Title>INV &lt;ndash/&gt; Inverter</Title>
+            <Title>Inverter (INV)</Title>
             <Text>The inverter section contains three subassemblies called stacks, one for each phase of the output.  Each stack consists of four IGBT and two diode press pack modules, a gate driver, water-cooled heat sink and balancing resistors.   
 The term press pack refers to the physical packaging of electronic components.  It typically consists of a semiconductor chip,  along with its associated control and protection circuitry, mounted between two metal plates which serve as electrical contacts and provide mechanical support. These plates are made of good thermal conductors such as copper or aluminum. This design allows for efficient heat dissipation, as the metal plates can be directly attached to a heat sink.
 &lt;figure xml:id="IGBT_stack"&gt;
@@ -30374,7 +30411,16 @@ Under the ISM Code, both the ship and the company have specific obligations to e
         </Document>
         <Document ID="CA520FD5-3488-4DAB-9E06-C3147927C1B7">
             <Title>SOLAS</Title>
-            <Text>TBD</Text>
+            <Text>The International Convention for the Safety of Life at Sea (SOLAS) is an international treaty developed by the International Maritime Organization (IMO) in 1914, following the sinking of the Titanic, one of the most famous maritime disasters in history.   
+SOLAS sets out minimum safety standards for the construction, equipment, and operation of ships in order to prevent accidents at sea and ensure that ships are well-prepared to handle emergencies. 
+Key aspects and provisions of SOLAS include: &lt;ul&gt;
+Structural Integrity It defines requirements for ship construction, stability, and subdivision to ensure that vessels are built to withstand the stresses of the marine environment.
+Safety Equipment SOLAS mandates the provision of life-saving appliances such as lifeboats, life rafts, lifejackets, and distress signaling equipment on board.
+Fire Safety The treaty outlines measures for preventing and combating fires on board ships, including fire detection systems, fire-fighting equipment, and fire drills.
+Navigation Safety SOLAS includes regulations for navigational equipment, including navigation lights, radar systems, and the use of electronic navigation aids.
+Radio Communications SOLAS establishes regulations for navigation and communication equipment, including requirements for radar systems, navigational aids, and communication devices to ensure safe navigation and effective communication, ensuring that vessels can call for assistance in case of emergencies.
+Training and Drills SOLAS mandates regular safety training and drills for the crew, including procedures for abandoning ship, using life-saving equipment, and responding to emergencies.
+&lt;/ul&gt;&lt;/p&gt;</Text>
         </Document>
         <Document ID="CA7F4D57-3E75-4CE8-AEC3-42E45DDEFBE6">
             <Title>Air-purifying Respirators</Title>
@@ -30426,11 +30472,7 @@ Surface-mount resistors are compact and designed for surface-mount technology, f
         </Document>
         <Document ID="37746720-E3BB-486F-9F54-9D980E50095C">
             <Title>Protective Devices</Title>
-            <Text>Circuit breakers are electromechanical devices that to swiftly interrupt current flow under short circuit and overload conditions.
-Short circuits protection is provided by the instantaneous trip mechanism. It relies on the electromagnetic force generated by the excessive current passing through a solenoid coil. The large magnetic field generated by the high current causes the solenoid to rapidly trigger a trip mechanism and open the circuit breaker's contacts almost instantly. 
-The overload trip mechanism detects sustained high currents caused by excessive load or faulty equipment, but permits the temporary overloads that occur when a motor starts. The load current passes through a bimetallic strip or a heating element. If the current increases, the temperature of the bimetallic strip rises, causing it to bend. When the bending reaches a critical point, it triggers the trip mechanism, opening the circuit breaker contacts and cutting off the current.
-Fuses  are thin wires or elements designed to melt and break the circuit when excessive current flows through them. Like circuit breakers, they provide protection against overcurrents and short circuits but need to be replaced after they "blow."
-Ground Fault Circuit Interrupters (GFCIs) monitor current imbalances, swiftly shutting off power if a ground fault is detected, protecting against electric shocks.
+            <Text>Electric circuits are equipped with protective devices that rapidly interrupt the flow of current when they detect abnormal conditions, in order to prevent hazards such as equipment damage,  electrical fires, and personal injury.
 
 &lt;figure xml:id="fig_protective_devices"&gt;
 &lt;caption&gt;Circuit breaker, fuses, ground fault circuit interupter&lt;/caption&gt;
@@ -30447,7 +30489,14 @@ Ground Fault Circuit Interrupters (GFCIs) monitor current imbalances, swiftly sh
 &lt;remix&gt;&lt;![CDATA[  &lt;a href="https://commons.wikimedia.org/wiki/File:Residential_GFCI_receptacle.jpg"&gt;Ben Kurtovic&lt;/a&gt;, &lt;a href="https://creativecommons.org/licenses/by-sa/4.0"&gt;CC BY-SA 4.0&lt;/a&gt;, via Wikimedia Commons  ]]&gt;&lt;/remix&gt;
 &lt;/image&gt;
 &lt;/sidebyside&gt;
-&lt;/figure&gt;</Text>
+&lt;/figure&gt;
+Circuit breakers are electromechanical devices that to swiftly interrupt current flow under short circuit and overload conditions.
+Short circuits protection is provided by the instantaneous trip mechanism. It relies on the electromagnetic force generated by the excessive current passing through a solenoid coil. The large magnetic field generated by the high current causes the solenoid to rapidly trigger a trip mechanism and open the circuit breaker's contacts almost instantly. 
+The overload trip mechanism detects sustained high currents caused by excessive load or faulty equipment, but permits the temporary overloads that occur when a motor starts. The load current passes through a bimetallic strip or a heating element. If the current increases, the temperature of the bimetallic strip rises, causing it to bend. When the bending reaches a critical point, it triggers the trip mechanism, opening the circuit breaker contacts and cutting off the current.
+Fuses  are thin wires or elements designed to melt and break the circuit when excessive current flows through them. Like circuit breakers, they provide protection against overcurrents and short circuits but need to be replaced after they "blow."
+Ground Fault Circuit Interrupters (GFCIs) monitor current imbalances, and swiftly shut off power if a ground fault is detected, protecting people against electric shocks.
+
+</Text>
         </Document>
         <Document ID="E04C59FA-A8ED-4221-8F69-07D8D84B46BC">
             <Title>introduction</Title>
@@ -30490,7 +30539,7 @@ On one side of the point of mesh, pockets of increasing size are formed as the g
             <Text>Ohm’s law describes the relationship between current, voltage, and resistance in an electric circuit. According to Ohm's Law, the current flowing through a circuit is directly proportional to the voltage across it and inversely proportional to the resistance of the circuit. Mathematically, this relationship is expressed as &lt;men xml:id="ohms-law"&gt;I = V/R&lt;/men&gt;  where: &lt;ul marker=""&gt;
 I is the the current in amperes
 V is the voltage in volts, and 
-R is the resistance in ohms (\Omega). 
+R is the resistance in ohms. 
 &lt;/ul&gt;&lt;/p&gt;
 In other words, an increase in voltage leads to a corresponding increase in current if the resistance remains constant, while an increase in resistance results in a decrease in current for a given voltage.
 It's important to note that Ohm's Law is most applicable to linear resistors under constant conditions. In AC circuits with reactive components like capacitors and inductors, Ohm's Law needs to be extended to include the concept of impedance, which takes into account both resistance and reactance.
@@ -30729,24 +30778,16 @@ Vacuum scales measure down from atmospheric pressure
             <Title>Symbols</Title>
             <Text>&lt;p&gt;
 &lt;ul marker="" cols="2"&gt;
-&lt;li&gt;&lt;sidebyside widths="30% 65%" margins="0%" valign="middle"&gt;
-    &lt;image source="pics/electricity/symbols/wire"/&gt;
-    &lt;p&gt;Wire&lt;/p&gt;
-    &lt;/sidebyside&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;sidebyside widths="30% 65%" margins="0%" valign="middle"&gt;
     &lt;image source="pics/electricity/symbols/crossing_x"/&gt;
     &lt;p&gt;Wires (crossing)&lt;/p&gt;
     &lt;/sidebyside&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;sidebyside widths="30% 65%" margins="0%" valign="middle"&gt;
-    &lt;image source="pics/electricity/symbols/junction_x"/&gt;
-    &lt;p&gt;Wires (junction)&lt;/p&gt;
-    &lt;/sidebyside&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;sidebyside widths="30% 65%" margins="0%" valign="middle"&gt;
-    &lt;image source="pics/electricity/symbols/crossing_under"/&gt;
-    &lt;p&gt;Wires (crossing)&lt;/p&gt;
+    &lt;image source="pics/electricity/symbols/junction_x"/&gt;
+    &lt;p&gt;Wires (connected)&lt;/p&gt;
     &lt;/sidebyside&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;sidebyside widths="30% 65%" margins="0%" valign="middle"&gt;
@@ -30756,12 +30797,18 @@ Vacuum scales measure down from atmospheric pressure
 
 &lt;li&gt;&lt;sidebyside widths="30% 65%" margins="0%" valign="middle"&gt;
     &lt;image source="pics/electricity/symbols/junction_t"/&gt;
-    &lt;p&gt;Wires (junction)&lt;/p&gt;
+    &lt;p&gt;Wires (connected)&lt;/p&gt;
     &lt;/sidebyside&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;sidebyside widths="30% 65%" margins="0%" valign="middle"&gt;
-    &lt;image source="pics/electricity/symbols/junction_t"/&gt;
-    &lt;p&gt;Wires (junction)&lt;/p&gt;
+    &lt;image source="pics/electricity/symbols/crossing_under"/&gt;
+    &lt;p&gt;Wires (crossing)&lt;/p&gt;
+    &lt;/sidebyside&gt;&lt;/li&gt;
+
+
+&lt;li&gt;&lt;sidebyside widths="30% 65%" margins="0%" valign="middle"&gt;
+    &lt;image source="pics/electricity/symbols/wire"/&gt;
+    &lt;p&gt;Wire&lt;/p&gt;
     &lt;/sidebyside&gt;&lt;/li&gt;
 
 &lt;/ul&gt;&lt;/p&gt;</Text>
@@ -36020,7 +36067,6 @@ The three voltage sine waves can be separated and used individually to supply si
 </Text>
         </Document>
         <Document ID="373977E7-CBA3-4AEA-9CF3-EAE73916D846">
-            <Title>PRC &lt;ndash/&gt; Process Control</Title>
             <Text>The Process Control cabinet contains control and management modules for the propulsion system. It also contains a 230V AC 1.5 kVA uninterruptible power supply (UPS) which will take over immediately in the event of failure of the normal power supply. The UPS output goes to the CLC section for distribution. 
 The front panel of the PRC contains a panel mounted supervision computer with touch-screen, which provides local control to monitor system parameters and alarms including:&lt;ul&gt;
 Speed setting dial and reply pointer. 
@@ -36779,12 +36825,12 @@ Bump caps are less obtrusive than hard hats and are designed to provide comforta
 
 &lt;li&gt;&lt;sidebyside widths="30% 65%" margins="0%" valign="middle"&gt;
     &lt;image source="pics/electricity/symbols/rheostat"/&gt;
-    &lt;p&gt;Rheostat (2 contacts)&lt;/p&gt;
+   &lt;p&gt;Rheostat    (2 contacts)&lt;/p&gt;
     &lt;/sidebyside&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;sidebyside widths="30% 65%" margins="0%" valign="middle"&gt;
     &lt;image source="pics/electricity/symbols/potentiometer"/&gt;
-    &lt;p&gt;Potentiometer (3 contacts)&lt;/p&gt;
+    &lt;p&gt;Potentiometer    (3 contacts)&lt;/p&gt;
     &lt;/sidebyside&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;</Text>
         </Document>
         <Document ID="5120A7E2-BB5A-4588-9EC2-8D931AC37F1D">
@@ -40845,11 +40891,11 @@ The process typically involves breaking down a job into its individual steps  an
 The key steps in conducting a job hazard analysis typically include: 
 &lt;ol&gt;
 Select the job or task to be analyzed.
- Break down the job into steps.
- Identify potential hazards for each step.
- Determine the risk level for each identified hazard.  Risk level multiplies severity and the likelihood of each identified hazard.
- Develop hazard controls to eliminate or minimize the hazards. This might include engineering controls (e.g., machine guarding), administrative controls (e.g., training or procedures), or personal protective equipment (PPE)
- Communicate the findings to workers and stakeholders to ensure awareness and buy-in.
+Break down the job into steps.
+Identify potential hazards for each step.
+Determine the risk level for each identified hazard.  Risk level multiplies severity and the likelihood of each identified hazard.
+Develop hazard controls to eliminate or minimize the hazards. This might include engineering controls (e.g., machine guarding), administrative controls (e.g., training or procedures), or personal protective equipment (PPE)
+Communicate the findings to workers and stakeholders to ensure awareness and buy-in.
 Regularly review and update the job hazard analysis.
 &lt;/ol&gt;&lt;/p&gt;
 This results of the JHA can be shared with the crew during a toolbox talk in order to raise awareness about known hazards, reinforce safe work practices, and promote a culture of safety. These talks are usually conducted before the start of the work day.
