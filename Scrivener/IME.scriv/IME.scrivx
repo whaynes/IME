@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="9CEE092B-52A4-40FD-A463-60A47C53A797" Version="2.0" Creator="SCRMAC-3.3.1-15588" Device="whaynes-MBP-2021" Author="" Modified="2023-08-20 11:44:29 -0400" ModID="9FA6347C-8212-49DA-8C47-B9215E307B84">
+<ScrivenerProject Identifier="9CEE092B-52A4-40FD-A463-60A47C53A797" Version="2.0" Creator="SCRMAC-3.3.1-15588" Device="whaynes-MBP-2021" Author="" Modified="2023-08-20 22:14:38 -0400" ModID="D7CEFADB-E183-4E3F-92A9-1BFF8EB2B4F9">
     <Binder>
         <BinderItem UUID="7A583553-3A84-40D6-B9B9-0430B8CD3E39" Type="DraftFolder" Created="2023-05-29 09:45:48 -0400" Modified="2023-05-29 09:45:48 -0400">
             <Title>Draft</Title>
@@ -521,6 +521,24 @@
                                                 <TextSelection>736,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
+                                        <BinderItem UUID="D4499CD7-4218-4DDD-8ACB-A8A39325A1D6" Type="Text" Created="2023-05-29 10:30:12 -0400" Modified="2023-05-29 10:30:12 -0400">
+                                            <Title>Components of a Safety Management System</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="9822F29A-1369-4670-BD26-B60F469484C4" Type="Text" Created="2023-05-29 10:30:12 -0400" Modified="2023-05-29 10:30:12 -0400">
+                                            <Title>Management and Safety of Marine Engineering Operations (Modern Marine Engineers Manual Ch. 13)</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
                                         <BinderItem UUID="EF069A83-E56B-4BF4-956B-3F444E307B6D" Type="Folder" Created="2023-05-29 10:30:12 -0400" Modified="2023-06-05 20:04:29 -0400">
                                             <Title>ISM Code</Title>
                                             <MetaData>
@@ -570,40 +588,22 @@
                                                 </BinderItem>
                                             </Children>
                                         </BinderItem>
-                                        <BinderItem UUID="D4499CD7-4218-4DDD-8ACB-A8A39325A1D6" Type="Text" Created="2023-05-29 10:30:12 -0400" Modified="2023-05-29 10:30:12 -0400">
-                                            <Title>Components of a Safety Management System</Title>
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>0,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                        <BinderItem UUID="9822F29A-1369-4670-BD26-B60F469484C4" Type="Text" Created="2023-05-29 10:30:12 -0400" Modified="2023-05-29 10:30:12 -0400">
-                                            <Title>Management and Safety of Marine Engineering Operations (Modern Marine Engineers Manual Ch. 13)</Title>
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>0,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                        <BinderItem UUID="CA520FD5-3488-4DAB-9E06-C3147927C1B7" Type="Text" Created="2023-05-29 10:30:12 -0400" Modified="2023-05-29 10:30:12 -0400">
+                                        <BinderItem UUID="CA520FD5-3488-4DAB-9E06-C3147927C1B7" Type="Folder" Created="2023-05-29 10:30:12 -0400" Modified="2023-08-20 13:06:01 -0400">
                                             <Title>SOLAS</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>0,0</TextSelection>
+                                                <TextSelection>3,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="1D099C1C-1253-43A5-96FE-E29AE86FCFFE" Type="Text" Created="2023-05-29 10:30:12 -0400" Modified="2023-05-29 12:20:33 -0400">
+                                        <BinderItem UUID="1D099C1C-1253-43A5-96FE-E29AE86FCFFE" Type="Folder" Created="2023-05-29 10:30:12 -0400" Modified="2023-08-20 13:06:01 -0400">
                                             <Title>OSHA &amp;amp; 29CFR</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>0,0</TextSelection>
+                                                <TextSelection>3,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                     </Children>
@@ -617,12 +617,33 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                     <Children>
-                                        <BinderItem UUID="15A3F12D-4BFA-4CB8-9422-CCDE094256DA" Type="Text" Created="2023-05-29 12:49:53 -0400" Modified="2023-08-17 09:24:17 -0400">
+                                        <BinderItem UUID="15A3F12D-4BFA-4CB8-9422-CCDE094256DA" Type="Text" Created="2023-05-29 12:49:53 -0400" Modified="2023-08-20 13:06:09 -0400">
+                                            <Title>introduction</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
                                                 <TextSelection>1600,1</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                    </Children>
+                                </BinderItem>
+                                <BinderItem UUID="507F9C6F-5292-4381-B8D1-46E50CD5B1D3" Type="Folder" Created="2023-05-29 10:30:12 -0400" Modified="2023-06-05 20:04:29 -0400">
+                                    <Title>Permit to work </Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                    <Children>
+                                        <BinderItem UUID="CE042EEC-0FBB-47A7-8333-9AE5CD612417" Type="Text" Created="2023-05-31 21:38:23 -0400" Modified="2023-08-18 12:35:36 -0400">
+                                            <Title>Permit to work</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>929,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                     </Children>
@@ -646,32 +667,12 @@
                                                 <TextSelection>106,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="6A664494-B5BB-4CB0-8BA9-B956F61D5B46" Type="Text" Created="2023-06-03 10:11:00 -0400" Modified="2023-06-05 20:04:29 -0400">
+                                        <BinderItem UUID="6A664494-B5BB-4CB0-8BA9-B956F61D5B46" Type="Text" Created="2023-06-03 10:11:00 -0400" Modified="2023-08-20 13:06:28 -0400">
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
                                                 <TextSelection>3,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                    </Children>
-                                </BinderItem>
-                                <BinderItem UUID="507F9C6F-5292-4381-B8D1-46E50CD5B1D3" Type="Folder" Created="2023-05-29 10:30:12 -0400" Modified="2023-06-05 20:04:29 -0400">
-                                    <Title>Permit to work </Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
-                                    </TextSettings>
-                                    <Children>
-                                        <BinderItem UUID="CE042EEC-0FBB-47A7-8333-9AE5CD612417" Type="Text" Created="2023-05-31 21:38:23 -0400" Modified="2023-08-18 12:35:36 -0400">
-                                            <Title>Permit to work</Title>
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>929,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                     </Children>
@@ -845,37 +846,32 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                     <Children>
-                                        <BinderItem UUID="88A6BBF1-113F-4D38-8FD6-E54B349E830B" Type="Text" Created="2023-06-03 14:45:03 -0400" Modified="2023-06-05 20:04:29 -0400">
+                                        <BinderItem UUID="88A6BBF1-113F-4D38-8FD6-E54B349E830B" Type="Text" Created="2023-06-03 14:45:03 -0400" Modified="2023-08-20 20:11:31 -0400">
                                             <Title>Introduction</Title>
                                             <MetaData>
-                                                <SectionType>F2CC3694-551C-46A7-BFD9-B161A49072A7</SectionType>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>132,0</TextSelection>
+                                                <TextSelection>752,0</TextSelection>
                                             </TextSettings>
-                                            <Children>
-                                                <BinderItem UUID="2F3949EE-0DEA-4AF2-BFA1-70AACFF382A7" Type="Text" Created="2023-06-03 14:45:03 -0400" Modified="2023-06-05 20:04:29 -0400">
-                                                    <Title>Types of Head Protection</Title>
-                                                    <MetaData>
-                                                        <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
-                                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                                    </MetaData>
-                                                    <TextSettings>
-                                                        <TextSelection>0,0</TextSelection>
-                                                    </TextSettings>
-                                                </BinderItem>
-                                                <BinderItem UUID="316CF969-7B9C-4458-8EA3-8C8AFA4284D0" Type="Text" Created="2023-06-03 14:45:03 -0400" Modified="2023-06-05 20:04:29 -0400">
-                                                    <Title>Fit</Title>
-                                                    <MetaData>
-                                                        <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
-                                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                                    </MetaData>
-                                                    <TextSettings>
-                                                        <TextSelection>0,0</TextSelection>
-                                                    </TextSettings>
-                                                </BinderItem>
-                                            </Children>
+                                        </BinderItem>
+                                        <BinderItem UUID="2F3949EE-0DEA-4AF2-BFA1-70AACFF382A7" Type="Text" Created="2023-06-03 14:45:03 -0400" Modified="2023-08-20 22:12:17 -0400">
+                                            <Title>Types of Head Protection</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>1701,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="316CF969-7B9C-4458-8EA3-8C8AFA4284D0" Type="Text" Created="2023-06-03 14:45:03 -0400" Modified="2023-08-20 22:12:56 -0400">
+                                            <Title>Fit</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>578,0</TextSelection>
+                                            </TextSettings>
                                         </BinderItem>
                                     </Children>
                                 </BinderItem>
@@ -888,37 +884,24 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                     <Children>
-                                        <BinderItem UUID="9C1CFB4A-2197-4E0C-863D-20DE31B9D9C4" Type="Text" Created="2023-06-03 14:45:03 -0400" Modified="2023-06-05 20:04:29 -0400">
+                                        <BinderItem UUID="9C1CFB4A-2197-4E0C-863D-20DE31B9D9C4" Type="Text" Created="2023-06-03 14:45:03 -0400" Modified="2023-08-20 18:44:40 -0400">
                                             <Title>Introduction</Title>
                                             <MetaData>
-                                                <SectionType ChildDefault="9D1ADC50-E7BB-4E40-BA04-CCA44927A08E">F2CC3694-551C-46A7-BFD9-B161A49072A7</SectionType>
+                                                <SectionType ChildDefault="9D1ADC50-E7BB-4E40-BA04-CCA44927A08E"></SectionType>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
                                                 <TextSelection>986,0</TextSelection>
                                             </TextSettings>
-                                            <Children>
-                                                <BinderItem UUID="736C0DE4-8179-405D-ACE3-C43ABC28C9B8" Type="Text" Created="2023-06-03 14:45:03 -0400" Modified="2023-06-05 20:04:29 -0400">
-                                                    <Title>Types of Eye Protection</Title>
-                                                    <MetaData>
-                                                        <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
-                                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                                    </MetaData>
-                                                    <TextSettings>
-                                                        <TextSelection>827,0</TextSelection>
-                                                    </TextSettings>
-                                                </BinderItem>
-                                                <BinderItem UUID="B4675891-01A4-4EBC-AF54-F57151643795" Type="Text" Created="2023-06-03 14:45:03 -0400" Modified="2023-06-05 20:04:29 -0400">
-                                                    <Title>Eye Protection for Welding</Title>
-                                                    <MetaData>
-                                                        <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
-                                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                                    </MetaData>
-                                                    <TextSettings>
-                                                        <TextSelection>868,0</TextSelection>
-                                                    </TextSettings>
-                                                </BinderItem>
-                                            </Children>
+                                        </BinderItem>
+                                        <BinderItem UUID="736C0DE4-8179-405D-ACE3-C43ABC28C9B8" Type="Text" Created="2023-06-03 14:45:03 -0400" Modified="2023-08-20 19:30:08 -0400">
+                                            <Title>Types of Eye Protection</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>269,303</TextSelection>
+                                            </TextSettings>
                                         </BinderItem>
                                     </Children>
                                 </BinderItem>
@@ -931,27 +914,23 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                     <Children>
-                                        <BinderItem UUID="798450C6-05DD-491F-99DF-AF351ECEB812" Type="Text" Created="2023-06-03 14:45:03 -0400" Modified="2023-06-05 20:04:29 -0400">
+                                        <BinderItem UUID="798450C6-05DD-491F-99DF-AF351ECEB812" Type="Text" Created="2023-06-03 14:45:03 -0400" Modified="2023-08-20 18:20:58 -0400">
                                             <Title>Introduction</Title>
                                             <MetaData>
-                                                <SectionType>F2CC3694-551C-46A7-BFD9-B161A49072A7</SectionType>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>2779,0</TextSelection>
+                                                <TextSelection>0,0</TextSelection>
                                             </TextSettings>
-                                            <Children>
-                                                <BinderItem UUID="A0F93C81-06B5-4B1B-A48A-B30F2D0811C7" Type="Text" Created="2023-06-03 14:45:03 -0400" Modified="2023-06-05 20:04:29 -0400">
-                                                    <Title>Types of Hearing Protectors</Title>
-                                                    <MetaData>
-                                                        <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
-                                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                                    </MetaData>
-                                                    <TextSettings>
-                                                        <TextSelection>5346,0</TextSelection>
-                                                    </TextSettings>
-                                                </BinderItem>
-                                            </Children>
+                                        </BinderItem>
+                                        <BinderItem UUID="A0F93C81-06B5-4B1B-A48A-B30F2D0811C7" Type="Text" Created="2023-06-03 14:45:03 -0400" Modified="2023-08-20 18:39:09 -0400">
+                                            <Title>Types of Hearing Protectors</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>61,305</TextSelection>
+                                            </TextSettings>
                                         </BinderItem>
                                     </Children>
                                 </BinderItem>
@@ -964,27 +943,43 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                     <Children>
-                                        <BinderItem UUID="1095E012-8CC6-4444-94E9-E59DB68554D6" Type="Text" Created="2023-06-03 14:45:03 -0400" Modified="2023-06-20 15:20:55 -0400">
+                                        <BinderItem UUID="1095E012-8CC6-4444-94E9-E59DB68554D6" Type="Text" Created="2023-06-03 14:45:03 -0400" Modified="2023-08-20 20:17:10 -0400">
                                             <Title>Introduction</Title>
                                             <MetaData>
-                                                <SectionType>F2CC3694-551C-46A7-BFD9-B161A49072A7</SectionType>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>1138,0</TextSelection>
+                                                <TextSelection>0,0</TextSelection>
                                             </TextSettings>
-                                            <Children>
-                                                <BinderItem UUID="C7917DAF-D2EF-486B-A9FB-0F19F72F2C33" Type="Text" Created="2023-06-03 14:45:03 -0400" Modified="2023-06-20 15:20:55 -0400">
-                                                    <Title>Types of Respirators</Title>
-                                                    <MetaData>
-                                                        <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
-                                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                                    </MetaData>
-                                                    <TextSettings>
-                                                        <TextSelection>2335,0</TextSelection>
-                                                    </TextSettings>
-                                                </BinderItem>
-                                            </Children>
+                                        </BinderItem>
+                                        <BinderItem UUID="C7917DAF-D2EF-486B-A9FB-0F19F72F2C33" Type="Text" Created="2023-06-03 14:45:03 -0400" Modified="2023-08-20 20:16:11 -0400">
+                                            <Title>Types of Respirators</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="CA7F4D57-3E75-4CE8-AEC3-42E45DDEFBE6" Type="Text" Created="2023-08-20 20:15:53 -0400" Modified="2023-08-20 20:18:34 -0400">
+                                            <Title>Air-purifying Respirators</Title>
+                                            <MetaData>
+                                                <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,254</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="0FFA7F82-35BF-4C09-B837-057A3C66D1A7" Type="Text" Created="2023-08-20 20:16:23 -0400" Modified="2023-08-20 20:17:24 -0400">
+                                            <Title>Atmosphere-supplying Respirators</Title>
+                                            <MetaData>
+                                                <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
                                         </BinderItem>
                                     </Children>
                                 </BinderItem>
@@ -997,27 +992,23 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                     <Children>
-                                        <BinderItem UUID="6D899136-E788-4290-B821-C609E552BE15" Type="Text" Created="2023-06-03 14:45:03 -0400" Modified="2023-06-05 20:04:29 -0400">
+                                        <BinderItem UUID="6D899136-E788-4290-B821-C609E552BE15" Type="Text" Created="2023-06-03 14:45:03 -0400" Modified="2023-08-20 18:20:39 -0400">
                                             <Title>Introduction</Title>
                                             <MetaData>
-                                                <SectionType>F2CC3694-551C-46A7-BFD9-B161A49072A7</SectionType>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>0,0</TextSelection>
+                                                <TextSelection>1236,260</TextSelection>
                                             </TextSettings>
-                                            <Children>
-                                                <BinderItem UUID="DCECC3FA-C62E-4CC9-B14E-6770A3598865" Type="Text" Created="2023-06-03 14:45:03 -0400" Modified="2023-06-20 15:20:55 -0400">
-                                                    <Title>Types of Gloves</Title>
-                                                    <MetaData>
-                                                        <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
-                                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                                    </MetaData>
-                                                    <TextSettings>
-                                                        <TextSelection>0,0</TextSelection>
-                                                    </TextSettings>
-                                                </BinderItem>
-                                            </Children>
+                                        </BinderItem>
+                                        <BinderItem UUID="DCECC3FA-C62E-4CC9-B14E-6770A3598865" Type="Text" Created="2023-06-03 14:45:03 -0400" Modified="2023-08-20 14:14:44 -0400">
+                                            <Title>Types of Gloves</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>376,0</TextSelection>
+                                            </TextSettings>
                                         </BinderItem>
                                     </Children>
                                 </BinderItem>
@@ -1030,14 +1021,13 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                     <Children>
-                                        <BinderItem UUID="6E7A2EF5-7A2F-43BF-AFD6-57D5ACF91B9D" Type="Text" Created="2023-06-03 14:45:03 -0400" Modified="2023-06-05 20:04:29 -0400">
+                                        <BinderItem UUID="6E7A2EF5-7A2F-43BF-AFD6-57D5ACF91B9D" Type="Text" Created="2023-06-03 14:45:03 -0400" Modified="2023-08-20 22:14:38 -0400">
                                             <Title>Introduction</Title>
                                             <MetaData>
-                                                <SectionType>F2CC3694-551C-46A7-BFD9-B161A49072A7</SectionType>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>1673,0</TextSelection>
+                                                <TextSelection>1729,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem UUID="A5939888-3FD9-4A03-A41A-8968EFF51C0D" Type="Text" Created="2023-06-04 11:29:35 -0400" Modified="2023-06-20 15:20:55 -0400">
@@ -1047,7 +1037,7 @@
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>2491,0</TextSelection>
+                                                <TextSelection>0,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                     </Children>
@@ -1216,7 +1206,7 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="BF694E5A-7361-4E7F-B590-923467F69686" Type="Text" Created="2023-06-04 11:39:42 -0400" Modified="2023-06-05 20:04:29 -0400">
+                                <BinderItem UUID="BF694E5A-7361-4E7F-B590-923467F69686" Type="Text" Created="2023-06-04 11:39:42 -0400" Modified="2023-08-20 14:48:35 -0400">
                                     <Title>introduction</Title>
                                     <MetaData>
                                         <SectionType>9D1ADC50-E7BB-4E40-BA04-CCA44927A08E</SectionType>
@@ -1228,7 +1218,7 @@
                                         </CustomMetaData>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>87,0</TextSelection>
+                                        <TextSelection>94,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="815BC044-2586-4291-829E-F0C6DD075585" Type="Folder" Created="2023-06-04 11:39:42 -0400" Modified="2023-06-05 20:04:29 -0400">
@@ -1852,7 +1842,7 @@
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>3239,0</TextSelection>
+                                                <TextSelection>435,25</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem UUID="C84EFB1B-13C0-4BF9-8807-ED2CDA410D02" Type="Text" Created="2023-08-08 14:33:46 -0400" Modified="2023-08-17 09:51:30 -0400">
@@ -2711,14 +2701,14 @@
                                                 <TextSelection>361,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="9E434387-F128-4499-AC81-5261648DB3E6" Type="Text" Created="2023-08-07 11:22:51 -0400" Modified="2023-08-18 13:24:40 -0400">
+                                        <BinderItem UUID="9E434387-F128-4499-AC81-5261648DB3E6" Type="Text" Created="2023-08-07 11:22:51 -0400" Modified="2023-08-20 15:02:10 -0400">
                                             <Title>Single-phase generator</Title>
                                             <MetaData>
                                                 <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>792,0</TextSelection>
+                                                <TextSelection>599,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem UUID="7BF501A8-3921-42FE-8873-3D8DC5DEB96C" Type="Text" Created="2023-08-07 11:22:51 -0400" Modified="2023-08-18 13:24:53 -0400">
@@ -3120,7 +3110,7 @@
                                                 <TextSelection>0,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="A2463705-A2A3-4FF0-A653-76AED4D69FF0" Type="Folder" Created="2023-06-26 14:59:10 -0400" Modified="2023-06-26 15:50:12 -0400">
+                                        <BinderItem UUID="A2463705-A2A3-4FF0-A653-76AED4D69FF0" Type="Folder" Created="2023-06-26 14:59:10 -0400" Modified="2023-08-20 14:49:22 -0400">
                                             <Title>Installation</Title>
                                             <MetaData>
                                                 <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
@@ -3132,7 +3122,7 @@
                                                 </CustomMetaData>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>0,0</TextSelection>
+                                                <TextSelection>2795,1</TextSelection>
                                             </TextSettings>
                                             <Children>
                                                 <BinderItem UUID="CB2F0070-5A53-4EA4-9AB0-D1CCA39037B1" Type="Folder" Created="2023-06-26 14:59:10 -0400" Modified="2023-06-26 15:27:15 -0400">
@@ -6201,7 +6191,7 @@
         </Collection>
         <Collection Type="RecentSearch" ID="2655DDF6-4AB8-42CB-A433-1CD76FC351D2" Color="0.922173 0.818612 0.999627">
             <Title>Search Results</Title>
-            <SearchSettings Operator="All" Type="Text" Scope="Draft" ExcludeTrash="Yes" CaseSensitive="No" IgnoreDiacritics="No">ohm's</SearchSettings>
+            <SearchSettings Operator="All" Type="Text" Scope="Draft" ExcludeTrash="Yes" CaseSensitive="No" IgnoreDiacritics="No">24</SearchSettings>
         </Collection>
     </Collections>
     <SectionTypes>
@@ -6286,13 +6276,13 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 08:24:39 -0400" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2023-08-21 01:00:00 -0400" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="-188" Characters="-2395" Date="2023-08-20 07:53:56 -0400"/>
+        <PreviousSession Words="57" Characters="-784" Date="2023-08-20 22:10:17 -0400"/>
     </ProjectTargets>
     <RecentWritingHistory Date="2023-08-20 00:00:00 -0400">
-        <DraftWordCount>-188</DraftWordCount>
-        <DraftCharCount>-2395</DraftCharCount>
-        <OtherWordCount>0</OtherWordCount>
-        <OtherCharCount>0</OtherCharCount>
+        <DraftWordCount>57</DraftWordCount>
+        <DraftCharCount>-786</DraftCharCount>
+        <OtherWordCount>-6</OtherWordCount>
+        <OtherCharCount>-27</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="611.999972,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>

@@ -246,6 +246,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>0FFA7F82-35BF-4C09-B837-057A3C66D1A7</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>105530C1-8E65-4E5C-8558-ABBBC0E78501</key>
 		<dict>
 			<key>Row</key>
@@ -1856,11 +1861,6 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
-		<key>B4675891-01A4-4EBC-AF54-F57151643795</key>
-		<dict>
-			<key>Row</key>
-			<integer>-1</integer>
-		</dict>
 		<key>B4ADECB4-095F-481C-AA42-896FB063B602</key>
 		<dict>
 			<key>Row</key>
@@ -2107,6 +2107,11 @@
 			<integer>-1</integer>
 		</dict>
 		<key>CA520FD5-3488-4DAB-9E06-C3147927C1B7</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>CA7F4D57-3E75-4CE8-AEC3-42E45DDEFBE6</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -2737,7 +2742,7 @@
 	<key>mainDocumentEditor.textMode</key>
 	<integer>0</integer>
 	<key>mainWindowFrame</key>
-	<string>113 353 1583 702 0 0 1920 1055 </string>
+	<string>287 278 1583 702 0 0 1920 1055 </string>
 	<key>projectStatsSheet</key>
 	<dict>
 		<key>excludeAnnots</key>
@@ -2770,7 +2775,7 @@
 		<key>widths</key>
 		<dict>
 			<key>TITLE</key>
-			<real>480</real>
+			<real>200</real>
 		</dict>
 	</dict>
 	<key>selectedCollectionTabIndex</key>
