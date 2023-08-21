@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 101 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;">
+    <g transform="matrix(1,0,0,1,-252,-1283)">
+        <g transform="matrix(1.0101,0,0,1.11111,-298.627,29.6667)">
+            <rect id="potentiometer" x="546" y="1128" width="99" height="90" style="fill:none;"/>
+            <clipPath id="_clip1">
+                <rect id="potentiometer1" serif:id="potentiometer" x="546" y="1128" width="99" height="90"/>
+            </clipPath>
+            <g clip-path="url(#_clip1)">
+                <g id="Potentiometer" transform="matrix(0.99,0,0,0.9,-702.279,-891.619)">
+                    <g transform="matrix(1,0,0,1,-8,212.021)">
+                        <path d="M1268,2082L1300,2082L1302,2074L1306,2090L1310,2074L1314,2089.5L1318,2074L1322,2090L1326,2074L1330,2090L1332,2082L1368,2082" style="fill:none;stroke:black;stroke-width:3px;"/>
+                    </g>
+                    <g transform="matrix(1,-0,-0,1,1260,2244.02)">
+                        <path d="M54.9,29.925L50,37.274L45.1,29.925" style="fill:none;stroke:black;stroke-width:3px;stroke-linejoin:miter;"/>
+                        <path d="M50,18.979L50,37.274" style="fill:none;stroke:black;stroke-width:3px;"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

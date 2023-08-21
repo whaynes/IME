@@ -5,7 +5,7 @@
 <!--*         https://pretextbook.org          *-->
 <!--*                                          *-->
 <!--********************************************-->
-<html lang="en-US">
+<html lang="en-US" dir="ltr">
 <head xmlns:og="http://ogp.me/ns#" xmlns:book="https://ogp.me/ns/book#">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Description</title>
@@ -14,68 +14,93 @@
 <meta property="og:type" content="book">
 <meta property="book:title" content="Introduction to Marine Engineering">
 <meta property="book:author" content="Engineering Departement">
-<script>var runestoneMathReady = new Promise((resolve) => window.rsMathReady = resolve);
+<script>
+var runestoneMathReady = new Promise((resolve) => window.rsMathReady = resolve);
 window.MathJax = {
-  tex: {
-    inlineMath: [['\\(','\\)']],
-    tags: "none",
-    tagSide: "right",
-    tagIndent: ".8em",
-    packages: {'[+]': ['base', 'extpfeil', 'ams', 'amscd', 'color', 'newcommand', 'knowl']}
+  "tex": {
+    "inlineMath": [
+      [
+        "\\(",
+        "\\)"
+      ]
+    ],
+    "tags": "none",
+    "tagSide": "right",
+    "tagIndent": ".8em",
+    "packages": {
+      "[+]": [
+        "base",
+        "extpfeil",
+        "ams",
+        "amscd",
+        "color",
+        "newcommand",
+        "knowl"
+      ]
+    }
   },
-  options: {
-    ignoreHtmlClass: "tex2jax_ignore|ignore-math",
-    processHtmlClass: "process-math",
+  "options": {
+    "ignoreHtmlClass": "tex2jax_ignore|ignore-math",
+    "processHtmlClass": "process-math"
   },
-  chtml: {
-    scale: 0.98,
-    mtextInheritFont: true
+  "chtml": {
+    "scale": 0.98,
+    "mtextInheritFont": true
   },
-  loader: {
-    load: ['input/asciimath', '[tex]/extpfeil', '[tex]/amscd', '[tex]/color', '[tex]/newcommand', '[pretext]/mathjaxknowl3.js'],
-    paths: {pretext: "https://pretextbook.org/js/lib"},
+  "loader": {
+    "load": [
+      "input/asciimath",
+      "[tex]/extpfeil",
+      "[tex]/amscd",
+      "[tex]/color",
+      "[tex]/newcommand",
+      "[pretext]/mathjaxknowl3.js"
+    ],
+    "paths": {
+      "pretext": "https://pretextbook.org/js/lib"
+    }
   },
-  startup: {
+  "startup": {
     pageReady() {
       return MathJax.startup.defaultPageReady().then(function () {
       console.log("in ready function");
       rsMathReady();
       }
     )}
-  },
+  }
 };
-</script><script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/lunr.js/2.3.9/lunr.min.js" integrity="sha512-4xUl/d6D6THrAnXAwGajXkoWaeMNwEKK4iNfq5DotEbLPAfk6FSxSP3ydNxqDgCw1c/0Z1Jg6L8h2j+++9BZmg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script><script src="lunr-pretext-search-index.js" async=""></script><script src="https://pretextbook.org/js/0.2/pretext_search.js"></script><link href="https://pretextbook.org/css/0.6/pretext_search.css" rel="stylesheet" type="text/css">
-<script>js_version = 0.2</script><script src="https://pretextbook.org/js/lib/jquery.min.js"></script><script src="https://pretextbook.org/js/lib/jquery.sticky.js"></script><script src="https://pretextbook.org/js/lib/jquery.espy.min.js"></script><script src="https://pretextbook.org/js/0.2/pretext.js"></script><script>miniversion=0.1</script><script src="https://pretextbook.org/js/0.2/pretext_add_on.js?x=1"></script><script src="https://pretextbook.org/js/0.2/user_preferences.js"></script><script src="https://pretextbook.org/js/lib/knowl.js"></script><!--knowl.js code controls Sage Cells within knowls--><script>sagecellEvalName='Evaluate (Sage)';
+</script><script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/lunr.js/2.3.9/lunr.min.js" integrity="sha512-4xUl/d6D6THrAnXAwGajXkoWaeMNwEKK4iNfq5DotEbLPAfk6FSxSP3ydNxqDgCw1c/0Z1Jg6L8h2j+++9BZmg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script><script src="lunr-pretext-search-index.js" async=""></script><script src="https://pretextbook.org/js/0.3/pretext_search.js"></script><link href="https://pretextbook.org/css/0.7/pretext_search.css" rel="stylesheet" type="text/css">
+<script>js_version = 0.3</script><script src="https://pretextbook.org/js/lib/jquery.min.js"></script><script src="https://pretextbook.org/js/lib/jquery.sticky.js"></script><script src="https://pretextbook.org/js/lib/jquery.espy.min.js"></script><script src="https://pretextbook.org/js/0.3/pretext.js"></script><script>miniversion=0.1</script><script src="https://pretextbook.org/js/0.3/pretext_add_on.js?x=1"></script><script src="https://pretextbook.org/js/0.3/user_preferences.js"></script><script src="https://pretextbook.org/js/lib/knowl.js"></script><!--knowl.js code controls Sage Cells within knowls--><script>sagecellEvalName='Evaluate (Sage)';
 </script><link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
 <link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@400;700&amp;family=Noto+Serif:ital,wght@0,400;0,700;1,400;1,700&amp;family=Tinos:ital,wght@0,400;0,700;1,400;1,700&amp;display=swap" rel="stylesheet">
 <link href="https://fonts.cdnfonts.com/css/dejavu-serif" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Roboto+Serif:opsz,wdth,wght@8..144,50..150,100..900&amp;display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wdth,wght@75..100,300..800&amp;display=swap" rel="stylesheet">
-<link href="https://pretextbook.org/css/0.6/pretext.css" rel="stylesheet" type="text/css">
-<link href="https://pretextbook.org/css/0.6/pretext_add_on.css" rel="stylesheet" type="text/css">
-<link href="https://pretextbook.org/css/0.6/shell_default.css" rel="stylesheet" type="text/css">
-<link href="https://pretextbook.org/css/0.6/banner_default.css" rel="stylesheet" type="text/css">
-<link href="https://pretextbook.org/css/0.6/navbar_default.css" rel="stylesheet" type="text/css">
-<link href="https://pretextbook.org/css/0.6/toc_default.css" rel="stylesheet" type="text/css">
-<link href="https://pretextbook.org/css/0.6/knowls_default.css" rel="stylesheet" type="text/css">
-<link href="https://pretextbook.org/css/0.6/style_default.css" rel="stylesheet" type="text/css">
-<link href="https://pretextbook.org/css/0.6/colors_blue_red.css" rel="stylesheet" type="text/css">
-<link href="https://pretextbook.org/css/0.6/setcolors.css" rel="stylesheet" type="text/css">
+<link href="https://pretextbook.org/css/0.7/pretext.css" rel="stylesheet" type="text/css">
+<link href="https://pretextbook.org/css/0.7/pretext_add_on.css" rel="stylesheet" type="text/css">
+<link href="https://pretextbook.org/css/0.7/shell_default.css" rel="stylesheet" type="text/css">
+<link href="https://pretextbook.org/css/0.7/banner_default.css" rel="stylesheet" type="text/css">
+<link href="https://pretextbook.org/css/0.7/navbar_default.css" rel="stylesheet" type="text/css">
+<link href="https://pretextbook.org/css/0.7/toc_default.css" rel="stylesheet" type="text/css">
+<link href="https://pretextbook.org/css/0.7/knowls_default.css" rel="stylesheet" type="text/css">
+<link href="https://pretextbook.org/css/0.7/style_default.css" rel="stylesheet" type="text/css">
+<link href="https://pretextbook.org/css/0.7/colors_blue_red.css" rel="stylesheet" type="text/css">
+<link href="https://pretextbook.org/css/0.7/setcolors.css" rel="stylesheet" type="text/css">
 </head>
 <body class="pretext book ignore-math">
-<a class="assistive" href="#ptx-content">Skip to main content</a><header id="ptx-masthead"><div class="ptx-banner">
-<a id="logo-link" href=""></a><div class="title-container">
+<a class="assistive" href="#ptx-content">Skip to main content</a><header id="ptx-masthead" class="ptx-masthead"><div class="ptx-banner">
+<a id="logo-link" class="logo-link" href=""></a><div class="title-container">
 <h1 class="heading"><a href="book-1.html"><span class="title">Introduction to Marine Engineering</span></a></h1>
 <p class="byline">Engineering Departement</p>
 </div>
-<div id="searchresultsplaceholder" style="display: none">
-<button id="closesearchresults" onclick="document.getElementById('searchresultsplaceholder').style.display = 'none'; return false;">x</button><h2>Search Results: <span id="searchterms"></span>
+<div id="searchresultsplaceholder" class="searchresultsplaceholder" style="display: none">
+<button id="closesearchresults" class="closesearchresults" onclick="document.getElementById('searchresultsplaceholder').style.display = 'none'; return false;">x</button><h2>Search Results: <span id="searchterms" class="searchterms"></span>
 </h2>
-<div id="searchempty"><span>No results.</span></div>
-<ol id="searchresults"></ol>
+<div id="searchempty" class="searchempty"><span>No results.</span></div>
+<ol id="searchresults" class="searchresults"></ol>
 </div>
-</div></header><nav id="ptx-navbar" class="navbar"><button class="toc-toggle button" aria-label="Show or hide table of contents"><span class="icon">☰</span><span class="name">Contents</span></button><button id="user-preferences-button" class="user-preferences-button button" title="Modify user preferences"><span id="theavatarbutton" class="name">You!</span><div id="preferences_menu_holder" class="hidden"><ol id="preferences_menu" style="font-family: 'Roboto Serif', serif;">
+</div></header><nav id="ptx-navbar" class="ptx-navbar navbar"><button class="toc-toggle button" aria-label="Show or hide table of contents"><span class="icon">☰</span><span class="name">Contents</span></button><button id="user-preferences-button" class="user-preferences-button button" title="Modify user preferences"><span id="avatarbutton" class="avatarbutton name">You!</span><div id="preferences_menu_holder" class="preferences_menu_holder hidden"><ol id="preferences_menu" class="preferences_menu" style="font-family: 'Roboto Serif', serif;">
 <li data-env="avatar" tabindex="-1">Choose avatar<div class="wrap_to_submenu"><span class="to_submenu">▻</span></div>
 <ol class="hidden avatar">
 <li data-val="You!" tabindex="-1">
@@ -177,8 +202,8 @@ window.MathJax = {
 <span id="theeye" class="motioncheck"></span>eye tracking - not yet</li>
 </ol>
 </li>
-</ol></div></button><span class="treebuttons"><a class="previous-button button" href="generators_principle_of_operation.html" title="Previous"><span class="icon">&lt;</span><span class="name">Prev</span></a><a class="up-button button" href="Electric-propulsion-generators.html" title="Up"><span class="icon">^</span><span class="name">Up</span></a><a class="next-button button" href="Electric-propulsion-excitation-system.html" title="Next"><span class="name">Next</span><span class="icon">&gt;</span></a></span><div class="searchbox"><div class="searchwidget">
-<input id="ptxsearch" type="text" name="terms" placeholder="Search" onchange="doSearch()"><button id="searchbutton" type="button" onclick="doSearch()">🔍</button>
+</ol></div></button><span class="treebuttons"><a class="previous-button button" href="ships-generators.html" title="Previous"><span class="icon">&lt;</span><span class="name">Prev</span></a><a class="up-button button" href="ships-generators.html" title="Up"><span class="icon">^</span><span class="name">Up</span></a><a class="next-button button" href="Electric-propulsion-excitation-system.html" title="Next"><span class="name">Next</span><span class="icon">&gt;</span></a></span><div class="searchbox"><div class="searchwidget">
+<input id="ptxsearch" class="ptxsearch" type="text" name="terms" placeholder="Search" onchange="doSearch()"><button id="searchbutton" class="searchbutton" type="button" onclick="doSearch()">🔍</button>
 </div></div></nav><div id="latex-macros" class="hidden-content process-math" style="display:none"><span class="process-math">\(
 \newcommand{\lt}{&lt;}
 \newcommand{\gt}{&gt;}
@@ -187,7 +212,7 @@ window.MathJax = {
 \newcommand{\fillinmath}[1]{\mathchoice{\colorbox{fillinmathshade}{$\displaystyle     \phantom{\,#1\,}$}}{\colorbox{fillinmathshade}{$\textstyle        \phantom{\,#1\,}$}}{\colorbox{fillinmathshade}{$\scriptstyle      \phantom{\,#1\,}$}}{\colorbox{fillinmathshade}{$\scriptscriptstyle\phantom{\,#1\,}$}}}
 \)</span></div>
 <div class="ptx-page">
-<div id="ptx-sidebar"><nav id="ptx-toc" class="depth3"><ul class="structural">
+<div id="ptx-sidebar" class="ptx-sidebar"><nav id="ptx-toc" class="ptx-toc depth3"><ul class="structural">
 <li><div class="toc-item"><a href="frontmatter.html" class="internal"><span class="title">Front Matter</span></a></div></li>
 <li>
 <div class="toc-item"><a href="safety.html" class="internal"><span class="codenumber">1</span> <span class="title">Safety</span></a></div>
@@ -209,11 +234,15 @@ window.MathJax = {
 <ul class="structural">
 <li>
 <div class="toc-item"><a href="safety-safety-management.html" class="internal"><span class="codenumber">1.2.1</span> <span class="title">Safety Management</span></a></div>
-<ul class="structural"><li><div class="toc-item"><a href="safety-ism-code.html" class="internal"><span class="title">ISM Code</span></a></div></li></ul>
+<ul class="structural">
+<li><div class="toc-item"><a href="safety-ism-code.html" class="internal"><span class="codenumber">1.2.1.1</span> <span class="title">ISM Code</span></a></div></li>
+<li><div class="toc-item"><a href="safety-solas.html" class="internal"><span class="codenumber">1.2.1.2</span> <span class="title">SOLAS</span></a></div></li>
+<li><div class="toc-item"><a href="safety-osha---29cfr.html" class="internal"><span class="codenumber">1.2.1.3</span> <span class="title">OSHA &amp; 29CFR</span></a></div></li>
+</ul>
 </li>
 <li><div class="toc-item"><a href="safety-job-hazard-analysis.html" class="internal"><span class="codenumber">1.2.2</span> <span class="title">Job Hazard Analysis</span></a></div></li>
-<li><div class="toc-item"><a href="safety-lock-out-tag-out.html" class="internal"><span class="codenumber">1.2.3</span> <span class="title">Lock out-Tag out</span></a></div></li>
-<li><div class="toc-item"><a href="safety-permit-to-work-.html" class="internal"><span class="codenumber">1.2.4</span> <span class="title">Permit to work</span></a></div></li>
+<li><div class="toc-item"><a href="safety-permit-to-work-.html" class="internal"><span class="codenumber">1.2.3</span> <span class="title">Permit to work</span></a></div></li>
+<li><div class="toc-item"><a href="safety-lockout-tagout.html" class="internal"><span class="codenumber">1.2.4</span> <span class="title">Lockout-Tagout</span></a></div></li>
 </ul>
 </li>
 <li><div class="toc-item"><a href="Personal_Safety.html" class="internal"><span class="codenumber">1.3</span> <span class="title">Personal Safety</span></a></div></li>
@@ -237,12 +266,12 @@ window.MathJax = {
 <ul class="structural"><li>
 <div class="toc-item"><a href="engineering-measurement-length.html" class="internal"><span class="codenumber">2.1.1</span> <span class="title">Length</span></a></div>
 <ul class="structural">
-<li><div class="toc-item"><a href="engineering-measurement-a-brief-history.html" class="internal"><span class="title">A Brief History</span></a></div></li>
-<li><div class="toc-item"><a href="engineering-measurement-length-units.html" class="internal"><span class="title">Length Units</span></a></div></li>
-<li><div class="toc-item"><a href="engineering-measurement-length-measuring-instruments.html" class="internal"><span class="title">Length Measuring Instruments</span></a></div></li>
-<li><div class="toc-item"><a href="engineering-measurement-unit-conversions.html" class="internal"><span class="title">Unit Conversions</span></a></div></li>
-<li><div class="toc-item"><a href="engineering-measurement-example.html" class="internal"><span class="title">Example</span></a></div></li>
-<li><div class="toc-item"><a href="engineering-measurement-example-problem.html" class="internal"><span class="title">Example Problem</span></a></div></li>
+<li><div class="toc-item"><a href="engineering-measurement-a-brief-history.html" class="internal"><span class="codenumber">2.1.1.1</span> <span class="title">A Brief History</span></a></div></li>
+<li><div class="toc-item"><a href="engineering-measurement-length-units.html" class="internal"><span class="codenumber">2.1.1.2</span> <span class="title">Length Units</span></a></div></li>
+<li><div class="toc-item"><a href="engineering-measurement-length-measuring-instruments.html" class="internal"><span class="codenumber">2.1.1.3</span> <span class="title">Length Measuring Instruments</span></a></div></li>
+<li><div class="toc-item"><a href="engineering-measurement-unit-conversions.html" class="internal"><span class="codenumber">2.1.1.4</span> <span class="title">Unit Conversions</span></a></div></li>
+<li><div class="toc-item"><a href="engineering-measurement-example.html" class="internal"><span class="codenumber">2.1.1.5</span> <span class="title">Example</span></a></div></li>
+<li><div class="toc-item"><a href="engineering-measurement-example-problem.html" class="internal"><span class="codenumber">2.1.1.6</span> <span class="title">Example Problem</span></a></div></li>
 </ul>
 </li></ul>
 </li></ul>
@@ -268,21 +297,21 @@ window.MathJax = {
 <li>
 <div class="toc-item"><a href="mechanicalenergy.html" class="internal"><span class="codenumber">3.3.1</span> <span class="title">Mechanical Energy</span></a></div>
 <ul class="structural">
-<li><div class="toc-item"><a href="work.html" class="internal"><span class="title">Work</span></a></div></li>
-<li><div class="toc-item"><a href="power.html" class="internal"><span class="title">Power</span></a></div></li>
+<li><div class="toc-item"><a href="work.html" class="internal"><span class="codenumber">3.3.1.1</span> <span class="title">Work</span></a></div></li>
+<li><div class="toc-item"><a href="power.html" class="internal"><span class="codenumber">3.3.1.2</span> <span class="title">Power</span></a></div></li>
 </ul>
 </li>
 <li>
 <div class="toc-item"><a href="thermalenergy.html" class="internal"><span class="codenumber">3.3.2</span> <span class="title">Thermal Energy</span></a></div>
 <ul class="structural">
-<li><div class="toc-item"><a href="temp.html" class="internal"><span class="title">Temperature</span></a></div></li>
-<li><div class="toc-item"><a href="internalenergy.html" class="internal"><span class="title">Internal Energy</span></a></div></li>
-<li><div class="toc-item"><a href="heat.html" class="internal"><span class="title">Heat</span></a></div></li>
-<li><div class="toc-item"><a href="enthalpy.html" class="internal"><span class="title">Enthalpy</span></a></div></li>
-<li><div class="toc-item"><a href="unitsofmeasurement.html" class="internal"><span class="title">Units of Measurement</span></a></div></li>
-<li><div class="toc-item"><a href="heattransfer.html" class="internal"><span class="title">Heat Transfer</span></a></div></li>
-<li><div class="toc-item"><a href="sensibleheatandlatentheat.html" class="internal"><span class="title">Sensible Heat and Latent Heat</span></a></div></li>
-<li><div class="toc-item"><a href="specificheat.html" class="internal"><span class="title">Specific Heat</span></a></div></li>
+<li><div class="toc-item"><a href="temp.html" class="internal"><span class="codenumber">3.3.2.1</span> <span class="title">Temperature</span></a></div></li>
+<li><div class="toc-item"><a href="internalenergy.html" class="internal"><span class="codenumber">3.3.2.2</span> <span class="title">Internal Energy</span></a></div></li>
+<li><div class="toc-item"><a href="heat.html" class="internal"><span class="codenumber">3.3.2.3</span> <span class="title">Heat</span></a></div></li>
+<li><div class="toc-item"><a href="enthalpy.html" class="internal"><span class="codenumber">3.3.2.4</span> <span class="title">Enthalpy</span></a></div></li>
+<li><div class="toc-item"><a href="unitsofmeasurement.html" class="internal"><span class="codenumber">3.3.2.5</span> <span class="title">Units of Measurement</span></a></div></li>
+<li><div class="toc-item"><a href="heattransfer.html" class="internal"><span class="codenumber">3.3.2.6</span> <span class="title">Heat Transfer</span></a></div></li>
+<li><div class="toc-item"><a href="sensibleheatandlatentheat.html" class="internal"><span class="codenumber">3.3.2.7</span> <span class="title">Sensible Heat and Latent Heat</span></a></div></li>
+<li><div class="toc-item"><a href="specificheat.html" class="internal"><span class="codenumber">3.3.2.8</span> <span class="title">Specific Heat</span></a></div></li>
 </ul>
 </li>
 </ul>
@@ -299,27 +328,63 @@ window.MathJax = {
 </ul>
 </li>
 <li>
-<div class="toc-item"><a href="introElectricty.html" class="internal"><span class="codenumber">4</span> <span class="title">Introduction to Electricity</span></a></div>
+<div class="toc-item"><a href="electricity.html" class="internal"><span class="codenumber">4</span> <span class="title">Introduction to Electricity</span></a></div>
 <ul class="structural">
-<li><div class="toc-item"><a href="introElectricty-electrical-properties.html" class="internal"><span class="codenumber">4.1</span> <span class="title">Electrical Properties</span></a></div></li>
-<li><div class="toc-item"><a href="introElectricty-electrical-circuits.html" class="internal"><span class="codenumber">4.2</span> <span class="title">Electrical Circuits</span></a></div></li>
-<li><div class="toc-item"><a href="introElectricty-ac-vs--dc.html" class="internal"><span class="codenumber">4.3</span> <span class="title">AC vs. DC</span></a></div></li>
 <li>
-<div class="toc-item"><a href="introElectricty-electrical-power.html" class="internal"><span class="codenumber">4.4</span> <span class="title">Electrical Power</span></a></div>
+<div class="toc-item"><a href="electricity-fundamental-concepts.html" class="internal"><span class="codenumber">4.1</span> <span class="title">Fundamental Concepts</span></a></div>
 <ul class="structural">
-<li><div class="toc-item"><a href="introElectricty-dc-power.html" class="internal"><span class="codenumber">4.4.1</span> <span class="title">DC Power</span></a></div></li>
-<li><div class="toc-item"><a href="introElectricty-ac-single-phase-power.html" class="internal"><span class="codenumber">4.4.2</span> <span class="title">AC Single phase Power</span></a></div></li>
-<li><div class="toc-item"><a href="introElectricty-ac-three-phase-power.html" class="internal"><span class="codenumber">4.4.3</span> <span class="title">AC Three phase power</span></a></div></li>
-<li><div class="toc-item"><a href="introElectricty-active-power--reactive-power--power-factor.html" class="internal"><span class="codenumber">4.4.4</span> <span class="title">Active Power, reactive power, power factor</span></a></div></li>
+<li><div class="toc-item"><a href="electricity-charge.html" class="internal"><span class="codenumber">4.1.1</span> <span class="title">Charge</span></a></div></li>
+<li><div class="toc-item"><a href="electricity-current.html" class="internal"><span class="codenumber">4.1.2</span> <span class="title">Current</span></a></div></li>
+<li><div class="toc-item"><a href="electricity-voltage.html" class="internal"><span class="codenumber">4.1.3</span> <span class="title">Voltage</span></a></div></li>
+<li><div class="toc-item"><a href="electricity-sine-waves.html" class="internal"><span class="codenumber">4.1.4</span> <span class="title">Sine Waves</span></a></div></li>
+<li><div class="toc-item"><a href="electricity-resistance.html" class="internal"><span class="codenumber">4.1.5</span> <span class="title">Resistance</span></a></div></li>
+<li><div class="toc-item"><a href="electricity-reactance.html" class="internal"><span class="codenumber">4.1.6</span> <span class="title">Reactance</span></a></div></li>
+<li><div class="toc-item"><a href="electricity-power.html" class="internal"><span class="codenumber">4.1.7</span> <span class="title">Power</span></a></div></li>
+<li><div class="toc-item"><a href="electricity-ohm-s-law.html" class="internal"><span class="codenumber">4.1.8</span> <span class="title">Ohm’s Law</span></a></div></li>
+<li><div class="toc-item"><a href="topic-faradays-law.html" class="internal"><span class="codenumber">4.1.9</span> <span class="title">Faraday’s Law</span></a></div></li>
 </ul>
 </li>
-<li><div class="toc-item"><a href="introElectricty-overview-of-circuits.html" class="internal"><span class="codenumber">4.5</span> <span class="title">Overview of Circuits</span></a></div></li>
-<li><div class="toc-item"><a href="introElectricty-electrical-symbols.html" class="internal"><span class="codenumber">4.6</span> <span class="title">Electrical Symbols</span></a></div></li>
-<li><div class="toc-item"><a href="introElectricty-transformers.html" class="internal"><span class="codenumber">4.7</span> <span class="title">Transformers</span></a></div></li>
-<li><div class="toc-item"><a href="introElectricty-diodes.html" class="internal"><span class="codenumber">4.8</span> <span class="title">Diodes</span></a></div></li>
-<li><div class="toc-item"><a href="introElectricty-transisters.html" class="internal"><span class="codenumber">4.9</span> <span class="title">Transisters</span></a></div></li>
-<li><div class="toc-item"><a href="introElectricty-electrical-distribution.html" class="internal"><span class="codenumber">4.10</span> <span class="title">Electrical Distribution</span></a></div></li>
-<li><div class="toc-item"><a href="introElectricty-electrical-safety.html" class="internal"><span class="codenumber">4.11</span> <span class="title">Electrical Safety</span></a></div></li>
+<li>
+<div class="toc-item"><a href="electricity-electrical-components.html" class="internal"><span class="codenumber">4.2</span> <span class="title">Electrical Components</span></a></div>
+<ul class="structural">
+<li><div class="toc-item"><a href="electricity-power-source.html" class="internal"><span class="codenumber">4.2.1</span> <span class="title">Power Source</span></a></div></li>
+<li><div class="toc-item"><a href="electricity-ground.html" class="internal"><span class="codenumber">4.2.2</span> <span class="title">Ground</span></a></div></li>
+<li><div class="toc-item"><a href="electricity-load.html" class="internal"><span class="codenumber">4.2.3</span> <span class="title">Load</span></a></div></li>
+<li><div class="toc-item"><a href="electricity-conductors.html" class="internal"><span class="codenumber">4.2.4</span> <span class="title">Conductors</span></a></div></li>
+<li><div class="toc-item"><a href="electricity-resistors.html" class="internal"><span class="codenumber">4.2.5</span> <span class="title">Resistors</span></a></div></li>
+<li><div class="toc-item"><a href="electricity-insulators.html" class="internal"><span class="codenumber">4.2.6</span> <span class="title">Insulators</span></a></div></li>
+<li><div class="toc-item"><a href="electricity-switches.html" class="internal"><span class="codenumber">4.2.7</span> <span class="title">Switches</span></a></div></li>
+<li><div class="toc-item"><a href="electricity-capacitors.html" class="internal"><span class="codenumber">4.2.8</span> <span class="title">Capacitors</span></a></div></li>
+<li><div class="toc-item"><a href="electricity-inductors.html" class="internal"><span class="codenumber">4.2.9</span> <span class="title">Inductors</span></a></div></li>
+<li><div class="toc-item"><a href="electricity-diodes.html" class="internal"><span class="codenumber">4.2.10</span> <span class="title">Diodes</span></a></div></li>
+<li><div class="toc-item"><a href="electricity-transistors-and-ics.html" class="internal"><span class="codenumber">4.2.11</span> <span class="title">Transistors and ICs</span></a></div></li>
+<li><div class="toc-item"><a href="electricity-protective-devices.html" class="internal"><span class="codenumber">4.2.12</span> <span class="title">Protective Devices</span></a></div></li>
+</ul>
+</li>
+<li>
+<div class="toc-item"><a href="electricity-electrical-circuits.html" class="internal"><span class="codenumber">4.3</span> <span class="title">Electrical Circuits</span></a></div>
+<ul class="structural">
+<li><div class="toc-item"><a href="electricity-series-circuit.html" class="internal"><span class="codenumber">4.3.1</span> <span class="title">Series Circuit</span></a></div></li>
+<li><div class="toc-item"><a href="electricity-parallel-circuit.html" class="internal"><span class="codenumber">4.3.2</span> <span class="title">Parallel Circuit</span></a></div></li>
+<li><div class="toc-item"><a href="electricity-wye-circuit.html" class="internal"><span class="codenumber">4.3.3</span> <span class="title">Wye Circuit</span></a></div></li>
+<li><div class="toc-item"><a href="electricity-delta-circuit.html" class="internal"><span class="codenumber">4.3.4</span> <span class="title">Delta Circuit</span></a></div></li>
+<li><div class="toc-item"><a href="electricity-circuit-faults.html" class="internal"><span class="codenumber">4.3.5</span> <span class="title">Circuit Faults</span></a></div></li>
+</ul>
+</li>
+<li>
+<div class="toc-item"><a href="electrical_machines.html" class="internal"><span class="codenumber">4.4</span> <span class="title">Electrical Equipment</span></a></div>
+<ul class="structural">
+<li><div class="toc-item"><a href="Electric_components_and_instruments.html" class="internal"><span class="codenumber">4.4.1</span> <span class="title">Measuring Instruments</span></a></div></li>
+<li><div class="toc-item"><a href="Batteries_and_fuel_cells.html" class="internal"><span class="codenumber">4.4.2</span> <span class="title">Batteries</span></a></div></li>
+<li><div class="toc-item"><a href="AC_generators.html" class="internal"><span class="codenumber">4.4.3</span> <span class="title">AC Generators</span></a></div></li>
+<li><div class="toc-item"><a href="Electric_motors.html" class="internal"><span class="codenumber">4.4.4</span> <span class="title">Induction Motors</span></a></div></li>
+<li><div class="toc-item"><a href="VFDs.html" class="internal"><span class="codenumber">4.4.5</span> <span class="title">Variable Frequency Drives</span></a></div></li>
+<li><div class="toc-item"><a href="Motor_starters.html" class="internal"><span class="codenumber">4.4.6</span> <span class="title">Motor Controllers</span></a></div></li>
+<li><div class="toc-item"><a href="transformers-basic.html" class="internal"><span class="codenumber">4.4.7</span> <span class="title">Transformers</span></a></div></li>
+<li><div class="toc-item"><a href="electricity-solenoids.html" class="internal"><span class="codenumber">4.4.8</span> <span class="title">Solenoids</span></a></div></li>
+<li><div class="toc-item"><a href="Shipboard_electric_systems.html" class="internal"><span class="codenumber">4.4.9</span> <span class="title">Electrical Distribution System</span></a></div></li>
+</ul>
+</li>
 </ul>
 </li>
 <li>
@@ -343,25 +408,25 @@ window.MathJax = {
 <li>
 <div class="toc-item"><a href="pressurehead.html" class="internal"><span class="codenumber">5.3.1</span> <span class="title">Head</span></a></div>
 <ul class="structural">
-<li><div class="toc-item"><a href="suctionhead.html" class="internal"><span class="title">Suction Head</span></a></div></li>
-<li><div class="toc-item"><a href="dischargehead.html" class="internal"><span class="title">Discharge Head</span></a></div></li>
-<li><div class="toc-item"><a href="netstatichead.html" class="internal"><span class="title">Net Static Head</span></a></div></li>
+<li><div class="toc-item"><a href="suctionhead.html" class="internal"><span class="codenumber">5.3.1.1</span> <span class="title">Suction Head</span></a></div></li>
+<li><div class="toc-item"><a href="dischargehead.html" class="internal"><span class="codenumber">5.3.1.2</span> <span class="title">Discharge Head</span></a></div></li>
+<li><div class="toc-item"><a href="netstatichead.html" class="internal"><span class="codenumber">5.3.1.3</span> <span class="title">Net Static Head</span></a></div></li>
 </ul>
 </li>
 <li>
 <div class="toc-item"><a href="generalpumpclassifications.html" class="internal"><span class="codenumber">5.3.2</span> <span class="title">General Pump Classifications</span></a></div>
 <ul class="structural">
-<li><div class="toc-item"><a href="bydisplacementcharacteristics.html" class="internal"><span class="title">By Displacement Characteristics</span></a></div></li>
-<li><div class="toc-item"><a href="bydeliverycharacteristics.html" class="internal"><span class="title">By Delivery Characteristics</span></a></div></li>
-<li><div class="toc-item"><a href="bysuctioncharacteristics.html" class="internal"><span class="title">By Suction Characteristics</span></a></div></li>
+<li><div class="toc-item"><a href="bydisplacementcharacteristics.html" class="internal"><span class="codenumber">5.3.2.1</span> <span class="title">By Displacement Characteristics</span></a></div></li>
+<li><div class="toc-item"><a href="bydeliverycharacteristics.html" class="internal"><span class="codenumber">5.3.2.2</span> <span class="title">By Delivery Characteristics</span></a></div></li>
+<li><div class="toc-item"><a href="bysuctioncharacteristics.html" class="internal"><span class="codenumber">5.3.2.3</span> <span class="title">By Suction Characteristics</span></a></div></li>
 </ul>
 </li>
 <li>
 <div class="toc-item"><a href="typesofpumps.html" class="internal"><span class="codenumber">5.3.3</span> <span class="title">Types of Pumps</span></a></div>
 <ul class="structural">
-<li><div class="toc-item"><a href="centrifugalpumps.html" class="internal"><span class="title">Centrifugal Pumps</span></a></div></li>
-<li><div class="toc-item"><a href="reciprocatingpumps.html" class="internal"><span class="title">Reciprocating Pumps</span></a></div></li>
-<li><div class="toc-item"><a href="rotarypumps.html" class="internal"><span class="title">Rotary Pumps</span></a></div></li>
+<li><div class="toc-item"><a href="centrifugalpumps.html" class="internal"><span class="codenumber">5.3.3.1</span> <span class="title">Centrifugal Pumps</span></a></div></li>
+<li><div class="toc-item"><a href="reciprocatingpumps.html" class="internal"><span class="codenumber">5.3.3.2</span> <span class="title">Reciprocating Pumps</span></a></div></li>
+<li><div class="toc-item"><a href="rotarypumps.html" class="internal"><span class="codenumber">5.3.3.3</span> <span class="title">Rotary Pumps</span></a></div></li>
 </ul>
 </li>
 </ul>
@@ -381,7 +446,7 @@ window.MathJax = {
 </ul>
 </li>
 <li>
-<div class="toc-item"><a href="diesel-power.html" class="internal"><span class="codenumber">8</span> <span class="title">Diesel Propulsion - Will</span></a></div>
+<div class="toc-item"><a href="diesel-power.html" class="internal"><span class="codenumber">8</span> <span class="title">Diesel Propulsion</span></a></div>
 <ul class="structural">
 <li><div class="toc-item"><a href="diesel-power-combustion-engines.html" class="internal"><span class="codenumber">8.1</span> <span class="title">Combustion Engines</span></a></div></li>
 <li><div class="toc-item"><a href="diesel-power-gas-vs--diesel-engines-and--otto-vs--diesel-cycle.html" class="internal"><span class="codenumber">8.2</span> <span class="title">Gas vs. Diesel Engines and  Otto vs. Diesel Cycle</span></a></div></li>
@@ -394,16 +459,15 @@ window.MathJax = {
 <ul class="structural">
 <li><div class="toc-item"><a href="Electric-propulsion-overview.html" class="internal"><span class="codenumber">9.1</span> <span class="title">Overview</span></a></div></li>
 <li>
-<div class="toc-item"><a href="Electric-propulsion-generators.html" class="internal"><span class="codenumber">9.2</span> <span class="title">Generators</span></a></div>
+<div class="toc-item"><a href="ships-generators.html" class="internal"><span class="codenumber">9.2</span> <span class="title">Generators</span></a></div>
 <ul class="structural">
-<li><div class="toc-item"><a href="generators_principle_of_operation.html" class="internal"><span class="codenumber">9.2.1</span> <span class="title">Principle of Operation</span></a></div></li>
-<li class="active"><div class="toc-item"><a href="description_generators.html" class="internal"><span class="codenumber">9.2.2</span> <span class="title">Description</span></a></div></li>
+<li class="active"><div class="toc-item"><a href="description_generators.html" class="internal"><span class="codenumber">9.2.1</span> <span class="title">Description</span></a></div></li>
 <li>
-<div class="toc-item"><a href="Electric-propulsion-excitation-system.html" class="internal"><span class="codenumber">9.2.3</span> <span class="title">Excitation System</span></a></div>
+<div class="toc-item"><a href="Electric-propulsion-excitation-system.html" class="internal"><span class="codenumber">9.2.2</span> <span class="title">Excitation System</span></a></div>
 <ul class="structural">
-<li><div class="toc-item"><a href="Electric-propulsion-exciter.html" class="internal"><span class="title">Exciter</span></a></div></li>
-<li><div class="toc-item"><a href="Electric-propulsion-pilot-generator.html" class="internal"><span class="title">Pilot Generator</span></a></div></li>
-<li><div class="toc-item"><a href="Electric-propulsion-voltage-regulator.html" class="internal"><span class="title">Voltage Regulator</span></a></div></li>
+<li><div class="toc-item"><a href="Electric-propulsion-exciter.html" class="internal"><span class="codenumber">9.2.2.1</span> <span class="title">Exciter</span></a></div></li>
+<li><div class="toc-item"><a href="Electric-propulsion-pilot-generator.html" class="internal"><span class="codenumber">9.2.2.2</span> <span class="title">Pilot Generator</span></a></div></li>
+<li><div class="toc-item"><a href="Electric-propulsion-voltage-regulator.html" class="internal"><span class="codenumber">9.2.2.3</span> <span class="title">Voltage Regulator</span></a></div></li>
 </ul>
 </li>
 </ul>
@@ -411,29 +475,26 @@ window.MathJax = {
 <li>
 <div class="toc-item"><a href="Electric-propulsion-propulsion-converters.html" class="internal"><span class="codenumber">9.3</span> <span class="title">Propulsion Converters</span></a></div>
 <ul class="structural">
-<li><div class="toc-item"><a href="converters_principle_of_operation.html" class="internal"><span class="codenumber">9.3.1</span> <span class="title">Principle of Operation</span></a></div></li>
+<li><div class="toc-item"><a href="overview-converters.html" class="internal"><span class="codenumber">9.3.1</span> <span class="title">Description</span></a></div></li>
 <li>
-<div class="toc-item"><a href="description_propulsion_converters.html" class="internal"><span class="codenumber">9.3.2</span> <span class="title">Description</span></a></div>
+<div class="toc-item"><a href="Electric-propulsion-drive-cabinets.html" class="internal"><span class="codenumber">9.3.2</span> <span class="title">Drive Cabinets</span></a></div>
 <ul class="structural">
-<li><div class="toc-item"><a href="Electric-propulsion-prc--process-control.html" class="internal"><span class="title">PRC – Process Control</span></a></div></li>
-<li><div class="toc-item"><a href="Electric-propulsion-clc--converter-local-control.html" class="internal"><span class="title">CLC – Converter Local Control</span></a></div></li>
-<li><div class="toc-item"><a href="Electric-propulsion-ccu--converter-cooling.html" class="internal"><span class="title">CCU – Converter Cooling</span></a></div></li>
-<li><div class="toc-item"><a href="Electric-propulsion-pre--pre-charging.html" class="internal"><span class="title">PRE – Pre-charging</span></a></div></li>
-<li><div class="toc-item"><a href="Electric-propulsion-dfe--diode-front-end-section.html" class="internal"><span class="title">DFE – Diode Front End Section</span></a></div></li>
-<li><div class="toc-item"><a href="Electric-propulsion-dcc--dc-capacitor-section.html" class="internal"><span class="title">DCC – DC Capacitor Section</span></a></div></li>
-<li><div class="toc-item"><a href="Electric-propulsion-inv--inverter.html" class="internal"><span class="title">INV – Inverter</span></a></div></li>
-<li><div class="toc-item"><a href="Electric-propulsion-ilc--inverter-local-contol.html" class="internal"><span class="title">ILC – Inverter Local Contol</span></a></div></li>
-<li><div class="toc-item"><a href="Electric-propulsion-ac-out--output--.html" class="internal"><span class="title">AC OUT – Output</span></a></div></li>
+<li><div class="toc-item"><a href="Electric-propulsion-process-control--prc-.html" class="internal"><span class="codenumber">9.3.2.1</span> <span class="title">Process Control (PRC)</span></a></div></li>
+<li><div class="toc-item"><a href="Electric-propulsion-converter-local-control--clc-.html" class="internal"><span class="codenumber">9.3.2.2</span> <span class="title">Converter Local Control (CLC)</span></a></div></li>
+<li><div class="toc-item"><a href="Electric-propulsion-converter-cooling--ccu-.html" class="internal"><span class="codenumber">9.3.2.3</span> <span class="title">Converter Cooling (CCU)</span></a></div></li>
+<li><div class="toc-item"><a href="Electric-propulsion-pre-charging--pre-.html" class="internal"><span class="codenumber">9.3.2.4</span> <span class="title">Pre-charging (PRE)</span></a></div></li>
+<li><div class="toc-item"><a href="Electric-propulsion-dfe--diode-front-end-section--dfe-.html" class="internal"><span class="codenumber">9.3.2.5</span> <span class="title">DFE – Diode Front End Section (DFE)</span></a></div></li>
+<li><div class="toc-item"><a href="Electric-propulsion-dc-capacitor-section--dcc-.html" class="internal"><span class="codenumber">9.3.2.6</span> <span class="title">DC Capacitor Section (DCC)</span></a></div></li>
+<li><div class="toc-item"><a href="Electric-propulsion-inverter--inv-.html" class="internal"><span class="codenumber">9.3.2.7</span> <span class="title">Inverter (INV)</span></a></div></li>
+<li><div class="toc-item"><a href="Electric-propulsion-inverter-local-contol--ilc-.html" class="internal"><span class="codenumber">9.3.2.8</span> <span class="title">Inverter Local Contol (ILC)</span></a></div></li>
+<li><div class="toc-item"><a href="Electric-propulsion-ac-output---ac-out-.html" class="internal"><span class="codenumber">9.3.2.9</span> <span class="title">AC Output  (AC OUT)</span></a></div></li>
 </ul>
 </li>
 </ul>
 </li>
 <li>
 <div class="toc-item"><a href="Electric-propulsion-propulsion-motors.html" class="internal"><span class="codenumber">9.4</span> <span class="title">Propulsion Motors</span></a></div>
-<ul class="structural">
-<li><div class="toc-item"><a href="Electric-propulsion-principle-of-operation.html" class="internal"><span class="codenumber">9.4.1</span> <span class="title">Principle of Operation</span></a></div></li>
-<li><div class="toc-item"><a href="Electric-propulsion-description.html" class="internal"><span class="codenumber">9.4.2</span> <span class="title">Description</span></a></div></li>
-</ul>
+<ul class="structural"><li><div class="toc-item"><a href="Electric-propulsion-description.html" class="internal"><span class="codenumber">9.4.1</span> <span class="title">Description</span></a></div></li></ul>
 </li>
 </ul>
 </li>
@@ -458,52 +519,52 @@ window.MathJax = {
 <li><div class="toc-item"><a href="TSPS.html" class="internal"><span class="codenumber">11</span> <span class="title">TS Patriot State</span></a></div></li>
 </ul></nav></div>
 <main class="ptx-main"><div id="ptx-content" class="ptx-content"><section class="subsection" id="description_generators"><h2 class="heading hide-type">
-<span class="type">Subsection</span> <span class="codenumber">9.2.2</span> <span class="title">Description</span>
+<span class="type">Subsection</span> <span class="codenumber">9.2.1</span> <span class="title">Description</span>
 </h2>
-<div class="para" id="p-559">As discussed in the previous section, the primary components of an AC generator are the armature and the field, one of which is located on the rotor and the other on the stator.  However a practical generator requires  many other components, including an enclosure, bearings, cooling, lubrication, instrumentation and control, and a method to excite the field.</div>
-<div class="para" id="p-560">These components are shown in <a href="" class="xref" data-knowl="./knowl/generator.html" title="Figure 9.2.3">Figure 9.2.3</a> and  <a href="" class="xref" data-knowl="./knowl/generator_exploded.html" title="Figure 9.2.4">Figure 9.2.4</a> and discussed below.</div>
-<div class="para" id="p-561">The shaft is supported by two journal bearings (7 and 13), one on the drive end (<dfn class="terminology">DE</dfn>) and the other on the non-drive end (<dfn class="terminology">NDE</dfn>).  Each bearing has its own integral oil sump with sight glass, cooling fins, and an oil ring that circulates the oil to the top of the shaft as it rotates.</div>
-<div class="para" id="p-562">The shaft itself supports and carries the rotating components: primarily the main rotor core (9) and the 8-pole main field windings (4), but also a cooling fan (2) and several other components (10, 11, 12, 14, 16, and 19) that are required to excite the generator.  Excitation systems will be discussed in <a href="Electric-propulsion-excitation-system.html" class="internal" title="Subsection 9.2.3: Excitation System">Subsection 9.2.3</a>.</div>
-<div class="para" id="p-563">The main field (4) on the rotor is wound to create eight alternating north and south poles. The main stator core (8) surrounds the main rotor (9) and is wound with three main armature windings (3).  As the shaft rotates, the rotor’s magnetic field sweeps by the each of the three armature windings in turn, and induces a sinusoidal voltage in each as shown in <a href="" class="xref" data-knowl="./knowl/three-phase.html" title="Figure 9.2.2">Figure 9.2.2</a>.  The resulting 3-phase AC is directed to the generator terminals (23), and from there connections are made to the main switchboard.</div>
-<figure class="figure figure-like" id="generator"><div class="image-box" style="width: 100%; margin-left: 0%; margin-right: 0%;"><img src="external/images/generator.svg" role="img" class="contained"></div>
-<figcaption><span class="type">Figure</span><span class="space"> </span><span class="codenumber">9.2.3<span class="period">.</span></span><span class="space"> </span>Hyundai HSJ9 Generator</figcaption></figure><figure class="figure figure-like" id="generator_exploded"><div class="image-box" style="width: 100%; margin-left: 0%; margin-right: 0%;"><img src="external/images/generator_exploded.png" class="contained"></div>
-<figcaption><span class="type">Figure</span><span class="space"> </span><span class="codenumber">9.2.4<span class="period">.</span></span><span class="space"> </span>Generator Exploded View</figcaption></figure><div class="para logical" id="p-564"><ol class="decimal cols2">
-<li id="li-176"><div class="para" id="p-derived-li-176">Water cooled Air Cooler</div></li>
-<li id="li-177"><div class="para" id="p-derived-li-177">Ventilation Fan</div></li>
-<li id="li-178"><div class="para" id="p-derived-li-178">Main Armature Winding</div></li>
-<li id="li-179"><div class="para" id="p-derived-li-179">Main Field Windings</div></li>
-<li id="li-180"><div class="para" id="p-derived-li-180">End Shield (DE)</div></li>
-<li id="li-181"><div class="para" id="p-derived-li-181">Shaft</div></li>
-<li id="li-182"><div class="para" id="p-derived-li-182">Bearing (DE)</div></li>
-<li id="li-183"><div class="para" id="p-derived-li-183">Main Stator Core</div></li>
-<li id="li-184"><div class="para" id="p-derived-li-184">Main Rotor Core</div></li>
-<li id="li-185"><div class="para" id="p-derived-li-185">Main Field Terminals</div></li>
-<li id="li-186"><div class="para" id="p-derived-li-186">Leads to/from Rectifier</div></li>
-<li id="li-187"><div class="para" id="p-derived-li-187">Exciter Rotor Core</div></li>
-<li id="li-188"><div class="para" id="p-derived-li-188">Bearing (NDE)</div></li>
-<li id="li-189"><div class="para" id="p-derived-li-189">Rotating Rectifier</div></li>
-<li id="li-190"><div class="para" id="p-derived-li-190">Rectifier Cover</div></li>
-<li id="li-191"><div class="para" id="p-derived-li-191">Permanent Magnet Rotor</div></li>
-<li id="li-192"><div class="para" id="p-derived-li-192">Permanent Magnet Stator</div></li>
-<li id="li-193"><div class="para" id="p-derived-li-193">End Shield (NDE)</div></li>
-<li id="li-194"><div class="para" id="p-derived-li-194">Exciter Armature Winding</div></li>
-<li id="li-195"><div class="para" id="p-derived-li-195">Exciter Field Winding</div></li>
-<li id="li-196"><div class="para" id="p-derived-li-196">Exciter Stator Core</div></li>
-<li id="li-197"><div class="para" id="p-derived-li-197">Current Transformer</div></li>
-<li id="li-198"><div class="para" id="p-derived-li-198">Main Terminal Box</div></li>
+<div class="para" id="p-925">As discussed in <a href="AC_generators.html" class="internal" title="Subsection 4.4.3: AC Generators">Subsection 4.4.3</a>, the essential components of an AC generator are the armature and the field, one of which is located on the rotor and the other on the stator.  However a practical generator requires many other components, including an enclosure, bearings, cooling, lubrication, instrumentation and control, and a method to excite the field.</div>
+<div class="para" id="p-926">These components are shown in <a href="" class="xref" data-knowl="./knowl/generator.html" title="Figure 9.2.2">Figure 9.2.2</a> and  <a href="" class="xref" data-knowl="./knowl/generator_exploded.html" title="Figure 9.2.3">Figure 9.2.3</a> and discussed below.</div>
+<div class="para" id="p-927">The shaft is supported by two journal bearings (7 and 13), one on the drive end (<dfn class="terminology">DE</dfn>) and the other on the non-drive end (<dfn class="terminology">NDE</dfn>).  Each bearing has its own integral oil sump with sight glass, cooling fins, and an oil ring that circulates the oil to the top of the shaft as it rotates.</div>
+<div class="para" id="p-928">The shaft itself supports and carries the rotating components: primarily the main rotor core (9) and the 8-pole main field windings (4), but also a cooling fan (2) and several other components (10, 11, 12, 14, 16, and 19) that are required to excite the generator.  Excitation systems will be discussed in <a href="Electric-propulsion-excitation-system.html" class="internal" title="Subsection 9.2.2: Excitation System">Subsection 9.2.2</a>.</div>
+<div class="para" id="p-929">The main field (4) on the rotor is wound to create eight alternating north and south poles. The main stator core (8) surrounds the main rotor (9) and is wound with three main armature windings (3).  As the shaft rotates, the rotor’s magnetic field sweeps by the each of the three armature windings in turn, and induces a sinusoidal voltage in each as shown in <a href="" class="xref" data-knowl="./knowl/three-phase.html" title="Figure 4.4.7">Figure 4.4.7</a>.  The resulting 3-phase AC is directed to the generator terminals (23), and from there connections are made to the main switchboard.</div>
+<figure class="figure figure-like" id="generator"><div class="image-box" style="width: 100%; margin-left: 0%; margin-right: 0%;"><img src="external/pics/Eprop/generator.svg" role="img" class="contained"></div>
+<figcaption><span class="type">Figure</span><span class="space"> </span><span class="codenumber">9.2.2<span class="period">.</span></span><span class="space"> </span>Hyundai HSJ9 Generator</figcaption></figure><figure class="figure figure-like" id="generator_exploded"><div class="image-box" style="width: 100%; margin-left: 0%; margin-right: 0%;"><img src="external/pics/Eprop/generator_exploded.png" class="contained"></div>
+<figcaption><span class="type">Figure</span><span class="space"> </span><span class="codenumber">9.2.3<span class="period">.</span></span><span class="space"> </span>Generator Exploded View</figcaption></figure><div class="para logical" id="p-930"><ol class="decimal cols2">
+<li id="li-321"><div class="para" id="p-derived-li-321">Water cooled Air Cooler</div></li>
+<li id="li-322"><div class="para" id="p-derived-li-322">Ventilation Fan</div></li>
+<li id="li-323"><div class="para" id="p-derived-li-323">Main Armature Winding</div></li>
+<li id="li-324"><div class="para" id="p-derived-li-324">Main Field Windings</div></li>
+<li id="li-325"><div class="para" id="p-derived-li-325">End Shield (DE)</div></li>
+<li id="li-326"><div class="para" id="p-derived-li-326">Shaft</div></li>
+<li id="li-327"><div class="para" id="p-derived-li-327">Bearing (DE)</div></li>
+<li id="li-328"><div class="para" id="p-derived-li-328">Main Stator Core</div></li>
+<li id="li-329"><div class="para" id="p-derived-li-329">Main Rotor Core</div></li>
+<li id="li-330"><div class="para" id="p-derived-li-330">Main Field Terminals</div></li>
+<li id="li-331"><div class="para" id="p-derived-li-331">Leads to/from Rectifier</div></li>
+<li id="li-332"><div class="para" id="p-derived-li-332">Exciter Rotor Core</div></li>
+<li id="li-333"><div class="para" id="p-derived-li-333">Bearing (NDE)</div></li>
+<li id="li-334"><div class="para" id="p-derived-li-334">Rotating Rectifier</div></li>
+<li id="li-335"><div class="para" id="p-derived-li-335">Rectifier Cover</div></li>
+<li id="li-336"><div class="para" id="p-derived-li-336">Permanent Magnet Rotor</div></li>
+<li id="li-337"><div class="para" id="p-derived-li-337">Permanent Magnet Stator</div></li>
+<li id="li-338"><div class="para" id="p-derived-li-338">End Shield (NDE)</div></li>
+<li id="li-339"><div class="para" id="p-derived-li-339">Exciter Armature Winding</div></li>
+<li id="li-340"><div class="para" id="p-derived-li-340">Exciter Field Winding</div></li>
+<li id="li-341"><div class="para" id="p-derived-li-341">Exciter Stator Core</div></li>
+<li id="li-342"><div class="para" id="p-derived-li-342">Current Transformer</div></li>
+<li id="li-343"><div class="para" id="p-derived-li-343">Main Terminal Box</div></li>
 </ol></div>
-<div class="para" id="p-565">Both the main core and the stator core are made of thin sheets of <dfn class="terminology">electrical steel</dfn>, called <dfn class="terminology">laminations</dfn>, clamped tightly together. The stationary armature windings (3) and the rotating field windings (4) are inserted into slots formed when the laminations were pressed out, and are firmly wedged in to hold them in position.</div>
-<div class="para" id="p-566">Electrical steel is a speciality steel used in the cores of electrical machines such as motors, generators, and transformers. It is an iron alloy with silicon (instead of carbon) as the main additive element. Silicon increases the electrical resistivity of iron by a factor of about 5.  Electrical steel also has favorable magnetic properties which tend to reduce magnetic <dfn class="terminology">hysteresis</dfn> — an energy loss caused by the repeated magnetization and de magnetization of the core.  These properties reduce energy losses in the core by about three times compared to conventional steel,</div>
-<div class="para" id="p-567">The laminations are insulated from each other to prevent current from flowing axially along the core.  These currents, called <dfn class="terminology">eddy currents</dfn>, are another source of energy loss, so using insulated laminations improves the generator efficiency.</div>
-<div class="para" id="p-568">Generators produce lots of heat while they are operating due to unavoidable losses caused by mechanical friction and electrical resistance, and other factors.  If this heat is not removed as it is produced, the generator temperature will rise to unacceptable limits, and high temperature is extremely damaging to electrical insulation. Electrical machines are designed to run for 100,000 hours or more when operated at or below their design temperature limit, however for every 10° C rise above this temperature, the thermal life expectancy of the electrical insulation is reduced by half, so generator cooling is critical.</div>
-<div class="para" id="p-569">The generator’s cooling system uses the shaft driven internal fan (2) to circulate the air through the machine. This hot air passes over a water-cooled heat exchanger where it is cooled and then recirculated.  The cooling water tubes are double walled with slotted plate fins. Water flows through the inner tube and cools the outer tube and the slotted fins. Air flows between the fins and around the outer tubes and so is cooled.</div>
-<div class="para" id="p-570">In the case of a tube leak,  water will flow between the inner and outer tubes to a leak detector and trigger an alarm.  This prevents water from leaking on to the electrical components.</div>
-<div class="para" id="p-571">If for some reason the cooling water is not available, an  emergency cooling mode is available.  In this mode  cover plates on the generator are removed to allow the fan to draw cool air from the engine room and discharge the heated air outside the generator.</div></section></div>
+<div class="para" id="p-931">Both the main core and the stator core are made of thin sheets of <dfn class="terminology">electrical steel</dfn>, called <dfn class="terminology">laminations</dfn>, clamped tightly together. The stationary armature windings (3) and the rotating field windings (4) are inserted into slots formed when the laminations were pressed out, and are firmly wedged in to hold them in position.</div>
+<div class="para" id="p-932">Electrical steel is a speciality steel used in the cores of electrical machines such as motors, generators, and transformers. It is an iron alloy with silicon (instead of carbon) as the main additive element. Silicon increases the electrical resistivity of iron by a factor of about 5.  Electrical steel also has favorable magnetic properties which tend to reduce magnetic <dfn class="terminology">hysteresis</dfn> — an energy loss caused by the repeated magnetization and de magnetization of the core.  These properties reduce energy losses in the core by about three times compared to conventional steel,</div>
+<div class="para" id="p-933">The laminations are insulated from each other to prevent current from flowing axially along the core.  These currents, called <dfn class="terminology">eddy currents</dfn>, are another source of energy loss, so using insulated laminations improves the generator efficiency.</div>
+<div class="para" id="p-934">Generators produce lots of heat while they are operating due to unavoidable losses caused by mechanical friction and electrical resistance, and other factors.  If this heat is not removed as it is produced, the generator temperature will rise to unacceptable limits, and high temperature is extremely damaging to electrical insulation. Electrical machines are designed to run for 100,000 hours or more when operated at or below their design temperature limit, however for every 10° C rise above this temperature, the thermal life expectancy of the electrical insulation is reduced by half, so generator cooling is critical.</div>
+<div class="para" id="p-935">The generator’s cooling system uses the shaft driven internal fan (2) to circulate the air through the machine. This hot air passes over a water-cooled heat exchanger where it is cooled and then recirculated.  The cooling water tubes are double walled with slotted plate fins. Water flows through the inner tube and cools the outer tube and the slotted fins. Air flows between the fins and around the outer tubes and so is cooled.</div>
+<div class="para" id="p-936">In the case of a tube leak,  water will flow between the inner and outer tubes to a leak detector and trigger an alarm.  This prevents water from leaking on to the electrical components.</div>
+<div class="para" id="p-937">If for some reason the cooling water is not available, an  emergency cooling mode is available.  In this mode  cover plates on the generator are removed to allow the fan to draw cool air from the engine room and discharge the heated air outside the generator.</div></section></div>
 <div class="ptx-content-footer">
-<a class="previous-button button" href="generators_principle_of_operation.html" title="Previous"><span class="icon">&lt;</span><span class="name">Prev</span></a><a class="top-button button" href="#" title="Top"><span class="icon">^</span><span class="name">Top</span></a><a class="next-button button" href="Electric-propulsion-excitation-system.html" title="Next"><span class="name">Next</span><span class="icon">&gt;</span></a>
+<a class="previous-button button" href="ships-generators.html" title="Previous"><span class="icon">&lt;</span><span class="name">Prev</span></a><a class="top-button button" href="#" title="Top"><span class="icon">^</span><span class="name">Top</span></a><a class="next-button button" href="Electric-propulsion-excitation-system.html" title="Next"><span class="name">Next</span><span class="icon">&gt;</span></a>
 </div></main>
 </div>
-<div id="ptx-page-footer">
+<div id="ptx-page-footer" class="ptx-page-footer">
 <a class="pretext-link" href="https://pretextbook.org" title="PreTeXt"><div class="logo"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="338 3000 8772 6866"><g style="stroke-width:.025in; stroke:black; fill:none"><polyline points="472,3590 472,9732 " style="stroke:#000000;stroke-width:174; stroke-linejoin:miter; stroke-linecap:round; "></polyline><path style="stroke:#000000;stroke-width:126;stroke-linecap:butt;" d="M 4724,9448 A 4660 4660  0  0  1  8598  9259"></path><path style="stroke:#000000;stroke-width:174;stroke-linecap:butt;" d="M 4488,9685 A 4228 4228  0  0  0   472  9732"></path><path style="stroke:#000000;stroke-width:126;stroke-linecap:butt;" d="M 4724,3590 A 4241 4241  0  0  1  8598  3496"></path><path style="stroke:#000000;stroke-width:126;stroke-linecap:round;" d="M 850,3496  A 4241 4241  0  0  1  4724  3590"></path><path style="stroke:#000000;stroke-width:126;stroke-linecap:round;" d="M 850,9259  A 4507 4507  0  0  1  4724  9448"></path><polyline points="5385,4299 4062,8125" style="stroke:#000000;stroke-width:300; stroke-linejoin:miter; stroke-linecap:round;"></polyline><polyline points="8598,3496 8598,9259" style="stroke:#000000;stroke-width:126; stroke-linejoin:miter; stroke-linecap:round;"></polyline><polyline points="850,3496 850,9259" style="stroke:#000000;stroke-width:126; stroke-linejoin:miter; stroke-linecap:round;"></polyline><polyline points="4960,9685 4488,9685" style="stroke:#000000;stroke-width:174; stroke-linejoin:miter; stroke-linecap:round;"></polyline><polyline points="3070,4582 1889,6141 3070,7700" style="stroke:#000000;stroke-width:300; stroke-linejoin:miter; stroke-linecap:round;"></polyline><polyline points="6418,4582 7600,6141 6418,7700" style="stroke:#000000;stroke-width:300; stroke-linejoin:miter; stroke-linecap:round;"></polyline><polyline points="8976,3590 8976,9732" style="stroke:#000000;stroke-width:174; stroke-linejoin:miter; stroke-linecap:round;"></polyline><path style="stroke:#000000;stroke-width:174;stroke-linecap:butt;" d="M 4960,9685 A 4228 4228  0  0  1  8976  9732"></path></g></svg></div></a><a class="runestone-link" href="https://runestone.academy" title="Runestone Academy"><img class="logo" src="https://runestone.academy/runestone/static/images/RAIcon_cropped.png"></a><a class="mathjax-link" href="https://www.mathjax.org" title="MathJax"><img class="logo" src="https://www.mathjax.org/badge/badge-square-2.png"></a>
 </div>
 </body>

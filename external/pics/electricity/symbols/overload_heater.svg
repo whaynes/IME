@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 101 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:10;">
+    <g transform="matrix(1,0,0,1,-19,-1536)">
+        <g transform="matrix(1.0101,0,0,1.11111,-532.314,282.667)">
+            <rect id="overload_heater" x="546" y="1128" width="99" height="90" style="fill:none;"/>
+            <clipPath id="_clip1">
+                <rect id="overload_heater1" serif:id="overload_heater" x="546" y="1128" width="99" height="90"/>
+            </clipPath>
+            <g clip-path="url(#_clip1)">
+                <g transform="matrix(0.99,0,0,0.9,6.14355,-954.879)">
+                    <g id="Fuse">
+                        <g transform="matrix(-1,0,0,1.57066,637.852,-137.439)">
+                            <path d="M53.852,1600C47.61,1600 42.543,1596.77 42.543,1592.8C42.543,1588.83 47.61,1585.6 53.852,1585.6C60.094,1585.6 65.162,1588.83 65.162,1592.8C65.162,1592.8 92.543,1592.8 92.543,1592.8" style="fill:none;stroke:black;stroke-width:1.9px;"/>
+                        </g>
+                        <g transform="matrix(1,-1.22465e-16,-1.92351e-16,-1.57066,552.767,4866.06)">
+                            <path d="M53.852,1600C47.61,1600 42.543,1596.77 42.543,1592.8C42.543,1588.83 47.61,1585.6 53.852,1585.6C60.094,1585.6 65.162,1588.83 65.162,1592.8L92.341,1592.8" style="fill:none;stroke:black;stroke-width:1.9px;"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

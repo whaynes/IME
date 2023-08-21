@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 101 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;">
+    <g transform="matrix(1,0,0,1,-4,-710)">
+        <g transform="matrix(1.0101,0,0,1.11111,-547.213,-543.333)">
+            <rect id="unpolarized_capacitor" x="546" y="1128" width="99" height="90" style="fill:none;"/>
+            <clipPath id="_clip1">
+                <rect id="unpolarized_capacitor1" serif:id="unpolarized_capacitor" x="546" y="1128" width="99" height="90"/>
+            </clipPath>
+            <g clip-path="url(#_clip1)">
+                <g id="CAPACITOR" transform="matrix(0.99,0,0,0.9,-700.321,-340.258)">
+                    <g transform="matrix(0.999445,-0.0333148,0.0333148,0.999445,-55.8781,45.394)">
+                        <path d="M1305,1669L1304,1699" style="fill:none;stroke:black;stroke-width:3px;"/>
+                    </g>
+                    <g transform="matrix(0.999445,-0.0333148,0.0333148,0.999445,-43.8781,45.394)">
+                        <path d="M1305,1669L1304,1699" style="fill:none;stroke:black;stroke-width:3px;"/>
+                    </g>
+                    <path d="M1316,1685L1369.51,1685" style="fill:none;stroke:black;stroke-width:3px;"/>
+                    <path d="M1249,1685L1304,1685" style="fill:none;stroke:black;stroke-width:3px;"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
