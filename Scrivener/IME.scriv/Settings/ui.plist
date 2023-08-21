@@ -8,7 +8,7 @@
 	<dict>
 		<key>2655DDF6-4AB8-42CB-A433-1CD76FC351D2</key>
 		<array>
-			<string>0B196510-70ED-4FF5-8586-2F113DAC798D</string>
+			<string>AFE975A0-A197-4686-AD42-99EBB39EBAEB</string>
 		</array>
 	</dict>
 	<key>CommentsScaleFactor</key>
@@ -2626,7 +2626,7 @@
 	<true/>
 	<key>collectionSelectionAutosaveName</key>
 	<array>
-		<integer>0</integer>
+		<integer>2</integer>
 	</array>
 	<key>collectionsHeight</key>
 	<real>118</real>
@@ -2790,7 +2790,7 @@
 		<key>widths</key>
 		<dict>
 			<key>TITLE</key>
-			<real>480</real>
+			<real>200</real>
 		</dict>
 	</dict>
 	<key>selectedCollectionTabIndex</key>

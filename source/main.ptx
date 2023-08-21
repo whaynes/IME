@@ -448,18 +448,18 @@ death is likely.</p>
             </subsection>
             <subsection xml:id="safety-job-hazard-analysis">
                <title>Job Hazard Analysis</title>
-               <p>A <term>job hazard analysis</term> (JHA), also known as a job safety analysis (JSA), is a systematic process used to identify and analyze potential hazards or risks associated with specific job tasks or activities. Its primary purpose is to reduce the risk of accidents by identifying potential hazards and developing appropriate controls to mitigate them.</p>
+               <p>A <term>job hazard analysis</term> (JHA), also known as a<term> job safety analysis </term>(JSA), is a systematic process used to identify and analyze potential hazards or risks associated with specific job tasks or activities. Its primary purpose is to reduce the risk of accidents by identifying potential hazards and developing appropriate controls to mitigate them.</p>
                <p>The process typically involves breaking down a job into its individual steps  and examining each step to identify potential hazards. Hazards can include physical hazards (e.g., machinery, equipment, or environmental conditions), chemical hazards (e.g., exposure to hazardous substances), biological hazards (e.g., exposure to infectious agents), ergonomic hazards (e.g., repetitive motion or lifting heavy objects), or any other factors that could pose a risk to worker safety and health.</p>
                <p>The key steps in conducting a job hazard analysis typically include: 
 <ol>
                      <li>Select the job or task to be analyzed.</li>
-                     <li> Break down the job into steps.</li>
-                     <li> Identify potential hazards for each step.</li>
+                     <li>Break down the job into steps.</li>
+                     <li>Identify potential hazards for each step.</li>
                      <li>
-                        <p> Determine the risk level for each identified hazard.  Risk level multiplies severity and the likelihood of each identified hazard.</p>
+                        <p>Determine the risk level for each identified hazard.  Risk level multiplies severity and the likelihood of each identified hazard.</p>
                      </li>
-                     <li> Develop hazard controls to eliminate or minimize the hazards. This might include engineering controls (e.g., machine guarding), administrative controls (e.g., training or procedures), or personal protective equipment (PPE)</li>
-                     <li> Communicate the findings to workers and stakeholders to ensure awareness and buy-in.</li>
+                     <li>Develop hazard controls to eliminate or minimize the hazards. This might include engineering controls (e.g., machine guarding), administrative controls (e.g., training or procedures), or personal protective equipment (PPE)</li>
+                     <li>Communicate the findings to workers and stakeholders to ensure awareness and buy-in.</li>
                      <li>Regularly review and update the job hazard analysis.</li>
                   </ol>
                </p>
@@ -519,72 +519,6 @@ death is likely.</p>
                   </ol>
                </p>
             </subsection>
-         </section>
-         <section xml:id="Personal_Safety">
-            <title>Personal Safety</title>
-            <objectives>
-               <ul>
-                  <li>
-                     <url href="https://weh.maritime.edu/stcw/2023/tables/614.html#PSSR-X3.1"
-                          visual="PSSR-X3.1"/> Importance of adhering to safe working practices at all times</li>
-                  <li>
-                     <url href="https://weh.maritime.edu/stcw/2023/tables/614.html#PSSR-X3.2"
-                          visual="PSSR-X3.2"/> Safety and protective devices available to protect against potential hazards aboard ship</li>
-                  <li>
-                     <url href="https://weh.maritime.edu/stcw/2023/tables/31.html#OICEW-D8.4"
-                          visual="OICEW-D8.4"/> Knowledge of personal safety</li>
-                  <li>
-                     <url href="https://weh.maritime.edu/stcw/2023/tables/35.html#ABE-C3.1"
-                          visual="ABE-C3.1"/> Lifting techniques and methods of preventing back injury</li>
-                  <li>
-                     <url href="https://weh.maritime.edu/stcw/2023/tables/34.html#RFPEW-A3.2"
-                          visual="RFPEW-A3.2"/> Know escape routes from machinery spaces</li>
-               </ul>
-            </objectives>
-            <p>Safety in the workplace is everyone’s responsibility, but no one is more responsible for your own personal safety than you! Here are some key safety practices to follow to ensure your own safety.</p>
-            <p>
-               <ul>
-                  <li>
-                     <title>Maintain Situational Awareness</title>
-                     <p>Always be attentive and aware of your surroundings and what is going on around you. Pay attention to potential hazards, changing conditions, and any applicable safety instructions or procedures.  Make sure you are familiar with the escape routes from the space you are in, and the location of the nearest fire extinguisher.</p>
-                  </li>
-                  <li>
-                     <title>Follow Safe Working Procedures</title>
-                     <p>Familiarize yourself with the safe working procedures for your assigned tasks and follow them meticulously. These procedures are designed to minimize risks and ensure your safety. Seek guidance if you are unsure about any aspect of your tasks.</p>
-                  </li>
-                  <li>
-                     <title>Use PPE </title>
-                     <p>Wear the appropriate personal protective equipment for your tasks and the specific hazards you may encounter. This includes hard hats, safety glasses, gloves, and safety footwear. Make sure your PPE is in good condition and fits properly.</p>
-                  </li>
-                  <li>
-                     <title>Maintain Cleanliness and Organization</title>
-                     <p>Keep your work area clean, organized, and free of clutter. Properly stow tools and equipment after use to prevent trip hazards. Promptly clean up any spills or debris to maintain a safe working environment.</p>
-                  </li>
-                  <li>
-                     <title>Practice Safe Lifting Techniques</title>
-                     <p>To lift heavy objects safely, follow these guidelines:</p>
-                     <p>Assess the object's weight and plan your lift accordingly. Warm up your muscles with light exercises. Stand close to the object with feet shoulder-width apart, keeping your back straight and bending at the knees. Get a firm grip on the object and lift using the strength of your legs, not your back. Avoid twisting and keep the object close to your body. </p>
-                     <p>Don’t hesitate to ask for help if you need it. Prioritize safety and listen to your body to prevent injuries.</p>
-                  </li>
-                  <li>
-                     <title>Maintain Personal Fitness and Well-being</title>
-                     <p>Ensure you are physically and mentally fit for the tasks assigned to you. Get enough rest, eat well, and stay hydrated. Fatigue and exhaustion can compromise your alertness and increase the risk of accidents.  Don’t abuse alcohol or drugs, and certainly don’t attempt to perform your duties when you’re impaired.</p>
-                  </li>
-                  <li>
-                     <title>Follow Emergency Procedures</title>
-                     <p>Familiarize yourself with the ship's emergency procedures, including evacuation routes, muster stations, and the proper use of life-saving equipment. Be prepared to respond calmly and promptly in case of an emergency.</p>
-                  </li>
-                  <li>
-                     <title>Practice Good Communication</title>
-                     <p>Safety is a team effort. Maintain open and effective communication with your fellow crew members.  Share safety-related information, ask questions, and seek clarification when needed. Don’t hesitate to speak up if you notice safety hazards, near misses, or unsafe practices.  Effective communication is essential for preventing, addressing and resolving safety issues promptly.</p>
-                  </li>
-                  <li>
-                     <title>Learn Continuously</title>
-                     <p>Stay proactive in expanding your safety knowledge and skills. Participate in safety training programs, attend safety briefings, and stay updated on safety regulations and best practices. Take safety drills seriously.  The more informed you are, the better equipped you will be to protect yourself contribute to a safe working environment.</p>
-                  </li>
-               </ul>
-            </p>
-            <p>By following these safety practices, you will not only protect yourself but also contribute to the overall safety of the crew and the smooth operation of the ship. Remember, safety should always be your top priority.</p>
          </section>
          <section xml:id="ppe">
             <title>Personal Protective Equipment</title>
@@ -788,6 +722,72 @@ death is likely.</p>
                <p>
                   <term>Electrically Conductive Safety Shoes</term> These shoes protect against the buildup of static electricity. Essentially, these shoes ground the employees wearing them. Employees working in explosive and hazardous locations such as explosives manufacturing facilities or grain elevators must wear conductive shoes to reduce the risk of static electricity buildup on an employee’s body that could produce a spark and cause an explosion or fire. During training, employees must be instructed not to use foot powder or wear socks made of silk, wool, or nylon with conductive shoes. Foot powder insulates and retards the conductive ability of the shoes. Silk, wool, and nylon produce static electricity. Conductive shoes are not general-purpose shoes and must be removed upon completion of the tasks for which they are required. Employees exposed to electrical hazards must <em>never</em> wear conductive shoes. </p>
             </subsection>
+         </section>
+         <section xml:id="Personal_Safety">
+            <title>Personal Safety</title>
+            <objectives>
+               <ul>
+                  <li>
+                     <url href="https://weh.maritime.edu/stcw/2023/tables/614.html#PSSR-X3.1"
+                          visual="PSSR-X3.1"/> Importance of adhering to safe working practices at all times</li>
+                  <li>
+                     <url href="https://weh.maritime.edu/stcw/2023/tables/614.html#PSSR-X3.2"
+                          visual="PSSR-X3.2"/> Safety and protective devices available to protect against potential hazards aboard ship</li>
+                  <li>
+                     <url href="https://weh.maritime.edu/stcw/2023/tables/31.html#OICEW-D8.4"
+                          visual="OICEW-D8.4"/> Knowledge of personal safety</li>
+                  <li>
+                     <url href="https://weh.maritime.edu/stcw/2023/tables/35.html#ABE-C3.1"
+                          visual="ABE-C3.1"/> Lifting techniques and methods of preventing back injury</li>
+                  <li>
+                     <url href="https://weh.maritime.edu/stcw/2023/tables/34.html#RFPEW-A3.2"
+                          visual="RFPEW-A3.2"/> Know escape routes from machinery spaces</li>
+               </ul>
+            </objectives>
+            <p>Safety in the workplace is everyone’s responsibility, but no one is more responsible for your own personal safety than you! Here are some key safety practices to follow to ensure your own safety.</p>
+            <p>
+               <ul>
+                  <li>
+                     <title>Maintain Situational Awareness</title>
+                     <p>Always be attentive and aware of your surroundings and what is going on around you. Pay attention to potential hazards, changing conditions, and any applicable safety instructions or procedures.  Make sure you are familiar with the escape routes from the space you are in, and the location of the nearest fire extinguisher.</p>
+                  </li>
+                  <li>
+                     <title>Follow Safe Working Procedures</title>
+                     <p>Familiarize yourself with the safe working procedures for your assigned tasks and follow them meticulously. These procedures are designed to minimize risks and ensure your safety. Seek guidance if you are unsure about any aspect of your tasks.</p>
+                  </li>
+                  <li>
+                     <title>Use PPE </title>
+                     <p>Wear the appropriate personal protective equipment for your tasks and the specific hazards you may encounter. This includes hard hats, safety glasses, gloves, and safety footwear. Make sure your PPE is in good condition and fits properly.</p>
+                  </li>
+                  <li>
+                     <title>Maintain Cleanliness and Organization</title>
+                     <p>Keep your work area clean, organized, and free of clutter. Properly stow tools and equipment after use to prevent trip hazards. Promptly clean up any spills or debris to maintain a safe working environment.</p>
+                  </li>
+                  <li>
+                     <title>Practice Safe Lifting Techniques</title>
+                     <p>To lift heavy objects safely, follow these guidelines:</p>
+                     <p>Assess the object's weight and plan your lift accordingly. Warm up your muscles with light exercises. Stand close to the object with feet shoulder-width apart, keeping your back straight and bending at the knees. Get a firm grip on the object and lift using the strength of your legs, not your back. Avoid twisting and keep the object close to your body. </p>
+                     <p>Don’t hesitate to ask for help if you need it. Prioritize safety and listen to your body to prevent injuries.</p>
+                  </li>
+                  <li>
+                     <title>Maintain Personal Fitness and Well-being</title>
+                     <p>Ensure you are physically and mentally fit for the tasks assigned to you. Get enough rest, eat well, and stay hydrated. Fatigue and exhaustion can compromise your alertness and increase the risk of accidents.  Don’t abuse alcohol or drugs, and certainly don’t attempt to perform your duties when you’re impaired.</p>
+                  </li>
+                  <li>
+                     <title>Follow Emergency Procedures</title>
+                     <p>Familiarize yourself with the ship's emergency procedures, including evacuation routes, muster stations, and the proper use of life-saving equipment. Be prepared to respond calmly and promptly in case of an emergency.</p>
+                  </li>
+                  <li>
+                     <title>Practice Good Communication</title>
+                     <p>Safety is a team effort. Maintain open and effective communication with your fellow crew members.  Share safety-related information, ask questions, and seek clarification when needed. Don’t hesitate to speak up if you notice safety hazards, near misses, or unsafe practices.  Effective communication is essential for preventing, addressing and resolving safety issues promptly.</p>
+                  </li>
+                  <li>
+                     <title>Learn Continuously</title>
+                     <p>Stay proactive in expanding your safety knowledge and skills. Participate in safety training programs, attend safety briefings, and stay updated on safety regulations and best practices. Take safety drills seriously.  The more informed you are, the better equipped you will be to protect yourself contribute to a safe working environment.</p>
+                  </li>
+               </ul>
+            </p>
+            <p>By following these safety practices, you will not only protect yourself but also contribute to the overall safety of the crew and the smooth operation of the ship. Remember, safety should always be your top priority.</p>
          </section>
       </chapter>
       <chapter xml:id="engineering-measurement">
@@ -2903,7 +2903,7 @@ https://www.pinterest.com/pin/386183736777263448/
                <p>The advantage of higher voltages is that for a given power, higher voltage means lower current.  (Recall <xref ref="three-phase-PEI"/>) Reduced current means that smaller diameter conductors can be used, the machine will be physically smaller and thus cheaper, and the machine will be more efficient because it will have smaller <m>I^2 R</m> losses. (Recall  <xref ref="I2R"/>) </p>
                <figure xml:id="fig_distribution_simplified">
                   <caption>  NSMV Electrical Distribution (simplified) </caption>
-                  <url href="/ime/external/pics/electricity/Distribution_simplified.pdf">
+                  <url href="/IME/external/pics/electricity/Distribution_simplified.pdf">
                      <image width="100%" source="pics/electricity/Distribution_simplified">
                         <remix>   Source:  whaynes from Diagram NSMV=321-B607   </remix>
                      </image>
@@ -3572,7 +3572,7 @@ https://www.pinterest.com/pin/386183736777263448/
             <p>Generators 1 and 2 are located in engineroom 1 and directly feed main switchboard No.1, and generators 3 and 4 are located in engine room 2 and feed main switchboard No. 2.  The switchboards can be split or cross-connected as necessary for emergency operations.</p>
             <figure xml:id="propulsion_system">
                <caption>Propulsion System One Line Diagram  </caption>
-               <url href="/ime/external/pics/Eprop/propulsion_system.pdf">
+               <url href="/IME/external/pics/Eprop/propulsion_system.pdf">
                   <image width="100%" source="pics/Eprop/propulsion_system">
                      <remix>   Source:  P1206 EMPIRE STATE MACHINERY MANUAL  FIRST DRAFT MAY 2022    </remix>
                   </image>
@@ -4032,7 +4032,7 @@ https://www.pinterest.com/pin/386183736777263448/
                <p>The propeller shaft is supported by journal bearings which maintain radial alignment, and a thrust bearing which transmits thrust from the propeller to the hull and  maintains axial alignment. The shaft is equipped with turning gear and a shaft lock. When either of these is engaged, propulsion is blocked. </p>
                <figure xml:id="DriveTrain">
                   <caption> Drive Train  </caption>
-                  <url href="/ime/external/pics/Eprop/DriveTrain.pdf">
+                  <url href="/IME/external/pics/Eprop/DriveTrain.pdf">
                      <image width="100%" source="pics/Eprop/DriveTrain">
                         <remix>   Source:  P1206 EMPIRE STATE MACHINERY MANUAL  FIRST DRAFT MAY 2022    </remix>
                      </image>

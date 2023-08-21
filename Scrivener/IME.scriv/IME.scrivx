@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="9CEE092B-52A4-40FD-A463-60A47C53A797" Version="2.0" Creator="SCRMAC-3.3.1-15588" Device="whaynes-MBP-2021" Author="" Modified="2023-08-21 10:38:34 -0400" ModID="C4F8EB24-337D-4F15-BC37-D1329DF1974E">
+<ScrivenerProject Identifier="9CEE092B-52A4-40FD-A463-60A47C53A797" Version="2.0" Creator="SCRMAC-3.3.1-15588" Device="whaynes-MBP-2021" Author="" Modified="2023-08-21 12:10:30 -0400" ModID="2CD7089D-78EE-42AD-A6CF-A6B57A2F71A3">
     <Binder>
         <BinderItem UUID="7A583553-3A84-40D6-B9B9-0430B8CD3E39" Type="DraftFolder" Created="2023-05-29 09:45:48 -0400" Modified="2023-05-29 09:45:48 -0400">
             <Title>Draft</Title>
@@ -681,139 +681,6 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem UUID="4BB02E29-15A6-42B8-A3D7-95BE9B5774F9" Type="Folder" Created="2023-05-29 10:30:12 -0400" Modified="2023-05-29 12:33:12 -0400">
-                            <Title>Personal Safety</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <CustomMetaData>
-                                    <MetaDataItem>
-                                        <FieldID>xml:id</FieldID>
-                                        <Value>Personal_Safety</Value>
-                                    </MetaDataItem>
-                                </CustomMetaData>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                            <Children>
-                                <BinderItem UUID="BA0FA56C-C2AC-4652-8205-C47CE261A96D" Type="Text" Created="2023-06-03 08:45:20 -0400" Modified="2023-06-03 10:03:48 -0400">
-                                    <Title>objectives</Title>
-                                    <MetaData>
-                                        <SectionType>BEB6ECD8-4CED-4BC3-88C4-382A387A971A</SectionType>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>747,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem UUID="605273E1-9C2F-40A5-AE93-F1790AB6CC61" Type="Text" Created="2023-05-29 14:35:00 -0400" Modified="2023-06-05 20:04:29 -0400">
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>114,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem UUID="4CBD613E-F131-40C8-BCB2-2A77E53F2AAD" Type="Text" Created="2023-05-29 15:31:50 -0400" Modified="2023-06-05 20:04:29 -0400">
-                                    <Title>Maintain Situational Awareness</Title>
-                                    <MetaData>
-                                        <SectionType>2BB0CFC2-B3AF-41C8-B9CD-2CFA6D9B8C9D</SectionType>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>323,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem UUID="DC0B81DD-D941-4E44-A4E8-1F7937358AF7" Type="Text" Created="2023-05-29 14:57:02 -0400" Modified="2023-06-05 20:04:29 -0400">
-                                    <Title>Follow Safe Working Procedures</Title>
-                                    <MetaData>
-                                        <SectionType>2BB0CFC2-B3AF-41C8-B9CD-2CFA6D9B8C9D</SectionType>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem UUID="39EAD08B-C954-42EE-9182-AD58CCEB69C4" Type="Text" Created="2023-05-29 14:57:11 -0400" Modified="2023-06-05 20:04:29 -0400">
-                                    <Title>Use PPE </Title>
-                                    <MetaData>
-                                        <SectionType>2BB0CFC2-B3AF-41C8-B9CD-2CFA6D9B8C9D</SectionType>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>149,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem UUID="A6A9868B-5EED-4215-8962-55E54E65ECD4" Type="Text" Created="2023-05-29 14:57:20 -0400" Modified="2023-06-05 20:04:29 -0400">
-                                    <Title>Maintain Cleanliness and Organization</Title>
-                                    <MetaData>
-                                        <SectionType>2BB0CFC2-B3AF-41C8-B9CD-2CFA6D9B8C9D</SectionType>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>10,4</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem UUID="64609F4A-915B-4DD5-8D34-016884BFAE82" Type="Text" Created="2023-05-29 14:57:33 -0400" Modified="2023-06-05 20:04:29 -0400">
-                                    <Title>Practice Safe Lifting Techniques</Title>
-                                    <MetaData>
-                                        <SectionType>2BB0CFC2-B3AF-41C8-B9CD-2CFA6D9B8C9D</SectionType>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>421,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem UUID="FC117564-9643-4839-BCF7-1689F843E8B3" Type="Text" Created="2023-05-29 14:59:23 -0400" Modified="2023-06-05 20:04:29 -0400">
-                                    <Title>Maintain Personal Fitness and Well-being</Title>
-                                    <MetaData>
-                                        <SectionType>2BB0CFC2-B3AF-41C8-B9CD-2CFA6D9B8C9D</SectionType>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>303,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem UUID="418A2E61-20EE-4792-8C74-AC27983B9DC4" Type="Text" Created="2023-05-29 14:57:54 -0400" Modified="2023-06-05 20:04:29 -0400">
-                                    <Title>Follow Emergency Procedures</Title>
-                                    <MetaData>
-                                        <SectionType>2BB0CFC2-B3AF-41C8-B9CD-2CFA6D9B8C9D</SectionType>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>217,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem UUID="6AF51666-AD23-4165-9B39-A88A32B4E7F3" Type="Text" Created="2023-05-29 14:58:01 -0400" Modified="2023-06-05 20:04:29 -0400">
-                                    <Title>Practice Good Communication</Title>
-                                    <MetaData>
-                                        <SectionType>2BB0CFC2-B3AF-41C8-B9CD-2CFA6D9B8C9D</SectionType>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>378,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem UUID="BC72A4A6-86D4-4410-8CC1-6BFE2E2A28B7" Type="Text" Created="2023-05-29 14:58:07 -0400" Modified="2023-06-05 20:04:29 -0400">
-                                    <Title>Learn Continuously</Title>
-                                    <MetaData>
-                                        <SectionType>2BB0CFC2-B3AF-41C8-B9CD-2CFA6D9B8C9D</SectionType>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>296,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem UUID="13F6D922-B201-4C62-A1DB-50FE5DB88A38" Type="Text" Created="2023-05-29 14:49:09 -0400" Modified="2023-06-05 20:04:29 -0400">
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>9,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                            </Children>
-                        </BinderItem>
                         <BinderItem UUID="FE240C34-3316-4080-A433-65BA7E9ADA4A" Type="Folder" Created="2023-06-03 14:45:03 -0400" Modified="2023-06-04 13:44:46 -0400">
                             <Title>Personal Protective Equipment</Title>
                             <MetaData>
@@ -1043,6 +910,139 @@
                                             </TextSettings>
                                         </BinderItem>
                                     </Children>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem UUID="4BB02E29-15A6-42B8-A3D7-95BE9B5774F9" Type="Folder" Created="2023-05-29 10:30:12 -0400" Modified="2023-05-29 12:33:12 -0400">
+                            <Title>Personal Safety</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <CustomMetaData>
+                                    <MetaDataItem>
+                                        <FieldID>xml:id</FieldID>
+                                        <Value>Personal_Safety</Value>
+                                    </MetaDataItem>
+                                </CustomMetaData>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="BA0FA56C-C2AC-4652-8205-C47CE261A96D" Type="Text" Created="2023-06-03 08:45:20 -0400" Modified="2023-06-03 10:03:48 -0400">
+                                    <Title>objectives</Title>
+                                    <MetaData>
+                                        <SectionType>BEB6ECD8-4CED-4BC3-88C4-382A387A971A</SectionType>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>747,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="605273E1-9C2F-40A5-AE93-F1790AB6CC61" Type="Text" Created="2023-05-29 14:35:00 -0400" Modified="2023-06-05 20:04:29 -0400">
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>114,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="4CBD613E-F131-40C8-BCB2-2A77E53F2AAD" Type="Text" Created="2023-05-29 15:31:50 -0400" Modified="2023-06-05 20:04:29 -0400">
+                                    <Title>Maintain Situational Awareness</Title>
+                                    <MetaData>
+                                        <SectionType>2BB0CFC2-B3AF-41C8-B9CD-2CFA6D9B8C9D</SectionType>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>323,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="DC0B81DD-D941-4E44-A4E8-1F7937358AF7" Type="Text" Created="2023-05-29 14:57:02 -0400" Modified="2023-06-05 20:04:29 -0400">
+                                    <Title>Follow Safe Working Procedures</Title>
+                                    <MetaData>
+                                        <SectionType>2BB0CFC2-B3AF-41C8-B9CD-2CFA6D9B8C9D</SectionType>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="39EAD08B-C954-42EE-9182-AD58CCEB69C4" Type="Text" Created="2023-05-29 14:57:11 -0400" Modified="2023-06-05 20:04:29 -0400">
+                                    <Title>Use PPE </Title>
+                                    <MetaData>
+                                        <SectionType>2BB0CFC2-B3AF-41C8-B9CD-2CFA6D9B8C9D</SectionType>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>149,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="A6A9868B-5EED-4215-8962-55E54E65ECD4" Type="Text" Created="2023-05-29 14:57:20 -0400" Modified="2023-06-05 20:04:29 -0400">
+                                    <Title>Maintain Cleanliness and Organization</Title>
+                                    <MetaData>
+                                        <SectionType>2BB0CFC2-B3AF-41C8-B9CD-2CFA6D9B8C9D</SectionType>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>10,4</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="64609F4A-915B-4DD5-8D34-016884BFAE82" Type="Text" Created="2023-05-29 14:57:33 -0400" Modified="2023-06-05 20:04:29 -0400">
+                                    <Title>Practice Safe Lifting Techniques</Title>
+                                    <MetaData>
+                                        <SectionType>2BB0CFC2-B3AF-41C8-B9CD-2CFA6D9B8C9D</SectionType>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>421,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="FC117564-9643-4839-BCF7-1689F843E8B3" Type="Text" Created="2023-05-29 14:59:23 -0400" Modified="2023-06-05 20:04:29 -0400">
+                                    <Title>Maintain Personal Fitness and Well-being</Title>
+                                    <MetaData>
+                                        <SectionType>2BB0CFC2-B3AF-41C8-B9CD-2CFA6D9B8C9D</SectionType>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>303,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="418A2E61-20EE-4792-8C74-AC27983B9DC4" Type="Text" Created="2023-05-29 14:57:54 -0400" Modified="2023-06-05 20:04:29 -0400">
+                                    <Title>Follow Emergency Procedures</Title>
+                                    <MetaData>
+                                        <SectionType>2BB0CFC2-B3AF-41C8-B9CD-2CFA6D9B8C9D</SectionType>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>217,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="6AF51666-AD23-4165-9B39-A88A32B4E7F3" Type="Text" Created="2023-05-29 14:58:01 -0400" Modified="2023-06-05 20:04:29 -0400">
+                                    <Title>Practice Good Communication</Title>
+                                    <MetaData>
+                                        <SectionType>2BB0CFC2-B3AF-41C8-B9CD-2CFA6D9B8C9D</SectionType>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>378,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="BC72A4A6-86D4-4410-8CC1-6BFE2E2A28B7" Type="Text" Created="2023-05-29 14:58:07 -0400" Modified="2023-06-05 20:04:29 -0400">
+                                    <Title>Learn Continuously</Title>
+                                    <MetaData>
+                                        <SectionType>2BB0CFC2-B3AF-41C8-B9CD-2CFA6D9B8C9D</SectionType>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>296,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="13F6D922-B201-4C62-A1DB-50FE5DB88A38" Type="Text" Created="2023-05-29 14:49:09 -0400" Modified="2023-06-05 20:04:29 -0400">
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>9,0</TextSelection>
+                                    </TextSettings>
                                 </BinderItem>
                             </Children>
                         </BinderItem>
@@ -3025,13 +3025,13 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                     <Children>
-                                        <BinderItem UUID="04DE4105-2BB6-4E3A-BFDE-E5FA0CEE7A51" Type="Text" Created="2023-08-15 13:11:40 -0400" Modified="2023-08-18 12:42:39 -0400">
+                                        <BinderItem UUID="04DE4105-2BB6-4E3A-BFDE-E5FA0CEE7A51" Type="Text" Created="2023-08-15 13:11:40 -0400" Modified="2023-08-21 12:06:37 -0400">
                                             <Title>introduction</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>1303,0</TextSelection>
+                                                <TextSelection>1178,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem UUID="359E45C9-43EB-4301-85FF-A1E265969CC3" Type="Text" Created="2023-08-15 14:59:17 -0400" Modified="2023-08-15 21:39:34 -0400">
@@ -4161,13 +4161,13 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem UUID="0D67A96B-1BF5-4948-BB9A-825975916906" Type="Folder" Created="2023-05-31 15:03:02 -0400" Modified="2023-08-18 12:43:17 -0400">
+                        <BinderItem UUID="0D67A96B-1BF5-4948-BB9A-825975916906" Type="Folder" Created="2023-05-31 15:03:02 -0400" Modified="2023-08-21 12:06:57 -0400">
                             <Title>Overview</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>881,0</TextSelection>
+                                <TextSelection>772,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="79744FFB-DBFD-47D2-A159-B75EE1220CF9" Type="Folder" Created="2023-05-31 15:03:02 -0400" Modified="2023-08-15 15:41:03 -0400">
@@ -4407,14 +4407,14 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="AFE975A0-A197-4686-AD42-99EBB39EBAEB" Type="Text" Created="2023-06-24 16:57:12 -0400" Modified="2023-08-18 12:54:24 -0400">
+                                <BinderItem UUID="AFE975A0-A197-4686-AD42-99EBB39EBAEB" Type="Text" Created="2023-06-24 16:57:12 -0400" Modified="2023-08-21 12:06:57 -0400">
                                     <Title>introduction</Title>
                                     <MetaData>
                                         <SectionType>9D1ADC50-E7BB-4E40-BA04-CCA44927A08E</SectionType>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>1704,0</TextSelection>
+                                        <TextSelection>1725,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="E1B5645E-B806-4253-8278-4EC82459B766" Type="Folder" Created="2023-06-22 10:52:59 -0400" Modified="2023-08-18 12:54:56 -0400">
@@ -6427,7 +6427,7 @@
         </Collection>
         <Collection Type="RecentSearch" ID="2655DDF6-4AB8-42CB-A433-1CD76FC351D2" Color="0.922173 0.818612 0.999627">
             <Title>Search Results</Title>
-            <SearchSettings Operator="All" Type="Text" Scope="Draft" ExcludeTrash="Yes" CaseSensitive="No" IgnoreDiacritics="No">tbd</SearchSettings>
+            <SearchSettings Operator="All" Type="Text" Scope="Draft" ExcludeTrash="Yes" CaseSensitive="No" IgnoreDiacritics="No">ime/external</SearchSettings>
         </Collection>
     </Collections>
     <SectionTypes>
@@ -6512,7 +6512,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 08:24:39 -0400" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2023-08-22 01:00:00 -0400" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="782" Characters="5385" Date="2023-08-21 08:01:03 -0400"/>
+        <PreviousSession Words="782" Characters="5385" Date="2023-08-21 12:10:17 -0400"/>
     </ProjectTargets>
     <RecentWritingHistory Date="2023-08-21 00:00:00 -0400">
         <DraftWordCount>782</DraftWordCount>

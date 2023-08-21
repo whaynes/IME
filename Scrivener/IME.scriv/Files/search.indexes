@@ -220,7 +220,7 @@ High voltage (above 1 kV) is used for very large motors, 400 kW or greater, such
 The advantage of higher voltages is that for a given power, higher voltage means lower current.  (Recall &lt;xref ref="three-phase-PEI"/&gt;) Reduced current means that smaller diameter conductors can be used, the machine will be physically smaller and thus cheaper, and the machine will be more efficient because it will have smaller I^2 R losses. (Recall  &lt;xref ref="I2R"/&gt;) 
 &lt;figure xml:id="fig_distribution_simplified"&gt;
 &lt;caption&gt;  NSMV Electrical Distribution (simplified) &lt;/caption&gt;
-&lt;url href="/ime/external/pics/electricity/Distribution_simplified.pdf"&gt;&lt;image width="100%" source="pics/electricity/Distribution_simplified"&gt;
+&lt;url href="/IME/external/pics/electricity/Distribution_simplified.pdf"&gt;&lt;image width="100%" source="pics/electricity/Distribution_simplified"&gt;
 &lt;remix&gt;&lt;![CDATA[   Source:  whaynes from Diagram NSMV=321-B607   ]]&gt;&lt;/remix&gt;
 &lt;/image&gt;
 &lt;/url&gt;
@@ -5589,7 +5589,7 @@ The propeller shaft is supported by journal bearings which maintain radial align
 &lt;figure xml:id="DriveTrain"&gt;
 
 &lt;caption&gt; Drive Train  &lt;/caption&gt;
-&lt;url href="/ime/external/pics/Eprop/DriveTrain.pdf" &gt;&lt;image width="100%" source="pics/Eprop/DriveTrain"&gt;
+&lt;url href="/IME/external/pics/Eprop/DriveTrain.pdf" &gt;&lt;image width="100%" source="pics/Eprop/DriveTrain"&gt;
 &lt;remix&gt;&lt;![CDATA[   Source:  P1206 EMPIRE STATE MACHINERY MANUAL  FIRST DRAFT MAY 2022    ]]&gt;&lt;/remix&gt;
 &lt;/image&gt; &lt;/url&gt;
 &lt;/figure&gt;
@@ -29335,7 +29335,7 @@ Generators 1 and 2 are located in engineroom 1 and directly feed main switchboar
 
 &lt;figure xml:id="propulsion_system"&gt;
 &lt;caption&gt;Propulsion System One Line Diagram  &lt;/caption&gt;
-&lt;url href="/ime/external/pics/Eprop/propulsion_system.pdf"&gt;&lt;image width="100%" source="pics/Eprop/propulsion_system"&gt;
+&lt;url href="/IME/external/pics/Eprop/propulsion_system.pdf"&gt;&lt;image width="100%" source="pics/Eprop/propulsion_system"&gt;
 &lt;remix&gt;&lt;![CDATA[   Source:  P1206 EMPIRE STATE MACHINERY MANUAL  FIRST DRAFT MAY 2022    ]]&gt;&lt;/remix&gt;
 &lt;/image&gt;&lt;/url&gt;
 &lt;/figure&gt;
