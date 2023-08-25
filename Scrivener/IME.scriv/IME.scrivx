@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="9CEE092B-52A4-40FD-A463-60A47C53A797" Version="2.0" Creator="SCRMAC-3.3.1-15588" Device="whaynes-MBP-2021" Author="" Modified="2023-08-21 12:10:30 -0400" ModID="2CD7089D-78EE-42AD-A6CF-A6B57A2F71A3">
+<ScrivenerProject Identifier="9CEE092B-52A4-40FD-A463-60A47C53A797" Version="2.0" Creator="SCRMAC-3.3.1-15588" Device="whaynes-MBP-2021" Author="" Modified="2023-08-25 14:39:09 -0400" ModID="50E1A915-8F13-4D8B-ABE0-540612366700">
     <Binder>
         <BinderItem UUID="7A583553-3A84-40D6-B9B9-0430B8CD3E39" Type="DraftFolder" Created="2023-05-29 09:45:48 -0400" Modified="2023-05-29 09:45:48 -0400">
             <Title>Draft</Title>
@@ -696,14 +696,14 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="A28CAD9C-E25F-491F-909D-91FAE235F821" Type="Text" Created="2023-06-03 14:45:03 -0400" Modified="2023-06-05 20:04:29 -0400">
+                                <BinderItem UUID="A28CAD9C-E25F-491F-909D-91FAE235F821" Type="Text" Created="2023-06-03 14:45:03 -0400" Modified="2023-08-23 21:16:02 -0400">
                                     <Title>introduction</Title>
                                     <MetaData>
                                         <SectionType>9D1ADC50-E7BB-4E40-BA04-CCA44927A08E</SectionType>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>231,0</TextSelection>
+                                        <TextSelection>0,29</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="018B1F5D-7CBC-4DC2-8D11-5B5365194BE8" Type="Folder" Created="2023-06-03 14:45:03 -0400" Modified="2023-06-03 14:48:28 -0400">
@@ -1999,14 +1999,14 @@
                                                 <TextSelection>1443,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="B4ADECB4-095F-481C-AA42-896FB063B602" Type="Text" Created="2023-08-08 14:32:30 -0400" Modified="2023-08-10 18:31:29 -0400">
+                                        <BinderItem UUID="B4ADECB4-095F-481C-AA42-896FB063B602" Type="Text" Created="2023-08-08 14:32:30 -0400" Modified="2023-08-23 21:16:25 -0400">
                                             <Title>Three phase AC Circuits</Title>
                                             <MetaData>
                                                 <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>184,15</TextSelection>
+                                                <TextSelection>464,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                     </Children>
@@ -2937,13 +2937,13 @@
                                                 <TextSelection>621,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="4C00553A-7822-41AC-B670-CE08A2F22C6E" Type="Text" Created="2023-08-07 11:22:51 -0400" Modified="2023-08-20 08:57:03 -0400">
+                                        <BinderItem UUID="4C00553A-7822-41AC-B670-CE08A2F22C6E" Type="Text" Created="2023-08-07 11:22:51 -0400" Modified="2023-08-21 15:55:35 -0400">
                                             <Title>Motor Control</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>2829,0</TextSelection>
+                                                <TextSelection>2345,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem UUID="AA4BA54B-EC0C-430C-A3DF-795547F44C25" Type="Text" Created="2023-08-07 11:22:51 -0400" Modified="2023-08-20 08:58:36 -0400">
@@ -6511,12 +6511,12 @@
     </CustomMetaDataSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 08:24:39 -0400" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2023-08-22 01:00:00 -0400" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="782" Characters="5385" Date="2023-08-21 12:10:17 -0400"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2023-08-26 01:00:00 -0400" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2023-08-25 14:39:07 -0400"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2023-08-21 00:00:00 -0400">
-        <DraftWordCount>782</DraftWordCount>
-        <DraftCharCount>5385</DraftCharCount>
+    <RecentWritingHistory Date="2023-08-25 00:00:00 -0400">
+        <DraftWordCount>0</DraftWordCount>
+        <DraftCharCount>0</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>

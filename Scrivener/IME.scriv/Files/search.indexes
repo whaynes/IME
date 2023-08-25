@@ -4022,7 +4022,7 @@ A 440 V shore power connection is provided to supply electrical power to the shi
             <Title>Motor Control</Title>
             <Text>Next, we will describe the operation of one simple and common motor controller: an across-the-line starter.  It is given this name because the controller connects the motor’s stator windings directly across the power lines and starts it using full line voltage. This type of motor controller is very common, and is worth studying as its basic control circuit is the foundation of many other devices.
 The power and control circuits for an across-the-line starter are shown in &lt;xref ref="fig_motor_controller"/&gt;. The circuit consists of two parts: the three-phase power circuit (blue) , which connects the power supply, entering from the left, to the motor, and the single-phase control circuit (black) which is responsible for the control functions. 
-The power circuit consists of a circuit breaker (1), three main contacts (2),  three overload sensors (3), and connections to the motor (4). The control circuit consists of two control fuses (5), start (6) and stop (7) buttons, a latching relay, (8), the contactor operating coil (9), and normally closed overload relay contacts (10).
+The power circuit consists of a circuit breaker (1), three main contacts (2),  three overload sensors (3), and connections to the motor (4). The control circuit consists of two control fuses (5), start (6) and stop (7) buttons, an auxiliary relay, (8), the contactor operating coil (9), and normally closed overload relay contacts (10).
 
 &lt;figure xml:id="fig_motor_controller"&gt;
 &lt;caption&gt; Across-the-line starter  &lt;/caption&gt;
@@ -4033,10 +4033,10 @@ The power circuit consists of a circuit breaker (1), three main contacts (2),  t
 
 The operation is as follows: &lt;ol&gt;
 The start button is a momentary push-to-close switch. When it is closed, it completes the control circuit, and energizes the main operating coil. 
-The main operating coil is part of the contactor assembly&lt;fn&gt;The contactor assembly consists of the coil (9), and contacts (2), and (8).  When the coil is de-energized, the contacts are held open by a spring.  When it is energized, the coil closes the contacts electromagnetically. &lt;/fn&gt;. When the main operating coil energizes it closes three main contacts    in the power circuit and the auxiliary contact in the control circuit. 
+The main operating coil is part of the contactor assembly&lt;fn&gt;The contactor assembly consists of the coil (9), and contacts (2), and (8).  When the coil is de-energized, the contacts are held open by a spring.  When it is energized, the coil closes the contacts electromagnetically. &lt;/fn&gt;. When the main operating coil energizes it closes three main contacts  in the power circuit and the auxiliary contact in the control circuit. 
 &lt;li&gt;
 Closing the main contacts completes the circuit between the power supply and the motor, allowing current to flow directly to the motor's terminals and start the motor.
-Since the auxiliary contact is  wired in parallel with the start button, after it closes the start button may be released and the motor will continue to operate.
+Since the auxiliary contact is  wired in parallel with the start button, after it closes the start button may be released and the motor will continue to operate.  For this reason, the auxiliary contact is sometimes called the latch contact.
 &lt;/li&gt;
 &lt;li&gt;&lt;p&gt;The motor will continue to run until one of the following happens:&lt;ul&gt;
 The stop button is pressed.  This breaks the control circuit and de-energizes the main coil.  This causes the main and auxiliary contacts to open and stop the motor.

@@ -14,7 +14,7 @@
 \f0\b0\fs24 <!$Scr_Cs::4>
 \f1\fs32  starter.  It is given this name because the controller connects the motor\'92s stator windings directly across the power lines and starts it using full line voltage. This type of motor controller is very common, and is worth studying as its basic control circuit is the foundation of many other devices.\
 The power and control circuits for an across-the-line starter are shown in <xref ref="fig_motor_controller"/>. The circuit consists of two parts: the three-phase power circuit (blue) , which connects the power supply, entering from the left, to the motor, and the single-phase control circuit (black) which is responsible for the control functions. \
-The power circuit consists of a circuit breaker (1), three main contacts (2),  three overload sensors (3), and connections to the motor (4). The control circuit consists of two control fuses (5), start (6) and stop (7) buttons, a latching relay, (8), the contactor operating coil (9), and normally closed overload relay contacts (10).\
+The power circuit consists of a circuit breaker (1), three main contacts (2),  three overload sensors (3), and connections to the motor (4). The control circuit consists of two control fuses (5), start (6) and stop (7) buttons, an auxiliary relay, (8), the contactor operating coil (9), and normally closed overload relay contacts (10).\
 \
 \pard\sb40\sa40\pardirnatural\partightenfactor0
 
@@ -54,7 +54,7 @@ The
 \f0\fs24 \cf2 <$Scr_Cs::4>
 \f4\b\fs28 main contacts
 \f0\b0\fs24 \cf5 <!$Scr_Cs::4>
-\f3\fs28     in the power circuit and the 
+\f3\fs28   in the power circuit and the 
 \f0\fs24 \cf2 <$Scr_Cs::4>
 \f4\b\fs28 auxiliary contact
 \f0\b0\fs24 \cf5 <!$Scr_Cs::4>
@@ -67,7 +67,11 @@ The
 
 \f0\fs24 \cf2 <!$Scr_Ps::1><$Scr_Ps::0>
 \f1\fs32 Closing the main contacts completes the circuit between the power supply and the motor, allowing current to flow directly to the motor's terminals and start the motor.\
-Since the auxiliary contact is  wired in parallel with the start button, after it closes the start button may be released and the motor will continue to operate.\
+Since the auxiliary contact is  wired in parallel with the start button, after it closes the start button may be released and the motor will continue to operate.  For this reason, the auxiliary contact is sometimes called the 
+\f0\fs24 <$Scr_Cs::4>
+\f2\b\fs32 latch
+\f0\b0\fs24 <!$Scr_Cs::4>
+\f1\fs32  contact.\
 \pard\sb40\sa40\pardirnatural\partightenfactor0
 
 \f0\fs24 \cf3 <!$Scr_Ps::0><$Scr_Ps::1>
