@@ -1,0 +1,12 @@
+<p> The direct contact (DC) heater provides a second stage of regenerative feed heating. In a
+        direct contact heater, heat exchange occurs by mixing of the hot and cooler fluids, hence
+        the name. Condensate is heated by either auxiliary exhaust steam or by intermediate pressure
+        bleed steam. The condensate in the DC heater is at a saturated state, so its temperature can
+        be determined from the pressure of the heating steam. </p>
+<p> In addition to heating, the DC heater acts as a storage tank for condensate in the system,
+        permitting minor fluctuation in the total amount of condensate contained within the cycle
+        without causing disruption to the system. Finally, the DC heater acts as a deaerator, a
+        device to remove corrosive dissolved oxygen from the condensate. </p>
+<p> A change in terminology occurs at the bottom of the DC heater. From this point on, the
+        condensate is referred to as <em>feed water</em>. </p>
+<p> The DC heater is discussed in detail in the <xref ref="dcheaterchap"/>. </p>

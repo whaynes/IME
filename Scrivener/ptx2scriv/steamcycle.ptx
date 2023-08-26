@@ -1,0 +1,864 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter xml:id="thesteamcycle" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>The Steam Cycle</title>
+  <introduction>
+    <p> There are two main methods used for propulsion of merchant ships today: steam turbines and
+      diesel engines. Sail and steam reciprocating engines are long obsolete, and nuclear power,
+      while used for some naval vessels, has been found to be impractical for merchant ships.
+      Recently a few ships have been built with gas turbine propulsion, but it is not yet common. </p>
+    <p> Over the last 40 years, diesel propulsion has displaced steam propulsion as the dominant
+      method of merchant ship propulsion, mainly because it has higher fuel efficiency, but also
+      because it is easier to automate, requires less maintenance, and can be operated with smaller
+      crews – all factors leading to operating cost reductions. Nevertheless, steam propulsion
+      remains important, if for no other reason than it is the method we use aboard our training
+      ship <em>Kennedy</em>. Also, steam power is used extensively in industry and power generation
+      ashore, and the skills developed by a steam engineer aboard ship find high demand in the
+      shoreside job market. </p>
+    <p> In this chapter we will discuss steam propulsion and the steam cycle. The steam cycle is the
+      thermodynamic process which marine engineers use to transform the energy contained in the
+      ship’s fuel oil or <em>bunkers</em> into the power to turn the ship’s propeller and supply all
+      the other requirements necessary to move a steam ship from one point to another. We will begin
+      with a discussion of a very simplified version of the steam cycle, which nevertheless
+      illustrates all the important principles of its operation. Later, we will progress to a more
+      detailed, practical, and efficient version of the cycle, which more closely represents the
+      cycle used on other steam ships. The function of each of the components of the cycle will be
+      briefly described here, and in more detail in later chapters. This cycle described here is not
+      the only possibility, but it is representative, and it provides a good foundation for further
+      study. </p>
+  </introduction>
+  <section xml:id="simplifiedsteamcycle">
+    <title>Simplified Steam Cycle</title>
+    <introduction>
+      <p>
+        <xref ref="simplified_png"/> shows a very simplified version of the steam cycle, which is an
+        appropriate starting point for our discussion of ship’s propulsion. </p>
+      <p> The steam cycle is an example of what is known by engineers as a <em>cyclic heat
+          engine</em>. It is called cyclic, because it operates on a cycle. It uses a <em>working
+          fluid</em>, water, which travels from point to point through the cycle, changing form and
+        carrying energy, but eventually returning to the starting point restored to the same
+          <em>state</em> that it started with. It is called a heat engine, because it transforms
+          <em>heat</em>, which is a form of energy, into <em>work</em>, another form of energy. The
+        thermodynamic name for this cycle is the <em>Rankine Cycle.</em>
+      </p>
+      <p> The steam cycle consists of four stages </p>
+      <p>
+        <ol>
+          <li>
+            <p> generation </p>
+          </li>
+          <li>
+            <p> expansion </p>
+          </li>
+          <li>
+            <p> condensation </p>
+          </li>
+          <li>
+            <p> recovery </p>
+          </li>
+        </ol>
+      </p>
+      <p>Since this is a cycle, it has no beginning or end, but <em>we</em> have to start somewhere,
+        so let’s begin with the generation stage.</p>
+      <figure xml:id="simplified_png">
+        <caption>Simplified Steam Cycle</caption>
+        <image source="pics/steamcycle/simplified.png"/>
+      </figure>
+    </introduction>
+    <subsection xml:id="generation">
+      <title>Generation</title>
+      <p> Steam generation occurs in the boiler. The boiler is simply a device used to boil water.
+        Like a tea-kettle on the stove, it contains liquid water and a heat source. As the water is
+        heated, its temperature rises and soon it begins to boil. On the stove, the water vapor or
+        steam rises and dissipates into the kitchen, but not so in a boiler. The boiler is a closed
+        vessel, like a pot with a lid, and any steam generated in the boiler rises to the top and is
+        collected before being sent on to the next step of the cycle. </p>
+      <p> In the generation stage, the chemical energy stored in the ship’s fuel is released when
+        the fuel is burned in the boiler furnace, and some of this energy is transferred to the
+        working fluid – the water. The water gains energy, and we can detect this in two ways: the
+        water’s temperature goes up, and the water changes <em>state</em> from a liquid into water
+        vapor, which we call steam. Steam leaves the boiler at high pressure and high temperature. </p>
+      <p>As we will learn in <xref ref="thermodynamics"/>, heat energy which raises the temperature
+        of a substance such as water or steam is sometimes called <em>sensible heat</em> while the
+        heat energy that actually boils the substance is called <em>latent heat</em>. </p>
+      <p> You probably remember that water boils at 212 °F at standard atmospheric pressure (14.7
+        psia). If you put a thermometer into a pan of water boiling on the stove, this is what it
+        will read. Even if you turn the flame up to add more heat energy, you won’t be able to make
+        the water temperature rise above 212 °F. This is because you are adding latent heat, which
+        is not reflected by an increase in the water’s temperature. All of the heat energy is being
+        used to turn the liquid water into a vapor. </p>
+      <p> The boiling or condensing temperature of a liquid is known as its <em>saturation</em>
+        temperature. The saturation temperature for a particular liquid is determined by its
+        pressure, and cannot be changed. For example, 212 °F is the saturation temperature for water
+        at atmospheric pressure, and there is nothing anybody can do to change it. </p>
+      <p> In order to reach high steam temperatures, which is necessary for high steam cycle
+        efficiency, the boiler must be operated at a pressure far above atmospheric pressure. A
+        typical marine boiler operates at about 600 psi while some have operated as high as 1200
+        psi, although this introduces additional maintenance difficulties. Shoreside steam power
+        plants operate at 3000 psi or even higher. </p>
+      <p> Steam temperature is raised even further by superheating the steam. Superheating steam
+        raises its temperature above the saturation temperature for the corresponding steam pressure
+        by continuing to add heat to the steam after it has completely vaporized. This must take
+        place in a separate area, called the <em>superheater,</em> away from liquid water, or the
+        additional heat would simply boil more water rather than superheating the steam. Superheated
+        steam is said to be <em>dry</em>, which means that all liquid water has vaporized and it
+        contains no moisture droplets. Drops of liquid water would damage the turbine in the
+        expansion step described below. </p>
+      <p> Improving efficiency is a major concern of mechanical and marine engineers. High
+        efficiency means that fuel is not wasted, and operating costs are minimized. Practical
+        boiler designs incorporate many techniques to maximize efficiency. For example, not all of
+        the chemical energy originally contained by the fuel ends up transferred to the steam. A
+        large portion of this energy is lost up the smokestack, carried away by the combustion
+        gases. Practical boilers usually contain some sort of heat exchanger in the smokestack in an
+        effort to recover some of this energy. </p>
+    </subsection>
+    <subsection xml:id="expansion">
+      <title>Expansion</title>
+      <p> The thermal energy added to the working fluid in the generation stage is converted to
+        mechanical energy, or work, in the expansion stage. This work is produced in the form of a
+        rotating turbine shaft which drives the propeller and moves the ship through the water. The
+        more energy we can remove at this stage, the higher the efficiency of the steam cycle.
+        Unfortunately, it is not possible to remove all the energy from the steam in the turbine.
+        Some energy remains in the steam and is carried to the next stage of the cycle. </p>
+      <p> A <em>turbine</em> is the device used to accomplish the energy transformation in the
+        expansion stage. Like a pinwheel or a fan, a turbine has a freely rotating shaft with many
+        carefully designed <em>turbine blades</em> attached. However, unlike a fan, the turbine
+        rotor is completely enclosed in a casing which also contains <em>nozzles</em> and
+          <em>stationary blades</em> designed to direct the steam towards the rotating blades. </p>
+      <p> High-pressure, high-temperature steam passes through the nozzle, which has a very small
+        opening, and it emerges with a high velocity. The thermal energy of the steam is converted
+        into mechanical kinetic energy in the nozzle. This high velocity steam jet hits the blades
+        and imparts a turning torque to the rotor shaft and converts its kinetic energy to
+        rotational kinetic energy of the shaft. Most turbines have several rows of blades, forming
+        multiple stages to extract the maximum energy from the steam. As the steam gives up its
+        thermal energy, its temperature and pressure both drop. The steam leaves the turbine at a
+        low temperature and low pressure. </p>
+      <p> High steam pressure at the inlet to the turbine is important for energy conversion, but it
+        is equally important to have a low pressure at the turbine outlet. Steam, or any fluid for
+        that matter, will only flow from high pressure to lower pressure. Without a pressure drop
+        across the blades of the turbine, there would be no steam flow, and no energy conversion. To
+        maximize the energy conversion, we must also maximize the pressure drop across the turbine.
+      </p>
+    </subsection>
+    <subsection xml:id="condensation">
+      <title>Condensation</title>
+      <p> As stated previously, a large pressure drop across the turbine is required to get maximum
+        energy extraction from the steam. The boiler supplies the high pressure at the inlet to the
+        turbine, it is the job of the condenser to create a low pressure condition at the turbine
+        outlet. </p>
+      <p> The condenser is a shell-and-tube heat exchanger cooled by seawater. It consists of a
+        large, rectangular or cylindrical sealed shell containing thousands of tubes. A circulating
+        pump forces cold seawater in at one end, through the tubes, and it exits overboard at the
+        other end. Steam exiting from the turbine enters the condenser at the top, condenses on the
+        tube surfaces and drains out the bottom. That is, the steam gives up its latent heat of
+        condensation to the seawater, and returns to the liquid water state. Once the steam passes
+        across the condenser tubes, it is no longer steam. It has condensed to liquid water, and
+        from this point in the cycle is referred to as <em>condensate</em>. Condensate leaves the
+        condenser as a low temperature, low pressure liquid. </p>
+      <p> Because the condensation is occurring at approximately the temperature of the seawater,
+        the pressure in the condenser will be approximately equal to the saturation pressure of
+        steam at this temperature, assuming that no air or other gases are present. For example, if
+        the seawater temperature is 80 °F, the corresponding saturation pressure would be 0.5073
+        psia. This is a very high vacuum, and the greater the vacuum, the better the plant
+        efficiency. </p>
+      <p> The latent heat removed from the steam by the seawater raises the temperature and
+        increases the energy contained by the seawater, and this cooling water is discharged
+        overboard. </p>
+      <p> It is unfortunate that some of the energy once contained by the fuel, and then passed on
+        to the steam in the boiler, is eventually thrown away with the seawater. Wouldn’t it be
+        better to somehow use this energy to power the ship? Absolutely, but there is nothing we can
+        do about it! The only way to extract more energy from the steam is by having the turbine
+        discharge to an even lower absolute pressure than we do. The only way to do that is to
+        condense the steam at even lower temperatures than we are. But we can’t do that, because
+        aboard ship there’s nothing colder than the surrounding ocean available to reject the heat
+        to. If we decided not to reject any heat to the ocean at all, the pressure in the condenser
+        would build up to the point where it would equal the steam pressure entering the turbine,
+        and without a pressure drop, the steam would stop flowing altogether. There’s no win, but
+        we’re doing the best we can. </p>
+    </subsection>
+    <subsection xml:id="recovery">
+      <title>Recovery</title>
+      <p> The only thing that remains to complete the cycle is to return the condensate to the
+        boiler to be heated up again. Unfortunately, the condensate leaving the condenser is at a
+        low pressure and the boiler operates at a much higher pressure. Condensate won’t flow back
+        into the boiler by itself. A pump is required to raise the pressure and return the
+        condensate to the boiler. </p>
+      <p> The pump, known as the <em>feed pump</em>, draws condensate from the condenser discharge,
+        raises its pressure slightly above the boiler pressure, and discharges it back into the
+        boiler to restart the cycle. Condensate leaving the feed pump is known as
+        <em>feedwater</em>. </p>
+      <p> Work is required to drive the feed pump, and this energy reduces the net work produced by
+        the cycle and available to turn the shaft. Fortunately, since water is incompressible it
+        takes much less work to raise its pressure back to the boiler pressure than we get from an
+        equivalent pressure drop across the turbine, and so there is a net positive amount of work
+        produced by the cycle. </p>
+    </subsection>
+    <subsection xml:id="t-sdiagram">
+      <title>T-s diagram</title>
+      <p> The diagram shown in <xref ref="ts_png"/> is an idealized representation of the Rankine
+        Cycle used in the study of thermodynamics, and known as a Temperature-entropy diagram. The
+        heavy dome shaped curve is known as the <em>vapor dome</em> and points under the curve are
+        saturated steam, while points to the left of the curve are liquid water and points to the
+        right of the curve are superheated steam. </p>
+      <p> Feedwater enters the boiler at point <m>1</m>, and is heated by the fuel. Initially, the
+        water temperature rises, until it reaches the saturation temperature for the boiler
+        pressure, point <m>1_f</m>, where the water begins to boil. Additional heat added at this
+        point does not raise the temperature any further until all the liquid water is completely
+        vaporized, point <m>1_g</m>. The heat added between <m>1_f</m> and <m>1_g</m> is the
+          <em>Latent Heat of Vaporization</em>. After the steam has reached point <m>1_g</m>, any
+        additional heat added causes the temperature to rise again, and the steam becomes
+        superheated. </p>
+      <figure xml:id="ts_png">
+        <caption>Temperature - Entropy Diagram</caption>
+        <image source="pics/steamcycle/ts.png" width="50%"/>
+      </figure>
+      <p> Superheated steam leaves the boiler at point <m>2</m> and enters the turbine. During the
+        expansion process, the steam pressure and temperature both drop as energy is extracted from
+        the steam. Steam leaves the turbine and enters the condenser at point <m>3</m>, which is
+        saturated or wet steam. </p>
+      <p> In the condenser, heat is removed from the steam and it returns to the liquid state at
+        point <m>4</m>. The feed pump raises the water pressure back up to the boiler pressure and
+        the cycle begins again at point <m>1</m>. The feed pump causes a small temperature rise in
+        the feedwater as well as a pressure increase. </p>
+      <p> The area under the curve from <m>1</m> to <m>2</m> represents the heat energy added in the
+        boiler and the area under the curve from <m>3</m> to <m>4</m> represents the heat rejected
+        to the ocean. The area inside the curve represents the net work done by the cycle. </p>
+    </subsection>
+  </section>
+  <section xml:id="practicalsteamcycle">
+    <title>Practical Steam Cycle</title>
+    <introduction>
+      <p> While the simplified steam cycle discussed in the previous section could be built, and it
+        would work, several modifications are required to make it practical and to improve its
+        efficiency. This practical steam cycle is shown in <xref ref="MainSteamCycle_png"/>. Each of
+        the components of this cycle will be briefly discussed in the following sections, in its
+        order in the cycle, and a more detailed discussion of the major components will be found in
+        the chapters to follow. </p>
+      <figure xml:id="MainSteamCycle_png">
+        <caption>Main Steam Cycle</caption>
+        <image source="pics/steamcycle/MainSteamCycle" width="100%"/>
+      </figure>
+    </introduction>
+    <subsection xml:id="boiler">
+      <title>Boiler</title>
+      <p> Heat energy is added to the cycle by burning fuel oil in the boiler. The high temperature
+        flames raise the temperature of the water in the boiler and eventually cause it to boil. Not
+        all energy of the fuel is transferred to the water, some remains in the combustion gases and
+        travels up the stack. This energy will be lost to the atmosphere unless it is recovered by
+        economizers or air heaters located in the exhaust path. Any heat energy lost to the
+        atmosphere represents waste and steam cycle inefficiency. </p>
+      <p> The boiler is discussed in detail in <xref ref="boilers"/>. </p>
+    </subsection>
+    <subsection xml:id="steamdrum">
+      <title>Steam Drum</title>
+      <p> The steam drum is located near the top of the boiler and should normally be half filled
+        with water and the remainder filled with steam. A <em>gage glass</em> on the steam drum
+        allows the operator to determine the water level in the boiler. Too little water would be
+        very dangerous, because without water in the boiler the heat of the flames would melt the
+        boiler tubes and destroy the boiler. </p>
+      <p> Steam is formed in the boiler tubes, and since steam bubbles are less dense than the
+        surrounding liquid water, they float up to the top of the boiler and eventually rise above
+        the surface of the water in the steam drum. If the steam was allowed to build up in the
+        drum, the boiler pressure would quickly rise, and if not relieved by the safety valves,
+        would cause the boiler to explode. The system is designed to remove steam as quickly as it
+        is created, so a properly operated boiler will maintain a constant pressure. </p>
+    </subsection>
+    <subsection xml:id="drypipe">
+      <title>Dry Pipe</title>
+      <p> The dry pipe is located inside the steam drum, near the top. In its simplest form the dry
+        pipe is simply a pipe with holes drilled into the top portion. Steam enters the dry pipe
+        before it leaves the boiler. </p>
+      <p> The dry pipe is designed to allow steam to enter, but to exclude water droplets and
+        moisture. Moisture in the steam, known as <em>carryover</em> is bad, because high velocity
+        water droplets in the steam would cause damage to the blades and thrust bearings in the
+        turbine. Improper operation of the boiler, for instance letting the steam drum water level
+        get too high, could cause carryover. </p>
+    </subsection>
+    <subsection xml:id="superhtr">
+      <title>Superheater</title>
+      <p> Steam collected in the dry pipe is directed to the superheater section of the boiler,
+        where its temperature is raised beyond the saturation temperature to improve the efficiency
+        of the steam cycle. </p>
+      <p> The superheater is a bank of boiler tubes located in the hottest portions of the
+        combustion gas path. Since there is no liquid water in the superheater, all heat added there
+        is sensible heat. It is important to always maintain a flow of steam through the superheater
+        tubes, or else the tubes would quickly overheat and melt. </p>
+    </subsection>
+    <subsection xml:id="mainsteamstopvalve">
+      <title>Main steam stop valve</title>
+      <p> No practical boiler could function without valves. Valves permit the operator to control
+        fluid flow, and to isolate sections of the system for maintenance. There are dozens of
+        valves used in the main steam cycle but in this discussion we will only mention a few of
+        them. You may assume that valves are located throughout the system wherever they are
+        necessary. </p>
+      <p> The main steam stop valve is located at the outlet of the superheater, and it is the
+        primary valve used to connect or isolate the boiler from the remainder of the steam cycle.
+        Specially designed valves are required for this service, because of the extreme differences
+        of temperature encountered when cutting-in a boiler. Bypass lines are usually installed here
+        to assist with warming up the main steam stop valve. </p>
+
+    </subsection>
+    <subsection xml:id="bulkheadstopvalve">
+      <title>Bulkhead stop valve</title>
+      <p> According to US Coast Guard regulations, boilers are required to have <em>two valve
+          protection</em>, that is, they are required to have two valves in series in all boiler
+        connections. This insures that at least one valve will be functional when the time comes to
+        secure the boiler. </p>
+      <p> The bulkhead stop valve is located in the main steam line, downstream of the main steam
+        stop valve, and provides backup protection for it. </p>
+    </subsection>
+    <subsection xml:id="strainer">
+      <title>Strainer</title>
+      <p> A steam strainer is located in the steam line upstream of the main engine to prevent
+        objects other than steam from entering the turbines, since solid objects impacting the
+        turbine blades would quickly destroy them. Steam lines would normally be expected to be
+        quite clean, but a strainer is cheap insurance against nuts, tools, and gloves left in the
+        lines by shipyard workers, or rust flakes formed during a layup period. Unfortunately, water
+        droplets due to wet steam or carryover will pass through the steam strainer. </p>
+    </subsection>
+    <subsection xml:id="throttles">
+      <title>Throttles</title>
+      <p> The throttle valves are the primary valves used to control the amount of steam allowed to
+        enter the turbines, and hence they control the speed of the ship. Previously, throttle
+        valves were manually operated by the engineer on watch in response to bell commands from the
+        bridge, but today the throttles may be controlled by the mate on the bridge by remote
+        control. </p>
+      <p> There are two throttles, the ahead throttle, and the astern throttle. The ahead throttle
+        controls steam to the high pressure turbine and controls the speed of the ship in the ahead
+        (forward) direction. If the ahead throttle is closed, and the astern throttle is opened,
+        steam will be directed to the astern section of the low pressure turbine. Blades in this
+        section are arranged so that they cause the turbine to rotate in the opposite direction and
+        reverse the propeller. </p>
+      <p> The ahead throttle and the astern throttle should not be opened at the same time, because
+        this would cause two opposing torques on the low pressure turbine rotor. While this would
+        not necessarily be damaging, it would be a colossal waste of energy. The <em>Astern Guardian
+          Valve</em> is installed in the astern steam line between the astern throttle and the
+        astern turbine to protect against leakage of the astern throttle while the ship is underway.
+        This valve normally remains closed, and is only opened when the ship is expected to
+        maneuver. </p>
+    </subsection>
+    <subsection xml:id="hpturbine">
+      <title>HP Turbine</title>
+      <p> The simplified steam cycle uses a single turbine to extract power from the steam, but most
+        ships use two turbines to do the same job. Two shorter turbine shafts are more advantageous
+        than one large shaft for several reasons, including reduced manufacturing cost and increased
+        flexibility in the arrangement of machinery in the engine room. </p>
+      <p> The first of these two turbines is known as the <em>high pressure turbine</em> (H.P.) and
+        the second is the <em>low pressure turbine</em> (L.P.). A steam line, called the
+          <em>crossover</em> carries steam from the outlet of the H.P. turbine to the inlet of the
+        L.P. turbine. At normal operating speeds, the steam leaving the H.P. turbine and entering
+        the crossover is at a pressure below atmospheric. </p>
+      <p> The H.P. and L.P. turbines together are known as the <em>Main Engine</em>. </p>
+    </subsection>
+    <subsection xml:id="lpturbine">
+      <title>LP Turbine</title>
+      <p> The L.P. turbine follows the H.P. turbine and continues to extract energy from the steam.
+        The steam enters at a low pressure (a vacuum actually, at low loads) and exits at an even
+        lower pressure into the main condenser. The specific volume of steam at these low pressures
+        is large, which means that the turbine blades and the L.P. turbine itself are also large.
+        When looking at the two turbines, it is always easy to identify the L.P. turbine because of
+        its size; eight to ten feet in diameter is not unusual. </p>
+      <p> Steam leaves the L.P. turbine as saturated steam, so you can determine the steam
+        temperature by looking up the saturation temperature for the condenser pressure in the steam
+        tables. For example, if the condenser pressure is 28.9 in Hg vacuum, this corresponds to an
+        absolute pressure of 0.5 psia, and this has a saturation temperature of about 80 °F. Are you
+        surprised? Steam isn’t always hot… it depends on the pressure. </p>
+      <p> The forward end of the L.P. Turbine rotor contains the <em>Astern Elements</em>. These are
+        two or three rows of blades designed to rotate the shaft in the astern direction. Since
+        there are so few rows of astern blades, the power the turbine is capable of producing in the
+        astern direction is limited. </p>
+    </subsection>
+    <subsection xml:id="maincond">
+      <title>Main Condenser</title>
+      <p> As stated before, the main condenser is a shell and tube heat exchanger which provides the
+        low pressure zone for the turbine to discharge into. The steam entering the condenser turns
+        back to liquid water when it comes in contact with the cold condenser tubes. The newly
+        formed condensate drains down to the bottom of the condenser, where it collects in the
+          <em>hot well</em> until it is pumped out. </p>
+      <p> In order to maintain high plant efficiency it is necessary to maintain a good vacuum in
+        the main condenser. This vacuum is formed by the collapse of the steam as it condenses,
+        since the specific volume of water is so much less than the specific volume of steam. A
+        properly operating main condenser operates at 28.5 in Hg vacuum or greater. </p>
+      <p> Vacuum will be maintained in the condenser as long as the shell of the condenser does not
+        fill up with air or other gases, however vacuum tends to draw air into the condenser through
+        any available leaks, such as those found at the <em>turbine glands</em> where the turbine
+        shafts penetrate the turbine casing. This air must be pumped back out to the atmosphere as
+        fast as it leaks in, or else vacuum will be lost. This is accomplished with a steam driven
+        pump known as the <em>air ejector</em> which takes suction on top of the main condenser and
+        discharges air to the engine room. </p>
+      <p> Vacuum will also be lost if condensing stops. This could happen if the supply of cooling
+        water through the condenser tubes was interrupted, perhaps due to failure of the main
+        circulating pump, blocked condenser tubes, or if the condensate pump failed which would
+        cause the condenser to fill up with condensate. </p>
+    </subsection>
+    <subsection xml:id="condensatepump">
+      <title>Condensate pump</title>
+      <p> At this point in the simplified cycle, you will find a feed pump to return the condensate
+        back to the boiler. In an actual cycle you will find a number of additional items which are
+        installed to increase the efficiency of the steam cycle by adding essentially <em>free</em>
+        energy to the working fluid. </p>
+      <p> The first new item is the <em>condensate pump</em>, which is a centrifugal pump that takes
+        suction on the condenser hot well and raises the condensate pressure enough to move it on to
+        the DC heater. The condensate pump must pump from a vacuum, which is a difficult job for a
+        pump. It is important to properly vent and seal the pump, or it will not pump well. </p>
+    </subsection>
+    <subsection xml:id="airejectorcondenser">
+      <title>Air Ejector Condenser</title>
+      <p> The air ejector, as mentioned above, is a steam powered air pump which is used to remove
+        air leakage from the condenser. Since the air ejector operates on steam, and normally draws
+        out some steam along with the air it removes, it is important to recover this steam in a
+        condenser so that it is not lost from the steam cycle. </p>
+      <p> We <em>could</em> use a saltwater cooled condenser to condense this steam, but we don’t.
+        Instead the coolant used is the condensate from the main condenser on its way back to the
+        boiler. This is done for two reasons. First, the heat given up by the condensing air ejector
+        steam preheats the condensate before it returns to the boiler, thus saving energy. Any heat
+        added before the condensate reaches the boiler represents fuel that doesn’t need to be
+        burned. Second, by cooling the air ejector condenser with condensate, there is no chance of
+        contaminating the condensate with saltwater in the event of a tube leak. </p>
+      <p> A typical air ejector condenser is shown in <xref ref="air_ejector_vw_png"/>. The air
+        ejector must operate in two stages to accomplish the necessary increase in pressure to move
+        the air from the main condenser back to the atmosphere. As a result the condenser is also
+        divided into two areas to maintain the pressure differential between the stages. The first
+        condenser is known as the <em>inter-condenser</em>, and it discharges its condensate back to
+        the main condenser. The second stage air ejector steam is condensed in the
+          <em>after-condenser</em> and the condensate collected there is returned to the system by
+        way of the <em>atmospheric drain tank</em>. </p>
+      <figure xml:id="air_ejector_vw_png">
+        <caption>Air Ejector Unit</caption>
+        <image source="pics/steamcycle/air_ejector.vw.png"/>
+      </figure>
+    </subsection>
+    <subsection xml:id="glandexhaustcondenser">
+      <title>Gland Exhaust Condenser</title>
+      <p> The <em>gland exhaust condenser</em> typically follows the air ejector condenser. This
+        unit is used to condense any steam that leaks out of the turbine glands, in order to recover
+        both the condensate and the heat. This is an example of the way a practical cycle takes
+        every opportunity to recover <q>free</q> energy and increase the overall cycle efficiency.
+      </p>
+    </subsection>
+    <subsection xml:id="firststageheaterunit">
+      <title>First Stage Heater Unit</title>
+      <p> The next stop in the steam cycle is the first stage heater. This unit contains two
+        internal sections: the drain cooler and the first stage heater, in that order. Both of these
+        sections helps improve cycle efficiency by providing additional heat to the condensate. </p>
+      <p> This unit provides a form of <em>regenerative feed heating</em> which can be shown to
+        improve the overall efficiency of the cycle. In regenerative heating, a portion of the steam
+        from within the turbine is bled off before it has fully expanded. This steam, which is still
+        quite hot, is used to preheat the condensate. Some shore power plants have four or more
+        stages of regenerative heating. </p>
+      <p>
+        <em>Low pressure bleed</em> steam is used as the steam supply for the first stage heater.
+        The bleed steam condenses as it gives up its energy to the condensate, and the condensed
+        bleed steam, known as <em>drains</em> is still hot enough to be used to preheat the
+        condensate. The drains then enter the <em>drain cooler section</em> where the remaining heat
+        is recovered, before the drains are returned to the system by vacuum drag to the main
+        condenser. </p>
+      <p> In some designs, the gland exhaust condenser is incorporated into the first stage heater
+        unit as well, rather than a separate heat exchanger as we have on the <em>Kennedy</em>. In
+        any event, the flow order through these three heat exchangers is always from coolest to
+        hottest. Therefore the gland exhaust condenser comes first, followed by the drain cooler,
+        and finally the first stage heater. </p>
+    </subsection>
+    <subsection xml:id="dchtr">
+      <title>DC Heater</title>
+      <p> The direct contact (DC) heater provides a second stage of regenerative feed heating. In a
+        direct contact heater, heat exchange occurs by mixing of the hot and cooler fluids, hence
+        the name. Condensate is heated by either auxiliary exhaust steam or by intermediate pressure
+        bleed steam. The condensate in the DC heater is at a saturated state, so its temperature can
+        be determined from the pressure of the heating steam. </p>
+      <p> In addition to heating, the DC heater acts as a storage tank for condensate in the system,
+        permitting minor fluctuation in the total amount of condensate contained within the cycle
+        without causing disruption to the system. Finally, the DC heater acts as a deaerator, a
+        device to remove corrosive dissolved oxygen from the condensate. </p>
+      <p> A change in terminology occurs at the bottom of the DC heater. From this point on, the
+        condensate is referred to as <em>feed water</em>. </p>
+      <p> The DC heater is discussed in detail in the <xref ref="dcheaterchap"/>. </p>
+    </subsection>
+    <subsection xml:id="feedpump">
+      <title>Feed Pump</title>
+      <p> The feed pump serves the same purpose here as it does in the simplified cycle; that is, it
+        raises the pressure of the feedwater sufficiently to force it into the boiler to begin the
+        cycle again. </p>
+      <p> The feed pump is usually a turbine driven centrifugal pump, and the discharge pressure is
+        about 50 to 100 psi above the pressure in the steam drum. </p>
+    </subsection>
+    <subsection xml:id="feedvalves">
+      <title>Feed Valves</title>
+      <p> Three valves are found in the feed line before the boiler. </p>
+      <p> The <em>feed check valve</em> comes first. It is a stop-check valve which is normally left
+        open, but which can be used to regulate the feed water flow to the boiler if necessary. The
+        feed check valve is always fitted with a reach rod or other means to permit it to be
+        manually operated from the boiler control station. </p>
+      <p> The feed check is followed by the <em>feed water regulator</em> which is a pneumatically
+        actuated regulating valve that responds to changes in boiler drum level and steam demand to
+        automatically control the flow of feedwater into the steam drum in order to maintain a
+        constant level half-way up the steam drum. </p>
+      <p> The final valve of the set is the <em>feed stop valve</em>. This valve is provided to
+        permit the feed system to be secured at the boiler when necessary. </p>
+    </subsection>
+    <subsection xml:id="econ">
+      <title>Economizer</title>
+      <p> After the feedwater enters the boiler it passes through the <em>economizer</em>. </p>
+      <p> The economizer is a heat recovery device. It consists of a finned-tube heat exchanger
+        which is heated by the boiler exhaust gases before they pass up the stack. This is the final
+        effort to improve the efficiency of the steam cycle, by recovering heat energy that would
+        otherwise be lost. </p>
+      <p> On some ships, the economizer is absent, and in its place is another heat exchanger, the
+          <em>heat-recovery type air preheater</em> which is designed to raise the temperature of
+        the air used for combustion. On ships with air heaters, one or two additional stages of
+        regenerative feed heaters are usually installed in the feed line, between the feed pump and
+        the boiler, to improve overall cycle thermal efficiency. </p>
+      <p> An economizer or an air preheater will normally be found in a steam cycle, but not both.
+        If both were present, they would tend to lower the exhaust gas temperature to the point
+        where any water vapor in the exhaust would condense. While thermodynamically desirable, this
+        introduces the practical problem that the condensed moisture combines with the other
+        products of combustion to form a corrosive mixture of sulfuric acid in the exhaust. </p>
+      <p> After leaving the economizer the feedwater enters the steam drum where the generation
+        stage occurs, where the steam cycle begins again. </p>
+    </subsection>
+  </section>
+  <exercises xml:id="questions-1">
+    <title>Chapter Questions</title>
+    <exercise>
+      <statement>
+        <p> Which of the devices listed is used to convert thermal energy to useful mechanical
+          work?</p>
+      </statement>
+      <choices>
+        <choice correct="yes">
+          <statement>
+            <p>Turbine</p>
+          </statement>
+        </choice>
+        <choice>
+          <statement>
+            <p>Condenser</p>
+          </statement>
+        </choice>
+        <choice>
+          <statement>
+            <p>Air ejector</p>
+          </statement>
+        </choice>
+        <choice>
+          <statement>
+            <p>Each of the above</p>
+          </statement>
+        </choice>
+      </choices>
+    </exercise>
+
+    <exercise>
+      <statement>
+        <p> The main condensate pump in a steam propulsion plant discharges directly to the
+          ______.</p>
+      </statement>
+      <choices>
+        <choice correct="yes">
+          <statement>
+            <p>air ejector intercondenser</p>
+          </statement>
+        </choice>
+        <choice>
+          <statement>
+            <p>main condenser hotwell</p>
+          </statement>
+        </choice>
+        <choice>
+          <statement>
+            <p>air ejector aftercondenser</p>
+          </statement>
+        </choice>
+        <choice>
+          <statement>
+            <p>DC heater vent condenser</p>
+          </statement>
+        </choice>
+      </choices>
+    </exercise>
+
+    <exercise>
+      <statement>
+        <p> In the boiler steam and water system, pressure is highest in the ______.</p>
+      </statement>
+      <choices>
+        <choice>
+          <statement>
+            <p>steam stop</p>
+          </statement>
+        </choice>
+        <choice>
+          <statement>
+            <p>dry pipe</p>
+          </statement>
+        </choice>
+        <choice correct="yes">
+          <statement>
+            <p>feed line</p>
+          </statement>
+        </choice>
+        <choice>
+          <statement>
+            <p>mud drum</p>
+          </statement>
+        </choice>
+      </choices>
+    </exercise>
+
+    <exercise>
+      <statement>
+        <p> Which of the following conditions must be carried out before the superheating of
+          saturated steam can occur in a boiler?</p>
+      </statement>
+      <choices>
+        <choice>
+          <statement>
+            <p>The firing rate of the boiler must be increased.</p>
+          </statement>
+        </choice>
+        <choice>
+          <statement>
+            <p>The flow of feedwater to the boiler must be increased.</p>
+          </statement>
+        </choice>
+        <choice correct="yes">
+          <statement>
+            <p> The steam must be removed from contact with the water from which it was
+              generated.</p>
+          </statement>
+        </choice>
+        <choice>
+          <statement>
+            <p>The boiler pressure must be raised.</p>
+          </statement>
+        </choice>
+      </choices>
+    </exercise>
+
+    <exercise>
+      <statement>
+        <p> Which statement listed represents a vital function of the main condenser?</p>
+      </statement>
+      <choices>
+        <choice correct="yes">
+          <statement>
+            <p>The recovery of feedwater for reuse.</p>
+          </statement>
+        </choice>
+        <choice>
+          <statement>
+            <p> Cooling of the exhaust steam from the auxiliary exhaust system before it enters the
+              deaerating feed tank.</p>
+          </statement>
+        </choice>
+        <choice>
+          <statement>
+            <p>Storage of feedwater for immediate use in the boilers.</p>
+          </statement>
+        </choice>
+        <choice>
+          <statement>
+            <p>Condensing of the exhaust steam from the main feed turbine pumps.</p>
+          </statement>
+        </choice>
+      </choices>
+    </exercise>
+
+    <exercise>
+      <statement>
+        <p> Steam supplied to the main propulsion turbines is ______.</p>
+      </statement>
+      <choices>
+        <choice correct="yes">
+          <statement>
+            <p>saturated steam</p>
+          </statement>
+        </choice>
+        <choice>
+          <statement>
+            <p>superheated steam</p>
+          </statement>
+        </choice>
+        <choice>
+          <statement>
+            <p>desuperheated steam</p>
+          </statement>
+        </choice>
+        <choice>
+          <statement>
+            <p>wet steam</p>
+          </statement>
+        </choice>
+      </choices>
+    </exercise>
+
+    <exercise>
+      <statement>
+        <p> Most marine boilers are designed to produce ______.</p>
+      </statement>
+      <choices>
+        <choice>
+          <statement>
+            <p>superheated steam only</p>
+          </statement>
+        </choice>
+        <choice>
+          <statement>
+            <p>saturated and superheated steam</p>
+          </statement>
+        </choice>
+        <choice correct="yes">
+          <statement>
+            <p>saturated steam only</p>
+          </statement>
+        </choice>
+        <choice>
+          <statement>
+            <p>superheated and supercritical steam</p>
+          </statement>
+        </choice>
+      </choices>
+    </exercise>
+
+    <exercise>
+      <statement>
+        <p> Which of the listed order of valves represents the proper installation of the main
+          feedwater supply line to a marine propulsion boiler?</p>
+      </statement>
+      <choices>
+        <choice>
+          <statement>
+            <p>Regulator, stop, stop-check</p>
+          </statement>
+        </choice>
+        <choice>
+          <statement>
+            <p>Stop-check, stop, regulator</p>
+          </statement>
+        </choice>
+        <choice>
+          <statement>
+            <p>Stop, regulator, stop-check</p>
+          </statement>
+        </choice>
+        <choice correct="yes">
+          <statement>
+            <p>Stop-check, regulator, stop</p>
+          </statement>
+        </choice>
+      </choices>
+    </exercise>
+
+    <exercise>
+      <statement>
+        <p> Serious tube leaks in the air ejector condenser assembly will cause ______.</p>
+      </statement>
+      <choices>
+        <choice>
+          <statement>
+            <p>clogged steam strainers</p>
+          </statement>
+        </choice>
+        <choice>
+          <statement>
+            <p>fouled nozzles</p>
+          </statement>
+        </choice>
+        <choice correct="yes">
+          <statement>
+            <p>loss of vacuum</p>
+          </statement>
+        </choice>
+        <choice>
+          <statement>
+            <p>faulty steam pressure</p>
+          </statement>
+        </choice>
+      </choices>
+    </exercise>
+
+    <exercise>
+      <statement>
+        <p> The DC heater functions to ______.</p>
+      </statement>
+      <choices>
+        <choice>
+          <statement>
+            <p>remove air from feedwater</p>
+          </statement>
+        </choice>
+        <choice>
+          <statement>
+            <p>heat feedwater</p>
+          </statement>
+        </choice>
+        <choice>
+          <statement>
+            <p>store feedwater</p>
+          </statement>
+        </choice>
+        <choice correct="yes">
+          <statement>
+            <p>all of the above</p>
+          </statement>
+        </choice>
+      </choices>
+    </exercise>
+
+    <exercise>
+      <statement>
+        <p> Air trapped within the main condenser shell is harmful because it will ______.</p>
+      </statement>
+      <choices>
+        <choice>
+          <statement>
+            <p>decrease the turbine exhaust steam temperature</p>
+          </statement>
+        </choice>
+        <choice>
+          <statement>
+            <p>cause the turbine casing to warp and bow</p>
+          </statement>
+        </choice>
+        <choice correct="yes">
+          <statement>
+            <p>decrease the vacuum in the main condenser</p>
+          </statement>
+        </choice>
+        <choice>
+          <statement>
+            <p>cause heat to be transferred too rapidly</p>
+          </statement>
+        </choice>
+      </choices>
+    </exercise>
+
+    <exercise>
+      <statement>
+        <p> After the steam leaves the low pressure turbine, it enters the ______.</p>
+      </statement>
+      <choices>
+        <choice correct="yes">
+          <statement>
+            <p>main condenser</p>
+          </statement>
+        </choice>
+        <choice>
+          <statement>
+            <p>feed and filter tank</p>
+          </statement>
+        </choice>
+        <choice>
+          <statement>
+            <p>first-stage feedwater heater</p>
+          </statement>
+        </choice>
+        <choice>
+          <statement>
+            <p>turbine extraction valve manifold</p>
+          </statement>
+        </choice>
+      </choices>
+    </exercise>
+  </exercises>
+
+</chapter>

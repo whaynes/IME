@@ -1,0 +1,6 @@
+<p> According to US Coast Guard regulations, boilers are required to have <em>two valve
+          protection</em>, that is, they are required to have two valves in series in all boiler
+        connections. This insures that at least one valve will be functional when the time comes to
+        secure the boiler. </p>
+<p> The bulkhead stop valve is located in the main steam line, downstream of the main steam
+        stop valve, and provides backup protection for it. </p>

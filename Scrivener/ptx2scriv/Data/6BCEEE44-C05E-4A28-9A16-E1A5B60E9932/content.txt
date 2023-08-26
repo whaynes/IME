@@ -1,0 +1,25 @@
+<statement>
+   <p> After the steam leaves the low pressure turbine, it enters the ______.</p>
+</statement>
+<choices>
+   <choice correct="yes">
+      <statement>
+         <p>main condenser</p>
+      </statement>
+   </choice>
+   <choice>
+      <statement>
+         <p>feed and filter tank</p>
+      </statement>
+   </choice>
+   <choice>
+      <statement>
+         <p>first-stage feedwater heater</p>
+      </statement>
+   </choice>
+   <choice>
+      <statement>
+         <p>turbine extraction valve manifold</p>
+      </statement>
+   </choice>
+</choices>

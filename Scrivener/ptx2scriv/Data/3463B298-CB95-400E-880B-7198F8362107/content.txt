@@ -1,7 +1,0 @@
-<p>In construction, DC motors are similar to DC generators. The traditional advantage that DC
-        motors have had over AC motors is that, unlike AC motors, their speed can be easily
-        controlled over a wide range by a <term>rheostat</term>. A rheostat is an easily adjusted
-        variable resistor that can be connected in series with the motor field windings to control
-        field current and, therefore, motor speed. However, solid-state electronic controls like
-        variable frequency converters are now available, allowing AC motors to be operated with
-        variable speed. Consequently, few DC motors are found aboard modern ships.</p>

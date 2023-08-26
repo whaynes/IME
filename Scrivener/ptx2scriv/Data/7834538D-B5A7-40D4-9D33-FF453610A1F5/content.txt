@@ -1,9 +1,0 @@
-<p>An <term>open</term> in an electric circuit occurs where the conducting path has been
-        broken, stopping the flow of current. An open occurs when a switch is opened, or a wire
-        breaks or becomes disconnected.</p>
-<p>A <term>short circuit</term> occurs when the current path is bridged, allowing the current
-        to bypass one or more components, for example, when two conductors accidentally touch.</p>
-<p>A <term>ground</term> occurs when an electric circuit is accidentally or intentionally
-        connected to a very low potential sink, like a ship's hull or the sea. A common example of a
-        ground occurs when insulation on a conductor breaks down, allowing the conductor to contact
-        the adjacent metal housing or structure.</p>

@@ -20,12 +20,8 @@ The state of charge of a battery usually cannot be determined easily or accurate
         </Document>
         <Document ID="EB2EC9AB-5C47-49A3-8A53-FD60DE94D62E">
             <Title>Introduction</Title>
-        </Document>
-        <Document ID="43E90D6C-61AC-4473-9D09-04B5A1A46A7E">
-            <Title>Energy Management System</Title>
-        </Document>
-        <Document ID="40315187-81F5-431C-8447-185AC6C3498D">
-            <Text>TBD</Text>
+            <Text> 
+</Text>
         </Document>
         <Document ID="0F3FE95E-0A82-478D-8E6C-74BF24BDFEA2">
             <Title>Symbols</Title>
@@ -44,8 +40,11 @@ The state of charge of a battery usually cannot be determined easily or accurate
 
 &lt;/ul&gt;&lt;/p&gt;</Text>
         </Document>
-        <Document ID="8B52DEBE-7628-472D-B9C8-523F3EB6D0AB">
-            <Title>Electrical Terminology</Title>
+        <Document ID="40315187-81F5-431C-8447-185AC6C3498D">
+            <Text>TBD</Text>
+        </Document>
+        <Document ID="43E90D6C-61AC-4473-9D09-04B5A1A46A7E">
+            <Title>Energy Management System</Title>
         </Document>
         <Document ID="167FE95C-777C-46A4-8B2C-C0FE550DA332">
             <Title>Convection</Title>
@@ -86,6 +85,9 @@ Phase Shift Phase shift refers to the time difference between two periodic wavef
 &lt;/figure&gt;
 </Text>
         </Document>
+        <Document ID="8B52DEBE-7628-472D-B9C8-523F3EB6D0AB">
+            <Title>Electrical Terminology</Title>
+        </Document>
         <Document ID="BA0FA56C-C2AC-4652-8205-C47CE261A96D">
             <Title>objectives</Title>
             <Text>&lt;url href="https://weh.maritime.edu/stcw/2023/tables/614.html#PSSR-X3.1" visual="PSSR-X3.1"/&gt; Importance of adhering to safe working practices at all times
@@ -94,10 +96,6 @@ Phase Shift Phase shift refers to the time difference between two periodic wavef
 &lt;url href="https://weh.maritime.edu/stcw/2023/tables/35.html#ABE-C3.1" visual="ABE-C3.1"/&gt; Lifting techniques and methods of preventing back injury
 &lt;url href="https://weh.maritime.edu/stcw/2023/tables/34.html#RFPEW-A3.2" visual="RFPEW-A3.2"/&gt; Know escape routes from machinery spaces
 </Text>
-        </Document>
-        <Document ID="B9258393-07D4-4BDB-9E5B-27890F672E06">
-            <Title>Introduction</Title>
-            <Text>(TBD)</Text>
         </Document>
         <Document ID="D4B4D958-C454-4CB9-9B25-236E6D2BCA85">
             <Title>introduction</Title>
@@ -108,6 +106,10 @@ As you study this chapter, watch out for unfamiliar definitions. Many of the wor
         </Document>
         <Document ID="ED35AD9F-4804-45DC-A3FB-E650A2F0AB58">
             <Title>Engineering Fundamentals</Title>
+        </Document>
+        <Document ID="B9258393-07D4-4BDB-9E5B-27890F672E06">
+            <Title>Introduction</Title>
+            <Text>(TBD)</Text>
         </Document>
         <Document ID="68250206-0728-4659-A41B-FEEBEDA9A0A7">
             <Title>Thermal Energy</Title>
@@ -244,28 +246,6 @@ The main components of the distribution system are:</Text>
             <Title>AC Three phase power</Title>
             <Text>TBD</Text>
         </Document>
-        <Document ID="DEE88472-3803-40E7-BC9E-4BF1A34F9DD9">
-            <Title>Emergency Converter Control</Title>
-            <Text>Emergency Converter Control 
-Each converter is fitted with a Local emergency Operating Panel (LOP) which is directly connected to the power electronic controller PLC. 
-If the propulsion remote control system fails (a link failure between PPC and PECe, or all remote control stations failed), the propulsion can be operated from the actual converters in ‘StandaloneMode’ using the LOP. Thisf acility is usually for maintenance via r service engineers or trained operators. 
-local operation allows running of the motor with the minimum security conditions (only those regarding the converter itself) and the operator must check that all conditions are fulfilled to run the equipment properly, (ie, manual start of the required auxiliaries). 
-At the LOP, the operator can :
-• Control the cooling pumps.
-• Start the converter power sequence.
-• Set a speed set point.
-• Read/reset faults.
-• Read the converter main measurements. 
-When the standalone mode is selected at the master converter, control is automatically transferred by the PPC to the LOCAL remote control station. So, when the standalone mode is released from the LOP, the control of the propulsion is at the LOCAL remote control station. 
-If standalone mode is selected at the slave converter, the active remote control station does not change (the slave converter receives its torque set point from the master converter). 
-In standalone mode, the motors can only be controlled in ‘Speed’ mode only, there is no Power mode. 
-</Text>
-        </Document>
-        <Document ID="EE08C91A-3FF3-4E5F-B261-558BAD6CE616">
-            <Title>Synchronous motors</Title>
-            <Text>If we replace the compass needle in the above example with a more powerful magnet, the magnetic field produced by this magnet would lock onto the rotating magnetic field produced by the stator windings. The rotor can be a strong permanent magnet or an electromagnet supplied (excited) by a DC source. This type of AC motor is called a &lt;term&gt;synchronous   motor&lt;/term&gt; and is characterized by the fact that the rotor rotates at the same speed as the magnetic field produced by the stator windings, the synchronous speed. Synchronous motors range in size from small motors for electric clocks fitted with permanent-magnet rotors, to very large propulsion motors, developing 70,000 HP or more, with electromagnetic rotors.
-</Text>
-        </Document>
         <Document ID="46FB57C1-23FE-427D-B9EC-07272CE260BD">
             <Title>AC Circuits</Title>
             <Text>In AC circuits the power cannot be calculated as easily as DC power for two reasons.  First, the sinusoidal current and voltage are continuously changing, which means that the power is too.  Second, any reactive elements in the circuit shift the current out of phase with the voltage, as shown in &lt;xref ref="fig_phase_shift"/&gt;. 
@@ -297,6 +277,28 @@ As the rotating magnetic field passes by the stationary armature, a voltage is i
 The frequency is related to the rotor rpm according to this relation: &lt;me&gt;f =   \frac{120 \times N}{2 \times 60}&lt;/me&gt; where f is the frequency in Hz and N is the total number of poles.   
 For a two-pole field (one north and one south pole) rotating at 3600 rpm, the voltage will alternate through 60 cycles each second &lt;ie/&gt; 360 Hz. With a four-pole field, the north and south poles will pass by the armature windings twice per rotation. As a result, a four-pole generator will produce the same frequency as a two-pole generator while spinning at half the speed.  
 Although the voltage continuously varies from instant to instant, we represent the sine wave voltage using its RMS average.The RMS voltage is proportional to the speed of rotation and also the strength of the magnetic field, therefore the generator output voltage can be adjusted by controlling the current that creates the field. </Text>
+        </Document>
+        <Document ID="DEE88472-3803-40E7-BC9E-4BF1A34F9DD9">
+            <Title>Emergency Converter Control</Title>
+            <Text>Emergency Converter Control 
+Each converter is fitted with a Local emergency Operating Panel (LOP) which is directly connected to the power electronic controller PLC. 
+If the propulsion remote control system fails (a link failure between PPC and PECe, or all remote control stations failed), the propulsion can be operated from the actual converters in ‘StandaloneMode’ using the LOP. Thisf acility is usually for maintenance via r service engineers or trained operators. 
+local operation allows running of the motor with the minimum security conditions (only those regarding the converter itself) and the operator must check that all conditions are fulfilled to run the equipment properly, (ie, manual start of the required auxiliaries). 
+At the LOP, the operator can :
+• Control the cooling pumps.
+• Start the converter power sequence.
+• Set a speed set point.
+• Read/reset faults.
+• Read the converter main measurements. 
+When the standalone mode is selected at the master converter, control is automatically transferred by the PPC to the LOCAL remote control station. So, when the standalone mode is released from the LOP, the control of the propulsion is at the LOCAL remote control station. 
+If standalone mode is selected at the slave converter, the active remote control station does not change (the slave converter receives its torque set point from the master converter). 
+In standalone mode, the motors can only be controlled in ‘Speed’ mode only, there is no Power mode. 
+</Text>
+        </Document>
+        <Document ID="EE08C91A-3FF3-4E5F-B261-558BAD6CE616">
+            <Title>Synchronous motors</Title>
+            <Text>If we replace the compass needle in the above example with a more powerful magnet, the magnetic field produced by this magnet would lock onto the rotating magnetic field produced by the stator windings. The rotor can be a strong permanent magnet or an electromagnet supplied (excited) by a DC source. This type of AC motor is called a &lt;term&gt;synchronous   motor&lt;/term&gt; and is characterized by the fact that the rotor rotates at the same speed as the magnetic field produced by the stator windings, the synchronous speed. Synchronous motors range in size from small motors for electric clocks fitted with permanent-magnet rotors, to very large propulsion motors, developing 70,000 HP or more, with electromagnetic rotors.
+</Text>
         </Document>
         <Document ID="CE24CA05-2E67-4B47-8479-227C4063D4CC">
             <Title>Introduction</Title>
@@ -375,15 +377,26 @@ The upper part of the bonnet on this particular valve is split into two supporti
 &lt;/choices&gt;
 </Text>
         </Document>
+        <Document ID="4A2FCE01-CDB5-46AB-ACAA-4A72332E0B6F">
+            <Title>Expansion</Title>
+            <Text>The thermal energy added to the working fluid in the generation stage is converted to mechanical energy, or work, in the expansion stage. This work is produced in the form of a rotating turbine shaft which drives the propeller and moves the ship through the water. The more energy we can remove at this stage, the higher the efficiency of the steam cycle. Unfortunately, it is not possible to remove all the energy from the steam in the turbine. Some energy remains in the steam and is carried to the next stage of the cycle.
+A &lt;em&gt;turbine&lt;/em&gt; is the device used to accomplish the energy transformation in the expansion stage. Like a pinwheel or a fan, a turbine has a freely rotating shaft with many carefully designed &lt;em&gt;turbine blades&lt;/em&gt; attached. However, unlike a fan, the turbine rotor is completely enclosed in a casing which also contains &lt;em&gt;nozzles&lt;/em&gt; and &lt;em&gt;stationary blades&lt;/em&gt; designed to direct the steam towards the rotating blades.
+High-pressure, high-temperature steam passes through the nozzle, which has a very small opening, and it emerges with a high velocity. The thermal energy of the steam is converted into mechanical kinetic energy in the nozzle. This high velocity steam jet hits the blades and imparts a turning torque to the rotor shaft and converts its kinetic energy to rotational kinetic energy of the shaft. Most turbines have several rows of blades, forming multiple stages to extract the maximum energy from the steam. As the steam gives up its thermal energy, its temperature and pressure both drop. The steam leaves the turbine at a low temperature and low pressure.
+High steam pressure at the inlet to the turbine is important for energy conversion, but it is equally important to have a low pressure at the turbine outlet. Steam, or any fluid for that matter, will only flow from high pressure to lower pressure. Without a pressure drop across the blades of the turbine, there would be no steam flow, and no energy conversion. To maximize the energy conversion, we must also maximize the pressure drop across the turbine.
+</Text>
+        </Document>
         <Document ID="492C6D46-88DD-47E2-B891-99D82616B6BD">
             <Title>How to read diagrams</Title>
         </Document>
-        <Document ID="DBE5FFCE-0317-424C-993D-244C06593A02">
-            <Title>exercise</Title>
-            <Text>&lt;statement&gt; Machinery operating features are designed to help conserve energy. Which of the following results will not contribute to energy conservation? 
-&lt;/statement&gt;
-&lt;choices&gt; &lt;choice&gt; &lt;statement&gt; Reduction of friction.  &lt;/statement&gt; &lt;/choice&gt; &lt;choice&gt; &lt;statement&gt; Insulation of hot surfaces.  &lt;/statement&gt; &lt;/choice&gt; &lt;choice&gt; &lt;statement&gt; Lubrication of moving parts.  &lt;/statement&gt; &lt;/choice&gt; &lt;choice correct="yes"&gt; &lt;statement&gt; Elevation of cooler outlet temperatures.  &lt;/statement&gt; &lt;/choice&gt;
-&lt;/choices&gt;
+        <Document ID="AABB2869-6F58-41F9-ACF4-56ABACF27399">
+            <Title>T-s diagram</Title>
+            <Text>The diagram shown in &lt;xref ref="ts_png"/&gt; is an idealized representation of the Rankine Cycle used in the study of thermodynamics, and known as a Temperature-entropy diagram. The heavy dome shaped curve is known as the &lt;em&gt;vapor dome&lt;/em&gt; and points under the curve are saturated steam, while points to the left of the curve are liquid water and points to the right of the curve are superheated steam.
+Feedwater enters the boiler at point 1, and is heated by the fuel. Initially, the water temperature rises, until it reaches the saturation temperature for the boiler pressure, point 1_f, where the water begins to boil. Additional heat added at this point does not raise the temperature any further until all the liquid water is completely vaporized, point 1_g. The heat added between 1_f and 1_g is the &lt;em&gt;Latent Heat of Vaporization&lt;/em&gt;. After the steam has reached point 1_g, any additional heat added causes the temperature to rise again, and the steam becomes superheated.
+&lt;figure xml:id="ts_png"&gt; &lt;caption&gt;Temperature - Entropy Diagram&lt;/caption&gt; &lt;image source="pics/steamcycle/ts.png" width="50%"/&gt;
+&lt;/figure&gt;
+Superheated steam leaves the boiler at point 2 and enters the turbine. During the expansion process, the steam pressure and temperature both drop as energy is extracted from the steam. Steam leaves the turbine and enters the condenser at point 3, which is saturated or wet steam.
+In the condenser, heat is removed from the steam and it returns to the liquid state at point 4. The feed pump raises the water pressure back up to the boiler pressure and the cycle begins again at point 1. The feed pump causes a small temperature rise in the feedwater as well as a pressure increase.
+The area under the curve from 1 to 2 represents the heat energy added in the boiler and the area under the curve from 3 to 4 represents the heat rejected to the ocean. The area inside the curve represents the net work done by the cycle.
 </Text>
         </Document>
         <Document ID="663462EF-5640-49D8-AB21-DCC3DE26EAD9">
@@ -391,6 +404,14 @@ The upper part of the bonnet on this particular valve is split into two supporti
             <Text>&lt;statement&gt; Which of the following statements concerning energy is correct? 
 &lt;/statement&gt;
 &lt;choices&gt; &lt;choice&gt; &lt;statement&gt; Energy can be created or destroyed.  &lt;/statement&gt; &lt;/choice&gt; &lt;choice&gt; &lt;statement&gt; Energy may not be transformed.  &lt;/statement&gt; &lt;/choice&gt; &lt;choice correct="yes"&gt; &lt;statement&gt; The total quantity of energy in the universe is always the same.  &lt;/statement&gt; &lt;/choice&gt; &lt;choice&gt; &lt;statement&gt; None of the above.  &lt;/statement&gt; &lt;/choice&gt;
+&lt;/choices&gt;
+</Text>
+        </Document>
+        <Document ID="DBE5FFCE-0317-424C-993D-244C06593A02">
+            <Title>exercise</Title>
+            <Text>&lt;statement&gt; Machinery operating features are designed to help conserve energy. Which of the following results will not contribute to energy conservation? 
+&lt;/statement&gt;
+&lt;choices&gt; &lt;choice&gt; &lt;statement&gt; Reduction of friction.  &lt;/statement&gt; &lt;/choice&gt; &lt;choice&gt; &lt;statement&gt; Insulation of hot surfaces.  &lt;/statement&gt; &lt;/choice&gt; &lt;choice&gt; &lt;statement&gt; Lubrication of moving parts.  &lt;/statement&gt; &lt;/choice&gt; &lt;choice correct="yes"&gt; &lt;statement&gt; Elevation of cooler outlet temperatures.  &lt;/statement&gt; &lt;/choice&gt;
 &lt;/choices&gt;
 </Text>
         </Document>
@@ -403,6 +424,15 @@ The upper part of the bonnet on this particular valve is split into two supporti
         <Document ID="8ECCBCCE-C0A6-41A0-AD48-8268FE3E9605">
             <Title>Electrocution</Title>
             <Text>In the most severe cases, electric shocks can lead to electrocution, resulting in death. High-voltage shocks can cause cardiac arrest, severe internal injuries, and other life-threatening conditions. Contact with overhead power lines, unauthorized access to electrical panels or equipment, and improper handling of live wires are some situations that can lead to fatal accidents.</Text>
+        </Document>
+        <Document ID="5B2859A0-074B-43DD-B91D-39EF0B9EDF44">
+            <Title>Lobe Pumps</Title>
+            <Text>&lt;figure xml:id="lobe_png"&gt;
+ &lt;caption&gt;Lobe Pump&lt;/caption&gt;
+ &lt;image source="pics/pumps/lobe.png" width="75%"/&gt;
+&lt;/figure&gt;
+Lobe pumps operate on the same principle as gear pumps. There are two rotors turning in the pump chamber operating through timing gears on the shafts outside the pump chamber. Most rotors are fitted with two to three lobes (similar to large gear teeth) to push fluid from the suction to the discharge side of the pump. Although the design will handle both liquids or gases, they are more commonly found pumping gases. A common application is an air pump to supply or increase the air flow to diesel and gasoline engines as part of the system necessary to make them run or increase the horsepower of the engine. In most cases they are considered high volume, low pressure pumps. 
+</Text>
         </Document>
         <Document ID="C2ABA09F-A58F-44C9-ABF1-21F3AC8E3807">
             <Text>Propulsion Motor Braking 
@@ -456,15 +486,6 @@ In order to avoid a large energy storage in the braking resistors, the activatio
 	•	Two motors are running, the activation of the chopper is allowed under 50% of full speed. 
 	•	One motor running, the activation of the chopper is allowed under 45% of full speed. 
 In a crash stop situation, the air temperatureH andHH limitations are inhibited and only an alarm will be raised.</Text>
-        </Document>
-        <Document ID="5B2859A0-074B-43DD-B91D-39EF0B9EDF44">
-            <Title>Lobe Pumps</Title>
-            <Text>&lt;figure xml:id="lobe_png"&gt;
- &lt;caption&gt;Lobe Pump&lt;/caption&gt;
- &lt;image source="pics/pumps/lobe.png" width="75%"/&gt;
-&lt;/figure&gt;
-Lobe pumps operate on the same principle as gear pumps. There are two rotors turning in the pump chamber operating through timing gears on the shafts outside the pump chamber. Most rotors are fitted with two to three lobes (similar to large gear teeth) to push fluid from the suction to the discharge side of the pump. Although the design will handle both liquids or gases, they are more commonly found pumping gases. A common application is an air pump to supply or increase the air flow to diesel and gasoline engines as part of the system necessary to make them run or increase the horsepower of the engine. In most cases they are considered high volume, low pressure pumps. 
-</Text>
         </Document>
         <Document ID="4BF3E8A7-1793-4614-B525-2AF0F6F34BB4">
             <Title>conclusion</Title>
@@ -719,6 +740,13 @@ mount and support electrical components, preventing them from coming into direct
         </Document>
         <Document ID="DB63F194-FE6D-4FFD-9F14-78706FAA11DD">
             <Text>artboard 9</Text>
+        </Document>
+        <Document ID="AF841D75-092B-47D0-B576-25BF61C4385A">
+            <Title>introduction</Title>
+            <Text>There are two main methods used for propulsion of merchant ships today: steam turbines and diesel engines. Sail and steam reciprocating engines are long obsolete, and nuclear power, while used for some naval vessels, has been found to be impractical for merchant ships. Recently a few ships have been built with gas turbine propulsion, but it is not yet common.
+Over the last 50 years, diesel propulsion has displaced steam propulsion as the dominant method of merchant ship propulsion, mainly because it has higher fuel efficiency, but also because it is easier to automate, requires less maintenance, and can be operated with smaller crews – all factors leading to operating cost reductions. Nevertheless, steam propulsion remains important, if for no other reason than it is the method we use aboard the old training ship &lt;em&gt;TS Kennedy&lt;/em&gt;. Also, steam power is used extensively in industry and power generation ashore, and the skills developed by a steam engineer aboard ship find high demand in the shoreside job market.
+In this chapter we will discuss steam propulsion and the steam cycle. The steam cycle is the thermodynamic process which marine engineers use to transform the energy contained in the ship’s fuel oil or &lt;em&gt;bunkers&lt;/em&gt; into the power to turn the ship’s propeller and supply all the other requirements necessary to move a steam ship from one point to another. We will begin with a discussion of a very simplified version of the steam cycle, which nevertheless illustrates all the important principles of its operation. Later, we will progress to a more detailed, practical, and efficient version of the cycle, which more closely represents the cycle used on other steam ships. The function of each of the components of the cycle will be briefly described here, and in more detail in later chapters. This cycle described here is not the only possibility, but it is representative, and it provides a good foundation for further study.
+</Text>
         </Document>
         <Document ID="8647444A-E9BC-4EA2-84AB-1AF76020973A">
             <Title>DV951E001_MAIN ALTERNATOR_OPERATION MANUAL_ALTERNATOR</Title>
@@ -2107,12 +2135,6 @@ Operation not adjustable
 Faulty parallel operation
                                          </Text>
         </Document>
-        <Document ID="E1703ADD-4B7B-4EA5-A30A-7CCA25222A0C">
-            <Title>Heat Transfer</Title>
-        </Document>
-        <Document ID="FFEFC8E2-337C-4BAA-8889-830500F847A9">
-            <Title>Switchgear</Title>
-        </Document>
         <Document ID="2A270BD6-1025-4FAC-8A9C-F1B0C9E15D5C">
             <Title>Circuit Faults</Title>
         </Document>
@@ -2298,6 +2320,12 @@ PMG User’s Manual – HSJ9 TYPE
 15
 </Text>
         </Document>
+        <Document ID="E1703ADD-4B7B-4EA5-A30A-7CCA25222A0C">
+            <Title>Heat Transfer</Title>
+        </Document>
+        <Document ID="FFEFC8E2-337C-4BAA-8889-830500F847A9">
+            <Title>Switchgear</Title>
+        </Document>
         <Document ID="CFF7FA8B-49D7-44A5-842A-36DF47E969EE">
             <Title>Chemical Exposure</Title>
             <Text>You may be exposed to hazardous chemicals through inhalation, skin contact, or ingestion. Prolonged exposure or exposure to high concentrations can lead to adverse health effects such as respiratory issues, skin irritation, chemical burns, organ damage, or even long-term illnesses. 
@@ -2307,6 +2335,8 @@ You can learn about the potential risks associated with a chemical, as well as i
         </Document>
         <Document ID="86E448C7-AB0D-4824-9745-BF3635EA332E">
             <Title>Fundamental Concepts</Title>
+            <Text>
+</Text>
         </Document>
         <Document ID="67ACC8E5-E8AF-461F-9CBA-11D893413026">
             <Title>Circuit breakers</Title>
@@ -2322,6 +2352,15 @@ An expansion tank is used to set static pressure of water circuit, and mitigate 
         </Document>
         <Document ID="B7284B7E-6877-461F-86AD-F9D365AF130D">
             <Title>Respiratory Protection</Title>
+        </Document>
+        <Document ID="AE4231C2-EC93-4F31-9CE7-BEB2CFA566FE">
+            <Title>Economizer</Title>
+            <Text>After the feedwater enters the boiler it passes through the &lt;em&gt;economizer&lt;/em&gt;.
+The economizer is a heat recovery device. It consists of a finned-tube heat exchanger which is heated by the boiler exhaust gases before they pass up the stack. This is the final effort to improve the efficiency of the steam cycle, by recovering heat energy that would otherwise be lost.
+On some ships, the economizer is absent, and in its place is another heat exchanger, the &lt;em&gt;heat-recovery type air preheater&lt;/em&gt; which is designed to raise the temperature of the air used for combustion. On ships with air heaters, one or two additional stages of regenerative feed heaters are usually installed in the feed line, between the feed pump and the boiler, to improve overall cycle thermal efficiency.
+An economizer or an air preheater will normally be found in a steam cycle, but not both. If both were present, they would tend to lower the exhaust gas temperature to the point where any water vapor in the exhaust would condense. While thermodynamically desirable, this introduces the practical problem that the condensed moisture combines with the other products of combustion to form a corrosive mixture of sulfuric acid in the exhaust.
+After leaving the economizer the feedwater enters the steam drum where the generation stage occurs, where the steam cycle begins again.
+</Text>
         </Document>
         <Document ID="D14EBB19-CC74-43AD-B6ED-53560AA7C6DC">
             <Title>Electrical Distribution</Title>
@@ -2352,12 +2391,18 @@ According to Faraday's law of electromagnetic induction, a moving or changing ma
         </Document>
         <Document ID="5B047FA9-144C-46BA-9DF7-343FDBD429DD">
             <Title>Layout Flexibility</Title>
-            <Text>One notable advantage of electric propulsion is the ability to install the prime mover in any convenient location, without being restricted to a direct line with the propeller. Power is transmitted through flexible cable runs, as opposed to rigid line shafts. Furthermore, instead of relying on a single large main engine, multiple smaller engines can be used, allowing for placement in smaller spaces and more convenient locations.	</Text>
+            <Text>The ability to install the prime mover in any convenient location, without being restricted to a direct line with the propeller. Power is transmitted through flexible cable runs, as opposed to rigid line shafts. Furthermore, instead of relying on a single large main engine, multiple smaller engines can be used, allowing for placement in smaller spaces and more convenient locations.	</Text>
         </Document>
         <Document ID="A84E87C2-F194-43E1-AA05-C683D75DD089">
             <Title>Extreme temperatures</Title>
             <Text>Some confined spaces can experience extreme temperatures due to insulation issues, lack of ventilation, or the presence of heat-generating equipment. Excessive heat or cold can cause thermal discomfort, heat exhaustion, hypothermia, or heat stroke.  
 Emergency repairs to boilers must sometimes be made before the boiler has had a chance to cool down.
+</Text>
+        </Document>
+        <Document ID="B21048FC-320A-4D60-A581-12B93A53998E">
+            <Title>Condensate pump</Title>
+            <Text>At this point in the simplified cycle, you will find a feed pump to return the condensate back to the boiler. In an actual cycle you will find a number of additional items which are installed to increase the efficiency of the steam cycle by adding essentially &lt;em&gt;free&lt;/em&gt; energy to the working fluid.
+The first new item is the &lt;em&gt;condensate pump&lt;/em&gt;, which is a centrifugal pump that takes suction on the condenser hot well and raises the condensate pressure enough to move it on to the DC heater. The condensate pump must pump from a vacuum, which is a difficult job for a pump. It is important to properly vent and seal the pump, or it will not pump well.
 </Text>
         </Document>
         <Document ID="79080DDA-035D-47A5-AB2C-9E793DC86E7C">
@@ -2392,12 +2437,42 @@ The external energy supplied to most pump shafts is in the form of torque, produ
 The  capacity of a pump is the volume of fluid that the pump can move (under specific operating conditions) per unit of time and is usually expressed as &lt;q&gt;Gallons per Minute&lt;/q&gt; or &lt;q&gt;GPM&lt;/q&gt; for short. The pressure that a pump is capable of delivering is described as the pump  head, and will be discussed in the next section. 
 </Text>
         </Document>
+        <Document ID="88E114D4-2808-4654-ABCF-B2E6073257A2">
+            <Title>Superheater</Title>
+            <Text>Steam collected in the dry pipe is directed to the superheater section of the boiler, where its temperature is raised beyond the saturation temperature to improve the efficiency of the steam cycle.
+The superheater is a bank of boiler tubes located in the hottest portions of the combustion gas path. Since there is no liquid water in the superheater, all heat added there is sensible heat. It is important to always maintain a flow of steam through the superheater tubes, or else the tubes would quickly overheat and melt.
+</Text>
+        </Document>
         <Document ID="5A3EFDC7-1B68-4A3D-B1F5-216C16EFE228">
             <Title>pressure measurement</Title>
         </Document>
         <Document ID="D6E37E3D-2D0B-4AED-B36B-AE61FCC04867">
             <Title>Introduction overview</Title>
             <Text>tbd</Text>
+        </Document>
+        <Document ID="FBD739B4-AB1F-4F8D-AA1F-6677F0D1F02D">
+            <Title>Clamp-on ammeters</Title>
+            <Text>&lt;sidebyside widths="40% 40%" margins="0% 10%" valign="middle"&gt;
+Clamp-on ammeters are hand-held instruments used to measure AC currents. A plier-like pick-up coil is closed around the conductor in which current is to be measured, and the movement responds to current induced in the pick-up coil by the changing magnetic field surrounding the conductor.  Clamp-on meters are preferable to digital multimeters for measuring currents because the don’t require the circuit to be disturbed to use, and they can measure larger currents than a DMM, however, because they depend on a changing magnetic field they do not work with DC currents.
+&lt;figure xml:id="fig_clamp_on"&gt;
+
+&lt;caption&gt; Clamp-on ammeter &lt;/caption&gt;
+&lt;image width="100%" source="pics/electricity/clamp_on.png"&gt;
+&lt;remix&gt;&lt;![CDATA[  &lt;a href="https://commons.wikimedia.org/wiki/File:Clampmeter_Fluke_337.jpg"&gt;Harke&lt;/a&gt;, Public domain, via Wikimedia Commons  ]]&gt;&lt;/remix&gt;
+&lt;/image&gt;
+&lt;/figure&gt;
+&lt;/sidebyside&gt;
+
+</Text>
+        </Document>
+        <Document ID="2396AEC7-B4DC-4946-BA72-5A07420AA072">
+            <Title>TS Patriot State</Title>
+        </Document>
+        <Document ID="B9CEA66D-FC23-414D-BAC3-4ECE0B5134CF">
+            <Title>Power</Title>
+        </Document>
+        <Document ID="80C06B35-82B6-42D6-9F6B-AF7A1F8304FF">
+            <Title>Chapter Questions</Title>
         </Document>
         <Document ID="0D0D7945-E33B-4E18-B3EF-988809CCBF09">
             <Title>exercise</Title>
@@ -2427,30 +2502,6 @@ The  capacity of a pump is the volume of fluid that the pump can move (under spe
    &lt;/choice&gt;
 &lt;/choices&gt;
 </Text>
-        </Document>
-        <Document ID="2396AEC7-B4DC-4946-BA72-5A07420AA072">
-            <Title>TS Patriot State</Title>
-        </Document>
-        <Document ID="FBD739B4-AB1F-4F8D-AA1F-6677F0D1F02D">
-            <Title>Clamp-on ammeters</Title>
-            <Text>&lt;sidebyside widths="40% 40%" margins="0% 10%" valign="middle"&gt;
-Clamp-on ammeters are hand-held instruments used to measure AC currents. A plier-like pick-up coil is closed around the conductor in which current is to be measured, and the movement responds to current induced in the pick-up coil by the changing magnetic field surrounding the conductor.  Clamp-on meters are preferable to digital multimeters for measuring currents because the don’t require the circuit to be disturbed to use, and they can measure larger currents than a DMM, however, because they depend on a changing magnetic field they do not work with DC currents.
-&lt;figure xml:id="fig_clamp_on"&gt;
-
-&lt;caption&gt; Clamp-on ammeter &lt;/caption&gt;
-&lt;image width="100%" source="pics/electricity/clamp_on.png"&gt;
-&lt;remix&gt;&lt;![CDATA[  &lt;a href="https://commons.wikimedia.org/wiki/File:Clampmeter_Fluke_337.jpg"&gt;Harke&lt;/a&gt;, Public domain, via Wikimedia Commons  ]]&gt;&lt;/remix&gt;
-&lt;/image&gt;
-&lt;/figure&gt;
-&lt;/sidebyside&gt;
-
-</Text>
-        </Document>
-        <Document ID="B9CEA66D-FC23-414D-BAC3-4ECE0B5134CF">
-            <Title>Power</Title>
-        </Document>
-        <Document ID="80C06B35-82B6-42D6-9F6B-AF7A1F8304FF">
-            <Title>Chapter Questions</Title>
         </Document>
         <Document ID="0228FB59-4F77-48AC-8401-FD62556521E7">
             <Title>Transisters</Title>
@@ -2484,6 +2535,38 @@ In a three-phase wye circuit, &lt;mdn&gt;
         <Document ID="E8A84652-3DF4-4B1B-86CE-BBC664FC754F">
             <Title>Electromagnet Induction</Title>
         </Document>
+        <Document ID="52A63732-E948-4F44-93C5-FD01F315E5A1">
+            <Title>Converter Local Control (CLC)</Title>
+            <Text>This Converter Local Control cabinet contains equipment to monitor and control the converter, including:&lt;ul&gt;&lt;li&gt;
+Main PLC.  The primary function of this Programmable Logic Controller is to control the sequences, safeties and regulation of the converter and control of motor speed and torque. It acquires signals from various current and voltage measurements and gates the inverter IGBTs accordingly. 
+Additional tasks of the controller include control of the incoming AC supply breaker, protection of motor and converter, auxiliaries and the interface to the customer application software.
+&lt;/li&gt;
+&lt;li&gt;
+I/O modules.  These input/output modules connect to establish communication with the various parts of the system. Non-time-critical I/O units are connected to MV7306 main controller through an Ethernet link.
+&lt;/li&gt;
+&lt;li&gt;
+Low voltage auxiliaries.  These auxiliary components use 120 V supplied from UPS. The control cabinet also includes relays used to control circuit breakers, contactors, and DC supply for internal measuring devices. 
+&lt;/li&gt;
+&lt;li&gt;
+Touch screen display. This display provides functionality to configure the drive, and provides the operator  with local control, diagnostic and monitoring functions. 
+&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;
+</Text>
+        </Document>
+        <Document ID="A6A9868B-5EED-4215-8962-55E54E65ECD4">
+            <Title>Maintain Cleanliness and Organization</Title>
+            <Text>Keep your work area clean, organized, and free of clutter. Properly stow tools and equipment after use to prevent trip hazards. Promptly clean up any spills or debris to maintain a safe working environment.</Text>
+        </Document>
+        <Document ID="46C12DB9-A287-4984-B499-39BBC83ABBC5">
+            <Title>Propulsion Process Controller - PPC</Title>
+            <Text>Propulsion ProcessController - PPC 
+This is an integral part of the control PC PECe and has control over the following functions: 
+	•	Starting and stopping of the system auxiliaries. 
+	•	Process fault management. 
+	•	The Propulsion Limitation System (PLS). This controls the automatic limitation of the propulsion in case of overloading of the main diesel generators. 
+	•	The management of the remote control system from the operating positions around the vessel. 
+	•	Interfaces with external system or devices such as the Integrated Control and Automation System (ICAS), the Human Machine Interface(HMI) and the Voyage Data Recorder(VDR). 
+To carry out these functions, the PPC requires inputs and outputs to/from different types of networks as follows:</Text>
+        </Document>
         <Document ID="803B6527-1309-42E5-85ED-883CB8D1901A">
             <Title>exercise</Title>
             <Text>&lt;statement&gt;
@@ -2512,37 +2595,6 @@ In a three-phase wye circuit, &lt;mdn&gt;
    &lt;/choice&gt;
 &lt;/choices&gt;
 </Text>
-        </Document>
-        <Document ID="A6A9868B-5EED-4215-8962-55E54E65ECD4">
-            <Title>Maintain Cleanliness and Organization</Title>
-            <Text>Keep your work area clean, organized, and free of clutter. Properly stow tools and equipment after use to prevent trip hazards. Promptly clean up any spills or debris to maintain a safe working environment.</Text>
-        </Document>
-        <Document ID="52A63732-E948-4F44-93C5-FD01F315E5A1">
-            <Text>This Converter Local Control cabinet contains equipment to monitor and control the converter, including:&lt;ul&gt;&lt;li&gt;
-Main PLC.  The primary function of this Programmable Logic Controller is to control the sequences, safeties and regulation of the converter and control of motor speed and torque. It acquires signals from various current and voltage measurements and gates the inverter IGBTs accordingly. 
-Additional tasks of the controller include control of the incoming AC supply breaker, protection of motor and converter, auxiliaries and the interface to the customer application software.
-&lt;/li&gt;
-&lt;li&gt;
-I/O modules.  These input/output modules connect to establish communication with the various parts of the system. Non-time-critical I/O units are connected to MV7306 main controller through an Ethernet link.
-&lt;/li&gt;
-&lt;li&gt;
-Low voltage auxiliaries.  These auxiliary components use 120 V supplied from UPS. The control cabinet also includes relays used to control circuit breakers, contactors, and DC supply for internal measuring devices. 
-&lt;/li&gt;
-&lt;li&gt;
-Touch screen display. This display provides functionality to configure the drive, and provides the operator  with local control, diagnostic and monitoring functions. 
-&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;
-</Text>
-        </Document>
-        <Document ID="46C12DB9-A287-4984-B499-39BBC83ABBC5">
-            <Title>Propulsion Process Controller - PPC</Title>
-            <Text>Propulsion ProcessController - PPC 
-This is an integral part of the control PC PECe and has control over the following functions: 
-	•	Starting and stopping of the system auxiliaries. 
-	•	Process fault management. 
-	•	The Propulsion Limitation System (PLS). This controls the automatic limitation of the propulsion in case of overloading of the main diesel generators. 
-	•	The management of the remote control system from the operating positions around the vessel. 
-	•	Interfaces with external system or devices such as the Integrated Control and Automation System (ICAS), the Human Machine Interface(HMI) and the Voyage Data Recorder(VDR). 
-To carry out these functions, the PPC requires inputs and outputs to/from different types of networks as follows:</Text>
         </Document>
         <Document ID="BF694E5A-7361-4E7F-B590-923467F69686">
             <Title>introduction</Title>
@@ -2589,11 +2641,11 @@ To carry out these functions, the PPC requires inputs and outputs to/from differ
             <Text>Convert from 10.4 psia to mm Hg Vacuum 
 </Text>
         </Document>
-        <Document ID="87AC8D51-8827-4197-BDE3-A3C25248B66E">
-            <Title>Description</Title>
-        </Document>
         <Document ID="5261187A-9547-495A-9913-DE187AA7ED9A">
             <Title>Open and Closed Systems</Title>
+        </Document>
+        <Document ID="87AC8D51-8827-4197-BDE3-A3C25248B66E">
+            <Title>Description</Title>
         </Document>
         <Document ID="8F8066D3-5174-4A50-B2FA-1FE9E1AF9AA4">
             <Title>Crew Obligations</Title>
@@ -2601,6 +2653,9 @@ To carry out these functions, the PPC requires inputs and outputs to/from differ
         <Document ID="13F6D922-B201-4C62-A1DB-50FE5DB88A38">
             <Text>&lt;/ul&gt;&lt;/p&gt;
 By following these safety practices, you will not only protect yourself but also contribute to the overall safety of the crew and the smooth operation of the ship. Remember, safety should always be your top priority.</Text>
+        </Document>
+        <Document ID="DECCC6AE-C47C-43FD-A971-6BA5F752746E">
+            <Title>Temperature</Title>
         </Document>
         <Document ID="40D5E356-7FE3-4E30-BE49-83C1C1C98494">
             <Title>Electric propulsion</Title>
@@ -2616,8 +2671,12 @@ When ship's service power as well as propulsion power is derived from the same g
 where N_a and N_m are the numbers of poles in the alternator and propulsion motor respectively. As an example, if the prime mover is a gas turbine running at 3600 rpm, driving a two-pole alternator, and the propulsion motor is a 60-pole synchronous motor directly connected to the propeller shaft, the propeller will turn at 120 rpm. (If an induction motor is used, the propeller rpm will be slightly lower.) For maneuvering, lower propeller rpm is achieved without changing the generator speed by using the frequency converter to reduce the frequency of the power to the propulsion motor. Reversing of the propulsion motor is easily accomplished by switching two of the three leads supplying the motor. 
 </Text>
         </Document>
-        <Document ID="DECCC6AE-C47C-43FD-A971-6BA5F752746E">
-            <Title>Temperature</Title>
+        <Document ID="7C295420-4A38-4A5B-A5FA-C59D3C931CF6">
+            <Title>Throttles</Title>
+            <Text>The throttle valves are the primary valves used to control the amount of steam allowed to enter the turbines, and hence they control the speed of the ship. Previously, throttle valves were manually operated by the engineer on watch in response to bell commands from the bridge, but today the throttles may be controlled by the mate on the bridge by remote control.
+There are two throttles, the ahead throttle, and the astern throttle. The ahead throttle controls steam to the high pressure turbine and controls the speed of the ship in the ahead (forward) direction. If the ahead throttle is closed, and the astern throttle is opened, steam will be directed to the astern section of the low pressure turbine. Blades in this section are arranged so that they cause the turbine to rotate in the opposite direction and reverse the propeller.
+The ahead throttle and the astern throttle should not be opened at the same time, because this would cause two opposing torques on the low pressure turbine rotor. While this would not necessarily be damaging, it would be a colossal waste of energy. The &lt;em&gt;Astern Guardian Valve&lt;/em&gt; is installed in the astern steam line between the astern throttle and the astern turbine to protect against leakage of the astern throttle while the ship is underway. This valve normally remains closed, and is only opened when the ship is expected to maneuver.
+</Text>
         </Document>
         <Document ID="40C40292-9328-46F1-9D47-E1F07C73A3F6">
             <Title>exercise</Title>
@@ -2646,6 +2705,12 @@ where N_a and N_m are the numbers of poles in the alternator and propulsion moto
       &lt;/statement&gt;
    &lt;/choice&gt;
 &lt;/choices&gt;
+</Text>
+        </Document>
+        <Document ID="B558A8AC-E568-4EC0-8A2A-D1B1E3434154">
+            <Title>Boiler</Title>
+            <Text>Heat energy is added to the cycle by burning fuel oil in the boiler. The high temperature flames raise the temperature of the water in the boiler and eventually cause it to boil. Not all energy of the fuel is transferred to the water, some remains in the combustion gases and travels up the stack. This energy will be lost to the atmosphere unless it is recovered by economizers or air heaters located in the exhaust path. Any heat energy lost to the atmosphere represents waste and steam cycle inefficiency.
+The boiler is discussed in detail in &lt;xref ref="boilers"/&gt;.
 </Text>
         </Document>
         <Document ID="316CF969-7B9C-4458-8EA3-8C8AFA4284D0">
@@ -2866,12 +2931,19 @@ Maintain proper lighting to ensure visibility within the confined space. Establi
         <Document ID="EF1F8DBC-113F-45E2-9BA9-A684C5F54751">
             <Title>Heat Transfer</Title>
         </Document>
+        <Document ID="8B95DA32-19DE-465E-A4C1-1E9BBF9077CF">
+            <Title>Dry Pipe</Title>
+            <Text>The dry pipe is located inside the steam drum, near the top. In its simplest form the dry pipe is simply a pipe with holes drilled into the top portion. Steam enters the dry pipe before it leaves the boiler.
+The dry pipe is designed to allow steam to enter, but to exclude water droplets and moisture. Moisture in the steam, known as &lt;em&gt;carryover&lt;/em&gt; is bad, because high velocity water droplets in the steam would cause damage to the blades and thrust bearings in the turbine. Improper operation of the boiler, for instance letting the steam drum water level get too high, could cause carryover.
+</Text>
+        </Document>
         <Document ID="86D6789E-6B32-488E-949E-F1954435DC70">
             <Title>DC motors</Title>
             <Text>In construction, DC motors are similar to DC generators. The traditional advantage that DC motors have had over AC motors is that, unlike AC motors, their speed can be easily controlled over a wide range by a &lt;term&gt;rheostat&lt;/term&gt;. A rheostat is an easily adjusted variable resistor that can be connected in series with the motor field windings to control field current and, therefore, motor speed. However, solid-state electronic controls like variable frequency converters are now available, allowing AC motors to be operated with variable speed. Consequently, few DC motors are found aboard modern ships.
 </Text>
         </Document>
         <Document ID="DC012F76-010A-429A-BD5A-35EA344C9913">
+            <Title>DFE &lt;ndash/&gt; Diode Front End Section (DFE)</Title>
             <Text>This section contains the Diode Front Edge bridge. This bridge receives the output of the two secondary windings of the propulsion transformer and rectifies this to a DC voltage in the diode bridge. 
 The propulsion transformers reduce the network voltage (6,600 V) to the requirements of the frequency converters (1,850V).   The transformers have a single primary winding, delta connected, and two secondary windings, one is delta connected and the other is wye connected. This provides a 30° phase shift in one of the supplies to the diode front end.  This arrangement effectively provides a 12-pulse configuration that reduces harmful harmonics. 
 The diode bridge is made up of four stacks of six diodes, one stack to each transformer secondary. The output is passed to the DC Capacitor and filter circuit in the DCC cabinet . 
@@ -2884,14 +2956,7 @@ The diode bridge is made up of four stacks of six diodes, one stack to each tran
         </Document>
         <Document ID="43E26F08-B89F-476C-A58A-6A21D3438890">
             <Title>Efficient Operation</Title>
-            <Text>Electric propulsion systems enable both the prime mover and the propeller to operate at their optimal speeds, eliminating the need for reduction gears. Typically, medium speed diesel engines are coupled with low-speed motors and propellers. The speed reduction is accomplished by selecting the appropriate number of motor poles, and the shaft speed (RPM) is established by adjusting the electrical frequency to the motor. This setup allows each component to operate within its most efficient range, maximizing overall energy efficiency and reducing fuel consumption.</Text>
-        </Document>
-        <Document ID="A7065115-8268-4B85-9004-567504A4909C">
-            <Title>Marine Propulsion</Title>
-            <Text>tbd</Text>
-        </Document>
-        <Document ID="9D380E83-3DCE-4B36-8F98-19DDADFDA2AB">
-            <Title>Safety</Title>
+            <Text>Eliminating the need for reduction gears. Typically, diesel engines and steam turbines operate most efficiently at high or medium speeds, while propellors are most efficient at low speed, below about 100 RPM.  When propulsion power is supplied electrically, speed reduction is accomplished by selecting the appropriate number of poles in the generator and varying the electrical frequency supplied to the motor. This setup allows each component to operate within its most efficient range, maximizing overall energy efficiency and reducing fuel consumption.</Text>
         </Document>
         <Document ID="3CD03BD1-24CA-4A84-B699-27DE5B4BF51C">
             <Title>Effects of Electrical Current on the Human Body</Title>
@@ -2918,6 +2983,13 @@ death is likely.&lt;/p&gt;  &lt;/cell&gt;&lt;/row&gt;
 &lt;row&gt;&lt;cell&gt;5 Amps &lt;/cell&gt;&lt;cell&gt;&lt;p&gt;Flesh burns, defibrillation, temporary respiratory paralysis. &lt;/p&gt; &lt;/cell&gt;&lt;/row&gt;
 &lt;/tabular&gt;
 </Text>
+        </Document>
+        <Document ID="9D380E83-3DCE-4B36-8F98-19DDADFDA2AB">
+            <Title>Safety</Title>
+        </Document>
+        <Document ID="A7065115-8268-4B85-9004-567504A4909C">
+            <Title>Marine Propulsion</Title>
+            <Text>tbd</Text>
         </Document>
         <Document ID="49EB6E0B-2207-4560-8891-3FA1A60E598F">
             <Title>exercise</Title>
@@ -3022,8 +3094,8 @@ Power for pre-charging is supplied by a 440 V circuit from the main switchboard.
             <Text>Safety is a team effort. Maintain open and effective communication with your fellow crew members.  Share safety-related information, ask questions, and seek clarification when needed. Don’t hesitate to speak up if you notice safety hazards, near misses, or unsafe practices.  Effective communication is essential for preventing, addressing and resolving safety issues promptly.
 </Text>
         </Document>
-        <Document ID="21A6FB56-2D8C-4FC5-BA53-7FA658186E65">
-            <Title>Chapter Questions</Title>
+        <Document ID="A73D82A9-2636-4C25-8AF8-EAD7463BC86D">
+            <Title>Chapter 14 - MMA Sea Term I</Title>
         </Document>
         <Document ID="EBF4FFA7-4B5B-46EB-A03D-61131E7AF5C0">
             <Title>Vacuum</Title>
@@ -3040,8 +3112,12 @@ The most common scale used on vacuum gages aboard ship display vacuum in inches 
             <Text>This section contains the connections between the output of the inverter and the cabling to the propulsion motor. 
 </Text>
         </Document>
-        <Document ID="A73D82A9-2636-4C25-8AF8-EAD7463BC86D">
-            <Title>Chapter 14 - MMA Sea Term I</Title>
+        <Document ID="997A4ACA-FF05-46BC-B8C0-266CCA4D412C">
+            <Title>introduction</Title>
+            <Text>While the simplified steam cycle discussed in the previous section could be built, and it would work, several modifications are required to make it practical and to improve its efficiency. This practical steam cycle is shown in &lt;xref ref="MainSteamCycle"/&gt;. Each of the components of this cycle will be briefly discussed in the following sections, in its order in the cycle, and a more detailed discussion of the major components will be found in the chapters to follow.
+&lt;figure xml:id="MainSteamCycle" landscape="yes"&gt; &lt;caption&gt;Main Steam Cycle&lt;/caption&gt; &lt;url href="external/pics/steamcycle/MainSteamCycle.svg" &gt;&lt;image source="pics/steamcycle/MainSteamCycle" width="100%"/&gt;&lt;/url&gt;
+&lt;/figure&gt;
+</Text>
         </Document>
         <Document ID="4B3EA0D1-213B-44EC-920C-EF55A24530A7">
             <Title>Digital Multimeters</Title>
@@ -3067,12 +3143,11 @@ A continuity test is just a resistance measurement used to determine if two poin
             <Text>Conduction is the method by which heat flows from a hotter to a colder substance when there is physical contact between the two substances. For example, consider a cold metal bar which is held firmly against a piece of red-hot metal. In a short time, the end of the bar which is not touching the hotter metal will have become too hot to hold. We say that heat has been conducted from molecule to molecule, throughout the entire bar. The process of conduction will continue as long as there is a temperature difference between the two ends of the bar. 
 </Text>
         </Document>
-        <Document ID="43AFB937-AA82-4EF0-8505-DD498ACF31B3">
-            <Title>RMS Values</Title>
-            <Text>The RMS (Root Mean Square) value is a mathematical concept used to represent the effective or average value of a varying quantity, such as voltage or current, in an AC waveform. It provides a way to express the magnitude of an AC signal in a manner that is equivalent to the magnitude of a DC value. 
-AC current and voltage measurements always mean  RMS values rather than peak or instantaneous values unless stated otherwise. For example, when you see the voltage rating on household electrical devices (e.g., 120V for North America), it's the RMS value that's being specified. Similarly, the current rating (e.g., 15A) refers to the RMS value of the current.
-For a sinusoidal waveform (like the standard AC power supply waveform), the RMS value is approximately 1/\sqrt{2} =  0.707 times the peak value of the waveform.  &lt;me&gt;V_{\text{RMS}} = \frac{V_{\text{peak}}}{\sqrt{2}}\qquad V_{\text{peak}} =V_{\text{RMS}}\sqrt{2}&lt;/me&gt;
-The RMS value of an AC voltage is the equivalent steady DC voltage that would produce the same amount of power dissipation across a resistor as the AC voltage across the same resistor. In other words, it's the voltage that gives the same heating effect as the AC voltage. Similarly, the RMS value of an AC current is the equivalent steady DC current that would produce the same power dissipation in a resistor as the AC current through the same resistor.
+        <Document ID="B043D806-EF46-482A-A39C-169033A7EB59">
+            <Title>Recovery</Title>
+            <Text>The only thing that remains to complete the cycle is to return the condensate to the boiler to be heated up again. Unfortunately, the condensate leaving the condenser is at a low pressure and the boiler operates at a much higher pressure. Condensate won’t flow back into the boiler by itself. A pump is required to raise the pressure and return the condensate to the boiler.
+The pump, known as the &lt;em&gt;feed pump&lt;/em&gt;, draws condensate from the condenser discharge, raises its pressure slightly above the boiler pressure, and discharges it back into the boiler to restart the cycle. Condensate leaving the feed pump is known as &lt;em&gt;feedwater&lt;/em&gt;.
+Work is required to drive the feed pump, and this energy reduces the net work produced by the cycle and available to turn the shaft. Fortunately, since water is incompressible it takes much less work to raise its pressure back to the boiler pressure than we get from an equivalent pressure drop across the turbine, and so there is a net positive amount of work produced by the cycle.
 </Text>
         </Document>
         <Document ID="91C88055-59F1-44EF-AAC4-B62427C79102">
@@ -3088,8 +3163,8 @@ The RMS value of an AC voltage is the equivalent steady DC voltage that would pr
         <Document ID="98AB2B8D-DCDB-44ED-B650-63C8F1B6E92E">
             <Title>Diesel Propulsion</Title>
         </Document>
-        <Document ID="FA88493B-9BEB-4BCC-BB2B-7C1C35E1F9B7">
-            <Title>remove Introduction to Electricity</Title>
+        <Document ID="21A6FB56-2D8C-4FC5-BA53-7FA658186E65">
+            <Title>Chapter Questions</Title>
         </Document>
         <Document ID="556FEBAE-7103-40A0-B3DD-F17C18E0B3E7">
             <Title>Personal Protective Equipment</Title>
@@ -3492,6 +3567,17 @@ OSHA has established regulations for safety shoe design, including impact and co
 &lt;/choices&gt;
 </Text>
         </Document>
+        <Document ID="FA88493B-9BEB-4BCC-BB2B-7C1C35E1F9B7">
+            <Title>remove Introduction to Electricity</Title>
+        </Document>
+        <Document ID="43AFB937-AA82-4EF0-8505-DD498ACF31B3">
+            <Title>RMS Values</Title>
+            <Text>The RMS (Root Mean Square) value is a mathematical concept used to represent the effective or average value of a varying quantity, such as voltage or current, in an AC waveform. It provides a way to express the magnitude of an AC signal in a manner that is equivalent to the magnitude of a DC value. 
+AC current and voltage measurements always mean  RMS values rather than peak or instantaneous values unless stated otherwise. For example, when you see the voltage rating on household electrical devices (e.g., 120V for North America), it's the RMS value that's being specified. Similarly, the current rating (e.g., 15A) refers to the RMS value of the current.
+For a sinusoidal waveform (like the standard AC power supply waveform), the RMS value is approximately 1/\sqrt{2} =  0.707 times the peak value of the waveform.  &lt;me&gt;V_{\text{RMS}} = \frac{V_{\text{peak}}}{\sqrt{2}}\qquad V_{\text{peak}} =V_{\text{RMS}}\sqrt{2}&lt;/me&gt;
+The RMS value of an AC voltage is the equivalent steady DC voltage that would produce the same amount of power dissipation across a resistor as the AC voltage across the same resistor. In other words, it's the voltage that gives the same heating effect as the AC voltage. Similarly, the RMS value of an AC current is the equivalent steady DC current that would produce the same power dissipation in a resistor as the AC current through the same resistor.
+</Text>
+        </Document>
         <Document ID="9201FC73-C5B0-4339-9102-014A68698E2C">
             <Title>IMO Guidelines</Title>
             <Text>The IMO has developed guidelines for rest requirements to address the issue of fatigue among seafarers. These guidelines are outlined in the International Convention on Standards of Training, Certification, and Watchkeeping for Seafarers (STCW Convention). 
@@ -3501,6 +3587,9 @@ In situations where the safety of the ship, crew, or passengers is compromised, 
         </Document>
         <Document ID="59560252-C223-4B10-BAFC-F3C2BD0C30B0">
             <Title>Types of Pumps</Title>
+        </Document>
+        <Document ID="F794FDA5-501F-4AFC-A17E-2110FD85D0A0">
+            <Title>Practical Steam Cycle</Title>
         </Document>
         <Document ID="AD0B6DCE-CF62-4395-AFB4-3C4BA860CE0A">
             <Title>introduction</Title>
@@ -3552,12 +3641,12 @@ Before applying &lt;xref ref="ohms-law"/&gt; the given voltage must be converted
  &lt;me&gt;I = \frac{E}{R} \implies R = \frac{E}{I} = \frac{6200 \text{ V}}{233 \text{ A} }  = 26.6\ \Omega&lt;/me&gt;.
 &lt;/solution&gt;</Text>
         </Document>
+        <Document ID="A1979457-5EC2-4E4F-A863-96713D714845">
+            <Title>Refrigeration</Title>
+        </Document>
         <Document ID="DFA22C9B-FED8-4E43-85C7-C67B4AFED36A">
             <Title>Active Power, reactive power, power factor</Title>
             <Text>TBD</Text>
-        </Document>
-        <Document ID="A1979457-5EC2-4E4F-A863-96713D714845">
-            <Title>Refrigeration</Title>
         </Document>
         <Document ID="DC0B81DD-D941-4E44-A4E8-1F7937358AF7">
             <Title>Follow Safe Working Procedures</Title>
@@ -3814,6 +3903,26 @@ https://www.pinterest.com/pin/386183736777263448/
 In DC systems, the power supply maintains a constant polarity, &lt;ie/&gt; one terminal is always positive, and the other is always negative, and the supply voltage is usually fairly steady.  Batteries and solar cells are examples of DC voltage sources.  In DC circuits, current always flows around the circuit in exactly one direction, from the positive to the negative terminal. &lt;xref ref="fig_battery"/&gt; is a simple example of a DC system. The current flows from the positive terminal of the battery, through the bulb, the switch, and then returns to the negative terminal of the battery.  
 On the other hand, in AC systems the polarity of the voltage switches periodically in a repeating pattern.  This causes the current in the circuit to change periodically as well.  In this section we discuss some important properties of period waves</Text>
         </Document>
+        <Document ID="31A62823-3B54-49A7-B0CA-37D77A186AC7">
+            <Title>Switchboards and Load centers</Title>
+            <Text>A switchboard is an electrical enclosure containing the equipment that monitors, controls, protects, and distributes electrical power. It divides the electrical system into separate circuits and provides a central point from which electrical power can be managed and routed to different areas or equipment.
+Within the switchboard, electrical current is carried by a bus or bus bar, not by wires or cables. In an electrical system, a bus refers to a conducting bar or strip that serves as a common connection point for multiple electrical circuits.  It's like a highway for electrical current to flow to different destinations. Buses are typically made of  copper must have sufficient cross-sectional area to handle the required current.
+The training ship has two high voltage main switchboards (HVMSB);  Switchboard one is located in the forward engine room, and switchboard two is the after engine room.  Each switchboard is divided into two connected buses:  Switchboard one contains buses one and two, switchboard two contains buses three and four.  The buses are interconnected with circuit breakers to permit the power to be re-routed in an emergency. 
+The bus bars are connected through circuit breakers to directly supply to some of the major electrical consumers, and also supply load centers.  Load centers are smaller switchboard or electrical panels located around the ship that contain their own bus and further distribute power to smaller, nearby electrical consumers.  Load centers may also be called group-control centers, distribution boards, or power panels.
+The NSMV power distribution system consists of the following: &lt;ul&gt;
+2 HV switchboards (6.6kV) Supply power to the propulsion motors, bow and stern thrusters, and supply the low voltage switchboards.
+2 LV switchboards (450V) Primarily supply the engine room machinery, and also lower voltage load centers and distribution boards.
+1 Emergency switchboard (450/120V). This switchboard normally powered by the LV switchboard, but in the event of a power failure will be isolated and powered by the emergency generator.
+4 LV load center panels (440V) Supply power to other machinery, including the galley and laundry equipment, and downstream distribution boards.
+4 120 V load center panels (120V) Supply power to 120 V distribution boards, including galley and laundry.
+3 Emergency load center panels (440V) Provide power to vital 440 volt loads.
+3 Emergency load center panels (120V) Provide power to vital 120 volt loads,
+16 Distribution boards (440V)  Provide power to non-vital 440 volt loads.
+18 Distribution boards (120/240V) Provide power to non-vital 120 and 240 volt loads,
+24 Lighting distribution boards (120V), provide the majority of ship’s lighting and outlets.
+13 Emergency Lighting distribution boards (120V), supply the &lt;q&gt;E&lt;/q&gt; lights which sufficient lighting to safely evacuate the ship in an emergency.
+&lt;/ul&gt;&lt;/p&gt;</Text>
+        </Document>
         <Document ID="15663FA6-6256-4A0C-9B20-27723F78815A">
             <Title>exercise</Title>
             <Text>&lt;statement&gt;
@@ -3842,26 +3951,6 @@ On the other hand, in AC systems the polarity of the voltage switches periodical
    &lt;/choice&gt;
 &lt;/choices&gt;
 </Text>
-        </Document>
-        <Document ID="31A62823-3B54-49A7-B0CA-37D77A186AC7">
-            <Title>Switchboards and Load centers</Title>
-            <Text>A switchboard is an electrical enclosure containing the equipment that monitors, controls, protects, and distributes electrical power. It divides the electrical system into separate circuits and provides a central point from which electrical power can be managed and routed to different areas or equipment.
-Within the switchboard, electrical current is carried by a bus or bus bar, not by wires or cables. In an electrical system, a bus refers to a conducting bar or strip that serves as a common connection point for multiple electrical circuits.  It's like a highway for electrical current to flow to different destinations. Buses are typically made of  copper must have sufficient cross-sectional area to handle the required current.
-The training ship has two high voltage main switchboards (HVMSB);  Switchboard one is located in the forward engine room, and switchboard two is the after engine room.  Each switchboard is divided into two connected buses:  Switchboard one contains buses one and two, switchboard two contains buses three and four.  The buses are interconnected with circuit breakers to permit the power to be re-routed in an emergency. 
-The bus bars are connected through circuit breakers to directly supply to some of the major electrical consumers, and also supply load centers.  Load centers are smaller switchboard or electrical panels located around the ship that contain their own bus and further distribute power to smaller, nearby electrical consumers.  Load centers may also be called group-control centers, distribution boards, or power panels.
-The NSMV power distribution system consists of the following: &lt;ul&gt;
-2 HV switchboards (6.6kV) Supply power to the propulsion motors, bow and stern thrusters, and supply the low voltage switchboards.
-2 LV switchboards (450V) Primarily supply the engine room machinery, and also lower voltage load centers and distribution boards.
-1 Emergency switchboard (450/120V). This switchboard normally powered by the LV switchboard, but in the event of a power failure will be isolated and powered by the emergency generator.
-4 LV load center panels (440V) Supply power to other machinery, including the galley and laundry equipment, and downstream distribution boards.
-4 120 V load center panels (120V) Supply power to 120 V distribution boards, including galley and laundry.
-3 Emergency load center panels (440V) Provide power to vital 440 volt loads.
-3 Emergency load center panels (120V) Provide power to vital 120 volt loads,
-16 Distribution boards (440V)  Provide power to non-vital 440 volt loads.
-18 Distribution boards (120/240V) Provide power to non-vital 120 and 240 volt loads,
-24 Lighting distribution boards (120V), provide the majority of ship’s lighting and outlets.
-13 Emergency Lighting distribution boards (120V), supply the &lt;q&gt;E&lt;/q&gt; lights which sufficient lighting to safely evacuate the ship in an emergency.
-&lt;/ul&gt;&lt;/p&gt;</Text>
         </Document>
         <Document ID="1C596C4A-4B34-4479-8B66-64388B56F5BB">
             <Title>exercise</Title>
@@ -4017,6 +4106,8 @@ A 440 V shore power connection is provided to supply electrical power to the shi
         </Document>
         <Document ID="89C89468-D5D1-411E-B857-BF9A811A72E1">
             <Title>Electrical Components</Title>
+            <Text>
+</Text>
         </Document>
         <Document ID="4C00553A-7822-41AC-B670-CE08A2F22C6E">
             <Title>Motor Control</Title>
@@ -4046,35 +4137,23 @@ A low voltage condition occurs when the supply voltage drops below about 90% of 
 &lt;/ul&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/p&gt;
 A motor which does not restart after a power failure is described as having Low Voltage Protection (LVP).  The alternate behavior, where the motor automatically restarts after a power failure is called  Low Voltage Release (LVR).  Critical machinery such as the steering gear and lube oil pumps have LVR, while other machines have LVP.</Text>
         </Document>
-        <Document ID="1931446C-6B88-4360-A0E1-71A47CC7269E">
-            <Title>Thermal Energy</Title>
+        <Document ID="93FFE8C7-2CC7-4A13-AA36-AF03BB078BE0">
+            <Title>Drive Cabinets</Title>
         </Document>
-        <Document ID="41F75C97-200E-432D-9AF8-DC35B1394AC8">
-            <Title>Optic Fibre I/O Ethernet Network </Title>
-            <Text>Optical Fibre I/O Ethernet Network 
-This network provides communications between the PPC and the remote control positions. Due to the systemsl oop configuration it is fault tolerant. The propulsion system can be controlled from the eight possible remote control positions that utilize this network: 
-	•	Bridge console. 
-	•	Port bridge wing console. 
-	•	Starboard bridge wing console. 
-	•	Training bridge console 
-	•	Engine control room 1. 
-	•		•	Engine control room 2. 
-	•	Port local control panel. 
-	•	Starboard local control panel. 
-I/O Ethernet Network 
-This network provides for the propulsion control management and safeties: 
-	•	Motor safeties. 
-	•	Converter safeties. 
-	•	Transformer safeties. 
-	•	Auxiliaries motor control centre safeties. 
-	•	Shaft line safeties monitoring, temperature monitoring and interlocks. 
-	•	PLS data from the main switchboards.
+        <Document ID="876B48C6-C805-44BE-976A-EFA2B89E1640">
+            <Title>Symbols</Title>
+            <Text>&lt;p&gt;
+&lt;ul marker="" cols="2"&gt;
+&lt;li&gt;&lt;sidebyside widths="30% 65%" margins="0%" valign="middle"&gt;
+    &lt;image source="pics/electricity/symbols/earth_ground"/&gt;
+    &lt;p&gt;Earth Ground&lt;/p&gt;
+    &lt;/sidebyside&gt;&lt;/li&gt;
 
-I/O Network for Inter-Process Communication 
-This system provides communication between the port and starboard drives and the HMI computers. It is a redundant system using two separate ethernet networks connected and operating in tandem. If one network should fail, there would be no interruption of communication. This network also connects the maintenance computer to the system; this PC is used for: 
-	•	Configuring the IP addresses of the different components of the propulsion system (PPC, PECe, remote I/O rack, etc). 
-	•	To download software to the PPC and PECe. 
-	•	To monitor the propulsion system using analytical tools.</Text>
+&lt;li&gt;&lt;sidebyside widths="30% 65%" margins="0%" valign="middle"&gt;
+    &lt;image source="pics/electricity/symbols/chassis_ground"/&gt;
+    &lt;p&gt;Chassis Ground&lt;/p&gt;
+    &lt;/sidebyside&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;</Text>
         </Document>
         <Document ID="7E7A14F1-560C-4645-B414-66E789EF99E9">
             <Title>Introduction to Electricity</Title>
@@ -4108,23 +4187,56 @@ Repeating the calculations for the first two resistors only we get &lt;md&gt;
 &lt;/solution&gt;
 </Text>
         </Document>
-        <Document ID="876B48C6-C805-44BE-976A-EFA2B89E1640">
-            <Title>Symbols</Title>
-            <Text>&lt;p&gt;
-&lt;ul marker="" cols="2"&gt;
-&lt;li&gt;&lt;sidebyside widths="30% 65%" margins="0%" valign="middle"&gt;
-    &lt;image source="pics/electricity/symbols/earth_ground"/&gt;
-    &lt;p&gt;Earth Ground&lt;/p&gt;
-    &lt;/sidebyside&gt;&lt;/li&gt;
+        <Document ID="1931446C-6B88-4360-A0E1-71A47CC7269E">
+            <Title>Thermal Energy</Title>
+        </Document>
+        <Document ID="41F75C97-200E-432D-9AF8-DC35B1394AC8">
+            <Title>Optic Fibre I/O Ethernet Network </Title>
+            <Text>Optical Fibre I/O Ethernet Network 
+This network provides communications between the PPC and the remote control positions. Due to the systemsl oop configuration it is fault tolerant. The propulsion system can be controlled from the eight possible remote control positions that utilize this network: 
+	•	Bridge console. 
+	•	Port bridge wing console. 
+	•	Starboard bridge wing console. 
+	•	Training bridge console 
+	•	Engine control room 1. 
+	•		•	Engine control room 2. 
+	•	Port local control panel. 
+	•	Starboard local control panel. 
+I/O Ethernet Network 
+This network provides for the propulsion control management and safeties: 
+	•	Motor safeties. 
+	•	Converter safeties. 
+	•	Transformer safeties. 
+	•	Auxiliaries motor control centre safeties. 
+	•	Shaft line safeties monitoring, temperature monitoring and interlocks. 
+	•	PLS data from the main switchboards.
 
-&lt;li&gt;&lt;sidebyside widths="30% 65%" margins="0%" valign="middle"&gt;
-    &lt;image source="pics/electricity/symbols/chassis_ground"/&gt;
-    &lt;p&gt;Chassis Ground&lt;/p&gt;
-    &lt;/sidebyside&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/p&gt;</Text>
+I/O Network for Inter-Process Communication 
+This system provides communication between the port and starboard drives and the HMI computers. It is a redundant system using two separate ethernet networks connected and operating in tandem. If one network should fail, there would be no interruption of communication. This network also connects the maintenance computer to the system; this PC is used for: 
+	•	Configuring the IP addresses of the different components of the propulsion system (PPC, PECe, remote I/O rack, etc). 
+	•	To download software to the PPC and PECe. 
+	•	To monitor the propulsion system using analytical tools.</Text>
+        </Document>
+        <Document ID="06881393-F1E9-4F0F-A21F-8D061EC638F7">
+            <Title>Condensation</Title>
+            <Text>As stated previously, a large pressure drop across the turbine is required to get maximum energy extraction from the steam. The boiler supplies the high pressure at the inlet to the turbine, it is the job of the condenser to create a low pressure condition at the turbine outlet.
+The condenser is a shell-and-tube heat exchanger cooled by seawater. It consists of a large, rectangular or cylindrical sealed shell containing thousands of tubes. A circulating pump forces cold seawater in at one end, through the tubes, and it exits overboard at the other end. Steam exiting from the turbine enters the condenser at the top, condenses on the tube surfaces and drains out the bottom. That is, the steam gives up its latent heat of condensation to the seawater, and returns to the liquid water state. Once the steam passes across the condenser tubes, it is no longer steam. It has condensed to liquid water, and from this point in the cycle is referred to as &lt;em&gt;condensate&lt;/em&gt;. Condensate leaves the condenser as a low temperature, low pressure liquid.
+Because the condensation is occurring at approximately the temperature of the seawater, the pressure in the condenser will be approximately equal to the saturation pressure of steam at this temperature, assuming that no air or other gases are present. For example, if the seawater temperature is 80 °F, the corresponding saturation pressure would be 0.5073 psia. This is a very high vacuum, and the greater the vacuum, the better the plant efficiency.
+The latent heat removed from the steam by the seawater raises the temperature and increases the energy contained by the seawater, and this cooling water is discharged overboard.
+It is unfortunate that some of the energy once contained by the fuel, and then passed on to the steam in the boiler, is eventually thrown away with the seawater. Wouldn’t it be better to somehow use this energy to power the ship? Absolutely, but there is nothing we can do about it! The only way to extract more energy from the steam is by having the turbine discharge to an even lower absolute pressure than we do. The only way to do that is to condense the steam at even lower temperatures than we are. But we can’t do that, because aboard ship there’s nothing colder than the surrounding ocean available to reject the heat to. If we decided not to reject any heat to the ocean at all, the pressure in the condenser would build up to the point where it would equal the steam pressure entering the turbine, and without a pressure drop, the steam would stop flowing altogether. There’s no win, but we’re doing the best we can.
+</Text>
         </Document>
         <Document ID="06451DEA-0CFA-43B9-8AB7-0AE9080DA80A">
             <Title>System diagrams</Title>
+        </Document>
+        <Document ID="F5E2724E-1C74-47BC-8DBB-7CA3AD6064D9">
+            <Title>Air Ejector Condenser</Title>
+            <Text>The air ejector, as mentioned above, is a steam powered air pump which is used to remove air leakage from the condenser. Since the air ejector operates on steam, and normally draws out some steam along with the air it removes, it is important to recover this steam in a condenser so that it is not lost from the steam cycle.
+We &lt;em&gt;could&lt;/em&gt; use a saltwater cooled condenser to condense this steam, but we don’t. Instead the coolant used is the condensate from the main condenser on its way back to the boiler. This is done for two reasons. First, the heat given up by the condensing air ejector steam preheats the condensate before it returns to the boiler, thus saving energy. Any heat added before the condensate reaches the boiler represents fuel that doesn’t need to be burned. Second, by cooling the air ejector condenser with condensate, there is no chance of contaminating the condensate with saltwater in the event of a tube leak.
+A typical air ejector condenser is shown in &lt;xref ref="air_ejector_vw_png"/&gt;. The air ejector must operate in two stages to accomplish the necessary increase in pressure to move the air from the main condenser back to the atmosphere. As a result the condenser is also divided into two areas to maintain the pressure differential between the stages. The first condenser is known as the &lt;em&gt;inter-condenser&lt;/em&gt;, and it discharges its condensate back to the main condenser. The second stage air ejector steam is condensed in the &lt;em&gt;after-condenser&lt;/em&gt; and the condensate collected there is returned to the system by way of the &lt;em&gt;atmospheric drain tank&lt;/em&gt;.
+&lt;figure xml:id="air_ejector_vw_png"&gt; &lt;caption&gt;Air Ejector Unit&lt;/caption&gt; &lt;image source="pics/steamcycle/air_ejector.vw.png"/&gt;
+&lt;/figure&gt;
+</Text>
         </Document>
         <Document ID="3E7356BD-DA31-43FF-8A57-CC4580EC322C">
             <Title>objectives</Title>
@@ -4207,6 +4319,18 @@ Soft starters and variable frequency drives, which are electronic devices, gradu
           &lt;/table&gt;
  </Text>
         </Document>
+        <Document ID="B8EB6175-E365-46BA-912F-D0D9C0BDFF3A">
+            <Title>introduction</Title>
+            <Text> &lt;xref ref="simplified_png"/&gt; shows a very simplified version of the steam cycle, which is an appropriate starting point for our discussion of ship’s propulsion.
+The steam cycle is an example of what is known by engineers as a &lt;em&gt;cyclic heat engine&lt;/em&gt;. It is called cyclic, because it operates on a cycle. It uses a &lt;em&gt;working fluid&lt;/em&gt;, water, which travels from point to point through the cycle, changing form and carrying energy, but eventually returning to the starting point restored to the same &lt;em&gt;state&lt;/em&gt; that it started with. It is called a heat engine, because it transforms &lt;em&gt;heat&lt;/em&gt;, which is a form of energy, into &lt;em&gt;work&lt;/em&gt;, another form of energy. The thermodynamic name for this cycle is the &lt;em&gt;Rankine Cycle.&lt;/em&gt;
+The steam cycle consists of four stages &lt;ol&gt; &lt;li&gt; generation &lt;/li&gt; &lt;li&gt; expansion &lt;/li&gt; &lt;li&gt; condensation &lt;/li&gt; &lt;li&gt; recovery &lt;/li&gt; &lt;/ol&gt;
+&lt;figure xml:id="simplified_png"&gt; 
+&lt;caption&gt;Simplified Steam Cycle&lt;/caption&gt; 
+&lt;image source="pics/steamcycle/simplified.png"/&gt;
+&lt;/figure&gt;
+Since this is a cycle, it has no beginning or end, but &lt;em&gt;we&lt;/em&gt; have to start somewhere, so let’s begin with the generation stage.
+</Text>
+        </Document>
         <Document ID="1AC4248A-1200-46AA-86FA-5E49315D14AF">
             <Title>exercise</Title>
             <Text>&lt;statement&gt;
@@ -4277,26 +4401,13 @@ To convert between SI and US customary power units, use these conversion factors
 &lt;/md&gt;&lt;/p&gt;
 </Text>
         </Document>
-        <Document ID="74A68178-B7D7-42EA-A6F9-577A00692CC8">
-            <Title>Induction motors</Title>
-            <Text>A more common type of AC motor, widely used for driving pumps and fans, is the   &lt;term&gt;induction motor&lt;/term&gt;. In most induction motors the rotor is built up of laminated steel plates, into which are inserted a number of conductor &lt;term&gt;bars&lt;/term&gt;, connected at the ends by &lt;term&gt;end-connecting rings&lt;/term&gt; as shown in &lt;xref ref="fig_24_16_png"/&gt;. Without the core, the conductor bars and end-connecting rings would form a rotating cage-like structure, for which reason this type of motor is often called a   &lt;term&gt;squirrel-cage induction motor&lt;/term&gt;.
-&lt;figure xml:id="fig_24_16_png"&gt;
- &lt;caption&gt;Squirrel-cage rotor for AC induction motor&lt;/caption&gt;
- &lt;image source="pics/electricity/24-16.png" width="75%"/&gt;
-&lt;/figure&gt;
-If a squirrel-cage rotor is placed in the rotating magnetic field of an AC-motor stator, but is locked to prevent its rotation, then as the rotating magnetic field, produced by the stator, crosses the conductor bars it will induce a voltage in these bars, and therefore a current will circulate through the rotor, since the bars are connected together to form a complete circuit. The current in the bars of the rotor produces a magnetic field surrounding the bars, which causes the rotor to act as if it were a permanent magnet or electromagnet. If the rotor were then released it would rotate as any magnet would, and will accelerate towards the synchronous speed of the stator field. However, it will never reach synchronous speed because, if it did, the conductor bars of the rotor would no longer be crossed by the rotating magnetic field of the stator and no induced rotor current or rotor magnetism would result. Therefore, induction-motor rotors always run at a speed slightly less than the synchronous speed in order to induce a voltage and current in the rotor conductor bars. The difference from synchronous speed is called the &lt;term&gt;slip&lt;/term&gt; and is defined as follows:   &lt;me&gt; \text{% slip} = \frac{\text{synchronous speed} - \text{actual rotor   speed}}{\text{synchronous speed}} \times 100\%&lt;/me&gt;
-
-As the torque on an induction motor increases, the rotor must slow down (slip must increase) so that sufficient current is induced in the conductor bars of the rotor to develop an induced magnetism strong enough to develop the necessary torque. However, it is important to note that the slip is not much more than five percent even at high torque, so that induction motors are almost constant-speed machines when supplied with constant-frequency line power.
-As with synchronous motors, induction~motor stators can have multiple pairs of stator poles for different speed requirements, and that they can easily be reversed by interchanging two of the three line connections.
-</Text>
+        <Document ID="FBE7BD3C-FABB-4A00-B16A-63DF1E79C908">
+            <Title>Objectives</Title>
+            <Text>&lt;url href="https://weh.maritime.edu/stcw/2023/tables/35.html#ABE-C3.1" visual="ABE-C3.1"/&gt; Lockout/tag-out</Text>
         </Document>
         <Document ID="FC117564-9643-4839-BCF7-1689F843E8B3">
             <Title>Maintain Personal Fitness and Well-being</Title>
             <Text>Ensure you are physically and mentally fit for the tasks assigned to you. Get enough rest, eat well, and stay hydrated. Fatigue and exhaustion can compromise your alertness and increase the risk of accidents.  Don’t abuse alcohol or drugs, and certainly don’t attempt to perform your duties when you’re impaired.</Text>
-        </Document>
-        <Document ID="FBE7BD3C-FABB-4A00-B16A-63DF1E79C908">
-            <Title>Objectives</Title>
-            <Text>&lt;url href="https://weh.maritime.edu/stcw/2023/tables/35.html#ABE-C3.1" visual="ABE-C3.1"/&gt; Lockout/tag-out</Text>
         </Document>
         <Document ID="1E837A1F-E3FD-4130-A549-69070D241E53">
             <Title>introduction</Title>
@@ -4369,6 +4480,19 @@ A better definition of energy, therefore, states that &lt;q&gt;energy is the cap
 If you do not completely understand this classification, come back to it from time to time as you read the following sections on mechanical energy and thermal energy. The examples and discussion given in the following sections will probably help you to understand this classification. 
 </Text>
         </Document>
+        <Document ID="74A68178-B7D7-42EA-A6F9-577A00692CC8">
+            <Title>Induction motors</Title>
+            <Text>A more common type of AC motor, widely used for driving pumps and fans, is the   &lt;term&gt;induction motor&lt;/term&gt;. In most induction motors the rotor is built up of laminated steel plates, into which are inserted a number of conductor &lt;term&gt;bars&lt;/term&gt;, connected at the ends by &lt;term&gt;end-connecting rings&lt;/term&gt; as shown in &lt;xref ref="fig_24_16_png"/&gt;. Without the core, the conductor bars and end-connecting rings would form a rotating cage-like structure, for which reason this type of motor is often called a   &lt;term&gt;squirrel-cage induction motor&lt;/term&gt;.
+&lt;figure xml:id="fig_24_16_png"&gt;
+ &lt;caption&gt;Squirrel-cage rotor for AC induction motor&lt;/caption&gt;
+ &lt;image source="pics/electricity/24-16.png" width="75%"/&gt;
+&lt;/figure&gt;
+If a squirrel-cage rotor is placed in the rotating magnetic field of an AC-motor stator, but is locked to prevent its rotation, then as the rotating magnetic field, produced by the stator, crosses the conductor bars it will induce a voltage in these bars, and therefore a current will circulate through the rotor, since the bars are connected together to form a complete circuit. The current in the bars of the rotor produces a magnetic field surrounding the bars, which causes the rotor to act as if it were a permanent magnet or electromagnet. If the rotor were then released it would rotate as any magnet would, and will accelerate towards the synchronous speed of the stator field. However, it will never reach synchronous speed because, if it did, the conductor bars of the rotor would no longer be crossed by the rotating magnetic field of the stator and no induced rotor current or rotor magnetism would result. Therefore, induction-motor rotors always run at a speed slightly less than the synchronous speed in order to induce a voltage and current in the rotor conductor bars. The difference from synchronous speed is called the &lt;term&gt;slip&lt;/term&gt; and is defined as follows:   &lt;me&gt; \text{% slip} = \frac{\text{synchronous speed} - \text{actual rotor   speed}}{\text{synchronous speed}} \times 100\%&lt;/me&gt;
+
+As the torque on an induction motor increases, the rotor must slow down (slip must increase) so that sufficient current is induced in the conductor bars of the rotor to develop an induced magnetism strong enough to develop the necessary torque. However, it is important to note that the slip is not much more than five percent even at high torque, so that induction motors are almost constant-speed machines when supplied with constant-frequency line power.
+As with synchronous motors, induction~motor stators can have multiple pairs of stator poles for different speed requirements, and that they can easily be reversed by interchanging two of the three line connections.
+</Text>
+        </Document>
         <Document ID="AB16E7CF-9AA4-4E22-8A05-D325663E3D1A">
             <Title>electrical mesurement</Title>
         </Document>
@@ -4406,6 +4530,7 @@ The interchangeability of matter and energy is mentioned here only to point out 
             <Text>Familiarize yourself with the ship's emergency procedures, including evacuation routes, muster stations, and the proper use of life-saving equipment. Be prepared to respond calmly and promptly in case of an emergency.</Text>
         </Document>
         <Document ID="770325D1-50D9-41F9-833E-3870109B6C24">
+            <Title>Converter Cooling (CCU)</Title>
             <Text>The Converter Cooling cabinet contains the equipment required to remove the heat generated by diodes and IGBTs when the converter is operating. The cubicle contains two circulating pumps (one always in stand-by), a stainless steel plate-type heat exchanger, an expansion tank, a resin deionizing cartridge, stainless steel piping and high pressure hoses.
 Deionized water is used as the primary cooling medium. because its low conductivity minimizes corrosion and improves heat transfer, while its purity reduces the accumulation of scale formation.  
 De-ionized water is circulated by the pump to the cooling pipes and ducts of the high voltage sections. Returning coolant then passes through a the heat exchange and the heat from the de-ionized water is removed by raw water.  A three-way thermostatic bypass valve controls the flow of raw water to through the heat exchanger to maintain the coolant temperature at an optimum level. 
@@ -4420,9 +4545,6 @@ The coolant pressure, temperature, flow rate and conductivity are closely monito
             <Text>Atmospheric pressure is the pressure exerted by the weight of the atmosphere. At sea level the average pressure of the atmosphere is sufficient to support a column of mercury (Hg) 760.0 millimeters or 29.92 inches high. This is equivalent to a pressure of approximately 14.7 psi. This is known as the absolute pressure of the atmosphere, and is indicated by the unit &lt;em&gt;psia&lt;/em&gt; (pounds per square inch, absolute) 
 A barometer is the device used to measure the pressure of the atmosphere, so the absolute pressure of the atmosphere is also known as the barometric pressure. When you hear a weather report, this is the value reported. The barometric pressure changes with weather conditions, but for most purposes aboard ship, this fact can be ignored, and we can assume that the atmospheric pressure is 14.7 psia or 760 mm Hg. at all times. Notice, however, that the figure of 14.7 pounds per square inch absolute (psia.) represents the average atmospheric pressure at sea level, and does not always represent the actual pressure being exerted by the atmosphere at the moment that a gage is being read. 
 </Text>
-        </Document>
-        <Document ID="FEF72D55-55BA-4DC5-B68E-E934BDBE09B7">
-            <Title>Introduction to Thermodynamics - Susie</Title>
         </Document>
         <Document ID="1492B27A-A391-4E39-AC82-3446D294D2FD">
             <Title>Capacitors</Title>
@@ -4486,6 +4608,10 @@ This section introduces some electrical components you should be familiar with, 
         <Document ID="BC9482C8-1FC6-475C-AE86-D4D9077870C5">
             <Title>Induction Motors</Title>
         </Document>
+        <Document ID="B9873934-3150-400F-AF05-3F965FFD7689">
+            <Title>Gas vs. Diesel Engines and  Otto vs. Diesel Cycle</Title>
+            <Text>TBD</Text>
+        </Document>
         <Document ID="F7A4396C-5980-435E-BB5E-759E74FF1268">
             <Title>introduction</Title>
             <Text>NTRODUCTION 
@@ -4518,10 +4644,6 @@ Configuration and monitoring Software
 The Configuration and monitoring software for HDEC2000 unit called HDCM is connected through RS232 communication port on the front panel. The HDCM software provides very useful functions such as parameter configuration, setpoint adjustment, control gain estimation and real time measurement for factory setup and site commissioning. 
 
 </Text>
-        </Document>
-        <Document ID="B9873934-3150-400F-AF05-3F965FFD7689">
-            <Title>Gas vs. Diesel Engines and  Otto vs. Diesel Cycle</Title>
-            <Text>TBD</Text>
         </Document>
         <Document ID="01A16E4F-C80F-403F-B091-A46EC369FB7B">
             <Title>Electric Symbols</Title>
@@ -4915,6 +5037,25 @@ When the switch is closed,  current flowing in the left coil produces a magnetic
             <Text>tbd
 </Text>
         </Document>
+        <Document ID="6D899136-E788-4290-B821-C609E552BE15">
+            <Title>Introduction</Title>
+            <Text>
+The National Safety Council has found that hands are the body part most frequently injured on the job. Accidents to the hand fall into these categories: abrasions, cuts, punctures, crushes, contact with moving machinery, burns, and chemical injuries. Gloves and hand protection are available to protect you from nearly all of these hazards. However, glove selection must be based on performance characteristics of the gloves, conditions, durations of use, and hazards present. One type of glove will not work in all situations. 
+
+
+In the engine room, particular hazards include high temperatures and moving machinery. Long sleeved shirts are advisable to protect your arms, and you should always have a pair of work gloves available to use when necessary to protect your hands when working around hot pipes. Special high temperature gloves should always be worn when changing burners, and the appropriate chemical resistant gloves should be worn when working with burner cleaning and boiler chemicals. You should also pay particular attention to avoid contact with moving parts of machinery or power tools with moving parts, and insure that safety guards are always in place. Gloves should always be inspected for damage before use. 
+
+&lt;figure xml:id="fig_gloves"&gt;
+&lt;caption&gt; Hand and Arm Protection  &lt;/caption&gt;
+&lt;sidebyside width ="25%" valign="middle"&gt;
+&lt;image  source="pics/ppe/gloves1.png"/&gt;
+&lt;image  source="pics/ppe/gloves2.png"/&gt;
+&lt;image  source="pics/ppe/gloves3.png"/&gt;
+&lt;/sidebyside&gt;
+&lt;/figure&gt;
+
+</Text>
+        </Document>
         <Document ID="5B096358-B5A2-47B0-AE0E-C66C2E7FBA46">
             <Title>exercise</Title>
             <Text>&lt;statement&gt;
@@ -4942,25 +5083,6 @@ When the switch is closed,  current flowing in the left coil produces a magnetic
       &lt;/statement&gt;
    &lt;/choice&gt;
 &lt;/choices&gt;
-</Text>
-        </Document>
-        <Document ID="6D899136-E788-4290-B821-C609E552BE15">
-            <Title>Introduction</Title>
-            <Text>
-The National Safety Council has found that hands are the body part most frequently injured on the job. Accidents to the hand fall into these categories: abrasions, cuts, punctures, crushes, contact with moving machinery, burns, and chemical injuries. Gloves and hand protection are available to protect you from nearly all of these hazards. However, glove selection must be based on performance characteristics of the gloves, conditions, durations of use, and hazards present. One type of glove will not work in all situations. 
-
-
-In the engine room, particular hazards include high temperatures and moving machinery. Long sleeved shirts are advisable to protect your arms, and you should always have a pair of work gloves available to use when necessary to protect your hands when working around hot pipes. Special high temperature gloves should always be worn when changing burners, and the appropriate chemical resistant gloves should be worn when working with burner cleaning and boiler chemicals. You should also pay particular attention to avoid contact with moving parts of machinery or power tools with moving parts, and insure that safety guards are always in place. Gloves should always be inspected for damage before use. 
-
-&lt;figure xml:id="fig_gloves"&gt;
-&lt;caption&gt; Hand and Arm Protection  &lt;/caption&gt;
-&lt;sidebyside width ="25%" valign="middle"&gt;
-&lt;image  source="pics/ppe/gloves1.png"/&gt;
-&lt;image  source="pics/ppe/gloves2.png"/&gt;
-&lt;image  source="pics/ppe/gloves3.png"/&gt;
-&lt;/sidebyside&gt;
-&lt;/figure&gt;
-
 </Text>
         </Document>
         <Document ID="60024A80-A3D6-4725-A0F0-8A17BB188B9A">
@@ -5131,6 +5253,11 @@ One important force which we experience every day is weight. Weight is the force
 The constant &lt;em&gt;g&lt;/em&gt; depends on where you are: on earth the constant is greater than it  is on the moon, so you weigh less on the moon than you do on earth. In outer space, the  constant is zero, making you weightless there. Be careful not to confuse weight with mass. The  mass of an object will not change when it moves to another location, but its weight may. One  reason why people often confuse weight with mass is because in the English system and on the  surface of the earth, the gravitational constant &lt;em&gt;g&lt;/em&gt; is equal to 1, and so one pound of  mass has a weight of one pound of force. Move to the moon, and the pound of mass now weighs  about six tenths of a pound. On earth in the SI system, &lt;em&gt;g&lt;/em&gt; is approximately equal to  9.81 \textrm{m/s}^2. 
 </Text>
         </Document>
+        <Document ID="DA5FD80D-410A-4261-8EC8-8F92BAA5473A">
+            <Text>According to US Coast Guard regulations, boilers are required to have &lt;em&gt;two valve protection&lt;/em&gt;, that is, they are required to have two valves in series in all boiler connections. This insures that at least one valve will be functional when the time comes to secure the boiler.
+The bulkhead stop valve is located in the main steam line, downstream of the main steam stop valve, and provides backup protection for it.
+</Text>
+        </Document>
         <Document ID="416DB2BB-CAF6-4CAA-BD38-12B589E1BB1B">
             <Title>introduction</Title>
             <Text>A confined space is defined by OSHA as a space that has limited or restricted means of entry, is not designed for continuous occupancy, and is large enough and configured so that a person can enter the space and maneuver well enough to perform tasks.  
@@ -5213,9 +5340,6 @@ As you can see, each BTU that is put in at the boiler furnace has to be divided 
 
 </Text>
         </Document>
-        <Document ID="C2426448-0C74-4778-819A-BA76FE2E46B6">
-            <Title>Safety Devices</Title>
-        </Document>
         <Document ID="02F110FD-2AA7-42D4-9063-A58B0636D282">
             <Title>Stop Check</Title>
             <Text>A stop-check valve is very similar to a globe valve, except that the disk is not   attached to the stem. When the valve hand-wheel is turned to the fully closed position   the disk is held against the seat and the valve is securely closed. When the valve   hand-wheel is turned to open the valve, the disk is free to lift off the seat, and will   when there is a pressure difference in the correct direction. If the flow reverses   direction, the valve will automatically close like a lift check valve. 
@@ -5223,6 +5347,9 @@ The valve stem can be used to force the disk to a partially closed position to  
 A typical application would be a boiler feedwater stop-check valve. The valve can be   used to stop or regulate feedwater flow to the boiler. It also automatically prevents   the back flow of water out of the boiler through the feedwater line if the pressure in   the feedwater line falls below the boiler steam pressure. In this application, it   functions as a check valve. 
 In some designs, a stop-check valve can be converted to a regular globe valve, which   eliminates the check function and allows the disk to be forced into the open position,   by reinstalling the disk nut or drilling a hole through the upper disk and valve stem   and inserting a pin to lock them together. 
 </Text>
+        </Document>
+        <Document ID="C2426448-0C74-4778-819A-BA76FE2E46B6">
+            <Title>Safety Devices</Title>
         </Document>
         <Document ID="B6E03637-F601-430B-B9D5-83DCE200C367">
             <Title>Energy</Title>
@@ -5376,10 +5503,6 @@ Electrically Insulated Safety Shoes These shoes have non-conductive soles to pre
 Electrically Conductive Safety Shoes These shoes protect against the buildup of static electricity. Essentially, these shoes ground the employees wearing them. Employees working in explosive and hazardous locations such as explosives manufacturing facilities or grain elevators must wear conductive shoes to reduce the risk of static electricity buildup on an employee’s body that could produce a spark and cause an explosion or fire. During training, employees must be instructed not to use foot powder or wear socks made of silk, wool, or nylon with conductive shoes. Foot powder insulates and retards the conductive ability of the shoes. Silk, wool, and nylon produce static electricity. Conductive shoes are not general-purpose shoes and must be removed upon completion of the tasks for which they are required. Employees exposed to electrical hazards must &lt;em&gt;never&lt;/em&gt; wear conductive shoes. 
 </Text>
         </Document>
-        <Document ID="87628BD8-4478-490C-BB11-8BDCAF1F32BF">
-            <Title>Axial and Radial Bearings</Title>
-            <Text>TBD</Text>
-        </Document>
         <Document ID="C0A40E34-964E-4BFE-95A8-31BC1B3B23A0">
             <Title>DC Circuits</Title>
             <Text>In a DC circuits, where the voltage (V) is constant, electrical power can be calculated simply as the product of voltage and current &lt;men xml:id="PEI"&gt; P = EI&lt;/men&gt;, or as the product of resistance and current squared. &lt;men xml:id="I2R"&gt;P = I^2 R&lt;/men&gt;
@@ -5392,7 +5515,12 @@ Where:
 The second version of this equation uses the Ohm’s law relation E = IR to eliminate E and express power in terms of current and resistance.  This equation indicates that the power dissipated by resistance is proportional to the square of the current, and that energy is lost whenever current flows through a resistor.  
 </Text>
         </Document>
+        <Document ID="87628BD8-4478-490C-BB11-8BDCAF1F32BF">
+            <Title>Axial and Radial Bearings</Title>
+            <Text>TBD</Text>
+        </Document>
         <Document ID="E21C7AC5-6DB9-4370-8618-6389ACC50514">
+            <Title>introduction</Title>
             <Text>Safety management is a systematic approach taken by regulatory bodies and companies to identify, assess, control, and mitigate risks in order to ensure the safety of personnel, assets, and the environment. It involves the development and implementation of policies, procedures, and practices aimed at preventing accidents, injuries, and damage. 
 Key components of safety management include risk assessment, safety planning, establishment of policies and procedures, training and education, reporting and investigation of incidents, audits and inspections, and continuous improvement efforts. The goal of safety management is to protect lives, prevent harm, and promote a culture of safety within organizations across various industries.</Text>
         </Document>
@@ -5538,33 +5666,27 @@ Torque
 Power
 Speed</Text>
         </Document>
-        <Document ID="7E3F274D-D471-4271-BE09-8EBD247F3A82">
-            <Title>exercise</Title>
-            <Text>&lt;statement&gt;
-   A swing check valve is used in a pipeline to ______. 
-&lt;/statement&gt;
-&lt;choices&gt;
-   &lt;choice&gt;
-      &lt;statement&gt;
- maintain a preset pressure on the line 
-      &lt;/statement&gt;
-   &lt;/choice&gt;
-   &lt;choice&gt;
-      &lt;statement&gt;
- closely regulate the amount of flow 
-      &lt;/statement&gt;
-   &lt;/choice&gt;
-   &lt;choice&gt;
-      &lt;statement&gt;
- relieve excessive pressure on the line 
-      &lt;/statement&gt;
-   &lt;/choice&gt;
-   &lt;choice correct="yes"&gt;
-      &lt;statement&gt;
- allow flow in one direction only 
-      &lt;/statement&gt;
-   &lt;/choice&gt;
-&lt;/choices&gt;
+        <Document ID="73075EB8-3199-4DB8-820F-CAA02626BE26">
+            <Title>Ground Faults</Title>
+            <Text>A ground fault occurs when an electric circuit  unintentionally contacts the earth or the ship's hull. This connection allows current to return to the source through an unintended path.
+Ground faults are caused by insulation failure due to age, abrasion, abuse, and especially due to moisture, either from the humidity or by direct water impingement. Salt water infiltration is a common cause of ground faults in deck equipment.  When a person accidentally contacts a live wire and ground at the same time, the resulting shock is actually a ground fault.
+Aboard ship, we continuously monitor for ground faults using ground lamps and ground ammeters.  When a ground fault is detected the ship’s engineers repair them as soon as possible to prevent bigger problems such as equipment failure.
+
+&lt;figure&gt;
+&lt;caption&gt;Ground lamps, Ground Ammeter&lt;/caption&gt;
+&lt;sidebyside widths="50% 38%"&gt;
+
+&lt;image source="pics/electricity/ground_lamps.png"&gt;
+&lt;remix&gt;&lt;![CDATA[  whaynes CC0  ]]&gt;&lt;/remix&gt;
+&lt;/image&gt;
+
+&lt;image source="pics/electricity/ground_ammeter.png"&gt;
+&lt;remix&gt;&lt;![CDATA[  whaynes CC0  ]]&gt;&lt;/remix&gt;
+&lt;/image&gt;
+&lt;/sidebyside&gt;
+&lt;/figure&gt;
+
+Ground faults are different than short circuits because the ground fault current is usually too small to trip a circuit breaker or blow a fuse.  Ground fault circuit interrupters, like those found in your bathroom at home, are designed to detect these small ground currents and quickly open to prevent electrical shock.
 </Text>
         </Document>
         <Document ID="AFE975A0-A197-4686-AD42-99EBB39EBAEB">
@@ -29293,27 +29415,33 @@ Produced by: WMT Limited, UK Email: manuals@wmtmarine.com
         <Document ID="84386EA3-3FDE-43F5-8C06-CFF7BB7C8164">
             <Title>Hot work</Title>
         </Document>
-        <Document ID="73075EB8-3199-4DB8-820F-CAA02626BE26">
-            <Title>Ground Faults</Title>
-            <Text>A ground fault occurs when an electric circuit  unintentionally contacts the earth or the ship's hull. This connection allows current to return to the source through an unintended path.
-Ground faults are caused by insulation failure due to age, abrasion, abuse, and especially due to moisture, either from the humidity or by direct water impingement. Salt water infiltration is a common cause of ground faults in deck equipment.  When a person accidentally contacts a live wire and ground at the same time, the resulting shock is actually a ground fault.
-Aboard ship, we continuously monitor for ground faults using ground lamps and ground ammeters.  When a ground fault is detected the ship’s engineers repair them as soon as possible to prevent bigger problems such as equipment failure.
-
-&lt;figure&gt;
-&lt;caption&gt;Ground lamps, Ground Ammeter&lt;/caption&gt;
-&lt;sidebyside widths="50% 38%"&gt;
-
-&lt;image source="pics/electricity/ground_lamps.png"&gt;
-&lt;remix&gt;&lt;![CDATA[  whaynes CC0  ]]&gt;&lt;/remix&gt;
-&lt;/image&gt;
-
-&lt;image source="pics/electricity/ground_ammeter.png"&gt;
-&lt;remix&gt;&lt;![CDATA[  whaynes CC0  ]]&gt;&lt;/remix&gt;
-&lt;/image&gt;
-&lt;/sidebyside&gt;
-&lt;/figure&gt;
-
-Ground faults are different than short circuits because the ground fault current is usually too small to trip a circuit breaker or blow a fuse.  Ground fault circuit interrupters, like those found in your bathroom at home, are designed to detect these small ground currents and quickly open to prevent electrical shock.
+        <Document ID="7E3F274D-D471-4271-BE09-8EBD247F3A82">
+            <Title>exercise</Title>
+            <Text>&lt;statement&gt;
+   A swing check valve is used in a pipeline to ______. 
+&lt;/statement&gt;
+&lt;choices&gt;
+   &lt;choice&gt;
+      &lt;statement&gt;
+ maintain a preset pressure on the line 
+      &lt;/statement&gt;
+   &lt;/choice&gt;
+   &lt;choice&gt;
+      &lt;statement&gt;
+ closely regulate the amount of flow 
+      &lt;/statement&gt;
+   &lt;/choice&gt;
+   &lt;choice&gt;
+      &lt;statement&gt;
+ relieve excessive pressure on the line 
+      &lt;/statement&gt;
+   &lt;/choice&gt;
+   &lt;choice correct="yes"&gt;
+      &lt;statement&gt;
+ allow flow in one direction only 
+      &lt;/statement&gt;
+   &lt;/choice&gt;
+&lt;/choices&gt;
 </Text>
         </Document>
         <Document ID="746F2703-DAD7-41B7-9573-3251544B13AE">
@@ -29467,10 +29595,6 @@ The analogue signals measured by HDEC2000 unit are listed below:
 		
 </Text>
         </Document>
-        <Document ID="807B902B-E21E-4699-B388-057493AAF15C">
-            <Title>Requirements of a Lubrication System</Title>
-            <Text>TBD</Text>
-        </Document>
         <Document ID="B4ADECB4-095F-481C-AA42-896FB063B602">
             <Title>Three phase AC Circuits</Title>
             <Text>Power in a three phase circuit is \sqrt{3} times larger than the power in a single phase circuit.
@@ -29482,6 +29606,10 @@ The correct formula for calculating power in a three-phase AC circuit is &lt;men
 &lt;mrow&gt;\theta \amp = \text{phase angle}&lt;/mrow&gt;
 &lt;/md&gt;&lt;/p&gt;
 </Text>
+        </Document>
+        <Document ID="807B902B-E21E-4699-B388-057493AAF15C">
+            <Title>Requirements of a Lubrication System</Title>
+            <Text>TBD</Text>
         </Document>
         <Document ID="32FD10E8-72E6-44EF-AD5A-293C3E63BF54">
             <Title>AC Single phase Power</Title>
@@ -29511,6 +29639,15 @@ Head injuries are caused by falling or flying objects, or by bumping your head a
 &lt;/figure&gt;
 </Text>
         </Document>
+        <Document ID="1031EE7B-4AB3-46E4-9611-DDA92855C570">
+            <Title>Absolute Pressure</Title>
+            <Text>Pressure measured on a scale increasing from zero at a perfect vacuum is known as absolute pressure. Absolute pressure is always higher than the corresponding gage pressure by the amount of the atmospheric pressure. For shipboard purposes, you can simply add 14.7 psi to the gage reading in psi to get the absolute pressure. For example, a gage pressure of 100 psig would be the same as an absolute pressure of 114.7 psia. 
+We sometimes say psig to indicate gage pressure and other times we merely say psi. By common convention, gage pressure is always assumed when pressure is given in pounds per square inch, pounds per square foot, or similar units. The &lt;q&gt;g&lt;/q&gt; (for gage) is added only when there is some possibility of confusion. Absolute pressure, on the other hand, is always expressed as pounds per square inch absolute (psia), pounds per square foot absolute (psfa), and so forth. It is always necessary to establish clearly just what kind of pressure we are talking about, unless this is very clear from the nature of the discussion. 
+</Text>
+        </Document>
+        <Document ID="7B12A412-3265-4506-A8DA-AA76D35FF994">
+            <Title>Sewage Treatment</Title>
+        </Document>
         <Document ID="14B2ECAF-D731-4554-91CC-688489BD424B">
             <Title>exercise</Title>
             <Text>&lt;statement&gt;
@@ -29539,15 +29676,6 @@ Head injuries are caused by falling or flying objects, or by bumping your head a
    &lt;/choice&gt;
 &lt;/choices&gt;
 </Text>
-        </Document>
-        <Document ID="1031EE7B-4AB3-46E4-9611-DDA92855C570">
-            <Title>Absolute Pressure</Title>
-            <Text>Pressure measured on a scale increasing from zero at a perfect vacuum is known as absolute pressure. Absolute pressure is always higher than the corresponding gage pressure by the amount of the atmospheric pressure. For shipboard purposes, you can simply add 14.7 psi to the gage reading in psi to get the absolute pressure. For example, a gage pressure of 100 psig would be the same as an absolute pressure of 114.7 psia. 
-We sometimes say psig to indicate gage pressure and other times we merely say psi. By common convention, gage pressure is always assumed when pressure is given in pounds per square inch, pounds per square foot, or similar units. The &lt;q&gt;g&lt;/q&gt; (for gage) is added only when there is some possibility of confusion. Absolute pressure, on the other hand, is always expressed as pounds per square inch absolute (psia), pounds per square foot absolute (psfa), and so forth. It is always necessary to establish clearly just what kind of pressure we are talking about, unless this is very clear from the nature of the discussion. 
-</Text>
-        </Document>
-        <Document ID="7B12A412-3265-4506-A8DA-AA76D35FF994">
-            <Title>Sewage Treatment</Title>
         </Document>
         <Document ID="97BDC076-E0DA-4659-BB6A-74BF0846A495">
             <Title>exercise</Title>
@@ -29620,6 +29748,9 @@ An integrated circuit (IC), also known as a microchip or chip, is a compact elec
     &lt;/sidebyside&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/p&gt;</Text>
         </Document>
+        <Document ID="E6567901-DE9D-4C8E-9974-B9B7C2EB02C1">
+            <Title>Unit Conversions</Title>
+        </Document>
         <Document ID="3EBAA94F-EF39-4552-AC9D-3FC55A57683E">
             <Title>The Power Electronic Controller - PECe</Title>
             <Text>The Power Electronic Controller - PECe 
@@ -29642,9 +29773,6 @@ The Power Interface Board (PIBe) is also located in the PRC and has the followin
 	•	•	Fast signals: Input and output signals such as voltage and current measurements. 
 	⁃	Slow signals: Input and output signals connected via a dedicated I/O rack for other data such as circuit-breaker status and water cooling unit interface. 
 	•</Text>
-        </Document>
-        <Document ID="E6567901-DE9D-4C8E-9974-B9B7C2EB02C1">
-            <Title>Unit Conversions</Title>
         </Document>
         <Document ID="A2463705-A2A3-4FF0-A653-76AED4D69FF0">
             <Title>Installation</Title>
@@ -29680,22 +29808,26 @@ A globe valve is fully open when the disk is raised ¼ of the diameter, d, of   
 
 &lt;/ul&gt;&lt;/p&gt;</Text>
         </Document>
-        <Document ID="8760C339-3738-4084-84DC-E8963057B304">
-            <Title>Circuit Components</Title>
+        <Document ID="DE874D11-C7EF-4EE4-AEC4-705682EAE532">
+            <Title>Electrical Hazards</Title>
         </Document>
         <Document ID="489187EA-1F21-4D5E-A56F-A86070C0F198">
             <Title>Transformers</Title>
             <Text>TBD</Text>
         </Document>
-        <Document ID="66D334FC-1497-41F1-9BC5-5EA67AEEB1F5">
-            <Title>Electrical Charge</Title>
-        </Document>
-        <Document ID="DE874D11-C7EF-4EE4-AEC4-705682EAE532">
-            <Title>Electrical Hazards</Title>
-        </Document>
         <Document ID="C2380A36-D5AF-4898-AC0F-9BFF13C2CA1C">
             <Title>Pumps</Title>
             <Text>TBD</Text>
+        </Document>
+        <Document ID="66D334FC-1497-41F1-9BC5-5EA67AEEB1F5">
+            <Title>Electrical Charge</Title>
+        </Document>
+        <Document ID="815BC044-2586-4291-829E-F0C6DD075585">
+            <Title>Head</Title>
+            <Text>You will also find another kind of pressure unit, which appears to be a length. These units include inches of water, inches of mercury (Hg), or the height of some other liquid of known density. These units, while measured in length units, still represent a pressure. The length describes the pressure exerted by a column of liquid of the given height, and is known as the &lt;em&gt;head&lt;/em&gt;. 
+For example, a pressure reading of 1 inch of water (1 in. H₂O) means that the exerted pressure is equal to the pressure exerted by a column of water 1 inch high, or that a column of water in a U-tube would be displaced 1 inch by the pressure being measured. Similarly, a reading of 12 inches of mercury (12 in. Hg) means that the measured pressure is sufficient to support a column of mercury 12 inches high. 
+What is really being expressed, even though it is not mentioned in the pressure unit, is the fact that a certain quantity of material (water, mercury, etc.) of known density will exert a certain definite force upon a specified area. Pressure is still force per unit area even if the pressure unit refers to the height of some liquid. 
+</Text>
         </Document>
         <Document ID="81CC7406-F34A-4709-B333-D0198736F235">
             <Title>AC vs. DC</Title>
@@ -29727,12 +29859,8 @@ Applying Ohm’s Law with this resistance gives the current&lt;me&gt; I =  E/R_t
 &lt;/solution&gt;
 </Text>
         </Document>
-        <Document ID="815BC044-2586-4291-829E-F0C6DD075585">
-            <Title>Head</Title>
-            <Text>You will also find another kind of pressure unit, which appears to be a length. These units include inches of water, inches of mercury (Hg), or the height of some other liquid of known density. These units, while measured in length units, still represent a pressure. The length describes the pressure exerted by a column of liquid of the given height, and is known as the &lt;em&gt;head&lt;/em&gt;. 
-For example, a pressure reading of 1 inch of water (1 in. H₂O) means that the exerted pressure is equal to the pressure exerted by a column of water 1 inch high, or that a column of water in a U-tube would be displaced 1 inch by the pressure being measured. Similarly, a reading of 12 inches of mercury (12 in. Hg) means that the measured pressure is sufficient to support a column of mercury 12 inches high. 
-What is really being expressed, even though it is not mentioned in the pressure unit, is the fact that a certain quantity of material (water, mercury, etc.) of known density will exert a certain definite force upon a specified area. Pressure is still force per unit area even if the pressure unit refers to the height of some liquid. 
-</Text>
+        <Document ID="8760C339-3738-4084-84DC-E8963057B304">
+            <Title>Circuit Components</Title>
         </Document>
         <Document ID="64609F4A-915B-4DD5-8D34-016884BFAE82">
             <Title>Practice Safe Lifting Techniques</Title>
@@ -29776,12 +29904,12 @@ A check valve is a modified globe valve that allows fluid flow in one direction 
 There are three main variations of check valves: swing checks, lift checks, and stop checks, and they are discussed below. 
 </Text>
         </Document>
+        <Document ID="5D5A82B5-5C9C-4541-9459-3FD7FF88F526">
+            <Title>Drive Train</Title>
+        </Document>
         <Document ID="9DFC691B-5DB8-4868-808B-7E48C6FE1EA6">
             <Title>Gas Turbines</Title>
             <Text>tbd</Text>
-        </Document>
-        <Document ID="5D5A82B5-5C9C-4541-9459-3FD7FF88F526">
-            <Title>Drive Train</Title>
         </Document>
         <Document ID="A57CE6E1-DFD3-4600-A941-7A5ED239A234">
             <Title>Two Stroke vs. Four Stroke</Title>
@@ -29827,7 +29955,7 @@ There are three main variations of check valves: swing checks, lift checks, and 
         </Document>
         <Document ID="0EB86D09-DFFF-4C1A-B44A-482746F9903E">
             <Title>Economical Part-Load Operation</Title>
-            <Text>By employing multiple generators operating in parallel, ships can secure one or more engines under reduced load conditions. The remaining engines can then operate at nearly full load, resulting in improved efficiency compared to having more engines operating at part-load. Load management systems continuously monitor the electrical demand and promptly initiate the startup of an additional generator when necessary.</Text>
+            <Text>Improved efficiency at low loads. Ships can secure one or more engine/generator sets if they are not needed. The remaining engines can then operate at nearly full load, resulting in improved efficiency compared to having more engines operating at part-load. Load management systems continuously monitor the electrical demand and promptly initiate the startup of an additional generator when necessary.</Text>
         </Document>
         <Document ID="1095E012-8CC6-4444-94E9-E59DB68554D6">
             <Title>Introduction</Title>
@@ -29843,10 +29971,6 @@ Before using a respirator you should be thoroughly trained in its use. Some of t
 
 </Text>
         </Document>
-        <Document ID="CEB08A07-53DB-427C-A474-CF4D87FB2379">
-            <Title>Modes of propulsion</Title>
-            <Text>tbd</Text>
-        </Document>
         <Document ID="575D7532-DA11-40A8-9FA0-AF04E3565DAC">
             <Title>introduction</Title>
             <Text>Chemicals can pose significant risks to human health and safety.  By identifying and understanding the potential hazards, following proper storage and handling procedures, and adhering to safety protocols, you can significantly reduce the risks associated with hazardous chemicals and create a safer environment for everyone.
@@ -29859,6 +29983,10 @@ Before using a respirator you should be thoroughly trained in its use. Some of t
 &lt;/figure&gt;
 
 </Text>
+        </Document>
+        <Document ID="CEB08A07-53DB-427C-A474-CF4D87FB2379">
+            <Title>Modes of propulsion</Title>
+            <Text>tbd</Text>
         </Document>
         <Document ID="80DBD682-07C7-4010-8D68-E799E9136D48">
             <Title>Example</Title>
@@ -29979,6 +30107,15 @@ If for some reason the cooling water is not available, an  emergency cooling mod
 &lt;/choices&gt;
 </Text>
         </Document>
+        <Document ID="3D9D5FE2-2196-4A4B-9828-FEC65B0ABB1D">
+            <Title>introduction</Title>
+            <Text>&lt;figure xml:id="plugvalve_png"&gt;
+   &lt;caption&gt;Plug Valve&lt;/caption&gt;
+   &lt;image source="pics/valves/plugvalve.png" width="50%"/&gt;
+&lt;/figure&gt;
+Plug-type valves have a rotating element with a hole drilled or cast through it. When   the hole lines up with the matching passages in the valve body, fluid can flow through   the valve. Variations of plug valves are pet cocks, cylinder valves or ball valves. 
+</Text>
+        </Document>
         <Document ID="3B403943-B681-46B5-981C-323F070BE09A">
             <Title>exercise</Title>
             <Text>&lt;statement&gt;
@@ -30006,15 +30143,6 @@ If for some reason the cooling water is not available, an  emergency cooling mod
       &lt;/statement&gt;
    &lt;/choice&gt;
 &lt;/choices&gt;
-</Text>
-        </Document>
-        <Document ID="3D9D5FE2-2196-4A4B-9828-FEC65B0ABB1D">
-            <Title>introduction</Title>
-            <Text>&lt;figure xml:id="plugvalve_png"&gt;
-   &lt;caption&gt;Plug Valve&lt;/caption&gt;
-   &lt;image source="pics/valves/plugvalve.png" width="50%"/&gt;
-&lt;/figure&gt;
-Plug-type valves have a rotating element with a hole drilled or cast through it. When   the hole lines up with the matching passages in the valve body, fluid can flow through   the valve. Variations of plug valves are pet cocks, cylinder valves or ball valves. 
 </Text>
         </Document>
         <Document ID="EF444405-9209-4695-892C-21AAA9F96164">
@@ -30073,6 +30201,14 @@ In a typical AC synchronous generator, the rotor carries the field windings and 
         </Document>
         <Document ID="ACAC17A9-280F-4325-8B3B-7D7F0F00D2A9">
             <Title>Open circuits, short circuits, and grounds</Title>
+        </Document>
+        <Document ID="4F999277-36DF-4F17-B189-77C0D8748954">
+            <Title>First Stage Heater Unit</Title>
+            <Text>The next stop in the steam cycle is the first stage heater. This unit contains two internal sections: the drain cooler and the first stage heater, in that order. Both of these sections helps improve cycle efficiency by providing additional heat to the condensate.
+This unit provides a form of &lt;em&gt;regenerative feed heating&lt;/em&gt; which can be shown to improve the overall efficiency of the cycle. In regenerative heating, a portion of the steam from within the turbine is bled off before it has fully expanded. This steam, which is still quite hot, is used to preheat the condensate. Some shore power plants have four or more stages of regenerative heating.
+ &lt;em&gt;Low pressure bleed&lt;/em&gt; steam is used as the steam supply for the first stage heater. The bleed steam condenses as it gives up its energy to the condensate, and the condensed bleed steam, known as &lt;em&gt;drains&lt;/em&gt; is still hot enough to be used to preheat the condensate. The drains then enter the &lt;em&gt;drain cooler section&lt;/em&gt; where the remaining heat is recovered, before the drains are returned to the system by vacuum drag to the main condenser.
+In some designs, the gland exhaust condenser is incorporated into the first stage heater unit as well, rather than a separate heat exchanger as we have on the &lt;em&gt;Kennedy&lt;/em&gt;. In any event, the flow order through these three heat exchangers is always from coolest to hottest. Therefore the gland exhaust condenser comes first, followed by the drain cooler, and finally the first stage heater.
+</Text>
         </Document>
         <Document ID="C84A7AAB-51EF-4608-9E59-4FEDB756768F">
             <Title>Description</Title>
@@ -30296,17 +30432,17 @@ The term press pack refers to the physical packaging of electronic components.  
 The IGBT gates are triggered by pulse width signals produced in the CLC section which change the direct current stored in the DC capacitors into variable voltage, variable frequency alternating current.
 </Text>
         </Document>
+        <Document ID="46446F36-4033-4154-ACE1-AAC013FB5240">
+            <Title>Feed Pump</Title>
+            <Text>The feed pump serves the same purpose here as it does in the simplified cycle; that is, it raises the pressure of the feedwater sufficiently to force it into the boiler to begin the cycle again.
+The feed pump is usually a turbine driven centrifugal pump, and the discharge pressure is about 50 to 100 psi above the pressure in the steam drum.
+</Text>
+        </Document>
         <Document ID="08A84778-8F8D-4216-987B-4F3335C94084">
             <Title>Propulsion Converters</Title>
         </Document>
-        <Document ID="7F6E1AD7-E721-465B-9FD8-785C9BC05BB7">
-            <Title>Switchgear</Title>
-        </Document>
         <Document ID="66E78489-5E26-4645-B3E5-EE2B8D9CB779">
             <Title>Fire Prevention Measures</Title>
-        </Document>
-        <Document ID="B1A29701-C510-4FB4-96C4-DEDCCC2CDFDC">
-            <Title>Electrical Principles</Title>
         </Document>
         <Document ID="BC72A4A6-86D4-4410-8CC1-6BFE2E2A28B7">
             <Title>Learn Continuously</Title>
@@ -30315,17 +30451,11 @@ The IGBT gates are triggered by pulse width signals produced in the CLC section 
         <Document ID="D491F6BD-4AE2-4F44-B407-69871128D98D">
             <Title>Engineering Measurement</Title>
         </Document>
-        <Document ID="04A2B7DC-0FE6-47C8-B1CD-41CFA9714E15">
-            <Title>Frequency</Title>
-            <Text>Frequency (f) is defined as the number of times the polarity of an AC system reverses in one second. Period (T) is the length of time required to complete one cycle.  Period and frequency are inversely related. &lt;me&gt;T = 1/f&lt;/me&gt;.
-The unit of frequency is the Hertz (Hz), which is equal to 1 cycle/second (cps).
-Electrical power plants and household outlets commonly supply 60 Hz AC. In Europe and Japan, the standard is 50 Hz.
-</Text>
+        <Document ID="7F6E1AD7-E721-465B-9FD8-785C9BC05BB7">
+            <Title>Switchgear</Title>
         </Document>
-        <Document ID="AEBBA813-4E41-4F1E-887F-F3BC32EC27C7">
-            <Title>Insulators</Title>
-            <Text>Insulators, or nonconductors, are materials with electrons that are tightly bound to their atoms and require large amounts of energy to free them from the influence of the nucleus. The atoms of good insulators have their valence shells filled with eight electrons, which means they are more than half filled. Any energy applied to such an atom will be distributed among a relatively large number of electrons. Examples of insulators are rubber, plastics, glass, and dry wood. 
-</Text>
+        <Document ID="B1A29701-C510-4FB4-96C4-DEDCCC2CDFDC">
+            <Title>Electrical Principles</Title>
         </Document>
         <Document ID="F6BD64BD-D085-4933-AEEB-9580D810A65C">
             <Title>objectives</Title>
@@ -30356,6 +30486,18 @@ Electrical power plants and household outlets commonly supply 60 Hz AC. In Europ
 &lt;/figure&gt;
 </Text>
         </Document>
+        <Document ID="04A2B7DC-0FE6-47C8-B1CD-41CFA9714E15">
+            <Title>Frequency</Title>
+            <Text>Frequency (f) is defined as the number of times the polarity of an AC system reverses in one second. Period (T) is the length of time required to complete one cycle.  Period and frequency are inversely related. &lt;me&gt;T = 1/f&lt;/me&gt;.
+The unit of frequency is the Hertz (Hz), which is equal to 1 cycle/second (cps).
+Electrical power plants and household outlets commonly supply 60 Hz AC. In Europe and Japan, the standard is 50 Hz.
+</Text>
+        </Document>
+        <Document ID="AEBBA813-4E41-4F1E-887F-F3BC32EC27C7">
+            <Title>Insulators</Title>
+            <Text>Insulators, or nonconductors, are materials with electrons that are tightly bound to their atoms and require large amounts of energy to free them from the influence of the nucleus. The atoms of good insulators have their valence shells filled with eight electrons, which means they are more than half filled. Any energy applied to such an atom will be distributed among a relatively large number of electrons. Examples of insulators are rubber, plastics, glass, and dry wood. 
+</Text>
+        </Document>
         <Document ID="3BFA5BA8-DFA0-460E-A38F-A2B9A4084A3B">
             <Title>Sensible Heat and Latent Heat</Title>
             <Text>The terms &lt;em&gt;sensible heat&lt;/em&gt; and &lt;em&gt;latent heat&lt;/em&gt; are often used to indicate the effect that the flow of heat has on a substance. The flow of heat from one substance to another is normally reflected in a temperature change in each substance-the hotter substance becomes cooler; the cooler substance becomes hotter. However, the flow of heat is not reflected in a temperature change in a substance that is in the process of changing from one physical state (solid, liquid, or gas) to another. When the flow of heat is reflected in a temperature change, we say that sensible heat has been added to or removed from the substance. When the flow of heat is not reflected in a temperature change but is reflected in the changing physical state of a substance, we say that latent heat has been added or removed. 
@@ -30378,11 +30520,13 @@ The same relationships apply when heat is being removed. The removal of 42 BTU f
             <Title>Operations</Title>
             <Text>TBD</Text>
         </Document>
+        <Document ID="885AEC37-7BC7-4786-B2A1-6563FC75E45F">
+            <Title>Gland Exhaust Condenser</Title>
+            <Text>The &lt;em&gt;gland exhaust condenser&lt;/em&gt; typically follows the air ejector condenser. This unit is used to condense any steam that leaks out of the turbine glands, in order to recover both the condensate and the heat. This is an example of the way a practical cycle takes every opportunity to recover &lt;q&gt;free&lt;/q&gt; energy and increase the overall cycle efficiency.
+</Text>
+        </Document>
         <Document ID="EA1E21F1-4061-4853-9014-63C67D975424">
             <Title>level measurement</Title>
-        </Document>
-        <Document ID="479F263D-A33A-4EFA-83C5-78A2C31C31E0">
-            <Title>Electrical Power</Title>
         </Document>
         <Document ID="D12972CA-CB81-41A4-9EB7-AA3900DEE4FB">
             <Title>Objectives</Title>
@@ -30392,6 +30536,17 @@ The same relationships apply when heat is being removed. The removal of 42 BTU f
 &lt;url href="https://weh.maritime.edu/stcw/2023/tables/614.html#PSSR-X6.4" visual="PSSR-X6.4"/&gt; Effects of environmental stressors in and outside the ship and their impact on seafarers
 &lt;url href="https://weh.maritime.edu/stcw/2023/tables/614.html#PSSR-X6.5" visual="PSSR-X6.5"/&gt; Effects of schedule changes on seafarer fatigue
 </Text>
+        </Document>
+        <Document ID="E2086D42-F859-4801-B737-5CF4398D6437">
+            <Title>DC Heater</Title>
+            <Text>The direct contact (DC) heater provides a second stage of regenerative feed heating. In a direct contact heater, heat exchange occurs by mixing of the hot and cooler fluids, hence the name. Condensate is heated by either auxiliary exhaust steam or by intermediate pressure bleed steam. The condensate in the DC heater is at a saturated state, so its temperature can be determined from the pressure of the heating steam.
+In addition to heating, the DC heater acts as a storage tank for condensate in the system, permitting minor fluctuation in the total amount of condensate contained within the cycle without causing disruption to the system. Finally, the DC heater acts as a deaerator, a device to remove corrosive dissolved oxygen from the condensate.
+A change in terminology occurs at the bottom of the DC heater. From this point on, the condensate is referred to as &lt;em&gt;feed water&lt;/em&gt;.
+The DC heater is discussed in detail in the &lt;xref ref="dcheaterchap"/&gt;.
+</Text>
+        </Document>
+        <Document ID="479F263D-A33A-4EFA-83C5-78A2C31C31E0">
+            <Title>Electrical Power</Title>
         </Document>
         <Document ID="DEA1BA49-926D-4109-AA2C-F06BB049DD1C">
             <Title>Overview of Circuits</Title>
@@ -30421,6 +30576,9 @@ Navigation Safety SOLAS includes regulations for navigational equipment, includi
 Radio Communications SOLAS establishes regulations for navigation and communication equipment, including requirements for radar systems, navigational aids, and communication devices to ensure safe navigation and effective communication, ensuring that vessels can call for assistance in case of emergencies.
 Training and Drills SOLAS mandates regular safety training and drills for the crew, including procedures for abandoning ship, using life-saving equipment, and responding to emergencies.
 &lt;/ul&gt;&lt;/p&gt;</Text>
+        </Document>
+        <Document ID="F5822055-2D86-4D64-8DF1-1DC03DD870A0">
+            <Title>The Steam Cycle</Title>
         </Document>
         <Document ID="CA7F4D57-3E75-4CE8-AEC3-42E45DDEFBE6">
             <Title>Air-purifying Respirators</Title>
@@ -30734,8 +30892,19 @@ The permit to work system is designed to prevent accidents, injuries, and damage
         <Document ID="AC727B80-F58D-4AFB-8E1C-58B68F5F1864">
             <Title>Heat Exchangers</Title>
         </Document>
+        <Document ID="43C25DE4-5C73-4137-BC8C-2843BE82AD7A">
+            <Title>Steam Drum</Title>
+            <Text>The steam drum is located near the top of the boiler and should normally be half filled with water and the remainder filled with steam. A &lt;em&gt;gage glass&lt;/em&gt; on the steam drum allows the operator to determine the water level in the boiler. Too little water would be very dangerous, because without water in the boiler the heat of the flames would melt the boiler tubes and destroy the boiler.
+Steam is formed in the boiler tubes, and since steam bubbles are less dense than the surrounding liquid water, they float up to the top of the boiler and eventually rise above the surface of the water in the steam drum. If the steam was allowed to build up in the drum, the boiler pressure would quickly rise, and if not relieved by the safety valves, would cause the boiler to explode. The system is designed to remove steam as quickly as it is created, so a properly operated boiler will maintain a constant pressure.
+</Text>
+        </Document>
         <Document ID="2D8C5E03-A494-4C5B-8A1D-DADA2CE9F416">
             <Title>Solenoids</Title>
+        </Document>
+        <Document ID="899D8A2F-68AF-4464-B922-D8DE01CB5700">
+            <Text>No practical boiler could function without valves. Valves permit the operator to control fluid flow, and to isolate sections of the system for maintenance. There are dozens of valves used in the main steam cycle but in this discussion we will only mention a few of them. You may assume that valves are located throughout the system wherever they are necessary.
+The main steam stop valve is located at the outlet of the superheater, and it is the primary valve used to connect or isolate the boiler from the remainder of the steam cycle. Specially designed valves are required for this service, because of the extreme differences of temperature encountered when cutting-in a boiler. Bypass lines are usually installed here to assist with warming up the main steam stop valve.
+</Text>
         </Document>
         <Document ID="BF0E7F5C-4E54-48EA-B5D4-E752F704D087">
             <Title>Internal Energy</Title>
@@ -30831,6 +31000,11 @@ The main functions of a generator excitation system include:
         </Document>
         <Document ID="A30B3C69-C741-4C8D-BB24-90C253FB20D6">
             <Title>conclusion</Title>
+        </Document>
+        <Document ID="968C80D9-D89F-4198-95D9-B18F5128F14E">
+            <Title>Radiation</Title>
+            <Text>Radiation is a mode of heat transfer that does not require any physical contact between the warmer substance and the cooler substance. For example, a person sitting near a hot stove is warmed by radiant heat even though the air between the person and the stove may remain cold. Similarly, radiant heat from the sun warms the earth without warming the space through which it passes. 
+</Text>
         </Document>
         <Document ID="E7C5EC98-9273-4A1E-BDD7-98DED4303B84">
             <Title>WEG-motors-specification-of-electric-motors-50039409-brochure-english-web</Title>
@@ -35808,9 +35982,19 @@ The values shown are subject to change without prior notice. The information con
 Jaraguá do Sul - SC - Brazil
 </Text>
         </Document>
-        <Document ID="968C80D9-D89F-4198-95D9-B18F5128F14E">
-            <Title>Radiation</Title>
-            <Text>Radiation is a mode of heat transfer that does not require any physical contact between the warmer substance and the cooler substance. For example, a person sitting near a hot stove is warmed by radiant heat even though the air between the person and the stove may remain cold. Similarly, radiant heat from the sun warms the earth without warming the space through which it passes. 
+        <Document ID="261B3A94-BF5F-4195-88CA-546062E3949A">
+            <Title>Main Condenser</Title>
+            <Text>As stated before, the main condenser is a shell and tube heat exchanger which provides the low pressure zone for the turbine to discharge into. The steam entering the condenser turns back to liquid water when it comes in contact with the cold condenser tubes. The newly formed condensate drains down to the bottom of the condenser, where it collects in the &lt;em&gt;hot well&lt;/em&gt; until it is pumped out.
+In order to maintain high plant efficiency it is necessary to maintain a good vacuum in the main condenser. This vacuum is formed by the collapse of the steam as it condenses, since the specific volume of water is so much less than the specific volume of steam. A properly operating main condenser operates at 28.5 in Hg vacuum or greater.
+Vacuum will be maintained in the condenser as long as the shell of the condenser does not fill up with air or other gases, however vacuum tends to draw air into the condenser through any available leaks, such as those found at the &lt;em&gt;turbine glands&lt;/em&gt; where the turbine shafts penetrate the turbine casing. This air must be pumped back out to the atmosphere as fast as it leaks in, or else vacuum will be lost. This is accomplished with a steam driven pump known as the &lt;em&gt;air ejector&lt;/em&gt; which takes suction on top of the main condenser and discharges air to the engine room.
+Vacuum will also be lost if condensing stops. This could happen if the supply of cooling water through the condenser tubes was interrupted, perhaps due to failure of the main circulating pump, blocked condenser tubes, or if the condensate pump failed which would cause the condenser to fill up with condensate.
+</Text>
+        </Document>
+        <Document ID="448D5C1E-6082-4C3A-9D60-207901555C72">
+            <Title>HP Turbine</Title>
+            <Text>The simplified steam cycle uses a single turbine to extract power from the steam, but most ships use two turbines to do the same job. Two shorter turbine shafts are more advantageous than one large shaft for several reasons, including reduced manufacturing cost and increased flexibility in the arrangement of machinery in the engine room.
+The first of these two turbines is known as the &lt;em&gt;high pressure turbine&lt;/em&gt; (H.P.) and the second is the &lt;em&gt;low pressure turbine&lt;/em&gt; (L.P.). A steam line, called the &lt;em&gt;crossover&lt;/em&gt; carries steam from the outlet of the H.P. turbine to the inlet of the L.P. turbine. At normal operating speeds, the steam leaving the H.P. turbine and entering the crossover is at a pressure below atmospheric.
+The H.P. and L.P. turbines together are known as the &lt;em&gt;Main Engine&lt;/em&gt;.
 </Text>
         </Document>
         <Document ID="34D84876-8763-40E3-82F3-986BBB055466">
@@ -35835,6 +36019,11 @@ Jaraguá do Sul - SC - Brazil
             <Title>Pipe</Title>
             <Text>TBD</Text>
         </Document>
+        <Document ID="2D003243-E242-4F27-9AC9-B07357BE907D">
+            <Title>Strainer</Title>
+            <Text>A steam strainer is located in the steam line upstream of the main engine to prevent objects other than steam from entering the turbines, since solid objects impacting the turbine blades would quickly destroy them. Steam lines would normally be expected to be quite clean, but a strainer is cheap insurance against nuts, tools, and gloves left in the lines by shipyard workers, or rust flakes formed during a layup period. Unfortunately, water droplets due to wet steam or carryover will pass through the steam strainer.
+</Text>
+        </Document>
         <Document ID="E1B5645E-B806-4253-8278-4EC82459B766">
             <Title>Description</Title>
             <Text>The stator core is made up of electrically insulated sheets, braced with clamping bolts and rings and mounted in the stator housing. The stator windings consists of layered coils mounted in the open slots of the stator core. The stator has two terminal boxes on the stator housing for electrical connections. 
@@ -35850,6 +36039,16 @@ The motors are fitted with two air-water heat exchangers providing cooled air wh
 
 </Text>
         </Document>
+        <Document ID="B4C4E0EA-BC3B-4ED7-80C4-D0764EA7D217">
+            <Title>Simplified Steam Cycle</Title>
+        </Document>
+        <Document ID="0C4205A6-7A7E-4875-94CC-6F012E90541F">
+            <Title>LP Turbine</Title>
+            <Text>The L.P. turbine follows the H.P. turbine and continues to extract energy from the steam. The steam enters at a low pressure (a vacuum actually, at low loads) and exits at an even lower pressure into the main condenser. The specific volume of steam at these low pressures is large, which means that the turbine blades and the L.P. turbine itself are also large. When looking at the two turbines, it is always easy to identify the L.P. turbine because of its size; eight to ten feet in diameter is not unusual.
+Steam leaves the L.P. turbine as saturated steam, so you can determine the steam temperature by looking up the saturation temperature for the condenser pressure in the steam tables. For example, if the condenser pressure is 28.9 in Hg vacuum, this corresponds to an absolute pressure of 0.5 psia, and this has a saturation temperature of about 80 °F. Are you surprised? Steam isn’t always hot… it depends on the pressure.
+The forward end of the L.P. Turbine rotor contains the &lt;em&gt;Astern Elements&lt;/em&gt;. These are two or three rows of blades designed to rotate the shaft in the astern direction. Since there are so few rows of astern blades, the power the turbine is capable of producing in the astern direction is limited.
+</Text>
+        </Document>
         <Document ID="EAF8A04B-70E6-400B-ACF8-CD1419B5349C">
             <Text>&lt;/ul&gt;&lt;/p&gt;</Text>
         </Document>
@@ -35858,9 +36057,6 @@ The motors are fitted with two air-water heat exchangers providing cooled air wh
             <Text>As discussed in &lt;xref ref="transformers-basic"/&gt;, transformers are devices that can step-up or step down AC voltage.  
 In the electrical distribution system, four three-phase transformers are used to drop the 6,600 volts on the HV bus to the 450 volts required on the LV bus, and four are used to supply the correct voltages to the two propulsion motors, the bow thruster, and the stern thruster.  
 Single-phase 440/120 volt transformers are used to supply the 120 volt lighting and distribution panels.</Text>
-        </Document>
-        <Document ID="D54597B2-D9CF-426A-ADD7-80FF26434B0F">
-            <Title>Lubrication systems</Title>
         </Document>
         <Document ID="2A19D987-EA14-4F2C-906E-9543CE575E6D">
             <Title>ABE-C3.1 Lockout/tag-out</Title>
@@ -36049,7 +36245,7 @@ What does 0 dB mean? This level occurs when the measured intensity is equal to t
         </Document>
         <Document ID="5CBD8F74-35AA-4D49-83C3-F83D6915485D">
             <Title>Redundancy and Reliability</Title>
-            <Text>Electric propulsion systems provide inherent redundancy and enhanced reliability compared to traditional propulsion systems. With multiple smaller generator sets, the system can continue to function even if one or more generators or motors fail or require maintenance. This redundancy  reduces the risk of complete propulsion failure and ensures that the propulsion system remains operational. </Text>
+            <Text>Inherent redundancy and enhanced reliability compared to traditional propulsion systems. With multiple smaller generator sets, the system can continue to function even if one or more generators or motors fail or require maintenance. This redundancy  reduces the risk of complete propulsion failure and ensures that the propulsion system remains operational. </Text>
         </Document>
         <Document ID="4128C1A8-5420-4055-BE29-2E943EFD3EFD">
             <Title>Handling and Transporation</Title>
@@ -36067,6 +36263,7 @@ The three voltage sine waves can be separated and used individually to supply si
 </Text>
         </Document>
         <Document ID="373977E7-CBA3-4AEA-9CF3-EAE73916D846">
+            <Title>Process Control (PRC)</Title>
             <Text>The Process Control cabinet contains control and management modules for the propulsion system. It also contains a 230V AC 1.5 kVA uninterruptible power supply (UPS) which will take over immediately in the event of failure of the normal power supply. The UPS output goes to the CLC section for distribution. 
 The front panel of the PRC contains a panel mounted supervision computer with touch-screen, which provides local control to monitor system parameters and alarms including:&lt;ul&gt;
 Speed setting dial and reply pointer. 
@@ -36622,7 +36819,6 @@ A\  is the cross-sectional area of the conductor, in square meters.
             <Text>tbd</Text>
         </Document>
         <Document ID="5EABE4CB-54D4-466E-8B88-7F73F2C359E8">
-            <Title>Fuel oil systems</Title>
             <Text>TBD</Text>
         </Document>
         <Document ID="759750A9-2A37-4BA3-8494-E4E627A18D82">
@@ -36698,6 +36894,18 @@ Note that the three voltage drops add up to the 48 V supply.
         <Document ID="403D98E0-E6FD-470B-BDF7-92E0ED7ADA1F">
             <Title>Fuel cells</Title>
             <Text>Fuel cells are similar to·batteries but supply power continuously because the electrolyte is continuously rejuvenated. This rejuvenation is achieved by continuously adding hydrogen and oxygen to the electrolyte. Fuel cells operating on pure hydrogen have been used in space vehicles for years, but advancing technology will allow fuel cell systems to operate on less expensive, readily available hydrocarbon fuels from which the hydrogen can be separated. Fuel-cell systems have the potential to achieve efficiencies higher than those based on engine-driven generators. 
+</Text>
+        </Document>
+        <Document ID="189C70F7-1867-4E4D-BA23-A397641593A5">
+            <Title>Generation</Title>
+            <Text>Steam generation occurs in the boiler. The boiler is simply a device used to boil water. Like a tea-kettle on the stove, it contains liquid water and a heat source. As the water is heated, its temperature rises and soon it begins to boil. On the stove, the water vapor or steam rises and dissipates into the kitchen, but not so in a boiler. The boiler is a closed vessel, like a pot with a lid, and any steam generated in the boiler rises to the top and is collected before being sent on to the next step of the cycle.
+In the generation stage, the chemical energy stored in the ship’s fuel is released when the fuel is burned in the boiler furnace, and some of this energy is transferred to the working fluid – the water. The water gains energy, and we can detect this in two ways: the water’s temperature goes up, and the water changes &lt;em&gt;state&lt;/em&gt; from a liquid into water vapor, which we call steam. Steam leaves the boiler at high pressure and high temperature.
+As we will learn in &lt;xref ref="thermodynamics"/&gt;, heat energy which raises the temperature of a substance such as water or steam is sometimes called &lt;em&gt;sensible heat&lt;/em&gt; while the heat energy that actually boils the substance is called &lt;em&gt;latent heat&lt;/em&gt;.
+You probably remember that water boils at 212 °F at standard atmospheric pressure (14.7 psia). If you put a thermometer into a pan of water boiling on the stove, this is what it will read. Even if you turn the flame up to add more heat energy, you won’t be able to make the water temperature rise above 212 °F. This is because you are adding latent heat, which is not reflected by an increase in the water’s temperature. All of the heat energy is being used to turn the liquid water into a vapor.
+The boiling or condensing temperature of a liquid is known as its &lt;em&gt;saturation&lt;/em&gt; temperature. The saturation temperature for a particular liquid is determined by its pressure, and cannot be changed. For example, 212 °F is the saturation temperature for water at atmospheric pressure, and there is nothing anybody can do to change it.
+In order to reach high steam temperatures, which is necessary for high steam cycle efficiency, the boiler must be operated at a pressure far above atmospheric pressure. A typical marine boiler operates at about 600 psi while some have operated as high as 1200 psi, although this introduces additional maintenance difficulties. Shoreside steam power plants operate at 3000 psi or even higher.
+Steam temperature is raised even further by superheating the steam. Superheating steam raises its temperature above the saturation temperature for the corresponding steam pressure by continuing to add heat to the steam after it has completely vaporized. This must take place in a separate area, called the &lt;em&gt;superheater,&lt;/em&gt; away from liquid water, or the additional heat would simply boil more water rather than superheating the steam. Superheated steam is said to be &lt;em&gt;dry&lt;/em&gt;, which means that all liquid water has vaporized and it contains no moisture droplets. Drops of liquid water would damage the turbine in the expansion step described below.
+Improving efficiency is a major concern of mechanical and marine engineers. High efficiency means that fuel is not wasted, and operating costs are minimized. Practical boiler designs incorporate many techniques to maximize efficiency. For example, not all of the chemical energy originally contained by the fuel ends up transferred to the steam. A large portion of this energy is lost up the smokestack, carried away by the combustion gases. Practical boilers usually contain some sort of heat exchanger in the smokestack in an effort to recover some of this energy.
 </Text>
         </Document>
         <Document ID="C4E520B3-DF55-4D5F-8BB6-E9BB2B9FFD3A">
@@ -40992,6 +41200,14 @@ Ball valves are compact, self-sealing, non-sticking, require little effort to ro
         </Document>
         <Document ID="987DD2D6-15FF-4F29-821C-001089999C76">
             <Title>Length Measuring Instruments</Title>
+        </Document>
+        <Document ID="13459284-A416-45AB-A308-F267C2C78B12">
+            <Title>Feed Valves</Title>
+            <Text>Three valves are found in the feed line before the boiler.
+The &lt;em&gt;feed check valve&lt;/em&gt; comes first. It is a stop-check valve which is normally left open, but which can be used to regulate the feed water flow to the boiler if necessary. The feed check valve is always fitted with a reach rod or other means to permit it to be manually operated from the boiler control station.
+The feed check is followed by the &lt;em&gt;feed water regulator&lt;/em&gt; which is a pneumatically actuated regulating valve that responds to changes in boiler drum level and steam demand to automatically control the flow of feedwater into the steam drum in order to maintain a constant level half-way up the steam drum.
+The final valve of the set is the &lt;em&gt;feed stop valve&lt;/em&gt;. This valve is provided to permit the feed system to be secured at the boiler when necessary.
+</Text>
         </Document>
     </Documents>
 </SearchIndexes>

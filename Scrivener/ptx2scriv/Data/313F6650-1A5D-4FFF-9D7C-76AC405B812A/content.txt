@@ -1,0 +1,26 @@
+<statement>
+   <p> Which of the devices listed is used to convert thermal energy to useful mechanical
+          work?</p>
+</statement>
+<choices>
+   <choice correct="yes">
+      <statement>
+         <p>Turbine</p>
+      </statement>
+   </choice>
+   <choice>
+      <statement>
+         <p>Condenser</p>
+      </statement>
+   </choice>
+   <choice>
+      <statement>
+         <p>Air ejector</p>
+      </statement>
+   </choice>
+   <choice>
+      <statement>
+         <p>Each of the above</p>
+      </statement>
+   </choice>
+</choices>

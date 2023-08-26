@@ -1,0 +1,26 @@
+<statement>
+   <p> Which statement listed represents a vital function of the main condenser?</p>
+</statement>
+<choices>
+   <choice correct="yes">
+      <statement>
+         <p>The recovery of feedwater for reuse.</p>
+      </statement>
+   </choice>
+   <choice>
+      <statement>
+         <p> Cooling of the exhaust steam from the auxiliary exhaust system before it enters the
+              deaerating feed tank.</p>
+      </statement>
+   </choice>
+   <choice>
+      <statement>
+         <p>Storage of feedwater for immediate use in the boilers.</p>
+      </statement>
+   </choice>
+   <choice>
+      <statement>
+         <p>Condensing of the exhaust steam from the main feed turbine pumps.</p>
+      </statement>
+   </choice>
+</choices>

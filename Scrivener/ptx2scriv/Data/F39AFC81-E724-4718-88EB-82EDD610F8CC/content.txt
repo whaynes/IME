@@ -1,4 +1,0 @@
-<p>In a DC circuit, where the voltage and current are at constant, steady values, the power in
-        kW can easily be calculated as the product of voltage and current in amps: <me>P = E I
-        </me>
-</p>

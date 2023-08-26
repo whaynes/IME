@@ -1,0 +1,25 @@
+<statement>
+   <p> Air trapped within the main condenser shell is harmful because it will ______.</p>
+</statement>
+<choices>
+   <choice>
+      <statement>
+         <p>decrease the turbine exhaust steam temperature</p>
+      </statement>
+   </choice>
+   <choice>
+      <statement>
+         <p>cause the turbine casing to warp and bow</p>
+      </statement>
+   </choice>
+   <choice correct="yes">
+      <statement>
+         <p>decrease the vacuum in the main condenser</p>
+      </statement>
+   </choice>
+   <choice>
+      <statement>
+         <p>cause heat to be transferred too rapidly</p>
+      </statement>
+   </choice>
+</choices>

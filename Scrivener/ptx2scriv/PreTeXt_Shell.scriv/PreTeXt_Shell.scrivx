@@ -1,24 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="7230DFF0-D98F-4CD3-826E-BAA953D9CA8C" Version="2.0" Creator="SCRMAC-3.3.1-15588" Device="whaynes-MBP-2021" Author="" Modified="2023-08-11 18:48:08 -0400" ModID="198E8DEC-C827-4492-82E6-357EEE600F6C">
+<ScrivenerProject Identifier="7230DFF0-D98F-4CD3-826E-BAA953D9CA8C" Version="2.0" Creator="SCRMAC-3.3.1-15588" Device="whaynes-MBP-2021" Author="" Modified="2023-08-26 13:40:26 -0400" ModID="D7D0C464-B59C-40BD-A292-509F8D9CF70B">
     <Binder>
         <BinderItem UUID="4497343D-E609-408A-B00A-2B537F7BADFD" Type="DraftFolder" Created="2019-08-02 15:16:02 -0400" Modified="2019-08-02 15:16:02 -0400">
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
             <Children>
-                <BinderItem UUID="8C792DD2-0D6E-4DB4-B5D3-E82BB5EAA949" Type="Folder" Created="2023-08-07 11:22:51 -0400" Modified="2023-08-07 11:22:51 -0400">
+                <BinderItem UUID="6C12DC25-7970-4750-865C-073756934232" Type="Folder" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:38:38 -0400">
                     <Title>Document</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
                     <TextSettings>
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="3F0DC2EA-A527-4DF6-9487-3229BDD9F74E" Type="Folder" Created="2023-08-07 11:22:51 -0400" Modified="2023-08-07 11:22:51 -0400">
-                            <Title>Electric Systems</Title>
+                        <BinderItem UUID="A20AE624-01BC-4AB6-AEF0-2BF24E9DB17D" Type="Folder" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:38:38 -0400">
+                            <Title>The Steam Cycle</Title>
                             <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
                                 <CustomMetaData>
                                     <MetaDataItem>
                                         <FieldID>ptx-container</FieldID>
@@ -26,7 +22,7 @@
                                     </MetaDataItem>
                                     <MetaDataItem>
                                         <FieldID>xml:id</FieldID>
-                                        <Value>SNAME_Electric_Systems</Value>
+                                        <Value>thesteamcycle</Value>
                                     </MetaDataItem>
                                 </CustomMetaData>
                             </MetaData>
@@ -34,10 +30,9 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="59D63E84-C126-4B1B-9D2F-9068AE86B61C" Type="Folder" Created="2023-08-07 11:22:51 -0400" Modified="2023-08-07 11:24:30 -0400">
+                                <BinderItem UUID="C287A0F4-3360-4AEF-9361-7357DE57EFE7" Type="Folder" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:40:08 -0400">
                                     <Title>introduction</Title>
                                     <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
                                         <CustomMetaData>
                                             <MetaDataItem>
                                                 <FieldID>ptx-container</FieldID>
@@ -49,10 +44,9 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="889E32AF-7758-4D7E-BE7F-CA5C1A9A14C4" Type="Folder" Created="2023-08-07 11:22:51 -0400" Modified="2023-08-07 11:23:51 -0400">
-                                    <Title>Fundamentals of electricity</Title>
+                                <BinderItem UUID="2DF26DF7-50BB-466A-A6E6-F30CAEC4DED2" Type="Folder" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:38:38 -0400">
+                                    <Title>Simplified Steam Cycle</Title>
                                     <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
                                         <CustomMetaData>
                                             <MetaDataItem>
                                                 <FieldID>ptx-container</FieldID>
@@ -60,26 +54,7 @@
                                             </MetaDataItem>
                                             <MetaDataItem>
                                                 <FieldID>xml:id</FieldID>
-                                                <Value>Fundamentals_of_electricity</Value>
-                                            </MetaDataItem>
-                                        </CustomMetaData>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>1996,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem UUID="2C8BD9EE-8451-4B22-9E1B-99F4B2147EDA" Type="Folder" Created="2023-08-07 11:22:51 -0400" Modified="2023-08-07 11:22:51 -0400">
-                                    <Title>Electrical terms</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <CustomMetaData>
-                                            <MetaDataItem>
-                                                <FieldID>ptx-container</FieldID>
-                                                <Value>section</Value>
-                                            </MetaDataItem>
-                                            <MetaDataItem>
-                                                <FieldID>xml:id</FieldID>
-                                                <Value>Electrical_terms</Value>
+                                                <Value>simplifiedsteamcycle</Value>
                                             </MetaDataItem>
                                         </CustomMetaData>
                                     </MetaData>
@@ -87,121 +62,9 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                     <Children>
-                                        <BinderItem UUID="73EF6ACD-461D-429D-882F-E4C38BEEACCD" Type="Folder" Created="2023-08-07 11:22:51 -0400" Modified="2023-08-07 11:24:30 -0400">
+                                        <BinderItem UUID="64F99BF6-19EF-4CA4-B893-DC51135A981A" Type="Folder" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:40:08 -0400">
                                             <Title>introduction</Title>
                                             <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                                <CustomMetaData>
-                                                    <MetaDataItem>
-                                                        <FieldID>ptx-container</FieldID>
-                                                        <Value>introduction</Value>
-                                                    </MetaDataItem>
-                                                </CustomMetaData>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>184,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                        <BinderItem UUID="2CE644E7-8A88-4E55-BB64-60F6684ABD75" Type="Folder" Created="2023-08-07 11:22:51 -0400" Modified="2023-08-07 11:24:30 -0400">
-                                            <Title>Direct current vs. alternating current</Title>
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                                <CustomMetaData>
-                                                    <MetaDataItem>
-                                                        <FieldID>ptx-container</FieldID>
-                                                        <Value>subsection</Value>
-                                                    </MetaDataItem>
-                                                </CustomMetaData>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>0,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                        <BinderItem UUID="407398E6-7D1A-4F8B-905F-03D2F6361D52" Type="Folder" Created="2023-08-07 11:22:51 -0400" Modified="2023-08-07 11:24:30 -0400">
-                                            <Title>Resistance and resistance loss</Title>
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                                <CustomMetaData>
-                                                    <MetaDataItem>
-                                                        <FieldID>ptx-container</FieldID>
-                                                        <Value>subsection</Value>
-                                                    </MetaDataItem>
-                                                </CustomMetaData>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>0,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                        <BinderItem UUID="70AF7E41-D835-48D2-BC76-E880FE7B3515" Type="Folder" Created="2023-08-07 11:22:51 -0400" Modified="2023-08-07 11:24:30 -0400">
-                                            <Title>Magnetic field</Title>
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                                <CustomMetaData>
-                                                    <MetaDataItem>
-                                                        <FieldID>ptx-container</FieldID>
-                                                        <Value>subsection</Value>
-                                                    </MetaDataItem>
-                                                </CustomMetaData>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>0,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                        <BinderItem UUID="40A77B1A-FBAF-44F0-B421-DD99A42627E9" Type="Folder" Created="2023-08-07 11:22:51 -0400" Modified="2023-08-07 11:24:30 -0400">
-                                            <Title>Impedance</Title>
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                                <CustomMetaData>
-                                                    <MetaDataItem>
-                                                        <FieldID>ptx-container</FieldID>
-                                                        <Value>subsection</Value>
-                                                    </MetaDataItem>
-                                                </CustomMetaData>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>0,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                        <BinderItem UUID="7834538D-B5A7-40D4-9D33-FF453610A1F5" Type="Folder" Created="2023-08-07 11:22:51 -0400" Modified="2023-08-07 11:24:30 -0400">
-                                            <Title>Open circuits, short circuits, and grounds</Title>
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                                <CustomMetaData>
-                                                    <MetaDataItem>
-                                                        <FieldID>ptx-container</FieldID>
-                                                        <Value>subsection</Value>
-                                                    </MetaDataItem>
-                                                </CustomMetaData>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>0,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                    </Children>
-                                </BinderItem>
-                                <BinderItem UUID="A9118B3A-2C2F-48AF-B60F-0152A3C88202" Type="Folder" Created="2023-08-07 11:22:51 -0400" Modified="2023-08-07 11:22:51 -0400">
-                                    <Title>Electric power</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <CustomMetaData>
-                                            <MetaDataItem>
-                                                <FieldID>ptx-container</FieldID>
-                                                <Value>section</Value>
-                                            </MetaDataItem>
-                                            <MetaDataItem>
-                                                <FieldID>xml:id</FieldID>
-                                                <Value>Electric_power</Value>
-                                            </MetaDataItem>
-                                        </CustomMetaData>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
-                                    </TextSettings>
-                                    <Children>
-                                        <BinderItem UUID="11E495D1-0CE9-4703-88C6-23F45DBF1BEE" Type="Folder" Created="2023-08-07 11:22:51 -0400" Modified="2023-08-07 11:24:30 -0400">
-                                            <Title>introduction</Title>
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
                                                 <CustomMetaData>
                                                     <MetaDataItem>
                                                         <FieldID>ptx-container</FieldID>
@@ -213,14 +76,17 @@
                                                 <TextSelection>0,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="F39AFC81-E724-4718-88EB-82EDD610F8CC" Type="Folder" Created="2023-08-07 11:22:51 -0400" Modified="2023-08-07 11:24:30 -0400">
-                                            <Title>Power from direct current</Title>
+                                        <BinderItem UUID="E6605589-790E-4316-A3E1-9784007B32A1" Type="Folder" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:40:08 -0400">
+                                            <Title>Generation</Title>
                                             <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
                                                 <CustomMetaData>
                                                     <MetaDataItem>
                                                         <FieldID>ptx-container</FieldID>
                                                         <Value>subsection</Value>
+                                                    </MetaDataItem>
+                                                    <MetaDataItem>
+                                                        <FieldID>xml:id</FieldID>
+                                                        <Value>generation</Value>
                                                     </MetaDataItem>
                                                 </CustomMetaData>
                                             </MetaData>
@@ -228,14 +94,71 @@
                                                 <TextSelection>0,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="A34D73C0-C3ED-4B4F-A5F4-1B42F9E460DE" Type="Folder" Created="2023-08-07 11:22:51 -0400" Modified="2023-08-07 11:24:30 -0400">
-                                            <Title>Power from alternating current</Title>
+                                        <BinderItem UUID="074135A9-9B43-4CE8-BE6E-C7C495E62C8B" Type="Folder" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:40:08 -0400">
+                                            <Title>Expansion</Title>
                                             <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
                                                 <CustomMetaData>
                                                     <MetaDataItem>
                                                         <FieldID>ptx-container</FieldID>
                                                         <Value>subsection</Value>
+                                                    </MetaDataItem>
+                                                    <MetaDataItem>
+                                                        <FieldID>xml:id</FieldID>
+                                                        <Value>expansion</Value>
+                                                    </MetaDataItem>
+                                                </CustomMetaData>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="24EF0505-DBE3-4A81-AD04-44320B1C90FE" Type="Folder" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:40:08 -0400">
+                                            <Title>Condensation</Title>
+                                            <MetaData>
+                                                <CustomMetaData>
+                                                    <MetaDataItem>
+                                                        <FieldID>ptx-container</FieldID>
+                                                        <Value>subsection</Value>
+                                                    </MetaDataItem>
+                                                    <MetaDataItem>
+                                                        <FieldID>xml:id</FieldID>
+                                                        <Value>condensation</Value>
+                                                    </MetaDataItem>
+                                                </CustomMetaData>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="75619CA9-D80B-45E8-B471-2A02E1CDA650" Type="Folder" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:40:08 -0400">
+                                            <Title>Recovery</Title>
+                                            <MetaData>
+                                                <CustomMetaData>
+                                                    <MetaDataItem>
+                                                        <FieldID>ptx-container</FieldID>
+                                                        <Value>subsection</Value>
+                                                    </MetaDataItem>
+                                                    <MetaDataItem>
+                                                        <FieldID>xml:id</FieldID>
+                                                        <Value>recovery</Value>
+                                                    </MetaDataItem>
+                                                </CustomMetaData>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="452CCF9E-E601-40C0-9F74-411188A3C7DF" Type="Folder" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:40:08 -0400">
+                                            <Title>T-s diagram</Title>
+                                            <MetaData>
+                                                <CustomMetaData>
+                                                    <MetaDataItem>
+                                                        <FieldID>ptx-container</FieldID>
+                                                        <Value>subsection</Value>
+                                                    </MetaDataItem>
+                                                    <MetaDataItem>
+                                                        <FieldID>xml:id</FieldID>
+                                                        <Value>t-sdiagram</Value>
                                                     </MetaDataItem>
                                                 </CustomMetaData>
                                             </MetaData>
@@ -245,10 +168,9 @@
                                         </BinderItem>
                                     </Children>
                                 </BinderItem>
-                                <BinderItem UUID="8808F984-98C1-448C-8127-55D1C73E1906" Type="Folder" Created="2023-08-07 11:22:51 -0400" Modified="2023-08-07 11:24:30 -0400">
-                                    <Title>Basic electric circuits</Title>
+                                <BinderItem UUID="7E1B5001-9CA2-4618-8F5C-9ABBE0A3AC99" Type="Folder" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:38:38 -0400">
+                                    <Title>Practical Steam Cycle</Title>
                                     <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
                                         <CustomMetaData>
                                             <MetaDataItem>
                                                 <FieldID>ptx-container</FieldID>
@@ -256,45 +178,7 @@
                                             </MetaDataItem>
                                             <MetaDataItem>
                                                 <FieldID>xml:id</FieldID>
-                                                <Value>Basic_electric_circuits</Value>
-                                            </MetaDataItem>
-                                        </CustomMetaData>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem UUID="8E0F9B59-16F3-4670-A3A0-F8BF699C3E46" Type="Folder" Created="2023-08-07 11:22:51 -0400" Modified="2023-08-07 11:24:30 -0400">
-                                    <Title>Electric components and instruments</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <CustomMetaData>
-                                            <MetaDataItem>
-                                                <FieldID>ptx-container</FieldID>
-                                                <Value>section</Value>
-                                            </MetaDataItem>
-                                            <MetaDataItem>
-                                                <FieldID>xml:id</FieldID>
-                                                <Value>Electric_components_and_instruments</Value>
-                                            </MetaDataItem>
-                                        </CustomMetaData>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem UUID="2B4B89E7-F750-4A08-9814-D9D021CCFE24" Type="Folder" Created="2023-08-07 11:22:51 -0400" Modified="2023-08-07 11:22:51 -0400">
-                                    <Title>Alternators and generators</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <CustomMetaData>
-                                            <MetaDataItem>
-                                                <FieldID>ptx-container</FieldID>
-                                                <Value>section</Value>
-                                            </MetaDataItem>
-                                            <MetaDataItem>
-                                                <FieldID>xml:id</FieldID>
-                                                <Value>Alternators_and_generators</Value>
+                                                <Value>practicalsteamcycle</Value>
                                             </MetaDataItem>
                                         </CustomMetaData>
                                     </MetaData>
@@ -302,10 +186,9 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                     <Children>
-                                        <BinderItem UUID="8A2134D5-494A-4F33-A666-78B817242208" Type="Folder" Created="2023-08-07 11:22:51 -0400" Modified="2023-08-07 11:24:30 -0400">
+                                        <BinderItem UUID="FA7FD604-9A4C-4685-95EC-1925237F483D" Type="Folder" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:40:08 -0400">
                                             <Title>introduction</Title>
                                             <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
                                                 <CustomMetaData>
                                                     <MetaDataItem>
                                                         <FieldID>ptx-container</FieldID>
@@ -317,14 +200,17 @@
                                                 <TextSelection>0,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="129DA030-B512-4571-8768-46CA2B6D486F" Type="Folder" Created="2023-08-07 11:22:51 -0400" Modified="2023-08-07 11:24:30 -0400">
-                                            <Title>Single-phase alternators</Title>
+                                        <BinderItem UUID="76018EFF-B3C1-4664-B0E7-E3808AD7B9B9" Type="Folder" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:40:08 -0400">
+                                            <Title>Boiler</Title>
                                             <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
                                                 <CustomMetaData>
                                                     <MetaDataItem>
                                                         <FieldID>ptx-container</FieldID>
                                                         <Value>subsection</Value>
+                                                    </MetaDataItem>
+                                                    <MetaDataItem>
+                                                        <FieldID>xml:id</FieldID>
+                                                        <Value>boiler</Value>
                                                     </MetaDataItem>
                                                 </CustomMetaData>
                                             </MetaData>
@@ -332,14 +218,17 @@
                                                 <TextSelection>0,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="ED330ECA-5606-4432-81DD-A6E2B6573059" Type="Folder" Created="2023-08-07 11:22:51 -0400" Modified="2023-08-07 11:24:30 -0400">
-                                            <Title>Three-phase alternators</Title>
+                                        <BinderItem UUID="537D43BD-0BEE-425F-97DC-F379705B4A7B" Type="Folder" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:40:08 -0400">
+                                            <Title>Steam Drum</Title>
                                             <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
                                                 <CustomMetaData>
                                                     <MetaDataItem>
                                                         <FieldID>ptx-container</FieldID>
                                                         <Value>subsection</Value>
+                                                    </MetaDataItem>
+                                                    <MetaDataItem>
+                                                        <FieldID>xml:id</FieldID>
+                                                        <Value>steamdrum</Value>
                                                     </MetaDataItem>
                                                 </CustomMetaData>
                                             </MetaData>
@@ -347,14 +236,17 @@
                                                 <TextSelection>0,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="444E452B-5E60-452C-93DF-89A7234524BE" Type="Folder" Created="2023-08-07 11:22:51 -0400" Modified="2023-08-07 11:24:30 -0400">
-                                            <Title>Field and excitation</Title>
+                                        <BinderItem UUID="E7A7382B-BEEE-41ED-B6ED-DED8007CFB38" Type="Folder" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:40:08 -0400">
+                                            <Title>Dry Pipe</Title>
                                             <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
                                                 <CustomMetaData>
                                                     <MetaDataItem>
                                                         <FieldID>ptx-container</FieldID>
                                                         <Value>subsection</Value>
+                                                    </MetaDataItem>
+                                                    <MetaDataItem>
+                                                        <FieldID>xml:id</FieldID>
+                                                        <Value>drypipe</Value>
                                                     </MetaDataItem>
                                                 </CustomMetaData>
                                             </MetaData>
@@ -362,14 +254,287 @@
                                                 <TextSelection>0,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="58A3BA72-6881-408E-8B7E-E4ADADA0B6A7" Type="Folder" Created="2023-08-07 11:22:51 -0400" Modified="2023-08-07 11:24:30 -0400">
-                                            <Title>Direct-current generators</Title>
+                                        <BinderItem UUID="32C38C97-1ED9-4BB2-9A52-54963B6E8389" Type="Folder" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:40:08 -0400">
+                                            <Title>Superheater</Title>
                                             <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
                                                 <CustomMetaData>
                                                     <MetaDataItem>
                                                         <FieldID>ptx-container</FieldID>
                                                         <Value>subsection</Value>
+                                                    </MetaDataItem>
+                                                    <MetaDataItem>
+                                                        <FieldID>xml:id</FieldID>
+                                                        <Value>superhtr</Value>
+                                                    </MetaDataItem>
+                                                </CustomMetaData>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="37A117CE-C650-4568-99D2-19FF30497D54" Type="Folder" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:40:08 -0400">
+                                            <Title>Main steam stop valve</Title>
+                                            <MetaData>
+                                                <CustomMetaData>
+                                                    <MetaDataItem>
+                                                        <FieldID>ptx-container</FieldID>
+                                                        <Value>subsection</Value>
+                                                    </MetaDataItem>
+                                                    <MetaDataItem>
+                                                        <FieldID>xml:id</FieldID>
+                                                        <Value>mainsteamstopvalve</Value>
+                                                    </MetaDataItem>
+                                                </CustomMetaData>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="6D48CD21-FC9E-4717-ADB1-A3EEC3D5206D" Type="Folder" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:40:08 -0400">
+                                            <Title>Bulkhead stop valve</Title>
+                                            <MetaData>
+                                                <CustomMetaData>
+                                                    <MetaDataItem>
+                                                        <FieldID>ptx-container</FieldID>
+                                                        <Value>subsection</Value>
+                                                    </MetaDataItem>
+                                                    <MetaDataItem>
+                                                        <FieldID>xml:id</FieldID>
+                                                        <Value>bulkheadstopvalve</Value>
+                                                    </MetaDataItem>
+                                                </CustomMetaData>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="03A0811A-75A1-4EA2-A630-70ADE7A7A250" Type="Folder" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:40:08 -0400">
+                                            <Title>Strainer</Title>
+                                            <MetaData>
+                                                <CustomMetaData>
+                                                    <MetaDataItem>
+                                                        <FieldID>ptx-container</FieldID>
+                                                        <Value>subsection</Value>
+                                                    </MetaDataItem>
+                                                    <MetaDataItem>
+                                                        <FieldID>xml:id</FieldID>
+                                                        <Value>strainer</Value>
+                                                    </MetaDataItem>
+                                                </CustomMetaData>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="5404AFC7-12C9-4040-8B5D-C3F843816197" Type="Folder" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:40:08 -0400">
+                                            <Title>Throttles</Title>
+                                            <MetaData>
+                                                <CustomMetaData>
+                                                    <MetaDataItem>
+                                                        <FieldID>ptx-container</FieldID>
+                                                        <Value>subsection</Value>
+                                                    </MetaDataItem>
+                                                    <MetaDataItem>
+                                                        <FieldID>xml:id</FieldID>
+                                                        <Value>throttles</Value>
+                                                    </MetaDataItem>
+                                                </CustomMetaData>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="BA21F656-42BE-4249-BA5A-DC7330970E51" Type="Folder" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:40:08 -0400">
+                                            <Title>HP Turbine</Title>
+                                            <MetaData>
+                                                <CustomMetaData>
+                                                    <MetaDataItem>
+                                                        <FieldID>ptx-container</FieldID>
+                                                        <Value>subsection</Value>
+                                                    </MetaDataItem>
+                                                    <MetaDataItem>
+                                                        <FieldID>xml:id</FieldID>
+                                                        <Value>hpturbine</Value>
+                                                    </MetaDataItem>
+                                                </CustomMetaData>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="58EB86BA-B954-45D1-ADDE-2B9FC337445F" Type="Folder" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:40:08 -0400">
+                                            <Title>LP Turbine</Title>
+                                            <MetaData>
+                                                <CustomMetaData>
+                                                    <MetaDataItem>
+                                                        <FieldID>ptx-container</FieldID>
+                                                        <Value>subsection</Value>
+                                                    </MetaDataItem>
+                                                    <MetaDataItem>
+                                                        <FieldID>xml:id</FieldID>
+                                                        <Value>lpturbine</Value>
+                                                    </MetaDataItem>
+                                                </CustomMetaData>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="63720F34-C107-418E-B65F-47D7EC48C23E" Type="Folder" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:40:08 -0400">
+                                            <Title>Main Condenser</Title>
+                                            <MetaData>
+                                                <CustomMetaData>
+                                                    <MetaDataItem>
+                                                        <FieldID>ptx-container</FieldID>
+                                                        <Value>subsection</Value>
+                                                    </MetaDataItem>
+                                                    <MetaDataItem>
+                                                        <FieldID>xml:id</FieldID>
+                                                        <Value>maincond</Value>
+                                                    </MetaDataItem>
+                                                </CustomMetaData>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="E3908A8E-AAD6-424A-BE11-D291640F1053" Type="Folder" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:40:08 -0400">
+                                            <Title>Condensate pump</Title>
+                                            <MetaData>
+                                                <CustomMetaData>
+                                                    <MetaDataItem>
+                                                        <FieldID>ptx-container</FieldID>
+                                                        <Value>subsection</Value>
+                                                    </MetaDataItem>
+                                                    <MetaDataItem>
+                                                        <FieldID>xml:id</FieldID>
+                                                        <Value>condensatepump</Value>
+                                                    </MetaDataItem>
+                                                </CustomMetaData>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="E6DD8D2F-0ACF-495B-880F-0BF39106504F" Type="Folder" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:40:08 -0400">
+                                            <Title>Air Ejector Condenser</Title>
+                                            <MetaData>
+                                                <CustomMetaData>
+                                                    <MetaDataItem>
+                                                        <FieldID>ptx-container</FieldID>
+                                                        <Value>subsection</Value>
+                                                    </MetaDataItem>
+                                                    <MetaDataItem>
+                                                        <FieldID>xml:id</FieldID>
+                                                        <Value>airejectorcondenser</Value>
+                                                    </MetaDataItem>
+                                                </CustomMetaData>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="FB5BE4FE-094D-49A0-AD9A-EF5633AD7702" Type="Folder" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:40:08 -0400">
+                                            <Title>Gland Exhaust Condenser</Title>
+                                            <MetaData>
+                                                <CustomMetaData>
+                                                    <MetaDataItem>
+                                                        <FieldID>ptx-container</FieldID>
+                                                        <Value>subsection</Value>
+                                                    </MetaDataItem>
+                                                    <MetaDataItem>
+                                                        <FieldID>xml:id</FieldID>
+                                                        <Value>glandexhaustcondenser</Value>
+                                                    </MetaDataItem>
+                                                </CustomMetaData>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="5526391F-5F49-42BD-B22E-84F4D23A6CAA" Type="Folder" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:40:08 -0400">
+                                            <Title>First Stage Heater Unit</Title>
+                                            <MetaData>
+                                                <CustomMetaData>
+                                                    <MetaDataItem>
+                                                        <FieldID>ptx-container</FieldID>
+                                                        <Value>subsection</Value>
+                                                    </MetaDataItem>
+                                                    <MetaDataItem>
+                                                        <FieldID>xml:id</FieldID>
+                                                        <Value>firststageheaterunit</Value>
+                                                    </MetaDataItem>
+                                                </CustomMetaData>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="90A6EA70-FF2C-4021-8F6D-2B7630FE801A" Type="Folder" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:40:08 -0400">
+                                            <Title>DC Heater</Title>
+                                            <MetaData>
+                                                <CustomMetaData>
+                                                    <MetaDataItem>
+                                                        <FieldID>ptx-container</FieldID>
+                                                        <Value>subsection</Value>
+                                                    </MetaDataItem>
+                                                    <MetaDataItem>
+                                                        <FieldID>xml:id</FieldID>
+                                                        <Value>dchtr</Value>
+                                                    </MetaDataItem>
+                                                </CustomMetaData>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="CF486EA7-BE85-4B68-814C-CFF4A732F3F7" Type="Folder" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:40:08 -0400">
+                                            <Title>Feed Pump</Title>
+                                            <MetaData>
+                                                <CustomMetaData>
+                                                    <MetaDataItem>
+                                                        <FieldID>ptx-container</FieldID>
+                                                        <Value>subsection</Value>
+                                                    </MetaDataItem>
+                                                    <MetaDataItem>
+                                                        <FieldID>xml:id</FieldID>
+                                                        <Value>feedpump</Value>
+                                                    </MetaDataItem>
+                                                </CustomMetaData>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="02E1B542-C4BA-44FC-BD00-A5ED04B8B1E8" Type="Folder" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:40:08 -0400">
+                                            <Title>Feed Valves</Title>
+                                            <MetaData>
+                                                <CustomMetaData>
+                                                    <MetaDataItem>
+                                                        <FieldID>ptx-container</FieldID>
+                                                        <Value>subsection</Value>
+                                                    </MetaDataItem>
+                                                    <MetaDataItem>
+                                                        <FieldID>xml:id</FieldID>
+                                                        <Value>feedvalves</Value>
+                                                    </MetaDataItem>
+                                                </CustomMetaData>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="9AB68337-F9AF-4855-8EE3-16AF7FBA02E8" Type="Folder" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:40:08 -0400">
+                                            <Title>Economizer</Title>
+                                            <MetaData>
+                                                <CustomMetaData>
+                                                    <MetaDataItem>
+                                                        <FieldID>ptx-container</FieldID>
+                                                        <Value>subsection</Value>
+                                                    </MetaDataItem>
+                                                    <MetaDataItem>
+                                                        <FieldID>xml:id</FieldID>
+                                                        <Value>econ</Value>
                                                     </MetaDataItem>
                                                 </CustomMetaData>
                                             </MetaData>
@@ -378,291 +543,6 @@
                                             </TextSettings>
                                         </BinderItem>
                                     </Children>
-                                </BinderItem>
-                                <BinderItem UUID="20095F87-45A6-4ADB-923C-139A9AAEF02E" Type="Folder" Created="2023-08-07 11:22:51 -0400" Modified="2023-08-07 11:22:51 -0400">
-                                    <Title>Electric motors</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <CustomMetaData>
-                                            <MetaDataItem>
-                                                <FieldID>ptx-container</FieldID>
-                                                <Value>section</Value>
-                                            </MetaDataItem>
-                                            <MetaDataItem>
-                                                <FieldID>xml:id</FieldID>
-                                                <Value>Electric_motors</Value>
-                                            </MetaDataItem>
-                                        </CustomMetaData>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
-                                    </TextSettings>
-                                    <Children>
-                                        <BinderItem UUID="D2CB403D-5DFC-42AB-9BF3-36AB09C0D428" Type="Folder" Created="2023-08-07 11:22:51 -0400" Modified="2023-08-07 11:24:30 -0400">
-                                            <Title>introduction</Title>
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                                <CustomMetaData>
-                                                    <MetaDataItem>
-                                                        <FieldID>ptx-container</FieldID>
-                                                        <Value>introduction</Value>
-                                                    </MetaDataItem>
-                                                </CustomMetaData>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>0,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                        <BinderItem UUID="89DD0AB1-424A-43B0-B356-E4DC58C1D4CE" Type="Folder" Created="2023-08-07 11:22:51 -0400" Modified="2023-08-07 11:24:30 -0400">
-                                            <Title>Alternating current motors</Title>
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                                <CustomMetaData>
-                                                    <MetaDataItem>
-                                                        <FieldID>ptx-container</FieldID>
-                                                        <Value>subsection</Value>
-                                                    </MetaDataItem>
-                                                </CustomMetaData>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>0,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                        <BinderItem UUID="316867B1-8887-41F9-B2B3-76BE609FA9F9" Type="Folder" Created="2023-08-07 11:22:51 -0400" Modified="2023-08-07 11:24:30 -0400">
-                                            <Title>Synchronous motors</Title>
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                                <CustomMetaData>
-                                                    <MetaDataItem>
-                                                        <FieldID>ptx-container</FieldID>
-                                                        <Value>subsection</Value>
-                                                    </MetaDataItem>
-                                                </CustomMetaData>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>0,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                        <BinderItem UUID="3BB966E6-96E9-4FC6-9607-922F356F0441" Type="Folder" Created="2023-08-07 11:22:51 -0400" Modified="2023-08-07 11:24:30 -0400">
-                                            <Title>Induction motors</Title>
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                                <CustomMetaData>
-                                                    <MetaDataItem>
-                                                        <FieldID>ptx-container</FieldID>
-                                                        <Value>subsection</Value>
-                                                    </MetaDataItem>
-                                                </CustomMetaData>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>0,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                        <BinderItem UUID="0591F261-975B-4A23-AE05-60FB3410F354" Type="Folder" Created="2023-08-07 11:22:51 -0400" Modified="2023-08-07 11:24:30 -0400">
-                                            <Title>Single-phase motors</Title>
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                                <CustomMetaData>
-                                                    <MetaDataItem>
-                                                        <FieldID>ptx-container</FieldID>
-                                                        <Value>subsection</Value>
-                                                    </MetaDataItem>
-                                                </CustomMetaData>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>0,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                        <BinderItem UUID="3463B298-CB95-400E-880B-7198F8362107" Type="Folder" Created="2023-08-07 11:22:51 -0400" Modified="2023-08-07 11:24:30 -0400">
-                                            <Title>DC motors</Title>
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                                <CustomMetaData>
-                                                    <MetaDataItem>
-                                                        <FieldID>ptx-container</FieldID>
-                                                        <Value>subsection</Value>
-                                                    </MetaDataItem>
-                                                </CustomMetaData>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>0,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                    </Children>
-                                </BinderItem>
-                                <BinderItem UUID="AC9504DD-27DB-4FFB-9695-BE22339A6754" Type="Folder" Created="2023-08-07 11:22:51 -0400" Modified="2023-08-07 11:24:30 -0400">
-                                    <Title>Transformers</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <CustomMetaData>
-                                            <MetaDataItem>
-                                                <FieldID>ptx-container</FieldID>
-                                                <Value>section</Value>
-                                            </MetaDataItem>
-                                            <MetaDataItem>
-                                                <FieldID>xml:id</FieldID>
-                                                <Value>Transformers</Value>
-                                            </MetaDataItem>
-                                        </CustomMetaData>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem UUID="C0066F3C-93F7-4490-BE70-58E6F30B4933" Type="Folder" Created="2023-08-07 11:22:51 -0400" Modified="2023-08-07 11:22:51 -0400">
-                                    <Title>Motor starters</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <CustomMetaData>
-                                            <MetaDataItem>
-                                                <FieldID>ptx-container</FieldID>
-                                                <Value>section</Value>
-                                            </MetaDataItem>
-                                            <MetaDataItem>
-                                                <FieldID>xml:id</FieldID>
-                                                <Value>Motor_starters</Value>
-                                            </MetaDataItem>
-                                        </CustomMetaData>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
-                                    </TextSettings>
-                                    <Children>
-                                        <BinderItem UUID="BFC342C1-2278-42D3-9918-6A9E2BC3A98B" Type="Folder" Created="2023-08-07 11:22:51 -0400" Modified="2023-08-07 11:24:30 -0400">
-                                            <Title>Motor starting current</Title>
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                                <CustomMetaData>
-                                                    <MetaDataItem>
-                                                        <FieldID>ptx-container</FieldID>
-                                                        <Value>subsection</Value>
-                                                    </MetaDataItem>
-                                                </CustomMetaData>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>0,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                        <BinderItem UUID="D015F1A7-D91C-459F-8E61-8322C4357E6F" Type="Folder" Created="2023-08-07 11:22:51 -0400" Modified="2023-08-07 11:24:30 -0400">
-                                            <Title>Motor starters</Title>
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                                <CustomMetaData>
-                                                    <MetaDataItem>
-                                                        <FieldID>ptx-container</FieldID>
-                                                        <Value>subsection</Value>
-                                                    </MetaDataItem>
-                                                </CustomMetaData>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>0,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                    </Children>
-                                </BinderItem>
-                                <BinderItem UUID="E725E09E-2072-4673-B163-DCF6EE2563D7" Type="Folder" Created="2023-08-07 11:22:51 -0400" Modified="2023-08-07 11:22:51 -0400">
-                                    <Title>Batteries and fuel cells</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <CustomMetaData>
-                                            <MetaDataItem>
-                                                <FieldID>ptx-container</FieldID>
-                                                <Value>section</Value>
-                                            </MetaDataItem>
-                                            <MetaDataItem>
-                                                <FieldID>xml:id</FieldID>
-                                                <Value>Batteries_and_fuel_cells</Value>
-                                            </MetaDataItem>
-                                        </CustomMetaData>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
-                                    </TextSettings>
-                                    <Children>
-                                        <BinderItem UUID="8A5F2859-819A-468C-A8E5-DC177824B162" Type="Folder" Created="2023-08-07 11:22:51 -0400" Modified="2023-08-07 11:24:30 -0400">
-                                            <Title>introduction</Title>
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                                <CustomMetaData>
-                                                    <MetaDataItem>
-                                                        <FieldID>ptx-container</FieldID>
-                                                        <Value>introduction</Value>
-                                                    </MetaDataItem>
-                                                </CustomMetaData>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>0,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                        <BinderItem UUID="E33C51CD-33FE-4723-884F-F20181F779F6" Type="Folder" Created="2023-08-07 11:22:51 -0400" Modified="2023-08-07 11:24:30 -0400">
-                                            <Title>Batteries</Title>
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                                <CustomMetaData>
-                                                    <MetaDataItem>
-                                                        <FieldID>ptx-container</FieldID>
-                                                        <Value>subsection</Value>
-                                                    </MetaDataItem>
-                                                </CustomMetaData>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>0,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                        <BinderItem UUID="7A599319-76CC-4C21-9A2C-52D051436AA7" Type="Folder" Created="2023-08-07 11:22:51 -0400" Modified="2023-08-07 11:24:30 -0400">
-                                            <Title>Fuel cells</Title>
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                                <CustomMetaData>
-                                                    <MetaDataItem>
-                                                        <FieldID>ptx-container</FieldID>
-                                                        <Value>subsection</Value>
-                                                    </MetaDataItem>
-                                                </CustomMetaData>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>0,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                    </Children>
-                                </BinderItem>
-                                <BinderItem UUID="A07B347E-011C-4685-B965-A24910766255" Type="Folder" Created="2023-08-07 11:22:51 -0400" Modified="2023-08-07 11:24:30 -0400">
-                                    <Title>Shipboard electric systems</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <CustomMetaData>
-                                            <MetaDataItem>
-                                                <FieldID>ptx-container</FieldID>
-                                                <Value>section</Value>
-                                            </MetaDataItem>
-                                            <MetaDataItem>
-                                                <FieldID>xml:id</FieldID>
-                                                <Value>Shipboard_electric_systems</Value>
-                                            </MetaDataItem>
-                                        </CustomMetaData>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem UUID="30FCDFC9-EB2C-4F5D-9301-7785302B80F8" Type="Folder" Created="2023-08-07 11:22:51 -0400" Modified="2023-08-07 11:24:30 -0400">
-                                    <Title>Electric propulsion</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <CustomMetaData>
-                                            <MetaDataItem>
-                                                <FieldID>ptx-container</FieldID>
-                                                <Value>section</Value>
-                                            </MetaDataItem>
-                                            <MetaDataItem>
-                                                <FieldID>xml:id</FieldID>
-                                                <Value>Electric_propulsion</Value>
-                                            </MetaDataItem>
-                                        </CustomMetaData>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
-                                    </TextSettings>
                                 </BinderItem>
                             </Children>
                         </BinderItem>
@@ -692,6 +572,598 @@
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
+            <Children>
+                <BinderItem UUID="AA41E438-FF10-4C16-BCDB-0042AA5FDA3A" Type="Folder" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:38:38 -0400">
+                    <Title>Chapter Questions</Title>
+                    <MetaData>
+                        <CustomMetaData>
+                            <MetaDataItem>
+                                <FieldID>ptx-container</FieldID>
+                                <Value>exercises</Value>
+                            </MetaDataItem>
+                            <MetaDataItem>
+                                <FieldID>xml:id</FieldID>
+                                <Value>questions-1</Value>
+                            </MetaDataItem>
+                        </CustomMetaData>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="313F6650-1A5D-4FFF-9D7C-76AC405B812A" Type="Folder" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:39:33 -0400">
+                            <Title>exercise</Title>
+                            <MetaData>
+                                <CustomMetaData>
+                                    <MetaDataItem>
+                                        <FieldID>ptx-container</FieldID>
+                                        <Value>exercise</Value>
+                                    </MetaDataItem>
+                                </CustomMetaData>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="CFF963F2-7119-40F9-86B4-C2754EDFA084" Type="Folder" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:39:33 -0400">
+                            <Title>exercise</Title>
+                            <MetaData>
+                                <CustomMetaData>
+                                    <MetaDataItem>
+                                        <FieldID>ptx-container</FieldID>
+                                        <Value>exercise</Value>
+                                    </MetaDataItem>
+                                </CustomMetaData>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="AA72E57F-E232-4CD6-9EE0-3C414B7627CA" Type="Folder" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:39:33 -0400">
+                            <Title>exercise</Title>
+                            <MetaData>
+                                <CustomMetaData>
+                                    <MetaDataItem>
+                                        <FieldID>ptx-container</FieldID>
+                                        <Value>exercise</Value>
+                                    </MetaDataItem>
+                                </CustomMetaData>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="30962EB9-886A-4721-9BAF-70824959106D" Type="Folder" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:39:33 -0400">
+                            <Title>exercise</Title>
+                            <MetaData>
+                                <CustomMetaData>
+                                    <MetaDataItem>
+                                        <FieldID>ptx-container</FieldID>
+                                        <Value>exercise</Value>
+                                    </MetaDataItem>
+                                </CustomMetaData>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="8B9040DB-C22D-4423-9315-5F0A10C73A73" Type="Folder" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:39:33 -0400">
+                            <Title>exercise</Title>
+                            <MetaData>
+                                <CustomMetaData>
+                                    <MetaDataItem>
+                                        <FieldID>ptx-container</FieldID>
+                                        <Value>exercise</Value>
+                                    </MetaDataItem>
+                                </CustomMetaData>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="120F83FD-6294-4937-8C66-06D1A50FF360" Type="Folder" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:39:33 -0400">
+                            <Title>exercise</Title>
+                            <MetaData>
+                                <CustomMetaData>
+                                    <MetaDataItem>
+                                        <FieldID>ptx-container</FieldID>
+                                        <Value>exercise</Value>
+                                    </MetaDataItem>
+                                </CustomMetaData>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="53E1A403-EEEA-4F87-9DD3-5DEE3F33D0AD" Type="Folder" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:39:33 -0400">
+                            <Title>exercise</Title>
+                            <MetaData>
+                                <CustomMetaData>
+                                    <MetaDataItem>
+                                        <FieldID>ptx-container</FieldID>
+                                        <Value>exercise</Value>
+                                    </MetaDataItem>
+                                </CustomMetaData>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="F8C4453E-88AE-4DCC-9FB9-6F1E198D1011" Type="Folder" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:39:33 -0400">
+                            <Title>exercise</Title>
+                            <MetaData>
+                                <CustomMetaData>
+                                    <MetaDataItem>
+                                        <FieldID>ptx-container</FieldID>
+                                        <Value>exercise</Value>
+                                    </MetaDataItem>
+                                </CustomMetaData>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="A01CA1D7-08AA-4D31-9680-295252D49196" Type="Folder" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:39:33 -0400">
+                            <Title>exercise</Title>
+                            <MetaData>
+                                <CustomMetaData>
+                                    <MetaDataItem>
+                                        <FieldID>ptx-container</FieldID>
+                                        <Value>exercise</Value>
+                                    </MetaDataItem>
+                                </CustomMetaData>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="5AB8C9CE-635F-4DD7-BE70-912BF7FA4AA5" Type="Folder" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:39:33 -0400">
+                            <Title>exercise</Title>
+                            <MetaData>
+                                <CustomMetaData>
+                                    <MetaDataItem>
+                                        <FieldID>ptx-container</FieldID>
+                                        <Value>exercise</Value>
+                                    </MetaDataItem>
+                                </CustomMetaData>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="33F27061-EEA9-4840-BDBB-194298ADDA5A" Type="Folder" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:39:33 -0400">
+                            <Title>exercise</Title>
+                            <MetaData>
+                                <CustomMetaData>
+                                    <MetaDataItem>
+                                        <FieldID>ptx-container</FieldID>
+                                        <Value>exercise</Value>
+                                    </MetaDataItem>
+                                </CustomMetaData>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="6BCEEE44-C05E-4A28-9A16-E1A5B60E9932" Type="Folder" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:39:33 -0400">
+                            <Title>exercise</Title>
+                            <MetaData>
+                                <CustomMetaData>
+                                    <MetaDataItem>
+                                        <FieldID>ptx-container</FieldID>
+                                        <Value>exercise</Value>
+                                    </MetaDataItem>
+                                </CustomMetaData>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="146AF4A8-191E-42ED-8AD7-842C59ED6866" Type="Folder" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:38:38 -0400">
+            <Title>Recovered Files (Aug 26, 2023 at 1:38 PM)</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Warning</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <Children>
+                <BinderItem UUID="DD7E4A63-4F91-418F-B4A4-3CDE51EA48AF" Type="Text" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:38:38 -0400">
+                    <Title>Recovered File-1</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="7F234566-35CD-4B77-B3E3-7D9C225E5C04" Type="Text" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:38:38 -0400">
+                    <Title>Recovered File-2</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="F4989F3B-9C6D-424C-BD8B-A1A27A172AE6" Type="Text" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:38:38 -0400">
+                    <Title>Recovered File-3</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="E9772BC0-EB99-4944-82E3-8B0671D246FA" Type="Text" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:38:38 -0400">
+                    <Title>Recovered File-4</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="7A88814B-DB0C-464A-88AD-0CA7E2B0C729" Type="Text" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:38:38 -0400">
+                    <Title>Recovered File-5</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="C3F33954-00D8-4B1E-B432-DDFAEC40B9DF" Type="Text" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:38:38 -0400">
+                    <Title>Recovered File-6</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="D262BFE6-A70A-4963-88BA-5FBCB40E52B3" Type="Text" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:38:38 -0400">
+                    <Title>Recovered File-7</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="B6127E04-E213-4711-A695-F66AB2634B32" Type="Text" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:38:38 -0400">
+                    <Title>Recovered File-8</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="2A0F773D-8772-47B4-B78A-836983F627A8" Type="Text" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:38:38 -0400">
+                    <Title>Recovered File-9</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="FB4FE695-7815-4911-832D-DFE3105956B3" Type="Text" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:38:38 -0400">
+                    <Title>Recovered File-10</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="7761BEF4-BD37-4DC8-875A-12A65CFAE4DD" Type="Text" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:38:38 -0400">
+                    <Title>Recovered File-11</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="6FE86E12-F313-4662-AD86-E607268B76BA" Type="Text" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:38:38 -0400">
+                    <Title>Recovered File-12</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="420B2D42-B72C-4DD9-83C5-EDDE7A586978" Type="Text" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:38:38 -0400">
+                    <Title>Recovered File-13</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="8CCE7F29-0C80-41A8-AEF1-DE6AC906497A" Type="Text" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:38:38 -0400">
+                    <Title>Recovered File-14</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="AFF747D4-701F-48D3-B02A-E6D6BC38C404" Type="Text" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:38:38 -0400">
+                    <Title>Recovered File-15</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="FD800D09-1577-4AF4-AC9E-235E81B517AA" Type="Text" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:38:38 -0400">
+                    <Title>Recovered File-16</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="5724766C-9086-43F3-913D-A7B7BC3719A1" Type="Text" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:38:38 -0400">
+                    <Title>Recovered File-17</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="65AC085F-FDF1-4FFB-831C-F70C166B9654" Type="Text" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:38:38 -0400">
+                    <Title>Recovered File-18</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="1788FEC7-B874-41CD-883B-AFEF84343A5C" Type="Text" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:38:38 -0400">
+                    <Title>Recovered File-19</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="49FECE7E-9B6B-4095-A38C-A658CD0E60DE" Type="Text" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:38:38 -0400">
+                    <Title>Recovered File-20</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="DE05A654-4006-4522-A0C8-2031A7A38213" Type="Text" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:38:38 -0400">
+                    <Title>Recovered File-21</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="1088252B-6C2E-446E-9D1C-F4A273FC3364" Type="Text" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:38:38 -0400">
+                    <Title>Recovered File-22</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="FFD9DA38-7126-45D2-A023-68A3FF0F0BDD" Type="Text" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:38:38 -0400">
+                    <Title>Recovered File-23</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="A58F7C74-7866-4FC5-90FB-90B9CC203299" Type="Text" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:38:38 -0400">
+                    <Title>Recovered File-24</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="3687FA58-A941-47F2-9223-7D7C649499D0" Type="Text" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:38:38 -0400">
+                    <Title>Recovered File-25</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="B1223556-DF04-4429-892A-74A19C008289" Type="Text" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:38:38 -0400">
+                    <Title>Recovered File-26</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="58DCA407-8BD5-4A43-8427-62DFA531DCBD" Type="Text" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:38:38 -0400">
+                    <Title>Recovered File-27</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="4E195AE0-BC0F-4DD8-8529-8CAB0B4E6E18" Type="Text" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:38:38 -0400">
+                    <Title>Recovered File-28</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="4CB133DA-6F78-4B5D-AA90-2625880BBF19" Type="Text" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:38:38 -0400">
+                    <Title>Recovered File-29</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="3D3D10AD-059E-4206-B5BA-3BA0E7A27C3D" Type="Text" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:38:38 -0400">
+                    <Title>Recovered File-30</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="D40F1F81-E388-4067-9B94-3A15CDC713D1" Type="Text" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:38:38 -0400">
+                    <Title>Recovered File-31</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="01D8CA34-054F-4CFD-A763-170E173DD4EF" Type="Text" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:38:38 -0400">
+                    <Title>Recovered File-32</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="A05BC5C7-A9D6-4833-8B0B-D209C89F30C8" Type="Text" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:38:38 -0400">
+                    <Title>Recovered File-33</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="DFFED80A-116B-4BA3-B792-6D4B1BD46490" Type="Text" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:38:38 -0400">
+                    <Title>Recovered File-34</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="F77FD933-1D63-4196-9B4D-02E604AB56D4" Type="Text" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:38:38 -0400">
+                    <Title>Recovered File-35</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="1436A2D5-498E-4409-9561-45EB7209DFC7" Type="Text" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:38:38 -0400">
+                    <Title>Recovered File-36</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="3E79FE17-F390-4402-A1CB-8D94164FD3ED" Type="Text" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:38:38 -0400">
+                    <Title>Recovered File-37</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="2A7AF820-E989-403D-8CC8-0A8C3CEBB42C" Type="Text" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:38:38 -0400">
+                    <Title>Recovered File-38</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="13CEEAE6-23B0-440D-AB5A-B37D4F9E5616" Type="Text" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:38:38 -0400">
+                    <Title>Recovered File-39</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
         </BinderItem>
     </Binder>
     <Collections>
@@ -772,14 +1244,14 @@
     </CustomMetaDataSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2019-08-02 14:45:12 -0400" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2023-08-12 01:00:00 -0400" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2023-08-11 18:45:07 -0400"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2023-08-27 01:00:00 -0400" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2023-08-26 13:38:38 -0400"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2023-08-11 00:00:00 -0400">
+    <RecentWritingHistory Date="2023-08-26 00:00:00 -0400">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
-        <OtherCharCount>0</OtherCharCount>
+        <OtherCharCount>-3280</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="611.999972,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>

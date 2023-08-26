@@ -1,5 +1,0 @@
-<p>An electron flow, or current, is always surrounded by a magnetic field. When a conductor is
-        wound into a cylindrical coil, the magnetic field that will be formed will be oriented along
-        the axis of the cylinder. One end of the coil will act like the north pole of a permanent
-        magnet, and the other end, like the south pole. The coil is therefore an
-          <term>electromagnet</term>. </p>

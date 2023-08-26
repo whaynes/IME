@@ -1,9 +1,0 @@
-<p>With alternating current, the electron flow is opposed not only by the resistance but also
-        by an additional factor, the reactance. Reactance is caused by the response of the circuit
-        to the cyclic fluctuations of the alternating current and voltage, and may be further
-        categorized as inductive reactance or capacitive reactance. The sum of the resistance and
-        the reactance is the <term>impedance</term>
-   <m>Z</m>, and has units of ohms. Impedance is defined as: <me>Z= E/I</me>
-</p>
-<p>The magnitude of the impedance depends on factors that include the characteristics of the
-        components in the circuit and the frequency of the current.</p>

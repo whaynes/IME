@@ -1,0 +1,27 @@
+<statement>
+   <p> Which of the following conditions must be carried out before the superheating of
+          saturated steam can occur in a boiler?</p>
+</statement>
+<choices>
+   <choice>
+      <statement>
+         <p>The firing rate of the boiler must be increased.</p>
+      </statement>
+   </choice>
+   <choice>
+      <statement>
+         <p>The flow of feedwater to the boiler must be increased.</p>
+      </statement>
+   </choice>
+   <choice correct="yes">
+      <statement>
+         <p> The steam must be removed from contact with the water from which it was
+              generated.</p>
+      </statement>
+   </choice>
+   <choice>
+      <statement>
+         <p>The boiler pressure must be raised.</p>
+      </statement>
+   </choice>
+</choices>

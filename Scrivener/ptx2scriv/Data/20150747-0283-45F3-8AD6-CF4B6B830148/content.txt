@@ -1,0 +1,25 @@
+<statement>
+   <p> Steam supplied to the main propulsion turbines is ______.</p>
+</statement>
+<choices>
+   <choice correct="yes">
+      <statement>
+         <p>saturated steam</p>
+      </statement>
+   </choice>
+   <choice>
+      <statement>
+         <p>superheated steam</p>
+      </statement>
+   </choice>
+   <choice>
+      <statement>
+         <p>desuperheated steam</p>
+      </statement>
+   </choice>
+   <choice>
+      <statement>
+         <p>wet steam</p>
+      </statement>
+   </choice>
+</choices>

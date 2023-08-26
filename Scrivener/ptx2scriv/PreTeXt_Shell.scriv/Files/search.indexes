@@ -1,45 +1,104 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SearchIndexes Version="1.0">
     <Documents>
-        <Document ID="444E452B-5E60-452C-93DF-89A7234524BE">
-            <Title>Field and excitation</Title>
-            <Text>In most generators the magnet that provides the field is an electromagnet, comprised of a   steel core wound with coils of wire that form the &lt;term&gt;field windings&lt;/term&gt;, as in &lt;xref ref="fig_24_12_png"/&gt;. The &lt;term&gt;field&lt;/term&gt; is energized by the &lt;term&gt;excitation     current&lt;/term&gt; that flows through these field windings. To maintain the polarity of the   field, the excitation must be direct current. &lt;xref ref="fig_24_12_png"/&gt; shows how copper     &lt;term&gt;slip rings&lt;/term&gt; mounted on the rotor are used with stationary carbon     &lt;term&gt;brushes&lt;/term&gt; to provide the electrical connection from the excitation source to   the field windings. The brushes are pressed against the slip rings by springs, and are   replaced as they wear.
-&lt;figure xml:id="fig_24_12_png"&gt;
-   &lt;caption&gt;Rotating field for two-pole alternator, showing slip rings&lt;/caption&gt;
-   &lt;image source="pics/sname/24-12.png" width="75%"/&gt;
-&lt;/figure&gt;
-Most generators are &lt;term&gt;self-excited&lt;/term&gt;, meaning that the excitation current is   derived from the power produced by the generator. Starting of a self-excited generator makes   use of the residual permanent magnetism of the field core. Once the generator starts   rotating, the residual permanent magnetism induces current to begin to excite the field   coils, and the resulting magnetic flux builds up to the desired level.
+        <Document ID="4E195AE0-BC0F-4DD8-8529-8CAB0B4E6E18">
+            <Title>Recovered File-28</Title>
+            <Text>The thermal energy added to the working fluid in the generation stage is converted to
+        mechanical energy, or work, in the expansion stage. This work is produced in the form of a
+        rotating turbine shaft which drives the propeller and moves the ship through the water. The
+        more energy we can remove at this stage, the higher the efficiency of the steam cycle.
+        Unfortunately, it is not possible to remove all the energy from the steam in the turbine.
+        Some energy remains in the steam and is carried to the next stage of the cycle. 
+A &lt;em&gt;turbine&lt;/em&gt; is the device used to accomplish the energy transformation in the
+        expansion stage. Like a pinwheel or a fan, a turbine has a freely rotating shaft with many
+        carefully designed &lt;em&gt;turbine blades&lt;/em&gt; attached. However, unlike a fan, the turbine
+        rotor is completely enclosed in a casing which also contains &lt;em&gt;nozzles&lt;/em&gt; and
+          &lt;em&gt;stationary blades&lt;/em&gt; designed to direct the steam towards the rotating blades. 
+High-pressure, high-temperature steam passes through the nozzle, which has a very small
+        opening, and it emerges with a high velocity. The thermal energy of the steam is converted
+        into mechanical kinetic energy in the nozzle. This high velocity steam jet hits the blades
+        and imparts a turning torque to the rotor shaft and converts its kinetic energy to
+        rotational kinetic energy of the shaft. Most turbines have several rows of blades, forming
+        multiple stages to extract the maximum energy from the steam. As the steam gives up its
+        thermal energy, its temperature and pressure both drop. The steam leaves the turbine at a
+        low temperature and low pressure. 
+High steam pressure at the inlet to the turbine is important for energy conversion, but it
+        is equally important to have a low pressure at the turbine outlet. Steam, or any fluid for
+        that matter, will only flow from high pressure to lower pressure. Without a pressure drop
+        across the blades of the turbine, there would be no steam flow, and no energy conversion. To
+        maximize the energy conversion, we must also maximize the pressure drop across the turbine.
+      
 </Text>
         </Document>
-        <Document ID="8E0F9B59-16F3-4670-A3A0-F8BF699C3E46">
-            <Title>Electric components and instruments</Title>
-            <Text>A short list of electric components and instruments most likely to be of interest to marine engineers appears in this section.
-
-   &lt;term&gt;Voltmeters&lt;/term&gt; are used to measure the strength of the electromotive force or potential between two points. 
-At the heart of a voltmeter is a pivoted movement, surrounded by a coil. The movement is attached to the pointer, and turns in response to the magnetic field produced by the small current that flows in the coil when a voltage is applied across the meter terminals. Voltmeters are connected in parallel to the component for which the voltage drop is desired as shown in &lt;xref ref="fig_24_6_png"/&gt;. Voltmeters must have high ·internal resistance so that the current they draw is negligible. In low-voltage electronic circuits, ordinary voltmeters may draw too much current to permit their use.
-&lt;figure xml:id="fig_24_6_png"&gt;
-   &lt;caption&gt;Voltmeter&lt;/caption&gt;
-   &lt;image source="pics/sname/24-6.png" width="50%"/&gt;
-&lt;/figure&gt;
-
-   &lt;term&gt;Voltage testers&lt;/term&gt; are used where it is necessary to know only whether there is full voltage or no voltage.
-
-   &lt;term&gt;Ammeters&lt;/term&gt; are used to measure current. The basic movement of an ammeter is similar to that of a voltmeter, but the coil of the meter is wired in parallel with a low-resistance resistor called a shunt. The movement then responds to the voltage drop associated with a particular current in the shunt. The scale is graduated in appropriate units such as milliamperes (1 ma is one-thousandth of an amp) or amps, depending on the shunt. Ammeters are connected in a series with the conductor in which the current flow is to be measured. A basic ammeter with its integral shunt is shown in &lt;xref ref="fig_24_7_png"/&gt;.
-&lt;figure xml:id="fig_24_7_png"&gt;
-   &lt;caption&gt;Ammeteter&lt;/caption&gt;
-   &lt;image source="pics/sname/24-7.png" width="50%"/&gt;
-&lt;/figure&gt;
-
-   &lt;term&gt;Clamp-on ammeters&lt;/term&gt; are hand-held instruments used with AC circuits. A plier-like pick-up coil is closed around the conductor in which current is to be measured, and the movement responds to current induced in the pick-up coil by the changing magnetic field in the conductor.
-
-   &lt;term&gt;Ohmmeters&lt;/term&gt; are used to measure resistance. An ohmmeter consists of a simple meter movement connected in series with a battery. When the ohmmeter is connected in series with the component or circuit to be tested, the battery, which acts as a constant-voltage source, supplies current to develop a voltage drop across the test device. The movement is calibrated to read in ohms. Ohmmeters must never be used on energized circuits.
-A &lt;term&gt;megger&lt;/term&gt; is a special ohmmeter used for testing electric insulation. The voltage source is a hand-cranked DC generator. Meggers are used only when equipment is secured and isolated from the power source. After connection to the selected insulated component, the high voltage from the generator is applied momentarily, while the meter measures the current flow through the insulation. Meggers are calibrated in megohms.
-A &lt;term&gt;multimeter&lt;/term&gt; is an instrument containing one movement that can be connected by a selector switch to a variety of shunts to serve as an ammeter, or to special resistors to serve as a voltmeter, or to a small dry cell battery for use as an oh meter.
-
-   &lt;term&gt;Wattmeters&lt;/term&gt; are used to measure electric power. Since electric power is the product of current and voltage, a wattmeter will have four connections, two for measuring current and two for measuring voltage.
-Clamp-on wattmeters are similar to clamp-on ammeters in having a plier-like pick-up coil to measure current, but they also have two or three leads for connection to the power leads, in order to simultaneously measure voltage.
-
-   &lt;term&gt;Watt-hour meters&lt;/term&gt; are used to measure the amount of energy consumed over time. Watt-hour meters must not only measure power (current and voltage) but must also have device for measuring the time interval involved.
+        <Document ID="FB4FE695-7815-4911-832D-DFE3105956B3">
+            <Title>Recovered File-10</Title>
+            <Text>&lt;statement&gt;
+   Which of the following conditions must be carried out before the superheating of
+          saturated steam can occur in a boiler?
+&lt;/statement&gt;
+&lt;choices&gt;
+   &lt;choice&gt;
+      &lt;statement&gt;
+         The firing rate of the boiler must be increased.
+      &lt;/statement&gt;
+   &lt;/choice&gt;
+   &lt;choice&gt;
+      &lt;statement&gt;
+         The flow of feedwater to the boiler must be increased.
+      &lt;/statement&gt;
+   &lt;/choice&gt;
+   &lt;choice correct="yes"&gt;
+      &lt;statement&gt;
+         The steam must be removed from contact with the water from which it was
+              generated.
+      &lt;/statement&gt;
+   &lt;/choice&gt;
+   &lt;choice&gt;
+      &lt;statement&gt;
+         The boiler pressure must be raised.
+      &lt;/statement&gt;
+   &lt;/choice&gt;
+&lt;/choices&gt;
+</Text>
+        </Document>
+        <Document ID="C3F33954-00D8-4B1E-B432-DDFAEC40B9DF">
+            <Title>Recovered File-6</Title>
+            <Text>&lt;statement&gt;
+   The DC heater functions to ______.
+&lt;/statement&gt;
+&lt;choices&gt;
+   &lt;choice&gt;
+      &lt;statement&gt;
+         remove air from feedwater
+      &lt;/statement&gt;
+   &lt;/choice&gt;
+   &lt;choice&gt;
+      &lt;statement&gt;
+         heat feedwater
+      &lt;/statement&gt;
+   &lt;/choice&gt;
+   &lt;choice&gt;
+      &lt;statement&gt;
+         store feedwater
+      &lt;/statement&gt;
+   &lt;/choice&gt;
+   &lt;choice correct="yes"&gt;
+      &lt;statement&gt;
+         all of the above
+      &lt;/statement&gt;
+   &lt;/choice&gt;
+&lt;/choices&gt;
+</Text>
+        </Document>
+        <Document ID="03A0811A-75A1-4EA2-A630-70ADE7A7A250">
+            <Title>Strainer</Title>
+            <Text>A steam strainer is located in the steam line upstream of the main engine to prevent   objects other than steam from entering the turbines, since solid objects impacting the   turbine blades would quickly destroy them. Steam lines would normally be expected to be   quite clean, but a strainer is cheap insurance against nuts, tools, and gloves left in the   lines by shipyard workers, or rust flakes formed during a layup period. Unfortunately, water   droplets due to wet steam or carryover will pass through the steam strainer.
+</Text>
+        </Document>
+        <Document ID="E7A7382B-BEEE-41ED-B6ED-DED8007CFB38">
+            <Title>Dry Pipe</Title>
+            <Text>The dry pipe is located inside the steam drum, near the top. In its simplest form the dry   pipe is simply a pipe with holes drilled into the top portion. Steam enters the dry pipe   before it leaves the boiler.
+The dry pipe is designed to allow steam to enter, but to exclude water droplets and   moisture. Moisture in the steam, known as &lt;em&gt;carryover&lt;/em&gt; is bad, because high velocity   water droplets in the steam would cause damage to the blades and thrust bearings in the   turbine. Improper operation of the boiler, for instance letting the steam drum water level   get too high, could cause carryover.
 </Text>
         </Document>
         <Document ID="68F9DB8A-73A7-4E9C-9336-36748787D6CB">
@@ -59,312 +118,1095 @@ no style
 raw pix
 </Text>
         </Document>
-        <Document ID="0591F261-975B-4A23-AE05-60FB3410F354">
-            <Title>Single-phase motors</Title>
-            <Text>Although most large motors aboard ship are supplied with three-phase power, smaller motors,   such as those driving appliances, must operate from single-phase circuits.     &lt;term&gt;Single-phase motors&lt;/term&gt; are most often arranged with two sets of stator windings,   with the second set supplied from the line connections through a &lt;term&gt;capacitor&lt;/term&gt;. The   capacitor imposes a phase shift on the line current reaching these windings, to make it look   like two-phase AC current. The stator is thus able to develop a rotating magnetic field to   drive a rotor.
+        <Document ID="AFF747D4-701F-48D3-B02A-E6D6BC38C404">
+            <Title>Recovered File-15</Title>
+            <Text>The simplified steam cycle uses a single turbine to extract power from the steam, but most
+        ships use two turbines to do the same job. Two shorter turbine shafts are more advantageous
+        than one large shaft for several reasons, including reduced manufacturing cost and increased
+        flexibility in the arrangement of machinery in the engine room. 
+The first of these two turbines is known as the &lt;em&gt;high pressure turbine&lt;/em&gt; (H.P.) and
+        the second is the &lt;em&gt;low pressure turbine&lt;/em&gt; (L.P.). A steam line, called the
+          &lt;em&gt;crossover&lt;/em&gt; carries steam from the outlet of the H.P. turbine to the inlet of the
+        L.P. turbine. At normal operating speeds, the steam leaving the H.P. turbine and entering
+        the crossover is at a pressure below atmospheric. 
+The H.P. and L.P. turbines together are known as the &lt;em&gt;Main Engine&lt;/em&gt;. 
 </Text>
         </Document>
-        <Document ID="D015F1A7-D91C-459F-8E61-8322C4357E6F">
-            <Title>Motor starters</Title>
-            <Text>AC motor starters are of two general types, across-the-line starters and reduced-voltage   starters.
-Across-the-line starters are commonly used for small and medium-power AC motors where the   line capacity is sufficient to prevent objectionable voltage drops upon starting, and where   the driven loads allow the motor to accelerate quickly. As the name implies, this type of   starter simply closes the necessary contacts to apply full line voltage to the motor   terminals. &lt;xref ref="fig_24_19_png"/&gt; depicts a simple across-the-line starter. When the   run button is depressed the magnetic-hold solenoid is energized to close the L_1,     L_2, and L_3 contacts, sending current to the motor. 
-&lt;figure xml:id="fig_24_19_png"&gt;
-   &lt;caption&gt;Across-the-line starter&lt;/caption&gt;
-   &lt;image source="pics/sname/24-19.png" width="75%"/&gt;
-&lt;/figure&gt;
-Reduced-voltage starters are used for larger motors or where the supply lines are not large   enough to handle the full starting current. Reduced-voltage AC starters use   auto-transformers with one or more taps to obtain the necessary reduced voltage. A simple   reduced-voltage starter is shown in &lt;xref ref="fig_24_20_png"/&gt;. Depressing the start button   initially supplies current to the motor at reduced voltage, but also starts a timer. As the   motor accelerates, the timer bypasses the autotransformer to apply full line voltage to the   motor terminals.
-&lt;figure xml:id="fig_24_20_png"&gt;
-   &lt;caption&gt;Reduced-voltage starter&lt;/caption&gt;
-   &lt;image source="pics/sname/24-20.png" width="80%"/&gt;
-&lt;/figure&gt;
-The simple starters shown in these figures include overload trips, but do not include other   protective devices that are normal features of actual starters.
-DC motor starters use resistors to limit the initial starting current. As the motor   accelerates the resistors are automatically removed from the circuit.
+        <Document ID="02E1B542-C4BA-44FC-BD00-A5ED04B8B1E8">
+            <Title>Feed Valves</Title>
+            <Text>Three valves are found in the feed line before the boiler.
+The &lt;em&gt;feed check valve&lt;/em&gt; comes first. It is a stop-check valve which is normally left   open, but which can be used to regulate the feed water flow to the boiler if necessary. The   feed check valve is always fitted with a reach rod or other means to permit it to be   manually operated from the boiler control station.
+The feed check is followed by the &lt;em&gt;feed water regulator&lt;/em&gt; which is a pneumatically   actuated regulating valve that responds to changes in boiler drum level and steam demand to   automatically control the flow of feedwater into the steam drum in order to maintain a   constant level half-way up the steam drum.
+The final valve of the set is the &lt;em&gt;feed stop valve&lt;/em&gt;. This valve is provided to   permit the feed system to be secured at the boiler when necessary.
 </Text>
         </Document>
-        <Document ID="D2CB403D-5DFC-42AB-9BF3-36AB09C0D428">
+        <Document ID="58EB86BA-B954-45D1-ADDE-2B9FC337445F">
+            <Title>LP Turbine</Title>
+            <Text>The L.P. turbine follows the H.P. turbine and continues to extract energy from the steam.   The steam enters at a low pressure (a vacuum actually, at low loads) and exits at an even   lower pressure into the main condenser. The specific volume of steam at these low pressures   is large, which means that the turbine blades and the L.P. turbine itself are also large.   When looking at the two turbines, it is always easy to identify the L.P. turbine because of   its size; eight to ten feet in diameter is not unusual.
+Steam leaves the L.P. turbine as saturated steam, so you can determine the steam   temperature by looking up the saturation temperature for the condenser pressure in the steam   tables. For example, if the condenser pressure is 28.9 in Hg vacuum, this corresponds to an   absolute pressure of 0.5 psia, and this has a saturation temperature of about 80 °F. Are you   surprised? Steam isn’t always hot… it depends on the pressure.
+The forward end of the L.P. Turbine rotor contains the &lt;em&gt;Astern Elements&lt;/em&gt;. These are   two or three rows of blades designed to rotate the shaft in the astern direction. Since   there are so few rows of astern blades, the power the turbine is capable of producing in the   astern direction is limited.
+</Text>
+        </Document>
+        <Document ID="5724766C-9086-43F3-913D-A7B7BC3719A1">
+            <Title>Recovered File-17</Title>
+            <Text>As stated previously, a large pressure drop across the turbine is required to get maximum
+        energy extraction from the steam. The boiler supplies the high pressure at the inlet to the
+        turbine, it is the job of the condenser to create a low pressure condition at the turbine
+        outlet. 
+The condenser is a shell-and-tube heat exchanger cooled by seawater. It consists of a
+        large, rectangular or cylindrical sealed shell containing thousands of tubes. A circulating
+        pump forces cold seawater in at one end, through the tubes, and it exits overboard at the
+        other end. Steam exiting from the turbine enters the condenser at the top, condenses on the
+        tube surfaces and drains out the bottom. That is, the steam gives up its latent heat of
+        condensation to the seawater, and returns to the liquid water state. Once the steam passes
+        across the condenser tubes, it is no longer steam. It has condensed to liquid water, and
+        from this point in the cycle is referred to as &lt;em&gt;condensate&lt;/em&gt;. Condensate leaves the
+        condenser as a low temperature, low pressure liquid. 
+Because the condensation is occurring at approximately the temperature of the seawater,
+        the pressure in the condenser will be approximately equal to the saturation pressure of
+        steam at this temperature, assuming that no air or other gases are present. For example, if
+        the seawater temperature is 80 °F, the corresponding saturation pressure would be 0.5073
+        psia. This is a very high vacuum, and the greater the vacuum, the better the plant
+        efficiency. 
+The latent heat removed from the steam by the seawater raises the temperature and
+        increases the energy contained by the seawater, and this cooling water is discharged
+        overboard. 
+It is unfortunate that some of the energy once contained by the fuel, and then passed on
+        to the steam in the boiler, is eventually thrown away with the seawater. Wouldn’t it be
+        better to somehow use this energy to power the ship? Absolutely, but there is nothing we can
+        do about it! The only way to extract more energy from the steam is by having the turbine
+        discharge to an even lower absolute pressure than we do. The only way to do that is to
+        condense the steam at even lower temperatures than we are. But we can’t do that, because
+        aboard ship there’s nothing colder than the surrounding ocean available to reject the heat
+        to. If we decided not to reject any heat to the ocean at all, the pressure in the condenser
+        would build up to the point where it would equal the steam pressure entering the turbine,
+        and without a pressure drop, the steam would stop flowing altogether. There’s no win, but
+        we’re doing the best we can. 
+</Text>
+        </Document>
+        <Document ID="2A0F773D-8772-47B4-B78A-836983F627A8">
+            <Title>Recovered File-9</Title>
+            <Text>&lt;statement&gt;
+   Which of the devices listed is used to convert thermal energy to useful mechanical
+          work?
+&lt;/statement&gt;
+&lt;choices&gt;
+   &lt;choice correct="yes"&gt;
+      &lt;statement&gt;
+         Turbine
+      &lt;/statement&gt;
+   &lt;/choice&gt;
+   &lt;choice&gt;
+      &lt;statement&gt;
+         Condenser
+      &lt;/statement&gt;
+   &lt;/choice&gt;
+   &lt;choice&gt;
+      &lt;statement&gt;
+         Air ejector
+      &lt;/statement&gt;
+   &lt;/choice&gt;
+   &lt;choice&gt;
+      &lt;statement&gt;
+         Each of the above
+      &lt;/statement&gt;
+   &lt;/choice&gt;
+&lt;/choices&gt;
+</Text>
+        </Document>
+        <Document ID="C287A0F4-3360-4AEF-9361-7357DE57EFE7">
             <Title>introduction</Title>
-            <Text>An electric motor has a role opposite to that of a generator, in that a motor draws   electric power and converts it to mechanical power. Most shipboard motors are AC, because   they are smaller and less costly than DC motors of similar power output. DC motors are used   only rarely on modern ships. &lt;term&gt;Universal motors&lt;/term&gt; operate on either AC or DC.
+            <Text>There are two main methods used for propulsion of merchant ships today: steam turbines and diesel engines. Sail and steam reciprocating engines are long obsolete, and nuclear power, while used for some naval vessels, has been found to be impractical for merchant ships. Recently a few ships have been built with gas turbine propulsion, but it is not yet common.
+Over the last 40 years, diesel propulsion has displaced steam propulsion as the dominant method of merchant ship propulsion, mainly because it has higher fuel efficiency, but also because it is easier to automate, requires less maintenance, and can be operated with smaller crews – all factors leading to operating cost reductions. Nevertheless, steam propulsion remains important, if for no other reason than it is the method we use aboard our training ship &lt;em&gt;Kennedy&lt;/em&gt;. Also, steam power is used extensively in industry and power generation ashore, and the skills developed by a steam engineer aboard ship find high demand in the shoreside job market.
+In this chapter we will discuss steam propulsion and the steam cycle. The steam cycle is the thermodynamic process which marine engineers use to transform the energy contained in the ship’s fuel oil or &lt;em&gt;bunkers&lt;/em&gt; into the power to turn the ship’s propeller and supply all the other requirements necessary to move a steam ship from one point to another. We will begin with a discussion of a very simplified version of the steam cycle, which nevertheless illustrates all the important principles of its operation. Later, we will progress to a more detailed, practical, and efficient version of the cycle, which more closely represents the cycle used on other steam ships. The function of each of the components of the cycle will be briefly described here, and in more detail in later chapters. This cycle described here is not the only possibility, but it is representative, and it provides a good foundation for further study.
 </Text>
         </Document>
-        <Document ID="2CE644E7-8A88-4E55-BB64-60F6684ABD75">
-            <Title>Direct current vs. alternating current</Title>
-            <Text>Electricity may be supplied as either &lt;term&gt;direct current&lt;/term&gt; (DC) or &lt;term&gt;alternating     current&lt;/term&gt; (AC). DC flows in only one direction in the conductor because the potential   always acts in the same direction. Current originating from a battery in a flashlight and   flowing to the bulb is an example of DC. The current flows from the positive terminal of the   battery, through a circuit consisting of the switch, the bulb, and the conductors, to the   negative terminal of the battery. Only the &lt;term&gt;resistance&lt;/term&gt; (to electron flow) of the   circuit limits the current. 
-With alternating current the driving potential (or voltage) continually reverses direction,   forcing the current in the circuit to continually reverse direction as well. The voltage   takes the form of a sine wave as shown in &lt;xref ref="fig_24_1_png"/&gt;, rising first to a   positive peak value as shown, then falling through zero to an equal negative peak value. As   a result, the current first flows in one direction, peaks, slows, stops, reverses direction,   increases to an equal peak value in the other direction, slows, stops, and resumes its flow   in the original direction. In the United States the standard generating systems produce   alternating current that reverses with a &lt;term&gt;frequency&lt;/term&gt; of 60 cycles per second   (cps), commonly referred to as 60 &lt;term&gt;cycles&lt;/term&gt; or 60 &lt;term&gt;Hertz&lt;/term&gt; (Hz). In   Europe and Japan, the standard is 50 Hz.
+        <Document ID="E6605589-790E-4316-A3E1-9784007B32A1">
+            <Title>Generation</Title>
+            <Text>Steam generation occurs in the boiler. The boiler is simply a device used to boil water.   Like a tea-kettle on the stove, it contains liquid water and a heat source. As the water is   heated, its temperature rises and soon it begins to boil. On the stove, the water vapor or   steam rises and dissipates into the kitchen, but not so in a boiler. The boiler is a closed   vessel, like a pot with a lid, and any steam generated in the boiler rises to the top and is   collected before being sent on to the next step of the cycle.
+In the generation stage, the chemical energy stored in the ship’s fuel is released when   the fuel is burned in the boiler furnace, and some of this energy is transferred to the   working fluid – the water. The water gains energy, and we can detect this in two ways: the   water’s temperature goes up, and the water changes &lt;em&gt;state&lt;/em&gt; from a liquid into water   vapor, which we call steam. Steam leaves the boiler at high pressure and high temperature.
+As we will learn in &lt;xref ref="thermodynamics"/&gt;, heat energy which raises the temperature   of a substance such as water or steam is sometimes called &lt;em&gt;sensible heat&lt;/em&gt; while the   heat energy that actually boils the substance is called &lt;em&gt;latent heat&lt;/em&gt;.
+You probably remember that water boils at 212 °F at standard atmospheric pressure (14.7   psia). If you put a thermometer into a pan of water boiling on the stove, this is what it   will read. Even if you turn the flame up to add more heat energy, you won’t be able to make   the water temperature rise above 212 °F. This is because you are adding latent heat, which   is not reflected by an increase in the water’s temperature. All of the heat energy is being   used to turn the liquid water into a vapor.
+The boiling or condensing temperature of a liquid is known as its &lt;em&gt;saturation&lt;/em&gt;   temperature. The saturation temperature for a particular liquid is determined by its   pressure, and cannot be changed. For example, 212 °F is the saturation temperature for water   at atmospheric pressure, and there is nothing anybody can do to change it.
+In order to reach high steam temperatures, which is necessary for high steam cycle   efficiency, the boiler must be operated at a pressure far above atmospheric pressure. A   typical marine boiler operates at about 600 psi while some have operated as high as 1200   psi, although this introduces additional maintenance difficulties. Shoreside steam power   plants operate at 3000 psi or even higher.
+Steam temperature is raised even further by superheating the steam. Superheating steam   raises its temperature above the saturation temperature for the corresponding steam pressure   by continuing to add heat to the steam after it has completely vaporized. This must take   place in a separate area, called the &lt;em&gt;superheater,&lt;/em&gt; away from liquid water, or the   additional heat would simply boil more water rather than superheating the steam. Superheated   steam is said to be &lt;em&gt;dry&lt;/em&gt;, which means that all liquid water has vaporized and it   contains no moisture droplets. Drops of liquid water would damage the turbine in the   expansion step described below.
+Improving efficiency is a major concern of mechanical and marine engineers. High   efficiency means that fuel is not wasted, and operating costs are minimized. Practical   boiler designs incorporate many techniques to maximize efficiency. For example, not all of   the chemical energy originally contained by the fuel ends up transferred to the steam. A   large portion of this energy is lost up the smokestack, carried away by the combustion   gases. Practical boilers usually contain some sort of heat exchanger in the smokestack in an   effort to recover some of this energy.
 </Text>
         </Document>
-        <Document ID="59D63E84-C126-4B1B-9D2F-9068AE86B61C">
+        <Document ID="8B9040DB-C22D-4423-9315-5F0A10C73A73">
+            <Title>exercise</Title>
+            <Text>&lt;statement&gt; Which statement listed represents a vital function of the main condenser?
+&lt;/statement&gt;
+&lt;choices&gt; &lt;choice correct="yes"&gt; &lt;statement&gt;    The recovery of feedwater for reuse. &lt;/statement&gt; &lt;/choice&gt; &lt;choice&gt; &lt;statement&gt;    Cooling of the exhaust steam from the auxiliary exhaust system before it enters the         deaerating feed tank. &lt;/statement&gt; &lt;/choice&gt; &lt;choice&gt; &lt;statement&gt;    Storage of feedwater for immediate use in the boilers. &lt;/statement&gt; &lt;/choice&gt; &lt;choice&gt; &lt;statement&gt;    Condensing of the exhaust steam from the main feed turbine pumps. &lt;/statement&gt; &lt;/choice&gt;
+&lt;/choices&gt;
+</Text>
+        </Document>
+        <Document ID="24EF0505-DBE3-4A81-AD04-44320B1C90FE">
+            <Title>Condensation</Title>
+            <Text>As stated previously, a large pressure drop across the turbine is required to get maximum   energy extraction from the steam. The boiler supplies the high pressure at the inlet to the   turbine, it is the job of the condenser to create a low pressure condition at the turbine   outlet.
+The condenser is a shell-and-tube heat exchanger cooled by seawater. It consists of a   large, rectangular or cylindrical sealed shell containing thousands of tubes. A circulating   pump forces cold seawater in at one end, through the tubes, and it exits overboard at the   other end. Steam exiting from the turbine enters the condenser at the top, condenses on the   tube surfaces and drains out the bottom. That is, the steam gives up its latent heat of   condensation to the seawater, and returns to the liquid water state. Once the steam passes   across the condenser tubes, it is no longer steam. It has condensed to liquid water, and   from this point in the cycle is referred to as &lt;em&gt;condensate&lt;/em&gt;. Condensate leaves the   condenser as a low temperature, low pressure liquid.
+Because the condensation is occurring at approximately the temperature of the seawater,   the pressure in the condenser will be approximately equal to the saturation pressure of   steam at this temperature, assuming that no air or other gases are present. For example, if   the seawater temperature is 80 °F, the corresponding saturation pressure would be 0.5073   psia. This is a very high vacuum, and the greater the vacuum, the better the plant   efficiency.
+The latent heat removed from the steam by the seawater raises the temperature and   increases the energy contained by the seawater, and this cooling water is discharged   overboard.
+It is unfortunate that some of the energy once contained by the fuel, and then passed on   to the steam in the boiler, is eventually thrown away with the seawater. Wouldn’t it be   better to somehow use this energy to power the ship? Absolutely, but there is nothing we can   do about it! The only way to extract more energy from the steam is by having the turbine   discharge to an even lower absolute pressure than we do. The only way to do that is to   condense the steam at even lower temperatures than we are. But we can’t do that, because   aboard ship there’s nothing colder than the surrounding ocean available to reject the heat   to. If we decided not to reject any heat to the ocean at all, the pressure in the condenser   would build up to the point where it would equal the steam pressure entering the turbine,   and without a pressure drop, the steam would stop flowing altogether. There’s no win, but   we’re doing the best we can.
+</Text>
+        </Document>
+        <Document ID="BA21F656-42BE-4249-BA5A-DC7330970E51">
+            <Title>HP Turbine</Title>
+            <Text>The simplified steam cycle uses a single turbine to extract power from the steam, but most   ships use two turbines to do the same job. Two shorter turbine shafts are more advantageous   than one large shaft for several reasons, including reduced manufacturing cost and increased   flexibility in the arrangement of machinery in the engine room.
+The first of these two turbines is known as the &lt;em&gt;high pressure turbine&lt;/em&gt; (H.P.) and   the second is the &lt;em&gt;low pressure turbine&lt;/em&gt; (L.P.). A steam line, called the     &lt;em&gt;crossover&lt;/em&gt; carries steam from the outlet of the H.P. turbine to the inlet of the   L.P. turbine. At normal operating speeds, the steam leaving the H.P. turbine and entering   the crossover is at a pressure below atmospheric.
+The H.P. and L.P. turbines together are known as the &lt;em&gt;Main Engine&lt;/em&gt;.
+</Text>
+        </Document>
+        <Document ID="8CCE7F29-0C80-41A8-AEF1-DE6AC906497A">
+            <Title>Recovered File-14</Title>
+            <Text>&lt;statement&gt;
+   Serious tube leaks in the air ejector condenser assembly will cause ______.
+&lt;/statement&gt;
+&lt;choices&gt;
+   &lt;choice&gt;
+      &lt;statement&gt;
+         clogged steam strainers
+      &lt;/statement&gt;
+   &lt;/choice&gt;
+   &lt;choice&gt;
+      &lt;statement&gt;
+         fouled nozzles
+      &lt;/statement&gt;
+   &lt;/choice&gt;
+   &lt;choice correct="yes"&gt;
+      &lt;statement&gt;
+         loss of vacuum
+      &lt;/statement&gt;
+   &lt;/choice&gt;
+   &lt;choice&gt;
+      &lt;statement&gt;
+         faulty steam pressure
+      &lt;/statement&gt;
+   &lt;/choice&gt;
+&lt;/choices&gt;
+</Text>
+        </Document>
+        <Document ID="2A7AF820-E989-403D-8CC8-0A8C3CEBB42C">
+            <Title>Recovered File-38</Title>
+            <Text>&lt;statement&gt;
+   After the steam leaves the low pressure turbine, it enters the ______.
+&lt;/statement&gt;
+&lt;choices&gt;
+   &lt;choice correct="yes"&gt;
+      &lt;statement&gt;
+         main condenser
+      &lt;/statement&gt;
+   &lt;/choice&gt;
+   &lt;choice&gt;
+      &lt;statement&gt;
+         feed and filter tank
+      &lt;/statement&gt;
+   &lt;/choice&gt;
+   &lt;choice&gt;
+      &lt;statement&gt;
+         first-stage feedwater heater
+      &lt;/statement&gt;
+   &lt;/choice&gt;
+   &lt;choice&gt;
+      &lt;statement&gt;
+         turbine extraction valve manifold
+      &lt;/statement&gt;
+   &lt;/choice&gt;
+&lt;/choices&gt;
+</Text>
+        </Document>
+        <Document ID="49FECE7E-9B6B-4095-A38C-A658CD0E60DE">
+            <Title>Recovered File-20</Title>
+            <Text>&lt;statement&gt;
+   The main condensate pump in a steam propulsion plant discharges directly to the
+          ______.
+&lt;/statement&gt;
+&lt;choices&gt;
+   &lt;choice correct="yes"&gt;
+      &lt;statement&gt;
+         air ejector intercondenser
+      &lt;/statement&gt;
+   &lt;/choice&gt;
+   &lt;choice&gt;
+      &lt;statement&gt;
+         main condenser hotwell
+      &lt;/statement&gt;
+   &lt;/choice&gt;
+   &lt;choice&gt;
+      &lt;statement&gt;
+         air ejector aftercondenser
+      &lt;/statement&gt;
+   &lt;/choice&gt;
+   &lt;choice&gt;
+      &lt;statement&gt;
+         DC heater vent condenser
+      &lt;/statement&gt;
+   &lt;/choice&gt;
+&lt;/choices&gt;
+</Text>
+        </Document>
+        <Document ID="A05BC5C7-A9D6-4833-8B0B-D209C89F30C8">
+            <Title>Recovered File-33</Title>
+            <Text>Heat energy is added to the cycle by burning fuel oil in the boiler. The high temperature
+        flames raise the temperature of the water in the boiler and eventually cause it to boil. Not
+        all energy of the fuel is transferred to the water, some remains in the combustion gases and
+        travels up the stack. This energy will be lost to the atmosphere unless it is recovered by
+        economizers or air heaters located in the exhaust path. Any heat energy lost to the
+        atmosphere represents waste and steam cycle inefficiency. 
+The boiler is discussed in detail in &lt;xref ref="boilers"/&gt;. 
+</Text>
+        </Document>
+        <Document ID="B6127E04-E213-4711-A695-F66AB2634B32">
+            <Title>Recovered File-8</Title>
+            <Text>Steam collected in the dry pipe is directed to the superheater section of the boiler,
+        where its temperature is raised beyond the saturation temperature to improve the efficiency
+        of the steam cycle. 
+The superheater is a bank of boiler tubes located in the hottest portions of the
+        combustion gas path. Since there is no liquid water in the superheater, all heat added there
+        is sensible heat. It is important to always maintain a flow of steam through the superheater
+        tubes, or else the tubes would quickly overheat and melt. 
+</Text>
+        </Document>
+        <Document ID="7A88814B-DB0C-464A-88AD-0CA7E2B0C729">
+            <Title>Recovered File-5</Title>
+            <Text>&lt;statement&gt;
+   Which statement listed represents a vital function of the main condenser?
+&lt;/statement&gt;
+&lt;choices&gt;
+   &lt;choice correct="yes"&gt;
+      &lt;statement&gt;
+         The recovery of feedwater for reuse.
+      &lt;/statement&gt;
+   &lt;/choice&gt;
+   &lt;choice&gt;
+      &lt;statement&gt;
+         Cooling of the exhaust steam from the auxiliary exhaust system before it enters the
+              deaerating feed tank.
+      &lt;/statement&gt;
+   &lt;/choice&gt;
+   &lt;choice&gt;
+      &lt;statement&gt;
+         Storage of feedwater for immediate use in the boilers.
+      &lt;/statement&gt;
+   &lt;/choice&gt;
+   &lt;choice&gt;
+      &lt;statement&gt;
+         Condensing of the exhaust steam from the main feed turbine pumps.
+      &lt;/statement&gt;
+   &lt;/choice&gt;
+&lt;/choices&gt;
+</Text>
+        </Document>
+        <Document ID="FB5BE4FE-094D-49A0-AD9A-EF5633AD7702">
+            <Title>Gland Exhaust Condenser</Title>
+            <Text>The &lt;em&gt;gland exhaust condenser&lt;/em&gt; typically follows the air ejector condenser. This   unit is used to condense any steam that leaks out of the turbine glands, in order to recover   both the condensate and the heat. This is an example of the way a practical cycle takes   every opportunity to recover &lt;q&gt;free&lt;/q&gt; energy and increase the overall cycle efficiency.
+</Text>
+        </Document>
+        <Document ID="6D48CD21-FC9E-4717-ADB1-A3EEC3D5206D">
+            <Title>Bulkhead stop valve</Title>
+            <Text>According to US Coast Guard regulations, boilers are required to have &lt;em&gt;two valve     protection&lt;/em&gt;, that is, they are required to have two valves in series in all boiler   connections. This insures that at least one valve will be functional when the time comes to   secure the boiler.
+The bulkhead stop valve is located in the main steam line, downstream of the main steam   stop valve, and provides backup protection for it.
+</Text>
+        </Document>
+        <Document ID="A01CA1D7-08AA-4D31-9680-295252D49196">
+            <Title>exercise</Title>
+            <Text>&lt;statement&gt; Serious tube leaks in the air ejector condenser assembly will cause ______.
+&lt;/statement&gt;
+&lt;choices&gt; &lt;choice&gt; &lt;statement&gt;    clogged steam strainers &lt;/statement&gt; &lt;/choice&gt; &lt;choice&gt; &lt;statement&gt;    fouled nozzles &lt;/statement&gt; &lt;/choice&gt; &lt;choice correct="yes"&gt; &lt;statement&gt;    loss of vacuum &lt;/statement&gt; &lt;/choice&gt; &lt;choice&gt; &lt;statement&gt;    faulty steam pressure &lt;/statement&gt; &lt;/choice&gt;
+&lt;/choices&gt;
+</Text>
+        </Document>
+        <Document ID="32C38C97-1ED9-4BB2-9A52-54963B6E8389">
+            <Title>Superheater</Title>
+            <Text>Steam collected in the dry pipe is directed to the superheater section of the boiler,   where its temperature is raised beyond the saturation temperature to improve the efficiency   of the steam cycle.
+The superheater is a bank of boiler tubes located in the hottest portions of the   combustion gas path. Since there is no liquid water in the superheater, all heat added there   is sensible heat. It is important to always maintain a flow of steam through the superheater   tubes, or else the tubes would quickly overheat and melt.
+</Text>
+        </Document>
+        <Document ID="37A117CE-C650-4568-99D2-19FF30497D54">
+            <Title>Main steam stop valve</Title>
+            <Text>No practical boiler could function without valves. Valves permit the operator to control   fluid flow, and to isolate sections of the system for maintenance. There are dozens of   valves used in the main steam cycle but in this discussion we will only mention a few of   them. You may assume that valves are located throughout the system wherever they are   necessary.
+The main steam stop valve is located at the outlet of the superheater, and it is the   primary valve used to connect or isolate the boiler from the remainder of the steam cycle.   Specially designed valves are required for this service, because of the extreme differences   of temperature encountered when cutting-in a boiler. Bypass lines are usually installed here   to assist with warming up the main steam stop valve.
+</Text>
+        </Document>
+        <Document ID="452CCF9E-E601-40C0-9F74-411188A3C7DF">
+            <Title>T-s diagram</Title>
+            <Text>The diagram shown in &lt;xref ref="ts_png"/&gt; is an idealized representation of the Rankine   Cycle used in the study of thermodynamics, and known as a Temperature-entropy diagram. The   heavy dome shaped curve is known as the &lt;em&gt;vapor dome&lt;/em&gt; and points under the curve are   saturated steam, while points to the left of the curve are liquid water and points to the   right of the curve are superheated steam.
+Feedwater enters the boiler at point 1, and is heated by the fuel. Initially, the   water temperature rises, until it reaches the saturation temperature for the boiler   pressure, point 1_f, where the water begins to boil. Additional heat added at this   point does not raise the temperature any further until all the liquid water is completely   vaporized, point 1_g. The heat added between 1_f and 1_g is the     &lt;em&gt;Latent Heat of Vaporization&lt;/em&gt;. After the steam has reached point 1_g, any   additional heat added causes the temperature to rise again, and the steam becomes   superheated.
+&lt;figure xml:id="ts_png"&gt; &lt;caption&gt;Temperature - Entropy Diagram&lt;/caption&gt; &lt;image source="pics/steamcycle/ts.png" width="50%"/&gt;
+&lt;/figure&gt;
+Superheated steam leaves the boiler at point 2 and enters the turbine. During the   expansion process, the steam pressure and temperature both drop as energy is extracted from   the steam. Steam leaves the turbine and enters the condenser at point 3, which is   saturated or wet steam.
+In the condenser, heat is removed from the steam and it returns to the liquid state at   point 4. The feed pump raises the water pressure back up to the boiler pressure and   the cycle begins again at point 1. The feed pump causes a small temperature rise in   the feedwater as well as a pressure increase.
+The area under the curve from 1 to 2 represents the heat energy added in the   boiler and the area under the curve from 3 to 4 represents the heat rejected   to the ocean. The area inside the curve represents the net work done by the cycle.
+</Text>
+        </Document>
+        <Document ID="7F234566-35CD-4B77-B3E3-7D9C225E5C04">
+            <Title>Recovered File-2</Title>
+            <Text>The dry pipe is located inside the steam drum, near the top. In its simplest form the dry
+        pipe is simply a pipe with holes drilled into the top portion. Steam enters the dry pipe
+        before it leaves the boiler. 
+The dry pipe is designed to allow steam to enter, but to exclude water droplets and
+        moisture. Moisture in the steam, known as &lt;em&gt;carryover&lt;/em&gt; is bad, because high velocity
+        water droplets in the steam would cause damage to the blades and thrust bearings in the
+        turbine. Improper operation of the boiler, for instance letting the steam drum water level
+        get too high, could cause carryover. 
+</Text>
+        </Document>
+        <Document ID="64F99BF6-19EF-4CA4-B893-DC51135A981A">
             <Title>introduction</Title>
-            <Text>This chapter is adapted from &lt;pubtitle&gt;Introduction to Practical Marine   Engineering&lt;/pubtitle&gt;, SNAME 2005.
-</Text>
-        </Document>
-        <Document ID="AC9504DD-27DB-4FFB-9695-BE22339A6754">
-            <Title>Transformers</Title>
-            <Text>An advantage of AC power is that &lt;term&gt;transformers&lt;/term&gt; can be used to easily and efficiently change the magnitude of the voltage to best meet requirements. Transformers are simple, have no moving components, and are easily maintained.
-Transformers convert AC power from one voltage to another by taking advantage of the varying magnetic field developed by an AC current and the fact that this fluctuating magnetic field can induce a voltage in a second conductor. Simple transformers consist of a &lt;term&gt;primary   winding&lt;/term&gt; wound around a laminated-steel core, which is also wound with a second winding, the &lt;term&gt;secondary winding&lt;/term&gt;. Typically the core and windings are arranged as shown in &lt;xref ref="fig_24_17_png"/&gt;. If the secondary winding has more coils or   &lt;term&gt;turns&lt;/term&gt; than the primary winding, the secondary voltage will be higher than the primary voltage and the transformer is referred to as a &lt;term&gt;step-up&lt;/term&gt; transformer. Conversely, if the secondary winding has fewer turns than the primary winding the secondary voltage will be less than the primary voltage, and the transformer is a &lt;term&gt;step-down&lt;/term&gt; transformer. The relationships between transformer voltages and currents are as follows, where   n is the number of turns in each winding: &lt;md&gt; &lt;mrow&gt;V_1 n_2 \amp= V_2 n_1&lt;/mrow&gt; &lt;mrow&gt;I_1 n_1 \amp = I_2 n_2&lt;/mrow&gt;
-   &lt;/md&gt;
+            <Text> &lt;xref ref="simplified_png"/&gt; shows a very simplified version of the steam cycle, which is an   appropriate starting point for our discussion of ship’s propulsion.
+The steam cycle is an example of what is known by engineers as a &lt;em&gt;cyclic heat     engine&lt;/em&gt;. It is called cyclic, because it operates on a cycle. It uses a &lt;em&gt;working     fluid&lt;/em&gt;, water, which travels from point to point through the cycle, changing form and   carrying energy, but eventually returning to the starting point restored to the same     &lt;em&gt;state&lt;/em&gt; that it started with. It is called a heat engine, because it transforms     &lt;em&gt;heat&lt;/em&gt;, which is a form of energy, into &lt;em&gt;work&lt;/em&gt;, another form of energy. The   thermodynamic name for this cycle is the &lt;em&gt;Rankine Cycle.&lt;/em&gt;
 
-&lt;figure xml:id="fig_24_17_png"&gt;
-   &lt;caption&gt;Transformer&lt;/caption&gt;
-   &lt;image source="pics/sname/24-17.png" width="85%"/&gt;
-&lt;/figure&gt;
-Transformer cores are made of steel laminates which are electrically insulated from each other in order to reduce &lt;term&gt;hysteresis&lt;/term&gt; losses in the magnetic core. Overall transformer efficiencies are very high, 98 to 99%.
-Auto-transformers have a core with only one winding, arranged with one or more   &lt;term&gt;taps&lt;/term&gt;, as shown in &lt;xref ref="fig_24_18_png"/&gt;. The taps are used to take off secondary voltages of lower magnitude than the full secondary voltage. The magnitude of the tapped voltage is dependent on the relative number of turns in the respective sections of the transformer.
-&lt;figure xml:id="fig_24_18_png"&gt;
-   &lt;caption&gt;Autotransformer&lt;/caption&gt;
-   &lt;image source="pics/sname/24-18.png" width="75%"/&gt;
+The steam cycle consists of four stages
+ &lt;ol&gt; &lt;li&gt;    &lt;$Scr_Ps::0&gt;generation  &lt;/li&gt; &lt;li&gt;    expansion  &lt;/li&gt; &lt;li&gt;    condensation  &lt;/li&gt; &lt;li&gt;    recovery  &lt;/li&gt; &lt;/ol&gt;
+
+&lt;!$Scr_Ps::0&gt;Since this is a cycle, it has no beginning or end, but &lt;em&gt;we&lt;/em&gt; have to start somewhere,   so let’s begin with the generation stage.
+&lt;figure xml:id="simplified_png"&gt; &lt;caption&gt;Simplified Steam Cycle&lt;/caption&gt; &lt;image source="pics/steamcycle/simplified.png"/&gt;
 &lt;/figure&gt;
 </Text>
         </Document>
-        <Document ID="BFC342C1-2278-42D3-9918-6A9E2BC3A98B">
-            <Title>Motor starting current</Title>
-            <Text>When the rotor of an AC motor rotates, the magnetic field surrounding the rotor interacts   with the stationary windings to induce a voltage in the windings. This induced voltage is   opposite in polarity to the line voltage, and therefore it actually counteracts the effect   of the line voltage at the motor terminals. An analogous effect occurs in DC motor   armatures, where the induced voltage is called the &lt;term&gt;counter&lt;/term&gt; or &lt;term&gt;back     electromotive force&lt;/term&gt;, or &lt;term&gt;back emf&lt;/term&gt;. The induced voltage or back emf   limits the current flow through the windings.
-Since a motor rotor needs to be rotating to generate induced voltage or back emf, a motor   which is just being started, whose rotor has not yet begun to turn, will have no such   induced voltage or back emf. At starting, therefore, current will be limited only by the   impedance and resistance of the motor windings. As a result, when full line voltage is   applied to a motor at starting the &lt;term&gt;motor starting current&lt;/term&gt; will be many times   greater than the full-power running current. As the rotor accelerates, the induced voltage   or back emf increases, and the current in the line and motor windings falls to normal   values.
-High starting currents have two negative effects, which affect large motors in particular.   First, the high current in the windings can generate enough heat to damage the motor,   especially if the driven load accelerates slowly. Second, the very high starting current can   draw down line voltage sufficiently to cause lights to dim and other equipment being   supplied from the same line to malfunction. For these reasons all DC motors and large AC   motors are started with reduced voltage applied to the motor terminals by a &lt;term&gt;motor     starter.&lt;/term&gt;
-
+        <Document ID="5526391F-5F49-42BD-B22E-84F4D23A6CAA">
+            <Title>First Stage Heater Unit</Title>
+            <Text>The next stop in the steam cycle is the first stage heater. This unit contains two   internal sections: the drain cooler and the first stage heater, in that order. Both of these   sections helps improve cycle efficiency by providing additional heat to the condensate.
+This unit provides a form of &lt;em&gt;regenerative feed heating&lt;/em&gt; which can be shown to   improve the overall efficiency of the cycle. In regenerative heating, a portion of the steam   from within the turbine is bled off before it has fully expanded. This steam, which is still   quite hot, is used to preheat the condensate. Some shore power plants have four or more   stages of regenerative heating.
+ &lt;em&gt;Low pressure bleed&lt;/em&gt; steam is used as the steam supply for the first stage heater.   The bleed steam condenses as it gives up its energy to the condensate, and the condensed   bleed steam, known as &lt;em&gt;drains&lt;/em&gt; is still hot enough to be used to preheat the   condensate. The drains then enter the &lt;em&gt;drain cooler section&lt;/em&gt; where the remaining heat   is recovered, before the drains are returned to the system by vacuum drag to the main   condenser.
+In some designs, the gland exhaust condenser is incorporated into the first stage heater   unit as well, rather than a separate heat exchanger as we have on the &lt;em&gt;Kennedy&lt;/em&gt;. In   any event, the flow order through these three heat exchangers is always from coolest to   hottest. Therefore the gland exhaust condenser comes first, followed by the drain cooler,   and finally the first stage heater.
 </Text>
         </Document>
-        <Document ID="73EF6ACD-461D-429D-882F-E4C38BEEACCD">
+        <Document ID="1436A2D5-498E-4409-9561-45EB7209DFC7">
+            <Title>Recovered File-36</Title>
+            <Text>&lt;statement&gt;
+   Air trapped within the main condenser shell is harmful because it will ______.
+&lt;/statement&gt;
+&lt;choices&gt;
+   &lt;choice&gt;
+      &lt;statement&gt;
+         decrease the turbine exhaust steam temperature
+      &lt;/statement&gt;
+   &lt;/choice&gt;
+   &lt;choice&gt;
+      &lt;statement&gt;
+         cause the turbine casing to warp and bow
+      &lt;/statement&gt;
+   &lt;/choice&gt;
+   &lt;choice correct="yes"&gt;
+      &lt;statement&gt;
+         decrease the vacuum in the main condenser
+      &lt;/statement&gt;
+   &lt;/choice&gt;
+   &lt;choice&gt;
+      &lt;statement&gt;
+         cause heat to be transferred too rapidly
+      &lt;/statement&gt;
+   &lt;/choice&gt;
+&lt;/choices&gt;
+</Text>
+        </Document>
+        <Document ID="30962EB9-886A-4721-9BAF-70824959106D">
+            <Title>exercise</Title>
+            <Text>&lt;statement&gt; Which of the following conditions must be carried out before the superheating of     saturated steam can occur in a boiler?
+&lt;/statement&gt;
+&lt;choices&gt; &lt;choice&gt; &lt;statement&gt;    The firing rate of the boiler must be increased. &lt;/statement&gt; &lt;/choice&gt; &lt;choice&gt; &lt;statement&gt;    The flow of feedwater to the boiler must be increased. &lt;/statement&gt; &lt;/choice&gt; &lt;choice correct="yes"&gt; &lt;statement&gt;    The steam must be removed from contact with the water from which it was         generated. &lt;/statement&gt; &lt;/choice&gt; &lt;choice&gt; &lt;statement&gt;    The boiler pressure must be raised. &lt;/statement&gt; &lt;/choice&gt;
+&lt;/choices&gt;
+</Text>
+        </Document>
+        <Document ID="FA7FD604-9A4C-4685-95EC-1925237F483D">
             <Title>introduction</Title>
-            <Text>Engineers do not normally speak of flowing electrons but rather of electric     &lt;term&gt;current&lt;/term&gt;. Current is an imaginary stream that flows from the less negatively   charged area (more positive) to the more negatively charged area (less positive). That is\s,   the direction of the current is opposite to the electron flow. This convention was adopted   because it is easier to think of a flow going from a higher level (more positive) to a lower   level (less positive). Current flow is normally given the symbol I and is measured in   units of &lt;term&gt;amperes&lt;/term&gt;, usually abbreviated to &lt;term&gt;amps&lt;/term&gt;. Current in amperes   is analogous to fluid flow in gallons or liters per minute.
-The force used to push current through a conductor is the &lt;term&gt;electromotive force     (emf)&lt;/term&gt; or &lt;term&gt;potential&lt;/term&gt;. It is measured in units of &lt;term&gt;volts&lt;/term&gt; and   identified by the symbol V or E. The fluid analog of the electromotive force   in volts is pressure in psi or pascals.
-</Text>
-        </Document>
-        <Document ID="8808F984-98C1-448C-8127-55D1C73E1906">
-            <Title>Basic electric circuits</Title>
-            <Text>Basic electric circuits are either &lt;term&gt;series&lt;/term&gt; circuits or &lt;term&gt;parallel&lt;/term&gt; circuits.
-In a series circuit, the components are connected in succession, so that the total line current must pass through each of the components in turn, as in &lt;xref ref="fig_24_4_png"/&gt;. Therefore, for the resistors in this circuit: &lt;me&gt;I = I_1 = I_2 = I_3&lt;/me&gt;
-
-&lt;figure xml:id="fig_24_4_png"&gt;
-   &lt;caption&gt;Series Circuit&lt;/caption&gt;
-   &lt;image source="pics/sname/24-4.png" width="50%"/&gt;
-&lt;/figure&gt;
-The total voltage drop across these resistors is the sum of the voltage drops across each of the resistors: &lt;me&gt; V = V_1 + V_2 + V_3&lt;/me&gt;
-
-Recalling Ohm's Law (I=V/R or V=IR), the &lt;term&gt;equivalent resistance&lt;/term&gt;   (R_e) of the series circuit is:&lt;me&gt; R_e = R_1 + R_2 + R_3&lt;/me&gt;
-
-And the voltage drop across each of the resistors is equal to the line current times that resistance of that resistor:&lt;md&gt; &lt;mrow&gt;V_1 \amp= I_1 R_1 \amp V_2 \amp= I_2 R_2 \amp V_3 \amp= I_3 R_3 \amp&lt;/mrow&gt;
-   &lt;/md&gt;
-
-In a parallel circuit, the components are connected in branches, which permit the current to divide and flow through two or more independent parallel paths, as shown in &lt;xref ref="fig_24_5_png"/&gt; on the left. Therefore, each of the three resistors has the full line voltage across it: &lt;me&gt; V = V_1 = V_2 = V_3&lt;/me&gt;
-
-At the same time, the total line current is the sum of the three branch current flows: &lt;me&gt; I   = I_1 + I_2 + I_3&lt;/me&gt;
-
-The equivalent resistance of a parallel circuit is the value of a single resistor that would pass the same line current as the group of resistors in the parallel circuit, as shown on the right in &lt;xref ref="fig_24_5_png"/&gt;. This equivalent resistance can be calculated for the parallel circuit of the figure using Ohm's Law, which yields: &lt;me&gt; R_e = \frac{1}{1/R_1 +   1/R_2 + 1/R_3}&lt;/me&gt;
-
-&lt;figure xml:id="fig_24_5_png"&gt;
-   &lt;caption&gt;Parallel circuit and circuit with equivalent resistance&lt;/caption&gt;
-   &lt;image source="pics/sname/24-5.png" width="85%"/&gt;
+            <Text>While the simplified steam cycle discussed in the previous section could be built, and it   would work, several modifications are required to make it practical and to improve its   efficiency. This practical steam cycle is shown in &lt;xref ref="MainSteamCycle_png"/&gt;. Each of   the components of this cycle will be briefly discussed in the following sections, in its   order in the cycle, and a more detailed discussion of the major components will be found in   the chapters to follow.
+&lt;figure xml:id="MainSteamCycle_png"&gt; &lt;caption&gt;Main Steam Cycle&lt;/caption&gt; &lt;image source="pics/steamcycle/MainSteamCycle" width="100%"/&gt;
 &lt;/figure&gt;
 </Text>
         </Document>
-        <Document ID="407398E6-7D1A-4F8B-905F-03D2F6361D52">
-            <Title>Resistance and resistance loss</Title>
+        <Document ID="DFFED80A-116B-4BA3-B792-6D4B1BD46490">
+            <Title>Recovered File-34</Title>
             <Text>
-   &lt;term&gt;Resistance&lt;/term&gt; to current flow is symbolized by R and is measured in units   of &lt;term&gt;ohms&lt;/term&gt;. Resistance can be calculated by &lt;term&gt;Ohm's Law&lt;/term&gt;: if E is   the voltage and I is the current, &lt;me&gt;R= \frac{E}{I}&lt;/me&gt;
+   &lt;xref ref="simplified_png"/&gt; shows a very simplified version of the steam cycle, which is an
+        appropriate starting point for our discussion of ship’s propulsion. 
+The steam cycle is an example of what is known by engineers as a &lt;em&gt;cyclic heat
+          engine&lt;/em&gt;. It is called cyclic, because it operates on a cycle. It uses a &lt;em&gt;working
+          fluid&lt;/em&gt;, water, which travels from point to point through the cycle, changing form and
+        carrying energy, but eventually returning to the starting point restored to the same
+          &lt;em&gt;state&lt;/em&gt; that it started with. It is called a heat engine, because it transforms
+          &lt;em&gt;heat&lt;/em&gt;, which is a form of energy, into &lt;em&gt;work&lt;/em&gt;, another form of energy. The
+        thermodynamic name for this cycle is the &lt;em&gt;Rankine Cycle.&lt;/em&gt;
 
-The magnitude of the resistance of a conductor is affected by the ease with which electrons   (current) flow in the material. If electrons flow easily the material is said to have low   resistance. Copper is a better conductor than steel, and is used in most power applications.   The resistance also depends on the available area through which the electrons flow, and on   the conductor length. As with fluid in a pipe, the narrower or longer the path, the more   difficult it is to push the electrons through. Since most electric conductors are round, so   that area is proportional to diameter squared, conductor area is often abbreviated to   circular mils, where a mil is 0.001 inch, and a circular mil is the diameter squared. As an   example a wire of 0.100 inch (100 mil) outside diameter is said to be a 10,000 circular-mil   wire. Engineers often identify a conductor by its &lt;term&gt;American Wire Gage&lt;/term&gt; (AWG)   number. In this system the higher the number, the smaller the diameter, so that #12 wire is   thinner than #10 wire.
-Just as friction and other resistance to fluid flow in piping results in a &lt;q&gt;loss&lt;/q&gt; of   energy, so does the resistance in a conductor result in a &lt;q&gt;loss&lt;/q&gt;. This &lt;q&gt;loss&lt;/q&gt; is   proportional to the square of the current, multiplied by the resistance: &lt;me&gt;\text{     resistance "loss"} = I^2 R&lt;/me&gt;
+The steam cycle consists of four stages 
 
-Because it is a function of the current squared, a modest increase in current in a   conductor results in a much larger &lt;q&gt;loss&lt;/q&gt; of energy. This &lt;q&gt;loss&lt;/q&gt; manifests itself   as heat.
-The unit &lt;term&gt;megohm&lt;/term&gt; is a resistance of one million ohms and is used to express the   resistance of electric insulation.
-</Text>
-        </Document>
-        <Document ID="F39AFC81-E724-4718-88EB-82EDD610F8CC">
-            <Title>Power from direct current</Title>
-            <Text>In a DC circuit, where the voltage and current are at constant, steady values, the power in   kW can easily be calculated as the product of voltage and current in amps: &lt;me&gt;P = E I   &lt;/me&gt;
+   &lt;ol&gt;
+      &lt;li&gt;
+         &lt;$Scr_Ps::0&gt;generation 
+      &lt;/li&gt;
+      &lt;li&gt;
+         expansion 
+      &lt;/li&gt;
+      &lt;li&gt;
+         condensation 
+      &lt;/li&gt;
+      &lt;li&gt;
+         recovery 
+      &lt;/li&gt;
+   &lt;/ol&gt;
 
-</Text>
-        </Document>
-        <Document ID="A34D73C0-C3ED-4B4F-A5F4-1B42F9E460DE">
-            <Title>Power from alternating current</Title>
-            <Text>In an AC circuit the power cannot be calculated so easily because first, both voltage and   current fluctuate in magnitude and direction in sinusoidal patterns, and second, because the   voltage and current do not necessarily act in unison, as shown in &lt;xref ref="fig_24_1_png"/&gt;. To account for the cyclic variation in magnitude of voltage and current, an averaged   value is used, called the &lt;term&gt;root-mean-square&lt;/term&gt; or &lt;term&gt;rms&lt;/term&gt; value. See &lt;xref ref="fig_24_3_png"/&gt;. For AC circuits the values typically cited for current (I)   and voltage (E) are in fact therms values, and not the peak values. These rms values   are each about 71 % of the peak values. For 120 volt, 60 Hz power, the rms values are +120   volts and -120 volts, while the peak values are +170 volts and -170 volts, yielding a     &lt;term&gt;peak-to-peak voltage&lt;/term&gt; of 340 volts.
-&lt;figure xml:id="fig_24_1_png"&gt;
-   &lt;caption&gt;60 Hz AC voltage sine wave&lt;/caption&gt;
-   &lt;image source="pics/sname/24-1.png" width="50%"/&gt;
-&lt;/figure&gt;
-In &lt;xref ref="fig_24_2_png"/&gt;, note that the voltage reaches its peak value before the   current reaches its peak, so that the current is said to be &lt;term&gt;lagging&lt;/term&gt;. If the   current were to reach its peak first we would say that it is &lt;term&gt;leading&lt;/term&gt;. The   degree of lagging or leading is dependent on the circuit components, and their response to   the cyclic fluctuations of the alternating current and voltage. Note that it takes 360   degrees for a sine wave to complete its cycle, enabling the abscissa in &lt;xref ref="fig_24_2_png"/&gt; to be given in degrees as shown. The difference between corresponding   points on the two sine waves for voltage and current, measured in degrees, is called the     &lt;term&gt;phase shift&lt;/term&gt;.
-Power is the product of current and voltage, but it can be seen in &lt;xref ref="fig_24_2_png"/&gt; that whenever there is a phase shift, this product will never reach the high values that   it would reach if the current and voltage acted in unison. For example, at 90 degrees the   voltage is 100% of its peak value but the current is at only 60% of its peak value, so that   the instantaneous power is only 60% of what it would be if current and voltage reached their   peak values together at 90 degrees. To account for the lower power caused by a phase shift,   the power factor (pf) is defined as follows: &lt;me&gt; pf = \frac{\text{active     power}}{\text{apparent power}}&lt;/me&gt;
-
-&lt;figure xml:id="fig_24_2_png"&gt;
-   &lt;caption&gt;Alternating current with lagging voltage&lt;/caption&gt;
-   &lt;image source="pics/sname/24-2.png" width="50%"/&gt;
-&lt;/figure&gt;
-&lt;figure xml:id="fig_24_3_png"&gt;
-   &lt;caption&gt;AC voltage - peak and rms values&lt;/caption&gt;
-   &lt;image source="pics/sname/24-3.png" width="50%"/&gt;
-&lt;/figure&gt;
-The &lt;term&gt;apparent power&lt;/term&gt; is simply the product of the rms voltage (E) and the   rms current (I), and is expressed in volt-amperes (VA) or kilovolt-amperes (kVA). The     &lt;term&gt;active power&lt;/term&gt;, which is the &lt;term&gt;real power&lt;/term&gt;, is expressed In watts or   kilowatts. &lt;md&gt; &lt;mrow&gt;\text{apparent power in kVA}= EI&lt;/mrow&gt; &lt;mrow&gt;\text{active (real) power in kW} = pf \times EI&lt;/mrow&gt;
-   &lt;/md&gt;
-
-If there is no phase shift, then the voltage and current follow sine curves that are   exactly in step. In these cases the voltage and current are said to be &lt;term&gt;in   phase&lt;/term&gt;, the active power is equal to the apparent power, and the power factor is one.   This condition is the exception, rather than the rule. More often, the power factor is less   than one because the voltage and current cycles do not coincide, that is they are &lt;term&gt;out     of phase&lt;/term&gt;, and the active power (kW) is therefore less than the product of volts and   amperes. The significance of the power factor, therefore, is that only at a power factor of   one, where the voltage and current are in phase, will the real power be equal to the product   of the volts and amperes. Usually the voltage and current are out of phase, the power factor   is less than one, and the active power is less than the product of volts and amperes.
-To appreciate the significance of having voltage and current out of phase, it should be   noted that what is required from an electric circuit Is usually a certain amount of real   power, such as might be needed to drive a motor. If the power factor is less than one, and   if the voltage is fixed, then for the required real power a higher current is necessary than   if the voltage and current were in phase. Recall that whenever there is a current in a   conductor there is also a &lt;q&gt;loss&lt;/q&gt;, and that this &lt;q&gt;loss&lt;/q&gt; is proportional to the   square of the current. For example, in a circuit supplying a motor with AC power, if the   power factor is 0.8, then the current must rise to 125% of what would be required for the   same power if the power factor were one, while the &lt;q&gt;loss&lt;/q&gt; in the conductors rises to   156% (125% squared). Viewed another way, all of the current contributes to wasteful heat   generation, even when only a portion of the current contributes to the real power.
-</Text>
-        </Document>
-        <Document ID="3BB966E6-96E9-4FC6-9607-922F356F0441">
-            <Title>Induction motors</Title>
-            <Text>A more common type of AC motor, widely used for driving pumps and fans, is the     &lt;term&gt;induction motor&lt;/term&gt;. In most induction motors the rotor is built up of laminated   steel plates, into which are inserted a number of conductor &lt;term&gt;bars&lt;/term&gt;, connected at   the ends by &lt;term&gt;end-connecting rings&lt;/term&gt; as shown in &lt;xref ref="fig_24_16_png"/&gt;.   Without the core, the conductor bars and end-connecting rings would form a rotating   cage-like structure, for which reason this type of motor is often called a     &lt;term&gt;squirrel-cage induction motor&lt;/term&gt;.
-&lt;figure xml:id="fig_24_16_png"&gt;
-   &lt;caption&gt;Squirrel-cage rotor for AC induction motor&lt;/caption&gt;
-   &lt;image source="pics/sname/24-16.png" width="75%"/&gt;
-&lt;/figure&gt;
-If a squirrel-cage rotor is placed in the rotating magnetic field of an AC-motor stator,   but is locked to prevent its rotation, then as the rotating magnetic field, produced by the   stator, crosses the conductor bars it will induce a voltage in these bars, and therefore a   current will circulate through the rotor, since the bars are connected together to form a   complete circuit. The current in the bars of the rotor produces a magnetic field surrounding   the bars, which causes the rotor to act as if it were a permanent magnet or electromagnet.   If the rotor were then released it would rotate as any magnet would, and will accelerate   towards the synchronous speed of the stator field. However, it will never reach synchronous   speed because, if it did, the conductor bars of the rotor would no longer be crossed by the   rotating magnetic field of the stator and no induced rotor current or rotor magnetism would   result. Therefore, induction-motor rotors always run at a speed slightly less than the   synchronous speed in order to induce a voltage and current in the rotor conductor bars. The   difference from synchronous speed is called the &lt;term&gt;slip&lt;/term&gt; and is defined as follows:     &lt;me&gt; \text{\% slip} = \frac{\text{synchronous speed} - \text{actual rotor     speed}}{\text{synchronous speed}} \times 100\%&lt;/me&gt;
-
-As the torque on an induction motor increases, the rotor must slow down (slip must   increase) so that sufficient current is induced in the conductor bars of the rotor to   develop an induced magnetism strong enough to develop the necessary torque. However, it is   important to note that the slip is not much more than five percent even at high torque, so   that induction motors are almost constant-speed machines when supplied with   constant-frequency line power.
-As with synchronous motors, induction~motor stators can have multiple pairs of stator poles   for different speed requirements, and that they can easily be reversed by interchanging two   of the three line connections.
-</Text>
-        </Document>
-        <Document ID="8A5F2859-819A-468C-A8E5-DC177824B162">
-            <Title>introduction</Title>
-            <Text>Batteries and fuel cells are electro-chemical, direct-current power supplies. Batteries   provide power for finite periods of time before they are replaced or recharged. Aboard ship,   batteries are used as power supplies for portable equipment, as temporary emergency-power   sources, and for starting small auxiliary engines. On the other hand, fuel cells are   continuous power sources, and while not yet in use aboard ship, they are considered a   likely, near-future alternative to generators.
-</Text>
-        </Document>
-        <Document ID="89DD0AB1-424A-43B0-B356-E4DC58C1D4CE">
-            <Title>Alternating current motors</Title>
-            <Text>In concept and construction, a three-phase AC motor is very similar to a three-phase   alternator, as shown in &lt;xref ref="fig_24_10_png"/&gt;. When three-phase AC current (the line   current) is applied to the stator windings of the motor, with one phase connected to each   winding, the current will produce a magnetic field around each winding that varies in   magnitude and direction in a sinusoidal pattern. The magnetic field produced by each winding   interacts with that of the adjoining windings to produce a net magnetic field that revolves   around the stator. If a compass needle were placed in the center of the stator it would   rotate at a speed coinciding with the frequency of the applied current, since the compass   needle is a two-pole magnet. The direction of rotation of the field will depend on the order   in which the windings are connected to receive the line current: if two of the three line   connections are interchanged at the motor terminals, the direction in which the magnetic   field produced by the stator windings will reverse, as will the compass needle.
-The stator windings of the three-phase machine in &lt;xref ref="fig_24_10_png"/&gt; are spaced at   120-degree intervals, so that the field produced by these stator windings rotates once per   cycle of the applied current, a speed n_scalled the &lt;term&gt;synchronous speed&lt;/term&gt;.   This stator is said to have two poles, and the corresponding synchronous speed can be   calculated from the following relation: &lt;me&gt;n_s = \frac{120 f}{P}&lt;/me&gt;
-
-&lt;figure xml:id="fig_24_10_png"&gt;
-   &lt;caption&gt;Three-phase alternator&lt;/caption&gt;
-   &lt;image source="pics/sname/24-10.png" width="75%"/&gt;
-&lt;/figure&gt;
-where P is the number of poles on the stator and f is the line frequency. A   two-pole stator supplied with 60 Hz line current would have a synchronous speed of 3600 rpm.   In this example, the magnetic field produced by the stator and the compass needle would both   rotate at this speed.
-Additional windings can be fitted to the stator for each phase. Each additional winding per   phase provides an additional pair of poles. For example, the stator could be arranged with   nine windings, with every third winding connected to the same phase, so that there are three   windings per phase. Since each set of windings provides one pair of poles this would be a   6-pole motor. The synchronous speed of a 6-pole motor, when supplied with 60 Hz line   current, is 1200 rpm.
-</Text>
-        </Document>
-        <Document ID="889E32AF-7758-4D7E-BE7F-CA5C1A9A14C4">
-            <Title>Fundamentals of electricity</Title>
-            <Text>Electricity is associated with the accumulation or the flow of electrons, which are negatively-charged, subatomic particles. Static electricity is caused by the accumulation of electrons, as might occur from rubbing hard rubber on a wool carpet. The resulting static charge of the stored electrons might then be released suddenly as a spark. In a more useful form of electricity, the electrons flow through wires to energize light bulbs and computers and to turn the shafts of motors.
-As long as a complete electric path or circuit is available, electron flow can be initiated and sustained in a number of ways, including chemical reaction and magnetic induction.   &lt;term&gt;Batteries&lt;/term&gt; and &lt;term&gt;fuel cells&lt;/term&gt; cause electron flow by chemical reaction. For most applications &lt;term&gt;alternators&lt;/term&gt; or &lt;term&gt;generators&lt;/term&gt; are used to produce electron flow by magnetic induction, in which the mechanical power output of an engine is used to drive conductors through a magnetic field, inducing an electron flow In the conductors. Electron flows can also be created by &lt;term&gt;thermocouples&lt;/term&gt; and &lt;term&gt;photovoltaic   cells&lt;/term&gt;, which respond to heat and light, respectively. Thermocouples are commonly used to generate electric signals for temperature measurement. Fuel cells and photovoltaic (or solar) cells have been used in low-power applications for years but are becoming more common and more capable of higher-power applications.
-Electrons flow from areas of higher electron concentration (negative charge) to areas of lower electron concentration (less negative charge) if a conductor path is established. The conductor can be solid, like a copper wire, but liquids, such as salt water and mercury, and ionized gasses, can also conduct electricity. The effects of electron flow are recognizable and include, as examples, heating of the conducting wire element of an electric heater, causing a magnetic field around the conductors in an electric motor to produce mechanical torque, and heating of the ionized gas in a fluorescent lamp to produce light.
-</Text>
-        </Document>
-        <Document ID="70AF7E41-D835-48D2-BC76-E880FE7B3515">
-            <Title>Magnetic field</Title>
-            <Text>An electron flow, or current, is always surrounded by a magnetic field. When a conductor is   wound into a cylindrical coil, the magnetic field that will be formed will be oriented along   the axis of the cylinder. One end of the coil will act like the north pole of a permanent   magnet, and the other end, like the south pole. The coil is therefore an     &lt;term&gt;electromagnet&lt;/term&gt;. 
-</Text>
-        </Document>
-        <Document ID="E33C51CD-33FE-4723-884F-F20181F779F6">
-            <Title>Batteries</Title>
-            <Text>The chemical energy stored in a battery is finite in quantity, and is measured as its     &lt;term&gt;ampere-hour capacity&lt;/term&gt;. As electric power is drawn from the battery, the   chemical energy is depleted until the cells are discharged. Batteries are classified as   either &lt;term&gt;primary&lt;/term&gt; or &lt;term&gt;secondary&lt;/term&gt; depending on whether they are   discarded after discharge or are rechargeable, respectively. Most batteries used aboard ship   are rechargeable after use.
-
-   &lt;term&gt;Dry cells&lt;/term&gt; contain an &lt;term&gt;electrolyte&lt;/term&gt; in a solid or semi-solid state,   while &lt;term&gt;wet cells&lt;/term&gt; contain a liquid electrolyte. Dry cells are commonly used for   low-power purposes, as in flashlights and other portable equipment. and as back-up supplies   for computers. Large, wet-cell &lt;term&gt;storage batteries&lt;/term&gt; are used where higher power is   required, such as for starting small auxiliary engines, and as short-term power supplies for   emergency lighting and control circuits.
-The two most common types of wet-cell storage batteries are the &lt;term&gt;lead-acid&lt;/term&gt; and   the &lt;term&gt;nickel-cadmium alkali (Nicad)&lt;/term&gt; types. Generally, a battery is made up of a   number of cells connected in series, with each cell delivering 1.5 volts or less. The state   of charge of a battery is determined differently for each type. For lead•acid batteries the   charge is determined by measuring the density of the electrolyte with a hydrometer, while   the charge of the Nicad batteries is determined by measuring the cell voltage.
-</Text>
-        </Document>
-        <Document ID="7834538D-B5A7-40D4-9D33-FF453610A1F5">
-            <Title>Open circuits, short circuits, and grounds</Title>
-            <Text>An &lt;term&gt;open&lt;/term&gt; in an electric circuit occurs where the conducting path has been   broken, stopping the flow of current. An open occurs when a switch is opened, or a wire   breaks or becomes disconnected.
-A &lt;term&gt;short circuit&lt;/term&gt; occurs when the current path is bridged, allowing the current   to bypass one or more components, for example, when two conductors accidentally touch.
-A &lt;term&gt;ground&lt;/term&gt; occurs when an electric circuit is accidentally or intentionally   connected to a very low potential sink, like a ship's hull or the sea. A common example of a   ground occurs when insulation on a conductor breaks down, allowing the conductor to contact   the adjacent metal housing or structure.
-</Text>
-        </Document>
-        <Document ID="58A3BA72-6881-408E-8B7E-E4ADADA0B6A7">
-            <Title>Direct-current generators</Title>
-            <Text>Since any generator with a rotating element will naturally produce an alternating voltage,   it is necessary, in a DC generator, to continually convert this alternating voltage into a   direct voltage. In traditional DC generators the construction of the machine is reversed   relative to the alternators discussed above, so that the magnetic field is stationary, while   the windings rotate, as in &lt;xref ref="fig_24_13_png"/&gt;. The rotor is then called the     &lt;term&gt;armature&lt;/term&gt;, and is fitted with a rotating switching device called a     &lt;term&gt;commutator&lt;/term&gt;, which does the AC to DC conversion. The voltage produced in the   windings of the armature is sinusoidal, as it is in an alternator. If this voltage were   taken out of the rotor by slip rings and brushes, as in &lt;xref ref="fig_24_12_png"/&gt;,   single-phase AC would be delivered to the generator terminals. The commutator is essentially   a single slip ring divided into separate segments called &lt;term&gt;commutator bars&lt;/term&gt;. Each   terminal of the armature winding is connected to one commutator bar. As the armature   rotates, the winding terminal beneath each brush switches half way through every revolution,   simultaneously with the change in polarity of the voltage in the winding. The polarity of   one brush and its connected generator terminal is thus always positive, while the other   brush and generator terminal is always negative.
-&lt;figure xml:id="fig_24_13_png"&gt;
-   &lt;caption&gt;Two-pole DC generator with commutator&lt;/caption&gt;
-   &lt;image source="pics/sname/24-13.png" width="75%"/&gt;
-&lt;/figure&gt;
-The DC voltage produced by a generator with a single armature winding and a two-bar   commutator fluctuates as shown in the upper plot of &lt;xref ref="fig_24_14_png"/&gt;. To obtain a   more constant voltage more windings would be added to the armature, with each winding   connected to a pair of diametrically-opposed commutator bars, to yield an output voltage   curve as shown in the lower plot of &lt;xref ref="fig_24_14_png"/&gt;. The more windings there are   on the armature, the steadier will be the resulting terminal voltage of the generator. Large   DC generators have dozens of armature windings and commutator bars.
-&lt;figure xml:id="fig_24_14_png"&gt;
-   &lt;caption&gt;Voltage delivered by a DC generator with, at top, a single winding and a     two-segment commutator, and, at bottom, three evenly-spaced windings and as six-bar     commutator.&lt;/caption&gt;
-   &lt;image source="pics/sname/24-14.png" width="60%"/&gt;
-&lt;/figure&gt;
-A commutator is only one way to achieve the continual switching necessary to convert AC to   DC; electronic devices called &lt;term&gt;rectifiers&lt;/term&gt; are also used. Modern rectifiers are   built around solid-state &lt;term&gt;diodes&lt;/term&gt;. A diode has low resistance to current flow in   one direction and very high resistance to current flow in the other direction. &lt;xref ref="fig_24_15_png"/&gt; depicts a rectifier circuit. By appropriately connecting rectifiers   to the stator windings of an alternator, DC can be provided without the maintenance problems   associated with brushes and commutators. Alternators can be used in automobiles, where the   power is distributed as DC, because they are fitted with rectifiers.
-&lt;figure xml:id="fig_24_15_png"&gt;
-   &lt;caption&gt;Rectifier&lt;/caption&gt;
-   &lt;image source="pics/sname/24-15.png" width="50%"/&gt;
+&lt;!$Scr_Ps::0&gt;Since this is a cycle, it has no beginning or end, but &lt;em&gt;we&lt;/em&gt; have to start somewhere,
+        so let’s begin with the generation stage.
+&lt;figure xml:id="simplified_png"&gt;
+   &lt;caption&gt;Simplified Steam Cycle&lt;/caption&gt;
+   &lt;image source="pics/steamcycle/simplified.png"/&gt;
 &lt;/figure&gt;
 </Text>
         </Document>
-        <Document ID="7A599319-76CC-4C21-9A2C-52D051436AA7">
-            <Title>Fuel cells</Title>
-            <Text>Fuel cells are similar to·batteries but supply power continuously because the electrolyte   is continuously rejuvenated. This rejuvenation is achieved by continuously adding hydrogen   and oxygen to the electrolyte. Fuel cells operating on pure hydrogen have been used in space   vehicles for years, but advancing technology will allow fuel cell systems to operate on less   expensive, readily available hydrocarbon fuels from which the hydrogen can be separated.   Fuel-cell systems have the potential to achieve efficiencies higher than those based on   engine-driven generators. 
+        <Document ID="76018EFF-B3C1-4664-B0E7-E3808AD7B9B9">
+            <Title>Boiler</Title>
+            <Text>Heat energy is added to the cycle by burning fuel oil in the boiler. The high temperature   flames raise the temperature of the water in the boiler and eventually cause it to boil. Not   all energy of the fuel is transferred to the water, some remains in the combustion gases and   travels up the stack. This energy will be lost to the atmosphere unless it is recovered by   economizers or air heaters located in the exhaust path. Any heat energy lost to the   atmosphere represents waste and steam cycle inefficiency.
+The boiler is discussed in detail in &lt;xref ref="boilers"/&gt;.
 </Text>
         </Document>
-        <Document ID="3463B298-CB95-400E-880B-7198F8362107">
-            <Title>DC motors</Title>
-            <Text>In construction, DC motors are similar to DC generators. The traditional advantage that DC   motors have had over AC motors is that, unlike AC motors, their speed can be easily   controlled over a wide range by a &lt;term&gt;rheostat&lt;/term&gt;. A rheostat is an easily adjusted   variable resistor that can be connected in series with the motor field windings to control   field current and, therefore, motor speed. However, solid-state electronic controls like   variable frequency converters are now available, allowing AC motors to be operated with   variable speed. Consequently, few DC motors are found aboard modern ships.
+        <Document ID="01D8CA34-054F-4CFD-A763-170E173DD4EF">
+            <Title>Recovered File-32</Title>
+            <Text>The L.P. turbine follows the H.P. turbine and continues to extract energy from the steam.
+        The steam enters at a low pressure (a vacuum actually, at low loads) and exits at an even
+        lower pressure into the main condenser. The specific volume of steam at these low pressures
+        is large, which means that the turbine blades and the L.P. turbine itself are also large.
+        When looking at the two turbines, it is always easy to identify the L.P. turbine because of
+        its size; eight to ten feet in diameter is not unusual. 
+Steam leaves the L.P. turbine as saturated steam, so you can determine the steam
+        temperature by looking up the saturation temperature for the condenser pressure in the steam
+        tables. For example, if the condenser pressure is 28.9 in Hg vacuum, this corresponds to an
+        absolute pressure of 0.5 psia, and this has a saturation temperature of about 80 °F. Are you
+        surprised? Steam isn’t always hot… it depends on the pressure. 
+The forward end of the L.P. Turbine rotor contains the &lt;em&gt;Astern Elements&lt;/em&gt;. These are
+        two or three rows of blades designed to rotate the shaft in the astern direction. Since
+        there are so few rows of astern blades, the power the turbine is capable of producing in the
+        astern direction is limited. 
 </Text>
         </Document>
-        <Document ID="8A2134D5-494A-4F33-A666-78B817242208">
-            <Title>introduction</Title>
-            <Text>
-   &lt;term&gt;Generators&lt;/term&gt; are machines for producing DC electric power, while alternators are   machines that produce AC power. It is common to refer to alternators as generators. Aboard   ship generators and alternators are rotating machines driven by engines or turbines, serving   as the normal source of electricity, and on larger vessels, for standby and emergency   electric power as well.
-When a conductor is passed through a magnetic field, or when a magnetic field is passed   over a conductor, an &lt;term&gt;electromotive force&lt;/term&gt; or &lt;term&gt;impressed voltage&lt;/term&gt; is   induced in the conductor. If the conductor is part of a complete circuit, the current that   will then flow is called an &lt;term&gt;induced current&lt;/term&gt;. The linkage of relative motion   between a magnetic field and a conductor, and the resulting impressed voltage and induced   current, is the principle behind generators and alternators. In a generator, conductors are   arranged on the rotor, driven through a stationary magnetic field by a prime mover, with the   induced current collected from the rotor for delivery to the load. In most alternators, the   conductors are stationary, and surround a rotating magnetic field: current is induced in the   stationary conductors as they are swept by the magnetic field.
+        <Document ID="A58F7C74-7866-4FC5-90FB-90B9CC203299">
+            <Title>Recovered File-24</Title>
+            <Text>The diagram shown in &lt;xref ref="ts_png"/&gt; is an idealized representation of the Rankine
+        Cycle used in the study of thermodynamics, and known as a Temperature-entropy diagram. The
+        heavy dome shaped curve is known as the &lt;em&gt;vapor dome&lt;/em&gt; and points under the curve are
+        saturated steam, while points to the left of the curve are liquid water and points to the
+        right of the curve are superheated steam. 
+Feedwater enters the boiler at point 1, and is heated by the fuel. Initially, the
+        water temperature rises, until it reaches the saturation temperature for the boiler
+        pressure, point 1_f, where the water begins to boil. Additional heat added at this
+        point does not raise the temperature any further until all the liquid water is completely
+        vaporized, point 1_g. The heat added between 1_f and 1_g is the
+          &lt;em&gt;Latent Heat of Vaporization&lt;/em&gt;. After the steam has reached point 1_g, any
+        additional heat added causes the temperature to rise again, and the steam becomes
+        superheated. 
+&lt;figure xml:id="ts_png"&gt;
+   &lt;caption&gt;Temperature - Entropy Diagram&lt;/caption&gt;
+   &lt;image source="pics/steamcycle/ts.png" width="50%"/&gt;
+&lt;/figure&gt;
+Superheated steam leaves the boiler at point 2 and enters the turbine. During the
+        expansion process, the steam pressure and temperature both drop as energy is extracted from
+        the steam. Steam leaves the turbine and enters the condenser at point 3, which is
+        saturated or wet steam. 
+In the condenser, heat is removed from the steam and it returns to the liquid state at
+        point 4. The feed pump raises the water pressure back up to the boiler pressure and
+        the cycle begins again at point 1. The feed pump causes a small temperature rise in
+        the feedwater as well as a pressure increase. 
+The area under the curve from 1 to 2 represents the heat energy added in the
+        boiler and the area under the curve from 3 to 4 represents the heat rejected
+        to the ocean. The area inside the curve represents the net work done by the cycle. 
 </Text>
         </Document>
-        <Document ID="ED330ECA-5606-4432-81DD-A6E2B6573059">
-            <Title>Three-phase alternators</Title>
-            <Text>If a two-pole generator were fitted with three sets of windings on the stator, as in &lt;xref ref="fig_24_10_png"/&gt;, a three-phase alternator results. The windings are positioned 120   degrees apart and are not connected to each other. As the poles of the field rotate a   sinusoidal voltage is induced in turn in each winding, 120 degrees out of phase with the   voltage produced in the adjacent windings. Each winding has one end connected to a common   ground, and the voltages that result, V_1, V_2, and V_3, measured   relative to ground, are shown in &lt;xref ref="fig_24_11_png"/&gt;.
-&lt;figure xml:id="fig_24_11_png"&gt;
-   &lt;caption&gt;Three-phase voltage&lt;/caption&gt;
-   &lt;image source="pics/sname/24-11.png" width="75%"/&gt;
+        <Document ID="3E79FE17-F390-4402-A1CB-8D94164FD3ED">
+            <Title>Recovered File-37</Title>
+            <Text>Three valves are found in the feed line before the boiler. 
+The &lt;em&gt;feed check valve&lt;/em&gt; comes first. It is a stop-check valve which is normally left
+        open, but which can be used to regulate the feed water flow to the boiler if necessary. The
+        feed check valve is always fitted with a reach rod or other means to permit it to be
+        manually operated from the boiler control station. 
+The feed check is followed by the &lt;em&gt;feed water regulator&lt;/em&gt; which is a pneumatically
+        actuated regulating valve that responds to changes in boiler drum level and steam demand to
+        automatically control the flow of feedwater into the steam drum in order to maintain a
+        constant level half-way up the steam drum. 
+The final valve of the set is the &lt;em&gt;feed stop valve&lt;/em&gt;. This valve is provided to
+        permit the feed system to be secured at the boiler when necessary. 
+</Text>
+        </Document>
+        <Document ID="53E1A403-EEEA-4F87-9DD3-5DEE3F33D0AD">
+            <Title>exercise</Title>
+            <Text>&lt;statement&gt; Most marine boilers are designed to produce ______.
+&lt;/statement&gt;
+&lt;choices&gt; &lt;choice&gt; &lt;statement&gt;    superheated steam only &lt;/statement&gt; &lt;/choice&gt; &lt;choice&gt; &lt;statement&gt;    saturated and superheated steam &lt;/statement&gt; &lt;/choice&gt; &lt;choice correct="yes"&gt; &lt;statement&gt;    saturated steam only &lt;/statement&gt; &lt;/choice&gt; &lt;choice&gt; &lt;statement&gt;    superheated and supercritical steam &lt;/statement&gt; &lt;/choice&gt;
+&lt;/choices&gt;
+</Text>
+        </Document>
+        <Document ID="4CB133DA-6F78-4B5D-AA90-2625880BBF19">
+            <Title>Recovered File-29</Title>
+            <Text>No practical boiler could function without valves. Valves permit the operator to control
+        fluid flow, and to isolate sections of the system for maintenance. There are dozens of
+        valves used in the main steam cycle but in this discussion we will only mention a few of
+        them. You may assume that valves are located throughout the system wherever they are
+        necessary. 
+The main steam stop valve is located at the outlet of the superheater, and it is the
+        primary valve used to connect or isolate the boiler from the remainder of the steam cycle.
+        Specially designed valves are required for this service, because of the extreme differences
+        of temperature encountered when cutting-in a boiler. Bypass lines are usually installed here
+        to assist with warming up the main steam stop valve. 
+</Text>
+        </Document>
+        <Document ID="FD800D09-1577-4AF4-AC9E-235E81B517AA">
+            <Title>Recovered File-16</Title>
+            <Text>There are two main methods used for propulsion of merchant ships today: steam turbines and
+      diesel engines. Sail and steam reciprocating engines are long obsolete, and nuclear power,
+      while used for some naval vessels, has been found to be impractical for merchant ships.
+      Recently a few ships have been built with gas turbine propulsion, but it is not yet common. 
+Over the last 40 years, diesel propulsion has displaced steam propulsion as the dominant
+      method of merchant ship propulsion, mainly because it has higher fuel efficiency, but also
+      because it is easier to automate, requires less maintenance, and can be operated with smaller
+      crews – all factors leading to operating cost reductions. Nevertheless, steam propulsion
+      remains important, if for no other reason than it is the method we use aboard our training
+      ship &lt;em&gt;Kennedy&lt;/em&gt;. Also, steam power is used extensively in industry and power generation
+      ashore, and the skills developed by a steam engineer aboard ship find high demand in the
+      shoreside job market. 
+In this chapter we will discuss steam propulsion and the steam cycle. The steam cycle is the
+      thermodynamic process which marine engineers use to transform the energy contained in the
+      ship’s fuel oil or &lt;em&gt;bunkers&lt;/em&gt; into the power to turn the ship’s propeller and supply all
+      the other requirements necessary to move a steam ship from one point to another. We will begin
+      with a discussion of a very simplified version of the steam cycle, which nevertheless
+      illustrates all the important principles of its operation. Later, we will progress to a more
+      detailed, practical, and efficient version of the cycle, which more closely represents the
+      cycle used on other steam ships. The function of each of the components of the cycle will be
+      briefly described here, and in more detail in later chapters. This cycle described here is not
+      the only possibility, but it is representative, and it provides a good foundation for further
+      study. 
+</Text>
+        </Document>
+        <Document ID="FFD9DA38-7126-45D2-A023-68A3FF0F0BDD">
+            <Title>Recovered File-23</Title>
+            <Text>As stated before, the main condenser is a shell and tube heat exchanger which provides the
+        low pressure zone for the turbine to discharge into. The steam entering the condenser turns
+        back to liquid water when it comes in contact with the cold condenser tubes. The newly
+        formed condensate drains down to the bottom of the condenser, where it collects in the
+          &lt;em&gt;hot well&lt;/em&gt; until it is pumped out. 
+In order to maintain high plant efficiency it is necessary to maintain a good vacuum in
+        the main condenser. This vacuum is formed by the collapse of the steam as it condenses,
+        since the specific volume of water is so much less than the specific volume of steam. A
+        properly operating main condenser operates at 28.5 in Hg vacuum or greater. 
+Vacuum will be maintained in the condenser as long as the shell of the condenser does not
+        fill up with air or other gases, however vacuum tends to draw air into the condenser through
+        any available leaks, such as those found at the &lt;em&gt;turbine glands&lt;/em&gt; where the turbine
+        shafts penetrate the turbine casing. This air must be pumped back out to the atmosphere as
+        fast as it leaks in, or else vacuum will be lost. This is accomplished with a steam driven
+        pump known as the &lt;em&gt;air ejector&lt;/em&gt; which takes suction on top of the main condenser and
+        discharges air to the engine room. 
+Vacuum will also be lost if condensing stops. This could happen if the supply of cooling
+        water through the condenser tubes was interrupted, perhaps due to failure of the main
+        circulating pump, blocked condenser tubes, or if the condensate pump failed which would
+        cause the condenser to fill up with condensate. 
+</Text>
+        </Document>
+        <Document ID="63720F34-C107-418E-B65F-47D7EC48C23E">
+            <Title>Main Condenser</Title>
+            <Text>As stated before, the main condenser is a shell and tube heat exchanger which provides the   low pressure zone for the turbine to discharge into. The steam entering the condenser turns   back to liquid water when it comes in contact with the cold condenser tubes. The newly   formed condensate drains down to the bottom of the condenser, where it collects in the     &lt;em&gt;hot well&lt;/em&gt; until it is pumped out.
+In order to maintain high plant efficiency it is necessary to maintain a good vacuum in   the main condenser. This vacuum is formed by the collapse of the steam as it condenses,   since the specific volume of water is so much less than the specific volume of steam. A   properly operating main condenser operates at 28.5 in Hg vacuum or greater.
+Vacuum will be maintained in the condenser as long as the shell of the condenser does not   fill up with air or other gases, however vacuum tends to draw air into the condenser through   any available leaks, such as those found at the &lt;em&gt;turbine glands&lt;/em&gt; where the turbine   shafts penetrate the turbine casing. This air must be pumped back out to the atmosphere as   fast as it leaks in, or else vacuum will be lost. This is accomplished with a steam driven   pump known as the &lt;em&gt;air ejector&lt;/em&gt; which takes suction on top of the main condenser and   discharges air to the engine room.
+Vacuum will also be lost if condensing stops. This could happen if the supply of cooling   water through the condenser tubes was interrupted, perhaps due to failure of the main   circulating pump, blocked condenser tubes, or if the condensate pump failed which would   cause the condenser to fill up with condensate.
+</Text>
+        </Document>
+        <Document ID="D262BFE6-A70A-4963-88BA-5FBCB40E52B3">
+            <Title>Recovered File-7</Title>
+            <Text>The direct contact (DC) heater provides a second stage of regenerative feed heating. In a
+        direct contact heater, heat exchange occurs by mixing of the hot and cooler fluids, hence
+        the name. Condensate is heated by either auxiliary exhaust steam or by intermediate pressure
+        bleed steam. The condensate in the DC heater is at a saturated state, so its temperature can
+        be determined from the pressure of the heating steam. 
+In addition to heating, the DC heater acts as a storage tank for condensate in the system,
+        permitting minor fluctuation in the total amount of condensate contained within the cycle
+        without causing disruption to the system. Finally, the DC heater acts as a deaerator, a
+        device to remove corrosive dissolved oxygen from the condensate. 
+A change in terminology occurs at the bottom of the DC heater. From this point on, the
+        condensate is referred to as &lt;em&gt;feed water&lt;/em&gt;. 
+The DC heater is discussed in detail in the &lt;xref ref="dcheaterchap"/&gt;. 
+</Text>
+        </Document>
+        <Document ID="F8C4453E-88AE-4DCC-9FB9-6F1E198D1011">
+            <Title>exercise</Title>
+            <Text>&lt;statement&gt; Which of the listed order of valves represents the proper installation of the main     feedwater supply line to a marine propulsion boiler?
+&lt;/statement&gt;
+&lt;choices&gt; &lt;choice&gt; &lt;statement&gt;    Regulator, stop, stop-check &lt;/statement&gt; &lt;/choice&gt; &lt;choice&gt; &lt;statement&gt;    Stop-check, stop, regulator &lt;/statement&gt; &lt;/choice&gt; &lt;choice&gt; &lt;statement&gt;    Stop, regulator, stop-check &lt;/statement&gt; &lt;/choice&gt; &lt;choice correct="yes"&gt; &lt;statement&gt;    Stop-check, regulator, stop &lt;/statement&gt; &lt;/choice&gt;
+&lt;/choices&gt;
+</Text>
+        </Document>
+        <Document ID="90A6EA70-FF2C-4021-8F6D-2B7630FE801A">
+            <Title>DC Heater</Title>
+            <Text>The direct contact (DC) heater provides a second stage of regenerative feed heating. In a   direct contact heater, heat exchange occurs by mixing of the hot and cooler fluids, hence   the name. Condensate is heated by either auxiliary exhaust steam or by intermediate pressure   bleed steam. The condensate in the DC heater is at a saturated state, so its temperature can   be determined from the pressure of the heating steam.
+In addition to heating, the DC heater acts as a storage tank for condensate in the system,   permitting minor fluctuation in the total amount of condensate contained within the cycle   without causing disruption to the system. Finally, the DC heater acts as a deaerator, a   device to remove corrosive dissolved oxygen from the condensate.
+A change in terminology occurs at the bottom of the DC heater. From this point on, the   condensate is referred to as &lt;em&gt;feed water&lt;/em&gt;.
+The DC heater is discussed in detail in the &lt;xref ref="dcheaterchap"/&gt;.
+</Text>
+        </Document>
+        <Document ID="D40F1F81-E388-4067-9B94-3A15CDC713D1">
+            <Title>Recovered File-31</Title>
+            <Text>The feed pump serves the same purpose here as it does in the simplified cycle; that is, it
+        raises the pressure of the feedwater sufficiently to force it into the boiler to begin the
+        cycle again. 
+The feed pump is usually a turbine driven centrifugal pump, and the discharge pressure is
+        about 50 to 100 psi above the pressure in the steam drum. 
+</Text>
+        </Document>
+        <Document ID="537D43BD-0BEE-425F-97DC-F379705B4A7B">
+            <Title>Steam Drum</Title>
+            <Text>The steam drum is located near the top of the boiler and should normally be half filled   with water and the remainder filled with steam. A &lt;em&gt;gage glass&lt;/em&gt; on the steam drum   allows the operator to determine the water level in the boiler. Too little water would be   very dangerous, because without water in the boiler the heat of the flames would melt the   boiler tubes and destroy the boiler.
+Steam is formed in the boiler tubes, and since steam bubbles are less dense than the   surrounding liquid water, they float up to the top of the boiler and eventually rise above   the surface of the water in the steam drum. If the steam was allowed to build up in the   drum, the boiler pressure would quickly rise, and if not relieved by the safety valves,   would cause the boiler to explode. The system is designed to remove steam as quickly as it   is created, so a properly operated boiler will maintain a constant pressure.
+</Text>
+        </Document>
+        <Document ID="65AC085F-FDF1-4FFB-831C-F70C166B9654">
+            <Title>Recovered File-18</Title>
+            <Text>The &lt;em&gt;gland exhaust condenser&lt;/em&gt; typically follows the air ejector condenser. This
+        unit is used to condense any steam that leaks out of the turbine glands, in order to recover
+        both the condensate and the heat. This is an example of the way a practical cycle takes
+        every opportunity to recover &lt;q&gt;free&lt;/q&gt; energy and increase the overall cycle efficiency.
+      
+</Text>
+        </Document>
+        <Document ID="5AB8C9CE-635F-4DD7-BE70-912BF7FA4AA5">
+            <Title>exercise</Title>
+            <Text>&lt;statement&gt; The DC heater functions to ______.
+&lt;/statement&gt;
+&lt;choices&gt; &lt;choice&gt; &lt;statement&gt;    remove air from feedwater &lt;/statement&gt; &lt;/choice&gt; &lt;choice&gt; &lt;statement&gt;    heat feedwater &lt;/statement&gt; &lt;/choice&gt; &lt;choice&gt; &lt;statement&gt;    store feedwater &lt;/statement&gt; &lt;/choice&gt; &lt;choice correct="yes"&gt; &lt;statement&gt;    all of the above &lt;/statement&gt; &lt;/choice&gt;
+&lt;/choices&gt;
+</Text>
+        </Document>
+        <Document ID="CF486EA7-BE85-4B68-814C-CFF4A732F3F7">
+            <Title>Feed Pump</Title>
+            <Text>The feed pump serves the same purpose here as it does in the simplified cycle; that is, it   raises the pressure of the feedwater sufficiently to force it into the boiler to begin the   cycle again.
+The feed pump is usually a turbine driven centrifugal pump, and the discharge pressure is   about 50 to 100 psi above the pressure in the steam drum.
+</Text>
+        </Document>
+        <Document ID="9AB68337-F9AF-4855-8EE3-16AF7FBA02E8">
+            <Title>Economizer</Title>
+            <Text>After the feedwater enters the boiler it passes through the &lt;em&gt;economizer&lt;/em&gt;.
+The economizer is a heat recovery device. It consists of a finned-tube heat exchanger   which is heated by the boiler exhaust gases before they pass up the stack. This is the final   effort to improve the efficiency of the steam cycle, by recovering heat energy that would   otherwise be lost.
+On some ships, the economizer is absent, and in its place is another heat exchanger, the     &lt;em&gt;heat-recovery type air preheater&lt;/em&gt; which is designed to raise the temperature of   the air used for combustion. On ships with air heaters, one or two additional stages of   regenerative feed heaters are usually installed in the feed line, between the feed pump and   the boiler, to improve overall cycle thermal efficiency.
+An economizer or an air preheater will normally be found in a steam cycle, but not both.   If both were present, they would tend to lower the exhaust gas temperature to the point   where any water vapor in the exhaust would condense. While thermodynamically desirable, this   introduces the practical problem that the condensed moisture combines with the other   products of combustion to form a corrosive mixture of sulfuric acid in the exhaust.
+After leaving the economizer the feedwater enters the steam drum where the generation   stage occurs, where the steam cycle begins again.
+</Text>
+        </Document>
+        <Document ID="B1223556-DF04-4429-892A-74A19C008289">
+            <Title>Recovered File-26</Title>
+            <Text>&lt;statement&gt;
+   Which of the listed order of valves represents the proper installation of the main
+          feedwater supply line to a marine propulsion boiler?
+&lt;/statement&gt;
+&lt;choices&gt;
+   &lt;choice&gt;
+      &lt;statement&gt;
+         Regulator, stop, stop-check
+      &lt;/statement&gt;
+   &lt;/choice&gt;
+   &lt;choice&gt;
+      &lt;statement&gt;
+         Stop-check, stop, regulator
+      &lt;/statement&gt;
+   &lt;/choice&gt;
+   &lt;choice&gt;
+      &lt;statement&gt;
+         Stop, regulator, stop-check
+      &lt;/statement&gt;
+   &lt;/choice&gt;
+   &lt;choice correct="yes"&gt;
+      &lt;statement&gt;
+         Stop-check, regulator, stop
+      &lt;/statement&gt;
+   &lt;/choice&gt;
+&lt;/choices&gt;
+</Text>
+        </Document>
+        <Document ID="E3908A8E-AAD6-424A-BE11-D291640F1053">
+            <Title>Condensate pump</Title>
+            <Text>At this point in the simplified cycle, you will find a feed pump to return the condensate   back to the boiler. In an actual cycle you will find a number of additional items which are   installed to increase the efficiency of the steam cycle by adding essentially &lt;em&gt;free&lt;/em&gt;   energy to the working fluid.
+The first new item is the &lt;em&gt;condensate pump&lt;/em&gt;, which is a centrifugal pump that takes   suction on the condenser hot well and raises the condensate pressure enough to move it on to   the DC heater. The condensate pump must pump from a vacuum, which is a difficult job for a   pump. It is important to properly vent and seal the pump, or it will not pump well.
+</Text>
+        </Document>
+        <Document ID="DD7E4A63-4F91-418F-B4A4-3CDE51EA48AF">
+            <Title>Recovered File-1</Title>
+            <Text>The air ejector, as mentioned above, is a steam powered air pump which is used to remove
+        air leakage from the condenser. Since the air ejector operates on steam, and normally draws
+        out some steam along with the air it removes, it is important to recover this steam in a
+        condenser so that it is not lost from the steam cycle. 
+We &lt;em&gt;could&lt;/em&gt; use a saltwater cooled condenser to condense this steam, but we don’t.
+        Instead the coolant used is the condensate from the main condenser on its way back to the
+        boiler. This is done for two reasons. First, the heat given up by the condensing air ejector
+        steam preheats the condensate before it returns to the boiler, thus saving energy. Any heat
+        added before the condensate reaches the boiler represents fuel that doesn’t need to be
+        burned. Second, by cooling the air ejector condenser with condensate, there is no chance of
+        contaminating the condensate with saltwater in the event of a tube leak. 
+A typical air ejector condenser is shown in &lt;xref ref="air_ejector_vw_png"/&gt;. The air
+        ejector must operate in two stages to accomplish the necessary increase in pressure to move
+        the air from the main condenser back to the atmosphere. As a result the condenser is also
+        divided into two areas to maintain the pressure differential between the stages. The first
+        condenser is known as the &lt;em&gt;inter-condenser&lt;/em&gt;, and it discharges its condensate back to
+        the main condenser. The second stage air ejector steam is condensed in the
+          &lt;em&gt;after-condenser&lt;/em&gt; and the condensate collected there is returned to the system by
+        way of the &lt;em&gt;atmospheric drain tank&lt;/em&gt;. 
+&lt;figure xml:id="air_ejector_vw_png"&gt;
+   &lt;caption&gt;Air Ejector Unit&lt;/caption&gt;
+   &lt;image source="pics/steamcycle/air_ejector.vw.png"/&gt;
 &lt;/figure&gt;
 </Text>
         </Document>
-        <Document ID="11E495D1-0CE9-4703-88C6-23F45DBF1BEE">
-            <Title>introduction</Title>
-            <Text>The energy of flowing electrons is a power source that can be used do work in an electric   motor or can generate heat as in an a toaster element. The unit of power associated with   electric devices is the &lt;term&gt;watt&lt;/term&gt; (W), which is the power produced when one ampere   of current is pushed through an electric circuit by one volt of electromotive force (a   potential difference). In a similar manner, hydraulic power is developed when a flow of   fluid is pushed through a fluid circuit by pressure difference. Since the watt is a   relatively small amount of &lt;term&gt;power&lt;/term&gt;, &lt;term&gt;kilowatts&lt;/term&gt; (kW) and     &lt;term&gt;megawatts&lt;/term&gt; (MW) are commonly used. One kW is equal to 1000 W, and one MW   equals 1000 kW.
-The law of conservation of energy dictates that electric energy or power can be converted   to mechanical power or to heat, and vice versa. If the conversions were complete, one kW of   electric power would provide a kW of mechanical power or a kW of heat. In familiar units,   these approximate energy equivalents are listed below: &lt;md&gt; &lt;mrow&gt;746 \text{ W} = 0.746 \text{ kW} = 1 \text{ hp}&lt;/mrow&gt; &lt;mrow&gt;1 \text{ kW}= 1.340 \text{ hp}&lt;/mrow&gt; &lt;mrow&gt;1 \text{ kW}= 3412 \text{ Btu/hr}&lt;/mrow&gt;
-   &lt;/md&gt;
-
+        <Document ID="CFF963F2-7119-40F9-86B4-C2754EDFA084">
+            <Title>exercise</Title>
+            <Text>&lt;statement&gt; The main condensate pump in a steam propulsion plant discharges directly to the     ______.
+&lt;/statement&gt;
+&lt;choices&gt; &lt;choice correct="yes"&gt; &lt;statement&gt;    air ejector intercondenser &lt;/statement&gt; &lt;/choice&gt; &lt;choice&gt; &lt;statement&gt;    main condenser hotwell &lt;/statement&gt; &lt;/choice&gt; &lt;choice&gt; &lt;statement&gt;    air ejector aftercondenser &lt;/statement&gt; &lt;/choice&gt; &lt;choice&gt; &lt;statement&gt;    DC heater vent condenser &lt;/statement&gt; &lt;/choice&gt;
+&lt;/choices&gt;
 </Text>
         </Document>
-        <Document ID="40A77B1A-FBAF-44F0-B421-DD99A42627E9">
-            <Title>Impedance</Title>
-            <Text>With alternating current, the electron flow is opposed not only by the resistance but also   by an additional factor, the reactance. Reactance is caused by the response of the circuit   to the cyclic fluctuations of the alternating current and voltage, and may be further   categorized as inductive reactance or capacitive reactance. The sum of the resistance and   the reactance is the &lt;term&gt;impedance&lt;/term&gt;
-   Z, and has units of ohms. Impedance is defined as: &lt;me&gt;Z= E/I&lt;/me&gt;
-
-The magnitude of the impedance depends on factors that include the characteristics of the   components in the circuit and the frequency of the current.
+        <Document ID="420B2D42-B72C-4DD9-83C5-EDDE7A586978">
+            <Title>Recovered File-13</Title>
+            <Text>A steam strainer is located in the steam line upstream of the main engine to prevent
+        objects other than steam from entering the turbines, since solid objects impacting the
+        turbine blades would quickly destroy them. Steam lines would normally be expected to be
+        quite clean, but a strainer is cheap insurance against nuts, tools, and gloves left in the
+        lines by shipyard workers, or rust flakes formed during a layup period. Unfortunately, water
+        droplets due to wet steam or carryover will pass through the steam strainer. 
 </Text>
         </Document>
-        <Document ID="316867B1-8887-41F9-B2B3-76BE609FA9F9">
-            <Title>Synchronous motors</Title>
-            <Text>If we replace the compass needle in the above example with a more powerful magnet, the   magnetic field produced by this magnet would lock onto the rotating magnetic field produced   by the stator windings. The rotor can be a strong permanent magnet or an electromagnet   supplied (excited) by a DC source. This type of AC motor is called a &lt;term&gt;synchronous     motor&lt;/term&gt; and is characterized by the fact that the rotor rotates at the same speed as   the magnetic field produced by the stator windings, the synchronous speed. Synchronous   motors range in size from small motors for electric clocks fitted with permanent-magnet   rotors, to very large propulsion motors, developing 70,000 HP or more, with electromagnetic   rotors.
+        <Document ID="F77FD933-1D63-4196-9B4D-02E604AB56D4">
+            <Title>Recovered File-35</Title>
+            <Text>After the feedwater enters the boiler it passes through the &lt;em&gt;economizer&lt;/em&gt;. 
+The economizer is a heat recovery device. It consists of a finned-tube heat exchanger
+        which is heated by the boiler exhaust gases before they pass up the stack. This is the final
+        effort to improve the efficiency of the steam cycle, by recovering heat energy that would
+        otherwise be lost. 
+On some ships, the economizer is absent, and in its place is another heat exchanger, the
+          &lt;em&gt;heat-recovery type air preheater&lt;/em&gt; which is designed to raise the temperature of
+        the air used for combustion. On ships with air heaters, one or two additional stages of
+        regenerative feed heaters are usually installed in the feed line, between the feed pump and
+        the boiler, to improve overall cycle thermal efficiency. 
+An economizer or an air preheater will normally be found in a steam cycle, but not both.
+        If both were present, they would tend to lower the exhaust gas temperature to the point
+        where any water vapor in the exhaust would condense. While thermodynamically desirable, this
+        introduces the practical problem that the condensed moisture combines with the other
+        products of combustion to form a corrosive mixture of sulfuric acid in the exhaust. 
+After leaving the economizer the feedwater enters the steam drum where the generation
+        stage occurs, where the steam cycle begins again. 
 </Text>
         </Document>
-        <Document ID="30FCDFC9-EB2C-4F5D-9301-7785302B80F8">
-            <Title>Electric propulsion</Title>
-            <Text>Electric drives for ship propulsion have been used for over 100 years, employing generators driven by steam turbines, diesel engines, or gas turbines to power the &lt;term&gt;propulsion   motor&lt;/term&gt;(s) on the propeller shaft(s). ln comparison to geared drive, electric drive is more expensive to install, heavier, and less efficient. Electric drive is therefore normally used only where these disadvantages are outweighed by the advantages, which include excellent control of propeller speed and direction, as well as the flexibility of locating the generators and their prime movers in different spaces than the propulsion motors. A further advantage is that the power output from any number of generators can be combined to drive one or more propulsion motors.
-When ship's service power as well as propulsion power is derived from the same generators, the ship is said to have an &lt;term&gt;integrated&lt;/term&gt; power plant.
-
-   &lt;xref ref="fig_24_22_png"/&gt; shows a modern electric-propulsion system using AC/AC variable-frequency drive. In this system the mechanical prime mover drives an AC generator at constant speed, enabling ship's services to be supplied at constant frequency. For full speed of the ship, the maximum rpm of the propeller can be achieved without the frequency converter, based on the ratio of numbers of poles: &lt;me&gt;\text{rpm}_{\text{motor}} =   \text{rpm}_{\text{alternator}} \left(\frac{N_a}{N_m}\right)&lt;/me&gt;
-
-&lt;figure xml:id="fig_24_22_png"&gt;
-   &lt;caption&gt;Electric drive with multiple prime movers and frequency converter&lt;/caption&gt;
-   &lt;image source="pics/sname/24-22.png" width="85%"/&gt;
+        <Document ID="120F83FD-6294-4937-8C66-06D1A50FF360">
+            <Title>exercise</Title>
+            <Text>&lt;statement&gt; Steam supplied to the main propulsion turbines is ______.
+&lt;/statement&gt;
+&lt;choices&gt; &lt;choice correct="yes"&gt; &lt;statement&gt;    saturated steam &lt;/statement&gt; &lt;/choice&gt; &lt;choice&gt; &lt;statement&gt;    superheated steam &lt;/statement&gt; &lt;/choice&gt; &lt;choice&gt; &lt;statement&gt;    desuperheated steam &lt;/statement&gt; &lt;/choice&gt; &lt;choice&gt; &lt;statement&gt;    wet steam &lt;/statement&gt; &lt;/choice&gt;
+&lt;/choices&gt;
+</Text>
+        </Document>
+        <Document ID="13CEEAE6-23B0-440D-AB5A-B37D4F9E5616">
+            <Title>Recovered File-39</Title>
+            <Text>At this point in the simplified cycle, you will find a feed pump to return the condensate
+        back to the boiler. In an actual cycle you will find a number of additional items which are
+        installed to increase the efficiency of the steam cycle by adding essentially &lt;em&gt;free&lt;/em&gt;
+        energy to the working fluid. 
+The first new item is the &lt;em&gt;condensate pump&lt;/em&gt;, which is a centrifugal pump that takes
+        suction on the condenser hot well and raises the condensate pressure enough to move it on to
+        the DC heater. The condensate pump must pump from a vacuum, which is a difficult job for a
+        pump. It is important to properly vent and seal the pump, or it will not pump well. 
+</Text>
+        </Document>
+        <Document ID="58DCA407-8BD5-4A43-8427-62DFA531DCBD">
+            <Title>Recovered File-27</Title>
+            <Text>&lt;statement&gt;
+   Most marine boilers are designed to produce ______.
+&lt;/statement&gt;
+&lt;choices&gt;
+   &lt;choice&gt;
+      &lt;statement&gt;
+         superheated steam only
+      &lt;/statement&gt;
+   &lt;/choice&gt;
+   &lt;choice&gt;
+      &lt;statement&gt;
+         saturated and superheated steam
+      &lt;/statement&gt;
+   &lt;/choice&gt;
+   &lt;choice correct="yes"&gt;
+      &lt;statement&gt;
+         saturated steam only
+      &lt;/statement&gt;
+   &lt;/choice&gt;
+   &lt;choice&gt;
+      &lt;statement&gt;
+         superheated and supercritical steam
+      &lt;/statement&gt;
+   &lt;/choice&gt;
+&lt;/choices&gt;
+</Text>
+        </Document>
+        <Document ID="33F27061-EEA9-4840-BDBB-194298ADDA5A">
+            <Title>exercise</Title>
+            <Text>&lt;statement&gt; Air trapped within the main condenser shell is harmful because it will ______.
+&lt;/statement&gt;
+&lt;choices&gt; &lt;choice&gt; &lt;statement&gt;    decrease the turbine exhaust steam temperature &lt;/statement&gt; &lt;/choice&gt; &lt;choice&gt; &lt;statement&gt;    cause the turbine casing to warp and bow &lt;/statement&gt; &lt;/choice&gt; &lt;choice correct="yes"&gt; &lt;statement&gt;    decrease the vacuum in the main condenser &lt;/statement&gt; &lt;/choice&gt; &lt;choice&gt; &lt;statement&gt;    cause heat to be transferred too rapidly &lt;/statement&gt; &lt;/choice&gt;
+&lt;/choices&gt;
+</Text>
+        </Document>
+        <Document ID="6FE86E12-F313-4662-AD86-E607268B76BA">
+            <Title>Recovered File-12</Title>
+            <Text>The only thing that remains to complete the cycle is to return the condensate to the
+        boiler to be heated up again. Unfortunately, the condensate leaving the condenser is at a
+        low pressure and the boiler operates at a much higher pressure. Condensate won’t flow back
+        into the boiler by itself. A pump is required to raise the pressure and return the
+        condensate to the boiler. 
+The pump, known as the &lt;em&gt;feed pump&lt;/em&gt;, draws condensate from the condenser discharge,
+        raises its pressure slightly above the boiler pressure, and discharges it back into the
+        boiler to restart the cycle. Condensate leaving the feed pump is known as
+        &lt;em&gt;feedwater&lt;/em&gt;. 
+Work is required to drive the feed pump, and this energy reduces the net work produced by
+        the cycle and available to turn the shaft. Fortunately, since water is incompressible it
+        takes much less work to raise its pressure back to the boiler pressure than we get from an
+        equivalent pressure drop across the turbine, and so there is a net positive amount of work
+        produced by the cycle. 
+</Text>
+        </Document>
+        <Document ID="F4989F3B-9C6D-424C-BD8B-A1A27A172AE6">
+            <Title>Recovered File-3</Title>
+            <Text>The steam drum is located near the top of the boiler and should normally be half filled
+        with water and the remainder filled with steam. A &lt;em&gt;gage glass&lt;/em&gt; on the steam drum
+        allows the operator to determine the water level in the boiler. Too little water would be
+        very dangerous, because without water in the boiler the heat of the flames would melt the
+        boiler tubes and destroy the boiler. 
+Steam is formed in the boiler tubes, and since steam bubbles are less dense than the
+        surrounding liquid water, they float up to the top of the boiler and eventually rise above
+        the surface of the water in the steam drum. If the steam was allowed to build up in the
+        drum, the boiler pressure would quickly rise, and if not relieved by the safety valves,
+        would cause the boiler to explode. The system is designed to remove steam as quickly as it
+        is created, so a properly operated boiler will maintain a constant pressure. 
+</Text>
+        </Document>
+        <Document ID="074135A9-9B43-4CE8-BE6E-C7C495E62C8B">
+            <Title>Expansion</Title>
+            <Text>The thermal energy added to the working fluid in the generation stage is converted to   mechanical energy, or work, in the expansion stage. This work is produced in the form of a   rotating turbine shaft which drives the propeller and moves the ship through the water. The   more energy we can remove at this stage, the higher the efficiency of the steam cycle.   Unfortunately, it is not possible to remove all the energy from the steam in the turbine.   Some energy remains in the steam and is carried to the next stage of the cycle.
+A &lt;em&gt;turbine&lt;/em&gt; is the device used to accomplish the energy transformation in the   expansion stage. Like a pinwheel or a fan, a turbine has a freely rotating shaft with many   carefully designed &lt;em&gt;turbine blades&lt;/em&gt; attached. However, unlike a fan, the turbine   rotor is completely enclosed in a casing which also contains &lt;em&gt;nozzles&lt;/em&gt; and     &lt;em&gt;stationary blades&lt;/em&gt; designed to direct the steam towards the rotating blades.
+High-pressure, high-temperature steam passes through the nozzle, which has a very small   opening, and it emerges with a high velocity. The thermal energy of the steam is converted   into mechanical kinetic energy in the nozzle. This high velocity steam jet hits the blades   and imparts a turning torque to the rotor shaft and converts its kinetic energy to   rotational kinetic energy of the shaft. Most turbines have several rows of blades, forming   multiple stages to extract the maximum energy from the steam. As the steam gives up its   thermal energy, its temperature and pressure both drop. The steam leaves the turbine at a   low temperature and low pressure.
+High steam pressure at the inlet to the turbine is important for energy conversion, but it   is equally important to have a low pressure at the turbine outlet. Steam, or any fluid for   that matter, will only flow from high pressure to lower pressure. Without a pressure drop   across the blades of the turbine, there would be no steam flow, and no energy conversion. To   maximize the energy conversion, we must also maximize the pressure drop across the turbine.
+</Text>
+        </Document>
+        <Document ID="3D3D10AD-059E-4206-B5BA-3BA0E7A27C3D">
+            <Title>Recovered File-30</Title>
+            <Text>The throttle valves are the primary valves used to control the amount of steam allowed to
+        enter the turbines, and hence they control the speed of the ship. Previously, throttle
+        valves were manually operated by the engineer on watch in response to bell commands from the
+        bridge, but today the throttles may be controlled by the mate on the bridge by remote
+        control. 
+There are two throttles, the ahead throttle, and the astern throttle. The ahead throttle
+        controls steam to the high pressure turbine and controls the speed of the ship in the ahead
+        (forward) direction. If the ahead throttle is closed, and the astern throttle is opened,
+        steam will be directed to the astern section of the low pressure turbine. Blades in this
+        section are arranged so that they cause the turbine to rotate in the opposite direction and
+        reverse the propeller. 
+The ahead throttle and the astern throttle should not be opened at the same time, because
+        this would cause two opposing torques on the low pressure turbine rotor. While this would
+        not necessarily be damaging, it would be a colossal waste of energy. The &lt;em&gt;Astern Guardian
+          Valve&lt;/em&gt; is installed in the astern steam line between the astern throttle and the
+        astern turbine to protect against leakage of the astern throttle while the ship is underway.
+        This valve normally remains closed, and is only opened when the ship is expected to
+        maneuver. 
+</Text>
+        </Document>
+        <Document ID="1088252B-6C2E-446E-9D1C-F4A273FC3364">
+            <Title>Recovered File-22</Title>
+            <Text>&lt;statement&gt;
+   Steam supplied to the main propulsion turbines is ______.
+&lt;/statement&gt;
+&lt;choices&gt;
+   &lt;choice correct="yes"&gt;
+      &lt;statement&gt;
+         saturated steam
+      &lt;/statement&gt;
+   &lt;/choice&gt;
+   &lt;choice&gt;
+      &lt;statement&gt;
+         superheated steam
+      &lt;/statement&gt;
+   &lt;/choice&gt;
+   &lt;choice&gt;
+      &lt;statement&gt;
+         desuperheated steam
+      &lt;/statement&gt;
+   &lt;/choice&gt;
+   &lt;choice&gt;
+      &lt;statement&gt;
+         wet steam
+      &lt;/statement&gt;
+   &lt;/choice&gt;
+&lt;/choices&gt;
+</Text>
+        </Document>
+        <Document ID="AA72E57F-E232-4CD6-9EE0-3C414B7627CA">
+            <Title>exercise</Title>
+            <Text>&lt;statement&gt; In the boiler steam and water system, pressure is highest in the ______.
+&lt;/statement&gt;
+&lt;choices&gt; &lt;choice&gt; &lt;statement&gt;    steam stop &lt;/statement&gt; &lt;/choice&gt; &lt;choice&gt; &lt;statement&gt;    dry pipe &lt;/statement&gt; &lt;/choice&gt; &lt;choice correct="yes"&gt; &lt;statement&gt;    feed line &lt;/statement&gt; &lt;/choice&gt; &lt;choice&gt; &lt;statement&gt;    mud drum &lt;/statement&gt; &lt;/choice&gt;
+&lt;/choices&gt;
+</Text>
+        </Document>
+        <Document ID="5404AFC7-12C9-4040-8B5D-C3F843816197">
+            <Title>Throttles</Title>
+            <Text>The throttle valves are the primary valves used to control the amount of steam allowed to   enter the turbines, and hence they control the speed of the ship. Previously, throttle   valves were manually operated by the engineer on watch in response to bell commands from the   bridge, but today the throttles may be controlled by the mate on the bridge by remote   control.
+There are two throttles, the ahead throttle, and the astern throttle. The ahead throttle   controls steam to the high pressure turbine and controls the speed of the ship in the ahead   (forward) direction. If the ahead throttle is closed, and the astern throttle is opened,   steam will be directed to the astern section of the low pressure turbine. Blades in this   section are arranged so that they cause the turbine to rotate in the opposite direction and   reverse the propeller.
+The ahead throttle and the astern throttle should not be opened at the same time, because   this would cause two opposing torques on the low pressure turbine rotor. While this would   not necessarily be damaging, it would be a colossal waste of energy. The &lt;em&gt;Astern Guardian     Valve&lt;/em&gt; is installed in the astern steam line between the astern throttle and the   astern turbine to protect against leakage of the astern throttle while the ship is underway.   This valve normally remains closed, and is only opened when the ship is expected to   maneuver.
+</Text>
+        </Document>
+        <Document ID="7761BEF4-BD37-4DC8-875A-12A65CFAE4DD">
+            <Title>Recovered File-11</Title>
+            <Text>According to US Coast Guard regulations, boilers are required to have &lt;em&gt;two valve
+          protection&lt;/em&gt;, that is, they are required to have two valves in series in all boiler
+        connections. This insures that at least one valve will be functional when the time comes to
+        secure the boiler. 
+The bulkhead stop valve is located in the main steam line, downstream of the main steam
+        stop valve, and provides backup protection for it. 
+</Text>
+        </Document>
+        <Document ID="75619CA9-D80B-45E8-B471-2A02E1CDA650">
+            <Title>Recovery</Title>
+            <Text>The only thing that remains to complete the cycle is to return the condensate to the   boiler to be heated up again. Unfortunately, the condensate leaving the condenser is at a   low pressure and the boiler operates at a much higher pressure. Condensate won’t flow back   into the boiler by itself. A pump is required to raise the pressure and return the   condensate to the boiler.
+The pump, known as the &lt;em&gt;feed pump&lt;/em&gt;, draws condensate from the condenser discharge,   raises its pressure slightly above the boiler pressure, and discharges it back into the   boiler to restart the cycle. Condensate leaving the feed pump is known as   &lt;em&gt;feedwater&lt;/em&gt;.
+Work is required to drive the feed pump, and this energy reduces the net work produced by   the cycle and available to turn the shaft. Fortunately, since water is incompressible it   takes much less work to raise its pressure back to the boiler pressure than we get from an   equivalent pressure drop across the turbine, and so there is a net positive amount of work   produced by the cycle.
+</Text>
+        </Document>
+        <Document ID="313F6650-1A5D-4FFF-9D7C-76AC405B812A">
+            <Title>exercise</Title>
+            <Text>&lt;statement&gt; Which of the devices listed is used to convert thermal energy to useful mechanical     work?
+&lt;/statement&gt;
+&lt;choices&gt; &lt;choice correct="yes"&gt; &lt;statement&gt;    Turbine &lt;/statement&gt; &lt;/choice&gt; &lt;choice&gt; &lt;statement&gt;    Condenser &lt;/statement&gt; &lt;/choice&gt; &lt;choice&gt; &lt;statement&gt;    Air ejector &lt;/statement&gt; &lt;/choice&gt; &lt;choice&gt; &lt;statement&gt;    Each of the above &lt;/statement&gt; &lt;/choice&gt;
+&lt;/choices&gt;
+</Text>
+        </Document>
+        <Document ID="E6DD8D2F-0ACF-495B-880F-0BF39106504F">
+            <Title>Air Ejector Condenser</Title>
+            <Text>The air ejector, as mentioned above, is a steam powered air pump which is used to remove   air leakage from the condenser. Since the air ejector operates on steam, and normally draws   out some steam along with the air it removes, it is important to recover this steam in a   condenser so that it is not lost from the steam cycle.
+We &lt;em&gt;could&lt;/em&gt; use a saltwater cooled condenser to condense this steam, but we don’t.   Instead the coolant used is the condensate from the main condenser on its way back to the   boiler. This is done for two reasons. First, the heat given up by the condensing air ejector   steam preheats the condensate before it returns to the boiler, thus saving energy. Any heat   added before the condensate reaches the boiler represents fuel that doesn’t need to be   burned. Second, by cooling the air ejector condenser with condensate, there is no chance of   contaminating the condensate with saltwater in the event of a tube leak.
+A typical air ejector condenser is shown in &lt;xref ref="air_ejector_vw_png"/&gt;. The air   ejector must operate in two stages to accomplish the necessary increase in pressure to move   the air from the main condenser back to the atmosphere. As a result the condenser is also   divided into two areas to maintain the pressure differential between the stages. The first   condenser is known as the &lt;em&gt;inter-condenser&lt;/em&gt;, and it discharges its condensate back to   the main condenser. The second stage air ejector steam is condensed in the     &lt;em&gt;after-condenser&lt;/em&gt; and the condensate collected there is returned to the system by   way of the &lt;em&gt;atmospheric drain tank&lt;/em&gt;.
+&lt;figure xml:id="air_ejector_vw_png"&gt; &lt;caption&gt;Air Ejector Unit&lt;/caption&gt; &lt;image source="pics/steamcycle/air_ejector.vw.png"/&gt;
 &lt;/figure&gt;
-where N_a and N_m are the numbers of poles in the alternator and propulsion motor respectively. As an example, if the prime mover is a gas turbine running at 3600 rpm, driving a two-pole alternator, and the propulsion motor is a 60-pole synchronous motor directly connected to the propeller shaft, the propeller will turn at 120 rpm. (If an induction motor is used, the propeller rpm will be slightly lower.) For maneuvering, lower propeller rpm is achieved without changing the generator speed by using the frequency converter to reduce the frequency of the power to the propulsion motor. Reversing of the propulsion motor is easily accomplished by switching two of the three leads supplying the motor. 
 </Text>
         </Document>
-        <Document ID="A07B347E-011C-4685-B965-A24910766255">
-            <Title>Shipboard electric systems</Title>
-            <Text>Most American ships use 60 Hz AC supplied at 480 volts. For large shipboard electric plants, where the ship's generating capacity is above 2500 kW, it is often more economical to supply the power at 2400 or 4160 volts. 50 Hz is common on foreign ships. Some naval vessels use 400 Hz for special applications.
-Regulations normally require that a ship's electric-generating plant must be capable of supplying the design electric load with one generator shut down. Most ships therefore have two or three &lt;term&gt;ship's-service generators&lt;/term&gt;. The ship's-service generators are connected to the &lt;term&gt; main switchboard&lt;/term&gt;, which includes generator panels and &lt;term&gt;distribution   switchboards&lt;/term&gt;, connected by large conductors called bus bars. From the distribution switchboards the power is passed through &lt;term&gt;feeders&lt;/term&gt; to other switchboards called   &lt;term&gt;load centers&lt;/term&gt;, &lt;term&gt;group-control centers&lt;/term&gt;, and &lt;term&gt;power panels&lt;/term&gt;. These switchboards house &lt;term&gt;circuit breakers&lt;/term&gt; and control equipment known collectively as &lt;term&gt;switchgear&lt;/term&gt;. &lt;xref ref="fig_24_21_png"/&gt; is a &lt;term&gt;one-line   diagram&lt;/term&gt;, which shows the electric &lt;term&gt;distribution system&lt;/term&gt; for a typical merchant ship. An emergency switchboard is used to supply electric power to vital loads and is normally supplied with power from the main switchboard. In the event of a complete loss of electric power (a &lt;term&gt;black-out&lt;/term&gt;) the emergency switchboard is isolated from the main switchboard, and supplied with power from the &lt;term&gt;emergency generator&lt;/term&gt;. The emergency generator is required to be located outside of the engine room and above the ship's margin line (3 inches or 75 mm above the bulkhead deck, sometimes referred to the upper deck).
-&lt;figure xml:id="fig_24_21_png"&gt;
-   &lt;caption&gt;One-line diagram of electrical distribution system&lt;/caption&gt;
-   &lt;image source="pics/sname/24-21.png" width="100%"/&gt;
-&lt;/figure&gt;
-Most shipboard motors driving pumps, compressors, and blowers are 460 volt, three-phase motors. The motors are assumed to receive power at 460 volts, although the power is generated at 480 volts, because of the &lt;term&gt;voltage drop&lt;/term&gt; associated with the line losses in the conductors and switchgear. When power levels are high, high voltages (2400 or 4160 volts) are preferable for transmission since, for a given power, the current decreases proportionally as the voltage goes up (power is proportional to the product of voltage and current). Low currents allow smaller conductors and cause lower line losses (line losses are proportional to the square of the current).
-For safety reasons and for commonality with shore-side equipment, the power used for lighting circuits, and for general distribution to accommodation and work areas of a ship, is reduced to a lower voltage by transformers. On American ships 120 volt, single-phase power is normal for these purposes, but 220 volt, single-phase power is common on other vessels. Specialized equipment aboard ship, such as control systems and battery chargers, usually use even lower voltages, with 24 volts being a typical value.
+        <Document ID="E9772BC0-EB99-4944-82E3-8B0671D246FA">
+            <Title>Recovered File-4</Title>
+            <Text>Steam generation occurs in the boiler. The boiler is simply a device used to boil water.
+        Like a tea-kettle on the stove, it contains liquid water and a heat source. As the water is
+        heated, its temperature rises and soon it begins to boil. On the stove, the water vapor or
+        steam rises and dissipates into the kitchen, but not so in a boiler. The boiler is a closed
+        vessel, like a pot with a lid, and any steam generated in the boiler rises to the top and is
+        collected before being sent on to the next step of the cycle. 
+In the generation stage, the chemical energy stored in the ship’s fuel is released when
+        the fuel is burned in the boiler furnace, and some of this energy is transferred to the
+        working fluid – the water. The water gains energy, and we can detect this in two ways: the
+        water’s temperature goes up, and the water changes &lt;em&gt;state&lt;/em&gt; from a liquid into water
+        vapor, which we call steam. Steam leaves the boiler at high pressure and high temperature. 
+As we will learn in &lt;xref ref="thermodynamics"/&gt;, heat energy which raises the temperature
+        of a substance such as water or steam is sometimes called &lt;em&gt;sensible heat&lt;/em&gt; while the
+        heat energy that actually boils the substance is called &lt;em&gt;latent heat&lt;/em&gt;. 
+You probably remember that water boils at 212 °F at standard atmospheric pressure (14.7
+        psia). If you put a thermometer into a pan of water boiling on the stove, this is what it
+        will read. Even if you turn the flame up to add more heat energy, you won’t be able to make
+        the water temperature rise above 212 °F. This is because you are adding latent heat, which
+        is not reflected by an increase in the water’s temperature. All of the heat energy is being
+        used to turn the liquid water into a vapor. 
+The boiling or condensing temperature of a liquid is known as its &lt;em&gt;saturation&lt;/em&gt;
+        temperature. The saturation temperature for a particular liquid is determined by its
+        pressure, and cannot be changed. For example, 212 °F is the saturation temperature for water
+        at atmospheric pressure, and there is nothing anybody can do to change it. 
+In order to reach high steam temperatures, which is necessary for high steam cycle
+        efficiency, the boiler must be operated at a pressure far above atmospheric pressure. A
+        typical marine boiler operates at about 600 psi while some have operated as high as 1200
+        psi, although this introduces additional maintenance difficulties. Shoreside steam power
+        plants operate at 3000 psi or even higher. 
+Steam temperature is raised even further by superheating the steam. Superheating steam
+        raises its temperature above the saturation temperature for the corresponding steam pressure
+        by continuing to add heat to the steam after it has completely vaporized. This must take
+        place in a separate area, called the &lt;em&gt;superheater,&lt;/em&gt; away from liquid water, or the
+        additional heat would simply boil more water rather than superheating the steam. Superheated
+        steam is said to be &lt;em&gt;dry&lt;/em&gt;, which means that all liquid water has vaporized and it
+        contains no moisture droplets. Drops of liquid water would damage the turbine in the
+        expansion step described below. 
+Improving efficiency is a major concern of mechanical and marine engineers. High
+        efficiency means that fuel is not wasted, and operating costs are minimized. Practical
+        boiler designs incorporate many techniques to maximize efficiency. For example, not all of
+        the chemical energy originally contained by the fuel ends up transferred to the steam. A
+        large portion of this energy is lost up the smokestack, carried away by the combustion
+        gases. Practical boilers usually contain some sort of heat exchanger in the smokestack in an
+        effort to recover some of this energy. 
 </Text>
         </Document>
-        <Document ID="129DA030-B512-4571-8768-46CA2B6D486F">
-            <Title>Single-phase alternators</Title>
-            <Text>In the simple alternator of &lt;xref ref="fig_24_8_png"/&gt; the engine or turbine spins a magnet   (on the rotor}, with north and south &lt;term&gt;poles&lt;/term&gt;, which is surrounded by a coil of   stationary conductors (the winding on the &lt;term&gt;stator&lt;/term&gt;). The magnitude of the   impressed voltage will depend on the strength of the magnetic field, denoted as     &lt;term&gt;magnetic flux&lt;/term&gt;, and the speed at which the conductors are swept or "cut" by   the magnetic flux.
-&lt;figure xml:id="fig_24_8_png"&gt;
-   &lt;caption&gt;Single-phase alternator with two-pole rotor&lt;/caption&gt;
-   &lt;image source="pics/sname/24-8.png" width="50%"/&gt;
-&lt;/figure&gt;
-Because of the rotation of the magnetic poles the impressed voltage is not constant, but   varies in magnitude and direction cyclically, as shown in &lt;xref ref="fig_24_1_png"/&gt;. The   flux cutting the right side of the conductor is that associated with a south pole, but when   the magnet rotates 180 degrees the conductor is being cut by the flux associated with the   north pole, reversing the direction or &lt;term&gt;polarity&lt;/term&gt; of the voltage. When the magnet   is vertical no flux cuts the conductors and therefore no voltage is impressed. The result is   a voltage curve with the shape of a sine wave, as shown in &lt;xref ref="fig_24_1_png"/&gt;. Since   this alternator generates voltage that is described by a single sine wave It is a     &lt;term&gt;single-phase&lt;/term&gt; alternator.
-If the two-pole rotor (one north and one south pole) of &lt;xref ref="fig_24_8_png"/&gt; is   rotated at 3600 rpm the current will have a frequency of 3600 cycles per minute or 60 cycles   per second. If the rotor were a four-pole magnet as in &lt;xref ref="fig_24_9_png"/&gt;, then in   each revolution of the rotor the conductors in the winding will be cut by the magnetic field   twice as frequently. Turning the rotor at 1800 rpm would then produce the same 60 Hz sine   wave. The frequency of the voltage generated by an alternator can be expressed as: &lt;me&gt;f =     \frac{120 \times N}{2 \times 60}&lt;/me&gt;
+        <Document ID="1788FEC7-B874-41CD-883B-AFEF84343A5C">
+            <Title>Recovered File-19</Title>
+            <Text>The next stop in the steam cycle is the first stage heater. This unit contains two
+        internal sections: the drain cooler and the first stage heater, in that order. Both of these
+        sections helps improve cycle efficiency by providing additional heat to the condensate. 
+This unit provides a form of &lt;em&gt;regenerative feed heating&lt;/em&gt; which can be shown to
+        improve the overall efficiency of the cycle. In regenerative heating, a portion of the steam
+        from within the turbine is bled off before it has fully expanded. This steam, which is still
+        quite hot, is used to preheat the condensate. Some shore power plants have four or more
+        stages of regenerative heating. 
 
-where f is the frequency in Hz and N is the total number of poles.
-&lt;figure xml:id="fig_24_9_png"&gt;
-   &lt;caption&gt;Four-pole rotor for an alternator&lt;/caption&gt;
-   &lt;image source="pics/sname/24-9.png" width="60%"/&gt;
+   &lt;em&gt;Low pressure bleed&lt;/em&gt; steam is used as the steam supply for the first stage heater.
+        The bleed steam condenses as it gives up its energy to the condensate, and the condensed
+        bleed steam, known as &lt;em&gt;drains&lt;/em&gt; is still hot enough to be used to preheat the
+        condensate. The drains then enter the &lt;em&gt;drain cooler section&lt;/em&gt; where the remaining heat
+        is recovered, before the drains are returned to the system by vacuum drag to the main
+        condenser. 
+In some designs, the gland exhaust condenser is incorporated into the first stage heater
+        unit as well, rather than a separate heat exchanger as we have on the &lt;em&gt;Kennedy&lt;/em&gt;. In
+        any event, the flow order through these three heat exchangers is always from coolest to
+        hottest. Therefore the gland exhaust condenser comes first, followed by the drain cooler,
+        and finally the first stage heater. 
+</Text>
+        </Document>
+        <Document ID="3687FA58-A941-47F2-9223-7D7C649499D0">
+            <Title>Recovered File-25</Title>
+            <Text>&lt;statement&gt;
+   In the boiler steam and water system, pressure is highest in the ______.
+&lt;/statement&gt;
+&lt;choices&gt;
+   &lt;choice&gt;
+      &lt;statement&gt;
+         steam stop
+      &lt;/statement&gt;
+   &lt;/choice&gt;
+   &lt;choice&gt;
+      &lt;statement&gt;
+         dry pipe
+      &lt;/statement&gt;
+   &lt;/choice&gt;
+   &lt;choice correct="yes"&gt;
+      &lt;statement&gt;
+         feed line
+      &lt;/statement&gt;
+   &lt;/choice&gt;
+   &lt;choice&gt;
+      &lt;statement&gt;
+         mud drum
+      &lt;/statement&gt;
+   &lt;/choice&gt;
+&lt;/choices&gt;
+</Text>
+        </Document>
+        <Document ID="DE05A654-4006-4522-A0C8-2031A7A38213">
+            <Title>Recovered File-21</Title>
+            <Text>While the simplified steam cycle discussed in the previous section could be built, and it
+        would work, several modifications are required to make it practical and to improve its
+        efficiency. This practical steam cycle is shown in &lt;xref ref="MainSteamCycle_png"/&gt;. Each of
+        the components of this cycle will be briefly discussed in the following sections, in its
+        order in the cycle, and a more detailed discussion of the major components will be found in
+        the chapters to follow. 
+&lt;figure xml:id="MainSteamCycle_png"&gt;
+   &lt;caption&gt;Main Steam Cycle&lt;/caption&gt;
+   &lt;image source="pics/steamcycle/MainSteamCycle" width="100%"/&gt;
 &lt;/figure&gt;
+</Text>
+        </Document>
+        <Document ID="6BCEEE44-C05E-4A28-9A16-E1A5B60E9932">
+            <Title>exercise</Title>
+            <Text>&lt;statement&gt; After the steam leaves the low pressure turbine, it enters the ______.
+&lt;/statement&gt;
+&lt;choices&gt; &lt;choice correct="yes"&gt; &lt;statement&gt;    main condenser &lt;/statement&gt; &lt;/choice&gt; &lt;choice&gt; &lt;statement&gt;    feed and filter tank &lt;/statement&gt; &lt;/choice&gt; &lt;choice&gt; &lt;statement&gt;    first-stage feedwater heater &lt;/statement&gt; &lt;/choice&gt; &lt;choice&gt; &lt;statement&gt;    turbine extraction valve manifold &lt;/statement&gt; &lt;/choice&gt;
+&lt;/choices&gt;
 </Text>
         </Document>
     </Documents>

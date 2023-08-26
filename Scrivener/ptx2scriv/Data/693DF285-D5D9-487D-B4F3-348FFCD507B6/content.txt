@@ -1,0 +1,7 @@
+<p> Steam collected in the dry pipe is directed to the superheater section of the boiler,
+        where its temperature is raised beyond the saturation temperature to improve the efficiency
+        of the steam cycle. </p>
+<p> The superheater is a bank of boiler tubes located in the hottest portions of the
+        combustion gas path. Since there is no liquid water in the superheater, all heat added there
+        is sensible heat. It is important to always maintain a flow of steam through the superheater
+        tubes, or else the tubes would quickly overheat and melt. </p>

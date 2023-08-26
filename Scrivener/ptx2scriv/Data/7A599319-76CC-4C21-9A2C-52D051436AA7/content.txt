@@ -1,7 +1,0 @@
-<p>Fuel cells are similar to·batteries but supply power continuously because the electrolyte
-        is continuously rejuvenated. This rejuvenation is achieved by continuously adding hydrogen
-        and oxygen to the electrolyte. Fuel cells operating on pure hydrogen have been used in space
-        vehicles for years, but advancing technology will allow fuel cell systems to operate on less
-        expensive, readily available hydrocarbon fuels from which the hydrogen can be separated.
-        Fuel-cell systems have the potential to achieve efficiencies higher than those based on
-        engine-driven generators. </p>

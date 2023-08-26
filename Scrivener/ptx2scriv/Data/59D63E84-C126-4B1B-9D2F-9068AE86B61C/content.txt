@@ -1,2 +1,0 @@
-<p>This chapter is adapted from <pubtitle>Introduction to Practical Marine
-        Engineering</pubtitle>, SNAME 2005.</p>
