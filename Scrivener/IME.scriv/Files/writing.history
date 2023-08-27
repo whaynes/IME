@@ -38,5 +38,6 @@
     <Day dwc="503" dcc="3248" dtwc="30486" owc="720" occ="5935" dtcc="205269">2023-08-19</Day>
     <Day dwc="124" dcc="-248" dtwc="32601" owc="-6" occ="-27" dtcc="221170">2023-08-20</Day>
     <Day dwc="782" dcc="5385" owc="0" occ="0">2023-08-21</Day>
-    <Day dwc="-2" dcc="-15" owc="0" occ="0">2023-08-26</Day>
+    <Day dwc="59" dcc="-248" dtwc="5635" owc="0" occ="0" dtcc="32893">2023-08-26</Day>
+    <Day dwc="-1" dcc="-5" owc="0" occ="0">2023-08-27</Day>
 </WritingHistory>

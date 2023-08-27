@@ -1,0 +1,26 @@
+<statement>
+   <p> Under normal conditions, steam to the DC heater is supplied directly from which of
+            the systems listed? </p>
+</statement>
+<choices>
+   <choice>
+      <statement>
+         <p>Main steam </p>
+      </statement>
+   </choice>
+   <choice>
+      <statement>
+         <p>600 psi auxiliary steam </p>
+      </statement>
+   </choice>
+   <choice>
+      <statement>
+         <p>150 psi auxiliary steam </p>
+      </statement>
+   </choice>
+   <choice>
+      <statement>
+         <p>Auxiliary exhaust steam </p>
+      </statement>
+   </choice>
+</choices>

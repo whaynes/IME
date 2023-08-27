@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="9CEE092B-52A4-40FD-A463-60A47C53A797" Version="2.0" Creator="SCRMAC-3.3.1-15588" Device="whaynes-MBP-2021" Author="" Modified="2023-08-26 14:51:44 -0400" ModID="7950954F-4A0B-4193-813E-2672F7B6A4C2">
+<ScrivenerProject Identifier="9CEE092B-52A4-40FD-A463-60A47C53A797" Version="2.0" Creator="SCRMAC-3.3.1-15588" Device="whaynes-MBP-2021" Author="" Modified="2023-08-27 13:40:01 -0400" ModID="7BF44EB2-F4A3-4FC3-A25E-C8B9C0D54BD8">
     <Binder>
         <BinderItem UUID="7A583553-3A84-40D6-B9B9-0430B8CD3E39" Type="DraftFolder" Created="2023-05-29 09:45:48 -0400" Modified="2023-05-29 09:45:48 -0400">
             <Title>Draft</Title>
@@ -3999,14 +3999,14 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem UUID="A990D340-8B32-4517-8774-146C3611D206" Type="Folder" Created="2023-05-31 15:03:02 -0400" Modified="2023-06-25 12:25:22 -0400">
+                <BinderItem UUID="A990D340-8B32-4517-8774-146C3611D206" Type="Folder" Created="2023-05-31 15:03:02 -0400" Modified="2023-08-26 18:16:19 -0400">
                     <Title>Steam Propulsion</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <CustomMetaData>
                             <MetaDataItem>
                                 <FieldID>xml:id</FieldID>
-                                <Value>steam-power</Value>
+                                <Value>steam-propulsion</Value>
                             </MetaDataItem>
                         </CustomMetaData>
                     </MetaData>
@@ -4014,18 +4014,24 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="AF841D75-092B-47D0-B576-25BF61C4385A" Type="Folder" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 14:01:51 -0400">
+                        <BinderItem UUID="AF841D75-092B-47D0-B576-25BF61C4385A" Type="Folder" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 18:16:27 -0400">
                             <Title>introduction</Title>
                             <MetaData>
                                 <SectionType>9D1ADC50-E7BB-4E40-BA04-CCA44927A08E</SectionType>
                                 <IncludeInCompile>Yes</IncludeInCompile>
+                                <CustomMetaData>
+                                    <MetaDataItem>
+                                        <FieldID>xml:id</FieldID>
+                                        <Value>intro-steam</Value>
+                                    </MetaDataItem>
+                                </CustomMetaData>
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="B4C4E0EA-BC3B-4ED7-80C4-D0764EA7D217" Type="Folder" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:38:38 -0400">
-                            <Title>Simplified Steam Cycle</Title>
+                        <BinderItem UUID="B4C4E0EA-BC3B-4ED7-80C4-D0764EA7D217" Type="Folder" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-27 13:09:38 -0400">
+                            <Title>Basic Steam Cycle</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <CustomMetaData>
@@ -4039,7 +4045,7 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="B8EB6175-E365-46BA-912F-D0D9C0BDFF3A" Type="Folder" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 14:50:23 -0400">
+                                <BinderItem UUID="B8EB6175-E365-46BA-912F-D0D9C0BDFF3A" Type="Folder" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-27 13:08:35 -0400">
                                     <Title>introduction</Title>
                                     <MetaData>
                                         <SectionType>9D1ADC50-E7BB-4E40-BA04-CCA44927A08E</SectionType>
@@ -4055,7 +4061,7 @@
                                         <TextSelection>1104,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="189C70F7-1867-4E4D-BA23-A397641593A5" Type="Text" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 14:51:35 -0400">
+                                <BinderItem UUID="189C70F7-1867-4E4D-BA23-A397641593A5" Type="Text" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-27 11:03:13 -0400">
                                     <Title>Generation</Title>
                                     <MetaData>
                                         <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
@@ -4071,7 +4077,7 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="4A2FCE01-CDB5-46AB-ACAA-4A72332E0B6F" Type="Text" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 14:51:35 -0400">
+                                <BinderItem UUID="4A2FCE01-CDB5-46AB-ACAA-4A72332E0B6F" Type="Text" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-27 13:08:35 -0400">
                                     <Title>Expansion</Title>
                                     <MetaData>
                                         <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
@@ -4084,10 +4090,10 @@
                                         </CustomMetaData>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
+                                        <TextSelection>1047,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="06881393-F1E9-4F0F-A21F-8D061EC638F7" Type="Text" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 14:51:35 -0400">
+                                <BinderItem UUID="06881393-F1E9-4F0F-A21F-8D061EC638F7" Type="Text" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-27 11:04:50 -0400">
                                     <Title>Condensation</Title>
                                     <MetaData>
                                         <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
@@ -4103,7 +4109,7 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="B043D806-EF46-482A-A39C-169033A7EB59" Type="Text" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 14:51:35 -0400">
+                                <BinderItem UUID="B043D806-EF46-482A-A39C-169033A7EB59" Type="Text" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-27 11:05:04 -0400">
                                     <Title>Recovery</Title>
                                     <MetaData>
                                         <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
@@ -4119,7 +4125,7 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="AABB2869-6F58-41F9-ACF4-56ABACF27399" Type="Text" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 14:51:35 -0400">
+                                <BinderItem UUID="AABB2869-6F58-41F9-ACF4-56ABACF27399" Type="Text" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-27 13:08:35 -0400">
                                     <Title>T-s diagram</Title>
                                     <MetaData>
                                         <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
@@ -4132,13 +4138,13 @@
                                         </CustomMetaData>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>1005,137</TextSelection>
+                                        <TextSelection>1129,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem UUID="F794FDA5-501F-4AFC-A17E-2110FD85D0A0" Type="Folder" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:38:38 -0400">
-                            <Title>Practical Steam Cycle</Title>
+                        <BinderItem UUID="F794FDA5-501F-4AFC-A17E-2110FD85D0A0" Type="Folder" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-27 13:10:07 -0400">
+                            <Title>Steam Propulsion System</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <CustomMetaData>
@@ -4152,7 +4158,7 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="997A4ACA-FF05-46BC-B8C0-266CCA4D412C" Type="Folder" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 14:08:48 -0400">
+                                <BinderItem UUID="997A4ACA-FF05-46BC-B8C0-266CCA4D412C" Type="Folder" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-27 13:12:30 -0400">
                                     <Title>introduction</Title>
                                     <MetaData>
                                         <SectionType>9D1ADC50-E7BB-4E40-BA04-CCA44927A08E</SectionType>
@@ -4168,7 +4174,7 @@
                                         <TextSelection>485,144</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="B558A8AC-E568-4EC0-8A2A-D1B1E3434154" Type="Folder" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:56:13 -0400">
+                                <BinderItem UUID="B558A8AC-E568-4EC0-8A2A-D1B1E3434154" Type="Folder" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-27 13:08:35 -0400">
                                     <Title>Boiler</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -4183,7 +4189,7 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="43C25DE4-5C73-4137-BC8C-2843BE82AD7A" Type="Folder" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:56:13 -0400">
+                                <BinderItem UUID="43C25DE4-5C73-4137-BC8C-2843BE82AD7A" Type="Folder" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-27 13:08:35 -0400">
                                     <Title>Steam Drum</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -4198,7 +4204,7 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="8B95DA32-19DE-465E-A4C1-1E9BBF9077CF" Type="Folder" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:56:13 -0400">
+                                <BinderItem UUID="8B95DA32-19DE-465E-A4C1-1E9BBF9077CF" Type="Folder" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-27 10:48:58 -0400">
                                     <Title>Dry Pipe</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -4213,7 +4219,7 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="88E114D4-2808-4654-ABCF-B2E6073257A2" Type="Folder" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:56:13 -0400">
+                                <BinderItem UUID="88E114D4-2808-4654-ABCF-B2E6073257A2" Type="Folder" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 18:54:30 -0400">
                                     <Title>Superheater</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -4228,8 +4234,8 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="899D8A2F-68AF-4464-B922-D8DE01CB5700" Type="Folder" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 14:10:40 -0400">
-                                    <Title>Main Steam Stop Valve</Title>
+                                <BinderItem UUID="899D8A2F-68AF-4464-B922-D8DE01CB5700" Type="Folder" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 18:59:43 -0400">
+                                    <Title>Stop Valves</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <CustomMetaData>
@@ -4243,22 +4249,7 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="DA5FD80D-410A-4261-8EC8-8F92BAA5473A" Type="Folder" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 14:10:56 -0400">
-                                    <Title>Bulkhead Stop Valve</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <CustomMetaData>
-                                            <MetaDataItem>
-                                                <FieldID>xml:id</FieldID>
-                                                <Value>bulkheadstopvalve</Value>
-                                            </MetaDataItem>
-                                        </CustomMetaData>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem UUID="2D003243-E242-4F27-9AC9-B07357BE907D" Type="Folder" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:56:13 -0400">
+                                <BinderItem UUID="2D003243-E242-4F27-9AC9-B07357BE907D" Type="Folder" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 19:02:22 -0400">
                                     <Title>Strainer</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -4273,7 +4264,7 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="7C295420-4A38-4A5B-A5FA-C59D3C931CF6" Type="Folder" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:56:13 -0400">
+                                <BinderItem UUID="7C295420-4A38-4A5B-A5FA-C59D3C931CF6" Type="Folder" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-27 09:45:25 -0400">
                                     <Title>Throttles</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -4288,8 +4279,8 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="448D5C1E-6082-4C3A-9D60-207901555C72" Type="Folder" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:56:13 -0400">
-                                    <Title>HP Turbine</Title>
+                                <BinderItem UUID="448D5C1E-6082-4C3A-9D60-207901555C72" Type="Folder" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-27 13:08:35 -0400">
+                                    <Title>Turbines</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <CustomMetaData>
@@ -4303,22 +4294,7 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="0C4205A6-7A7E-4875-94CC-6F012E90541F" Type="Folder" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:56:13 -0400">
-                                    <Title>LP Turbine</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <CustomMetaData>
-                                            <MetaDataItem>
-                                                <FieldID>xml:id</FieldID>
-                                                <Value>lpturbine</Value>
-                                            </MetaDataItem>
-                                        </CustomMetaData>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem UUID="261B3A94-BF5F-4195-88CA-546062E3949A" Type="Folder" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:56:13 -0400">
+                                <BinderItem UUID="261B3A94-BF5F-4195-88CA-546062E3949A" Type="Folder" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-27 11:11:56 -0400">
                                     <Title>Main Condenser</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -4333,7 +4309,7 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="B21048FC-320A-4D60-A581-12B93A53998E" Type="Folder" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:56:13 -0400">
+                                <BinderItem UUID="B21048FC-320A-4D60-A581-12B93A53998E" Type="Folder" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-27 11:08:20 -0400">
                                     <Title>Condensate pump</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -4348,8 +4324,8 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="F5E2724E-1C74-47BC-8DBB-7CA3AD6064D9" Type="Folder" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:56:13 -0400">
-                                    <Title>Air Ejector Condenser</Title>
+                                <BinderItem UUID="F5E2724E-1C74-47BC-8DBB-7CA3AD6064D9" Type="Folder" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-27 13:08:35 -0400">
+                                    <Title>Heat Exchangers</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <CustomMetaData>
@@ -4363,37 +4339,7 @@
                                         <TextSelection>1635,135</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="885AEC37-7BC7-4786-B2A1-6563FC75E45F" Type="Folder" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:56:13 -0400">
-                                    <Title>Gland Exhaust Condenser</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <CustomMetaData>
-                                            <MetaDataItem>
-                                                <FieldID>xml:id</FieldID>
-                                                <Value>glandexhaustcondenser</Value>
-                                            </MetaDataItem>
-                                        </CustomMetaData>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem UUID="4F999277-36DF-4F17-B189-77C0D8748954" Type="Folder" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:56:13 -0400">
-                                    <Title>First Stage Heater Unit</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <CustomMetaData>
-                                            <MetaDataItem>
-                                                <FieldID>xml:id</FieldID>
-                                                <Value>firststageheaterunit</Value>
-                                            </MetaDataItem>
-                                        </CustomMetaData>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem UUID="E2086D42-F859-4801-B737-5CF4398D6437" Type="Folder" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:56:13 -0400">
+                                <BinderItem UUID="E2086D42-F859-4801-B737-5CF4398D6437" Type="Folder" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-27 13:32:19 -0400">
                                     <Title>DC Heater</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -4407,8 +4353,58 @@
                                     <TextSettings>
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
+                                    <Children>
+                                        <BinderItem UUID="D507EA60-FEC9-4A37-A632-DC18C72DC7E1" Type="Text" Created="2023-08-27 13:27:30 -0400" Modified="2023-08-27 13:28:16 -0400">
+                                            <Title>Heat </Title>
+                                            <MetaData>
+                                                <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <CustomMetaData>
+                                                    <MetaDataItem>
+                                                        <FieldID>xml:id</FieldID>
+                                                        <Value>dchtr</Value>
+                                                    </MetaDataItem>
+                                                </CustomMetaData>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="98E68C2A-F4D3-4A48-A8A5-FE7E1A55CD83" Type="Text" Created="2023-08-27 13:27:37 -0400" Modified="2023-08-27 13:28:30 -0400">
+                                            <Title>Deaerate </Title>
+                                            <MetaData>
+                                                <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <CustomMetaData>
+                                                    <MetaDataItem>
+                                                        <FieldID>xml:id</FieldID>
+                                                        <Value>dchtr</Value>
+                                                    </MetaDataItem>
+                                                </CustomMetaData>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="9D5FBD2F-F4F0-4943-8D3C-67C7A2188BCF" Type="Text" Created="2023-08-27 13:27:41 -0400" Modified="2023-08-27 13:29:13 -0400">
+                                            <Title>Store </Title>
+                                            <MetaData>
+                                                <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <CustomMetaData>
+                                                    <MetaDataItem>
+                                                        <FieldID>xml:id</FieldID>
+                                                        <Value>dchtr</Value>
+                                                    </MetaDataItem>
+                                                </CustomMetaData>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>240,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                    </Children>
                                 </BinderItem>
-                                <BinderItem UUID="46446F36-4033-4154-ACE1-AAC013FB5240" Type="Folder" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:56:13 -0400">
+                                <BinderItem UUID="46446F36-4033-4154-ACE1-AAC013FB5240" Type="Folder" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-27 13:08:35 -0400">
                                     <Title>Feed Pump</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -4423,7 +4419,7 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="13459284-A416-45AB-A308-F267C2C78B12" Type="Folder" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:56:13 -0400">
+                                <BinderItem UUID="13459284-A416-45AB-A308-F267C2C78B12" Type="Folder" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-27 13:26:04 -0400">
                                     <Title>Feed Valves</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -4438,7 +4434,7 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="AE4231C2-EC93-4F31-9CE7-BEB2CFA566FE" Type="Folder" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 13:56:13 -0400">
+                                <BinderItem UUID="AE4231C2-EC93-4F31-9CE7-BEB2CFA566FE" Type="Folder" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-26 19:12:39 -0400">
                                     <Title>Economizer</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -6882,6 +6878,557 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
+                <BinderItem UUID="94BEBDF9-2DD6-4B8F-BB2C-71751A08BF25" Type="Folder" Created="2023-08-26 18:09:51 -0400" Modified="2023-08-26 18:09:51 -0400">
+                    <Title>Chapter Questions</Title>
+                    <MetaData>
+                        <CustomMetaData>
+                            <MetaDataItem>
+                                <FieldID>xml:id</FieldID>
+                                <Value>questions-4</Value>
+                            </MetaDataItem>
+                        </CustomMetaData>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="44CA9D23-7360-4E2A-B5F2-8253993F2633" Type="Folder" Created="2023-08-26 18:09:51 -0400" Modified="2023-08-26 18:10:42 -0400">
+                            <Title>exercise</Title>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="C070268F-4126-47D9-AA4E-2934D60EDA93" Type="Folder" Created="2023-08-26 18:09:51 -0400" Modified="2023-08-26 18:10:42 -0400">
+                            <Title>exercise</Title>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="9F6889D7-357E-45EA-BD9F-A0088EB67BC6" Type="Folder" Created="2023-08-26 18:09:51 -0400" Modified="2023-08-26 18:10:42 -0400">
+                            <Title>exercise</Title>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="FDC29B55-6A63-4E31-9285-7EFBE60C0E0E" Type="Folder" Created="2023-08-26 18:09:51 -0400" Modified="2023-08-26 18:10:42 -0400">
+                            <Title>exercise</Title>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="70B10B01-7492-4D13-A0CD-BF653D93E36E" Type="Folder" Created="2023-08-26 18:09:51 -0400" Modified="2023-08-26 18:10:42 -0400">
+                            <Title>exercise</Title>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="ED6866C0-2D6A-4434-9B8F-5D2C846C8D45" Type="Folder" Created="2023-08-26 18:09:51 -0400" Modified="2023-08-26 18:10:42 -0400">
+                            <Title>exercise</Title>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="89ACB4B0-B487-42BD-96AB-6C25897D9268" Type="Folder" Created="2023-08-26 18:09:51 -0400" Modified="2023-08-26 18:10:42 -0400">
+                            <Title>exercise</Title>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="3E1A403F-3329-4727-8FF6-1C218028903D" Type="Folder" Created="2023-08-26 18:09:51 -0400" Modified="2023-08-26 18:10:42 -0400">
+                            <Title>exercise</Title>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="42826E80-30B5-4C60-B6AD-972DCF1BA6A8" Type="Folder" Created="2023-08-26 18:09:51 -0400" Modified="2023-08-26 18:10:42 -0400">
+                            <Title>exercise</Title>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="3C8ED901-B795-4450-8C3D-E891404E1A35" Type="Folder" Created="2023-08-26 18:09:51 -0400" Modified="2023-08-26 18:10:42 -0400">
+                            <Title>exercise</Title>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="53AFDE3C-A21E-4B06-AC16-C47820FBBA77" Type="Folder" Created="2023-08-26 18:09:51 -0400" Modified="2023-08-26 18:10:42 -0400">
+                            <Title>exercise</Title>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="3D53B52D-1BAC-4F8F-9012-66F5ED2965CE" Type="Folder" Created="2023-08-26 18:09:51 -0400" Modified="2023-08-26 18:10:42 -0400">
+                            <Title>exercise</Title>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="DE4CB9F9-1F82-4F4D-BDC8-7A7C3EFDE326" Type="Folder" Created="2023-08-26 18:09:51 -0400" Modified="2023-08-26 18:09:51 -0400">
+                    <Title>Operating the Boiler</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <CustomMetaData>
+                            <MetaDataItem>
+                                <FieldID>xml:id</FieldID>
+                                <Value>operatingtheboiler</Value>
+                            </MetaDataItem>
+                        </CustomMetaData>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="D43EA2B0-9438-47DD-AA1A-B7EB5E58F02A" Type="Folder" Created="2023-08-26 18:09:51 -0400" Modified="2023-08-26 18:10:42 -0400">
+                            <Title>Lighting Off</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <CustomMetaData>
+                                    <MetaDataItem>
+                                        <FieldID>xml:id</FieldID>
+                                        <Value>lightingoff</Value>
+                                    </MetaDataItem>
+                                </CustomMetaData>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="81D791A5-ECA9-49B9-B5EC-3EC13716411C" Type="Folder" Created="2023-08-26 18:09:51 -0400" Modified="2023-08-26 18:10:42 -0400">
+                            <Title>Superheater Vent</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <CustomMetaData>
+                                    <MetaDataItem>
+                                        <FieldID>xml:id</FieldID>
+                                        <Value>superheatervent</Value>
+                                    </MetaDataItem>
+                                </CustomMetaData>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="26EEB20F-9231-4E0B-903A-6C877B3843C2" Type="Folder" Created="2023-08-26 18:09:51 -0400" Modified="2023-08-26 18:09:51 -0400">
+                    <Title>Maintaining the Boiler</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <CustomMetaData>
+                            <MetaDataItem>
+                                <FieldID>xml:id</FieldID>
+                                <Value>maintainingtheboiler</Value>
+                            </MetaDataItem>
+                        </CustomMetaData>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="CFAB201E-DCF0-4F1F-848F-E15A460DA7AB" Type="Folder" Created="2023-08-26 18:09:51 -0400" Modified="2023-08-26 18:10:42 -0400">
+                            <Title>Cleaning Burners</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <CustomMetaData>
+                                    <MetaDataItem>
+                                        <FieldID>xml:id</FieldID>
+                                        <Value>cleaningburners</Value>
+                                    </MetaDataItem>
+                                </CustomMetaData>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="8C56EA72-8CA3-48BF-BC4D-0FE97D68743C" Type="Folder" Created="2023-08-26 18:09:51 -0400" Modified="2023-08-26 18:14:23 -0400">
+                            <Title>Blowing Tubes</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <CustomMetaData>
+                                    <MetaDataItem>
+                                        <FieldID>xml:id</FieldID>
+                                        <Value>blowingtubes</Value>
+                                    </MetaDataItem>
+                                </CustomMetaData>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="6A6268F9-ED49-4E9B-84BA-E432C0CB4C1B" Type="Folder" Created="2023-08-26 18:09:51 -0400" Modified="2023-08-26 18:10:42 -0400">
+                            <Title>Boiler Water Treatment</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <CustomMetaData>
+                                    <MetaDataItem>
+                                        <FieldID>xml:id</FieldID>
+                                        <Value>boilerwatertreatment</Value>
+                                    </MetaDataItem>
+                                </CustomMetaData>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="D93F8387-A861-46C6-84AB-8DEC1563F84A" Type="Folder" Created="2023-08-26 18:09:51 -0400" Modified="2023-08-26 18:09:51 -0400">
+                    <Title>Boilers</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <CustomMetaData>
+                            <MetaDataItem>
+                                <FieldID>xml:id</FieldID>
+                                <Value>boilers</Value>
+                            </MetaDataItem>
+                        </CustomMetaData>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="BA466263-389F-4D18-A277-9CA837EB7C3D" Type="Folder" Created="2023-08-26 18:09:51 -0400" Modified="2023-08-26 18:32:53 -0400">
+                            <Title>introduction</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <CustomMetaData>
+                                    <MetaDataItem>
+                                        <FieldID>xml:id</FieldID>
+                                        <Value>intro-boilers</Value>
+                                    </MetaDataItem>
+                                </CustomMetaData>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="BF31E746-1FBB-4E24-A779-42103DE01A7A" Type="Folder" Created="2023-08-26 18:09:51 -0400" Modified="2023-08-26 18:09:51 -0400">
+                            <Title>Boiler Construction</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <CustomMetaData>
+                                    <MetaDataItem>
+                                        <FieldID>xml:id</FieldID>
+                                        <Value>boilerconstruction</Value>
+                                    </MetaDataItem>
+                                </CustomMetaData>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="B5281C63-A20E-4B21-B941-1B8D4DCE37DD" Type="Folder" Created="2023-08-26 18:09:51 -0400" Modified="2023-08-26 18:17:04 -0400">
+                                    <Title>introduction</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <CustomMetaData>
+                                            <MetaDataItem>
+                                                <FieldID>xml:id</FieldID>
+                                                <Value>boiler-construction-intro</Value>
+                                            </MetaDataItem>
+                                        </CustomMetaData>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="2BF3937D-5CC2-4289-8DED-D902E7303FF3" Type="Folder" Created="2023-08-26 18:09:51 -0400" Modified="2023-08-26 18:32:24 -0400">
+                                    <Title>Steam Drum</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <CustomMetaData>
+                                            <MetaDataItem>
+                                                <FieldID>xml:id</FieldID>
+                                                <Value>steamdrum2</Value>
+                                            </MetaDataItem>
+                                        </CustomMetaData>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="A7C893EB-56A1-42F9-B073-5BAF59AA178D" Type="Folder" Created="2023-08-26 18:09:51 -0400" Modified="2023-08-26 18:10:42 -0400">
+                                    <Title>Water drum</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <CustomMetaData>
+                                            <MetaDataItem>
+                                                <FieldID>xml:id</FieldID>
+                                                <Value>waterdrum</Value>
+                                            </MetaDataItem>
+                                        </CustomMetaData>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="C270DE1E-BB6C-41EA-81F5-EE89556DF5DE" Type="Folder" Created="2023-08-26 18:09:51 -0400" Modified="2023-08-26 18:10:42 -0400">
+                                    <Title>Tubes and headers</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <CustomMetaData>
+                                            <MetaDataItem>
+                                                <FieldID>xml:id</FieldID>
+                                                <Value>tubesandheaders</Value>
+                                            </MetaDataItem>
+                                        </CustomMetaData>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="564FABBE-FD9D-4B8D-B78C-C7B4A2DDC364" Type="Folder" Created="2023-08-26 18:09:51 -0400" Modified="2023-08-26 18:10:42 -0400">
+                                    <Title>Superheater</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <CustomMetaData>
+                                            <MetaDataItem>
+                                                <FieldID>xml:id</FieldID>
+                                                <Value>superheater</Value>
+                                            </MetaDataItem>
+                                        </CustomMetaData>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="117115CB-02A3-458F-93B6-DBAB1C01AD4D" Type="Folder" Created="2023-08-26 18:09:51 -0400" Modified="2023-08-26 18:14:23 -0400">
+                                    <Title>Safety Valves</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <CustomMetaData>
+                                            <MetaDataItem>
+                                                <FieldID>xml:id</FieldID>
+                                                <Value>safetyvalves</Value>
+                                            </MetaDataItem>
+                                        </CustomMetaData>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="C73309CE-3AED-49AB-9937-46A43996C7BA" Type="Folder" Created="2023-08-26 18:09:51 -0400" Modified="2023-08-26 18:14:23 -0400">
+                                    <Title>Burners</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <CustomMetaData>
+                                            <MetaDataItem>
+                                                <FieldID>xml:id</FieldID>
+                                                <Value>burners</Value>
+                                            </MetaDataItem>
+                                        </CustomMetaData>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="5FDBB9D5-A0CD-4F3A-AC4B-CB47966B2996" Type="Folder" Created="2023-08-26 18:09:51 -0400" Modified="2023-08-26 18:10:42 -0400">
+                                    <Title>Boiler Casing</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <CustomMetaData>
+                                            <MetaDataItem>
+                                                <FieldID>xml:id</FieldID>
+                                                <Value>boilercasing</Value>
+                                            </MetaDataItem>
+                                        </CustomMetaData>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="03524EB2-41D3-4B9B-AA5E-FE36BC20206E" Type="Folder" Created="2023-08-26 18:09:51 -0400" Modified="2023-08-26 18:14:23 -0400">
+                                    <Title>Furnace and Refractory</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <CustomMetaData>
+                                            <MetaDataItem>
+                                                <FieldID>xml:id</FieldID>
+                                                <Value>furnaceandrefractory</Value>
+                                            </MetaDataItem>
+                                        </CustomMetaData>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                    <Children>
+                                        <BinderItem UUID="5B7D762F-2727-497E-998B-3DB4363D3B93" Type="Folder" Created="2023-08-26 18:09:51 -0400" Modified="2023-08-26 18:10:42 -0400">
+                                            <Title>Firebrick</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <CustomMetaData>
+                                                    <MetaDataItem>
+                                                        <FieldID>xml:id</FieldID>
+                                                        <Value>firebrick</Value>
+                                                    </MetaDataItem>
+                                                </CustomMetaData>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="6ED51916-D468-409A-9576-3D998CD0434E" Type="Folder" Created="2023-08-26 18:09:51 -0400" Modified="2023-08-26 18:10:42 -0400">
+                                            <Title>Insulating Brick</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <CustomMetaData>
+                                                    <MetaDataItem>
+                                                        <FieldID>xml:id</FieldID>
+                                                        <Value>insulatingbrick</Value>
+                                                    </MetaDataItem>
+                                                </CustomMetaData>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="3BEE83EC-3BBF-4274-B208-CED1492D1F4C" Type="Folder" Created="2023-08-26 18:09:51 -0400" Modified="2023-08-26 18:10:42 -0400">
+                                            <Title>Insulating Block</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <CustomMetaData>
+                                                    <MetaDataItem>
+                                                        <FieldID>xml:id</FieldID>
+                                                        <Value>insulatingblock</Value>
+                                                    </MetaDataItem>
+                                                </CustomMetaData>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                    </Children>
+                                </BinderItem>
+                                <BinderItem UUID="0BC1D249-0FAD-4212-B5B6-5CFD76784516" Type="Folder" Created="2023-08-26 18:09:51 -0400" Modified="2023-08-26 19:09:51 -0400">
+                                    <Title>Economizer</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <CustomMetaData>
+                                            <MetaDataItem>
+                                                <FieldID>xml:id</FieldID>
+                                                <Value>economizer</Value>
+                                            </MetaDataItem>
+                                        </CustomMetaData>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="91E763E9-B5A1-4BF9-A91A-49E0781E3055" Type="Folder" Created="2023-08-26 18:09:51 -0400" Modified="2023-08-26 18:14:23 -0400">
+                                    <Title>Boiler Circulation</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <CustomMetaData>
+                                            <MetaDataItem>
+                                                <FieldID>xml:id</FieldID>
+                                                <Value>boilercirculation</Value>
+                                            </MetaDataItem>
+                                        </CustomMetaData>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem UUID="3C8CC2F2-AD44-4DCD-86F6-08DB0E3B0551" Type="Folder" Created="2023-08-26 18:09:51 -0400" Modified="2023-08-26 18:09:51 -0400">
+                            <Title>Monitoring the Boiler</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <CustomMetaData>
+                                    <MetaDataItem>
+                                        <FieldID>xml:id</FieldID>
+                                        <Value>monitoringtheboiler</Value>
+                                    </MetaDataItem>
+                                </CustomMetaData>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="849150FC-E265-45DE-A6F8-FB291B44D211" Type="Folder" Created="2023-08-26 18:09:51 -0400" Modified="2023-08-26 18:17:22 -0400">
+                                    <Title>introduction</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <CustomMetaData>
+                                            <MetaDataItem>
+                                                <FieldID>xml:id</FieldID>
+                                                <Value>intro-boiler-monitoring</Value>
+                                            </MetaDataItem>
+                                        </CustomMetaData>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="A28BB40F-2DC1-4B6C-A05E-B923E2E4B10A" Type="Folder" Created="2023-08-26 18:09:51 -0400" Modified="2023-08-26 18:19:22 -0400">
+                                    <Title>Water level</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <CustomMetaData>
+                                            <MetaDataItem>
+                                                <FieldID>xml:id</FieldID>
+                                                <Value>waterlevel</Value>
+                                            </MetaDataItem>
+                                        </CustomMetaData>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="11DFBC74-B52D-4131-ACF2-19C96070ECAC" Type="Folder" Created="2023-08-26 18:09:51 -0400" Modified="2023-08-26 18:10:42 -0400">
+                                    <Title>Steam Pressure and Temperature</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <CustomMetaData>
+                                            <MetaDataItem>
+                                                <FieldID>xml:id</FieldID>
+                                                <Value>steampressureandtemperature</Value>
+                                            </MetaDataItem>
+                                        </CustomMetaData>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="4F4AE298-8422-4E8F-9E9C-8C9D8ED36611" Type="Folder" Created="2023-08-26 18:09:51 -0400" Modified="2023-08-26 18:10:42 -0400">
+                                    <Title>Smoke</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <CustomMetaData>
+                                            <MetaDataItem>
+                                                <FieldID>xml:id</FieldID>
+                                                <Value>smoke</Value>
+                                            </MetaDataItem>
+                                        </CustomMetaData>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="12CC6420-441F-483D-B054-1E5824EB0DFB" Type="Text" Created="2023-08-27 13:09:11 -0400" Modified="2023-08-27 13:09:11 -0400">
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="834D3E25-7549-496D-B6FC-B6850D8B8841" Type="Text" Created="2023-08-27 13:09:18 -0400" Modified="2023-08-27 13:09:18 -0400">
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
     </Binder>
@@ -6975,12 +7522,12 @@
     </CustomMetaDataSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 08:24:39 -0400" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2023-08-27 01:00:00 -0400" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="-5" Characters="-675" Date="2023-08-26 13:49:53 -0400"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2023-08-28 01:00:00 -0400" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="-122" Characters="-250" Date="2023-08-27 13:39:58 -0400"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2023-08-26 00:00:00 -0400">
-        <DraftWordCount>-5</DraftWordCount>
-        <DraftCharCount>-675</DraftCharCount>
+    <RecentWritingHistory Date="2023-08-27 00:00:00 -0400">
+        <DraftWordCount>-122</DraftWordCount>
+        <DraftCharCount>-252</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>

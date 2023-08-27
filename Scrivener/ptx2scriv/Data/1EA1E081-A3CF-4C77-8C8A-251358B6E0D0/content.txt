@@ -1,5 +1,0 @@
-<p> The <em>gland exhaust condenser</em> typically follows the air ejector condenser. This
-        unit is used to condense any steam that leaks out of the turbine glands, in order to recover
-        both the condensate and the heat. This is an example of the way a practical cycle takes
-        every opportunity to recover <q>free</q> energy and increase the overall cycle efficiency.
-      </p>

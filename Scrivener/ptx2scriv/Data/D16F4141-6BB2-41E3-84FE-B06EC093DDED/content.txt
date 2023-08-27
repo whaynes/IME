@@ -1,0 +1,26 @@
+<statement>
+   <p> The boiler water level is normal, the main condenser hotwell level is normal, and
+            the DC heater shows a level 40% of full. You should ______. </p>
+</statement>
+<choices>
+   <choice>
+      <statement>
+         <p>prime the condensate pump </p>
+      </statement>
+   </choice>
+   <choice>
+      <statement>
+         <p>bypass the vent condenser </p>
+      </statement>
+   </choice>
+   <choice>
+      <statement>
+         <p>slow the main unit </p>
+      </statement>
+   </choice>
+   <choice>
+      <statement>
+         <p>open the makeup feed vacuum drag line </p>
+      </statement>
+   </choice>
+</choices>

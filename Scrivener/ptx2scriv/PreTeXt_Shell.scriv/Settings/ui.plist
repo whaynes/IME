@@ -20,17 +20,7 @@
 	</array>
 	<key>bookmarksSelectionInfo</key>
 	<dict>
-		<key>02E1B542-C4BA-44FC-BD00-A5ED04B8B1E8</key>
-		<dict>
-			<key>Row</key>
-			<integer>-1</integer>
-		</dict>
-		<key>074135A9-9B43-4CE8-BE6E-C7C495E62C8B</key>
-		<dict>
-			<key>Row</key>
-			<integer>-1</integer>
-		</dict>
-		<key>64F99BF6-19EF-4CA4-B893-DC51135A981A</key>
+		<key>23CA3DAC-332A-4E7B-8BF4-EC88E7970F8B</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -45,27 +35,12 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
-		<key>A20AE624-01BC-4AB6-AEF0-2BF24E9DB17D</key>
-		<dict>
-			<key>Row</key>
-			<integer>-1</integer>
-		</dict>
-		<key>AA41E438-FF10-4C16-BCDB-0042AA5FDA3A</key>
+		<key>A2D8F53D-3228-47D7-BEFA-4388A661C885</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
 		<key>BE1A55ED-C58C-457E-A084-C8E72103D861</key>
-		<dict>
-			<key>Row</key>
-			<integer>-1</integer>
-		</dict>
-		<key>C287A0F4-3360-4AEF-9361-7357DE57EFE7</key>
-		<dict>
-			<key>Row</key>
-			<integer>-1</integer>
-		</dict>
-		<key>E6605589-790E-4316-A3E1-9784007B32A1</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -117,7 +92,7 @@
 		<real>1</real>
 	</dict>
 	<key>mainWindowFrame</key>
-	<string>243 352 1253 679 0 0 1920 1055 </string>
+	<string>667 313 1253 679 0 0 1920 1055 </string>
 	<key>searchResultsTable</key>
 	<dict>
 		<key>order</key>

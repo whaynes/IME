@@ -1,7 +1,0 @@
-<p> Heat energy is added to the cycle by burning fuel oil in the boiler. The high temperature
-        flames raise the temperature of the water in the boiler and eventually cause it to boil. Not
-        all energy of the fuel is transferred to the water, some remains in the combustion gases and
-        travels up the stack. This energy will be lost to the atmosphere unless it is recovered by
-        economizers or air heaters located in the exhaust path. Any heat energy lost to the
-        atmosphere represents waste and steam cycle inefficiency. </p>
-<p> The boiler is discussed in detail in <xref ref="boilers"/>. </p>

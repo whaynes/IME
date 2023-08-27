@@ -1,0 +1,26 @@
+<statement>
+   <p> Vent condensers are usually an integral part of deaerating feed heaters and serve
+            to condense ______. </p>
+</statement>
+<choices>
+   <choice>
+      <statement>
+         <p>only steam vented from high pressure steam traps </p>
+      </statement>
+   </choice>
+   <choice>
+      <statement>
+         <p>steam vented from high pressure steam glands </p>
+      </statement>
+   </choice>
+   <choice>
+      <statement>
+         <p>the vapor entrained with the noncondensable gases </p>
+      </statement>
+   </choice>
+   <choice>
+      <statement>
+         <p>the gases liberated by the deaeration process </p>
+      </statement>
+   </choice>
+</choices>

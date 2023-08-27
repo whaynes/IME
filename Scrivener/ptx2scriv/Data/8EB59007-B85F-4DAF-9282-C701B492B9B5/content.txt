@@ -1,0 +1,25 @@
+<statement>
+   <p> The DC Heater functions to ______. </p>
+</statement>
+<choices>
+   <choice>
+      <statement>
+         <p>store, heat, and deaerate feedwater </p>
+      </statement>
+   </choice>
+   <choice>
+      <statement>
+         <p>chemically treat feedwater to remove carbonic gas </p>
+      </statement>
+   </choice>
+   <choice>
+      <statement>
+         <p>ensure recirculation in the feedwater system </p>
+      </statement>
+   </choice>
+   <choice>
+      <statement>
+         <p>remove the major amount of noncondensable gases from the main condenser </p>
+      </statement>
+   </choice>
+</choices>

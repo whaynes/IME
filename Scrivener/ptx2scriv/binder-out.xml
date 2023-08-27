@@ -1,10 +1,10 @@
 <Children xmlns:fn="http://www.w3.org/2005/xpath-functions"
           xmlns:uuid="java:java.util.UUID"
           xmlns:xi="http://www.w3.org/2001/XInclude">
-   <BinderItem UUID="6C12DC25-7970-4750-865C-073756934232"
+   <BinderItem UUID="5B2FE13F-CFF5-446A-AD70-E1F80BF93689"
                Type="Folder"
                ptx=""
-               Created="2023-08-26T13:34:33.523203-04:00">
+               Created="2023-08-27T12:00:08.888576-04:00">
       <Title>Document</Title>
       <MetaData>
          <CustomMetaData>
@@ -23,11 +23,11 @@
          </CustomMetaData>
       </MetaData>
       <Children>
-         <BinderItem UUID="A20AE624-01BC-4AB6-AEF0-2BF24E9DB17D"
+         <BinderItem UUID="23CA3DAC-332A-4E7B-8BF4-EC88E7970F8B"
                      Type="Folder"
                      ptx="chapter"
-                     Created="2023-08-26T13:34:33.523203-04:00">
-            <Title>The Steam Cycle</Title>
+                     Created="2023-08-27T12:00:08.888576-04:00">
+            <Title>DC Heater</Title>
             <MetaData>
                <CustomMetaData>
                   <MetaDataItem>
@@ -36,7 +36,7 @@
                   </MetaDataItem>
                   <MetaDataItem>
                      <FieldID>xml:id</FieldID>
-                     <Value>thesteamcycle</Value>
+                     <Value>dcheaterchap</Value>
                   </MetaDataItem>
                   <MetaDataItem>
                      <FieldID>Other Attributes</FieldID>
@@ -45,10 +45,10 @@
                </CustomMetaData>
             </MetaData>
             <Children>
-               <BinderItem UUID="C287A0F4-3360-4AEF-9361-7357DE57EFE7"
+               <BinderItem UUID="A2D8F53D-3228-47D7-BEFA-4388A661C885"
                            Type="Folder"
                            ptx="introduction"
-                           Created="2023-08-26T13:34:33.523203-04:00">
+                           Created="2023-08-27T12:00:08.888576-04:00">
                   <Title>introduction</Title>
                   <MetaData>
                      <CustomMetaData>
@@ -68,11 +68,11 @@
                   </MetaData>
                   <Children/>
                </BinderItem>
-               <BinderItem UUID="2DF26DF7-50BB-466A-A6E6-F30CAEC4DED2"
+               <BinderItem UUID="475FB97D-E404-4B23-8122-7B3EA5AA3D2E"
                            Type="Folder"
                            ptx="section"
-                           Created="2023-08-26T13:34:33.523203-04:00">
-                  <Title>Simplified Steam Cycle</Title>
+                           Created="2023-08-27T12:00:08.888576-04:00">
+                  <Title>Description</Title>
                   <MetaData>
                      <CustomMetaData>
                         <MetaDataItem>
@@ -81,7 +81,7 @@
                         </MetaDataItem>
                         <MetaDataItem>
                            <FieldID>xml:id</FieldID>
-                           <Value>simplifiedsteamcycle</Value>
+                           <Value>description</Value>
                         </MetaDataItem>
                         <MetaDataItem>
                            <FieldID>Other Attributes</FieldID>
@@ -89,152 +89,13 @@
                         </MetaDataItem>
                      </CustomMetaData>
                   </MetaData>
-                  <Children>
-                     <BinderItem UUID="64F99BF6-19EF-4CA4-B893-DC51135A981A"
-                                 Type="Folder"
-                                 ptx="introduction"
-                                 Created="2023-08-26T13:34:33.523203-04:00">
-                        <Title>introduction</Title>
-                        <MetaData>
-                           <CustomMetaData>
-                              <MetaDataItem>
-                                 <FieldID>ptx-container</FieldID>
-                                 <Value>introduction</Value>
-                              </MetaDataItem>
-                              <MetaDataItem>
-                                 <FieldID>xml:id</FieldID>
-                                 <Value/>
-                              </MetaDataItem>
-                              <MetaDataItem>
-                                 <FieldID>Other Attributes</FieldID>
-                                 <Value/>
-                              </MetaDataItem>
-                           </CustomMetaData>
-                        </MetaData>
-                        <Children/>
-                     </BinderItem>
-                     <BinderItem UUID="E6605589-790E-4316-A3E1-9784007B32A1"
-                                 Type="Folder"
-                                 ptx="subsection"
-                                 Created="2023-08-26T13:34:33.523203-04:00">
-                        <Title>Generation</Title>
-                        <MetaData>
-                           <CustomMetaData>
-                              <MetaDataItem>
-                                 <FieldID>ptx-container</FieldID>
-                                 <Value>subsection</Value>
-                              </MetaDataItem>
-                              <MetaDataItem>
-                                 <FieldID>xml:id</FieldID>
-                                 <Value>generation</Value>
-                              </MetaDataItem>
-                              <MetaDataItem>
-                                 <FieldID>Other Attributes</FieldID>
-                                 <Value/>
-                              </MetaDataItem>
-                           </CustomMetaData>
-                        </MetaData>
-                        <Children/>
-                     </BinderItem>
-                     <BinderItem UUID="074135A9-9B43-4CE8-BE6E-C7C495E62C8B"
-                                 Type="Folder"
-                                 ptx="subsection"
-                                 Created="2023-08-26T13:34:33.523203-04:00">
-                        <Title>Expansion</Title>
-                        <MetaData>
-                           <CustomMetaData>
-                              <MetaDataItem>
-                                 <FieldID>ptx-container</FieldID>
-                                 <Value>subsection</Value>
-                              </MetaDataItem>
-                              <MetaDataItem>
-                                 <FieldID>xml:id</FieldID>
-                                 <Value>expansion</Value>
-                              </MetaDataItem>
-                              <MetaDataItem>
-                                 <FieldID>Other Attributes</FieldID>
-                                 <Value/>
-                              </MetaDataItem>
-                           </CustomMetaData>
-                        </MetaData>
-                        <Children/>
-                     </BinderItem>
-                     <BinderItem UUID="24EF0505-DBE3-4A81-AD04-44320B1C90FE"
-                                 Type="Folder"
-                                 ptx="subsection"
-                                 Created="2023-08-26T13:34:33.523203-04:00">
-                        <Title>Condensation</Title>
-                        <MetaData>
-                           <CustomMetaData>
-                              <MetaDataItem>
-                                 <FieldID>ptx-container</FieldID>
-                                 <Value>subsection</Value>
-                              </MetaDataItem>
-                              <MetaDataItem>
-                                 <FieldID>xml:id</FieldID>
-                                 <Value>condensation</Value>
-                              </MetaDataItem>
-                              <MetaDataItem>
-                                 <FieldID>Other Attributes</FieldID>
-                                 <Value/>
-                              </MetaDataItem>
-                           </CustomMetaData>
-                        </MetaData>
-                        <Children/>
-                     </BinderItem>
-                     <BinderItem UUID="75619CA9-D80B-45E8-B471-2A02E1CDA650"
-                                 Type="Folder"
-                                 ptx="subsection"
-                                 Created="2023-08-26T13:34:33.523203-04:00">
-                        <Title>Recovery</Title>
-                        <MetaData>
-                           <CustomMetaData>
-                              <MetaDataItem>
-                                 <FieldID>ptx-container</FieldID>
-                                 <Value>subsection</Value>
-                              </MetaDataItem>
-                              <MetaDataItem>
-                                 <FieldID>xml:id</FieldID>
-                                 <Value>recovery</Value>
-                              </MetaDataItem>
-                              <MetaDataItem>
-                                 <FieldID>Other Attributes</FieldID>
-                                 <Value/>
-                              </MetaDataItem>
-                           </CustomMetaData>
-                        </MetaData>
-                        <Children/>
-                     </BinderItem>
-                     <BinderItem UUID="452CCF9E-E601-40C0-9F74-411188A3C7DF"
-                                 Type="Folder"
-                                 ptx="subsection"
-                                 Created="2023-08-26T13:34:33.523203-04:00">
-                        <Title>T-s diagram</Title>
-                        <MetaData>
-                           <CustomMetaData>
-                              <MetaDataItem>
-                                 <FieldID>ptx-container</FieldID>
-                                 <Value>subsection</Value>
-                              </MetaDataItem>
-                              <MetaDataItem>
-                                 <FieldID>xml:id</FieldID>
-                                 <Value>t-sdiagram</Value>
-                              </MetaDataItem>
-                              <MetaDataItem>
-                                 <FieldID>Other Attributes</FieldID>
-                                 <Value/>
-                              </MetaDataItem>
-                           </CustomMetaData>
-                        </MetaData>
-                        <Children/>
-                     </BinderItem>
-                  </Children>
+                  <Children/>
                </BinderItem>
-               <BinderItem UUID="7E1B5001-9CA2-4618-8F5C-9ABBE0A3AC99"
+               <BinderItem UUID="A732AED4-FAE6-4707-AC84-7BDCB0D526F8"
                            Type="Folder"
                            ptx="section"
-                           Created="2023-08-26T13:34:33.523203-04:00">
-                  <Title>Practical Steam Cycle</Title>
+                           Created="2023-08-27T12:00:08.888576-04:00">
+                  <Title>Operation</Title>
                   <MetaData>
                      <CustomMetaData>
                         <MetaDataItem>
@@ -243,7 +104,7 @@
                         </MetaDataItem>
                         <MetaDataItem>
                            <FieldID>xml:id</FieldID>
-                           <Value>practicalsteamcycle</Value>
+                           <Value>ops1</Value>
                         </MetaDataItem>
                         <MetaDataItem>
                            <FieldID>Other Attributes</FieldID>
@@ -251,473 +112,12 @@
                         </MetaDataItem>
                      </CustomMetaData>
                   </MetaData>
-                  <Children>
-                     <BinderItem UUID="FA7FD604-9A4C-4685-95EC-1925237F483D"
-                                 Type="Folder"
-                                 ptx="introduction"
-                                 Created="2023-08-26T13:34:33.523203-04:00">
-                        <Title>introduction</Title>
-                        <MetaData>
-                           <CustomMetaData>
-                              <MetaDataItem>
-                                 <FieldID>ptx-container</FieldID>
-                                 <Value>introduction</Value>
-                              </MetaDataItem>
-                              <MetaDataItem>
-                                 <FieldID>xml:id</FieldID>
-                                 <Value/>
-                              </MetaDataItem>
-                              <MetaDataItem>
-                                 <FieldID>Other Attributes</FieldID>
-                                 <Value/>
-                              </MetaDataItem>
-                           </CustomMetaData>
-                        </MetaData>
-                        <Children/>
-                     </BinderItem>
-                     <BinderItem UUID="76018EFF-B3C1-4664-B0E7-E3808AD7B9B9"
-                                 Type="Folder"
-                                 ptx="subsection"
-                                 Created="2023-08-26T13:34:33.523203-04:00">
-                        <Title>Boiler</Title>
-                        <MetaData>
-                           <CustomMetaData>
-                              <MetaDataItem>
-                                 <FieldID>ptx-container</FieldID>
-                                 <Value>subsection</Value>
-                              </MetaDataItem>
-                              <MetaDataItem>
-                                 <FieldID>xml:id</FieldID>
-                                 <Value>boiler</Value>
-                              </MetaDataItem>
-                              <MetaDataItem>
-                                 <FieldID>Other Attributes</FieldID>
-                                 <Value/>
-                              </MetaDataItem>
-                           </CustomMetaData>
-                        </MetaData>
-                        <Children/>
-                     </BinderItem>
-                     <BinderItem UUID="537D43BD-0BEE-425F-97DC-F379705B4A7B"
-                                 Type="Folder"
-                                 ptx="subsection"
-                                 Created="2023-08-26T13:34:33.523203-04:00">
-                        <Title>Steam Drum</Title>
-                        <MetaData>
-                           <CustomMetaData>
-                              <MetaDataItem>
-                                 <FieldID>ptx-container</FieldID>
-                                 <Value>subsection</Value>
-                              </MetaDataItem>
-                              <MetaDataItem>
-                                 <FieldID>xml:id</FieldID>
-                                 <Value>steamdrum</Value>
-                              </MetaDataItem>
-                              <MetaDataItem>
-                                 <FieldID>Other Attributes</FieldID>
-                                 <Value/>
-                              </MetaDataItem>
-                           </CustomMetaData>
-                        </MetaData>
-                        <Children/>
-                     </BinderItem>
-                     <BinderItem UUID="E7A7382B-BEEE-41ED-B6ED-DED8007CFB38"
-                                 Type="Folder"
-                                 ptx="subsection"
-                                 Created="2023-08-26T13:34:33.523203-04:00">
-                        <Title>Dry Pipe</Title>
-                        <MetaData>
-                           <CustomMetaData>
-                              <MetaDataItem>
-                                 <FieldID>ptx-container</FieldID>
-                                 <Value>subsection</Value>
-                              </MetaDataItem>
-                              <MetaDataItem>
-                                 <FieldID>xml:id</FieldID>
-                                 <Value>drypipe</Value>
-                              </MetaDataItem>
-                              <MetaDataItem>
-                                 <FieldID>Other Attributes</FieldID>
-                                 <Value/>
-                              </MetaDataItem>
-                           </CustomMetaData>
-                        </MetaData>
-                        <Children/>
-                     </BinderItem>
-                     <BinderItem UUID="32C38C97-1ED9-4BB2-9A52-54963B6E8389"
-                                 Type="Folder"
-                                 ptx="subsection"
-                                 Created="2023-08-26T13:34:33.523203-04:00">
-                        <Title>Superheater</Title>
-                        <MetaData>
-                           <CustomMetaData>
-                              <MetaDataItem>
-                                 <FieldID>ptx-container</FieldID>
-                                 <Value>subsection</Value>
-                              </MetaDataItem>
-                              <MetaDataItem>
-                                 <FieldID>xml:id</FieldID>
-                                 <Value>superhtr</Value>
-                              </MetaDataItem>
-                              <MetaDataItem>
-                                 <FieldID>Other Attributes</FieldID>
-                                 <Value/>
-                              </MetaDataItem>
-                           </CustomMetaData>
-                        </MetaData>
-                        <Children/>
-                     </BinderItem>
-                     <BinderItem UUID="37A117CE-C650-4568-99D2-19FF30497D54"
-                                 Type="Folder"
-                                 ptx="subsection"
-                                 Created="2023-08-26T13:34:33.523203-04:00">
-                        <Title>Main steam stop valve</Title>
-                        <MetaData>
-                           <CustomMetaData>
-                              <MetaDataItem>
-                                 <FieldID>ptx-container</FieldID>
-                                 <Value>subsection</Value>
-                              </MetaDataItem>
-                              <MetaDataItem>
-                                 <FieldID>xml:id</FieldID>
-                                 <Value>mainsteamstopvalve</Value>
-                              </MetaDataItem>
-                              <MetaDataItem>
-                                 <FieldID>Other Attributes</FieldID>
-                                 <Value/>
-                              </MetaDataItem>
-                           </CustomMetaData>
-                        </MetaData>
-                        <Children/>
-                     </BinderItem>
-                     <BinderItem UUID="6D48CD21-FC9E-4717-ADB1-A3EEC3D5206D"
-                                 Type="Folder"
-                                 ptx="subsection"
-                                 Created="2023-08-26T13:34:33.523203-04:00">
-                        <Title>Bulkhead stop valve</Title>
-                        <MetaData>
-                           <CustomMetaData>
-                              <MetaDataItem>
-                                 <FieldID>ptx-container</FieldID>
-                                 <Value>subsection</Value>
-                              </MetaDataItem>
-                              <MetaDataItem>
-                                 <FieldID>xml:id</FieldID>
-                                 <Value>bulkheadstopvalve</Value>
-                              </MetaDataItem>
-                              <MetaDataItem>
-                                 <FieldID>Other Attributes</FieldID>
-                                 <Value/>
-                              </MetaDataItem>
-                           </CustomMetaData>
-                        </MetaData>
-                        <Children/>
-                     </BinderItem>
-                     <BinderItem UUID="03A0811A-75A1-4EA2-A630-70ADE7A7A250"
-                                 Type="Folder"
-                                 ptx="subsection"
-                                 Created="2023-08-26T13:34:33.523203-04:00">
-                        <Title>Strainer</Title>
-                        <MetaData>
-                           <CustomMetaData>
-                              <MetaDataItem>
-                                 <FieldID>ptx-container</FieldID>
-                                 <Value>subsection</Value>
-                              </MetaDataItem>
-                              <MetaDataItem>
-                                 <FieldID>xml:id</FieldID>
-                                 <Value>strainer</Value>
-                              </MetaDataItem>
-                              <MetaDataItem>
-                                 <FieldID>Other Attributes</FieldID>
-                                 <Value/>
-                              </MetaDataItem>
-                           </CustomMetaData>
-                        </MetaData>
-                        <Children/>
-                     </BinderItem>
-                     <BinderItem UUID="5404AFC7-12C9-4040-8B5D-C3F843816197"
-                                 Type="Folder"
-                                 ptx="subsection"
-                                 Created="2023-08-26T13:34:33.523203-04:00">
-                        <Title>Throttles</Title>
-                        <MetaData>
-                           <CustomMetaData>
-                              <MetaDataItem>
-                                 <FieldID>ptx-container</FieldID>
-                                 <Value>subsection</Value>
-                              </MetaDataItem>
-                              <MetaDataItem>
-                                 <FieldID>xml:id</FieldID>
-                                 <Value>throttles</Value>
-                              </MetaDataItem>
-                              <MetaDataItem>
-                                 <FieldID>Other Attributes</FieldID>
-                                 <Value/>
-                              </MetaDataItem>
-                           </CustomMetaData>
-                        </MetaData>
-                        <Children/>
-                     </BinderItem>
-                     <BinderItem UUID="BA21F656-42BE-4249-BA5A-DC7330970E51"
-                                 Type="Folder"
-                                 ptx="subsection"
-                                 Created="2023-08-26T13:34:33.523203-04:00">
-                        <Title>HP Turbine</Title>
-                        <MetaData>
-                           <CustomMetaData>
-                              <MetaDataItem>
-                                 <FieldID>ptx-container</FieldID>
-                                 <Value>subsection</Value>
-                              </MetaDataItem>
-                              <MetaDataItem>
-                                 <FieldID>xml:id</FieldID>
-                                 <Value>hpturbine</Value>
-                              </MetaDataItem>
-                              <MetaDataItem>
-                                 <FieldID>Other Attributes</FieldID>
-                                 <Value/>
-                              </MetaDataItem>
-                           </CustomMetaData>
-                        </MetaData>
-                        <Children/>
-                     </BinderItem>
-                     <BinderItem UUID="58EB86BA-B954-45D1-ADDE-2B9FC337445F"
-                                 Type="Folder"
-                                 ptx="subsection"
-                                 Created="2023-08-26T13:34:33.523203-04:00">
-                        <Title>LP Turbine</Title>
-                        <MetaData>
-                           <CustomMetaData>
-                              <MetaDataItem>
-                                 <FieldID>ptx-container</FieldID>
-                                 <Value>subsection</Value>
-                              </MetaDataItem>
-                              <MetaDataItem>
-                                 <FieldID>xml:id</FieldID>
-                                 <Value>lpturbine</Value>
-                              </MetaDataItem>
-                              <MetaDataItem>
-                                 <FieldID>Other Attributes</FieldID>
-                                 <Value/>
-                              </MetaDataItem>
-                           </CustomMetaData>
-                        </MetaData>
-                        <Children/>
-                     </BinderItem>
-                     <BinderItem UUID="63720F34-C107-418E-B65F-47D7EC48C23E"
-                                 Type="Folder"
-                                 ptx="subsection"
-                                 Created="2023-08-26T13:34:33.523203-04:00">
-                        <Title>Main Condenser</Title>
-                        <MetaData>
-                           <CustomMetaData>
-                              <MetaDataItem>
-                                 <FieldID>ptx-container</FieldID>
-                                 <Value>subsection</Value>
-                              </MetaDataItem>
-                              <MetaDataItem>
-                                 <FieldID>xml:id</FieldID>
-                                 <Value>maincond</Value>
-                              </MetaDataItem>
-                              <MetaDataItem>
-                                 <FieldID>Other Attributes</FieldID>
-                                 <Value/>
-                              </MetaDataItem>
-                           </CustomMetaData>
-                        </MetaData>
-                        <Children/>
-                     </BinderItem>
-                     <BinderItem UUID="E3908A8E-AAD6-424A-BE11-D291640F1053"
-                                 Type="Folder"
-                                 ptx="subsection"
-                                 Created="2023-08-26T13:34:33.523203-04:00">
-                        <Title>Condensate pump</Title>
-                        <MetaData>
-                           <CustomMetaData>
-                              <MetaDataItem>
-                                 <FieldID>ptx-container</FieldID>
-                                 <Value>subsection</Value>
-                              </MetaDataItem>
-                              <MetaDataItem>
-                                 <FieldID>xml:id</FieldID>
-                                 <Value>condensatepump</Value>
-                              </MetaDataItem>
-                              <MetaDataItem>
-                                 <FieldID>Other Attributes</FieldID>
-                                 <Value/>
-                              </MetaDataItem>
-                           </CustomMetaData>
-                        </MetaData>
-                        <Children/>
-                     </BinderItem>
-                     <BinderItem UUID="E6DD8D2F-0ACF-495B-880F-0BF39106504F"
-                                 Type="Folder"
-                                 ptx="subsection"
-                                 Created="2023-08-26T13:34:33.523203-04:00">
-                        <Title>Air Ejector Condenser</Title>
-                        <MetaData>
-                           <CustomMetaData>
-                              <MetaDataItem>
-                                 <FieldID>ptx-container</FieldID>
-                                 <Value>subsection</Value>
-                              </MetaDataItem>
-                              <MetaDataItem>
-                                 <FieldID>xml:id</FieldID>
-                                 <Value>airejectorcondenser</Value>
-                              </MetaDataItem>
-                              <MetaDataItem>
-                                 <FieldID>Other Attributes</FieldID>
-                                 <Value/>
-                              </MetaDataItem>
-                           </CustomMetaData>
-                        </MetaData>
-                        <Children/>
-                     </BinderItem>
-                     <BinderItem UUID="FB5BE4FE-094D-49A0-AD9A-EF5633AD7702"
-                                 Type="Folder"
-                                 ptx="subsection"
-                                 Created="2023-08-26T13:34:33.523203-04:00">
-                        <Title>Gland Exhaust Condenser</Title>
-                        <MetaData>
-                           <CustomMetaData>
-                              <MetaDataItem>
-                                 <FieldID>ptx-container</FieldID>
-                                 <Value>subsection</Value>
-                              </MetaDataItem>
-                              <MetaDataItem>
-                                 <FieldID>xml:id</FieldID>
-                                 <Value>glandexhaustcondenser</Value>
-                              </MetaDataItem>
-                              <MetaDataItem>
-                                 <FieldID>Other Attributes</FieldID>
-                                 <Value/>
-                              </MetaDataItem>
-                           </CustomMetaData>
-                        </MetaData>
-                        <Children/>
-                     </BinderItem>
-                     <BinderItem UUID="5526391F-5F49-42BD-B22E-84F4D23A6CAA"
-                                 Type="Folder"
-                                 ptx="subsection"
-                                 Created="2023-08-26T13:34:33.523203-04:00">
-                        <Title>First Stage Heater Unit</Title>
-                        <MetaData>
-                           <CustomMetaData>
-                              <MetaDataItem>
-                                 <FieldID>ptx-container</FieldID>
-                                 <Value>subsection</Value>
-                              </MetaDataItem>
-                              <MetaDataItem>
-                                 <FieldID>xml:id</FieldID>
-                                 <Value>firststageheaterunit</Value>
-                              </MetaDataItem>
-                              <MetaDataItem>
-                                 <FieldID>Other Attributes</FieldID>
-                                 <Value/>
-                              </MetaDataItem>
-                           </CustomMetaData>
-                        </MetaData>
-                        <Children/>
-                     </BinderItem>
-                     <BinderItem UUID="90A6EA70-FF2C-4021-8F6D-2B7630FE801A"
-                                 Type="Folder"
-                                 ptx="subsection"
-                                 Created="2023-08-26T13:34:33.523203-04:00">
-                        <Title>DC Heater</Title>
-                        <MetaData>
-                           <CustomMetaData>
-                              <MetaDataItem>
-                                 <FieldID>ptx-container</FieldID>
-                                 <Value>subsection</Value>
-                              </MetaDataItem>
-                              <MetaDataItem>
-                                 <FieldID>xml:id</FieldID>
-                                 <Value>dchtr</Value>
-                              </MetaDataItem>
-                              <MetaDataItem>
-                                 <FieldID>Other Attributes</FieldID>
-                                 <Value/>
-                              </MetaDataItem>
-                           </CustomMetaData>
-                        </MetaData>
-                        <Children/>
-                     </BinderItem>
-                     <BinderItem UUID="CF486EA7-BE85-4B68-814C-CFF4A732F3F7"
-                                 Type="Folder"
-                                 ptx="subsection"
-                                 Created="2023-08-26T13:34:33.523203-04:00">
-                        <Title>Feed Pump</Title>
-                        <MetaData>
-                           <CustomMetaData>
-                              <MetaDataItem>
-                                 <FieldID>ptx-container</FieldID>
-                                 <Value>subsection</Value>
-                              </MetaDataItem>
-                              <MetaDataItem>
-                                 <FieldID>xml:id</FieldID>
-                                 <Value>feedpump</Value>
-                              </MetaDataItem>
-                              <MetaDataItem>
-                                 <FieldID>Other Attributes</FieldID>
-                                 <Value/>
-                              </MetaDataItem>
-                           </CustomMetaData>
-                        </MetaData>
-                        <Children/>
-                     </BinderItem>
-                     <BinderItem UUID="02E1B542-C4BA-44FC-BD00-A5ED04B8B1E8"
-                                 Type="Folder"
-                                 ptx="subsection"
-                                 Created="2023-08-26T13:34:33.523203-04:00">
-                        <Title>Feed Valves</Title>
-                        <MetaData>
-                           <CustomMetaData>
-                              <MetaDataItem>
-                                 <FieldID>ptx-container</FieldID>
-                                 <Value>subsection</Value>
-                              </MetaDataItem>
-                              <MetaDataItem>
-                                 <FieldID>xml:id</FieldID>
-                                 <Value>feedvalves</Value>
-                              </MetaDataItem>
-                              <MetaDataItem>
-                                 <FieldID>Other Attributes</FieldID>
-                                 <Value/>
-                              </MetaDataItem>
-                           </CustomMetaData>
-                        </MetaData>
-                        <Children/>
-                     </BinderItem>
-                     <BinderItem UUID="9AB68337-F9AF-4855-8EE3-16AF7FBA02E8"
-                                 Type="Folder"
-                                 ptx="subsection"
-                                 Created="2023-08-26T13:34:33.523203-04:00">
-                        <Title>Economizer</Title>
-                        <MetaData>
-                           <CustomMetaData>
-                              <MetaDataItem>
-                                 <FieldID>ptx-container</FieldID>
-                                 <Value>subsection</Value>
-                              </MetaDataItem>
-                              <MetaDataItem>
-                                 <FieldID>xml:id</FieldID>
-                                 <Value>econ</Value>
-                              </MetaDataItem>
-                              <MetaDataItem>
-                                 <FieldID>Other Attributes</FieldID>
-                                 <Value/>
-                              </MetaDataItem>
-                           </CustomMetaData>
-                        </MetaData>
-                        <Children/>
-                     </BinderItem>
-                  </Children>
+                  <Children/>
                </BinderItem>
-               <BinderItem UUID="AA41E438-FF10-4C16-BCDB-0042AA5FDA3A"
+               <BinderItem UUID="D072AB2A-CB89-4E0A-9919-81D52BF831B1"
                            Type="Folder"
                            ptx="exercises"
-                           Created="2023-08-26T13:34:33.523203-04:00">
+                           Created="2023-08-27T12:00:08.888576-04:00">
                   <Title>Chapter Questions</Title>
                   <MetaData>
                      <CustomMetaData>
@@ -727,7 +127,7 @@
                         </MetaDataItem>
                         <MetaDataItem>
                            <FieldID>xml:id</FieldID>
-                           <Value>questions-1</Value>
+                           <Value>questions-7</Value>
                         </MetaDataItem>
                         <MetaDataItem>
                            <FieldID>Other Attributes</FieldID>
@@ -736,10 +136,10 @@
                      </CustomMetaData>
                   </MetaData>
                   <Children>
-                     <BinderItem UUID="313F6650-1A5D-4FFF-9D7C-76AC405B812A"
+                     <BinderItem UUID="F5B20C6F-C79F-4490-B8E0-BA8D88F16DCD"
                                  Type="Folder"
                                  ptx="exercise"
-                                 Created="2023-08-26T13:34:33.523203-04:00">
+                                 Created="2023-08-27T12:00:08.888576-04:00">
                         <Title>exercise</Title>
                         <MetaData>
                            <CustomMetaData>
@@ -759,10 +159,10 @@
                         </MetaData>
                         <Children/>
                      </BinderItem>
-                     <BinderItem UUID="CFF963F2-7119-40F9-86B4-C2754EDFA084"
+                     <BinderItem UUID="8EB59007-B85F-4DAF-9282-C701B492B9B5"
                                  Type="Folder"
                                  ptx="exercise"
-                                 Created="2023-08-26T13:34:33.523203-04:00">
+                                 Created="2023-08-27T12:00:08.888576-04:00">
                         <Title>exercise</Title>
                         <MetaData>
                            <CustomMetaData>
@@ -782,10 +182,10 @@
                         </MetaData>
                         <Children/>
                      </BinderItem>
-                     <BinderItem UUID="AA72E57F-E232-4CD6-9EE0-3C414B7627CA"
+                     <BinderItem UUID="350898B3-84E1-471E-80E5-DF9B6713D8CE"
                                  Type="Folder"
                                  ptx="exercise"
-                                 Created="2023-08-26T13:34:33.523203-04:00">
+                                 Created="2023-08-27T12:00:08.888576-04:00">
                         <Title>exercise</Title>
                         <MetaData>
                            <CustomMetaData>
@@ -805,10 +205,10 @@
                         </MetaData>
                         <Children/>
                      </BinderItem>
-                     <BinderItem UUID="30962EB9-886A-4721-9BAF-70824959106D"
+                     <BinderItem UUID="D16F4141-6BB2-41E3-84FE-B06EC093DDED"
                                  Type="Folder"
                                  ptx="exercise"
-                                 Created="2023-08-26T13:34:33.523203-04:00">
+                                 Created="2023-08-27T12:00:08.888576-04:00">
                         <Title>exercise</Title>
                         <MetaData>
                            <CustomMetaData>
@@ -828,10 +228,10 @@
                         </MetaData>
                         <Children/>
                      </BinderItem>
-                     <BinderItem UUID="8B9040DB-C22D-4423-9315-5F0A10C73A73"
+                     <BinderItem UUID="32794439-2C1C-41D4-A697-0B0D4E611E56"
                                  Type="Folder"
                                  ptx="exercise"
-                                 Created="2023-08-26T13:34:33.523203-04:00">
+                                 Created="2023-08-27T12:00:08.888576-04:00">
                         <Title>exercise</Title>
                         <MetaData>
                            <CustomMetaData>
@@ -851,10 +251,10 @@
                         </MetaData>
                         <Children/>
                      </BinderItem>
-                     <BinderItem UUID="120F83FD-6294-4937-8C66-06D1A50FF360"
+                     <BinderItem UUID="7C30563C-A1C6-4FDA-8590-E38ED1EC62A9"
                                  Type="Folder"
                                  ptx="exercise"
-                                 Created="2023-08-26T13:34:33.523203-04:00">
+                                 Created="2023-08-27T12:00:08.888576-04:00">
                         <Title>exercise</Title>
                         <MetaData>
                            <CustomMetaData>
@@ -874,10 +274,10 @@
                         </MetaData>
                         <Children/>
                      </BinderItem>
-                     <BinderItem UUID="53E1A403-EEEA-4F87-9DD3-5DEE3F33D0AD"
+                     <BinderItem UUID="4C43DB55-FD26-42A9-BCFC-5D8F57FE1391"
                                  Type="Folder"
                                  ptx="exercise"
-                                 Created="2023-08-26T13:34:33.523203-04:00">
+                                 Created="2023-08-27T12:00:08.888576-04:00">
                         <Title>exercise</Title>
                         <MetaData>
                            <CustomMetaData>
@@ -897,10 +297,10 @@
                         </MetaData>
                         <Children/>
                      </BinderItem>
-                     <BinderItem UUID="F8C4453E-88AE-4DCC-9FB9-6F1E198D1011"
+                     <BinderItem UUID="8E8BDF36-F9BF-41A3-91CA-9D20677E272B"
                                  Type="Folder"
                                  ptx="exercise"
-                                 Created="2023-08-26T13:34:33.523203-04:00">
+                                 Created="2023-08-27T12:00:08.888576-04:00">
                         <Title>exercise</Title>
                         <MetaData>
                            <CustomMetaData>
@@ -920,10 +320,10 @@
                         </MetaData>
                         <Children/>
                      </BinderItem>
-                     <BinderItem UUID="A01CA1D7-08AA-4D31-9680-295252D49196"
+                     <BinderItem UUID="C28E0816-E8A2-4096-A206-134327E300F1"
                                  Type="Folder"
                                  ptx="exercise"
-                                 Created="2023-08-26T13:34:33.523203-04:00">
+                                 Created="2023-08-27T12:00:08.888576-04:00">
                         <Title>exercise</Title>
                         <MetaData>
                            <CustomMetaData>
@@ -943,10 +343,10 @@
                         </MetaData>
                         <Children/>
                      </BinderItem>
-                     <BinderItem UUID="5AB8C9CE-635F-4DD7-BE70-912BF7FA4AA5"
+                     <BinderItem UUID="14564FEE-DCA9-42EB-BA3E-B26EF77AC466"
                                  Type="Folder"
                                  ptx="exercise"
-                                 Created="2023-08-26T13:34:33.523203-04:00">
+                                 Created="2023-08-27T12:00:08.888576-04:00">
                         <Title>exercise</Title>
                         <MetaData>
                            <CustomMetaData>
@@ -966,10 +366,10 @@
                         </MetaData>
                         <Children/>
                      </BinderItem>
-                     <BinderItem UUID="33F27061-EEA9-4840-BDBB-194298ADDA5A"
+                     <BinderItem UUID="A42E0131-402D-49BD-87B0-144BA2D3D89D"
                                  Type="Folder"
                                  ptx="exercise"
-                                 Created="2023-08-26T13:34:33.523203-04:00">
+                                 Created="2023-08-27T12:00:08.888576-04:00">
                         <Title>exercise</Title>
                         <MetaData>
                            <CustomMetaData>
@@ -989,10 +389,10 @@
                         </MetaData>
                         <Children/>
                      </BinderItem>
-                     <BinderItem UUID="6BCEEE44-C05E-4A28-9A16-E1A5B60E9932"
+                     <BinderItem UUID="14A17F4A-ED69-4830-83C2-2F854A013F03"
                                  Type="Folder"
                                  ptx="exercise"
-                                 Created="2023-08-26T13:34:33.523203-04:00">
+                                 Created="2023-08-27T12:00:08.888576-04:00">
                         <Title>exercise</Title>
                         <MetaData>
                            <CustomMetaData>

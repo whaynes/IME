@@ -1,8 +1,0 @@
-<p> At this point in the simplified cycle, you will find a feed pump to return the condensate
-        back to the boiler. In an actual cycle you will find a number of additional items which are
-        installed to increase the efficiency of the steam cycle by adding essentially <em>free</em>
-        energy to the working fluid. </p>
-<p> The first new item is the <em>condensate pump</em>, which is a centrifugal pump that takes
-        suction on the condenser hot well and raises the condensate pressure enough to move it on to
-        the DC heater. The condensate pump must pump from a vacuum, which is a difficult job for a
-        pump. It is important to properly vent and seal the pump, or it will not pump well. </p>

@@ -1,8 +1,0 @@
-<p> The dry pipe is located inside the steam drum, near the top. In its simplest form the dry
-        pipe is simply a pipe with holes drilled into the top portion. Steam enters the dry pipe
-        before it leaves the boiler. </p>
-<p> The dry pipe is designed to allow steam to enter, but to exclude water droplets and
-        moisture. Moisture in the steam, known as <em>carryover</em> is bad, because high velocity
-        water droplets in the steam would cause damage to the blades and thrust bearings in the
-        turbine. Improper operation of the boiler, for instance letting the steam drum water level
-        get too high, could cause carryover. </p>

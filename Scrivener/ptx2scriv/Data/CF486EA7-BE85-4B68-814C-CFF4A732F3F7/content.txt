@@ -1,5 +1,0 @@
-<p> The feed pump serves the same purpose here as it does in the simplified cycle; that is, it
-        raises the pressure of the feedwater sufficiently to force it into the boiler to begin the
-        cycle again. </p>
-<p> The feed pump is usually a turbine driven centrifugal pump, and the discharge pressure is
-        about 50 to 100 psi above the pressure in the steam drum. </p>
