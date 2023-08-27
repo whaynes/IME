@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SearchIndexes Version="1.0">
     <Documents>
-        <Document ID="13459284-A416-45AB-A308-F267C2C78B12">
-            <Title>Feed Valves</Title>
-            <Text>Three valves in the feed line before the boiler are used to control the flow of feedwater into the boiler.
-The  feed check valve comes first. It is a stop-check valve which is normally left open, but which can be used to regulate the feed water flow to the boiler if necessary. The feed check valve is always fitted with a reach rod or other means to permit it to be manually operated from the boiler control station.
-The feed check is followed by the feed water regulator which is an automatic, pneumatically actuated regulating valve that responds to changes in boiler drum level and steam demand to automatically maintain a constant water level half-way up the steam drum.
-The final valve of the set is the feed stop valve. This valve is provided to permit the feed system to be secured at the boiler when necessary.
-</Text>
+        <Document ID="987DD2D6-15FF-4F29-821C-001089999C76">
+            <Title>Length Measuring Instruments</Title>
         </Document>
         <Document ID="56322086-ED9F-4FBE-A527-626C36C3BBA9">
             <Title>introduction</Title>
@@ -226,7 +221,7 @@ E = 0.25 V
 Ships typically use 460 volt, 60 Hz, three-phase AC for major electrical machinery, and 120 volt, 60 Hz, single-phase for lights, receptacles, and small motors.  These are considered Low Voltage (LV) systems, although even 120 volts can be dangerous. 
 High voltage (above 1 kV) is used for very large motors, 400 kW or greater, such as propulsion motors, and thrusters. Marine HV systems typically operate at 3.3 kV or 6.6 kV or 11 kV.   
 The advantage of higher voltages is that for a given power, higher voltage means lower current.  (Recall &lt;xref ref="three-phase-PEI"/&gt;) Reduced current means that smaller diameter conductors can be used, the machine will be physically smaller and thus cheaper, and the machine will be more efficient because it will have smaller I^2 R losses. (Recall  &lt;xref ref="I2R"/&gt;) 
-&lt;figure xml:id="fig_distribution_simplified"&gt;
+&lt;figure xml:id="fig_distribution_simplified" landscape="yes"&gt;
 &lt;caption&gt;  NSMV Electrical Distribution (simplified) &lt;/caption&gt;
 &lt;url href="/IME/external/pics/electricity/Distribution_simplified.pdf"&gt;&lt;image width="100%" source="pics/electricity/Distribution_simplified"&gt;
 &lt;remix&gt;&lt;![CDATA[   Source:  whaynes from Diagram NSMV=321-B607   ]]&gt;&lt;/remix&gt;
@@ -409,10 +404,10 @@ High steam pressure at the inlet to the turbine is important for energy conversi
             <Title>How to read diagrams</Title>
         </Document>
         <Document ID="AABB2869-6F58-41F9-ACF4-56ABACF27399">
-            <Title>T-s diagram</Title>
-            <Text>The diagram shown in &lt;xref ref="ts_png"/&gt; is an idealized representation of the Rankine Cycle used in the study of thermodynamics, and known as a Temperature-entropy diagram. The heavy dome shaped curve is known as the vapor dome and points under the curve are saturated steam, while points to the left of the curve are liquid water and points to the right of the curve are superheated steam.
+            <Title>Rankine Cycle</Title>
+            <Text>The diagram shown in &lt;xref ref="ts_diagram_fig"/&gt; is an idealized representation of the Rankine Cycle used in the study of thermodynamics, and known as a temperature-entropy diagram. The heavy dome shaped curve is known as the vapor dome and points under the curve are saturated steam, while points to the left of the curve are liquid water and points to the right of the curve are superheated steam.
 Feedwater enters the boiler at point 1, and is heated by the fuel. Initially, the water temperature rises, until it reaches the saturation temperature for the boiler pressure, point 1_f, where the water begins to boil. Additional heat added at this point does not raise the temperature any further until all the liquid water is completely vaporized, point 1_g. The heat added between 1_f and 1_g is the Latent Heat of Vaporization. After the steam has reached point 1_g, any additional heat added causes the temperature to rise again, and the steam becomes superheated.
-&lt;figure xml:id="ts_png"&gt; &lt;caption&gt;Temperature - Entropy Diagram&lt;/caption&gt; &lt;image source="pics/steam/ts.png" width="50%"/&gt;
+&lt;figure xml:id="ts_diagram_fig"&gt; &lt;caption&gt;Temperature - Entropy Diagram&lt;/caption&gt; &lt;image source="pics/steam/ts_diagram.png" width="50%"/&gt;
 &lt;/figure&gt;
 Superheated steam leaves the boiler at point 2 and enters the turbine. During the expansion process, the steam pressure and temperature both drop as energy is extracted from the steam. Steam leaves the turbine and enters the condenser at point 3, which is saturated or wet steam.
 In the condenser, heat is removed from the steam and it returns to the liquid state at point 4. The feed pump raises the water pressure back up to the boiler pressure and the cycle begins again at point 1. The feed pump causes a small temperature rise in the feedwater as well as a pressure increase.
@@ -573,7 +568,7 @@ Because the source of the excitation in this generator is from permanent magnets
         </Document>
         <Document ID="6A664494-B5BB-4CB0-8BA9-B956F61D5B46">
             <Title>Procedure</Title>
-            <Text>&lt;sidebyside width="48%" margin="0" valign="middle"&gt;
+            <Text>&lt;sidebyside width="48%" margins="0%" valign="middle"&gt;
 Lockout-Tagout (LOTO) is a safety procedure used to ensure that dangerous equipment is properly shut down, isolated from energy sources, and secured while undergoing maintenance or repair. The goal of LOTO is to prevent unexpected startup or release of stored energy, which could lead to serious injuries or fatalities for workers involved in maintenance or repair activities.
 &lt;figure xml:id="fig_612524341066_T9-13"&gt;
 &lt;caption&gt; Lockout Tag &lt;/caption&gt;
@@ -779,10 +774,9 @@ mount and support electrical components, preventing them from coming into direct
         </Document>
         <Document ID="AF841D75-092B-47D0-B576-25BF61C4385A">
             <Title>introduction</Title>
-            <Text>There are two main methods used for propulsion of merchant ships today: steam turbines and diesel engines. Sail and steam reciprocating engines are long obsolete, and nuclear power, while used for some naval vessels, has been found to be impractical for merchant ships. Recently a few ships have been built with gas turbine propulsion, but it is not yet common.
-Over the last 50 years, diesel propulsion has displaced steam propulsion as the dominant method of merchant ship propulsion, mainly because it has higher fuel efficiency, but also because it is easier to automate, requires less maintenance, and can be operated with smaller crews – all factors leading to operating cost reductions. Nevertheless, steam propulsion remains important, if for no other reason than it is the method we use aboard the old training ship &lt;em&gt;TS Kennedy&lt;/em&gt;. Also, steam power is used extensively in industry and power generation ashore, and the skills developed by a steam engineer aboard ship find high demand in the shoreside job market.
-In this chapter we will discuss steam propulsion and the steam cycle. The steam cycle is the thermodynamic process which marine engineers use to transform the energy contained in the ship’s fuel oil or &lt;em&gt;bunkers&lt;/em&gt; into the power to turn the ship’s propeller and supply all the other requirements necessary to move a steam ship from one point to another. We will begin with a discussion of a very simplified version of the steam cycle, which nevertheless illustrates all the important principles of its operation. Later, we will progress to a more detailed, practical, and efficient version of the cycle, which more closely represents the cycle used on other steam ships. The function of each of the components of the cycle will be briefly described here, and in more detail in later chapters. This cycle described here is not the only possibility, but it is representative, and it provides a good foundation for further study.
-</Text>
+            <Text>Over the last 50 or so years steam and steam turbines as a means of ship propulsion have been supplanted by low and medium speed diesel engines, mainly because motor ships have better fuel efficiency, are easier to automate, requires less maintenance, and can be operated with smaller crews &lt;mdash/&gt; all factors leading to lower operating costs &lt;mdash/&gt; than steam ships. Nevertheless, steam propulsion remains important, because steam power is still used extensively in industry and power generation ashore, and the skills of a steam engineer find high demand in the shoreside job market.
+In this chapter we will discuss the basics of marine steam propulsion and the steam cycle. The steam cycle is the thermodynamic process which marine engineers use to transform the energy contained in the ship’s fuel oil or &lt;em&gt;bunkers&lt;/em&gt; into the power to turn the ship’s propeller and supply all the other requirements necessary to move a steamship from one point to another. 
+We will begin with a discussion of a very simplified version of the steam cycle, which nevertheless illustrates all its important principles. Then, we will progress to a more detailed, practical, and efficient version of the cycle, which more closely represents the cycle used on real steamships. The function of each of the components of the cycle will be briefly described here, but you will learn much more about them in your Steam Generator, Steam and Gas Turbines, and Thermodynamics classes.</Text>
         </Document>
         <Document ID="8647444A-E9BC-4EA2-84AB-1AF76020973A">
             <Title>DV951E001_MAIN ALTERNATOR_OPERATION MANUAL_ALTERNATOR</Title>
@@ -2410,9 +2404,9 @@ When operating, the boiler water level is subject to &lt;em&gt;shrink and swell&
             <Text>After the feedwater enters the boiler it passes through the economizer.
 The economizer is a heat recovery device. It consists of a finned-tube heat exchanger which captures the heat in the boiler exhaust gases before they pass up the stack and uses it to heat the feedwater. This is the final effort to improve the efficiency of the steam cycle, by recovering heat energy that would otherwise be lost.
 After leaving the economizer the feedwater enters the steam drum where the generation stage occurs, where the steam cycle begins again.
-&lt;figure xml:id="boilergasflow_png"&gt;
+&lt;figure xml:id="gas_flow_fig"&gt;
  &lt;caption&gt;Economizer and Exhaust Gas Flow Path&lt;/caption&gt;
- &lt;image source="pics/boilers/boilergasflow.png"/&gt;
+ &lt;image source="pics/steam/gas_flow.png"/&gt;
 &lt;/figure&gt;
 </Text>
         </Document>
@@ -3187,7 +3181,7 @@ The most common scale used on vacuum gages aboard ship display vacuum in inches 
         <Document ID="997A4ACA-FF05-46BC-B8C0-266CCA4D412C">
             <Title>introduction</Title>
             <Text>While the simplified steam cycle discussed in the previous section could be built, and it would work, several modifications are required to make it practical for steam propulsion and to improve its efficiency. 
-This actual steam cycle that was used for propulsion on the &lt;em&gt;TS Kennedy&lt;/em&gt;  is shown in &lt;xref ref="main_steam_cycle_fig"/&gt;. Each of the components of this cycle will be briefly discussed in the following sections, in its order in the cycle.
+The actual steam cycle that was used for propulsion on MMA’s old ship &lt;em&gt;TS Kennedy&lt;/em&gt;  is shown in &lt;xref ref="main_steam_cycle_fig"/&gt;. Each of the components of this cycle will be briefly discussed in the following sections, in its order in the cycle.
 &lt;figure xml:id="main_steam_cycle_fig" landscape="yes"&gt; &lt;caption&gt;Main Steam Cycle&lt;/caption&gt; &lt;url href="external/pics/steam/main_steam_cycle.svg" &gt;&lt;image source="pics/steam/main_steam_cycle" width="100%"/&gt;&lt;/url&gt;
 &lt;/figure&gt;
 </Text>
@@ -4426,12 +4420,11 @@ Soft starters and variable frequency drives, which are electronic devices, gradu
             <Title>introduction</Title>
             <Text> &lt;xref ref="simplified_png"/&gt; shows a very simplified version of the steam cycle, which is an appropriate starting point for our discussion of ship’s propulsion.
 The steam cycle is an example of what is known by engineers as a cyclic heat engine. It is called cyclic, because it operates on a cycle. It uses a working fluid, water, which travels from point to point through the cycle, changing form and carrying energy, but eventually returning to the starting point restored to the same state that it started with. It is called a heat engine, because it transforms &lt;em&gt;heat&lt;/em&gt;, which is a form of energy, into &lt;em&gt;work&lt;/em&gt;, another form of energy. The thermodynamic name for this cycle is the Rankine Cycle.
-The steam cycle consists of four stages &lt;ol&gt; &lt;li&gt; generation &lt;/li&gt; &lt;li&gt; expansion &lt;/li&gt; &lt;li&gt; condensation &lt;/li&gt; &lt;li&gt; recovery &lt;/li&gt; &lt;/ol&gt;
 &lt;figure xml:id="simplified_png"&gt; 
 &lt;caption&gt;Simplified Steam Cycle&lt;/caption&gt; 
 &lt;image source="pics/steam/simplified.png"/&gt;
 &lt;/figure&gt;
-Since this is a cycle, it has no beginning or end, but &lt;em&gt;we&lt;/em&gt; have to start somewhere, so let’s begin with the generation stage.
+The four stages of the steam cycle will be described, and then the cycle will be described again, this times from the perspective of the Rankine Cycle.
 </Text>
         </Document>
         <Document ID="1AC4248A-1200-46AA-86FA-5E49315D14AF">
@@ -5769,7 +5762,7 @@ Fathom: A nautical measurement equal to 6 feet or 1.8288 meters. It is commonly 
         </Document>
         <Document ID="7CED0421-D524-49E7-B90A-0CBF08FB141C">
             <Title>Charge</Title>
-            <Text>&lt;sidebyside width="48%" margin="0%" valign="middle"&gt;
+            <Text>&lt;sidebyside width="48%" margins="0%" valign="middle"&gt;
 Electrical charge is a fundamental property of matter that gives rise to the electromagnetic force, one of the four fundamental forces in nature. It is the property that describes the interaction between particles due to their electric fields. Electric charge is responsible for phenomena such as electricity, magnetism, and the behavior of charged particles.
 
 &lt;figure xml:id="fig_electric_field"&gt;
@@ -5900,7 +5893,7 @@ Speed</Text>
   &lt;/tabular&gt;
 &lt;/table&gt;
 The propeller shaft is supported by journal bearings which maintain radial alignment, and a thrust bearing which transmits thrust from the propeller to the hull and  maintains axial alignment. The shaft is equipped with turning gear and a shaft lock. When either of these is engaged, propulsion is blocked. 
-&lt;figure xml:id="DriveTrain"&gt;
+&lt;figure xml:id="DriveTrain" landscape="yes"&gt;
 
 &lt;caption&gt; Drive Train  &lt;/caption&gt;
 &lt;url href="/IME/external/pics/Eprop/DriveTrain.pdf" &gt;&lt;image width="100%" source="pics/Eprop/DriveTrain"&gt;
@@ -29647,7 +29640,7 @@ Ground faults are different than short circuits because the ground fault current
 Electrical power for both propulsion and ship’s services is produced by four Hyundai HSJ9 913-08P diesel driven generators.    These are 6600 Volt, three-phase AC synchronous generators capable of producing up to 4053 kW at 80% power factor, or 5066.25 kVA. 
 Generators 1 and 2 are located in engineroom 1 and directly feed main switchboard No.1, and generators 3 and 4 are located in engine room 2 and feed main switchboard No. 2.  The switchboards can be split or cross-connected as necessary for emergency operations.
 
-&lt;figure xml:id="propulsion_system"&gt;
+&lt;figure xml:id="propulsion_system" landscape="yes"&gt;
 &lt;caption&gt;Propulsion System One Line Diagram  &lt;/caption&gt;
 &lt;url href="/IME/external/pics/Eprop/propulsion_system.pdf"&gt;&lt;image width="100%" source="pics/Eprop/propulsion_system"&gt;
 &lt;remix&gt;&lt;![CDATA[   Source:  P1206 EMPIRE STATE MACHINERY MANUAL  FIRST DRAFT MAY 2022    ]]&gt;&lt;/remix&gt;
@@ -30830,12 +30823,12 @@ Under the ISM Code, both the ship and the company have specific obligations to e
             <Text>The International Convention for the Safety of Life at Sea (SOLAS) is an international treaty developed by the International Maritime Organization (IMO) in 1914, following the sinking of the Titanic, one of the most famous maritime disasters in history.   
 SOLAS sets out minimum safety standards for the construction, equipment, and operation of ships in order to prevent accidents at sea and ensure that ships are well-prepared to handle emergencies. 
 Key aspects and provisions of SOLAS include: &lt;ul&gt;
-Structural Integrity It defines requirements for ship construction, stability, and subdivision to ensure that vessels are built to withstand the stresses of the marine environment.
-Safety Equipment SOLAS mandates the provision of life-saving appliances such as lifeboats, life rafts, lifejackets, and distress signaling equipment on board.
-Fire Safety The treaty outlines measures for preventing and combating fires on board ships, including fire detection systems, fire-fighting equipment, and fire drills.
-Navigation Safety SOLAS includes regulations for navigational equipment, including navigation lights, radar systems, and the use of electronic navigation aids.
-Radio Communications SOLAS establishes regulations for navigation and communication equipment, including requirements for radar systems, navigational aids, and communication devices to ensure safe navigation and effective communication, ensuring that vessels can call for assistance in case of emergencies.
-Training and Drills SOLAS mandates regular safety training and drills for the crew, including procedures for abandoning ship, using life-saving equipment, and responding to emergencies.
+Structural Integrity &lt;p&gt;It defines requirements for ship construction, stability, and subdivision to ensure that vessels are built to withstand the stresses of the marine environment.&lt;/p&gt;
+Safety Equipment &lt;p&gt;SOLAS mandates the provision of life-saving appliances such as lifeboats, life rafts, lifejackets, and distress signaling equipment on board.&lt;/p&gt;
+Fire Safety &lt;p&gt;The treaty outlines measures for preventing and combating fires on board ships, including fire detection systems, fire-fighting equipment, and fire drills.&lt;/p&gt;
+Navigation Safety &lt;p&gt;SOLAS includes regulations for navigational equipment, including navigation lights, radar systems, and the use of electronic navigation aids.&lt;/p&gt;
+Radio Communications &lt;p&gt;SOLAS establishes regulations for navigation and communication equipment, including requirements for radar systems, navigational aids, and communication devices to ensure safe navigation and effective communication, ensuring that vessels can call for assistance in case of emergencies.&lt;/p&gt;
+Training and Drills &lt;p&gt;SOLAS mandates regular safety training and drills for the crew, including procedures for abandoning ship, using life-saving equipment, and responding to emergencies.&lt;/p&gt;
 &lt;/ul&gt;&lt;/p&gt;</Text>
         </Document>
         <Document ID="F5822055-2D86-4D64-8DF1-1DC03DD870A0">
@@ -37269,7 +37262,8 @@ Note that the three voltage drops add up to the 48 V supply.
         </Document>
         <Document ID="189C70F7-1867-4E4D-BA23-A397641593A5">
             <Title>Generation</Title>
-            <Text>Steam generation occurs in the boiler. The boiler is simply a device used to boil water. Like a tea-kettle on the stove, it contains liquid water and a heat source. As the water is heated, its temperature rises and soon it begins to boil. On the stove, the water vapor or steam rises and dissipates into the kitchen, but not so in a boiler. The boiler is a closed vessel, like a pot with a lid, and any steam generated in the boiler rises to the top and is collected before being sent on to the next step of the cycle.
+            <Text>Since this is a cycle, it has no beginning or end, but &lt;em&gt;we&lt;/em&gt; have to start somewhere, so let’s begin with the generation stage.
+Steam generation occurs in the boiler. The boiler is simply a device used to boil water. Like a tea-kettle on the stove, it contains liquid water and a heat source. As the water is heated, its temperature rises and soon it begins to boil. On the stove, the water vapor or steam rises and dissipates into the kitchen, but not so in a boiler. The boiler is a closed vessel, like a pot with a lid, and any steam generated in the boiler rises to the top and is collected before being sent on to the next step of the cycle.
 In the generation stage, the chemical energy stored in the ship’s fuel is released when the fuel is burned in the boiler furnace, and some of this energy is transferred to the working fluid – the water. The water gains energy, and we can detect this in two ways: the water’s temperature goes up, and the water changes &lt;em&gt;state&lt;/em&gt; from a liquid into water vapor, which we call steam. Steam leaves the boiler at high pressure and high temperature.
 As we will learn in &lt;xref ref="thermodynamics"/&gt;, heat energy which raises the temperature of a substance such as water or steam is sometimes called sensible heat while the heat energy that actually boils the substance is called latent heat.
 You probably remember that water boils at 212 °F at standard atmospheric pressure (14.7 psia). If you put a thermometer into a pan of water boiling on the stove, this is what it will read. Even if you turn the flame up to add more heat energy, you won’t be able to make the water temperature rise above 212 °F. This is because you are adding latent heat, which is not reflected by an increase in the water’s temperature. All of the heat energy is being used to turn the liquid water into a vapor.
@@ -41653,8 +41647,13 @@ A ball valve, &lt;xref ref="ball_valve_png"/&gt;, is similar to a plug valve exc
 Ball valves are compact, self-sealing, non-sticking, require little effort to rotate   the valve stem and they provide smooth fluid flow. Since the port in the ball is   normally the same I.D. as the piping, the ball valve offers little resistance to flow   and low pressure drop. 
 </Text>
         </Document>
-        <Document ID="987DD2D6-15FF-4F29-821C-001089999C76">
-            <Title>Length Measuring Instruments</Title>
+        <Document ID="13459284-A416-45AB-A308-F267C2C78B12">
+            <Title>Feed Valves</Title>
+            <Text>Three valves in the feed line before the boiler are used to control the flow of feedwater into the boiler.
+The  feed check valve comes first. It is a stop-check valve which is normally left open, but which can be used to regulate the feed water flow to the boiler if necessary. The feed check valve is always fitted with a reach rod or other means to permit it to be manually operated from the boiler control station.
+The feed check is followed by the feed water regulator which is an automatic, pneumatically actuated regulating valve that responds to changes in boiler drum level and steam demand to automatically maintain a constant water level half-way up the steam drum.
+The final valve of the set is the feed stop valve. This valve is provided to permit the feed system to be secured at the boiler when necessary.
+</Text>
         </Document>
     </Documents>
 </SearchIndexes>
