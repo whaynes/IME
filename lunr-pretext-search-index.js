@@ -4885,7 +4885,142 @@ var ptx_lunr_docs = [
   "type": "Chapter",
   "number": "10",
   "title": "TS Patriot State",
-  "body": " TS Patriot State  Vessel Particulars  Chapter 14 - MMA Sea Term I  What to expect on the training cruise  System diagrams  "
+  "body": " TS Patriot State  Vessel Particulars  Chapter 14 - MMA Sea Term I  What to expect on the training cruise    Patriot State Waterline Profile    MARAD       Patriot State Outboard Profile    MARAD       Patriot State Inboard Profile Port    MARAD       Patriot State Inboard Profile Starboard    MARAD       Patriot State 05 Level    MARAD       Patriot State 04 Level    MARAD       Patriot State O3 Level    MARAD       Patriot State 02 Level    MARAD       Patriot State 01 Level    MARAD       Patriot State Main Deck    MARAD       Patriot State 2nd Deck    MARAD       Patriot State 3rd Deck    MARAD       Patriot State 4th Deck    MARAD       Patriot State Tank Tops    MARAD       Patriot State Inner Bottom    MARAD     "
+},
+{
+  "id": "fig_waterline_profile",
+  "level": "2",
+  "url": "TSPS.html#fig_waterline_profile",
+  "type": "Figure",
+  "number": "10.0.1",
+  "title": "",
+  "body": "  Patriot State Waterline Profile    MARAD    "
+},
+{
+  "id": "fig_outboard_profile",
+  "level": "2",
+  "url": "TSPS.html#fig_outboard_profile",
+  "type": "Figure",
+  "number": "10.0.2",
+  "title": "",
+  "body": "  Patriot State Outboard Profile    MARAD    "
+},
+{
+  "id": "fig_inboard_port",
+  "level": "2",
+  "url": "TSPS.html#fig_inboard_port",
+  "type": "Figure",
+  "number": "10.0.3",
+  "title": "",
+  "body": "  Patriot State Inboard Profile Port    MARAD    "
+},
+{
+  "id": "fig_inboard_stbd",
+  "level": "2",
+  "url": "TSPS.html#fig_inboard_stbd",
+  "type": "Figure",
+  "number": "10.0.4",
+  "title": "",
+  "body": "  Patriot State Inboard Profile Starboard    MARAD    "
+},
+{
+  "id": "fig_05_level",
+  "level": "2",
+  "url": "TSPS.html#fig_05_level",
+  "type": "Figure",
+  "number": "10.0.5",
+  "title": "",
+  "body": "  Patriot State 05 Level    MARAD    "
+},
+{
+  "id": "fig_04_level",
+  "level": "2",
+  "url": "TSPS.html#fig_04_level",
+  "type": "Figure",
+  "number": "10.0.6",
+  "title": "",
+  "body": "  Patriot State 04 Level    MARAD    "
+},
+{
+  "id": "fig_03_level",
+  "level": "2",
+  "url": "TSPS.html#fig_03_level",
+  "type": "Figure",
+  "number": "10.0.7",
+  "title": "",
+  "body": "  Patriot State O3 Level    MARAD    "
+},
+{
+  "id": "fig_02_level",
+  "level": "2",
+  "url": "TSPS.html#fig_02_level",
+  "type": "Figure",
+  "number": "10.0.8",
+  "title": "",
+  "body": "  Patriot State 02 Level    MARAD    "
+},
+{
+  "id": "fig_01_level",
+  "level": "2",
+  "url": "TSPS.html#fig_01_level",
+  "type": "Figure",
+  "number": "10.0.9",
+  "title": "",
+  "body": "  Patriot State 01 Level    MARAD    "
+},
+{
+  "id": "fig_main_deck",
+  "level": "2",
+  "url": "TSPS.html#fig_main_deck",
+  "type": "Figure",
+  "number": "10.0.10",
+  "title": "",
+  "body": "  Patriot State Main Deck    MARAD    "
+},
+{
+  "id": "fig_2nd_deck",
+  "level": "2",
+  "url": "TSPS.html#fig_2nd_deck",
+  "type": "Figure",
+  "number": "10.0.11",
+  "title": "",
+  "body": "  Patriot State 2nd Deck    MARAD    "
+},
+{
+  "id": "fig_3rd_deck",
+  "level": "2",
+  "url": "TSPS.html#fig_3rd_deck",
+  "type": "Figure",
+  "number": "10.0.12",
+  "title": "",
+  "body": "  Patriot State 3rd Deck    MARAD    "
+},
+{
+  "id": "fig_4th_deck",
+  "level": "2",
+  "url": "TSPS.html#fig_4th_deck",
+  "type": "Figure",
+  "number": "10.0.13",
+  "title": "",
+  "body": "  Patriot State 4th Deck    MARAD    "
+},
+{
+  "id": "fig_tank_top",
+  "level": "2",
+  "url": "TSPS.html#fig_tank_top",
+  "type": "Figure",
+  "number": "10.0.14",
+  "title": "",
+  "body": "  Patriot State Tank Tops    MARAD    "
+},
+{
+  "id": "fig_inner_bottom",
+  "level": "2",
+  "url": "TSPS.html#fig_inner_bottom",
+  "type": "Figure",
+  "number": "10.0.15",
+  "title": "",
+  "body": "  Patriot State Inner Bottom    MARAD    "
 }
 ]
 
