@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SearchIndexes Version="1.0">
     <Documents>
-        <Document ID="987DD2D6-15FF-4F29-821C-001089999C76">
-            <Title>Length Measuring Instruments</Title>
+        <Document ID="13459284-A416-45AB-A308-F267C2C78B12">
+            <Title>Feed Valves</Title>
+            <Text>Three valves in the feed line before the boiler are used to control the flow of feedwater into the boiler.
+The  feed check valve comes first. It is a stop-check valve which is normally left open, but which can be used to regulate the feed water flow to the boiler if necessary. The feed check valve is always fitted with a reach rod or other means to permit it to be manually operated from the boiler control station.
+The feed check is followed by the feed water regulator which is an automatic, pneumatically actuated regulating valve that responds to changes in boiler drum level and steam demand to automatically maintain a constant water level half-way up the steam drum.
+The final valve of the set is the feed stop valve. This valve is provided to permit the feed system to be secured at the boiler when necessary.
+</Text>
         </Document>
         <Document ID="56322086-ED9F-4FBE-A527-626C36C3BBA9">
             <Title>introduction</Title>
@@ -4305,6 +4310,112 @@ It is unfortunate that some of the energy once contained by the fuel, and then p
         </Document>
         <Document ID="06451DEA-0CFA-43B9-8AB7-0AE9080DA80A">
             <Title>System diagrams</Title>
+            <Text>&lt;figure xml:id="fig_waterline_profile" landscape="yes"&gt;
+&lt;caption&gt; &lt;em&gt;Patriot State&lt;/em&gt;  Waterline Profile  &lt;/caption&gt;
+&lt;url href="/IME/external/pics/TSPS/waterline_profile.pdf"&gt;
+&lt;image width="100%" source="pics/TSPS/waterline_profile"&gt;
+&lt;remix&gt; &lt;![CDATA[  MARAD  ]]&gt;&lt;/remix&gt;
+&lt;/image&gt;&lt;/url&gt;
+&lt;/figure&gt;
+&lt;figure xml:id="fig_outboard_profile" landscape="yes"&gt;
+&lt;caption&gt; &lt;em&gt;Patriot State&lt;/em&gt;  Outboard Profile  &lt;/caption&gt;
+&lt;url href="/IME/external/pics/TSPS/outboard_profile.pdf"&gt;
+&lt;image width="100%" source="pics/TSPS/outboard_profile"&gt;
+&lt;remix&gt; &lt;![CDATA[  MARAD  ]]&gt;&lt;/remix&gt;
+&lt;/image&gt;&lt;/url&gt;
+&lt;/figure&gt;
+&lt;figure xml:id="fig_inboard_port" landscape="yes"&gt;
+&lt;caption&gt; &lt;em&gt;Patriot State&lt;/em&gt;  Inboard Profile Port  &lt;/caption&gt;
+&lt;url href="/IME/external/pics/TSPS/inboard_port.pdf"&gt;
+&lt;image width="100%" source="pics/TSPS/inboard_port"&gt;
+&lt;remix&gt; &lt;![CDATA[  MARAD  ]]&gt;&lt;/remix&gt;
+&lt;/image&gt;&lt;/url&gt;
+&lt;/figure&gt;
+&lt;figure xml:id="fig_inboard_stbd" landscape="yes"&gt;
+&lt;caption&gt; &lt;em&gt;Patriot State&lt;/em&gt;  Inboard Profile Starboard  &lt;/caption&gt;
+&lt;url href="/IME/external/pics/TSPS/inboard_stbd.pdf"&gt;
+&lt;image width="100%" source="pics/TSPS/inboard_stbd"&gt;
+&lt;remix&gt; &lt;![CDATA[  MARAD  ]]&gt;&lt;/remix&gt;
+&lt;/image&gt;&lt;/url&gt;
+&lt;/figure&gt;
+&lt;figure xml:id="fig_05_level" landscape="yes"&gt;
+&lt;caption&gt; &lt;em&gt;Patriot State&lt;/em&gt;  05 Level  &lt;/caption&gt;
+&lt;url href="/IME/external/pics/TSPS/05_level.pdf"&gt;
+&lt;image width="100%" source="pics/TSPS/05_level"&gt;
+&lt;remix&gt; &lt;![CDATA[  MARAD  ]]&gt;&lt;/remix&gt;
+&lt;/image&gt;&lt;/url&gt;
+&lt;/figure&gt;
+&lt;figure xml:id="fig_04_level" landscape="yes"&gt;
+&lt;caption&gt; &lt;em&gt;Patriot State&lt;/em&gt;  04 Level  &lt;/caption&gt;
+&lt;url href="/IME/external/pics/TSPS/04_level.pdf"&gt;
+&lt;image width="100%" source="pics/TSPS/04_level"&gt;
+&lt;remix&gt; &lt;![CDATA[  MARAD  ]]&gt;&lt;/remix&gt;
+&lt;/image&gt;&lt;/url&gt;
+&lt;/figure&gt;
+&lt;figure xml:id="fig_03_level" landscape="yes"&gt;
+&lt;caption&gt; &lt;em&gt;Patriot State&lt;/em&gt;  O3 Level  &lt;/caption&gt;
+&lt;url href="/IME/external/pics/TSPS/03_level.pdf"&gt;
+&lt;image width="100%" source="pics/TSPS/03_level"&gt;
+&lt;remix&gt; &lt;![CDATA[  MARAD  ]]&gt;&lt;/remix&gt;
+&lt;/image&gt;&lt;/url&gt;
+&lt;/figure&gt;
+&lt;figure xml:id="fig_02_level" landscape="yes"&gt;
+&lt;caption&gt; &lt;em&gt;Patriot State&lt;/em&gt;  02 Level  &lt;/caption&gt;
+&lt;url href="/IME/external/pics/TSPS/02_level.pdf"&gt;
+&lt;image width="100%" source="pics/TSPS/02_level"&gt;
+&lt;remix&gt; &lt;![CDATA[  MARAD  ]]&gt;&lt;/remix&gt;
+&lt;/image&gt;&lt;/url&gt;
+&lt;/figure&gt;
+&lt;figure xml:id="fig_01_level" landscape="yes"&gt;
+&lt;caption&gt; &lt;em&gt;Patriot State&lt;/em&gt;  01 Level  &lt;/caption&gt;
+&lt;url href="/IME/external/pics/TSPS/01_level.pdf"&gt;
+&lt;image width="100%" source="pics/TSPS/01_level"&gt;
+&lt;remix&gt; &lt;![CDATA[  MARAD  ]]&gt;&lt;/remix&gt;
+&lt;/image&gt;&lt;/url&gt;
+&lt;/figure&gt;
+&lt;figure xml:id="fig_main_deck" landscape="yes"&gt;
+&lt;caption&gt; &lt;em&gt;Patriot State&lt;/em&gt;  Main Deck  &lt;/caption&gt;
+&lt;url href="/IME/external/pics/TSPS/main_deck.pdf"&gt;
+&lt;image width="100%" source="pics/TSPS/main_deck"&gt;
+&lt;remix&gt; &lt;![CDATA[  MARAD  ]]&gt;&lt;/remix&gt;
+&lt;/image&gt;&lt;/url&gt;
+&lt;/figure&gt;
+&lt;figure xml:id="fig_2nd_deck" landscape="yes"&gt;
+&lt;caption&gt; &lt;em&gt;Patriot State&lt;/em&gt;  2nd Deck  &lt;/caption&gt;
+&lt;url href="/IME/external/pics/TSPS/2nd_deck.pdf"&gt;
+&lt;image width="100%" source="pics/TSPS/2nd_deck"&gt;
+&lt;remix&gt; &lt;![CDATA[  MARAD  ]]&gt;&lt;/remix&gt;
+&lt;/image&gt;&lt;/url&gt;
+&lt;/figure&gt;
+&lt;figure xml:id="fig_3rd_deck" landscape="yes"&gt;
+&lt;caption&gt; &lt;em&gt;Patriot State&lt;/em&gt;  3rd Deck  &lt;/caption&gt;
+&lt;url href="/IME/external/pics/TSPS/3rd_deck.pdf"&gt;
+&lt;image width="100%" source="pics/TSPS/3rd_deck"&gt;
+&lt;remix&gt; &lt;![CDATA[  MARAD  ]]&gt;&lt;/remix&gt;
+&lt;/image&gt;&lt;/url&gt;
+&lt;/figure&gt;
+&lt;figure xml:id="fig_4th_deck" landscape="yes"&gt;
+&lt;caption&gt; &lt;em&gt;Patriot State&lt;/em&gt;  4th Deck  &lt;/caption&gt;
+&lt;url href="/IME/external/pics/TSPS/4th_deck.pdf"&gt;
+&lt;image width="100%" source="pics/TSPS/4th_deck"&gt;
+&lt;remix&gt; &lt;![CDATA[  MARAD  ]]&gt;&lt;/remix&gt;
+&lt;/image&gt;&lt;/url&gt;
+&lt;/figure&gt;
+&lt;figure xml:id="fig_tank_top" landscape="yes"&gt;
+&lt;caption&gt; &lt;em&gt;Patriot State&lt;/em&gt;  Tank Tops  &lt;/caption&gt;
+&lt;url href="/IME/external/pics/TSPS/tank_top.pdf"&gt;
+&lt;image width="100%" source="pics/TSPS/tank_top"&gt;
+&lt;remix&gt; &lt;![CDATA[  MARAD  ]]&gt;&lt;/remix&gt;
+&lt;/image&gt;&lt;/url&gt;
+&lt;/figure&gt;
+&lt;figure xml:id="fig_inner_bottom" landscape="yes"&gt;
+&lt;caption&gt; &lt;em&gt;Patriot State&lt;/em&gt;  Inner Bottom  &lt;/caption&gt;
+&lt;url href="/IME/external/pics/TSPS/inner_bottom.pdf"&gt;
+&lt;image width="100%" source="pics/TSPS/inner_bottom"&gt;
+&lt;remix&gt; &lt;![CDATA[  MARAD  ]]&gt;&lt;/remix&gt;
+&lt;/image&gt;&lt;/url&gt;
+&lt;/figure&gt;
+</Text>
         </Document>
         <Document ID="F5E2724E-1C74-47BC-8DBB-7CA3AD6064D9">
             <Title>Heat Exchangers</Title>
@@ -41637,6 +41748,9 @@ Conversion of units is the process to convert between different units of measu
 The unit-factor method or the unity bracket method is a widely used technique for unit conversions using the rules of algebra. 
 The factor-label method is the sequential application of conversion factors expressed as fractions and arranged so that any dimensional unit appearing in both the numerator and denominator of any of the fractions can be cancelled out until only the desired set of dimensional units is obtained. For example, 10 miles per hour (mi/hr or mph) can be converted to meters per second (m/s) by using a sequence of conversion factors as shown below:</Text>
         </Document>
+        <Document ID="987DD2D6-15FF-4F29-821C-001089999C76">
+            <Title>Length Measuring Instruments</Title>
+        </Document>
         <Document ID="60F720BA-18C5-4F60-BE5A-431145DDEBA9">
             <Title>Ball Valves</Title>
             <Text>&lt;figure xml:id="ball_valve_png"&gt;
@@ -41645,14 +41759,6 @@ The factor-label method is the sequential application of conversion factors expr
 &lt;/figure&gt;
 A ball valve, &lt;xref ref="ball_valve_png"/&gt;, is similar to a plug valve except that a   spherical rather than cylindrical plug is used. The ball has a hole or port bored   through it and is made tight to the two openings in the body by plastic or synthetic   rubber seat seal rings. These plastic or synthetic seat rings limit most ball valves to   fluid temperatures of 350° or less. When the ball is rotated to the closed position, the   fluid pressure pushes the ball tightly against the outlet seat ring insuring tight   closure. 
 Ball valves are compact, self-sealing, non-sticking, require little effort to rotate   the valve stem and they provide smooth fluid flow. Since the port in the ball is   normally the same I.D. as the piping, the ball valve offers little resistance to flow   and low pressure drop. 
-</Text>
-        </Document>
-        <Document ID="13459284-A416-45AB-A308-F267C2C78B12">
-            <Title>Feed Valves</Title>
-            <Text>Three valves in the feed line before the boiler are used to control the flow of feedwater into the boiler.
-The  feed check valve comes first. It is a stop-check valve which is normally left open, but which can be used to regulate the feed water flow to the boiler if necessary. The feed check valve is always fitted with a reach rod or other means to permit it to be manually operated from the boiler control station.
-The feed check is followed by the feed water regulator which is an automatic, pneumatically actuated regulating valve that responds to changes in boiler drum level and steam demand to automatically maintain a constant water level half-way up the steam drum.
-The final valve of the set is the feed stop valve. This valve is provided to permit the feed system to be secured at the boiler when necessary.
 </Text>
         </Document>
     </Documents>
