@@ -2914,7 +2914,7 @@ var ptx_lunr_docs = [
   "type": "Subsection",
   "number": "4.4.9",
   "title": "Electrical Distribution System",
-  "body": " Electrical Distribution System  A shipboard electrical distribution system controls and distributes electrical power from the ship’s generators to the electrical consumers around the ship.  Ships typically use 460 volt, 60 Hz, three-phase AC for major electrical machinery, and 120 volt, 60 Hz, single-phase for lights, receptacles, and small motors. These are considered Low Voltage (LV) systems, although even 120 volts can be dangerous.  High voltage (above 1 kV) is used for very large motors, 400 kW or greater, such as propulsion motors, and thrusters. Marine HV systems typically operate at 3.3 kV or 6.6 kV or 11 kV.  The advantage of higher voltages is that for a given power, higher voltage means lower current. (Recall ) Reduced current means that smaller diameter conductors can be used, the machine will be physically smaller and thus cheaper, and the machine will be more efficient because it will have smaller losses. (Recall )   NSMV Electrical Distribution (simplified)    Source: whaynes from Diagram NSMV=321-B607     An extremely simplified representation of the Patriot State II electrical distribution system is shown in . This diagram represents only about half the distribution system and only shows the portion of the system which is supplied from the after engine room.  The main components of the distribution system are:   Power supply  The ship’s service generators are the primary source of electrical power for the vessel.  There are four ship’s service generators on the training ship; generators one and two are located in the forward engine room, and three and four are located in the after engine room. Each can supply 443 A of 6.6 kV, three-phase, 60 Hz AC. The ship’s service generators are discussed in more detail in .  A backup emergency generator is provided for use in the event of failure of the ship’s service generators or other emergency. By regulation the emergency generator must be able to start when the ship has a list of up to 22.5 , must come on-line automatically within 45 seconds of a power failure, and must supply power for up to 18 hours.  On the training ship, a 500 kW emergency generator is located just forward of the stack on the weather deck (05 level). The capacity of the emergency generator is less than the ship’s service generators, so when operating it can only supply a limited subset of the ship’s equipment.  A UPS, or uninterruptible power supply , is a battery-powered system that provides temporary power after a blackout but before the emergency generator comes on line. UPSs can either supply DC power directly from the batteries, or supply AC by converting the DC battery output to alternating current using an electronic inverter . UPSs primarily supply power to vital control systems and the emergency light.  A 440 V shore power connection is provided to supply electrical power to the ship when alongside or in the shipyard when it would be undesirable to operate the ship’s generators.    Switchboards and Load centers  A switchboard is an electrical enclosure containing the equipment that monitors, controls, protects, and distributes electrical power. It divides the electrical system into separate circuits and provides a central point from which electrical power can be managed and routed to different areas or equipment.  Within the switchboard, electrical current is carried by a bus or bus bar , not by wires or cables. In an electrical system, a bus refers to a conducting bar or strip that serves as a common connection point for multiple electrical circuits. It's like a highway for electrical current to flow to different destinations. Buses are typically made of copper must have sufficient cross-sectional area to handle the required current.  The training ship has two high voltage main switchboards (HVMSB); Switchboard one is located in the forward engine room, and switchboard two is the after engine room. Each switchboard is divided into two connected buses: Switchboard one contains buses one and two, switchboard two contains buses three and four. The buses are interconnected with circuit breakers to permit the power to be re-routed in an emergency.  The bus bars are connected through circuit breakers to directly supply to some of the major electrical consumers, and also supply load centers . Load centers are smaller switchboard or electrical panels located around the ship that contain their own bus and further distribute power to smaller, nearby electrical consumers. Load centers may also be called group-control centers , distribution boards , or power panels .  The NSMV power distribution system consists of the following:  2 HV switchboards (6.6kV) Supply power to the propulsion motors, bow and stern thrusters, and supply the low voltage switchboards.  2 LV switchboards (450V) Primarily supply the engine room machinery, and also lower voltage load centers and distribution boards.  1 Emergency switchboard (450\/120V). This switchboard normally powered by the LV switchboard, but in the event of a power failure will be isolated and powered by the emergency generator.  4 LV load center panels (440V) Supply power to other machinery, including the galley and laundry equipment, and downstream distribution boards.  4 120 V load center panels (120V) Supply power to 120 V distribution boards, including galley and laundry.  3 Emergency load center panels (440V) Provide power to vital 440 volt loads.  3 Emergency load center panels (120V) Provide power to vital 120 volt loads,  16 Distribution boards (440V) Provide power to non-vital 440 volt loads.  18 Distribution boards (120\/240V) Provide power to non-vital 120 and 240 volt loads,  24 Lighting distribution boards (120V), provide the majority of ship’s lighting and outlets.  13 Emergency Lighting distribution boards (120V), supply the E lights which sufficient lighting to safely evacuate the ship in an emergency.      Transformers  As discussed in , transformers are devices that can step-up or step down AC voltage.  In the electrical distribution system, four three-phase transformers are used to drop the 6,600 volts on the HV bus to the 450 volts required on the LV bus, and four are used to supply the correct voltages to the two propulsion motors, the bow thruster, and the stern thruster.  Single-phase 440\/120 volt transformers are used to supply the 120 volt lighting and distribution panels.    Protective Equipment  The distribution system is fully equipped with monitoring and metering instrumentation to measures electrical parameters like voltage, current, frequency, power factor, and electrical load, and monitors the system for ground faults. This information helps in managing the electrical system operation and identifying potential issues.  Each distribution branch is protected by multiple circuit breakers that protect the system from overloads, short circuits, and other faults. The circuit breakers are coordinated so that when a fault occurs, the circuit breaker closest to the fault trips, interrupting the flow of current to the fault area while minimizing disruption to the remainder of the system.    Power Management System  The electrical system aboard the training vessel is fully automated by a Power Management System (PMS).  The main purpose of the PMS is to ensure that there is always a sufficient power reserve available for the essential services of the vessel. The system continuously monitors the generators and the electrical loads, and automatically starts and stops generators to match electrical power generation to the ship’s needs.  During critical times when energy demand is exceptionally high or during emergencies, the power management system can shed or temporarily drop non-essential loads. This ensures that essential equipment and services receive power while minimizing strain on the electrical system.   "
+  "body": " Electrical Distribution System  A shipboard electrical distribution system controls and distributes electrical power from the ship’s generators to the electrical consumers around the ship.  Ships typically use 460 volt, 60 Hz, three-phase AC for major electrical machinery, and 120 volt, 60 Hz, single-phase for lights, receptacles, and small motors. These are considered Low Voltage (LV) systems, although even 120 volts can be dangerous.  High voltage (above 1 kV) is used for very large motors, 400 kW or greater, such as propulsion motors, and thrusters. Marine HV systems typically operate at 3.3 kV or 6.6 kV or 11 kV.  The advantage of higher voltages is that for a given power, higher voltage means lower current. (Recall ) Reduced current means that smaller diameter conductors can be used, the machine will be physically smaller and thus cheaper, and the machine will be more efficient because it will have smaller losses. (Recall )   NSMV Electrical Distribution (simplified)   Source: whaynes from Diagram NSMV=321-B607    An extremely simplified representation of the Patriot State II electrical distribution system is shown in . This diagram represents only about half the distribution system and only shows the portion of the system which is supplied from the after engine room.  The main components of the distribution system are:   Power supply  The ship’s service generators are the primary source of electrical power for the vessel.  There are four ship’s service generators on the training ship; generators one and two are located in the forward engine room, and three and four are located in the after engine room. Each can supply 443 A of 6.6 kV, three-phase, 60 Hz AC. The ship’s service generators are discussed in more detail in .  A backup emergency generator is provided for use in the event of failure of the ship’s service generators or other emergency. By regulation the emergency generator must be able to start when the ship has a list of up to 22.5 , must come on-line automatically within 45 seconds of a power failure, and must supply power for up to 18 hours.  On the training ship, a 500 kW emergency generator is located just forward of the stack on the weather deck (05 level). The capacity of the emergency generator is less than the ship’s service generators, so when operating it can only supply a limited subset of the ship’s equipment.  A UPS, or uninterruptible power supply , is a battery-powered system that provides temporary power after a blackout but before the emergency generator comes on line. UPSs can either supply DC power directly from the batteries, or supply AC by converting the DC battery output to alternating current using an electronic inverter . UPSs primarily supply power to vital control systems and the emergency light.  A 440 V shore power connection is provided to supply electrical power to the ship when alongside or in the shipyard when it would be undesirable to operate the ship’s generators.    Switchboards and Load centers  A switchboard is an electrical enclosure containing the equipment that monitors, controls, protects, and distributes electrical power. It divides the electrical system into separate circuits and provides a central point from which electrical power can be managed and routed to different areas or equipment.  Within the switchboard, electrical current is carried by a bus or bus bar , not by wires or cables. In an electrical system, a bus refers to a conducting bar or strip that serves as a common connection point for multiple electrical circuits. It's like a highway for electrical current to flow to different destinations. Buses are typically made of copper must have sufficient cross-sectional area to handle the required current.  The training ship has two high voltage main switchboards (HVMSB); Switchboard one is located in the forward engine room, and switchboard two is the after engine room. Each switchboard is divided into two connected buses: Switchboard one contains buses one and two, switchboard two contains buses three and four. The buses are interconnected with circuit breakers to permit the power to be re-routed in an emergency.  The bus bars are connected through circuit breakers to directly supply to some of the major electrical consumers, and also supply load centers . Load centers are smaller switchboard or electrical panels located around the ship that contain their own bus and further distribute power to smaller, nearby electrical consumers. Load centers may also be called group-control centers , distribution boards , or power panels .  The NSMV power distribution system consists of the following:  2 HV switchboards (6.6kV) Supply power to the propulsion motors, bow and stern thrusters, and supply the low voltage switchboards.  2 LV switchboards (450V) Primarily supply the engine room machinery, and also lower voltage load centers and distribution boards.  1 Emergency switchboard (450\/120V). This switchboard normally powered by the LV switchboard, but in the event of a power failure will be isolated and powered by the emergency generator.  4 LV load center panels (440V) Supply power to other machinery, including the galley and laundry equipment, and downstream distribution boards.  4 120 V load center panels (120V) Supply power to 120 V distribution boards, including galley and laundry.  3 Emergency load center panels (440V) Provide power to vital 440 volt loads.  3 Emergency load center panels (120V) Provide power to vital 120 volt loads,  16 Distribution boards (440V) Provide power to non-vital 440 volt loads.  18 Distribution boards (120\/240V) Provide power to non-vital 120 and 240 volt loads,  24 Lighting distribution boards (120V), provide the majority of ship’s lighting and outlets.  13 Emergency Lighting distribution boards (120V), supply the E lights which sufficient lighting to safely evacuate the ship in an emergency.      Transformers  As discussed in , transformers are devices that can step-up or step down AC voltage.  In the electrical distribution system, four three-phase transformers are used to drop the 6,600 volts on the HV bus to the 450 volts required on the LV bus, and four are used to supply the correct voltages to the two propulsion motors, the bow thruster, and the stern thruster.  Single-phase 440\/120 volt transformers are used to supply the 120 volt lighting and distribution panels.    Protective Equipment  The distribution system is fully equipped with monitoring and metering instrumentation to measures electrical parameters like voltage, current, frequency, power factor, and electrical load, and monitors the system for ground faults. This information helps in managing the electrical system operation and identifying potential issues.  Each distribution branch is protected by multiple circuit breakers that protect the system from overloads, short circuits, and other faults. The circuit breakers are coordinated so that when a fault occurs, the circuit breaker closest to the fault trips, interrupting the flow of current to the fault area while minimizing disruption to the remainder of the system.    Power Management System  The electrical system aboard the training vessel is fully automated by a Power Management System (PMS).  The main purpose of the PMS is to ensure that there is always a sufficient power reserve available for the essential services of the vessel. The system continuously monitors the generators and the electrical loads, and automatically starts and stops generators to match electrical power generation to the ship’s needs.  During critical times when energy demand is exceptionally high or during emergencies, the power management system can shed or temporarily drop non-essential loads. This ensures that essential equipment and services receive power while minimizing strain on the electrical system.   "
 },
 {
   "id": "fig_distribution_simplified",
@@ -2923,7 +2923,7 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "4.4.14",
   "title": "",
-  "body": " NSMV Electrical Distribution (simplified)    Source: whaynes from Diagram NSMV=321-B607    "
+  "body": " NSMV Electrical Distribution (simplified)   Source: whaynes from Diagram NSMV=321-B607   "
 },
 {
   "id": "p-738",
@@ -4390,7 +4390,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "8.1",
   "title": "Overview",
-  "body": " Overview  An overview of the electric propulsion system of the Patriot State II is shown in the one-line diagram below, .  Electrical power for both propulsion and ship’s services is produced by four Hyundai HSJ9 913-08P diesel driven generators. These are 6600 Volt, three-phase AC synchronous generators capable of producing up to 4053 kW at 80% power factor, or 5066.25 kVA.  Generators 1 and 2 are located in engineroom 1 and directly feed main switchboard No.1, and generators 3 and 4 are located in engine room 2 and feed main switchboard No. 2. The switchboards can be split or cross-connected as necessary for emergency operations.   Propulsion System One Line Diagram    Source: P1206 EMPIRE STATE MACHINERY MANUAL FIRST DRAFT MAY 2022     Each switchboard supplies electrical power at 60 Hz, 1850 Volts to a Propulsion Converter via a step-down transformer . The purpose of the propulsion converters is to change input voltage and frequency to the voltage and frequency needed to spin the propulsion motor in the desired direction, at the desired speed, as ordered by the bridge.  Each propulsion converter provides power to a Propulsion Motor . The two propulsion motors drive a common shaft which is directly connected to the ship’s single propeller, as shown in .  The generators, transformers, propulsion converters, and propulsion motors will be discussed in more detail in the sections that follow.  "
+  "body": " Overview  An overview of the electric propulsion system of the Patriot State II is shown in the one-line diagram below, .  Electrical power for both propulsion and ship’s services is produced by four Hyundai HSJ9 913-08P diesel driven generators. These are 6600 Volt, three-phase AC synchronous generators capable of producing up to 4053 kW at 80% power factor, or 5066.25 kVA.  Generators 1 and 2 are located in engineroom 1 and directly feed main switchboard No.1, and generators 3 and 4 are located in engine room 2 and feed main switchboard No. 2. The switchboards can be split or cross-connected as necessary for emergency operations.   Propulsion System One Line Diagram   Source: P1206 EMPIRE STATE MACHINERY MANUAL FIRST DRAFT MAY 2022    Each switchboard supplies electrical power at 60 Hz, 1850 Volts to a Propulsion Converter via a step-down transformer . The purpose of the propulsion converters is to change input voltage and frequency to the voltage and frequency needed to spin the propulsion motor in the desired direction, at the desired speed, as ordered by the bridge.  Each propulsion converter provides power to a Propulsion Motor . The two propulsion motors drive a common shaft which is directly connected to the ship’s single propeller, as shown in .  The generators, transformers, propulsion converters, and propulsion motors will be discussed in more detail in the sections that follow.  "
 },
 {
   "id": "propulsion_system",
@@ -4399,7 +4399,7 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "8.1.1",
   "title": "",
-  "body": " Propulsion System One Line Diagram    Source: P1206 EMPIRE STATE MACHINERY MANUAL FIRST DRAFT MAY 2022    "
+  "body": " Propulsion System One Line Diagram   Source: P1206 EMPIRE STATE MACHINERY MANUAL FIRST DRAFT MAY 2022   "
 },
 {
   "id": "p-1005",
@@ -4885,7 +4885,7 @@ var ptx_lunr_docs = [
   "type": "Chapter",
   "number": "10",
   "title": "TS Patriot State",
-  "body": " TS Patriot State  Vessel Particulars  Chapter 14 - MMA Sea Term I  What to expect on the training cruise    Patriot State Waterline Profile    MARAD       Patriot State Outboard Profile    MARAD       Patriot State Inboard Profile Port    MARAD       Patriot State Inboard Profile Starboard    MARAD       Patriot State 05 Level    MARAD       Patriot State 04 Level    MARAD       Patriot State O3 Level    MARAD       Patriot State 02 Level    MARAD       Patriot State 01 Level    MARAD       Patriot State Main Deck    MARAD       Patriot State 2nd Deck    MARAD       Patriot State 3rd Deck    MARAD       Patriot State 4th Deck    MARAD       Patriot State Tank Tops    MARAD       Patriot State Inner Bottom    MARAD     "
+  "body": " TS Patriot State    Patriot State Waterline Profile   MARAD      Patriot State Outboard Profile   MARAD      Patriot State Inboard Profile Port   MARAD      Patriot State Inboard Profile Starboard   MARAD      Patriot State 05 Level   MARAD      Patriot State 04 Level   MARAD      Patriot State O3 Level   MARAD      Patriot State 02 Level   MARAD      Patriot State 01 Level   MARAD      Patriot State Main Deck   MARAD      Patriot State 2nd Deck   MARAD      Patriot State 3rd Deck   MARAD      Patriot State 4th Deck   MARAD      Patriot State Tank Tops   MARAD      Patriot State Inner Bottom   MARAD    "
 },
 {
   "id": "fig_waterline_profile",
@@ -4894,7 +4894,7 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "10.0.1",
   "title": "",
-  "body": "  Patriot State Waterline Profile    MARAD    "
+  "body": "  Patriot State Waterline Profile   MARAD   "
 },
 {
   "id": "fig_outboard_profile",
@@ -4903,7 +4903,7 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "10.0.2",
   "title": "",
-  "body": "  Patriot State Outboard Profile    MARAD    "
+  "body": "  Patriot State Outboard Profile   MARAD   "
 },
 {
   "id": "fig_inboard_port",
@@ -4912,7 +4912,7 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "10.0.3",
   "title": "",
-  "body": "  Patriot State Inboard Profile Port    MARAD    "
+  "body": "  Patriot State Inboard Profile Port   MARAD   "
 },
 {
   "id": "fig_inboard_stbd",
@@ -4921,7 +4921,7 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "10.0.4",
   "title": "",
-  "body": "  Patriot State Inboard Profile Starboard    MARAD    "
+  "body": "  Patriot State Inboard Profile Starboard   MARAD   "
 },
 {
   "id": "fig_05_level",
@@ -4930,7 +4930,7 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "10.0.5",
   "title": "",
-  "body": "  Patriot State 05 Level    MARAD    "
+  "body": "  Patriot State 05 Level   MARAD   "
 },
 {
   "id": "fig_04_level",
@@ -4939,7 +4939,7 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "10.0.6",
   "title": "",
-  "body": "  Patriot State 04 Level    MARAD    "
+  "body": "  Patriot State 04 Level   MARAD   "
 },
 {
   "id": "fig_03_level",
@@ -4948,7 +4948,7 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "10.0.7",
   "title": "",
-  "body": "  Patriot State O3 Level    MARAD    "
+  "body": "  Patriot State O3 Level   MARAD   "
 },
 {
   "id": "fig_02_level",
@@ -4957,7 +4957,7 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "10.0.8",
   "title": "",
-  "body": "  Patriot State 02 Level    MARAD    "
+  "body": "  Patriot State 02 Level   MARAD   "
 },
 {
   "id": "fig_01_level",
@@ -4966,7 +4966,7 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "10.0.9",
   "title": "",
-  "body": "  Patriot State 01 Level    MARAD    "
+  "body": "  Patriot State 01 Level   MARAD   "
 },
 {
   "id": "fig_main_deck",
@@ -4975,7 +4975,7 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "10.0.10",
   "title": "",
-  "body": "  Patriot State Main Deck    MARAD    "
+  "body": "  Patriot State Main Deck   MARAD   "
 },
 {
   "id": "fig_2nd_deck",
@@ -4984,7 +4984,7 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "10.0.11",
   "title": "",
-  "body": "  Patriot State 2nd Deck    MARAD    "
+  "body": "  Patriot State 2nd Deck   MARAD   "
 },
 {
   "id": "fig_3rd_deck",
@@ -4993,7 +4993,7 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "10.0.12",
   "title": "",
-  "body": "  Patriot State 3rd Deck    MARAD    "
+  "body": "  Patriot State 3rd Deck   MARAD   "
 },
 {
   "id": "fig_4th_deck",
@@ -5002,7 +5002,7 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "10.0.13",
   "title": "",
-  "body": "  Patriot State 4th Deck    MARAD    "
+  "body": "  Patriot State 4th Deck   MARAD   "
 },
 {
   "id": "fig_tank_top",
@@ -5011,7 +5011,7 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "10.0.14",
   "title": "",
-  "body": "  Patriot State Tank Tops    MARAD    "
+  "body": "  Patriot State Tank Tops   MARAD   "
 },
 {
   "id": "fig_inner_bottom",
@@ -5020,7 +5020,7 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "10.0.15",
   "title": "",
-  "body": "  Patriot State Inner Bottom    MARAD    "
+  "body": "  Patriot State Inner Bottom   MARAD   "
 }
 ]
 
