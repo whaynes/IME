@@ -2,7 +2,7 @@
 <UIStates>
     <Binder Show="Yes">
         <ShowCollections>No</ShowCollections>
-        <SelectedCollection>0</SelectedCollection>
+        <SelectedCollection>1</SelectedCollection>
         <SubdocumentCounts>No</SubdocumentCounts>
         <ExpandedItems>
             <ItemID>7A583553-3A84-40D6-B9B9-0430B8CD3E39</ItemID>
@@ -74,13 +74,9 @@
                 <CurrentViewMode>Single</CurrentViewMode>
                 <SelectionAffects>None</SelectionAffects>
                 <Content>
-                    <ItemID>06451DEA-0CFA-43B9-8AB7-0AE9080DA80A</ItemID>
+                    <ItemID>AFE975A0-A197-4686-AD42-99EBB39EBAEB</ItemID>
                 </Content>
                 <NavigationHistory CurrentIndex="99">
-                    <HistoryItem Type="BinderItems" ViewMode="Scrivenings" ScriveningsSelection="0,0">B4C4E0EA-BC3B-4ED7-80C4-D0764EA7D217</HistoryItem>
-                    <HistoryItem Type="BinderItems" ViewMode="Scrivenings" ScriveningsSelection="0,0">AF841D75-092B-47D0-B576-25BF61C4385A</HistoryItem>
-                    <HistoryItem Type="BinderItems" ViewMode="Scrivenings" ScriveningsSelection="0,0">B4C4E0EA-BC3B-4ED7-80C4-D0764EA7D217</HistoryItem>
-                    <HistoryItem Type="BinderItems" ViewMode="Scrivenings" ScriveningsSelection="0,0">F794FDA5-501F-4AFC-A17E-2110FD85D0A0</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Scrivenings" ScriveningsSelection="0,0">997A4ACA-FF05-46BC-B8C0-266CCA4D412C</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Scrivenings" ScriveningsSelection="0,0">F794FDA5-501F-4AFC-A17E-2110FD85D0A0</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Scrivenings" ScriveningsSelection="0,0">43C25DE4-5C73-4137-BC8C-2843BE82AD7A</HistoryItem>
@@ -177,6 +173,10 @@
                     <HistoryItem Type="BinderItems" ViewMode="Single">448D5C1E-6082-4C3A-9D60-207901555C72</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">0D67A96B-1BF5-4948-BB9A-825975916906</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">06451DEA-0CFA-43B9-8AB7-0AE9080DA80A</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">04DE4105-2BB6-4E3A-BFDE-E5FA0CEE7A51</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">997A4ACA-FF05-46BC-B8C0-266CCA4D412C</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">0D67A96B-1BF5-4948-BB9A-825975916906</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">AFE975A0-A197-4686-AD42-99EBB39EBAEB</HistoryItem>
                 </NavigationHistory>
             </View>
             <Text>
@@ -184,7 +184,7 @@
                 <PageLayout Facing="No">No</PageLayout>
                 <TypewriterScrolling>No</TypewriterScrolling>
                 <LineNumbers Interval="1">No</LineNumbers>
-                <Selection>3900,0</Selection>
+                <Selection>1500,0</Selection>
             </Text>
             <Outliner>
                 <Columns>

@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SearchIndexes Version="1.0">
     <Documents>
-        <Document ID="13459284-A416-45AB-A308-F267C2C78B12">
-            <Title>Feed Valves</Title>
-            <Text>Three valves in the feed line before the boiler are used to control the flow of feedwater into the boiler.
-The  feed check valve comes first. It is a stop-check valve which is normally left open, but which can be used to regulate the feed water flow to the boiler if necessary. The feed check valve is always fitted with a reach rod or other means to permit it to be manually operated from the boiler control station.
-The feed check is followed by the feed water regulator which is an automatic, pneumatically actuated regulating valve that responds to changes in boiler drum level and steam demand to automatically maintain a constant water level half-way up the steam drum.
-The final valve of the set is the feed stop valve. This valve is provided to permit the feed system to be secured at the boiler when necessary.
+        <Document ID="60F720BA-18C5-4F60-BE5A-431145DDEBA9">
+            <Title>Ball Valves</Title>
+            <Text>&lt;figure xml:id="ball_valve_png"&gt;
+   &lt;caption&gt;Ball Valve&lt;/caption&gt;
+   &lt;image source="pics/valves/ball_valve.png" width="50%"/&gt;
+&lt;/figure&gt;
+A ball valve, &lt;xref ref="ball_valve_png"/&gt;, is similar to a plug valve except that a   spherical rather than cylindrical plug is used. The ball has a hole or port bored   through it and is made tight to the two openings in the body by plastic or synthetic   rubber seat seal rings. These plastic or synthetic seat rings limit most ball valves to   fluid temperatures of 350° or less. When the ball is rotated to the closed position, the   fluid pressure pushes the ball tightly against the outlet seat ring insuring tight   closure. 
+Ball valves are compact, self-sealing, non-sticking, require little effort to rotate   the valve stem and they provide smooth fluid flow. Since the port in the ball is   normally the same I.D. as the piping, the ball valve offers little resistance to flow   and low pressure drop. 
 </Text>
         </Document>
         <Document ID="56322086-ED9F-4FBE-A527-626C36C3BBA9">
@@ -228,10 +230,9 @@ High voltage (above 1 kV) is used for very large motors, 400 kW or greater, such
 The advantage of higher voltages is that for a given power, higher voltage means lower current.  (Recall &lt;xref ref="three-phase-PEI"/&gt;) Reduced current means that smaller diameter conductors can be used, the machine will be physically smaller and thus cheaper, and the machine will be more efficient because it will have smaller I^2 R losses. (Recall  &lt;xref ref="I2R"/&gt;) 
 &lt;figure xml:id="fig_distribution_simplified" landscape="yes"&gt;
 &lt;caption&gt;  NSMV Electrical Distribution (simplified) &lt;/caption&gt;
-&lt;url href="/IME/external/pics/electricity/Distribution_simplified.pdf"&gt;&lt;image width="100%" source="pics/electricity/Distribution_simplified"&gt;
+&lt;image width="100%" source="pics/electricity/Distribution_simplified"&gt;
 &lt;remix&gt;&lt;![CDATA[   Source:  whaynes from Diagram NSMV=321-B607   ]]&gt;&lt;/remix&gt;
 &lt;/image&gt;
-&lt;/url&gt;
 &lt;/figure&gt;
 An extremely simplified representation of the Patriot State II electrical distribution system is shown in &lt;xref ref="fig_distribution_simplified"/&gt;.  This diagram represents only about half the distribution system and only shows the portion of the system which is supplied from the after engine room.
 The main components of the distribution system are:</Text>
@@ -3187,7 +3188,9 @@ The most common scale used on vacuum gages aboard ship display vacuum in inches 
             <Title>introduction</Title>
             <Text>While the simplified steam cycle discussed in the previous section could be built, and it would work, several modifications are required to make it practical for steam propulsion and to improve its efficiency. 
 The actual steam cycle that was used for propulsion on MMA’s old ship &lt;em&gt;TS Kennedy&lt;/em&gt;  is shown in &lt;xref ref="main_steam_cycle_fig"/&gt;. Each of the components of this cycle will be briefly discussed in the following sections, in its order in the cycle.
-&lt;figure xml:id="main_steam_cycle_fig" landscape="yes"&gt; &lt;caption&gt;Main Steam Cycle&lt;/caption&gt; &lt;url href="external/pics/steam/main_steam_cycle.svg" &gt;&lt;image source="pics/steam/main_steam_cycle" width="100%"/&gt;&lt;/url&gt;
+&lt;figure xml:id="main_steam_cycle_fig" landscape="yes"&gt; 
+&lt;caption&gt;Main Steam Cycle&lt;/caption&gt; 
+&lt;image source="pics/steam/main_steam_cycle" width="100%"/&gt;
 &lt;/figure&gt;
 </Text>
         </Document>
@@ -4310,110 +4313,110 @@ It is unfortunate that some of the energy once contained by the fuel, and then p
         </Document>
         <Document ID="06451DEA-0CFA-43B9-8AB7-0AE9080DA80A">
             <Title>System diagrams</Title>
-            <Text>&lt;figure xml:id="fig_waterline_profile" landscape="yes"&gt;
+            <Text>
+&lt;figure xml:id="fig_waterline_profile" landscape="yes"&gt;
 &lt;caption&gt; &lt;em&gt;Patriot State&lt;/em&gt;  Waterline Profile  &lt;/caption&gt;
-&lt;url href="/IME/external/pics/TSPS/waterline_profile.pdf"&gt;
 &lt;image width="100%" source="pics/TSPS/waterline_profile"&gt;
 &lt;remix&gt; &lt;![CDATA[  MARAD  ]]&gt;&lt;/remix&gt;
-&lt;/image&gt;&lt;/url&gt;
+&lt;/image&gt;
 &lt;/figure&gt;
+
 &lt;figure xml:id="fig_outboard_profile" landscape="yes"&gt;
 &lt;caption&gt; &lt;em&gt;Patriot State&lt;/em&gt;  Outboard Profile  &lt;/caption&gt;
-&lt;url href="/IME/external/pics/TSPS/outboard_profile.pdf"&gt;
 &lt;image width="100%" source="pics/TSPS/outboard_profile"&gt;
 &lt;remix&gt; &lt;![CDATA[  MARAD  ]]&gt;&lt;/remix&gt;
-&lt;/image&gt;&lt;/url&gt;
+&lt;/image&gt;
 &lt;/figure&gt;
+
 &lt;figure xml:id="fig_inboard_port" landscape="yes"&gt;
 &lt;caption&gt; &lt;em&gt;Patriot State&lt;/em&gt;  Inboard Profile Port  &lt;/caption&gt;
-&lt;url href="/IME/external/pics/TSPS/inboard_port.pdf"&gt;
 &lt;image width="100%" source="pics/TSPS/inboard_port"&gt;
 &lt;remix&gt; &lt;![CDATA[  MARAD  ]]&gt;&lt;/remix&gt;
-&lt;/image&gt;&lt;/url&gt;
+&lt;/image&gt;
 &lt;/figure&gt;
+
 &lt;figure xml:id="fig_inboard_stbd" landscape="yes"&gt;
 &lt;caption&gt; &lt;em&gt;Patriot State&lt;/em&gt;  Inboard Profile Starboard  &lt;/caption&gt;
-&lt;url href="/IME/external/pics/TSPS/inboard_stbd.pdf"&gt;
 &lt;image width="100%" source="pics/TSPS/inboard_stbd"&gt;
 &lt;remix&gt; &lt;![CDATA[  MARAD  ]]&gt;&lt;/remix&gt;
-&lt;/image&gt;&lt;/url&gt;
+&lt;/image&gt;
 &lt;/figure&gt;
+
 &lt;figure xml:id="fig_05_level" landscape="yes"&gt;
 &lt;caption&gt; &lt;em&gt;Patriot State&lt;/em&gt;  05 Level  &lt;/caption&gt;
-&lt;url href="/IME/external/pics/TSPS/05_level.pdf"&gt;
 &lt;image width="100%" source="pics/TSPS/05_level"&gt;
 &lt;remix&gt; &lt;![CDATA[  MARAD  ]]&gt;&lt;/remix&gt;
-&lt;/image&gt;&lt;/url&gt;
+&lt;/image&gt;
 &lt;/figure&gt;
+
 &lt;figure xml:id="fig_04_level" landscape="yes"&gt;
 &lt;caption&gt; &lt;em&gt;Patriot State&lt;/em&gt;  04 Level  &lt;/caption&gt;
-&lt;url href="/IME/external/pics/TSPS/04_level.pdf"&gt;
 &lt;image width="100%" source="pics/TSPS/04_level"&gt;
 &lt;remix&gt; &lt;![CDATA[  MARAD  ]]&gt;&lt;/remix&gt;
-&lt;/image&gt;&lt;/url&gt;
+&lt;/image&gt;
 &lt;/figure&gt;
+
 &lt;figure xml:id="fig_03_level" landscape="yes"&gt;
 &lt;caption&gt; &lt;em&gt;Patriot State&lt;/em&gt;  O3 Level  &lt;/caption&gt;
-&lt;url href="/IME/external/pics/TSPS/03_level.pdf"&gt;
 &lt;image width="100%" source="pics/TSPS/03_level"&gt;
 &lt;remix&gt; &lt;![CDATA[  MARAD  ]]&gt;&lt;/remix&gt;
-&lt;/image&gt;&lt;/url&gt;
+&lt;/image&gt;
 &lt;/figure&gt;
+
 &lt;figure xml:id="fig_02_level" landscape="yes"&gt;
 &lt;caption&gt; &lt;em&gt;Patriot State&lt;/em&gt;  02 Level  &lt;/caption&gt;
-&lt;url href="/IME/external/pics/TSPS/02_level.pdf"&gt;
 &lt;image width="100%" source="pics/TSPS/02_level"&gt;
 &lt;remix&gt; &lt;![CDATA[  MARAD  ]]&gt;&lt;/remix&gt;
-&lt;/image&gt;&lt;/url&gt;
+&lt;/image&gt;
 &lt;/figure&gt;
+
 &lt;figure xml:id="fig_01_level" landscape="yes"&gt;
 &lt;caption&gt; &lt;em&gt;Patriot State&lt;/em&gt;  01 Level  &lt;/caption&gt;
-&lt;url href="/IME/external/pics/TSPS/01_level.pdf"&gt;
 &lt;image width="100%" source="pics/TSPS/01_level"&gt;
 &lt;remix&gt; &lt;![CDATA[  MARAD  ]]&gt;&lt;/remix&gt;
-&lt;/image&gt;&lt;/url&gt;
+&lt;/image&gt;
 &lt;/figure&gt;
+
 &lt;figure xml:id="fig_main_deck" landscape="yes"&gt;
 &lt;caption&gt; &lt;em&gt;Patriot State&lt;/em&gt;  Main Deck  &lt;/caption&gt;
-&lt;url href="/IME/external/pics/TSPS/main_deck.pdf"&gt;
 &lt;image width="100%" source="pics/TSPS/main_deck"&gt;
 &lt;remix&gt; &lt;![CDATA[  MARAD  ]]&gt;&lt;/remix&gt;
-&lt;/image&gt;&lt;/url&gt;
+&lt;/image&gt;
 &lt;/figure&gt;
+
 &lt;figure xml:id="fig_2nd_deck" landscape="yes"&gt;
 &lt;caption&gt; &lt;em&gt;Patriot State&lt;/em&gt;  2nd Deck  &lt;/caption&gt;
-&lt;url href="/IME/external/pics/TSPS/2nd_deck.pdf"&gt;
 &lt;image width="100%" source="pics/TSPS/2nd_deck"&gt;
 &lt;remix&gt; &lt;![CDATA[  MARAD  ]]&gt;&lt;/remix&gt;
-&lt;/image&gt;&lt;/url&gt;
+&lt;/image&gt;
 &lt;/figure&gt;
+
 &lt;figure xml:id="fig_3rd_deck" landscape="yes"&gt;
 &lt;caption&gt; &lt;em&gt;Patriot State&lt;/em&gt;  3rd Deck  &lt;/caption&gt;
-&lt;url href="/IME/external/pics/TSPS/3rd_deck.pdf"&gt;
 &lt;image width="100%" source="pics/TSPS/3rd_deck"&gt;
 &lt;remix&gt; &lt;![CDATA[  MARAD  ]]&gt;&lt;/remix&gt;
-&lt;/image&gt;&lt;/url&gt;
+&lt;/image&gt;
 &lt;/figure&gt;
+
 &lt;figure xml:id="fig_4th_deck" landscape="yes"&gt;
 &lt;caption&gt; &lt;em&gt;Patriot State&lt;/em&gt;  4th Deck  &lt;/caption&gt;
-&lt;url href="/IME/external/pics/TSPS/4th_deck.pdf"&gt;
 &lt;image width="100%" source="pics/TSPS/4th_deck"&gt;
 &lt;remix&gt; &lt;![CDATA[  MARAD  ]]&gt;&lt;/remix&gt;
-&lt;/image&gt;&lt;/url&gt;
+&lt;/image&gt;
 &lt;/figure&gt;
+
 &lt;figure xml:id="fig_tank_top" landscape="yes"&gt;
 &lt;caption&gt; &lt;em&gt;Patriot State&lt;/em&gt;  Tank Tops  &lt;/caption&gt;
-&lt;url href="/IME/external/pics/TSPS/tank_top.pdf"&gt;
 &lt;image width="100%" source="pics/TSPS/tank_top"&gt;
 &lt;remix&gt; &lt;![CDATA[  MARAD  ]]&gt;&lt;/remix&gt;
-&lt;/image&gt;&lt;/url&gt;
+&lt;/image&gt;
 &lt;/figure&gt;
+
 &lt;figure xml:id="fig_inner_bottom" landscape="yes"&gt;
 &lt;caption&gt; &lt;em&gt;Patriot State&lt;/em&gt;  Inner Bottom  &lt;/caption&gt;
-&lt;url href="/IME/external/pics/TSPS/inner_bottom.pdf"&gt;
 &lt;image width="100%" source="pics/TSPS/inner_bottom"&gt;
 &lt;remix&gt; &lt;![CDATA[  MARAD  ]]&gt;&lt;/remix&gt;
-&lt;/image&gt;&lt;/url&gt;
+&lt;/image&gt;
 &lt;/figure&gt;
 </Text>
         </Document>
@@ -6005,11 +6008,10 @@ Speed</Text>
 &lt;/table&gt;
 The propeller shaft is supported by journal bearings which maintain radial alignment, and a thrust bearing which transmits thrust from the propeller to the hull and  maintains axial alignment. The shaft is equipped with turning gear and a shaft lock. When either of these is engaged, propulsion is blocked. 
 &lt;figure xml:id="DriveTrain" landscape="yes"&gt;
-
 &lt;caption&gt; Drive Train  &lt;/caption&gt;
-&lt;url href="/IME/external/pics/Eprop/DriveTrain.pdf" &gt;&lt;image width="100%" source="pics/Eprop/DriveTrain"&gt;
+&lt;image width="100%" source="pics/Eprop/DriveTrain"&gt;
 &lt;remix&gt;&lt;![CDATA[   Source:  P1206 EMPIRE STATE MACHINERY MANUAL  FIRST DRAFT MAY 2022    ]]&gt;&lt;/remix&gt;
-&lt;/image&gt; &lt;/url&gt;
+&lt;/image&gt;
 &lt;/figure&gt;
 </Text>
         </Document>
@@ -29753,9 +29755,9 @@ Generators 1 and 2 are located in engineroom 1 and directly feed main switchboar
 
 &lt;figure xml:id="propulsion_system" landscape="yes"&gt;
 &lt;caption&gt;Propulsion System One Line Diagram  &lt;/caption&gt;
-&lt;url href="/IME/external/pics/Eprop/propulsion_system.pdf"&gt;&lt;image width="100%" source="pics/Eprop/propulsion_system"&gt;
+&lt;image width="100%" source="pics/Eprop/propulsion_system"&gt;
 &lt;remix&gt;&lt;![CDATA[   Source:  P1206 EMPIRE STATE MACHINERY MANUAL  FIRST DRAFT MAY 2022    ]]&gt;&lt;/remix&gt;
-&lt;/image&gt;&lt;/url&gt;
+&lt;/image&gt;
 &lt;/figure&gt;
 
 Each switchboard supplies electrical power at 60 Hz, 1850 Volts to a Propulsion Converter via a step-down transformer. The purpose of the propulsion converters is to change input voltage and frequency to the voltage and frequency needed to spin the propulsion motor in the desired direction, at the desired speed, as ordered by the bridge. 
@@ -41751,14 +41753,12 @@ The factor-label method is the sequential application of conversion factors expr
         <Document ID="987DD2D6-15FF-4F29-821C-001089999C76">
             <Title>Length Measuring Instruments</Title>
         </Document>
-        <Document ID="60F720BA-18C5-4F60-BE5A-431145DDEBA9">
-            <Title>Ball Valves</Title>
-            <Text>&lt;figure xml:id="ball_valve_png"&gt;
-   &lt;caption&gt;Ball Valve&lt;/caption&gt;
-   &lt;image source="pics/valves/ball_valve.png" width="50%"/&gt;
-&lt;/figure&gt;
-A ball valve, &lt;xref ref="ball_valve_png"/&gt;, is similar to a plug valve except that a   spherical rather than cylindrical plug is used. The ball has a hole or port bored   through it and is made tight to the two openings in the body by plastic or synthetic   rubber seat seal rings. These plastic or synthetic seat rings limit most ball valves to   fluid temperatures of 350° or less. When the ball is rotated to the closed position, the   fluid pressure pushes the ball tightly against the outlet seat ring insuring tight   closure. 
-Ball valves are compact, self-sealing, non-sticking, require little effort to rotate   the valve stem and they provide smooth fluid flow. Since the port in the ball is   normally the same I.D. as the piping, the ball valve offers little resistance to flow   and low pressure drop. 
+        <Document ID="13459284-A416-45AB-A308-F267C2C78B12">
+            <Title>Feed Valves</Title>
+            <Text>Three valves in the feed line before the boiler are used to control the flow of feedwater into the boiler.
+The  feed check valve comes first. It is a stop-check valve which is normally left open, but which can be used to regulate the feed water flow to the boiler if necessary. The feed check valve is always fitted with a reach rod or other means to permit it to be manually operated from the boiler control station.
+The feed check is followed by the feed water regulator which is an automatic, pneumatically actuated regulating valve that responds to changes in boiler drum level and steam demand to automatically maintain a constant water level half-way up the steam drum.
+The final valve of the set is the feed stop valve. This valve is provided to permit the feed system to be secured at the boiler when necessary.
 </Text>
         </Document>
     </Documents>

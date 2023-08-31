@@ -8,7 +8,7 @@
 	<dict>
 		<key>2655DDF6-4AB8-42CB-A433-1CD76FC351D2</key>
 		<array>
-			<string>0D67A96B-1BF5-4948-BB9A-825975916906</string>
+			<string>AFE975A0-A197-4686-AD42-99EBB39EBAEB</string>
 		</array>
 	</dict>
 	<key>CommentsScaleFactor</key>
@@ -2896,7 +2896,7 @@
 	<true/>
 	<key>collectionSelectionAutosaveName</key>
 	<array>
-		<integer>10</integer>
+		<integer>3</integer>
 	</array>
 	<key>collectionsHeight</key>
 	<real>118</real>
@@ -3016,7 +3016,7 @@
 	<key>mainDocumentEditor.rulerIsVisible</key>
 	<false/>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, 1712}, {756, 588}}</string>
+	<string>{{0, 127}, {756, 588}}</string>
 	<key>mainDocumentEditor.selectedRanges</key>
 	<string>{0, 0}</string>
 	<key>mainDocumentEditor.textEditorState</key>

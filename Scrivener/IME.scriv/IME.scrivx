@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="9CEE092B-52A4-40FD-A463-60A47C53A797" Version="2.0" Creator="SCRMAC-3.3.1-15588" Device="whaynes-MBP-2021" Author="" Modified="2023-08-30 17:21:53 -0400" ModID="851B5B24-7455-4C9A-9B84-2E59A87A40D0">
+<ScrivenerProject Identifier="9CEE092B-52A4-40FD-A463-60A47C53A797" Version="2.0" Creator="SCRMAC-3.3.1-15588" Device="whaynes-MBP" Author="" Modified="2023-08-31 10:38:39 -0400" ModID="6CF204FD-1B30-4597-BFD1-ABD848BC4C25">
     <Binder>
         <BinderItem UUID="7A583553-3A84-40D6-B9B9-0430B8CD3E39" Type="DraftFolder" Created="2023-05-29 09:45:48 -0400" Modified="2023-05-29 09:45:48 -0400">
             <Title>Draft</Title>
@@ -3025,13 +3025,13 @@
                                         <TextSelection>1031,0</TextSelection>
                                     </TextSettings>
                                     <Children>
-                                        <BinderItem UUID="04DE4105-2BB6-4E3A-BFDE-E5FA0CEE7A51" Type="Text" Created="2023-08-15 13:11:40 -0400" Modified="2023-08-27 16:38:03 -0400">
+                                        <BinderItem UUID="04DE4105-2BB6-4E3A-BFDE-E5FA0CEE7A51" Type="Text" Created="2023-08-15 13:11:40 -0400" Modified="2023-08-31 10:37:37 -0400">
                                             <Title>introduction</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>1178,0</TextSelection>
+                                                <TextSelection>1251,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem UUID="359E45C9-43EB-4301-85FF-A1E265969CC3" Type="Text" Created="2023-08-15 14:59:17 -0400" Modified="2023-08-15 21:39:34 -0400">
@@ -4153,7 +4153,7 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="997A4ACA-FF05-46BC-B8C0-266CCA4D412C" Type="Folder" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-27 16:20:17 -0400">
+                                <BinderItem UUID="997A4ACA-FF05-46BC-B8C0-266CCA4D412C" Type="Folder" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-31 10:37:52 -0400">
                                     <Title>introduction</Title>
                                     <MetaData>
                                         <SectionType>9D1ADC50-E7BB-4E40-BA04-CCA44927A08E</SectionType>
@@ -4166,7 +4166,7 @@
                                         </CustomMetaData>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>485,144</TextSelection>
+                                        <TextSelection>618,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="B558A8AC-E568-4EC0-8A2A-D1B1E3434154" Type="Folder" Created="2023-08-26 13:38:38 -0400" Modified="2023-08-27 13:08:35 -0400">
@@ -4523,13 +4523,13 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem UUID="0D67A96B-1BF5-4948-BB9A-825975916906" Type="Folder" Created="2023-05-31 15:03:02 -0400" Modified="2023-08-27 16:40:55 -0400">
+                        <BinderItem UUID="0D67A96B-1BF5-4948-BB9A-825975916906" Type="Folder" Created="2023-05-31 15:03:02 -0400" Modified="2023-08-31 10:38:12 -0400">
                             <Title>Overview</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>773,59</TextSelection>
+                                <TextSelection>941,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="79744FFB-DBFD-47D2-A159-B75EE1220CF9" Type="Folder" Created="2023-05-31 15:03:02 -0400" Modified="2023-08-15 15:41:03 -0400">
@@ -4769,14 +4769,14 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="AFE975A0-A197-4686-AD42-99EBB39EBAEB" Type="Text" Created="2023-06-24 16:57:12 -0400" Modified="2023-08-27 16:41:14 -0400">
+                                <BinderItem UUID="AFE975A0-A197-4686-AD42-99EBB39EBAEB" Type="Text" Created="2023-06-24 16:57:12 -0400" Modified="2023-08-31 10:38:18 -0400">
                                     <Title>introduction</Title>
                                     <MetaData>
                                         <SectionType>9D1ADC50-E7BB-4E40-BA04-CCA44927A08E</SectionType>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>1499,0</TextSelection>
+                                        <TextSelection>1500,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="E1B5645E-B806-4253-8278-4EC82459B766" Type="Folder" Created="2023-06-22 10:52:59 -0400" Modified="2023-08-18 12:54:56 -0400">
@@ -4959,7 +4959,6 @@
                             <Title>Vessel Particulars</Title>
                             <MetaData>
                                 <SectionType>F2CC3694-551C-46A7-BFD9-B161A49072A7</SectionType>
-                                <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
@@ -4969,7 +4968,6 @@
                             <Title>Chapter 14 - MMA Sea Term I</Title>
                             <MetaData>
                                 <SectionType>F2CC3694-551C-46A7-BFD9-B161A49072A7</SectionType>
-                                <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
@@ -4979,20 +4977,19 @@
                             <Title>What to expect on the training cruise</Title>
                             <MetaData>
                                 <SectionType>F2CC3694-551C-46A7-BFD9-B161A49072A7</SectionType>
-                                <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="06451DEA-0CFA-43B9-8AB7-0AE9080DA80A" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-08-30 17:21:41 -0400">
+                        <BinderItem UUID="06451DEA-0CFA-43B9-8AB7-0AE9080DA80A" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-08-31 10:36:30 -0400">
                             <Title>System diagrams</Title>
                             <MetaData>
                                 <SectionType>7AF79F77-7E8C-44AC-96AE-BF3A8922D7D0</SectionType>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>3900,0</TextSelection>
+                                <TextSelection>2178,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -7442,7 +7439,7 @@
         </Collection>
         <Collection Type="RecentSearch" ID="2655DDF6-4AB8-42CB-A433-1CD76FC351D2" Color="0.922173 0.818612 0.999627">
             <Title>Search Results</Title>
-            <SearchSettings Operator="All" Type="Text" Scope="Draft" ExcludeTrash="Yes" CaseSensitive="No" IgnoreDiacritics="No">&lt;url</SearchSettings>
+            <SearchSettings Operator="All" Type="Text" Scope="Draft" ExcludeTrash="Yes" CaseSensitive="No" IgnoreDiacritics="No">landscape</SearchSettings>
         </Collection>
     </Collections>
     <SectionTypes>
@@ -7526,12 +7523,12 @@
     </CustomMetaDataSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 08:24:39 -0400" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2023-08-31 01:00:00 -0400" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="527" Characters="4102" Date="2023-08-30 15:19:54 -0400"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2023-09-01 01:00:00 -0400" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="-151" Characters="-1117" Date="2023-08-31 09:26:53 -0400"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2023-08-30 00:00:00 -0400">
-        <DraftWordCount>527</DraftWordCount>
-        <DraftCharCount>4102</DraftCharCount>
+    <RecentWritingHistory Date="2023-08-31 00:00:00 -0400">
+        <DraftWordCount>-151</DraftWordCount>
+        <DraftCharCount>-1117</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
