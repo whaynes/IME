@@ -1,15 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SearchIndexes Version="1.0">
     <Documents>
-        <Document ID="60F720BA-18C5-4F60-BE5A-431145DDEBA9">
-            <Title>Ball Valves</Title>
-            <Text>&lt;figure xml:id="ball_valve_png"&gt;
-   &lt;caption&gt;Ball Valve&lt;/caption&gt;
-   &lt;image source="pics/valves/ball_valve.png" width="50%"/&gt;
-&lt;/figure&gt;
-A ball valve, &lt;xref ref="ball_valve_png"/&gt;, is similar to a plug valve except that a   spherical rather than cylindrical plug is used. The ball has a hole or port bored   through it and is made tight to the two openings in the body by plastic or synthetic   rubber seat seal rings. These plastic or synthetic seat rings limit most ball valves to   fluid temperatures of 350° or less. When the ball is rotated to the closed position, the   fluid pressure pushes the ball tightly against the outlet seat ring insuring tight   closure. 
-Ball valves are compact, self-sealing, non-sticking, require little effort to rotate   the valve stem and they provide smooth fluid flow. Since the port in the ball is   normally the same I.D. as the piping, the ball valve offers little resistance to flow   and low pressure drop. 
-</Text>
+        <Document ID="987DD2D6-15FF-4F29-821C-001089999C76">
+            <Title>Length Measuring Instruments</Title>
+        </Document>
+        <Document ID="EC2A0D72-9EBB-4FC9-9B7A-5441F30A7B1A">
+            <Title>pne-1</Title>
+            <Text>PIPE FITTINGS
+
+Pipe or tubing alone does not constitute a piping system. To make the pipe or tubing into a system, it is necessary to have a variety of fittings, connections, and accessories by which the sections of pipe or tubing can be properly joined and the flow of the transferred fluid may be controlled. The following sections of this chapter deal with some of the pipe fittings most commonly used in shipboard piping systems; these fittings include unions, flanges, expansion joints, flareless fluid connections, steam traps, strainers, and valves.
+
+UNIONS
+
+Union fittings are provided in piping systems to allow the piping to be taken down for repairs and alterations. Unions are available in many different materials and designs to withstand a wide range of pressures and temperatures. Figure 14-1 shows some commonly used types of unions.
+
+FLANGES
+
+Flanges are used in piping systems to allow easy removal of piping and other equipment. The materials used and the design of the flanges are governed by the requirements of service. Flanges in steel piping systems are usually welded to the pipe or tubing. Flanges in nonferrous systems are usually brazed to the pipe or tubing.
+
+EXPANSION JOINTS
+
+Expansion joints are used in some piping systems to allow the piping to expand and contract with temperature changes, without damage to the piping. Two basic types of expansion joints are used in shipboard piping systems: sliding-type joints and flexing-type joints. Sliding-type expansion joints include sleeve joints, rotary joints, ball and socket joints, and joints made up of some combination of these types. The amount of axial and rotary motion that can be abosrbed by any particular type</Text>
         </Document>
         <Document ID="56322086-ED9F-4FBE-A527-626C36C3BBA9">
             <Title>introduction</Title>
@@ -2371,6 +2382,47 @@ You can learn about the potential risks associated with a chemical, as well as i
         </Document>
         <Document ID="86E448C7-AB0D-4824-9745-BF3635EA332E">
             <Title>Fundamental Concepts</Title>
+            <Text>
+</Text>
+        </Document>
+        <Document ID="34174402-E8CE-448C-BAF6-E3AFDC7720FA">
+            <Title>Types of Nipple</Title>
+            <Text>A nipple is basically a pipe with male threads on each side to facilitate joining two pipes or fittings with similar female threads.
+It is made by cutting threads on both sides of a pipe by die or a suitable process. The nipples may be short or long.
+* Hexagonal Reducer Nipple
+A hexagonal reducer nipple is a hexagonal shaped nipple with two different sizes of threads on each side.
+The purpose of the hexagonal reducer nipple is to connect the pipes of two different sizes together
+* Hexagonal Nipple
+A hexagonal nipple is a pipe connector with male threads on both sides and a hexagonal nut in between for easy installation and screwing.
+Both sides are to be screwed in pipe or fitting having reciprocating female threads.
+ *Hexagonal Long Nipple
+A hexagonal long nipple is used where the distance between the pipe and the fittings is to be joined.
+They are otherwise similar to the hexagonal nipples apart from the length.
+* Long Pipe Nipple
+A long pipe nipple is similar to a standard nipple but longer in length
+It is used when there is more distance between the fittings or when a fitting like a valve is to be put at a distance.
+ * Close Nipple
+A close nipple is completely threaded
+and there is no unthreaded area.
+This means that there is no hexagonal nut of plain pipe for putting the wrench. These can be damaged by using wrenches. Therefore, a special tool called nipple wrench, which holds the nipple from inside, is used for fitting.
+
+A nipple is a short piece of pipe that is used as a fitting to connect piping in plumbing applications. Nipple fittings are produced in various materials, although stainless steel nipples are the most common due to their strength and durability.
+Stainless steel nipples are usually made with male pipe thread (MPT) connections on both ends, connecting two separate female threaded pipes and fittings. The connection allows for a watertight seal between the fittings.
+Stainless steel nipples are primarily used in low-pressure piping systems, and the type of nipple used will vary with the size, temperature, and working pressure of the system. Therefore, depending on the specific application, there are various types of pipe nipples to choose from. This article will outline the uses of different types of stainless steel nipples.
+CLOSE PIPE/RUNNING PIPE NIPPLE
+A close pipe nipple is a stainless steel nipple that does not have an unthreaded section in the middle. These types of pipe nipples are also known as running nipples. These pipe nipples are designed such that connected fittings come very close to one another, leaving very little of the pipe nipple exposed.
+Generally, close or running pipe nipples are difficult to work with as they can easily become damaged upon removal unless specialty equipment is used.
+SHOULDER PIPE NIPPLE
+Shoulder pipe nipples are longer than close nipples and have a very small section of unthreaded pipe in the middle. However, this unthreaded section is not large enough to fit a pipe wrench to remove the nipple.
+HEXAGONAL PIPE NIPPLE
+Also known as a Hex pipe nipple, these are designed with a hexagonal-shaped middle section. This allows one to securely grasp the nipple with a wrench to tighten or remove it. This design feature provides a greater mechanical advantage than that of a normally rounded nipple. Hence, hex pipe nipples are used in various applications where nipples need to be regularly removed or replaced.
+REDUCING/UNEQUAL PIPE NIPPLE
+Reducing or unequal pipe nipples are designed to allow a female fitting with a large connection to attach to a relatively smaller one. These are normally used for piping systems where a change in pipe dimension and flow pressure is necessary.
+HOSE PIPE NIPPLE
+A Hose pipe nipple is designed with a male threaded connection on one end and a hose barb on the other end. These are normally used for piping systems that require a pipe to be connected to tubing.
+WELDING PIPE NIPPLE
+A welding pipe nipple has a male threaded connection on one end and a standard cut pipe on the other end. Once the unthreaded end is welded and connected, fitting a pipe to the threaded end becomes much easier. Welding pipe nipples are normally used in piping systems that require welding to connect components.
+</Text>
         </Document>
         <Document ID="67ACC8E5-E8AF-461F-9CBA-11D893413026">
             <Title>Circuit breakers</Title>
@@ -2421,7 +2473,7 @@ After leaving the economizer the feedwater enters the steam drum where the gener
             <Text>TBD</Text>
         </Document>
         <Document ID="E93166CF-D418-46C0-9E00-9B0F52CBE589">
-            <Title>Engineering Systems</Title>
+            <Title>Introduction</Title>
         </Document>
         <Document ID="798450C6-05DD-491F-99DF-AF351ECEB812">
             <Title>Introduction</Title>
@@ -2459,14 +2511,8 @@ Emergency repairs to boilers must sometimes be made before the boiler has had a 
 The first new item is the condensate pump, which is a centrifugal pump that takes suction on the condenser hot well and raises the condensate pressure enough to move it on to the DC heater. The condensate pump must pump from a vacuum, which is a difficult job for a pump. It is important to properly vent and seal the pump, or it will not pump well.
 </Text>
         </Document>
-        <Document ID="564FABBE-FD9D-4B8D-B78C-C7B4A2DDC364">
-            <Title>Superheater</Title>
-            <Text>When water boils, it occurs at a particular temperature which is determined by the pressure of the surroundings. For example, water at atmospheric pressure always boils at 212 °F, while water at 600 psia always boils at 486 °F. This boiling temperature is known as the &lt;em&gt;saturation temperature&lt;/em&gt; and it can easily be determined from the steam tables found in . At a given pressure, the steam’s temperature can be raised above the corresponding saturation temperature by adding additional heat to the steam, but this must occur in an area where there is no liquid water present, or the additional heat would simply boil more water and would not raise the steam temperature at all. Raising steam temperature above the saturation temperature is known as &lt;em&gt;superheating&lt;/em&gt; and the &lt;em&gt;degree of superheat&lt;/em&gt; refers to the difference between the steam temperature and the saturation temperature corresponding to the steam’s pressure. For example, 600 psia, 600 °F steam would have 114 degrees of superheat, since it is 114 degrees above the corresponding saturation temperature. 
-In marine boilers, superheating occurs in the &lt;em&gt;superheater&lt;/em&gt;. The superheater is a series of boiler tubes located in the hottest part of the gas path, but screened from the radiant heat of the furnace behind three or more rows of &lt;em&gt;screen tubes&lt;/em&gt;. Heat is added to the superheater primarily by convection. The superheater tubes and headers may be installed either horizontally or vertically. 
-All the steam formed in the generating tubes rises up to the steam drum and flows into the dry pipe, and from there the steam, which is dry and at saturation temperature, enters the superheater header and is distributed to the superheater tubes. There, the steam picks up sensible heat, which increases the energy content of the steam, improving the overall steam cycle efficiency and reducing fuel consumption. The steam leaves the boiler at the superheater outlet. At the outlet you will find a &lt;em&gt;superheater vent&lt;/em&gt; and a &lt;em&gt;superheater safety valve&lt;/em&gt; followed by the main and turbogenerator steam stop valves. 
-The degree of superheat created in the superheater is determined by several factors, including the temperature of the feedwater, the load on the boiler, and the number and location of burners in use. These factors are not adjustable by the engineer, so the superheater outlet temperature is not under his direct control. A boiler of this type is known as an&lt;em&gt;uncontrolled superheat&lt;/em&gt; boiler. Other boiler designs provide a means to control the superheat temperature independent of the above factors, and are known as &lt;em&gt;controlled superheat&lt;/em&gt; boilers. 
-The superheater elements are normally filled entirely with steam, not water. Since no boiling occurs there, all the heat transferred to the superheater tubes must be carried away by the steam flowing through the tubes, or else they will quickly overheat and burn out, destroying the boiler. Whenever there is a fire in the boiler and no steam flow leaving the boiler, the superheater vent must be opened manually by the engineer to protect the superheater from overheating. 
-</Text>
+        <Document ID="5823802B-C704-42B3-AD53-70CB7283790B">
+            <Title>Pipe Materials</Title>
         </Document>
         <Document ID="5A3EFDC7-1B68-4A3D-B1F5-216C16EFE228">
             <Title>pressure measurement</Title>
@@ -2479,23 +2525,13 @@ Steam temperature can be raised above the saturation temperature by adding addit
 This heating occurs in the superheater, which is a bank of boiler tubes located in the hottest portions of the combustion gas path. Since there is no liquid water in the superheater, all heat added there produces superheat.
 </Text>
         </Document>
-        <Document ID="79080DDA-035D-47A5-AB2C-9E793DC86E7C">
-            <Title>Series Circuit</Title>
-            <Text>In a series circuit, the components are connected in a single path, end-to-end, creating a sequential circuit. If one component fails or is disconnected, the entire circuit is broken, and the flow of current stops.
-
-&lt;figure xml:id="fig_series_resistors"&gt;
-
-&lt;caption&gt;  Three resistors in series  &lt;/caption&gt;
-&lt;image width="60%" source="pics/electricity/series_resistors"&gt;
-&lt;remix&gt;&lt;![CDATA[  Source:  whaynes CC0  ]]&gt;&lt;/remix&gt; &lt;/image&gt;
-&lt;/figure&gt;
-The key characteristics series circuits are: &lt;ul&gt;
-The same current flows through each series component.
-The total resistance is the sum of the individual resistances.
-The voltage drop across each component may be different, but the total voltage drop must equal the supply voltage.
- &lt;/ul&gt;&lt;/p&gt;
-
-
+        <Document ID="564FABBE-FD9D-4B8D-B78C-C7B4A2DDC364">
+            <Title>Superheater</Title>
+            <Text>When water boils, it occurs at a particular temperature which is determined by the pressure of the surroundings. For example, water at atmospheric pressure always boils at 212 °F, while water at 600 psia always boils at 486 °F. This boiling temperature is known as the &lt;em&gt;saturation temperature&lt;/em&gt; and it can easily be determined from the steam tables found in . At a given pressure, the steam’s temperature can be raised above the corresponding saturation temperature by adding additional heat to the steam, but this must occur in an area where there is no liquid water present, or the additional heat would simply boil more water and would not raise the steam temperature at all. Raising steam temperature above the saturation temperature is known as &lt;em&gt;superheating&lt;/em&gt; and the &lt;em&gt;degree of superheat&lt;/em&gt; refers to the difference between the steam temperature and the saturation temperature corresponding to the steam’s pressure. For example, 600 psia, 600 °F steam would have 114 degrees of superheat, since it is 114 degrees above the corresponding saturation temperature. 
+In marine boilers, superheating occurs in the &lt;em&gt;superheater&lt;/em&gt;. The superheater is a series of boiler tubes located in the hottest part of the gas path, but screened from the radiant heat of the furnace behind three or more rows of &lt;em&gt;screen tubes&lt;/em&gt;. Heat is added to the superheater primarily by convection. The superheater tubes and headers may be installed either horizontally or vertically. 
+All the steam formed in the generating tubes rises up to the steam drum and flows into the dry pipe, and from there the steam, which is dry and at saturation temperature, enters the superheater header and is distributed to the superheater tubes. There, the steam picks up sensible heat, which increases the energy content of the steam, improving the overall steam cycle efficiency and reducing fuel consumption. The steam leaves the boiler at the superheater outlet. At the outlet you will find a &lt;em&gt;superheater vent&lt;/em&gt; and a &lt;em&gt;superheater safety valve&lt;/em&gt; followed by the main and turbogenerator steam stop valves. 
+The degree of superheat created in the superheater is determined by several factors, including the temperature of the feedwater, the load on the boiler, and the number and location of burners in use. These factors are not adjustable by the engineer, so the superheater outlet temperature is not under his direct control. A boiler of this type is known as an&lt;em&gt;uncontrolled superheat&lt;/em&gt; boiler. Other boiler designs provide a means to control the superheat temperature independent of the above factors, and are known as &lt;em&gt;controlled superheat&lt;/em&gt; boilers. 
+The superheater elements are normally filled entirely with steam, not water. Since no boiling occurs there, all the heat transferred to the superheater tubes must be carried away by the steam flowing through the tubes, or else they will quickly overheat and burn out, destroying the boiler. Whenever there is a fire in the boiler and no steam flow leaving the boiler, the superheater vent must be opened manually by the engineer to protect the superheater from overheating. 
 </Text>
         </Document>
         <Document ID="0D0D7945-E33B-4E18-B3EF-988809CCBF09">
@@ -2551,6 +2587,25 @@ Clamp-on ammeters are hand-held instruments used to measure AC currents. A plier
         <Document ID="80C06B35-82B6-42D6-9F6B-AF7A1F8304FF">
             <Title>Chapter Questions</Title>
         </Document>
+        <Document ID="79080DDA-035D-47A5-AB2C-9E793DC86E7C">
+            <Title>Series Circuit</Title>
+            <Text>In a series circuit, the components are connected in a single path, end-to-end, creating a sequential circuit. If one component fails or is disconnected, the entire circuit is broken, and the flow of current stops.
+
+&lt;figure xml:id="fig_series_resistors"&gt;
+
+&lt;caption&gt;  Three resistors in series  &lt;/caption&gt;
+&lt;image width="60%" source="pics/electricity/series_resistors"&gt;
+&lt;remix&gt;&lt;![CDATA[  Source:  whaynes CC0  ]]&gt;&lt;/remix&gt; &lt;/image&gt;
+&lt;/figure&gt;
+The key characteristics series circuits are: &lt;ul&gt;
+The same current flows through each series component.
+The total resistance is the sum of the individual resistances.
+The voltage drop across each component may be different, but the total voltage drop must equal the supply voltage.
+ &lt;/ul&gt;&lt;/p&gt;
+
+
+</Text>
+        </Document>
         <Document ID="D6E37E3D-2D0B-4AED-B36B-AE61FCC04867">
             <Title>Introduction overview</Title>
             <Text>tbd</Text>
@@ -2558,19 +2613,6 @@ Clamp-on ammeters are hand-held instruments used to measure AC currents. A plier
         <Document ID="0228FB59-4F77-48AC-8401-FD62556521E7">
             <Title>Transisters</Title>
             <Text>TBD</Text>
-        </Document>
-        <Document ID="72D4196D-42F3-4061-B9FC-FB6466615E5A">
-            <Title>introduction</Title>
-            <Text>A  pump is a device used to increase the pressure and move &lt;em&gt;liquids&lt;/em&gt;, such as water or oil, or &lt;em&gt;slurries,&lt;/em&gt; which are mixtures of liquids and solids, through pipes. If a pump is used to move gases, it is usually referred to as a  fan,  compressor, or  blower. 
-The fluid inlet to the pump is called the suction. Fluid flows from the suction into the pump  chamber, and then out the pump  discharge. While the fluid is in the pump chamber, an external power source imparts energy to the fluid in order to: &lt;ul&gt;
- move the fluid from a lower to a higher level 
- move the fluid from a lower to a higher pressure 
- overcome fluid friction in the passages and pipelines 
-&lt;/ul&gt;&lt;/p&gt;
-Most of the energy from the external power source is transformed into usable fluid &lt;em&gt;pressure&lt;/em&gt;, which is a form of potential energy, or into &lt;em&gt;velocity&lt;/em&gt;, which increases the kinetic energy of the fluid. The remainder of the energy is absorbed by frictional losses in the pump and fluid passages, and shows up as heat. The fluid, now at a higher energy level, is led to the pump outlet called the discharge. 
-The external energy supplied to most pump shafts is in the form of torque, produced by electric motors, diesel or gas engines, or gas or steam turbines. Some pumps use a sliding, back-and-forth, external motion and are known as  reciprocating. Pressurized gas or liquid is used as an energy source to operate a  jet type pump. 
-The  capacity of a pump is the volume of fluid that the pump can move (under specific operating conditions) per unit of time and is usually expressed as &lt;q&gt;Gallons per Minute&lt;/q&gt; or &lt;q&gt;GPM&lt;/q&gt; for short. The pressure that a pump is capable of delivering is described as the pump  head, and will be discussed in the next section. 
-</Text>
         </Document>
         <Document ID="AC648E15-E49E-4FFC-A1FD-4B77F10E8BDA">
             <Title>Propulsion Motors</Title>
@@ -2597,8 +2639,18 @@ In a three-phase wye circuit, &lt;mdn&gt;
             <Title>Electrical Safety</Title>
             <Text>TBD</Text>
         </Document>
-        <Document ID="94BEBDF9-2DD6-4B8F-BB2C-71751A08BF25">
-            <Title>Chapter Questions</Title>
+        <Document ID="72D4196D-42F3-4061-B9FC-FB6466615E5A">
+            <Title>introduction</Title>
+            <Text>A  pump is a device used to increase the pressure and move &lt;em&gt;liquids&lt;/em&gt;, such as water or oil, or &lt;em&gt;slurries,&lt;/em&gt; which are mixtures of liquids and solids, through pipes. If a pump is used to move gases, it is usually referred to as a  fan,  compressor, or  blower. 
+The fluid inlet to the pump is called the suction. Fluid flows from the suction into the pump  chamber, and then out the pump  discharge. While the fluid is in the pump chamber, an external power source imparts energy to the fluid in order to: &lt;ul&gt;
+ move the fluid from a lower to a higher level 
+ move the fluid from a lower to a higher pressure 
+ overcome fluid friction in the passages and pipelines 
+&lt;/ul&gt;&lt;/p&gt;
+Most of the energy from the external power source is transformed into usable fluid &lt;em&gt;pressure&lt;/em&gt;, which is a form of potential energy, or into &lt;em&gt;velocity&lt;/em&gt;, which increases the kinetic energy of the fluid. The remainder of the energy is absorbed by frictional losses in the pump and fluid passages, and shows up as heat. The fluid, now at a higher energy level, is led to the pump outlet called the discharge. 
+The external energy supplied to most pump shafts is in the form of torque, produced by electric motors, diesel or gas engines, or gas or steam turbines. Some pumps use a sliding, back-and-forth, external motion and are known as  reciprocating. Pressurized gas or liquid is used as an energy source to operate a  jet type pump. 
+The  capacity of a pump is the volume of fluid that the pump can move (under specific operating conditions) per unit of time and is usually expressed as &lt;q&gt;Gallons per Minute&lt;/q&gt; or &lt;q&gt;GPM&lt;/q&gt; for short. The pressure that a pump is capable of delivering is described as the pump  head, and will be discussed in the next section. 
+</Text>
         </Document>
         <Document ID="E8A84652-3DF4-4B1B-86CE-BBC664FC754F">
             <Title>Electromagnet Induction</Title>
@@ -2718,6 +2770,40 @@ To carry out these functions, the PPC requires inputs and outputs to/from differ
         <Document ID="8F8066D3-5174-4A50-B2FA-1FE9E1AF9AA4">
             <Title>Crew Obligations</Title>
         </Document>
+        <Document ID="50646F7E-3F8F-4F8C-9763-87BEF9FBFFA5">
+            <Title>Bends and elbows</Title>
+            <Text>Bends and elbows are important parts of any piping system as they allow the integration of flexibility of design by change in the flow direction of the media to be carried inside
+The details of these important components are discussed in this chapter
+ Bend or Elbow
+There is always a doubt about the terms bends and elbows on ships.
+They are frequently used as synonyms. between them is as follows:
+The difference
+ * Bend is a generic term for any offset or change of direction in the piping. It is a vague term that also includes elbows.
+* An elbow is an engineering term and is classified as 90 deg or 45 deg, short or long radius.
+* Elbows have industrial standards and have limitations to size, bend radius and angle. The angles are usually 45 deg or 90 degrees. All others offsets are classified as pipe bends.
+* Bends are generally made or fabricated as per the need of the piping; however elbows are pre fabricated and standard, and are available off the shelf.
+* Bends are never sharp corners but elbows are. Pipe bending techniques have constraint as to how much material thinning can be allowed to safely contain the pressure of the fluid to be contained. As elbows are pre fabricated, cast or butt welded, they can be sharp like right angles and return elbows which are 180 degrees.
+* Elbow is a standard fitting but bends are custom fabricated.
+* In bends as the pipe is bent and there is no welding involved, there is less pipe friction and flow is smoother. In elbows, the welding can create some friction.
+* All elbows are bends but all bends are not elbows.
+* Bend has a larger radius then elbows. 2
+  * Generally the most basic difference is the radius of curvature. Elbows generally have radius of curvature between one to twice the diameter of the
+pipe. Bends have a radius of curvature more than twice the diameter.
+Short Radius and Long Radius
+Elbows are again classified as long radius or short radius elbows. The difference between them of the length and curvature.
+Following are some points to differentiate these two:
+* Long radius elbows give less frictional resistance to the fluid than the short elbows.
+* Long radius elbows create lesser pressure drop than short radius elbows.
+* Short radius is less costly than long radius elbows.
+* The short radius elbows are used where there is scarcity of space.
+ A short radius elbow will be giving the piping a sharper turn than a long radius elbow.
+In a long radius elbow the radius of curvature is 1.5 times the nominal diameter. In a standard elbow the radius of curvature is 1.0 times the nominal diameter of the pipe.
+In addition to this classification the elbows of 45 degrees, 90 degrees and 180 degrees are called as a return elbow.
+  Miter bends
+Another type of bend is a Miter bend. A Miter bend is a bend which is made by cutting pipe ends at an angle and joining the pipe ends. A true miter bend is a 90 degree bend made by cutting two pipes at 45 degrees and joining them by
+welding. Similarly three pipes cut at 22.5 degrees will give a 90 degree miter bend.
+  “Mitered bends are simple to make and can be readily compensated to act acoustically.”</Text>
+        </Document>
         <Document ID="13F6D922-B201-4C62-A1DB-50FE5DB88A38">
             <Text>&lt;/ul&gt;&lt;/p&gt;
 By following these safety practices, you will not only protect yourself but also contribute to the overall safety of the crew and the smooth operation of the ship. Remember, safety should always be your top priority.</Text>
@@ -2791,6 +2877,9 @@ Diesel and gas turbine powered ships are often equipped with smaller auxiliary b
 Correct adjustment and fit of the your hard hat is required for maximum safety. The internal cradle of the headband and sweatband forms a suspension system which keeps the helmet away from the head and cushions against impact. The headband must be adjusted to the right size in order to provide sufficient clearance between the shell and the headband. 
 </Text>
         </Document>
+        <Document ID="94BEBDF9-2DD6-4B8F-BB2C-71751A08BF25">
+            <Title>Chapter Questions</Title>
+        </Document>
         <Document ID="9C1CFB4A-2197-4E0C-863D-20DE31B9D9C4">
             <Title>Introduction</Title>
             <Text>Every day more than 1,000 eye injuries occur in American workplaces. The US Bureau of Labor Statistics found that three out of five workers who suffered eye injuries were not wearing eye protective equipment at the time of the accident, and when asked why, the victims often claimed that eye protection was not normally used in their type of work, or it was not required for the type of work performed at the time of the accident. Eye protection can save your sight, but you must be wearing it. 
@@ -2826,6 +2915,110 @@ Eye injuries can be prevented by wearing effective eye protection. To be effecti
    &lt;/choice&gt;
 &lt;/choices&gt;
 </Text>
+        </Document>
+        <Document ID="880B6916-7BAE-4686-B527-70D9FC6851A2">
+            <Text>Pip's Island Home » How to Measure Pipe Nipple Length? (5 Types)
+How To Measure Pipe Nipple Length? (5 Types)
+by Pip's Island Home
+#
+Are you doing a DIY plumbing project and wondering how pipe nipples are measured? Or perhaps you are a plumbing rookie curious how to measure pipe nipples?
+Ordering the right size nipple is important in any successful plumbing installation. This small but crucial pipe fittings make all the difference in guaranteeing leakage-free low-pressure piping systems.
+So, just how are pipe nipples measured? This is a common concern among plumbing newbies looking to understand pipe fitting dimensions.
+Determining pipe nipple size is straightforward as you will find out in this guide. Read on for details on pipe nipples and how to measure the dimensions accurately when ordering these necessary fittings.
+What Is A Pipe Nipple?
+#
+
+A pipe nipple is a fitting made from a short piece of pipe and typically comes with male threads on both ends. A nipple acts as an adapter, connecting two female threaded pipes or fittings.
+Manufacturers make nipples by cutting pipes of a certain length and creating the specific end connections that make the nipple unique. Like pipe, nipples can be welded or seamless.
+Nipples usually come in various lengths, but most are about 12”. Before discussing how pipe nipples are measured, let’s first look at the most common types of pipe nipples.
+Most Common Types Of Pipe Nipples
+1. Close Or Running Nipple
+#
+
+One of the most common pipe nipples is the close nipple, also known as a running nipple. With this type of nipple, the entire short pipe is threaded with male threads. So when you connect a pipe on either end of the nipple, you wouldn’t see the nipple threads. The pipes or fittings on both sides come close, hiding the pipe nipple underneath.
+One disadvantage of a close nipple is that it can be difficult to unscrew from a pipe or fitting. If you want to unscrew the connection, you must grip one of the nipple’s threaded ends with a pipe wrench, which could damage the threads, requiring you to replace the nipple. A nipple wrench to grip the pipe or fitting’s interior can minimize thread damage.
+2. Hexagonal Nipple
+#
+
+A pipe nipple has a small unthreaded space between the two threaded ends. You can place a wrench on the unthreaded space to grasp the nipple and avoid damaging the threads.
+The middle unthreaded space in some nipples has a hexagonal pattern resembling a nut. The hexagonal pattern provides a superior grip compared to a smooth pipe nipple.
+In some nipples, the unthreaded hexagonal space is slightly longer, making the threaded ends shorter. This type of nipple is known as a long hex.
+3. Reducing Nipple
+#
+
+Sometimes, you may want to connect differently-sized pipes or fittings, i.e., one fitting or pipe may be larger than the other. In this case, it is best to use a reducing nipple, also known as an unequal nipple.
+A reducing nipple has the usual male threads on both ends but with different diameters. One end takes a female pipe with a larger connection, while the other end connects to a smaller pipe or fitting.
+Be careful when connecting a large pipe to a small one. The increased flow rate and pressure in the smaller fitting or pipe can cause a sudden and potentially dangerous outburst.
+4. Hose Nipple
+#
+
+Another common type of nipple is the hose pipe nipple. As the name suggests, these nipples connect pipe to tubing.
+On one end of the nipple is a male threaded connection, while the other end of the nipple has a hose barb. The barb is usually more or less the same size as the threaded end of the nipple.
+5. Welding Nipple
+#
+
+Welding nipples have one threaded and another non-threaded end that resembles a normal pipe. This nipple is handy when connecting a piping system to welded fittings or pipes.
+The unthreaded end has a greater surface area to take welded fittings, ensuring a strong connection. Connecting pipes/fittings to the threaded end is easier when the unthreaded end is securely connected to the welded fitting.
+When ordering pipe nipples, you must know the type of nipple that best suits your plumbing installation. Aside from the length and type of pipe, you should also understand the end connections required for your piping installation.
+These are the most common pipe nipple end connections:
+	•	Plain both ends (PBE): This nipple features threadless ends. It connects a welded socket in piping.
+	•	Threaded both ends (TBE): Many pipe nipples are threaded on both ends and help to connect female threaded pipe or fittings.
+	•	Beveled both ends (BBE): This pipe nipple connects welded pipes or fittings. It features beveled ends on both sides of the nipple.
+Other variations include threaded one end, plain one end, and beveled one end. Your choice will depend on the design and function of the piping system.
+How To Measure Pipe Nipple Length?
+#
+
+When determining the right type of pipe nipple to buy, you must specify the following:
+	•	Inner or outer diameter
+	•	Pipe nipple length
+	•	Preferred nipple material
+	•	Type of end connection
+How are pipe nipples measured in terms of length? The length of a pipe nipple is the overall pipe length from one end of the nipple to the other. This formula applies whether the pipe nipple is plain on both ends, threaded on both ends, plain on one end, and threaded on the other. You can easily determine the nipple length using a caliper or thread and tape measure.
+When pipe/fitting is installed on a pipe nipple, you can determine the nipple length by subtracting the thread engagement of both ends of the nipple. The engagement is the length of pipe inserted into the nipple to achieve a snug, hand-fitted seal.
+In cases where the female threaded fittings come close to each other such that the nipple doesn’t show, the close length is calculated as two times the thread engagement.
+Use a nominal diameter conversion chart to determine the precise length of the pipe nipple in inches.
+How Do You Determine Pipe Size?
+#
+
+In addition to learning how to measure pipe nipple size, you will also need to know how pipe size is measured. The upside is that determining pipe size is easy—all you need is the outside diameter for male threads and the inner diameter for female threads.
+To measure the pipe size for pipe/fittings with male threads, follow these steps:
+	1	Wrap a small string around the pipe
+	2	Use a marker pen to indicate where the string touches
+	3	Measure the string from the tip to the marked point using a tape measure or ruler. This is the pipe’s circumference.
+	4	Obtain the diameter by dividing the circumference by 3.14
+	5	Use the nominal diameter conversion chart to convert the diameter readings to the more accurate nominal diameter. The nominal diameter is the actual pipe size.
+The steps to measure the pipe size of a female threaded pipe are as follows:
+	1	Place a tape measure or ruler on the pipe’s opening to measure the inside diameter.
+	2	Use the nominal diameter chart for pipe sizes to convert the inside diameter to the nominal diameter, which is the pipe’s actual size.
+Tips For Measuring Metric Pipe Fittings
+#
+
+Pipe fittings, including pipe nipples with metric thread, are quite common. Metric threaded fittings are also classified as tapered because the threads narrow the further in you get.
+If your pipe/fitting has metric threads, you should have the right thread measurements before ordering a pipe nipple that can take the metric threads.
+So, how do you measure metric pipe fittings? Here’s a step-by-step guide:
+Measure the thread pitch using a pair of calipers or a thread gauge. The thread pitch is measured in mm, and typically measures 1.0, 1.5. or 2.0, but you can find fittings with larger thread pitches.
+Determine the interior diameter for female threaded fittings and the outside diameter for male threaded fittings. This is how pipe thread is measured. (See the guide above on how to determine pipe size).
+Use a metric thread specification chart to identify a thread callout that will give you an estimate measure of the metric pipe fitting. A thread callout combines the pitch measurement, and fitting’s outside diameter.
+Summary: How Are Pipe Nipples Measured?
+Pipe nipples are important in ensuring secure and safe connections in piping systems. The right type and size nipple make a world of difference regarding the integrity of any plumbing system.
+Understanding how pipe nipples are measured will help you choose the right fittings. The figures might initially seem confusing, especially since you’d have to convert internal and outside diameters to nominal ones.
+But, with the right tools and a simple formula to follow, you should quickly learn how to measure pipe nipples and even determine pipe sizes. I hope this handy guide helps you get the hang of measuring pipe nipple length and size.</Text>
+        </Document>
+        <Document ID="D347E1E9-6B1E-4750-9042-BE535DD722E5">
+            <Text>https://www.cpcworldwide.com/Resources-Support/Technical-Toolbox/Understanding-NPT-Pipe-Thread-Types
+
+Pipe thread sizes are based on an inside diameter (ID) or flow size. For example, “1/2–14 NPT” identifies a pipe thread with a nominal inside diameter of 1/2 inch and 14 threads to the inch, made according to the NPT standard. If “LH” is added, the pipe has a left hand thread. The most commonglobal pipe thread forms are:
+	▪	NPT: American Standard Pipe Taper Thread
+	▪	NPSC: American Standard Straight Coupling Pipe Thread
+	▪	NPTR: American Standard Taper Railing Pipe Thread
+	▪	NPSM: American Standard Straight Mechanical Pipe Thread
+	▪	NPSL: American Standard Straight Locknut Pipe Thread
+	▪	NPTF: American Standard Pipe Thread Tapered (Dryseal)
+	▪	BSPP: British Standard Pipe Thread Parallel
+	▪	BSPT: British Standard Pipe Thread Tapered
+Plastic injection molded thread forms are manufactured to ANSI B2.1 and SAE J476 standards.
+The word “tapered” in several of the above names points to the big difference between many pipe threads and those on bolts and screws. Many pipe threads must make not only a mechanical joint but also a leakproof hydraulic seal. This is accomplished by the tapered thread form of the male matching the thread form of the female tapered thread and the use of pipe sealant to fill any voids between the two threads which could cause a spiral leak. The bottoms of the threads aren’t on a cylinder, but a cone; they taper. The taper is 1⁄16 inch per inch of length, which is the same as 3/4 inch in a foot.
+Because of the taper, a pipe thread can only screw into a fitting a certain distance before it jams. The standard specifies this distance as the length of hand tight engagement, the distance the pipe thread can be screwed in by hand. It also specifies another distance – the effective thread, this is the length of the thread which makes the seal on a conventional machined pipe thread. For workers, instead of these distances, it is more convenient to know how many turns to make by hand and how many with a wrench. A simple rule of thumb for installing tapered pipe threads, both metal and plastic, is finger tight plus one to two turns with a wrench. Torque installation values can be determined per application, but due to the variations involved in pipe joints such as disimiliar materials of male and female threads, type of sealants used, and internal variations in product wall thickness, a standard torque specification cannot be generically applied.</Text>
         </Document>
         <Document ID="3FD48C3B-5B21-4948-9652-62D28B11306E">
             <Title>Basic Concepts</Title>
@@ -3839,6 +4032,15 @@ It's important to note that OSHA regulations mainly pertain to workplaces on lan
         <Document ID="62422D85-1CB2-41DA-A6F8-92122F08779D">
             <Title>Hearing Protection</Title>
         </Document>
+        <Document ID="A151F21E-9DB0-4A2E-8CC0-F258638E7524">
+            <Title>introduction</Title>
+            <Text>Both pipes and tubes are long, hollow structures but the distinction between them is somewhat unclear.
+Pipes are primarily used for fluid transport and are almost always cylindrical.  They are sized in terms of a Nominal Pipe Size (NPS) or Nominal Diameter (DN), which corresponds to the approximate inside diameter (ID). The internal diameter is the critical dimension for fluid flow, since it is needed to calculate pipe capacity, flow rates, and frictional losses.  Additionally, pipes must have sufficient wall thickness to handle the expected internal pressure.  Pipes have somewhat lenient tolerances, and may have variations in wall thickness along their length.
+Tubes are used for fluid transport as well, but also for other applications, particularly for fabricating structures. (For example, scaffolding and bike frames.)  Pipes are rigid and resistant to bending but some tubes such as copper and brass tubes are flexible enough to be easily bent. 
+Tubes are available with various cross-sections, including round, square, rectangular, or oval.  They usually have thinner walls than pipe, making them lighter but less capable of handling high internal pressures. They are often chosen for applications where weight is a consideration. Tubes are sized based on outside dimensions and wall thickness.  Tubes are manufactured with tighter tolerances than pipe, resulting in more precise dimensions and wall thickness consistency.  
+
+</Text>
+        </Document>
         <Document ID="153F7923-87B3-46FC-9857-566E251A510B">
             <Title>Power Transmission and Gearing</Title>
             <Text>TBD</Text>
@@ -3886,6 +4088,535 @@ where P is the number of poles on the stator and f is the line frequency. A two-
 Additional windings can be fitted to the stator for each phase. Each additional winding per phase provides an additional pair of poles. For example, the stator could be arranged with nine windings, with every third winding connected to the same phase, so that there are three windings per phase. Since each set of windings provides one pair of poles this would be a 6-pole motor. The synchronous speed of a 6-pole motor, when supplied with 60 Hz line current, is 1200 rpm.
 </Text>
         </Document>
+        <Document ID="3CAFE294-7794-4E86-A7F5-D32E73C1EAFE">
+            <Title>pipe schedule</Title>
+            <Text>&lt;table&gt;
+&lt;title&gt;NPS Pipe Schedule - Wall thickness in inches.  ASME B36.10&lt;/title&gt;
+  &lt;tabular halign="center"&gt; 
+    &lt;row header="yes"&gt;
+      &lt;cell&gt;
+        NPS
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        OD Inch.
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        Sch. 5
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        Sch. 10
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        Sch. 40
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        Sch. 80
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        Sch. 160
+      &lt;/cell&gt;
+    &lt;/row&gt;
+    &lt;row&gt;
+      &lt;cell&gt;
+        1/8
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        0.405
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .035
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .049
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .068
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .095
+      &lt;/cell&gt;
+      &lt;cell&gt;
+      &lt;/cell&gt;
+    &lt;/row&gt;
+    &lt;row&gt;
+      &lt;cell&gt;
+        1/4
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        0.54
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .049
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .065
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .088
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .119
+      &lt;/cell&gt;
+      &lt;cell&gt;
+      &lt;/cell&gt;
+    &lt;/row&gt;
+    &lt;row&gt;
+      &lt;cell&gt;
+        3/8
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        0.675
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .049
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .065
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .091
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .126
+      &lt;/cell&gt;
+      &lt;cell&gt;
+      &lt;/cell&gt;
+    &lt;/row&gt;
+    &lt;row&gt;
+      &lt;cell&gt;
+        1/2
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        0.84
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .065
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .083
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .109
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .147
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .187
+      &lt;/cell&gt;
+    &lt;/row&gt;
+    &lt;row&gt;
+      &lt;cell&gt;
+        3/4
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        1.05
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .065
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .083
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .113
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .154
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .218
+      &lt;/cell&gt;
+    &lt;/row&gt;
+    &lt;row&gt;
+      &lt;cell&gt;
+        1
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        1.315
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .065
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .109
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .133
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .179
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .250
+      &lt;/cell&gt;
+    &lt;/row&gt;
+    &lt;row&gt;
+      &lt;cell&gt;
+        1-1/4
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        1.66
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .065
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .109
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .140
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .191
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .250
+      &lt;/cell&gt;
+    &lt;/row&gt;
+    &lt;row&gt;
+      &lt;cell&gt;
+        1-1/2
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        1.9
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .065
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .109
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .145
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .200
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .281
+      &lt;/cell&gt;
+    &lt;/row&gt;
+    &lt;row&gt;
+      &lt;cell&gt;
+        2
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        2.375
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .065
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .109
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .154
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .218
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .343
+      &lt;/cell&gt;
+    &lt;/row&gt;
+    &lt;row&gt;
+      &lt;cell&gt;
+        2-1/2
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        2.875
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .083
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .120
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .203
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .276
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .375
+      &lt;/cell&gt;
+    &lt;/row&gt;
+    &lt;row&gt;
+      &lt;cell&gt;
+        3
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        3.5
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .083
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .120
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .216
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .300
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .437
+      &lt;/cell&gt;
+    &lt;/row&gt;
+    &lt;row&gt;
+      &lt;cell&gt;
+        3-1/2
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        4
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .083
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .120
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .226
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .318
+      &lt;/cell&gt;
+      &lt;cell&gt;
+      &lt;/cell&gt;
+    &lt;/row&gt;
+    &lt;row&gt;
+      &lt;cell&gt;
+        4
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        4.5
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .083
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .120
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .237
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .337
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .531
+      &lt;/cell&gt;
+    &lt;/row&gt;
+    &lt;row&gt;
+      &lt;cell&gt;
+        5
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        5.563
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .109
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .134
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .258
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .375
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .625
+      &lt;/cell&gt;
+    &lt;/row&gt;
+    &lt;row&gt;
+      &lt;cell&gt;
+        6
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        6.625
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .109
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .134
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .280
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .432
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .718
+      &lt;/cell&gt;
+    &lt;/row&gt;
+    &lt;row&gt;
+      &lt;cell&gt;
+        8
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        8.625
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .109
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .148
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .322
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .500
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .906
+      &lt;/cell&gt;
+    &lt;/row&gt;
+    &lt;row&gt;
+      &lt;cell&gt;
+        10
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        10.75
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .134
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .165
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .365
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .593
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        1.125
+      &lt;/cell&gt;
+    &lt;/row&gt;
+    &lt;row&gt;
+      &lt;cell&gt;
+        12
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        12.75
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .165
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .180
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .365
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .593
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        1.125
+      &lt;/cell&gt;
+    &lt;/row&gt;
+    &lt;row&gt;
+      &lt;cell&gt;
+        14
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        14
+      &lt;/cell&gt;
+      &lt;cell&gt;
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .250
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .437
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .750
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        1.406
+      &lt;/cell&gt;
+    &lt;/row&gt;
+    &lt;row&gt;
+      &lt;cell&gt;
+        16
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        16
+      &lt;/cell&gt;
+      &lt;cell&gt;
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .250
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .500
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .843
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        1.593
+      &lt;/cell&gt;
+    &lt;/row&gt;
+    &lt;row&gt;
+      &lt;cell&gt;
+        18
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        18
+      &lt;/cell&gt;
+      &lt;cell&gt;
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .250
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .562
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .937
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        1.781
+      &lt;/cell&gt;
+    &lt;/row&gt;
+    &lt;row&gt;
+      &lt;cell&gt;
+        20
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        20
+      &lt;/cell&gt;
+      &lt;cell&gt;
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .250
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        .593
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        1.031
+      &lt;/cell&gt;
+      &lt;cell&gt;
+        1.968
+      &lt;/cell&gt;
+    &lt;/row&gt;
+  &lt;/tabular&gt;
+&lt;/table&gt;</Text>
+        </Document>
         <Document ID="446F694B-EBA2-4C8F-9E26-3FE4F3F4A0D2">
             <Title>Enthalpy</Title>
             <Text>When discussing a system involving work and heat, such as a boiler and turbine, you may hear the term &lt;em&gt;enthalpy.&lt;/em&gt; Enthalpy is a thermodynamic quantity defined as the sum of internal energy and the work done by the substance to move its surroundings out of the way as it moves or expands, known as &lt;q&gt;flow work.&lt;/q&gt; One consequence of this definition is that when heat flows into a substance at constant pressure, its enthalpy increases by the amount of heat energy added. This is why enthalpy is sometimes described as the &lt;q&gt;heat content&lt;/q&gt; of a substance. Remember that heat is energy in transition, and is never stored so no substance ever really &lt;q&gt;contains&lt;/q&gt; heat. 
@@ -3917,6 +4648,21 @@ Additional windings can be fitted to the stator for each phase. Each additional 
 &lt;choices&gt; &lt;choice&gt; &lt;statement&gt; diminishes in volume  &lt;/statement&gt; &lt;/choice&gt; &lt;choice&gt; &lt;statement&gt; becomes saturated again  &lt;/statement&gt; &lt;/choice&gt; &lt;choice correct="yes"&gt; &lt;statement&gt; expands in volume  &lt;/statement&gt; &lt;/choice&gt; &lt;choice&gt; &lt;statement&gt; becomes superheated again  &lt;/statement&gt; &lt;/choice&gt;
 &lt;/choices&gt;
 </Text>
+        </Document>
+        <Document ID="6327EC84-5CA1-4FE4-B983-3F2A329C4D74">
+            <Title>Types of Tee</Title>
+            <Text>Pipe adapters are fittings that have to adapt to changes and are therefore used for joining different types of pipes such as a pipe to a hose. Adapters are used to extend or terminate the piping. They are also used to connect dissimilar pipes.
+There are male to female adapters, parallel to taper thread adapters, pipe to hose adapters etc. Pipe adapters have a male or female thread on one side and an opposite gender thread on the other side.
+ * Male Tee
+ A male tee is a pipe fitting that joins two perpendicular pipes together or makes a “tee”. It is similar to a female tee but has male threads on all ends and joins to fittings with female threads.
+*Female Tee
+A female tee is a pipe fitting that joins one pipe to an another pipe in a perpendicular direction. The female tee is having female threads on all ends and pipes or fittings with male threads fix into it.
+ * Reducing Tee
+ A reducing tee has two openings of same size and one of different size. These are also used to join two pipes perpendicular to each other as well as to obtain flow control.
+*Street Tee
+A street tee is a pipe fitting which joins one pipe to another, perpendicular to it. In addition it has male threads on one end and female threads on other two.
+* Cross Tee
+A cross tee is a pipe fitting that joins four pipes at 90 degrees each. There is either one inlet or three outlets or vice versa.</Text>
         </Document>
         <Document ID="BEEA511A-C355-47FD-A22F-D44ABF912F5F">
             <Title>DC Power</Title>
@@ -4188,6 +4934,8 @@ A 440 V shore power connection is provided to supply electrical power to the shi
         </Document>
         <Document ID="89C89468-D5D1-411E-B857-BF9A811A72E1">
             <Title>Electrical Components</Title>
+            <Text>
+</Text>
         </Document>
         <Document ID="5B7D762F-2727-497E-998B-3DB4363D3B93">
             <Title>Firebrick</Title>
@@ -4529,6 +5277,15 @@ Soft starters and variable frequency drives, which are electronic devices, gradu
             &lt;/row&gt;&lt;/tabular&gt;
           &lt;/table&gt;
  </Text>
+        </Document>
+        <Document ID="F32091D5-63D9-4B78-B9A0-4F966A7F8004">
+            <Title>Pipe Size</Title>
+            <Text>Pipe sizes in the United States are specified by two numbers:  The Nominal Pipe Size  (NPS) in inches  and the Schedule (Sch.) number.   The European (ISO) designation equivalent to nominal pipe size is &lt;foreign&gt;diamètre nominal&lt;/foreign&gt; (DN), where the dimensions are measured in millimeters. 
+In engineering a nominal value is a quantity used for the name of an object.  Nominal values are usually close to, but not the same as, the actual value.   For example a 2\times4 is the name of a piece of lumber with finished dimensions closer to 1-1/2 inches by 3-1/2 inches.  A 120 V outlet can vary anywhere between 114 V and 126 V.  Nominal values are a convenient shorthand, a rounded figure easier to use and remember.
+The NPS is approximately equal to the inside diameter of the pipe for nominal pipe sizes up to 12 inches;  above 12 inches, the nominal pipe size is equal to the outside diameter.  Nominal dimensions are used in order to simplify the standardization of pipe fittings and pipe taps and threading dies. Pipe fittings with and pipe with the same nominal size are compatible.
+Pipe schedule describes the wall thickness of pipes. There are eleven standard Schedule numbers: 5, 10, 20, 30, 40, 60, 80, 100, 120, 140, and 160, with higher numbers indicating thicker walls. The most common sizes found aboard ship are Schedule 40, sometimes called standard weight, and Schedule 80.   Schedule 40 is the lightest weight used for steam applications.  Schedule 40 and 80 pipes are available in the full range of nominal sizes from 1/8 inch to 48 inch.  Other schedules are more limited. 
+As the schedule number increases, the pipe wall thickness increases, the inside diameter (bore) decreases and the pressure rating of the pipe increases,  so for example a 1 inch Schedule 40 pipe which has an outside diameter of  1.315 inches and a wall thickness of 0.133 inches, has a bore of 1.049 inches, while a similar 1 inch Schedule 80 pipe has the same outside diameter, but a wall thickness of 0.179 inches giving a bore of 0.957 inch 
+</Text>
         </Document>
         <Document ID="B8EB6175-E365-46BA-912F-D0D9C0BDFF3A">
             <Title>introduction</Title>
@@ -5938,6 +6695,110 @@ Here are some of the main hazards associated with electricity:</Text>
 &lt;/choices&gt;
 </Text>
         </Document>
+        <Document ID="72618669-6F5E-436C-BFD8-44D905BCED0B">
+            <Text>&lt;figure xml:id="fig_pipe_fittings"&gt;
+&lt;caption&gt; Pipe Fittings &lt;/caption&gt;
+&lt;image width="100%" source="pics/piping_systems/pipe_fittings.png"&gt;
+&lt;remix&gt; &lt;![CDATA[ mostly from www.jmesales.com  ]]&gt;&lt;/remix&gt;
+&lt;/image&gt;
+&lt;/figure&gt;
+
+Pipe fittings play a crucial role in connecting, directing, and controlling the flow of fluids within a piping system. They come in various shapes, sizes, and configurations to accommodate different needs. Here's a list of common pipe fittings organized by categories:
+
+**1. **Elbow Fittings:**
+   - 90° Elbow
+   - 45° Elbow
+   - Long Radius Elbow
+   - Short Radius Elbow
+
+**2. **Tee Fittings:**
+   - Equal Tee
+   - Reducing Tee
+   - Barred Tee (Branching Tee)
+
+**3. **Reducer Fittings:**
+   - Concentric Reducer
+   - Eccentric Reducer
+
+**4. **Coupling Fittings:**
+   - Full Coupling
+   - Half Coupling
+
+**5. **Union Fittings:**
+   - Union
+   - Threaded Union
+   - Socket Weld Union
+
+**6. **Cross Fittings:**
+   - Equal Cross
+   - Reducing Cross
+
+**7. **Cap Fittings:**
+   - Cap
+   - Plug
+
+**8. **Nipple Fittings:**
+   - Close Nipple
+   - Short Nipple
+   - Long Nipple
+
+https://www.titanfittings.com/Articles.asp?ID=419
+**9. **Flange Fittings:**
+   - Slip-On Flange
+   - Weld Neck Flange
+   - Blind Flange
+   - Lap Joint Flange
+   - Socket Weld Flange
+   - Threaded Flange
+
+**11. **Cross Fittings:**
+   - Equal Cross
+   - Reducing Cross
+
+**12. **Reducer Fittings:**
+   - Concentric Reducer
+   - Eccentric Reducer
+
+**13. **Swage Fittings:**
+   - Concentric Swage
+   - Eccentric Swage
+
+**14. **Locknut Fittings:**
+   - Locknut
+   - Hexagonal Locknut
+
+**15. **Bushings and Inserts:**
+   - Hexagonal Bushing
+   - Threaded Insert
+
+**16. **Crossover Fittings:**
+   - Double Ferrule Crossover
+   - Single Ferrule Crossover
+
+**17. **Expansion Joint Fittings:**
+   - Flexible Expansion Joint
+   - Expansion Bellows
+
+**18. **Quick Connect Fittings:**
+   - Quick Coupler
+   - Quick Disconnect
+
+**19. **Valve Fittings:**
+   - Gate Valve
+   - Ball Valve
+   - Globe Valve
+   - Check Valve
+   - Butterfly Valve
+   - Needle Valve
+
+**20. **Specialty Fittings:**
+   - Instrumentation Fittings (for gauges and instruments)
+   - P-trap (for plumbing)
+
+This list provides an overview of various types of pipe fittings, but it's not exhaustive. Each fitting serves a specific purpose and can be chosen based on the requirements of the piping system, such as the type of fluid being transported, pressure and temperature conditions, and the overall layout of the system.
+
+</Text>
+        </Document>
         <Document ID="B6E868E9-CB19-4934-838C-1FF5CD2B7131">
             <Title>Electrical Machinery</Title>
         </Document>
@@ -5958,6 +6819,18 @@ Pressure
 Torque
 Power
 Speed</Text>
+        </Document>
+        <Document ID="FC35F7A7-C887-420B-9833-DC6A1F29C627">
+            <Title>Pipe Materials</Title>
+            <Text>Factors such as pressure, temperature, flow rates, material compatibility, and safety standards must be considered when designing piping systems.
+
+The material chosen for a pipe depends on factors such as the fluid being transported, temperature and pressure conditions, corrosion considerations, cost, and regulatory requirements.
+1. **Carbon Steel:** Carbon steel pipes are widely used  due to their strength and cost-effectiveness. However, carbon steel is susceptible to corrosion in marine environments, so protective coatings or regular maintenance are necessary.
+4. **Nickel Alloys:** Nickel alloys, such as Monel and Inconel, are used in ship systems where resistance to high temperatures, corrosion, and stress is required. These alloys are often used in systems that handle harsh chemicals or high-temperature fluids.
+2. **Stainless Steel:** Stainless steel has excellent corrosion resistance. Different grades of stainless steel are used depending on the level of corrosion resistance required and the specific fluids being transported. 
+3. **Copper:** Copper has good corrosion resistance and good heat transfer characteristics, so is suitable for some heat exchangers.
+7. **Brass:** Brass pipes are used in certain ship systems due to their corrosion resistance, especially in areas where saltwater exposure is frequent. They are commonly used in small-scale plumbing and valve systems.
+</Text>
         </Document>
         <Document ID="7E3F274D-D471-4271-BE09-8EBD247F3A82">
             <Title>exercise</Title>
@@ -29920,6 +30793,34 @@ The correct formula for calculating power in a three-phase AC circuit is &lt;men
 &lt;/md&gt;&lt;/p&gt;
 </Text>
         </Document>
+        <Document ID="C7F6C614-D9BD-41DB-AAA7-1F0E4DB56284">
+            <Text>WHAT ARE NPT FITTINGS?
+
+NPT(National Pipe Tapered) standard was initially defined for plumbing applications. The metal-to-metal contact in NPT fittings relies on the deformation of the threads to form a secure seal.
+
+		Fittings Learning Center Fittings and Adapters What are NPT Fittings?
+#
+Image description: A NPT fitting
+NPT or national pipe, or National Pipe Tapered, is an American standard defined under the AMSE B1.20.1. The standard outlines the dimensions and tolerances of tapered threads for pipes and fittings. Unlike straight threads, tapered threads give a more reliable seal, especially when used with a sealant material like Teflon tape. The standard is more than a hundred years old and was initially defined for plumbing applications; however, it has seen effective use in hydraulic and gas conveyance as well.
+CHARACTERISTICS OF NPT THREADS
+NPT threads are defined by the following features:
+	•	The taper angle is 1O 47’ (measured from the center axis of the NPT fitting)
+	•	Flat crests and troughs
+	•	60O angle between each crest and trough
+	•	The outer diameter of an NPT fitting is measured at the midpoint of the taper
+	•	Pitch (the distance between threads) is measured in threads per inch (TPI)
+SIZING IN NPT THREADS
+NPT defines both internal and external threads on fittings that conform to the standard; hence sizing charts give diameter measurements for both male and female parts. As a result, all male and female fitting types have consistency, adhering to the same taper rate – change in thread diameter per unit length. For the NPT standard, the taper rate is ¾ inch per foot or 1/16 inch per inch.
+Since the O.D. is measured from the midpoint, confusion may arise when selecting the correct size fitting. An NPT fitting labeled as 1/8” has an actual outer diameter of 3/8”. So be careful when selecting NPT fittings, as you may end up using a fitting that’s too loose. The chart below summarizes the dimensions of some commonly used sizes. Note that some NPT fitting sizes have the same TPI; hence they can be used on each other on account of the taper. 
+
+#
+ADVANTAGES OF USING NPT THREAD FITTINGS
+Given that the standard has been around for a while, it has a set of advantages when being used. It is readily available in vendor inventories, with multiple sizes and materials to choose from. This allows you to use them for many applications at varying pressures. Moreover, they can be assembled in a simple manner as the metal-to-metal contact offers an excellent seal.
+DISADVANTAGES OF USING NPT THREAD FITTINGS
+The metal-to-metal contact in NPT fittings relies on the deformation of the threads to form a secure seal. This, however, means that one cannot use them in applications that require frequent disassembly.
+If used improperly, that is, without correct alignment, overtightening, or wrong sizing, ports may expand, and cracks may form on the threads. This, in turn, leads to the formation of leakage pathways from where the medium can leak out. It is for this reason that NPT fittings are not recommended for extremely high-pressure applications.
+</Text>
+        </Document>
         <Document ID="32FD10E8-72E6-44EF-AD5A-293C3E63BF54">
             <Title>AC Single phase Power</Title>
             <Text>TBD</Text>
@@ -30233,6 +31134,12 @@ There are three main variations of check valves: swing checks, lift checks, and 
 The furnace is the space inside the boiler where combustion occurs. Heat loss from the boiler is prevented by enclosing the furnace with a thermal insulating material known as &lt;em&gt;refractory&lt;/em&gt;. The furnace is lined with three layers of refractory materials which work together to insulate the boiler. From inside to outside, the layers of refractory are: 
 </Text>
         </Document>
+        <Document ID="E4574738-6D29-458F-87E2-14A4C865DFDD">
+            <Title>Introduction</Title>
+            <Text>Piping  is an assembly of pipe or tubing, valves, fittings, and related components forming a whole or a part of a system for transferring fluids (which includes both liquids and gases) from one location to another.
+This chapter deals with the components that make up these systems. 
+</Text>
+        </Document>
         <Document ID="517D09A8-ED7C-4889-B3D7-B06CDCD8190C">
             <Text>&lt;/ul&gt;&lt;/p&gt;</Text>
         </Document>
@@ -30321,6 +31228,57 @@ Before using a respirator you should be thoroughly trained in its use. Some of t
 &lt;/image&gt;
 &lt;/figure&gt;
 
+</Text>
+        </Document>
+        <Document ID="F1C8D3AA-1A32-493D-ACB6-8C5C7A2DEA27">
+            <Title>Pipes vs. Tubes – What is the Difference?</Title>
+            <Text>However, it is to note that there is a difference and it is based primarily on the rules of nomenclature of the pipes and the tubes.
+In the following points we endeavor to clarify the issue:
+* Pipe is rigid and resistant to bending whereas some tubes such as copper tubes and brass tubes can be flexible. However, in structural projects tubes are rigid.
+* Pipes are classified by schedule and nominal diameter. For example, a 250mm nominal diameter and schedule 80 pipe.
+* Tubes are classified by outside diameter and thickness. For example, 10mm copper tube 2 mm thickness.
+* In pipes, all the fittings can be matched by nominal size and schedule. For example a schedule 40 one inch pipe will have fittings specified by the same name. These pipe fittings would not fit a 1” tube.
+* Pipe is always round or cylindrical. Tubes may be square, rectangular and cylindrical.
+* Pipes generally start from 1⁄2 inch to very large sizes. However, tubes are generally of smaller diameter only. We use a 10 inch pipe but not 10 inch tube.
+* Tubes are used in applications where the outside diameter must be precise, like in cooler tubes, heat exchanger tubes, boiler tubes etc.
+* Pipes are generally used to carry fluids and must contain them. They also have pressure rating and hence are scheduled.
+* In tubes the thickness increases in standard steps like 1 mm thick, 2 mm thick etc. In pipes however the thickness depends on the schedule of the pipe and there is no fixed step.
+* Pipe joining is more time consuming . For e.g. welding, threading, flanges with bolts etc. The tubes joining are faster using flaring, brazing, couplings etc.
+* Tube dimensions are actual dimensions. Whereas the pipe dimensions are only nominal. That means that a 1” tube will have actually OD as 1”. The pipes on the other hand are named nominally, which means only for name. The 1” schedule 40 Nominal size pipe has an ID of 1.049”, OD of 1.32” and a wall thickness of 0.133”.
+* Tube fittings are compression fittings such as ferrule and union nut, flared fittings, biting fittings, mechanical grip type fittings. The pipe fittings on the other hand are pipe to pipe butt welding, threaded pipe fitting connectors, flange to flange bolted fittings etc.
+
+MEASUREMENT AND ORDERING
+Stainless tubing is generally used for applications where structural support is required. This can include roll cages in cars, making monkey bars for your playground, or fabricating the support structure of a rig for hoisting. These applications require precise dimensions for the outer diameter (OD) of the tubing so that each part of the fabricated structure fits correctly. The wall thickness (WT) depends on the strength of the structure required so it doesn't bend or break when forces are exerted upon it.
+On the other hand, piping is required to carry fluids throughout a process, such as those in chemical and petroleum processing plants. Here the internal diameter (ID) is more important as it specifies the fluid carrying capacity of the vessel and the flow rate, crucial to pipe sizing calculations for projects. The OD for pipes comes in standard sizes called the nominal pipe size (NPS). Additionally, the wall thickness is specified by the schedule of the pipe, important for determining the pressure rating of the pipe. The outer diameter and wall thickness enable you to calculate the internal diameter and order appropriately sized pipes with a certain strength. 
+
+
+Pipes and tubes are both cylindrical hollow structures used for the transportation of fluids, gases, or solids, but they have distinct differences in terms of their design, manufacturing, and applications. Here are the key differences between pipes and tubes:
+
+1. **Shape and Dimensions:**
+   - **Pipe:** Pipes are generally round and have standardized outer diameters. They are sized based on the Nominal Pipe Size (NPS) or Nominal Diameter (DN), which corresponds to the approximate inside diameter (ID) of the pipe.
+   - **Tube:** Tubes can have various shapes, including round, square, rectangular, or oval. They are typically sized based on their outside diameter (OD) and wall thickness.
+
+2. **Manufacturing Process:**
+   - **Pipe:** Pipes are manufactured using two methods: seamless and welded. Seamless pipes are produced without a seam, while welded pipes are made by welding together flat sheets of metal.
+   - **Tube:** Tubes are commonly manufactured using one of three processes: seamless, welded, or drawn-over-mandrel (DOM). Seamless tubes are produced without a seam, welded tubes are made by welding together strips of metal, and DOM tubes are drawn through a die to achieve precise dimensions.
+
+3. **Tolerances and Precision:**
+   - **Pipe:** Pipes have more lenient tolerances, especially for wall thickness. They may have variations in wall thickness along their length.
+   - **Tube:** Tubes are manufactured with tighter tolerances, resulting in more precise dimensions and wall thickness consistency.
+
+4. **Applications:**
+   - **Pipe:** Pipes are typically used for conveying fluids and gases in various industrial, commercial, and residential applications, including plumbing, oil and gas pipelines, and water distribution systems.
+   - **Tube:** Tubes are used in a wider range of applications beyond fluid transport. They are often chosen for structural applications, such as in automotive frames, aircraft structures, and bicycle frames, as well as in heat exchangers and instrumentation.
+
+5. **Strength and Rigidity:**
+   - **Pipe:** Pipes are generally designed to handle higher internal pressures and external loads due to their thicker walls and standardized sizes. They are rigid and well-suited for applications requiring structural integrity.
+   - **Tube:** Tubes may have thinner walls, making them lighter but less capable of handling high internal pressures. They are often chosen for applications where weight is a consideration.
+
+6. **Cost:**
+   - **Pipe:** Pipes are often more cost-effective for fluid transport applications because of their standardized sizes and manufacturing processes.
+   - **Tube:** Tubes can be more expensive due to their tighter tolerances and versatility.
+
+In summary, while both pipes and tubes are used for transporting materials, pipes are typically used for fluid conveyance with standardized sizes and manufacturing processes, while tubes are more versatile in shape, used in structural applications, and manufactured with greater precision. The choice between pipes and tubes depends on the specific requirements of the application.
 </Text>
         </Document>
         <Document ID="80DBD682-07C7-4010-8D68-E799E9136D48">
@@ -30909,6 +31867,19 @@ The DC Heater serves three important functions in the steam cycle:</Text>
             <Title>Overview of Circuits</Title>
             <Text>TBD</Text>
         </Document>
+        <Document ID="03623C3D-06D6-4ED0-901F-301A26D78F20">
+            <Title>Types of Elbow</Title>
+            <Text>Without elbows, it is impossible to think of a piping system on ship, especially in a limited place of installation. Elbows give flexibility for directing and building the piping system leading to saving of space and material.
+Different types of elbows are used in the piping system of ships as per the space and design of installation.
+ * Male Elbow
+A male elbow is a fitting with male threads on both sides and is used for changing the direction of the piping. They fix on to female threads of the fittings on both sides. They come in various angles like 45 degrees and 90 degrees.
+* Female Elbow
+A female elbow is a pipe fitting that is used to change the direction of the piping and has female threads on both sides, which allow for fixing pipes or fittings with male threads. They come in various angles like 45 degrees and 90 degrees.
+* Street Elbow
+A street elbow is different from the male and female elbows in the respect that it has a male thread on one side and a female thread on other side. The advantage of using the street elbow is that it can directly fix to the pipe without connecting a nipple. They come in various angles like 45 degrees and 90 degrees.
+* Reducing Street Elbow
+A reducing street elbow is a pipe fitting that has male thread on one side and unequal female threads on other side. They are used for altering the direction of flow as well as joining pipes of two different sizes. They come in various angles like 45 degrees and 90 degrees.</Text>
+        </Document>
         <Document ID="8C56EA72-8CA3-48BF-BC4D-0FE97D68743C">
             <Title>Blowing Tubes</Title>
             <Text>Combustion gases leave ash or soot deposits on the tube surfaces which reduce heat transfer to the boiler water. Soot blowers are used to remove this soot from the tube surfaces, either using steam or high pressure compressed air to blow the soot off of the tube surfaces. Tubes are normally blown once or twice a day when at sea, before and after leaving port, and after boiler casualties which cause heavy smoke. 
@@ -31036,6 +32007,48 @@ In this chapter we will define some basic electrical concepts and describe some 
         <Document ID="82C9A66E-F17F-41D5-94DA-606D917485AA">
             <Title>Principles of Thermodynamics</Title>
             <Text>&lt;xi:include href="thermodynamics.ptx"/&gt;</Text>
+        </Document>
+        <Document ID="F5665E97-C7CA-4E80-AA3F-D08607EC45C9">
+            <Title>Pipe Thread</Title>
+            <Text>Pipe thread standards are standardized specifications that define the characteristics of threaded connections used in pipes and pipe fittings. These standards ensure compatibility and interchangeability between different components in piping systems. There are several pipe thread standards used around the world, each with its own characteristics and applications. Here are some of the most common pipe thread standards:
+
+
+1. **NPT (National Pipe Thread):**
+   - NPT is a widely used thread standard in the United States and Canada.
+   - There are two main types: NPT (Tapered) and NPTF (Dryseal).
+   - NPT threads are tapered, which helps create a seal by wedging the threads together as the fittings are tightened.
+   - NPTF threads have modified shapes to improve sealing without the need for thread sealants.
+
+2. **BSPT (British Standard Pipe Thread):**
+   - BSPT is a common thread standard in the United Kingdom and many countries that were part of the British Empire.
+   - BSPT threads are also tapered, like NPT threads.
+   - Common types include BSPT (Tapered) and BSPP (Parallel or Straight).
+
+3. **BSPP (British Standard Pipe Parallel):**
+   - BSPP threads are parallel or straight threads used in conjunction with BSPT threads.
+   - BSPP threads do not create a tight seal without the use of additional sealing methods.
+
+4. **BSPF (British Standard Pipe Fitting):**
+   - BSPF threads are used in specialized fittings and require the use of a sealing washer to create a seal.
+
+5. **Metric Thread Standards:**
+   - ISO 7-1 (BSP) and ISO 228-1 (BSPT) are metric thread standards used in various countries.
+   - These standards are commonly used in Europe and other regions where the metric system is prevalent.
+
+6. **G (German) Thread Standard:**
+   - The DIN 3852-1 standard defines the G thread, which is a parallel thread used in Germany and some other European countries.
+
+7. **JIS (Japanese Industrial Standard) Thread:**
+   - JIS threads are used in Japan and other countries that follow Japanese industrial standards.
+   - These threads are often found in specialized applications and components.
+
+8. **UN/UNF Thread Standards:**
+   - Unified National (UN) and Unified National Fine (UNF) thread standards are widely used in the United States for various applications, including pipes and fittings.
+
+9. **API (American Petroleum Institute) Thread Standards:**
+   - API thread standards, such as API 5B and API 5C, are used specifically in the petroleum industry for oil and gas pipes and equipment.
+
+It's important to choose the correct thread standard for your application to ensure proper fit, sealing, and functionality of the piping system. Mismatched threads can lead to leaks, inefficiencies, and other issues. Always refer to relevant standards and guidelines when selecting and using pipe threads and fittings.</Text>
         </Document>
         <Document ID="B4322451-5A8B-4349-9F67-C0B136B9EFA5">
             <Title>Objectives</Title>
@@ -36429,6 +37442,43 @@ In this chapter we will briefly discuss the construction and operation of a main
 &lt;/blockquote&gt;
 </Text>
         </Document>
+        <Document ID="00784E0C-A73D-4D6D-AA80-5ACC42A488FE">
+            <Title>connections</Title>
+            <Text>Pipes are connected together and to other components using various methodsdepending on the type of pipes being used, the material they're made of, the purpose of the connection, and the conditions they will be subjected to. Here are some common methods of connecting pipes:
+Welded Connections
+Welded connections provides a strong and permanent connection suitable for high-pressure and high-temperature applications.  When properly made, welded connections can last for the lifetime of the ship.
+Flanged Connections
+Flanges are circular discs welded to the ends of a section of pipe, which are are bolted to a matching flanges on an adjacent pipe section.  A gasket between the flanges helps to prevent leakage
+Flanged connections are used for higher-pressure applications and situations where dismantling might be necessary.
+Soldered or Brazed Connections
+This method is often used for connecting copper pipes in plumbing systems. Soldering involves melting a filler material (solder) into the joint, while brazing involves higher temperatures and a different filler material (usually brass).
+Compression Fittings
+Compression fittings consist of a nut and a ferrule that are tightened onto the pipe, compressing the ferrule against the pipe and creating a seal.
+Threaded Connections
+Threads are cut on the ends of pipes, and pipes with matching threads can be screwed together. Teflon tape or thread sealant is often used to prevent leaks.
+Quick Connect or Push-Fit Connections
+Quick connect fittings use push-fit technology, allowing pipes to be pushed into the fitting without the need for tools or soldering.  These are often used in plumbing and water treatment systems.
+Adhesive or Glue Joints
+This method is used for connecting PVC (Polyvinyl Chloride) pipes like those commonly found in home plumbing systems.  PVC pipes are not used in critical ship systems, because the material can fail due to the stresses caused by the motion of the vessel, and will fail in a fire .
+A solvent-based adhesive is applied to the pipe ends, which chemically melts the plastic and creates a strong bond when the pipes are pushed together.  
+
+</Text>
+        </Document>
+        <Document ID="11BDAA4D-A7DC-4C2B-8BF8-A3432F94732F">
+            <Title>pne</Title>
+            <Text>The choice of material used for a piping system depends on factors such as the fluid being transported, temperature and pressure conditions, corrosion considerations, cost, USCG and ABS regulations 
+Here are few of the materials found in shipboard piping systems. 
+Welded carbon steel tubing is used for water, steam, and oil lines where the maximum temperature is below 450° F. There are several varieties of carbon steel and it is relatively cost-effective. 
+Seamless carbon steel tubing is used in oil, steam, and feed water lines operating up to  775° F. 
+Seamless carbon-molybdenum and chromium-molybdenum alloy steel tubing are used for high temperature, high pressure systems, up to 1500 psig and 1050° F for chrome-moly
+Copper-nickel alloy tubing and Seamless brass tubing are both widely used in low pressure systems which must resist the corrosive action of salt water 
+Nickel alloys, such as Monel and Inconel.  These are two families of high-performance alloys known for their exceptional resistance to corrosion, high temperatures, and various harsh environments.  
+Seamless copper tubing is used for refrigeration lines, plumbing and heating systems, lubrication systems, and other shipboard systems. 
+Seamless aluminum tubing is used for dry lines in sprinkling systems and for some bilge and sanitary drain systems.
+Stainless steel tubing has excellent strength and corrosion resistance. It is often used in hydraulic systems.
+Black iron pipe is an informal name for a mild-steel pipe that is used with threaded fittings for easy assembly of low pressure piping systems.  It is susceptible to galvanic corrosion, especially when it comes in contact with other materials in a salt water environment.  
+</Text>
+        </Document>
         <Document ID="231682CA-C328-4C7D-AB7B-4D83C4613121">
             <Title>Pipe</Title>
             <Text>TBD</Text>
@@ -36557,6 +37607,19 @@ When a rotary pump is operating at a constant speed, the amount of liquid delive
 There are dozens of designs for the rotors of rotary pumps. Gears may be used as in &lt;xref ref="gear_pump_png"/&gt;, but with almost any number of teeth, and in a variety of forms; elements that look like gears may be employed, although one of the pair may not be capable of rotating the other; two, three, or more lobes may be used; screws may be used which carry the liquid through the pump in their hollowed-out channels; sliding or swinging vanes may be used which form a seal with the walls of the chamber because they are pushed from the center of the rotor by mechanical arrangements or are thrown out by centrifugal force; small pistons moving in and out from the center of the rotor may be used to push liquid through the pump; and there are still more varieties. A few representative designs of rotary pumps will be described in the following sections. 
 </Text>
         </Document>
+        <Document ID="4F9D59B3-5692-49FD-83EC-07C4A8BF2192">
+            <Title>Miscellaneous Fittings</Title>
+            <Text>* Reducing Coupling
+A reducer coupling is a coupling with two different sizes of threads on each side.
+They can also be plain reducer coupling and hexagonal reducer coupling. They are used to connect two different sizes of pipes or fittings and sometimes also for flow control.
+* Reducing Bushing
+A reducing bushing is a pipe fitting with both male and female threads that joins two pipes of different diameters.
+* Pipe Cap
+A pipe cap is a fitting that seals the end of the pipe. It is like a plug but it has female threads and screws on the male threads on the end of a pipe or adapter
+* Pipe Plug
+A pipe plug is a fitting to close or seal the end of a pipe. A plug has male threads and screws on to the female threads on a fitting.
+ </Text>
+        </Document>
         <Document ID="7BF501A8-3921-42FE-8873-3D8DC5DEB96C">
             <Title>Three-phase generator</Title>
             <Text>To generate three-phase power, the stator is fitted with three armature windings arranged symmetrically, 120 degrees apart from each other.   The three windings are connected together with the common point designated neutral.
@@ -36614,6 +37677,30 @@ As the rotor rotates, the rotating magnetic field induces voltages into each sta
    &lt;/choice&gt;
 &lt;/choices&gt;
 </Text>
+        </Document>
+        <Document ID="6B8B0581-A8FA-4705-B576-49C7A2C5AD24">
+            <Title>Materials</Title>
+            <Text>Several types of metals are commonly used for pipes on ships due to their specific properties and suitability for marine environments. The choice of metal depends on factors such as corrosion resistance, strength, cost, and the type of fluid or gas being transported. Here are some of the metals frequently used for pipes on ships:
+
+1. **Carbon Steel:** Carbon steel pipes are widely used in shipbuilding due to their strength and cost-effectiveness. They are suitable for conveying various fluids and gases. However, carbon steel is susceptible to corrosion in marine environments, so protective coatings or regular maintenance might be necessary.
+
+2. **Stainless Steel:** Stainless steel is a popular choice for ship pipes because of its excellent corrosion resistance. Different grades of stainless steel are used depending on the level of corrosion resistance required and the specific fluids being transported. Types like 316 and 316L are commonly used in marine applications.
+
+3. **Copper:** Copper pipes are often used in ship plumbing systems for carrying freshwater and certain chemicals. Copper has good corrosion resistance and is especially effective against biofouling, making it suitable for potable water systems.
+
+4. **Nickel Alloys:** Nickel alloys, such as Monel and Inconel, are used in ship systems where resistance to high temperatures, corrosion, and stress is required. These alloys are often used in systems that handle harsh chemicals or high-temperature fluids.
+
+5. **Aluminum:** Aluminum pipes are lightweight and corrosion-resistant, making them ideal for applications where weight reduction is crucial, such as in air conditioning and ventilation systems.
+
+6. **Titanium:** Titanium pipes are highly corrosion-resistant and lightweight, making them suitable for seawater cooling systems and other applications where corrosion is a concern. However, titanium is more expensive than many other materials.
+
+7. **Brass:** Brass pipes are used in certain ship systems due to their corrosion resistance, especially in areas where saltwater exposure is frequent. They are commonly used in small-scale plumbing and valve systems.
+
+8. **Duplex Stainless Steel:** Duplex stainless steels combine the benefits of austenitic and ferritic stainless steels, offering high strength and excellent corrosion resistance. They are used in applications requiring both strength and resistance to aggressive marine environments.
+
+9. **Galvanized Steel:** Galvanized steel pipes are coated with a layer of zinc, providing moderate corrosion resistance. They are used in systems that are exposed to moisture and water, such as ballast systems.
+
+The choice of metal for pipes on ships depends on the specific needs of each application, regulatory requirements, and the balance between performance and cost. In critical systems, where corrosion resistance and reliability are paramount, higher-grade materials like stainless steel and nickel alloys are often preferred.</Text>
         </Document>
         <Document ID="BA0DCC9C-FB8C-4014-AD8D-861B079A7C95">
             <Title>Foot Protection</Title>
@@ -37296,6 +38383,7 @@ A\  is the cross-sectional area of the conductor, in square meters.
 </Text>
         </Document>
         <Document ID="5EABE4CB-54D4-466E-8B88-7F73F2C359E8">
+            <Title>Fuel oil Systems</Title>
             <Text>TBD</Text>
         </Document>
         <Document ID="759750A9-2A37-4BA3-8494-E4E627A18D82">
@@ -37387,8 +38475,37 @@ Improving efficiency is a major concern of mechanical and marine engineers. High
 </Text>
         </Document>
         <Document ID="C4E520B3-DF55-4D5F-8BB6-E9BB2B9FFD3A">
-            <Title>Process and Instrument Diagrams</Title>
-            <Text>TBD</Text>
+            <Title>Piping and Instrumentation Diagrams</Title>
+            <Text>
+A  P&amp;amp;ID, which stands for "Piping and Instrumentation Diagram," is a detailed schematic diagram that represents a process system using graphical symbols to show the piping, equipment, instrumentation, and control devices involved.  P&amp;amp;IDs are commonly used in various industries, including chemical processing, petrochemical, pharmaceutical, power generation, and many others. They serve several important purposes:
+
+1. **Process Visualization:**  P&amp;amp;IDs provide a visual representation of a complex process system, making it easier for engineers, operators, and other stakeholders to understand the system's components and how they interact.
+
+2. **Design and Engineering:**  P&amp;amp;IDs are essential during the design and engineering phases of a project. Engineers use them to plan and design process systems, including the layout of pipes, equipment, and instrumentation.
+
+3. **Communication:**  P&amp;amp;IDs act as a universal language in engineering. They help facilitate communication among different teams, such as engineers, designers, operators, and maintenance personnel, by providing a clear and standardized way to discuss and document the process.
+
+4. **Safety:**  P&amp;amp;IDs play a critical role in ensuring safety. They show safety devices, relief valves, and emergency shutdown systems, helping to identify potential hazards and safety measures.
+
+5. **Maintenance and Troubleshooting:** During operation,  P&amp;amp;IDs are valuable for maintenance and troubleshooting. They enable personnel to identify components, valves, instruments, and their locations quickly.
+
+Typically,  P&amp;amp;IDs include various elements:
+
+- **Pipes and Lines:** Piping and conduit lines are represented by lines with specific line types (e.g., solid lines for process lines, dashed lines for utility lines).
+
+- **Equipment:** Equipment such as pumps, compressors, tanks, heat exchangers, and reactors are depicted using standardized symbols.
+
+- **Instruments:** Instruments such as sensors, controllers, and recorders are represented by symbols that indicate their function and type.
+
+- **Valves and Control Valves:** Different types of valves and control valves are shown with symbols that indicate their operation and control functions.
+
+- **Control Loops:** These are used to represent the control systems and feedback loops within the process.
+
+- **Safety Devices:** Safety features like relief valves, pressure safety valves, and emergency shutdown systems are depicted.
+
+- **Annotations and Labels:**  P&amp;amp;IDs include labels, tags, and annotations that provide additional information, such as equipment names, pipe sizes, flow rates, and other relevant data.
+
+Creating and reading  P&amp;amp;IDs is a specialized skill, and professionals known as process engineers or piping and instrumentation designers are typically responsible for their creation and interpretation.  P&amp;amp;IDs are crucial documents for ensuring the safe and efficient operation of complex industrial processes and systems.</Text>
         </Document>
         <Document ID="75600E6C-53C8-4010-AD1C-5F45B97C281B">
             <Title>Internal Gear Pumps</Title>
@@ -37405,6 +38522,18 @@ The direction of flow through this type of pump can be reversed by rotating the 
             <Title>Introduction</Title>
             <Text>In any workplace, including aboard a ship, exposure to safety hazards is inevitable due to the nature of the work environment. These hazards can have serious repercussions such as injuries, operational disruptions, equipment damage, financial loss, environmental harm, and even loss of life. 
 Identifying, addressing, and avoiding hazards is crucial to maintaining a safe working environment, protecting yourself and others. In this section we describe some common workplace hazards which you should be aware of.</Text>
+        </Document>
+        <Document ID="16C3B8F5-4446-42A0-9A06-5B26C34E97EF">
+            <Title>Types of Adapters</Title>
+            <Text>Pipe adapters are fittings that have to adapt to changes and are therefore used for joining different types of pipes such as a pipe to a hose. Adapters are used to extend or terminate the piping. They are also used to connect dissimilar pipes.
+There are male to female adapters, parallel to taper thread adapters, and pipe to hose adapters etc. Pipe adapters have a male or female thread on one side and an opposite gender thread on the other side.
+* Gauge Adapter
+A gauge adapter is used for fitting pressure gauges and instrumentation fittings. They are used for the fitting of pressure measuring instrument such as pressure gauges, gauge cocks, shut off valves etc. The different types of gauge adapters are male – female adapters, female – female adapters, male – male adapters, self sealing nipples, LH-RH unions, union nut with nipple, compression fitting with ferrule, swivel adapters etc.
+* Reducing Adapter
+A reducing adapter is used for joining a pipe to a hose or tube as well as to help in flow control.
+In doing so it controls the pressure acting on the hose at the end. It is used in applications where a copper tube is joined to the main steam pipe for trace heating. These are the main types of pipe fittings. However, there are many more types. In the next article we shall continue discussing about various pipe fittings.
+ * Hose Adapter
+A hose adapter is used where a hose is connected to a pipe. It may be the termination of the piping like a garden hose at the end or a high rating hydraulic hose used to give flexibility and movability to the system</Text>
         </Document>
         <Document ID="5F4508E8-2D47-49B5-81BE-4B297E930FF6">
             <Title>Conductors</Title>
@@ -41743,15 +42872,22 @@ In this chapter we will define some basic electrical terms and describe some imp
 The boiler is equipped with three safety valves, similar to the one shown in &lt;xref ref="register_png"/&gt; Two are located on the steam drum, and one on the superheater outlet pipe. The safety valve outlets are connected to the &lt;em&gt;sky pipe&lt;/em&gt; which discharges outside the engine room up the smokestack. The safety valves are set to open if the boiler pressure becomes too high. The superheater safety valve is adjusted to the lowest opening pressure, so it will open first, followed by the two drum safeties. It is important that the superheater safety valve opens first, because if the drum safety valve opened first, there would be a disruption of the flow of steam through the superheater, which would cause it to overheat. 
 </Text>
         </Document>
+        <Document ID="60F720BA-18C5-4F60-BE5A-431145DDEBA9">
+            <Title>Ball Valves</Title>
+            <Text>&lt;figure xml:id="ball_valve_png"&gt;
+   &lt;caption&gt;Ball Valve&lt;/caption&gt;
+   &lt;image source="pics/valves/ball_valve.png" width="50%"/&gt;
+&lt;/figure&gt;
+A ball valve, &lt;xref ref="ball_valve_png"/&gt;, is similar to a plug valve except that a   spherical rather than cylindrical plug is used. The ball has a hole or port bored   through it and is made tight to the two openings in the body by plastic or synthetic   rubber seat seal rings. These plastic or synthetic seat rings limit most ball valves to   fluid temperatures of 350° or less. When the ball is rotated to the closed position, the   fluid pressure pushes the ball tightly against the outlet seat ring insuring tight   closure. 
+Ball valves are compact, self-sealing, non-sticking, require little effort to rotate   the valve stem and they provide smooth fluid flow. Since the port in the ball is   normally the same I.D. as the piping, the ball valve offers little resistance to flow   and low pressure drop. 
+</Text>
+        </Document>
         <Document ID="139B499D-205C-433F-A6AA-A079228AD44B">
             <Title>Unit Conversions</Title>
             <Text>Frequently, engineers need to find length equivalents between different systems of measurement. For example, in the construction of a ship there may be different contractors, some of whom use US standard measurement and others who use metric. Since the agreed upon system is metric, conversions are required to standardize all measurements.
 Conversion of units is the process to convert between different units of measurement for the same quantity, typically through multiplicative conversion factors which change the measured quantity value without changing its effects. Unit conversion is often easier within the metric or the SI than in others, due to the regular 10-base in all units and the prefixes that increase or decrease by 3 powers of 10 at a time.
 The unit-factor method or the unity bracket method is a widely used technique for unit conversions using the rules of algebra. 
 The factor-label method is the sequential application of conversion factors expressed as fractions and arranged so that any dimensional unit appearing in both the numerator and denominator of any of the fractions can be cancelled out until only the desired set of dimensional units is obtained. For example, 10 miles per hour (mi/hr or mph) can be converted to meters per second (m/s) by using a sequence of conversion factors as shown below:</Text>
-        </Document>
-        <Document ID="987DD2D6-15FF-4F29-821C-001089999C76">
-            <Title>Length Measuring Instruments</Title>
         </Document>
         <Document ID="13459284-A416-45AB-A308-F267C2C78B12">
             <Title>Feed Valves</Title>

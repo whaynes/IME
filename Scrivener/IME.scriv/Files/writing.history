@@ -41,5 +41,8 @@
     <Day dwc="59" dcc="-248" dtwc="5635" owc="0" occ="0" dtcc="32893">2023-08-26</Day>
     <Day dwc="-180" dcc="-616" dtwc="62164" owc="0" occ="0" dtcc="397370">2023-08-27</Day>
     <Day dwc="527" dcc="4102" dtwc="62691" owc="0" occ="0" dtcc="401472">2023-08-30</Day>
-    <Day dwc="-151" dcc="-1117" owc="0" occ="0">2023-08-31</Day>
+    <Day dwc="-151" dcc="-1117" dtwc="62540" owc="0" occ="0" dtcc="400355">2023-08-31</Day>
+    <Day dwc="68" dcc="445" owc="0" occ="0">2023-09-02</Day>
+    <Day dwc="3121" dcc="19234" dtwc="70333" owc="0" occ="0" dtcc="449257">2023-09-03</Day>
+    <Day dwc="1644" dcc="13503" dtwc="19551" owc="0" occ="0" dtcc="121292">2023-09-04</Day>
 </WritingHistory>
