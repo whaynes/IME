@@ -2,7 +2,7 @@
 <CompileSettings>
     <ProjectSettings>
         <Content Scope="Included" TreatAsComplete="Yes" IncludeGroupText="Yes">
-            <CompileGroup Type="BinderItem">E93166CF-D418-46C0-9E00-9B0F52CBE589</CompileGroup>
+            <CompileGroup Type="BinderItem">FEF72D55-55BA-4DC5-B68E-E934BDBE09B7</CompileGroup>
             <Filter State="Off" Exclude="No" Type="Label">
                 <CollectionID>2655DDF6-4AB8-42CB-A433-1CD76FC351D2</CollectionID>
                 <Label>-1</Label>
@@ -235,7 +235,7 @@
         <Print>ms-non-fiction-times</Print>
         <rtf>manuscript-courier</rtf>
         <epub3>e-book</epub3>
-        <txt>A3AAA52A-1166-4FF7-8952-3742980C806D</txt>
+        <txt>plain-txt-ms</txt>
         <rtfd>4F6361BD-390C-4858-BD6E-07169B96C632</rtfd>
         <epub2>e-book-legacy</epub2>
         <docx>DEFAULT</docx>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="9CEE092B-52A4-40FD-A463-60A47C53A797" Version="2.0" Creator="SCRMAC-3.3.1-15588" Device="whaynes-MBP" Author="" Modified="2023-09-10 22:53:44 -0400" ModID="9517F17B-8AE2-4909-8359-22D219BE6344">
+<ScrivenerProject Identifier="9CEE092B-52A4-40FD-A463-60A47C53A797" Version="2.0" Creator="SCRMAC-3.3.1-15588" Device="whaynes-fireball-2" Author="" Modified="2023-09-11 12:29:35 -0400" ModID="69658D1F-E81C-4239-8BCD-0FA457431DA6">
     <Binder>
         <BinderItem UUID="7A583553-3A84-40D6-B9B9-0430B8CD3E39" Type="DraftFolder" Created="2023-05-29 09:45:48 -0400" Modified="2023-05-29 09:45:48 -0400">
             <Title>Draft</Title>
@@ -3290,54 +3290,26 @@
                                                 <TextSelection>835,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="0675DD9F-DE70-48FE-8589-6980F6ECECA8" Type="Folder" Created="2023-09-10 10:38:05 -0400" Modified="2023-09-10 10:43:09 -0400">
+                                        <BinderItem UUID="F69E24DD-3101-49CA-B8FD-B1EE085682BF" Type="Text" Created="2023-09-11 10:47:40 -0400" Modified="2023-09-11 10:48:52 -0400">
+                                            <Title>Caps and Plugs</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>9,5</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="496211BF-4C84-48E1-8916-D05C55A7B976" Type="Text" Created="2023-09-11 10:53:07 -0400" Modified="2023-09-11 11:06:27 -0400">
                                             <Title>Tee Fittings</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
                                             <TextSettings>
-                                                <TextSelection>0,0</TextSelection>
-                                            </TextSettings>
-                                            <Children>
-                                                <BinderItem UUID="6327EC84-5CA1-4FE4-B983-3F2A329C4D74" Type="Text" Created="2023-08-31 16:32:30 -0400" Modified="2023-09-04 10:06:43 -0400">
-                                                    <Title>Types of Tee</Title>
-                                                    <TextSettings>
-                                                        <TextSelection>1376,0</TextSelection>
-                                                    </TextSettings>
-                                                </BinderItem>
-                                                <BinderItem UUID="3EC15E09-FA14-4C90-94B4-43F9C98877CE" Type="Folder" Created="2023-09-10 10:38:28 -0400" Modified="2023-09-10 10:43:09 -0400">
-                                                    <Title>Cross Fittings</Title>
-                                                    <TextSettings>
-                                                        <TextSelection>0,0</TextSelection>
-                                                    </TextSettings>
-                                                </BinderItem>
-                                            </Children>
-                                        </BinderItem>
-                                        <BinderItem UUID="7DDC4A81-1688-448B-B569-94BE0B4D7B1E" Type="Folder" Created="2023-09-10 10:38:08 -0400" Modified="2023-09-10 10:43:09 -0400">
-                                            <Title>Reducer Fittings</Title>
-                                            <TextSettings>
-                                                <TextSelection>0,0</TextSelection>
-                                            </TextSettings>
-                                            <Children>
-                                                <BinderItem UUID="16C3B8F5-4446-42A0-9A06-5B26C34E97EF" Type="Text" Created="2023-08-31 16:32:25 -0400" Modified="2023-09-04 10:06:43 -0400">
-                                                    <Title>Types of Adapters</Title>
-                                                    <TextSettings>
-                                                        <TextSelection>1571,0</TextSelection>
-                                                    </TextSettings>
-                                                </BinderItem>
-                                                <BinderItem UUID="4F9D59B3-5692-49FD-83EC-07C4A8BF2192" Type="Text" Created="2023-08-31 16:32:35 -0400" Modified="2023-09-10 11:16:03 -0400">
-                                                    <Title>Miscellaneous Fittings</Title>
-                                                    <TextSettings>
-                                                        <TextSelection>412,0</TextSelection>
-                                                    </TextSettings>
-                                                </BinderItem>
-                                            </Children>
-                                        </BinderItem>
-                                        <BinderItem UUID="0B1EF3EE-FF7A-4AA2-81DA-52D0E78373BA" Type="Folder" Created="2023-09-10 10:38:12 -0400" Modified="2023-09-10 10:43:09 -0400">
-                                            <Title>Coupling Fittings</Title>
-                                            <TextSettings>
-                                                <TextSelection>0,0</TextSelection>
+                                                <TextSelection>347,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="D8F1912C-EF3E-43C3-BE51-550287C5DCD4" Type="Folder" Created="2023-09-10 10:38:14 -0400" Modified="2023-09-10 10:43:09 -0400">
-                                            <Title>Union Fittings</Title>
+                                        <BinderItem UUID="D8F1912C-EF3E-43C3-BE51-550287C5DCD4" Type="Folder" Created="2023-09-10 10:38:14 -0400" Modified="2023-09-11 12:22:51 -0400">
+                                            <Title>Union fittings</Title>
                                             <TextSettings>
                                                 <TextSelection>0,0</TextSelection>
                                             </TextSettings>
@@ -3350,30 +3322,13 @@
                                                 </BinderItem>
                                             </Children>
                                         </BinderItem>
-                                        <BinderItem UUID="D82638E1-5FC4-4F73-BC0C-2F1892A2EBCE" Type="Folder" Created="2023-09-10 10:38:32 -0400" Modified="2023-09-10 10:43:09 -0400">
-                                            <Title>Cap Fittings</Title>
+                                        <BinderItem UUID="86A1B309-915D-4A4F-A20B-2284C38228C9" Type="Text" Created="2023-09-11 11:08:51 -0400" Modified="2023-09-11 12:10:38 -0400">
+                                            <Title>Adapter fittings</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
                                             <TextSettings>
-                                                <TextSelection>15,0</TextSelection>
-                                            </TextSettings>
-                                            <Children>
-                                                <BinderItem UUID="9957E16B-B77C-474E-A6D9-BEA4D80D6099" Type="Text" Created="2023-09-10 11:16:01 -0400" Modified="2023-09-10 11:16:10 -0400">
-                                                    <Title>caps and plugs</Title>
-                                                    <TextSettings>
-                                                        <TextSelection>0,0</TextSelection>
-                                                    </TextSettings>
-                                                </BinderItem>
-                                            </Children>
-                                        </BinderItem>
-                                        <BinderItem UUID="1A10852B-CF4D-4E94-AEA9-3A04704B4A1B" Type="Folder" Created="2023-09-10 10:38:36 -0400" Modified="2023-09-10 10:43:09 -0400">
-                                            <Title>Nipple Fittings</Title>
-                                            <TextSettings>
-                                                <TextSelection>0,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                        <BinderItem UUID="3B817287-3048-47FB-8395-4F566AA887AE" Type="Folder" Created="2023-09-10 10:48:21 -0400" Modified="2023-09-10 10:48:26 -0400">
-                                            <Title>EXPANSION JOINTS</Title>
-                                            <TextSettings>
-                                                <TextSelection>0,0</TextSelection>
+                                                <TextSelection>100,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                     </Children>
@@ -7824,6 +7779,81 @@
                         <TextSelection>0,207</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem UUID="D82638E1-5FC4-4F73-BC0C-2F1892A2EBCE" Type="Folder" Created="2023-09-10 10:38:32 -0400" Modified="2023-09-10 10:43:09 -0400">
+                    <Title>Cap Fittings</Title>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="9957E16B-B77C-474E-A6D9-BEA4D80D6099" Type="Text" Created="2023-09-10 11:16:01 -0400" Modified="2023-09-11 10:47:28 -0400">
+                            <Title>caps and plugs</Title>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="1A10852B-CF4D-4E94-AEA9-3A04704B4A1B" Type="Folder" Created="2023-09-10 10:38:36 -0400" Modified="2023-09-10 10:43:09 -0400">
+                    <Title>Nipple Fittings</Title>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="0675DD9F-DE70-48FE-8589-6980F6ECECA8" Type="Folder" Created="2023-09-10 10:38:05 -0400" Modified="2023-09-10 10:43:09 -0400">
+                    <Title>Tee Fittings</Title>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="6327EC84-5CA1-4FE4-B983-3F2A329C4D74" Type="Text" Created="2023-08-31 16:32:30 -0400" Modified="2023-09-11 10:53:05 -0400">
+                            <Title>Types of Tee</Title>
+                            <TextSettings>
+                                <TextSelection>843,28</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="3EC15E09-FA14-4C90-94B4-43F9C98877CE" Type="Folder" Created="2023-09-10 10:38:28 -0400" Modified="2023-09-10 10:43:09 -0400">
+                            <Title>Cross Fittings</Title>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="0B1EF3EE-FF7A-4AA2-81DA-52D0E78373BA" Type="Folder" Created="2023-09-10 10:38:12 -0400" Modified="2023-09-10 10:43:09 -0400">
+                    <Title>Coupling Fittings</Title>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="3B817287-3048-47FB-8395-4F566AA887AE" Type="Folder" Created="2023-09-10 10:48:21 -0400" Modified="2023-09-11 10:51:27 -0400">
+                    <Title>EXPANSION JOINTS</Title>
+                    <TextSettings>
+                        <TextSelection>472,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="7DDC4A81-1688-448B-B569-94BE0B4D7B1E" Type="Folder" Created="2023-09-10 10:38:08 -0400" Modified="2023-09-11 11:58:55 -0400">
+                    <Title>Adapter fittings</Title>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="16C3B8F5-4446-42A0-9A06-5B26C34E97EF" Type="Text" Created="2023-08-31 16:32:25 -0400" Modified="2023-09-11 10:52:41 -0400">
+                            <Title>Types of Adapters</Title>
+                            <TextSettings>
+                                <TextSelection>279,165</TextSelection>
+                            </TextSettings>
+                            <Bookmarks>
+                                <Bookmark BinderUUID="86A1B309-915D-4A4F-A20B-2284C38228C9"/>
+                            </Bookmarks>
+                        </BinderItem>
+                        <BinderItem UUID="4F9D59B3-5692-49FD-83EC-07C4A8BF2192" Type="Text" Created="2023-08-31 16:32:35 -0400" Modified="2023-09-10 11:16:03 -0400">
+                            <Title>Miscellaneous Fittings</Title>
+                            <TextSettings>
+                                <TextSelection>412,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
             </Children>
         </BinderItem>
     </Binder>
@@ -7917,14 +7947,14 @@
     </CustomMetaDataSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 08:24:39 -0400" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2023-09-11 01:00:00 -0400" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="1993" Characters="12534" Date="2023-09-10 16:24:27 -0400"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2023-09-12 01:00:00 -0400" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="165" Characters="1006" Date="2023-09-11 12:28:53 -0400"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2023-09-10 00:00:00 -0400">
-        <DraftWordCount>1993</DraftWordCount>
-        <DraftCharCount>12528</DraftCharCount>
-        <OtherWordCount>0</OtherWordCount>
-        <OtherCharCount>0</OtherCharCount>
+    <RecentWritingHistory Date="2023-09-11 00:00:00 -0400">
+        <DraftWordCount>165</DraftWordCount>
+        <DraftCharCount>1006</DraftCharCount>
+        <OtherWordCount>770</OtherWordCount>
+        <OtherCharCount>4607</OtherCharCount>
     </RecentWritingHistory>
-    <PrintSettings PaperSize="611.999972,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
+    <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>

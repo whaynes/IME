@@ -4258,8 +4258,6 @@ The feed pump is usually a turbine driven centrifugal pump, and the discharge pr
         </Document>
         <Document ID="72618669-6F5E-436C-BFD8-44D905BCED0B">
             <Title>Threaded Pipe Fittings</Title>
-            <Text>
-</Text>
         </Document>
         <Document ID="01CD0ECF-0FD0-4452-BEBA-C4A412EB148C">
             <Title>Overcurrent Protection</Title>
@@ -4998,7 +4996,6 @@ The 3-phase output of the exciter is directed through the hollow drive shaft to 
 </Text>
         </Document>
         <Document ID="7DDC4A81-1688-448B-B569-94BE0B4D7B1E">
-            <Title>Reducer Fittings</Title>
             <Text>Concentric Reducer
 Eccentric Reducer</Text>
         </Document>
@@ -5990,6 +5987,11 @@ Work is required to drive the feed pump, and this energy reduces the net work pr
         <Document ID="87AC8D51-8827-4197-BDE3-A3C25248B66E">
             <Title>Description</Title>
         </Document>
+        <Document ID="496211BF-4C84-48E1-8916-D05C55A7B976">
+            <Title>Tee Fittings</Title>
+            <Text>Tee fittings are used to connect three sections of pipe at right angles, and are often used to make a branch line.  Cross fittings are similar, but connect four pipe sections  
+Standard Tees and Crosses use female threads and all connections are the same size, but unequal (reducing) and street (one male thread) varieties are sometimes available.</Text>
+        </Document>
         <Document ID="E4574738-6D29-458F-87E2-14A4C865DFDD">
             <Title>Introduction</Title>
             <Text>A Piping System  is a network of pipe or tubing, pumps, valves, tanks and other components connected together to form a complete system for transferring, storing, and processing fluids. Piping systems are ubiquitous aboard the ship as well as in residential, industrial, and infrastructure applications.
@@ -6228,6 +6230,8 @@ Applying Ohm’s Law with this resistance gives the current&lt;me&gt; I =  E/R_t
         <Document ID="16C3B8F5-4446-42A0-9A06-5B26C34E97EF">
             <Title>Types of Adapters</Title>
             <Text>Pipe adapters are fittings that have to adapt to changes and are therefore used for joining different types of pipes such as a pipe to a hose. Adapters are used to extend or terminate the piping. They are also used to connect dissimilar pipes.
+There are male to female adapters, parallel to taper thread adapters, pipe to hose adapters etc. Pipe adapters have a male or female thread on one side and an opposite gender thread on the other side.
+Pipe adapters are fittings that have to adapt to changes and are therefore used for joining different types of pipes such as a pipe to a hose. Adapters are used to extend or terminate the piping. They are also used to connect dissimilar pipes.
 There are male to female adapters, parallel to taper thread adapters, and pipe to hose adapters etc. Pipe adapters have a male or female thread on one side and an opposite gender thread on the other side.
 * Gauge Adapter
 A gauge adapter is used for fitting pressure gauges and instrumentation fittings. They are used for the fitting of pressure measuring instrument such as pressure gauges, gauge cocks, shut off valves etc. The different types of gauge adapters are male – female adapters, female – female adapters, male – male adapters, self sealing nipples, LH-RH unions, union nut with nipple, compression fitting with ferrule, swivel adapters etc.
@@ -6482,7 +6486,7 @@ The choice of metal for pipes on ships depends on the specific needs of each app
         </Document>
         <Document ID="3B817287-3048-47FB-8395-4F566AA887AE">
             <Title>EXPANSION JOINTS</Title>
-            <Text>Expansion joints are used in some piping systems to allow the piping to expand and contract with temperature changes, without damage to the piping. Two basic types of expansion joints are used in shipboard piping systems: sliding-type joints and flexing-type joints. Sliding-type expansion joints include sleeve joints, rotary joints, ball and socket joints, and joints made up of some combination of these types. The amount of axial and rotary motion that can be abosrbed by any particular type</Text>
+            <Text>Expansion joints are used in some piping systems to allow the piping to expand and contract with temperature changes, without damage to the piping. Two basic types of expansion joints are used in shipboard piping systems: sliding-type joints and flexing-type joints. Sliding-type expansion joints include sleeve joints, rotary joints, ball and socket joints, and joints made up of some combination of these types. The amount of axial and rotary motion that can be absorbed by any particular type</Text>
         </Document>
         <Document ID="B2790157-F0AE-4874-8784-E8DECE91A3C9">
             <Title>Fire and explosion risks</Title>
@@ -6614,25 +6618,6 @@ Steam temperature can be raised above the saturation temperature by adding addit
 This heating occurs in the superheater, which is a bank of boiler tubes located in the hottest portions of the combustion gas path. Since there is no liquid water in the superheater, all heat added there produces superheat.
 </Text>
         </Document>
-        <Document ID="79080DDA-035D-47A5-AB2C-9E793DC86E7C">
-            <Title>Series Circuit</Title>
-            <Text>In a series circuit, the components are connected in a single path, end-to-end, creating a sequential circuit. If one component fails or is disconnected, the entire circuit is broken, and the flow of current stops.
-
-&lt;figure xml:id="fig_series_resistors"&gt;
-
-&lt;caption&gt;  Three resistors in series  &lt;/caption&gt;
-&lt;image width="60%" source="pics/electricity/series_resistors"&gt;
-&lt;remix&gt;&lt;![CDATA[  Source:  whaynes CC0  ]]&gt;&lt;/remix&gt; &lt;/image&gt;
-&lt;/figure&gt;
-The key characteristics series circuits are: &lt;ul&gt;
-The same current flows through each series component.
-The total resistance is the sum of the individual resistances.
-The voltage drop across each component may be different, but the total voltage drop must equal the supply voltage.
- &lt;/ul&gt;&lt;/p&gt;
-
-
-</Text>
-        </Document>
         <Document ID="7E9BAC87-ED67-4745-8C58-63CA6F3D2CAA">
             <Title>Symbols</Title>
             <Text>&lt;p&gt;
@@ -6651,6 +6636,25 @@ The voltage drop across each component may be different, but the total voltage d
     &lt;image source="pics/electricity/symbols/potentiometer"/&gt;
     &lt;p&gt;Potentiometer    (3 contacts)&lt;/p&gt;
     &lt;/sidebyside&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;</Text>
+        </Document>
+        <Document ID="79080DDA-035D-47A5-AB2C-9E793DC86E7C">
+            <Title>Series Circuit</Title>
+            <Text>In a series circuit, the components are connected in a single path, end-to-end, creating a sequential circuit. If one component fails or is disconnected, the entire circuit is broken, and the flow of current stops.
+
+&lt;figure xml:id="fig_series_resistors"&gt;
+
+&lt;caption&gt;  Three resistors in series  &lt;/caption&gt;
+&lt;image width="60%" source="pics/electricity/series_resistors"&gt;
+&lt;remix&gt;&lt;![CDATA[  Source:  whaynes CC0  ]]&gt;&lt;/remix&gt; &lt;/image&gt;
+&lt;/figure&gt;
+The key characteristics series circuits are: &lt;ul&gt;
+The same current flows through each series component.
+The total resistance is the sum of the individual resistances.
+The voltage drop across each component may be different, but the total voltage drop must equal the supply voltage.
+ &lt;/ul&gt;&lt;/p&gt;
+
+
+</Text>
         </Document>
         <Document ID="BB6D173E-EDA4-4D95-81F0-FC613FB54FB4">
             <Title>Short Circuits</Title>
@@ -6829,8 +6833,6 @@ Once the maintenance or servicing is complete, the person who performed the LOTO
         </Document>
         <Document ID="86E448C7-AB0D-4824-9745-BF3635EA332E">
             <Title>Fundamental Concepts</Title>
-            <Text>
-</Text>
         </Document>
         <Document ID="2DE09976-2549-4D00-AA40-E20AE8F174BC">
             <Title>Electrical Safety</Title>
@@ -7124,6 +7126,11 @@ During Compile, documents assigned the “Front Matter” section type will be l
             <Title>Protective Equipment</Title>
             <Text>The distribution system is fully equipped with monitoring and metering instrumentation to measures electrical parameters like voltage, current, frequency, power factor, and electrical load, and monitors the system for ground faults.  This information helps in managing the electrical system operation and identifying potential issues.
 Each distribution branch is protected by multiple circuit breakers that protect the system from overloads, short circuits, and other faults.  The circuit breakers are coordinated so that when a fault occurs, the  circuit breaker closest to the fault trips, interrupting the flow of current to the fault area while minimizing disruption to the remainder of the system.
+</Text>
+        </Document>
+        <Document ID="86A1B309-915D-4A4F-A20B-2284C38228C9">
+            <Text>Adapter fittings are used to connect components that have different sizes or thread forms together, for example: parallel to taper thread adapters, pipe to hose adapters
+Reducing adapters, as the name suggests are used to connect pipes of different sizes.  A straight reducer has female threads on both ends, while a straight reducing bushing has a one large male thread and a smaller female thread.  Other reducing adapters including reducing elbow and tees are available with different combinations of male and female threads.
 </Text>
         </Document>
         <Document ID="CC80ED86-FE34-476B-9622-6D9F0DA99178">
@@ -13343,6 +13350,21 @@ The propeller shaft is supported by journal bearings which maintain radial align
 &lt;remix&gt;&lt;![CDATA[   Source:  P1206 EMPIRE STATE MACHINERY MANUAL  FIRST DRAFT MAY 2022    ]]&gt;&lt;/remix&gt;
 &lt;/image&gt;
 &lt;/figure&gt;
+</Text>
+        </Document>
+        <Document ID="2BF3937D-5CC2-4289-8DED-D902E7303FF3">
+            <Title>Steam Drum</Title>
+            <Text>The steam drum, &lt;xref ref="steamdrum_png"/&gt;, is a cylindrical steel vessel located near the top of the boiler. It serves two purposes: it is an upper reservoir for the water in the boiler, and it is the point where the steam is separated from the water. The normal steam/water interface is located half way up the steam drum, and visible to the operator through the &lt;em&gt;boiler gage glass&lt;/em&gt;. It is critical that a water level be maintained in the steam drum at all times when the boiler is operating. Without sufficient water in the boiler, the heat of the furnace would melt the boiler tubes and disable the boiler. One of the engineer’s most critical duties is to maintain the water level in the boiler at all times. 
+&lt;figure xml:id="steamdrum_png2"&gt;
+ &lt;caption&gt;Steam Drum Internals&lt;/caption&gt;
+ &lt;image source="pics/boilers/steamdrum.png" width="75%"/&gt;
+&lt;/figure&gt;
+The lower portion of the steam drum, where it is perforated by the boiler tubes is thicker than the upper section, for strength. The lower portion is called the &lt;em&gt;tube sheet&lt;/em&gt;, and the upper portion is called the &lt;em&gt;wrapper sheet&lt;/em&gt;. The ends of the steam drum are known as the &lt;em&gt;heads&lt;/em&gt;, and one of the heads is fitted with a &lt;em&gt;manhole&lt;/em&gt;, to allow access to the inside of the drum for inspection or repair. 
+The top of the steam drum is fitted with an air cock, which is simply a pipe terminated with two valves. When the valves are open, the boiler steam drum pressure can equalize with the atmosphere. The air cock is opened when the boiler is first lit off. As the steam begins to form, it is allowed to blow out the air cock, expelling any air which has collected in the drum. After the steam pressure has built up to 20–30 psi and all air is expelled, the air cock is closed to seal the drum. It remains closed at all times while the boiler is operating, and is not opened again until the boiler is secured. After the fires are extinguished and as the boiler begins to cool down, the air cock must be reopened again at about 50 psi. Otherwise, the condensing steam in the steam drum will create a vacuum there, breaking the seal at the boiler hand-hole gaskets, which are primarily designed to seal against internal, not external, pressure. 
+A &lt;em&gt;steam drum safety valve&lt;/em&gt; is also located on top of the steam drum. This valve is adjusted to open automatically if the steam drum pressure rises too high. This can protect the boiler from exploding, and the noise of the steam flowing through should alert the engineer that something is seriously wrong. If you ever hear a boiler safety valve blowing off steam, your first action as an engineer should be to secure the fires, to prevent additional steam from being generated, until you know what is causing the problem. 
+Inside the steam drum you will find several internal fittings. These fittings help distribute water evenly throughout the drum, separate the generated steam from the water, and remove moisture from the steam before it leaves the boiler. The &lt;em&gt;dry pipe&lt;/em&gt; is a perforated tube located at the top of the steam drum. As steam is formed and rises to the top of the boiler, it enters the dry pipe and from there it is removed from the steam drum. It is important that no moisture enter the dry pipe, because water droplets in the steam would damage the turbines downstream, so modern boilers include &lt;em&gt;cyclone steam separators&lt;/em&gt; which help to remove moisture from the steam by causing it to spin rapidly around a spiral path as it moves upward. The centrifugal force throws the heavier water droplets to the separator walls, where it drains back to the drum. Only dry steam should make it through the separator. A &lt;em&gt;chemical feed pipe&lt;/em&gt; is provided to distribute boiler chemicals throughout the steam drum. Another perforated pipe known as the &lt;em&gt;internal feed pipe&lt;/em&gt; is located below the water level and is used to distribute the incoming feedwater evenly throughout the steam drum. The &lt;em&gt;surface blow pipe&lt;/em&gt; is another perforated pipe located below the water level and connected overboard. Opening the &lt;em&gt;surface blow valve&lt;/em&gt; allows boiler water to discharge over the side. This is done to rid the boiler of contaminants such as suspended solids, oil and excess boiler chemicals, and in emergencies to lower the boiler water level quickly. 
+You may also find a &lt;em&gt;submerged tube desuperheater&lt;/em&gt; in the steam drum. This is a pipe which makes several passes underneath the surface of the water in the steam drum. Superheated steam is passed through this pipe, where it cools down to near its saturation temperature. Internal desuperheaters like this are used for two purposes. Most commonly, they are used to provide desuperheated steam for auxiliary systems which are not designed to operate on high temperature superheated steam. Other desuperheaters are used to reduce and control the temperature of the main superheated steam by blending the hot superheated steam with cooler desuperheated steam; this type is called a &lt;em&gt;control desuperheater.&lt;/em&gt;
+
 </Text>
         </Document>
         <Document ID="444039B3-4E72-4CD4-8334-8F271C46ACAE">
@@ -37043,21 +37065,6 @@ Produced by: WMT Limited, UK Email: manuals@wmtmarine.com
  FIRST DRAFT FOR REFERENCE ONLY - STAFF COMMENTS NOT REQUIRED
   </Text>
         </Document>
-        <Document ID="2BF3937D-5CC2-4289-8DED-D902E7303FF3">
-            <Title>Steam Drum</Title>
-            <Text>The steam drum, &lt;xref ref="steamdrum_png"/&gt;, is a cylindrical steel vessel located near the top of the boiler. It serves two purposes: it is an upper reservoir for the water in the boiler, and it is the point where the steam is separated from the water. The normal steam/water interface is located half way up the steam drum, and visible to the operator through the &lt;em&gt;boiler gage glass&lt;/em&gt;. It is critical that a water level be maintained in the steam drum at all times when the boiler is operating. Without sufficient water in the boiler, the heat of the furnace would melt the boiler tubes and disable the boiler. One of the engineer’s most critical duties is to maintain the water level in the boiler at all times. 
-&lt;figure xml:id="steamdrum_png2"&gt;
- &lt;caption&gt;Steam Drum Internals&lt;/caption&gt;
- &lt;image source="pics/boilers/steamdrum.png" width="75%"/&gt;
-&lt;/figure&gt;
-The lower portion of the steam drum, where it is perforated by the boiler tubes is thicker than the upper section, for strength. The lower portion is called the &lt;em&gt;tube sheet&lt;/em&gt;, and the upper portion is called the &lt;em&gt;wrapper sheet&lt;/em&gt;. The ends of the steam drum are known as the &lt;em&gt;heads&lt;/em&gt;, and one of the heads is fitted with a &lt;em&gt;manhole&lt;/em&gt;, to allow access to the inside of the drum for inspection or repair. 
-The top of the steam drum is fitted with an air cock, which is simply a pipe terminated with two valves. When the valves are open, the boiler steam drum pressure can equalize with the atmosphere. The air cock is opened when the boiler is first lit off. As the steam begins to form, it is allowed to blow out the air cock, expelling any air which has collected in the drum. After the steam pressure has built up to 20–30 psi and all air is expelled, the air cock is closed to seal the drum. It remains closed at all times while the boiler is operating, and is not opened again until the boiler is secured. After the fires are extinguished and as the boiler begins to cool down, the air cock must be reopened again at about 50 psi. Otherwise, the condensing steam in the steam drum will create a vacuum there, breaking the seal at the boiler hand-hole gaskets, which are primarily designed to seal against internal, not external, pressure. 
-A &lt;em&gt;steam drum safety valve&lt;/em&gt; is also located on top of the steam drum. This valve is adjusted to open automatically if the steam drum pressure rises too high. This can protect the boiler from exploding, and the noise of the steam flowing through should alert the engineer that something is seriously wrong. If you ever hear a boiler safety valve blowing off steam, your first action as an engineer should be to secure the fires, to prevent additional steam from being generated, until you know what is causing the problem. 
-Inside the steam drum you will find several internal fittings. These fittings help distribute water evenly throughout the drum, separate the generated steam from the water, and remove moisture from the steam before it leaves the boiler. The &lt;em&gt;dry pipe&lt;/em&gt; is a perforated tube located at the top of the steam drum. As steam is formed and rises to the top of the boiler, it enters the dry pipe and from there it is removed from the steam drum. It is important that no moisture enter the dry pipe, because water droplets in the steam would damage the turbines downstream, so modern boilers include &lt;em&gt;cyclone steam separators&lt;/em&gt; which help to remove moisture from the steam by causing it to spin rapidly around a spiral path as it moves upward. The centrifugal force throws the heavier water droplets to the separator walls, where it drains back to the drum. Only dry steam should make it through the separator. A &lt;em&gt;chemical feed pipe&lt;/em&gt; is provided to distribute boiler chemicals throughout the steam drum. Another perforated pipe known as the &lt;em&gt;internal feed pipe&lt;/em&gt; is located below the water level and is used to distribute the incoming feedwater evenly throughout the steam drum. The &lt;em&gt;surface blow pipe&lt;/em&gt; is another perforated pipe located below the water level and connected overboard. Opening the &lt;em&gt;surface blow valve&lt;/em&gt; allows boiler water to discharge over the side. This is done to rid the boiler of contaminants such as suspended solids, oil and excess boiler chemicals, and in emergencies to lower the boiler water level quickly. 
-You may also find a &lt;em&gt;submerged tube desuperheater&lt;/em&gt; in the steam drum. This is a pipe which makes several passes underneath the surface of the water in the steam drum. Superheated steam is passed through this pipe, where it cools down to near its saturation temperature. Internal desuperheaters like this are used for two purposes. Most commonly, they are used to provide desuperheated steam for auxiliary systems which are not designed to operate on high temperature superheated steam. Other desuperheaters are used to reduce and control the temperature of the main superheated steam by blending the hot superheated steam with cooler desuperheated steam; this type is called a &lt;em&gt;control desuperheater.&lt;/em&gt;
-
-</Text>
-        </Document>
         <Document ID="7F9EA64E-F5C9-4FFE-8084-5F8CC8C154D0">
             <Title>Lack of oxygen</Title>
             <Text>Confined spaces often have limited ventilation, which can lead to a decrease in oxygen levels. This oxygen-deficient atmosphere can cause dizziness, loss of consciousness, or even asphyxiation.</Text>
@@ -37488,6 +37495,9 @@ The field windings are like an electromagnet.  When direct current (DC) flows th
 The armature windings are the part of the generator where the voltage is induced.  The armature consists of several individual windings connected in a specific configuration. The end points of the armature windings are called the generator terminals.  As long as the generator is spinning, the field will induce a sinusoidal AC voltage into the armature windings.  The armature windings deliver power to the terminals and thence to the load circuit.
 In a typical AC synchronous generator, the rotor carries the field windings and the stator carries the armature windings, however the opposite arrangement is also possible.</Text>
         </Document>
+        <Document ID="F69E24DD-3101-49CA-B8FD-B1EE085682BF">
+            <Text>Caps and plugs are pipe fittings used to seal the end of a section of pipe.  Caps are female threaded and plugs are male threaded.</Text>
+        </Document>
         <Document ID="3398E671-B9ED-4B34-A476-CE7BDDAE3994">
             <Title>OICEW-C2.1 Safe isolation of shipboard machinery and equipment before personnel are permitted to work</Title>
         </Document>
@@ -37546,18 +37556,22 @@ Black iron pipe is an informal name for a mild-steel pipe that is used with thre
         <Document ID="741D4844-A2B7-4AEE-888A-1411BE28F995">
             <Title>Semiconductors</Title>
         </Document>
-        <Document ID="EF444405-9209-4695-892C-21AAA9F96164">
-            <Title>introduction</Title>
-            <Text>Mechanical hazards are a physical hazards associated with machines and other movable objects that may cause harm to a person.
-Injuries caused by mechanical hazards include friction or abrasion, lacerations, cutting, severing, pinching, crushing, or entanglement of body parts. Additionally, non-mechanical hazards such as chips, splashes, and sparks can injure you or others in the area.
-&lt;figure xml:id="machine-safety"&gt;
-&lt;caption&gt;Rotating Shaft Hazard Sign&lt;/caption&gt;
-&lt;image width="50%" source="pics/safety/machine-safety.jpeg"&gt;
-&lt;remix&gt;&lt;![CDATA[  Source: https://www.compliancesigns.com  ]]&gt;&lt;/remix&gt;
-&lt;/image&gt;
-&lt;/figure&gt;
+        <Document ID="A28BB40F-2DC1-4B6C-A05E-B923E2E4B10A">
+            <Title>Water level</Title>
+            <Text>Maintaining proper boiler water level in the steam drum is probably the most critical aspect of boiler operation. &lt;em&gt;High Water&lt;/em&gt; is harmful because it reduces the efficiency of the steam separators. More importantly, excessively high water will enter the dry pipe, pass through the superheater and enter the turbine – a condition known as &lt;em&gt;carryover&lt;/em&gt;. Carryover leads to dangerous &lt;em&gt;water hammer&lt;/em&gt; in the steam lines, scaling in the superheater, and will damage to turbine rotors and thrust bearings. &lt;em&gt;Low Water&lt;/em&gt; is perhaps even more harmful than high water. It the boiler water level falls too low, portions of the generating tubes will be uncovered and the furnace temperature will quickly overheat and weaken the boiler tubes, leading to catastrophic boiler damage, steam escape, and personnel injury. 
+The boiler is equipped with several means to observe the boiler water level. The simplest is the &lt;em&gt;boiler gage glass&lt;/em&gt;. This device is mounted on the steam drum and makes the water level in the drum directly visible in the same way that the glass on the side of a coffee urn works. The glass is mounted such that the normal operating level is in the center of the glass, and as long as the water level is visible in the glass, the boiler is safe, however the operator should never let the level get within two inches of the top or bottom of the gage glass. A visible water level in the gage glass is reassuring, but it may be a false level if the gage glass valves are closed or the lines are blocked. Periodically blowing down the gage glass will insure that it indicates accurately. The &lt;em&gt;remote level indicator&lt;/em&gt;, &lt;xref ref="waterlevel_png"/&gt;, is a water level sensor connected to a level display that can be mounted in any location, normally wherever convenient for the boiler operator. This device is also called the &lt;em&gt;eye-hi&lt;/em&gt; indicator. &lt;em&gt;High and Low Level Alarms&lt;/em&gt; are sensors which are used to trigger an alarm when the water reaches a critical level. Usually two sensors are provided, the first gives a warning signal when the level is about six inches above or below the normal water level, the second secures the fires if the level continues to rise or fall after the warning alarm. 
+&lt;important&gt;
+The boiler water level must be visible in the gage glass at all times. Any time the water level is not visible, either high or low, the boiler fires must be secured &lt;em&gt;immediately&lt;/em&gt;.
+&lt;/important&gt;
 
-Mechanical hazards can be managed by adopting safe work procedures and the application of appropriate safeguards. As such, you should always wear appropriate PPE, follow the machine’s operating instructions, and ensure that all machine safety features and guards are in place. Be aware that some machines may start automatically at any time, so take appropriate precautions including de-energizing and locking out machinery before working on it.
+&lt;figure xml:id="waterlevel_png"&gt;
+ &lt;caption&gt;Gage Glass and Remote Level Indicator&lt;/caption&gt;
+ &lt;image source="pics/boilers/waterlevel.png" width="50%"/&gt;
+&lt;/figure&gt;
+The feed water regulator system is designed to monitor and maintain the water level in the boiler automatically under all normal loads and operating conditions. The main feed pump takes a suction from the DC Heater, and discharges through the feedwater regulating valve, then into the economizer and the steam drum. The feedwater regulator contains a &lt;em&gt;drum level sensor&lt;/em&gt; which opens or closes the regulating valve in response to the drum water level. When the water level goes up, the regulating valve closes off to restrict the feed water to the drum and bring the level down, and vice versa. This drum level sensing regulator uses &lt;em&gt;feedback control&lt;/em&gt;, which means that is has a fairly slow response; the drum level must deviate from normal before the regulator can make a correction. To improve the regulator response, most feedwater regulator systems also include a steam flow sensor, which gives the regulator a predictive ability known as &lt;em&gt;feedforward control&lt;/em&gt;. As soon as the sensor detects a change in the steam flow, it can respond immediately with a corresponding change in the feedwater flow rate. Feedwater regulators containing both drum level and steam flow sensors are known as &lt;em&gt;two-element&lt;/em&gt; feedwater regulators. 
+The feed water regulator system uses compressed air from the &lt;em&gt;combustion control air system&lt;/em&gt; to actuate the feed water regulator valve and power the regulator. The watch engineer must carefully watch the control air system pressure, because problems there will quickly lead to problems with the boiler water level. If the control air compressor fails, one response would be to cross connect the &lt;em&gt;ship’s service air&lt;/em&gt; into the system. Complete loss of compressed air will cause the feedwater regulator valve to open wide. The operator then must adjust the feed water check valve manually to regulate the boiler drum level. 
+The discharge pressure of the feed pump plays a critical role in the proper operation of the feedwater regulator system. Naturally, the feed pump discharge pressure must be greater than the steam drum pressure at all times, or the feed water will not be able to flow into the boiler. Also, if the feed pump discharge pressure fluctuates, the regulator system will have a difficult time responding properly, so the feed pump is equipped with a &lt;em&gt;constant pressure governor&lt;/em&gt; which maintains a steady discharge pressure at all times, or an &lt;em&gt;excess pressure governor&lt;/em&gt;, which maintains a fixed pressure differential above the drum pressure. The watch engineer should keep a close eye on the feed pump discharge pressure, because changes here will quickly lead to problems with the steam drum level. A stand-by feed pump should always be maintained ready to start quickly if the operating pump has problems. 
+When operating, the boiler water level is subject to &lt;em&gt;shrink and swell&lt;/em&gt;. The specific volume of steam is dependent on the pressure of the surroundings; lower pressure steam takes up more space. When the main engine throttles are opened, the boiler pressure temporarily drops as the steam rushes to the turbine. This drop in pressure causes the steam bubbles remaining in the generating tubes to expand, forcing the water level in the drum to rise or &lt;em&gt;swell&lt;/em&gt;. When the throttles are closed the reverse happens; the boiler pressure increases quickly, and compresses the steam bubbles, causing the water level to &lt;em&gt;shrink&lt;/em&gt;. A properly adjusted two-element feed water regulator will respond properly to shrink and swell. For example, during swell conditions the drum level sensor sees high water and asks the regulating valve to close off, while at the same time, the steam flow sensor detects an increase in steam flow, and asks the regulating valve to open more. The two effects cancel each other out, and the regulating valve holds its position, which is the correct response, since the actual mass of water in the boiler really hasn’t changed. Later as the drum pressure recovers, the swell subsides and the steam flow signal remains, causing the regulator to open a bit more. Close observation of the feed water regulator during maneuvering will be valuable if you are ever called upon to regulate the boiler water level manually. 
 </Text>
         </Document>
         <Document ID="F7A4396C-5980-435E-BB5E-759E74FF1268">
@@ -37612,22 +37626,18 @@ The volt (unit symbol: V) is the unit of electromotive force in the Internationa
 Voltage in an electrical system is equivalent to pressure in a fluid system, and just as a pump generates fluid pressure, voltage must be generated somehow.  There are several methods to produce a voltage, including chemical reactions (such as in batteries) and the photovoltaic effect (as in solar cells); however, the most important method is electromagnetic induction.  Electromagnetic induction is the process where a changing magnetic field induces (creates) an electric voltage in a nearby conductor.   This phenomenon is the basis for generating electricity in devices like generators and transformers and it will be described in more detail in &lt;xref ref="topic-faradays-law"/&gt;.
 A voltage source (power supply) such as a battery or generator is connected to the attached circuit at two points called the terminals. The voltage between the terminals will drive current flow from the positive terminal to the negative terminal.  The term polarity in typically refers to the orientation of the terminals. In simple terms, it indicates which terminal is positive and which is negative with respect to some reference point.</Text>
         </Document>
-        <Document ID="A28BB40F-2DC1-4B6C-A05E-B923E2E4B10A">
-            <Title>Water level</Title>
-            <Text>Maintaining proper boiler water level in the steam drum is probably the most critical aspect of boiler operation. &lt;em&gt;High Water&lt;/em&gt; is harmful because it reduces the efficiency of the steam separators. More importantly, excessively high water will enter the dry pipe, pass through the superheater and enter the turbine – a condition known as &lt;em&gt;carryover&lt;/em&gt;. Carryover leads to dangerous &lt;em&gt;water hammer&lt;/em&gt; in the steam lines, scaling in the superheater, and will damage to turbine rotors and thrust bearings. &lt;em&gt;Low Water&lt;/em&gt; is perhaps even more harmful than high water. It the boiler water level falls too low, portions of the generating tubes will be uncovered and the furnace temperature will quickly overheat and weaken the boiler tubes, leading to catastrophic boiler damage, steam escape, and personnel injury. 
-The boiler is equipped with several means to observe the boiler water level. The simplest is the &lt;em&gt;boiler gage glass&lt;/em&gt;. This device is mounted on the steam drum and makes the water level in the drum directly visible in the same way that the glass on the side of a coffee urn works. The glass is mounted such that the normal operating level is in the center of the glass, and as long as the water level is visible in the glass, the boiler is safe, however the operator should never let the level get within two inches of the top or bottom of the gage glass. A visible water level in the gage glass is reassuring, but it may be a false level if the gage glass valves are closed or the lines are blocked. Periodically blowing down the gage glass will insure that it indicates accurately. The &lt;em&gt;remote level indicator&lt;/em&gt;, &lt;xref ref="waterlevel_png"/&gt;, is a water level sensor connected to a level display that can be mounted in any location, normally wherever convenient for the boiler operator. This device is also called the &lt;em&gt;eye-hi&lt;/em&gt; indicator. &lt;em&gt;High and Low Level Alarms&lt;/em&gt; are sensors which are used to trigger an alarm when the water reaches a critical level. Usually two sensors are provided, the first gives a warning signal when the level is about six inches above or below the normal water level, the second secures the fires if the level continues to rise or fall after the warning alarm. 
-&lt;important&gt;
-The boiler water level must be visible in the gage glass at all times. Any time the water level is not visible, either high or low, the boiler fires must be secured &lt;em&gt;immediately&lt;/em&gt;.
-&lt;/important&gt;
-
-&lt;figure xml:id="waterlevel_png"&gt;
- &lt;caption&gt;Gage Glass and Remote Level Indicator&lt;/caption&gt;
- &lt;image source="pics/boilers/waterlevel.png" width="50%"/&gt;
+        <Document ID="EF444405-9209-4695-892C-21AAA9F96164">
+            <Title>introduction</Title>
+            <Text>Mechanical hazards are a physical hazards associated with machines and other movable objects that may cause harm to a person.
+Injuries caused by mechanical hazards include friction or abrasion, lacerations, cutting, severing, pinching, crushing, or entanglement of body parts. Additionally, non-mechanical hazards such as chips, splashes, and sparks can injure you or others in the area.
+&lt;figure xml:id="machine-safety"&gt;
+&lt;caption&gt;Rotating Shaft Hazard Sign&lt;/caption&gt;
+&lt;image width="50%" source="pics/safety/machine-safety.jpeg"&gt;
+&lt;remix&gt;&lt;![CDATA[  Source: https://www.compliancesigns.com  ]]&gt;&lt;/remix&gt;
+&lt;/image&gt;
 &lt;/figure&gt;
-The feed water regulator system is designed to monitor and maintain the water level in the boiler automatically under all normal loads and operating conditions. The main feed pump takes a suction from the DC Heater, and discharges through the feedwater regulating valve, then into the economizer and the steam drum. The feedwater regulator contains a &lt;em&gt;drum level sensor&lt;/em&gt; which opens or closes the regulating valve in response to the drum water level. When the water level goes up, the regulating valve closes off to restrict the feed water to the drum and bring the level down, and vice versa. This drum level sensing regulator uses &lt;em&gt;feedback control&lt;/em&gt;, which means that is has a fairly slow response; the drum level must deviate from normal before the regulator can make a correction. To improve the regulator response, most feedwater regulator systems also include a steam flow sensor, which gives the regulator a predictive ability known as &lt;em&gt;feedforward control&lt;/em&gt;. As soon as the sensor detects a change in the steam flow, it can respond immediately with a corresponding change in the feedwater flow rate. Feedwater regulators containing both drum level and steam flow sensors are known as &lt;em&gt;two-element&lt;/em&gt; feedwater regulators. 
-The feed water regulator system uses compressed air from the &lt;em&gt;combustion control air system&lt;/em&gt; to actuate the feed water regulator valve and power the regulator. The watch engineer must carefully watch the control air system pressure, because problems there will quickly lead to problems with the boiler water level. If the control air compressor fails, one response would be to cross connect the &lt;em&gt;ship’s service air&lt;/em&gt; into the system. Complete loss of compressed air will cause the feedwater regulator valve to open wide. The operator then must adjust the feed water check valve manually to regulate the boiler drum level. 
-The discharge pressure of the feed pump plays a critical role in the proper operation of the feedwater regulator system. Naturally, the feed pump discharge pressure must be greater than the steam drum pressure at all times, or the feed water will not be able to flow into the boiler. Also, if the feed pump discharge pressure fluctuates, the regulator system will have a difficult time responding properly, so the feed pump is equipped with a &lt;em&gt;constant pressure governor&lt;/em&gt; which maintains a steady discharge pressure at all times, or an &lt;em&gt;excess pressure governor&lt;/em&gt;, which maintains a fixed pressure differential above the drum pressure. The watch engineer should keep a close eye on the feed pump discharge pressure, because changes here will quickly lead to problems with the steam drum level. A stand-by feed pump should always be maintained ready to start quickly if the operating pump has problems. 
-When operating, the boiler water level is subject to &lt;em&gt;shrink and swell&lt;/em&gt;. The specific volume of steam is dependent on the pressure of the surroundings; lower pressure steam takes up more space. When the main engine throttles are opened, the boiler pressure temporarily drops as the steam rushes to the turbine. This drop in pressure causes the steam bubbles remaining in the generating tubes to expand, forcing the water level in the drum to rise or &lt;em&gt;swell&lt;/em&gt;. When the throttles are closed the reverse happens; the boiler pressure increases quickly, and compresses the steam bubbles, causing the water level to &lt;em&gt;shrink&lt;/em&gt;. A properly adjusted two-element feed water regulator will respond properly to shrink and swell. For example, during swell conditions the drum level sensor sees high water and asks the regulating valve to close off, while at the same time, the steam flow sensor detects an increase in steam flow, and asks the regulating valve to open more. The two effects cancel each other out, and the regulating valve holds its position, which is the correct response, since the actual mass of water in the boiler really hasn’t changed. Later as the drum pressure recovers, the swell subsides and the steam flow signal remains, causing the regulator to open a bit more. Close observation of the feed water regulator during maneuvering will be valuable if you are ever called upon to regulate the boiler water level manually. 
+
+Mechanical hazards can be managed by adopting safe work procedures and the application of appropriate safeguards. As such, you should always wear appropriate PPE, follow the machine’s operating instructions, and ensure that all machine safety features and guards are in place. Be aware that some machines may start automatically at any time, so take appropriate precautions including de-energizing and locking out machinery before working on it.
 </Text>
         </Document>
         <Document ID="D347E1E9-6B1E-4750-9042-BE535DD722E5">
@@ -37965,10 +37975,39 @@ The motors are fitted with two air-water heat exchangers providing cooled air wh
 </Text>
         </Document>
         <Document ID="D8F1912C-EF3E-43C3-BE51-550287C5DCD4">
-            <Title>Union Fittings</Title>
-            <Text>Union
-Threaded Union
-Socket Weld Union</Text>
+            <Title>Union fittings</Title>
+            <Text>Pipe Union is a type of fitting equipment designed in such a way to unite two pipes which can be detached without causing any deformation to the pipes. Any kind of small diameter piping connections requiring a positive seal and easy assembly as well as disassembly are made with the help of pipe union. In other words, the pipe unions can disjoint two pipes very easily. They are widely demanded in the pipe fitting market.
+
+Union connectors separate into three pieces so you can access your line without unthreading pipe connections. They have a gasket that creates a tight seal.
+
+The basic difference between a coupling and a union is that a coupling is for joining pipe to pipe or pipe to a swedge. A union is made for joining and disassemble of a part of a piping system (a steam trap or control valve, etc) for maintenance or replacement.
+
+Coupling and Adapter Fittings - Pipe couplers slip over the outside of two pipes to connect them, usually permanently. A coupling can be a reducer, or reducing coupling, meaning they reduce flow by joining a larger pipe to a smaller size. Adapters are used when connecting two pipes of different types. For example, an adapter could be fitted on the end of a plain pipe to allow a threaded connection at the other side of the adapter.
+
+Bushing Fittings - Bushings, sometimes called reducer bushings, are used for connecting two pipes of different sizes. The larger diameter of the bushing fits inside of the larger pipe. The smaller pipe is then inserted into the smaller end of the bushing.
+ 
+Union Fittings - Unions are similar to couplings in that they connect two similar pipes. With pipe unions, a nut or threaded ring in the middle of the fitting is tightened to join two pipes. It can be easily removed by loosening the ring to disconnect the pipes, while a coupling must to be cut out to disconnect.
+
+A coupling is a short piece of pipe that connects two separate pipe sections together using a variety of methods. Some of these methods include soldering, welding, compression, and screwing. Also, couplings can serve to connect a pipe to a swage when a change in flow diameter is desirable.
+In practice, when a flow path exceeds the length of a single pipe, a coupling comes in to join both sections. In addition, whenever a pipeline undergoes repairs and needs replacement, couplings are what help to fit in the new section. Although screwing is one of the methods of installing a coupling, its purpose is to provide a permanent joint, with no foreseeable need for diassembly, unlike a union. There are three common types of pipe couplings in the industry.
+
+Pipe unions and couplings are both types of pipe fittings that join different parts of a flow system. However, a union makes it easy to separate and reassemble the joint from time to time vs a coupling that provides permanent connections. In this article, you will learn about pipe unions, pipe couplings, the differences between a union and coupling, and finally, frequently asked questions about union vs coupling.
+Pipe Union
+A pipe union is a common connector that provides ease in installation and disassembling, unlike a coupling. Generally, a union consists of three parts – a male end, a female end, and a nut. Both the female and male ends have threads internally and externally, respectively while nuts provide the sealing. So, each pipe section coming together screws unto the union and not each other. This makes it easy to detach and reattach a single connection without affecting other parts of the piping system. Although metals such as carbon steel, stainless steel, and alloys are the common materials for making unions, some are made from plastic. When this is the case, they prevent the occurrence of galvanic corrosion by isolating pipe sections of dissimilar metals.
+
+Although a union and coupling are both pipe fittings that connect various parts of a piping system, there are some basic differences between them.
+
+
+Coupling
+Provides a joint that is easy to install and remove.
+A coupling is a permanent joint that should not to be tampered with.
+The use of unions is more versatile as they can serve for pipe-to-pipe, as well as pipe connections to other components.
+Couplings are primarily for pipe-to-pipe connections. Thus, it serves as an extension of the pipeline.
+Generally, unions are deployed on threaded pipes. But larger diameter pipes use flanges.
+Although couplings may have threaded connections, they also deploy in welding, screwing, and compression connections.
+In practice, unions are best suited to low-pressure applications.
+Couplings provide more robust joints in high-pressure applications.
+</Text>
         </Document>
         <Document ID="F5E2724E-1C74-47BC-8DBB-7CA3AD6064D9">
             <Title>Heat Exchangers</Title>
@@ -38168,8 +38207,6 @@ Under the ISM Code, both the ship and the company have specific obligations to e
         </Document>
         <Document ID="EB2EC9AB-5C47-49A3-8A53-FD60DE94D62E">
             <Title>Introduction</Title>
-            <Text> 
-</Text>
         </Document>
         <Document ID="D834F2C8-6258-407B-8640-31D8FC8E875A">
             <Title>Rotary Pumps</Title>
@@ -40179,8 +40216,6 @@ Faulty parallel operation
         </Document>
         <Document ID="89C89468-D5D1-411E-B857-BF9A811A72E1">
             <Title>Electrical Components</Title>
-            <Text>
-</Text>
         </Document>
         <Document ID="EBF1A7D8-6AD5-456F-A327-9D65B14B7AE7">
             <Title>Functions of the AVR</Title>
@@ -40760,6 +40795,15 @@ There are three main variations of check valves: swing checks, lift checks, and 
 Reducing Tee
 Barred Tee (Branching Tee)</Text>
         </Document>
+        <Document ID="564FABBE-FD9D-4B8D-B78C-C7B4A2DDC364">
+            <Title>Superheater</Title>
+            <Text>When water boils, it occurs at a particular temperature which is determined by the pressure of the surroundings. For example, water at atmospheric pressure always boils at 212 °F, while water at 600 psia always boils at 486 °F. This boiling temperature is known as the &lt;em&gt;saturation temperature&lt;/em&gt; and it can easily be determined from the steam tables found in . At a given pressure, the steam’s temperature can be raised above the corresponding saturation temperature by adding additional heat to the steam, but this must occur in an area where there is no liquid water present, or the additional heat would simply boil more water and would not raise the steam temperature at all. Raising steam temperature above the saturation temperature is known as &lt;em&gt;superheating&lt;/em&gt; and the &lt;em&gt;degree of superheat&lt;/em&gt; refers to the difference between the steam temperature and the saturation temperature corresponding to the steam’s pressure. For example, 600 psia, 600 °F steam would have 114 degrees of superheat, since it is 114 degrees above the corresponding saturation temperature. 
+In marine boilers, superheating occurs in the &lt;em&gt;superheater&lt;/em&gt;. The superheater is a series of boiler tubes located in the hottest part of the gas path, but screened from the radiant heat of the furnace behind three or more rows of &lt;em&gt;screen tubes&lt;/em&gt;. Heat is added to the superheater primarily by convection. The superheater tubes and headers may be installed either horizontally or vertically. 
+All the steam formed in the generating tubes rises up to the steam drum and flows into the dry pipe, and from there the steam, which is dry and at saturation temperature, enters the superheater header and is distributed to the superheater tubes. There, the steam picks up sensible heat, which increases the energy content of the steam, improving the overall steam cycle efficiency and reducing fuel consumption. The steam leaves the boiler at the superheater outlet. At the outlet you will find a &lt;em&gt;superheater vent&lt;/em&gt; and a &lt;em&gt;superheater safety valve&lt;/em&gt; followed by the main and turbogenerator steam stop valves. 
+The degree of superheat created in the superheater is determined by several factors, including the temperature of the feedwater, the load on the boiler, and the number and location of burners in use. These factors are not adjustable by the engineer, so the superheater outlet temperature is not under his direct control. A boiler of this type is known as an&lt;em&gt;uncontrolled superheat&lt;/em&gt; boiler. Other boiler designs provide a means to control the superheat temperature independent of the above factors, and are known as &lt;em&gt;controlled superheat&lt;/em&gt; boilers. 
+The superheater elements are normally filled entirely with steam, not water. Since no boiling occurs there, all the heat transferred to the superheater tubes must be carried away by the steam flowing through the tubes, or else they will quickly overheat and burn out, destroying the boiler. Whenever there is a fire in the boiler and no steam flow leaving the boiler, the superheater vent must be opened manually by the engineer to protect the superheater from overheating. 
+</Text>
+        </Document>
         <Document ID="3FB7B72C-B17D-4434-9826-FB7C0480B701">
             <Text>Dc link voltage (Excitation voltage) 
 The DC Link Voltage is internally measured from rectified voltage of excitation input power. This signal is used for protective function and monitoring purpose. The monitored excitation voltage of the HDCM software is not value directly measured from excitation output terminal but calculated from dc link voltage by using PWM duty and voltage drop of power module (IGBT). 
@@ -40817,15 +40861,6 @@ ProportionalGainKP:Improvetransientresponse
 		 Derivative Gain KD: Improve the steady state stability and initial response  For more detailed information about control gains tuning and controller structure, see section 4 (Configuration) and Appendix B (Mathematical Models).  FCR mode  FCR regulation mode controls the excitation current by setpoint. HDEC2000 unit measures the excitation current and compares it with commanded setpoint. And the unit controls the excitation current so that the excitation current be equal to [FCR Setpoint]. FCR controller is PI (proportional, integral) controller which has KG, KP, and KI. In the FCR mode, over excitation limiter, stator current limiter, under-excitation limiter and the under frequency limiter are not enabled.  FCR mode is normally used for commissioning or selected for the application which requires manual control like test bench system.  AVR mode  AVR regulation mode controls the generator voltage by setpoint. HDEC2000 unit measures the generator voltage and compares it with commanded setpoint. And the unit controls the excitation current so that the generator voltage be equal to [AVR Setpoint]. AVR controller is PID (proportional, integral, derivative) controller which has KG, KP, KI and KD.  In case of the medium or small size generator which is connected with related big power grid (not island grid) or in case of synchronous motor application, the AVR mode cannot be selected. In which case, the VAR mode or the PF mode is preferred.  VAR mode  VAR regulation mode controls the reactive power by setpoint. The HDEC2000 unit measures the reactive power and compares it with commanded setpoint. And the unit controls the excitation current so that the reactive power be equal to [VAR Setpoint]. VAR controller is PI (proportional, integral) controller which has KG, KI.  VAR control mode is only prepared in case of small or medium generator which is connected with related big power grid (not island grid) or in case of synchronous motor application.  PF mode  PF regulation mode controls the power factor by setpoint. The HDEC2000 unit measures the power factor and compares it with commanded setpoint. And the unit controls the excitation current so that the power factor be equal to [PF Setpoint]. PF controller is PI (proportional, integral) controller which has KG, KI  PF control mode is only prepared in case of small or medium generator which is connected with related big power grid (not island grid) or in case of synchronous motor application.  
 HDEC 2000 User Manual Rev. D 
 
-</Text>
-        </Document>
-        <Document ID="564FABBE-FD9D-4B8D-B78C-C7B4A2DDC364">
-            <Title>Superheater</Title>
-            <Text>When water boils, it occurs at a particular temperature which is determined by the pressure of the surroundings. For example, water at atmospheric pressure always boils at 212 °F, while water at 600 psia always boils at 486 °F. This boiling temperature is known as the &lt;em&gt;saturation temperature&lt;/em&gt; and it can easily be determined from the steam tables found in . At a given pressure, the steam’s temperature can be raised above the corresponding saturation temperature by adding additional heat to the steam, but this must occur in an area where there is no liquid water present, or the additional heat would simply boil more water and would not raise the steam temperature at all. Raising steam temperature above the saturation temperature is known as &lt;em&gt;superheating&lt;/em&gt; and the &lt;em&gt;degree of superheat&lt;/em&gt; refers to the difference between the steam temperature and the saturation temperature corresponding to the steam’s pressure. For example, 600 psia, 600 °F steam would have 114 degrees of superheat, since it is 114 degrees above the corresponding saturation temperature. 
-In marine boilers, superheating occurs in the &lt;em&gt;superheater&lt;/em&gt;. The superheater is a series of boiler tubes located in the hottest part of the gas path, but screened from the radiant heat of the furnace behind three or more rows of &lt;em&gt;screen tubes&lt;/em&gt;. Heat is added to the superheater primarily by convection. The superheater tubes and headers may be installed either horizontally or vertically. 
-All the steam formed in the generating tubes rises up to the steam drum and flows into the dry pipe, and from there the steam, which is dry and at saturation temperature, enters the superheater header and is distributed to the superheater tubes. There, the steam picks up sensible heat, which increases the energy content of the steam, improving the overall steam cycle efficiency and reducing fuel consumption. The steam leaves the boiler at the superheater outlet. At the outlet you will find a &lt;em&gt;superheater vent&lt;/em&gt; and a &lt;em&gt;superheater safety valve&lt;/em&gt; followed by the main and turbogenerator steam stop valves. 
-The degree of superheat created in the superheater is determined by several factors, including the temperature of the feedwater, the load on the boiler, and the number and location of burners in use. These factors are not adjustable by the engineer, so the superheater outlet temperature is not under his direct control. A boiler of this type is known as an&lt;em&gt;uncontrolled superheat&lt;/em&gt; boiler. Other boiler designs provide a means to control the superheat temperature independent of the above factors, and are known as &lt;em&gt;controlled superheat&lt;/em&gt; boilers. 
-The superheater elements are normally filled entirely with steam, not water. Since no boiling occurs there, all the heat transferred to the superheater tubes must be carried away by the steam flowing through the tubes, or else they will quickly overheat and burn out, destroying the boiler. Whenever there is a fire in the boiler and no steam flow leaving the boiler, the superheater vent must be opened manually by the engineer to protect the superheater from overheating. 
 </Text>
         </Document>
         <Document ID="3F028FFC-332F-4DC4-BAEF-CA95FAD42A63">
@@ -40887,6 +40922,12 @@ Class C (Conductive) hard hats or caps, are designed to be light and comfortable
 Bump caps are less obtrusive than hard hats and are designed to provide comfortable, lightweight but they have limited protection against minor head bumps, knocks, and scrapes.  They in environments where there is a risk of hitting the head on objects such as low ceilings, beams, or equipment. They are not meant a substitute for a hard hat because they do not afford protection from high electrical shock, high impact forces, or penetration by falling objects, and they are not OSHA approved, so they can not be used in situations where a hard hat is required.
 </Text>
         </Document>
+        <Document ID="11DFBC74-B52D-4131-ACF2-19C96070ECAC">
+            <Title>Steam Pressure and Temperature</Title>
+            <Text>Steam pressure and temperature are important parameters to watch while the boiler is operating. Obviously, the purpose of the boiler is to produce steam at the correct pressure and temperature to be used by the main engine and auxiliary machinery. Under normal conditions these values are maintained by the combustion control system and should be relatively steady. A rising or falling steam value is a sure indication of an impending problem. You should carefully observe the normal operating range for the drum and superheater outlet pressures, and notify the engineer or take corrective action if these values deviate from normal. 
+High steam pressure, if left unchecked will lead to the superheater safety valves lifting. Properly designed and maintained safety valves are capable of relieving the entire boiler to prevent a boiler explosion, but they should never have to open on a properly operated boiler. Low steam pressure will cause a loss of power at the main engines and generators. Failure to respond will lead to electrical blackout of the ship and loss of propulsion power. Incorrect superheat temperature is less harmful than incorrect steam pressure, but you should still note it and correct it if possible. High and low superheat temperatures often indicates another problem with the boiler such as dirty burners, excess air, or incorrect feed temperatures. On ships with controlled superheat, the superheater temperature control system may be faulty. 
+</Text>
+        </Document>
         <Document ID="41F75C97-200E-432D-9AF8-DC35B1394AC8">
             <Title>Optic Fibre I/O Ethernet Network </Title>
             <Text>Optical Fibre I/O Ethernet Network 
@@ -40913,12 +40954,6 @@ This system provides communication between the port and starboard drives and the
 	•	Configuring the IP addresses of the different components of the propulsion system (PPC, PECe, remote I/O rack, etc). 
 	•	To download software to the PPC and PECe. 
 	•	To monitor the propulsion system using analytical tools.</Text>
-        </Document>
-        <Document ID="11DFBC74-B52D-4131-ACF2-19C96070ECAC">
-            <Title>Steam Pressure and Temperature</Title>
-            <Text>Steam pressure and temperature are important parameters to watch while the boiler is operating. Obviously, the purpose of the boiler is to produce steam at the correct pressure and temperature to be used by the main engine and auxiliary machinery. Under normal conditions these values are maintained by the combustion control system and should be relatively steady. A rising or falling steam value is a sure indication of an impending problem. You should carefully observe the normal operating range for the drum and superheater outlet pressures, and notify the engineer or take corrective action if these values deviate from normal. 
-High steam pressure, if left unchecked will lead to the superheater safety valves lifting. Properly designed and maintained safety valves are capable of relieving the entire boiler to prevent a boiler explosion, but they should never have to open on a properly operated boiler. Low steam pressure will cause a loss of power at the main engines and generators. Failure to respond will lead to electrical blackout of the ship and loss of propulsion power. Incorrect superheat temperature is less harmful than incorrect steam pressure, but you should still note it and correct it if possible. High and low superheat temperatures often indicates another problem with the boiler such as dirty burners, excess air, or incorrect feed temperatures. On ships with controlled superheat, the superheater temperature control system may be faulty. 
-</Text>
         </Document>
         <Document ID="93FFE8C7-2CC7-4A13-AA36-AF03BB078BE0">
             <Title>Drive Cabinets</Title>
@@ -41324,12 +41359,12 @@ Touch screen display. This display provides functionality to configure the drive
         <Document ID="9A588431-F7BD-483F-8AED-2EA5D8CAE96D">
             <Title>Mechanical Energy</Title>
         </Document>
+        <Document ID="987DD2D6-15FF-4F29-821C-001089999C76">
+            <Title>Length Measuring Instruments</Title>
+        </Document>
         <Document ID="15DD9E16-0336-459C-9F1A-2D7772CA3A94">
             <Title>Electrical Symbols</Title>
             <Text>TBD</Text>
-        </Document>
-        <Document ID="987DD2D6-15FF-4F29-821C-001089999C76">
-            <Title>Length Measuring Instruments</Title>
         </Document>
         <Document ID="6D559000-E18C-4772-9DB0-39FFDD9ECC77">
             <Title>Diodes</Title>
@@ -42550,9 +42585,7 @@ Tubes are available with various cross-sections, including round, square, rectan
         </Document>
         <Document ID="6327EC84-5CA1-4FE4-B983-3F2A329C4D74">
             <Title>Types of Tee</Title>
-            <Text>Pipe adapters are fittings that have to adapt to changes and are therefore used for joining different types of pipes such as a pipe to a hose. Adapters are used to extend or terminate the piping. They are also used to connect dissimilar pipes.
-There are male to female adapters, parallel to taper thread adapters, pipe to hose adapters etc. Pipe adapters have a male or female thread on one side and an opposite gender thread on the other side.
- * Male Tee
+            <Text>* Male Tee
  A male tee is a pipe fitting that joins two perpendicular pipes together or makes a “tee”. It is similar to a female tee but has male threads on all ends and joins to fittings with female threads.
 *Female Tee
 A female tee is a pipe fitting that joins one pipe to an another pipe in a perpendicular direction. The female tee is having female threads on all ends and pipes or fittings with male threads fix into it.

@@ -393,8 +393,10 @@
 		</dict>
 		<key>16C3B8F5-4446-42A0-9A06-5B26C34E97EF</key>
 		<dict>
+			<key>DocID</key>
+			<string>86A1B309-915D-4A4F-A20B-2284C38228C9</string>
 			<key>Row</key>
-			<integer>-1</integer>
+			<integer>0</integer>
 		</dict>
 		<key>16D63390-1ECE-4FB8-B24B-B53092812451</key>
 		<dict>
@@ -1027,6 +1029,11 @@
 			<integer>-1</integer>
 		</dict>
 		<key>489187EA-1F21-4D5E-A56F-A86070C0F198</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>496211BF-4C84-48E1-8916-D05C55A7B976</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -1667,6 +1674,11 @@
 			<integer>-1</integer>
 		</dict>
 		<key>8647444A-E9BC-4EA2-84AB-1AF76020973A</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>86A1B309-915D-4A4F-A20B-2284C38228C9</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -3061,6 +3073,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>F69E24DD-3101-49CA-B8FD-B1EE085682BF</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>F6BD64BD-D085-4933-AEEB-9580D810A65C</key>
 		<dict>
 			<key>Row</key>
@@ -3261,7 +3278,7 @@
 	<key>mainDocumentEditor.rulerIsVisible</key>
 	<false/>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {756, 556}}</string>
+	<string>{{0, 0}, {620, 556}}</string>
 	<key>mainDocumentEditor.selectedRanges</key>
 	<string>{0, 0}</string>
 	<key>mainDocumentEditor.textEditorState</key>
@@ -3272,7 +3289,7 @@
 	<key>mainDocumentEditor.textMode</key>
 	<integer>0</integer>
 	<key>mainWindowFrame</key>
-	<string>192 313 1512 702 0 0 1920 1055 </string>
+	<string>342 471 1512 702 0 0 2240 1235 </string>
 	<key>projectStatsSheet</key>
 	<dict>
 		<key>excludeAnnots</key>
