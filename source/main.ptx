@@ -6,12 +6,11 @@
       <chapter xml:id="piping-systems">
          <title>Piping Systems</title>
          <introduction>
-            <p>
-               <term>Piping  </term>is an assembly of pipe or tubing, valves, fittings, and related components forming a whole or a part of a system for transferring fluids (which includes both liquids and gases) from one location to another.</p>
-            <p>This chapter deals with the components that make up these systems. </p>
+            <p>A <term>Piping System</term>  is a network of pipe or tubing, pumps, valves, tanks and other components connected together to form a complete system for transferring, storing, and processing fluids. Piping systems are ubiquitous aboard the ship as well as in residential, industrial, and infrastructure applications.</p>
+            <p>A <term>Piping and Instrumentation Diagram</term> (P&amp;ID) is a schematic diagram that that uses symbols to show the components of a piping system and how the are connected together.   P&amp;IDs are used for design and construction of the the system, and they provide a big picture view to help engineers understand, operate, and troubleshoot the system.</p>
          </introduction>
-         <section xml:id="piping-systems-pipe-and-tube">
-            <title>Pipe and Tube</title>
+         <section xml:id="piping-systems-pipe--tubes-and-fittings">
+            <title>Pipe, Tubes and Fittings</title>
             <introduction>
                <p>Both pipes and tubes are long, hollow structures but the distinction between them is somewhat unclear.</p>
                <p>
@@ -20,12 +19,35 @@
                   <term>Tubes</term> are used for fluid transport as well, but also for other applications, particularly for fabricating structures. (For example, scaffolding and bike frames.)  Pipes are rigid and resistant to bending but some tubes such as copper and brass tubes are flexible enough to be easily bent. </p>
                <p>Tubes are available with various cross-sections, including round, square, rectangular, or oval.  They usually have thinner walls than pipe, making them lighter but less capable of handling high internal pressures. They are often chosen for applications where weight is a consideration. Tubes are sized based on <em>outside</em> dimensions and wall thickness.  Tubes are manufactured with tighter tolerances than pipe, resulting in more precise dimensions and wall thickness consistency.  </p>
             </introduction>
+            <subsection xml:id="piping-systems-pipe-materials">
+               <title>Pipe Materials</title>
+               <p>Pipe and tube are manufactured using various materials.  The choice depends on factors such as the fluid being transported, temperature and pressure conditions, corrosion considerations, cost, USCG and ABS regulations </p>
+               <p>Here are few of the materials used in shipboard piping systems. </p>
+               <p>
+                  <term>Welded carbon steel tubing</term> is used for water, steam, and oil lines where the maximum temperature is below 450° F. There are several varieties of carbon steel and it is relatively cost-effective. </p>
+               <p>
+                  <term>Seamless carbon steel tubing</term> is used in oil, steam, and feed water lines operating up to  775° F. </p>
+               <p>
+                  <term>Seamless carbon-molybdenum</term> and <term>chromium-molybdenum alloy</term> steel tubing are used for high temperature, high pressure systems, up to 1500 psig and 1050° F for chrome-moly</p>
+               <p>
+                  <term>Copper-nickel alloy tubing</term> and <term>Seamless brass tubing</term> are both widely used in low pressure systems which must resist the corrosive action of salt water </p>
+               <p>
+                  <term>Nickel alloys</term>, such as <term>Monel</term> and <term>Inconel</term>.  These are two families of high-performance alloys known for their exceptional resistance to corrosion, high temperatures, and various harsh environments.  </p>
+               <p>
+                  <term>Seamless copper tubing</term> is used for refrigeration lines, plumbing and heating systems, lubrication systems, and other shipboard systems. </p>
+               <p>
+                  <term>Seamless aluminum tubing</term> is used for dry lines in sprinkling systems and for some bilge and sanitary drain systems.</p>
+               <p>
+                  <term>Stainless steel</term> tubing has excellent strength and corrosion resistance. It is often used in hydraulic systems.</p>
+               <p>
+                  <term>Black iron pipe</term> is an informal name for a mild-steel pipe that is used with threaded fittings for easy assembly of low pressure piping systems.  It is susceptible to galvanic corrosion, especially when it comes in contact with other materials in a salt water environment.  </p>
+            </subsection>
             <subsection xml:id="piping-systems-pipe-size">
                <title>Pipe Size</title>
-               <p>Pipe sizes in the United States are specified by two numbers:  The <term>Nominal Pipe Size</term>  (NPS) in inches  and the <term>Schedule</term> (Sch.) number.   The European (ISO) designation equivalent to nominal pipe size is <foreign>
+               <p>Pipe sizes in the United States are specified by two numbers:  The <term>Nominal Pipe Size</term>  (NPS) in inches  and the <term>Schedule</term> (Sch.) number.   The European (ISO) equivalent designation is the <foreign>
                      <term>diamètre nominal</term>
-                  </foreign> (DN), where the dimensions are measured in millimeters. </p>
-               <p>In engineering a <term>nominal</term> value is a quantity used for the <em>name</em> of an object.  Nominal values are usually close to, but not the same as, the actual value.   For example a 2<m>\times</m>4 is the name of a piece of lumber with finished dimensions closer to 1-1/2 inches by 3-1/2 inches.  A 120 V outlet can vary anywhere between 114 V and 126 V.  Nominal values are a convenient shorthand, a rounded figure easier to use and remember.</p>
+                  </foreign> (DN), where the diameter is given in millimeters. </p>
+               <p>In engineering a <term>nominal</term> value is a quantity used for the <em>name</em> of an object.  Nominal values are usually close to, but not the same as, the actual value.   For example a 2<m>\times</m>4 is the name of a piece of lumber with finished dimensions closer to 1-1/2 inches by 3-1/2 inches.  A 120 Volt outlet may provide anywhere between 114 V and 126 V.  Nominal values are a convenient shorthand; a rounded figure easy to use and remember.</p>
                <p>The NPS is <em>approximately</em> equal to the <em>inside</em> diameter of the pipe for nominal pipe sizes up to 12 inches;  above 12 inches, the nominal pipe size is equal to the outside diameter.  Nominal dimensions are used in order to simplify the standardization of pipe fittings and pipe taps and threading dies. Pipe fittings with and pipe with the same nominal size are compatible.</p>
                <p>
                   <term>Pipe schedule</term> describes the wall thickness of pipes. There are eleven standard Schedule numbers: 5, 10, 20, 30, 40, 60, 80, 100, 120, 140, and 160, with higher numbers indicating thicker walls. The most common sizes found aboard ship are Schedule 40, sometimes called <term>standard weight</term>, and Schedule 80.   Schedule 40 is the lightest weight used for steam applications.  Schedule 40 and 80 pipes are available in the full range of nominal sizes from 1/8 inch to 48 inch.  Other schedules are more limited. </p>
@@ -550,148 +572,120 @@
                   </tabular>
                </table>
             </subsection>
-            <subsection xml:id="piping-systems-pipe-materials">
-               <title>Pipe Materials</title>
-               <p>The choice of material used for a piping system depends on factors such as the fluid being transported, temperature and pressure conditions, corrosion considerations, cost, USCG and ABS regulations </p>
-               <p>Here are few of the materials found in shipboard piping systems. </p>
-               <p>
-                  <term>Welded carbon steel tubing</term> is used for water, steam, and oil lines where the maximum temperature is below 450° F. There are several varieties of carbon steel and it is relatively cost-effective. </p>
-               <p>
-                  <term>Seamless carbon steel tubing</term> is used in oil, steam, and feed water lines operating up to  775° F. </p>
-               <p>
-                  <term>Seamless carbon-molybdenum</term> and <term>chromium-molybdenum alloy</term> steel tubing are used for high temperature, high pressure systems, up to 1500 psig and 1050° F for chrome-moly</p>
-               <p>
-                  <term>Copper-nickel alloy tubing</term> and <term>Seamless brass tubing</term> are both widely used in low pressure systems which must resist the corrosive action of salt water </p>
-               <p>
-                  <term>Nickel alloys</term>, such as <term>Monel</term> and <term>Inconel</term>.  These are two families of high-performance alloys known for their exceptional resistance to corrosion, high temperatures, and various harsh environments.  </p>
-               <p>
-                  <term>Seamless copper tubing</term> is used for refrigeration lines, plumbing and heating systems, lubrication systems, and other shipboard systems. </p>
-               <p>
-                  <term>Seamless aluminum tubing</term> is used for dry lines in sprinkling systems and for some bilge and sanitary drain systems.</p>
-               <p>
-                  <term>Stainless steel</term> tubing has excellent strength and corrosion resistance. It is often used in hydraulic systems.</p>
-               <p>
-                  <term>Black iron pipe</term> is an informal name for a mild-steel pipe that is used with threaded fittings for easy assembly of low pressure piping systems.  It is susceptible to galvanic corrosion, especially when it comes in contact with other materials in a salt water environment.  </p>
-            </subsection>
             <subsection xml:id="piping-systems-pipe-connections">
                <title>Pipe Connections</title>
-               <p>Pipes are connected in various ways depending on the type of pipes being used, the material they're made of, the purpose of the connection, and the conditions they will be subjected to. Here are some common methods of connecting pipes:</p>
-               <p>
-                  <term>Welded Connections</term>
-               </p>
-               <p>Welded connections provides a strong and permanent connection suitable for high-pressure and high-temperature applications.  When properly made, welded connections can last for the lifetime of the ship.</p>
-               <p>
-                  <term>Flanged Connections</term>
-               </p>
-               <p>Flanges are flat, circular discs welded to the ends of a section of pipe, which are are bolted to a matching flanges on an adjacent pipe section.  A gasket between the flanges helps to prevent leakage</p>
-               <p>Flanged connections are used for higher-pressure applications and where dismantling might be necessary.</p>
-               <p>
-                  <term>Soldered or Brazed Connections</term>
-               </p>
-               <p>This method is often used for connecting copper pipes in plumbing systems. Soldering involves melting a filler material (solder) into the joint, while brazing involves higher temperatures and a different filler material (usually brass).</p>
-               <p>
-                  <term>Compression Fittings</term>
-               </p>
-               <p>Compression fittings consist of a nut and a ferrule that are tightened onto the pipe, compressing the ferrule against the pipe and creating a seal.</p>
-               <p>
-                  <term>Threaded Connections</term>
-               </p>
-               <p>Threads are cut on the ends of pipes, and pipes with matching threads can be screwed together. Teflon tape or thread sealant is often used to prevent leaks.</p>
-               <p>
-                  <term>Quick Connect or Push-Fit Connections</term>
-               </p>
-               <p>Quick connect fittings use push-fit technology, allowing pipes to be pushed into the fitting without the need for tools or soldering.  These are often used in plumbing and water treatment systems.</p>
-               <p>
-                  <term>Adhesive or Glue Joints</term>
-               </p>
-               <p>This method is used for connecting <term>PVC</term> (Polyvinyl Chloride) pipes like those commonly found in home plumbing systems.  PVC pipes are not used in critical ship systems, because the material can fail due to the stresses caused by the motion of the vessel, and will fail in a fire .</p>
-               <p>A solvent-based adhesive is applied to the pipe ends, which chemically melts the plastic and creates a strong bond when the pipes are pushed together.  </p>
-               <paragraphs>
-                  <title>Pipe Thread</title>
-
-
-
-Pipe thread standards are standardized specifications that define the characteristics of threaded connections used in pipes and pipe fittings. These standards ensure compatibility and interchangeability between different components in piping systems. There are several pipe thread standards used around the world, each with its own characteristics and applications. Here are some of the most common pipe thread standards:
-
-
-1. **NPT (National Pipe Thread):**
-   - NPT is a widely used thread standard in the United States and Canada.
-   - There are two main types: NPT (Tapered) and NPTF (Dryseal).
-   - NPT threads are tapered, which helps create a seal by wedging the threads together as the fittings are tightened.
-   - NPTF threads have modified shapes to improve sealing without the need for thread sealants.
-
-2. **BSPT (British Standard Pipe Thread):**
-   - BSPT is a common thread standard in the United Kingdom and many countries that were part of the British Empire.
-   - BSPT threads are also tapered, like NPT threads.
-   - Common types include BSPT (Tapered) and BSPP (Parallel or Straight).
-
-3. **BSPP (British Standard Pipe Parallel):**
-   - BSPP threads are parallel or straight threads used in conjunction with BSPT threads.
-   - BSPP threads do not create a tight seal without the use of additional sealing methods.
-
-4. **BSPF (British Standard Pipe Fitting):**
-   - BSPF threads are used in specialized fittings and require the use of a sealing washer to create a seal.
-
-5. **Metric Thread Standards:**
-   - ISO 7-1 (BSP) and ISO 228-1 (BSPT) are metric thread standards used in various countries.
-   - These standards are commonly used in Europe and other regions where the metric system is prevalent.
-
-6. **G (German) Thread Standard:**
-   - The DIN 3852-1 standard defines the G thread, which is a parallel thread used in Germany and some other European countries.
-
-7. **JIS (Japanese Industrial Standard) Thread:**
-   - JIS threads are used in Japan and other countries that follow Japanese industrial standards.
-   - These threads are often found in specialized applications and components.
-
-8. **UN/UNF Thread Standards:**
-   - Unified National (UN) and Unified National Fine (UNF) thread standards are widely used in the United States for various applications, including pipes and fittings.
-
-9. **API (American Petroleum Institute) Thread Standards:**
-   - API thread standards, such as API 5B and API 5C, are used specifically in the petroleum industry for oil and gas pipes and equipment.
-
-It's important to choose the correct thread standard for your application to ensure proper fit, sealing, and functionality of the piping system. Mismatched threads can lead to leaks, inefficiencies, and other issues. Always refer to relevant standards and guidelines when selecting and using pipe threads and fittings.
-WHAT ARE NPT FITTINGS?
-
-NPT(National Pipe Tapered) standard was initially defined for plumbing applications. The metal-to-metal contact in NPT fittings relies on the deformation of the threads to form a secure seal.
-
-		Fittings Learning Center Fittings and Adapters What are NPT Fittings?
-
-Image description: A NPT fitting
-NPT or national pipe, or National Pipe Tapered, is an American standard defined under the AMSE B1.20.1. The standard outlines the dimensions and tolerances of tapered threads for pipes and fittings. Unlike straight threads, tapered threads give a more reliable seal, especially when used with a sealant material like Teflon tape. The standard is more than a hundred years old and was initially defined for plumbing applications; however, it has seen effective use in hydraulic and gas conveyance as well.
-CHARACTERISTICS OF NPT THREADS
-NPT threads are defined by the following features:
-	•	The taper angle is 1O 47’ (measured from the center axis of the NPT fitting)
-	•	Flat crests and troughs
-	•	60O angle between each crest and trough
-	•	The outer diameter of an NPT fitting is measured at the midpoint of the taper
-	•	Pitch (the distance between threads) is measured in threads per inch (TPI)
-SIZING IN NPT THREADS
-NPT defines both internal and external threads on fittings that conform to the standard; hence sizing charts give diameter measurements for both male and female parts. As a result, all male and female fitting types have consistency, adhering to the same taper rate – change in thread diameter per unit length. For the NPT standard, the taper rate is ¾ inch per foot or 1/16 inch per inch.
-Since the O.D. is measured from the midpoint, confusion may arise when selecting the correct size fitting. An NPT fitting labeled as 1/8” has an actual outer diameter of 3/8”. So be careful when selecting NPT fittings, as you may end up using a fitting that’s too loose. The chart below summarizes the dimensions of some commonly used sizes. Note that some NPT fitting sizes have the same TPI; hence they can be used on each other on account of the taper. 
-
-
-ADVANTAGES OF USING NPT THREAD FITTINGS
-Given that the standard has been around for a while, it has a set of advantages when being used. It is readily available in vendor inventories, with multiple sizes and materials to choose from. This allows you to use them for many applications at varying pressures. Moreover, they can be assembled in a simple manner as the metal-to-metal contact offers an excellent seal.
-DISADVANTAGES OF USING NPT THREAD FITTINGS
-The metal-to-metal contact in NPT fittings relies on the deformation of the threads to form a secure seal. This, however, means that one cannot use them in applications that require frequent disassembly.
-If used improperly, that is, without correct alignment, overtightening, or wrong sizing, ports may expand, and cracks may form on the threads. This, in turn, leads to the formation of leakage pathways from where the medium can leak out. It is for this reason that NPT fittings are not recommended for extremely high-pressure applications.
-
-https://www.cpcworldwide.com/Resources-Support/Technical-Toolbox/Understanding-NPT-Pipe-Thread-Types
-
-Pipe thread sizes are based on an inside diameter (ID) or flow size. For example, “1/2–14 NPT” identifies a pipe thread with a nominal inside diameter of 1/2 inch and 14 threads to the inch, made according to the NPT standard. If “LH” is added, the pipe has a left hand thread. The most commonglobal pipe thread forms are:
-	▪	NPT: American Standard Pipe Taper Thread
-	▪	NPSC: American Standard Straight Coupling Pipe Thread
-	▪	NPTR: American Standard Taper Railing Pipe Thread
-	▪	NPSM: American Standard Straight Mechanical Pipe Thread
-	▪	NPSL: American Standard Straight Locknut Pipe Thread
-	▪	NPTF: American Standard Pipe Thread Tapered (Dryseal)
-	▪	BSPP: British Standard Pipe Thread Parallel
-	▪	BSPT: British Standard Pipe Thread Tapered
-Plastic injection molded thread forms are manufactured to ANSI B2.1 and SAE J476 standards.
-The word “tapered” in several of the above names points to the big difference between many pipe threads and those on bolts and screws. Many pipe threads must make not only a mechanical joint but also a leakproof hydraulic seal. This is accomplished by the tapered thread form of the male matching the thread form of the female tapered thread and the use of pipe sealant to fill any voids between the two threads which could cause a spiral leak. The bottoms of the threads aren’t on a cylinder, but a cone; they taper. The taper is 1⁄16 inch per inch of length, which is the same as 3/4 inch in a foot.
-Because of the taper, a pipe thread can only screw into a fitting a certain distance before it jams. The standard specifies this distance as the length of hand tight engagement, the distance the pipe thread can be screwed in by hand. It also specifies another distance – the effective thread, this is the length of the thread which makes the seal on a conventional machined pipe thread. For workers, instead of these distances, it is more convenient to know how many turns to make by hand and how many with a wrench. A simple rule of thumb for installing tapered pipe threads, both metal and plastic, is finger tight plus one to two turns with a wrench. Torque installation values can be determined per application, but due to the variations involved in pipe joints such as disimiliar materials of male and female threads, type of sealants used, and internal variations in product wall thickness, a standard torque specification cannot be generically applied.</paragraphs>
+               <introduction>
+                  <p>Pipe or tubing alone does not constitute a piping system. To make the pipe or tubing into a system, the various components of the complete system must be connected together.  </p>
+                  <p>A number of different methods are available for making these pipe connections.  Some common connection methods are described below.</p>
+               </introduction>
+               <subsubsection xml:id="piping-systems-welded-connections">
+                  <title>Welded Connections</title>
+                  <p>Welding involves melting the base metals (pipes) to fuse them together, typically using an electric arc or gas flame.  Common welding methods for pipes include TIG (Tungsten Inert Gas), MIG (Metal Inert Gas), and stick welding. </p>
+                  <p>Welding produces a strong and permanent connection suitable for high-pressure and high-temperature applications; however, welded connections are less flexible than soldered or brazed joints, which can be a disadvantage in some situations. </p>
+                  <figure xml:id="fig_pipe_welding">
+                     <caption>  Arc Welding  </caption>
+                     <image width="100%" source="pics/piping_systems/pipe_welding.png">
+                        <remix>  https://www.wallpaperflare.com/man-worker-sparks-metallurgical-welding-welder-mask-protection-wallpaper-gathq/download/1920x1080  </remix>
+                     </image>
+                  </figure>
+                  <p>Welding requires considerable skill and experience in order to make high quality connections, but properly made welded connections can last the lifetime of the ship.</p>
+               </subsubsection>
+               <subsubsection xml:id="piping-systems-flanged-connections">
+                  <title>Flanged Connections</title>
+                  <p>Flanges are circular discs with machined faces, attached to the ends of a section of pipe.  Flanges provide a method of connecting pipes, valves, pumps and other equipment to form a piping system.</p>
+                  <figure xml:id="fig_flanges">
+                     <caption>Flanged Connections</caption>
+                     <sidebyside widths="45% 45%" valign="middle">
+                        <image source="pics/piping_systems/cadet_flange.png">
+                           <remix>  whaynes CC0  </remix>
+                        </image>
+                        <image source="pics/piping_systems/flange_connection.png">
+                           <remix>  https://www.wermac.org/flanges/flanges_pipe-connections_pipe-flanges.html  </remix>
+                        </image>
+                     </sidebyside>
+                  </figure>
+                  <p>Flanged joints are made by bolting together two adjacent flanges with a gasket between them to provide a seal.  Flanged connections are used for higher-pressure applications and situations where dismantling might be necessary. </p>
+                  <p>The materials and design of the flanges are governed by the requirements of service, and in most cases, a flange is of the same material as the pipe.  Flanges in steel piping systems are usually screwed or welded to the pipe or tubing, while flanges in nonferrous systems are usually brazed.</p>
+                  <p>A <term>blind flange</term> (also called a '<term>closure plate flange</term>') has no center hole, so nothing can flow through the flange. Blind flanges may be used to temporarily seal a piping system while testing, modifying or repairing the line, to create an access point in a piping system,  or to create a long-term seal to terminate a piping system that is not used.</p>
+                  <figure xml:id="fig_blind_flange">
+                     <caption>   Blind Flange  </caption>
+                     <image width="25%" source="pics/piping_systems/blind_flange.png">
+                        <remix>  https://www.wermac.org/flanges/flanges_pipe-connections_pipe-flanges.html  </remix>
+                     </image>
+                  </figure>
+                  <p>A <term>spectacle blind flange</term> is shaped like a pair of glasses or <em>spectacles</em>
+                     <emdash/> hence the name. One half is open to allow flow through during normal operation and the other side is solid to block flow and secure the system for maintenance.  The two halves are separated by a spacer with a hole for one flange bolt. They are generally installed in the piping system permanently. </p>
+                  <figure xml:id="fig_spectical_blind_flange">
+                     <caption>   Spectacle Blind Flange  </caption>
+                     <sidebyside width="40%" valign="middle">
+                        <image source="pics/piping_systems/spectical_blind_flange.png">
+                           <remix>  https://www.wermac.org/flanges/flanges_pipe-connections_pipe-flanges.html  </remix>
+                        </image>
+                        <image source="pics/piping_systems/spectical_pipe.png">
+                           <remix>  https://www.piping-designer.com/index.php/disciplines/mechanical/stationary-equipment/pipe-flanges/92-spectacle-blind</remix>
+                        </image>
+                     </sidebyside>
+                  </figure>
+                  <p>To change the position, the system must first be secured, depressurized and locked out.  After removing the flange bolts, the spectacle blind can be rotated to the other side, the gaskets replaced, and the bolts retightened.</p>
+                  <p>An <term>orifice flange</term> is used in conjunction with a differential pressure sensor to measure the rate of flow in the pipe. </p>
+                  <p>An <term>orifice</term> is a hole through which fluid may pass. When fluid flows through an orifice it creates a pressure drop, which is measured by the pressure sensor.  The flow rate through the orifice is proportional to the square root of the pressure drop and can be calculated knowing the orifice diameter. </p>
+                  <figure xml:id="fig_orifice_flange">
+                     <caption>Orifice Plates and Orifice Flange</caption>
+                     <sidebyside widths="35% 30%" valign="middle">
+                        <image source="pics/piping_systems/orifice_plates.png">
+                           <remix>  https://www.wermac.org/specials/orificeplate.html  </remix>
+                        </image>
+                        <image source="pics/piping_systems/orifice_flange.png">
+                           <remix>  https://www.wermac.org/flanges/flanges_pipe-connections_pipe-flanges.html  </remix>
+                        </image>
+                     </sidebyside>
+                  </figure>
+                  <p>The orifice flange assembly consists of a pair of flanges containing <term>pressure taps</term>, an <term>orifice plate</term>,  <term>jacking screws</term> and the normal gaskets, nuts and bolts.  The orifice plate has a precision hole (the <term>orifice</term>) drilled through its center, and a tab stamped with the hole diameter.  Taps are threaded holes drilled through the flanges where the differential pressure sensor is connected.  The jacking screws are used to spread the flanges when replacing the orifice plate.</p>
+               </subsubsection>
+               <subsubsection xml:id="piping-systems-threaded-connections">
+                  <title>Threaded Connections</title>
+                  <p>In a threaded pipe connection, matching male and female threads are screwed together to create a secure and leak-resistant joint.  Threaded pipe connections are widely used in plumbing systems, natural gas lines, water supply systems, <etc/> because they are relatively easy to fabricate and assemble; however they are not suitable for high pressure systems, nor for connections that are frequently taken apart.</p>
+                  <p>Standards were first developed about 200 years ago to define the shape and tolerances of threads used for pipes and pipe fittings in order to ensure compatibility and interchangeability between different components in piping systems.  Although various standards currently exist, the <term>National Pipe Tapered</term> (NPT) standard is the one most commonly used in the United States.</p>
+                  <p>Unlike the straight threads used for nuts and bolts, NPT pipe threads are <term>tapered</term>; that is, they are formed on a conical surface.  This conical surface  tapers at an angle of  <m>1.789^\circ = 1^\circ 47’</m>, which is equivalent to 1⁄16 inch per inch of length.</p>
+                  <figure xml:id="fig_npt_threads">
+                     <caption>   NPT Threads  </caption>
+                     <image width="50%" source="pics/piping_systems/npt_threads.png">
+                        <remix>  https://www.wermac.org/flanges/flanges_pipe-connections_pipe-flanges.html  </remix>
+                     </image>
+                  </figure>
+                  <p>Because of the taper, a pipe thread can only screw into a fitting so far before it jams. The standard specifies this distance as the length of hand tight engagement, the distance the pipe thread can be screwed in by hand. It also specifies another distance – the effective thread, this is the length of the thread which makes the seal on a conventional machined pipe thread. For workers, instead of these distances, it is more convenient to know how many turns to make by hand and how many with a wrench. A simple rule of thumb for installing tapered pipe threads, both metal and plastic, is finger tight plus one to two turns with a wrench.</p>
+                  <p>Tapered threads rely on the deformation of the pipe material to form a secure seal.  If they are properly aligned, screwed together using a pipe sealant, and not over-tightened, they will create a rigid and leak-free connection. However, they cannot be taken apart and put back together too many times before the threads will permanently wear out and leak.</p>
+               </subsubsection>
+               <subsubsection xml:id="piping-systems-soldered-and-brazed-connections">
+                  <title>Soldered and Brazed Connections</title>
+                  <p>Soldering and Brazing are both processes in which two parts are joined together using a molten filler metal.  After the filler material solidifies, a strong bond if formed. The difference between soldering and brazing has to do with the filler material, particularly its melting temperature.  </p>
+                  <p>Solder is an alloy that melts at 840 F or less.  Solder is composed primarily of tin, mixed with other metals such as nickel for added strength. Solder used to be a tin/lead mixture, but that is no longer used due to health risks of exposing drinking water to lead pipes.  Soldering is easier to learn than brazing and soldered joints can be reheated and taken apart.  </p>
+                  <p>Brazing alloys melt above 840 degrees.  Brazing alloys are typically made of a mix of copper and phosphorus or silver mixed with other elements.  Brazing creates a stronger connection than soldering that is less likely to leak.  </p>
+                  <p>Because of the relatively low melting temperatures, neither method can be used for high-temperature applications.</p>
+               </subsubsection>
+               <subsubsection xml:id="piping-systems-compression-fittings">
+                  <title>Compression Fittings</title>
+                  <p>Compression fittings consist of a nut and a ferrule that are tightened onto the pipe, compressing the ferrule against the pipe and creating a seal.</p>
+               </subsubsection>
+               <subsubsection xml:id="piping-systems-quick-connect-fittings">
+                  <title>Quick Connect Fittings</title>
+                  <p>
+                     <term>Quick-connect</term> fittings, also called a <term>push fittings</term>, are coupling used to provide a fast connections to hoses and flexible tubing, without the need for tools.  Some quick-connect fittings are self-sealing, so that upon disconnection they will automatically contain any fluid in the line.</p>
+                  <p>There are several types of quick connect fittings. Some of the most commonly used ones are:</p>
+                  <p>
+                     <term>Push-to-connect fittings</term> function by pushing one end into the other. To disconnect, a collar needs to be retracted. </p>
+                  <p>
+                     <term>Cam-lock</term> connectors uses foldable tabs on the female half to lock the receiver in place. This type of connection is used in applications involving hoses, such as sewage pumping or fire hoses. </p>
+                  <p>
+                     <term>Twist or bayonet fittings</term> utilize a 1/8 to 1/4 turn to connect and disconnect. Aboard ship, compressed air hoses for pneumatic tools often use twist fittings.</p>
+               </subsubsection>
+               <subsubsection xml:id="piping-systems-glued-connections">
+                  <title>Glued Connections</title>
+                  <p>This method is used for connecting <term>PVC</term> (Polyvinyl Chloride) pipes like those commonly found in home plumbing systems.  PVC pipes are not used in critical ship systems, because the material can fail due to the stresses caused by the motion of the vessel, and will fail in a fire .</p>
+                  <p>A solvent-based adhesive is applied to the pipe ends, which chemically melts the plastic and creates a strong bond when the pipes are pushed together.  </p>
+               </subsubsection>
             </subsection>
-            <subsection xml:id="piping-systems-threaded-pipe-fittings">
+            <subsection xml:id="pipe_fittings">
                <title>Threaded Pipe Fittings</title>
                <figure xml:id="fig_pipe_fittings">
                   <caption> Pipe Fittings </caption>
@@ -699,329 +693,29 @@ Because of the taper, a pipe thread can only screw into a fitting a certain dist
                      <remix>  mostly from www.jmesales.com  </remix>
                   </image>
                </figure>
-               <p>Pipe fittings play a crucial role in connecting, directing, and controlling the flow of fluids within a piping system. They come in various shapes, sizes, and configurations to accommodate different needs. Here's a list of common pipe fittings organized by categories:</p>
-               <p>**1. **Elbow Fittings:**</p>
-               <p>   - 90° Elbow</p>
-               <p>   - 45° Elbow</p>
-               <p>   - Long Radius Elbow</p>
-               <p>   - Short Radius Elbow</p>
-               <p>**2. **Tee Fittings:**</p>
-               <p>   - Equal Tee</p>
-               <p>   - Reducing Tee</p>
-               <p>   - Barred Tee (Branching Tee)</p>
-               <p>**3. **Reducer Fittings:**</p>
-               <p>   - Concentric Reducer</p>
-               <p>   - Eccentric Reducer</p>
-               <p>**4. **Coupling Fittings:**</p>
-               <p>   - Full Coupling</p>
-               <p>   - Half Coupling</p>
-               <p>**5. **Union Fittings:**</p>
-               <p>   - Union</p>
-               <p>   - Threaded Union</p>
-               <p>   - Socket Weld Union</p>
-               <p>**6. **Cross Fittings:**</p>
-               <p>   - Equal Cross</p>
-               <p>   - Reducing Cross</p>
-               <p>**7. **Cap Fittings:**</p>
-               <p>   - Cap</p>
-               <p>   - Plug</p>
-               <p>**8. **Nipple Fittings:**</p>
-               <p>   - Close Nipple</p>
-               <p>   - Short Nipple</p>
-               <p>   - Long Nipple</p>
-               <p>https://www.titanfittings.com/Articles.asp?ID=419</p>
-               <p>**9. **Flange Fittings:**</p>
-               <p>   - Slip-On Flange</p>
-               <p>   - Weld Neck Flange</p>
-               <p>   - Blind Flange</p>
-               <p>   - Lap Joint Flange</p>
-               <p>   - Socket Weld Flange</p>
-               <p>   - Threaded Flange</p>
-               <p>**11. **Cross Fittings:**</p>
-               <p>   - Equal Cross</p>
-               <p>   - Reducing Cross</p>
-               <p>**12. **Reducer Fittings:**</p>
-               <p>   - Concentric Reducer</p>
-               <p>   - Eccentric Reducer</p>
-               <p>**13. **Swage Fittings:**</p>
-               <p>   - Concentric Swage</p>
-               <p>   - Eccentric Swage</p>
-               <p>**14. **Locknut Fittings:**</p>
-               <p>   - Locknut</p>
-               <p>   - Hexagonal Locknut</p>
-               <p>**15. **Bushings and Inserts:**</p>
-               <p>   - Hexagonal Bushing</p>
-               <p>   - Threaded Insert</p>
-               <p>**16. **Crossover Fittings:**</p>
-               <p>   - Double Ferrule Crossover</p>
-               <p>   - Single Ferrule Crossover</p>
-               <p>**17. **Expansion Joint Fittings:**</p>
-               <p>   - Flexible Expansion Joint</p>
-               <p>   - Expansion Bellows</p>
-               <p>**18. **Quick Connect Fittings:**</p>
-               <p>   - Quick Coupler</p>
-               <p>   - Quick Disconnect</p>
-               <p>**19. **Valve Fittings:**</p>
-               <p>   - Gate Valve</p>
-               <p>   - Ball Valve</p>
-               <p>   - Globe Valve</p>
-               <p>   - Check Valve</p>
-               <p>   - Butterfly Valve</p>
-               <p>   - Needle Valve</p>
-               <p>**20. **Specialty Fittings:**</p>
-               <p>   - Instrumentation Fittings (for gauges and instruments)</p>
-               <p>   - P-trap (for plumbing)</p>
-               <p>This list provides an overview of various types of pipe fittings, but it's not exhaustive. Each fitting serves a specific purpose and can be chosen based on the requirements of the piping system, such as the type of fluid being transported, pressure and temperature conditions, and the overall layout of the system.</p>
-
-
-PIPE FITTINGS
-
-Pipe or tubing alone does not constitute a piping system. To make the pipe or tubing into a system, it is necessary to have a variety of fittings, connections, and accessories by which the sections of pipe or tubing can be properly joined and the flow of the transferred fluid may be controlled. The following sections of this chapter deal with some of the pipe fittings most commonly used in shipboard piping systems; these fittings include unions, flanges, expansion joints, flareless fluid connections, steam traps, strainers, and valves.
-
-UNIONS
-
-Union fittings are provided in piping systems to allow the piping to be taken down for repairs and alterations. Unions are available in many different materials and designs to withstand a wide range of pressures and temperatures. Figure 14-1 shows some commonly used types of unions.
-
-FLANGES
-
-Flanges are used in piping systems to allow easy removal of piping and other equipment. The materials used and the design of the flanges are governed by the requirements of service. Flanges in steel piping systems are usually welded to the pipe or tubing. Flanges in nonferrous systems are usually brazed to the pipe or tubing.
-
-EXPANSION JOINTS
-
-Expansion joints are used in some piping systems to allow the piping to expand and contract with temperature changes, without damage to the piping. Two basic types of expansion joints are used in shipboard piping systems: sliding-type joints and flexing-type joints. Sliding-type expansion joints include sleeve joints, rotary joints, ball and socket joints, and joints made up of some combination of these types. The amount of axial and rotary motion that can be abosrbed by any particular type</subsection>
-            <subsection xml:id="piping-systems-bends-and-elbows">
-               <title>Bends and elbows</title>
-               <p>Bends and elbows are important parts of any piping system as they allow the integration of flexibility of design by change in the flow direction of the media to be carried inside</p>
-               <p>The details of these important components are discussed in this chapter</p>
-               <p> Bend or Elbow</p>
-               <p>There is always a doubt about the terms bends and elbows on ships.</p>
-               <p>They are frequently used as synonyms. between them is as follows:</p>
-               <p>The difference</p>
-               <p> * Bend is a generic term for any offset or change of direction in the piping. It is a vague term that also includes elbows.</p>
-               <p>* An elbow is an engineering term and is classified as 90 deg or 45 deg, short or long radius.</p>
-               <p>* Elbows have industrial standards and have limitations to size, bend radius and angle. The angles are usually 45 deg or 90 degrees. All others offsets are classified as pipe bends.</p>
-               <p>* Bends are generally made or fabricated as per the need of the piping; however elbows are pre fabricated and standard, and are available off the shelf.</p>
-               <p>* Bends are never sharp corners but elbows are. Pipe bending techniques have constraint as to how much material thinning can be allowed to safely contain the pressure of the fluid to be contained. As elbows are pre fabricated, cast or butt welded, they can be sharp like right angles and return elbows which are 180 degrees.</p>
-               <p>* Elbow is a standard fitting but bends are custom fabricated.</p>
-               <p>* In bends as the pipe is bent and there is no welding involved, there is less pipe friction and flow is smoother. In elbows, the welding can create some friction.</p>
-               <p>* All elbows are bends but all bends are not elbows.</p>
-               <p>* Bend has a larger radius then elbows. 2</p>
-               <p>  * Generally the most basic difference is the radius of curvature. Elbows generally have radius of curvature between one to twice the diameter of the</p>
-               <p>pipe. Bends have a radius of curvature more than twice the diameter.</p>
-               <p>Short Radius and Long Radius</p>
-               <p>Elbows are again classified as long radius or short radius elbows. The difference between them of the length and curvature.</p>
-               <p>Following are some points to differentiate these two:</p>
-               <p>* Long radius elbows give less frictional resistance to the fluid than the short elbows.</p>
-               <p>* Long radius elbows create lesser pressure drop than short radius elbows.</p>
-               <p>* Short radius is less costly than long radius elbows.</p>
-               <p>* The short radius elbows are used where there is scarcity of space.</p>
-               <p> A short radius elbow will be giving the piping a sharper turn than a long radius elbow.</p>
-               <p>In a long radius elbow the radius of curvature is 1.5 times the nominal diameter. In a standard elbow the radius of curvature is 1.0 times the nominal diameter of the pipe.</p>
-               <p>In addition to this classification the elbows of 45 degrees, 90 degrees and 180 degrees are called as a return elbow.</p>
-               <p>  Miter bends</p>
-               <p>Another type of bend is a Miter bend. A Miter bend is a bend which is made by cutting pipe ends at an angle and joining the pipe ends. A true miter bend is a 90 degree bend made by cutting two pipes at 45 degrees and joining them by</p>
-               <p>welding. Similarly three pipes cut at 22.5 degrees will give a 90 degree miter bend.</p>
-               <p>  “Mitered bends are simple to make and can be readily compensated to act acoustically.”</p>
+               <paragraphs>
+                  <title>Pipe Nipples</title>
+                  <p>Pipe nipples are short sections of pipe with male threads on both ends. The are used to connect two female threaded pipe fittings..  </p>
+                  <p>
+                     <term>Close nipples</term> (a) are the shortest practical pipe nipple. The are used to connect two fittings very close to one another, leaving no unthreaded pipe exposed. Close or nipples are difficult to work with because the threads will be damaged with a pipe wrench, and the are difficult to remove without damage.</p>
+                  <p>
+                     <term>Short</term> or <term>shoulder nipples</term> (b) are longer than close nipples and have a very small section of unthreaded pipe in the middle. However, this unthreaded section is still not large enough to fit a pipe wrench to tighten or remove the nipple without damage.</p>
+                  <p>
+                     <term>Hex nipples</term> (c) are short nipples with a hexagonal center section that allows you to securely grasp the nipple with a wrench to tighten or remove it.</p>
+                  <p>
+                     <term>Long</term> or <term>barrel nipples</term> (d) have enough unthreaded pipe in the center to be gripped with a pipe wrench. </p>
+                  <p>Threaded pipe sections longer than about one foot are not considered nipples. </p>
+               </paragraphs>
+               <paragraphs>
+                  <title>Elbow Fittings</title>
+                  <p>A pipe elbow is a fitting used to join two sections of straight pipes at an angle.  </p>
+                  <p>Standard elbows are available in 90° (e) , 45° (f) and less commonly 22.5° (g) angles.  A <term>90° Ell</term> is also called a <term>quarter-bend</term>.   </p>
+                  <p>Standard elbows fit the same size pipe and female threads on both ends.  When one end is smaller than the other the fitting is called a <term>reducing elbow</term> (h), and when one end has male threads the fitting is called a <term>street elbow</term> (i).</p>
+                  <p>
+                     <term>Short radius elbows</term> have a radius of curvature of about one pipe diameter from center of the bend to the center of the elbow face, while the radius of curvature for <term>long radius elbows</term> is about one and a half diameters. Long radius elbows produce less turbulence in the fluid which results in reduced frictional losses and pressure drop, but they take up more room and are more expensive. </p>
+               </paragraphs>
             </subsection>
-            <subsection xml:id="piping-systems-types-of-elbow">
-               <title>Types of Elbow</title>
-               <p>Without elbows, it is impossible to think of a piping system on ship, especially in a limited place of installation. Elbows give flexibility for directing and building the piping system leading to saving of space and material.</p>
-               <p>Different types of elbows are used in the piping system of ships as per the space and design of installation.</p>
-               <p> * Male Elbow</p>
-               <p>A male elbow is a fitting with male threads on both sides and is used for changing the direction of the piping. They fix on to female threads of the fittings on both sides. They come in various angles like 45 degrees and 90 degrees.</p>
-               <p>* Female Elbow</p>
-               <p>A female elbow is a pipe fitting that is used to change the direction of the piping and has female threads on both sides, which allow for fixing pipes or fittings with male threads. They come in various angles like 45 degrees and 90 degrees.</p>
-               <p>* Street Elbow</p>
-               <p>A street elbow is different from the male and female elbows in the respect that it has a male thread on one side and a female thread on other side. The advantage of using the street elbow is that it can directly fix to the pipe without connecting a nipple. They come in various angles like 45 degrees and 90 degrees.</p>
-               <p>* Reducing Street Elbow</p>
-               <p>A reducing street elbow is a pipe fitting that has male thread on one side and unequal female threads on other side. They are used for altering the direction of flow as well as joining pipes of two different sizes. They come in various angles like 45 degrees and 90 degrees.</p>
-            </subsection>
-            <subsection xml:id="piping-systems-types-of-nipple">
-               <title>Types of Nipple</title>
-               <p>A nipple is basically a pipe with male threads on each side to facilitate joining two pipes or fittings with similar female threads.</p>
-               <p>It is made by cutting threads on both sides of a pipe by die or a suitable process. The nipples may be short or long.</p>
-               <p>* Hexagonal Reducer Nipple</p>
-               <p>A hexagonal reducer nipple is a hexagonal shaped nipple with two different sizes of threads on each side.</p>
-               <p>The purpose of the hexagonal reducer nipple is to connect the pipes of two different sizes together</p>
-               <p>* Hexagonal Nipple</p>
-               <p>A hexagonal nipple is a pipe connector with male threads on both sides and a hexagonal nut in between for easy installation and screwing.</p>
-               <p>Both sides are to be screwed in pipe or fitting having reciprocating female threads.</p>
-               <p> *Hexagonal Long Nipple</p>
-               <p>A hexagonal long nipple is used where the distance between the pipe and the fittings is to be joined.</p>
-               <p>They are otherwise similar to the hexagonal nipples apart from the length.</p>
-               <p>* Long Pipe Nipple</p>
-               <p>A long pipe nipple is similar to a standard nipple but longer in length</p>
-               <p>It is used when there is more distance between the fittings or when a fitting like a valve is to be put at a distance.</p>
-               <p> * Close Nipple</p>
-               <p>A close nipple is completely threaded</p>
-               <p>and there is no unthreaded area.</p>
-               <p>This means that there is no hexagonal nut of plain pipe for putting the wrench. These can be damaged by using wrenches. Therefore, a special tool called nipple wrench, which holds the nipple from inside, is used for fitting.</p>
-
-A nipple is a short piece of pipe that is used as a fitting to connect piping in plumbing applications. Nipple fittings are produced in various materials, although stainless steel nipples are the most common due to their strength and durability.
-Stainless steel nipples are usually made with male pipe thread (MPT) connections on both ends, connecting two separate female threaded pipes and fittings. The connection allows for a watertight seal between the fittings.
-Stainless steel nipples are primarily used in low-pressure piping systems, and the type of nipple used will vary with the size, temperature, and working pressure of the system. Therefore, depending on the specific application, there are various types of pipe nipples to choose from. This article will outline the uses of different types of stainless steel nipples.
-CLOSE PIPE/RUNNING PIPE NIPPLE
-A close pipe nipple is a stainless steel nipple that does not have an unthreaded section in the middle. These types of pipe nipples are also known as running nipples. These pipe nipples are designed such that connected fittings come very close to one another, leaving very little of the pipe nipple exposed.
-Generally, close or running pipe nipples are difficult to work with as they can easily become damaged upon removal unless specialty equipment is used.
-SHOULDER PIPE NIPPLE
-Shoulder pipe nipples are longer than close nipples and have a very small section of unthreaded pipe in the middle. However, this unthreaded section is not large enough to fit a pipe wrench to remove the nipple.
-HEXAGONAL PIPE NIPPLE
-Also known as a Hex pipe nipple, these are designed with a hexagonal-shaped middle section. This allows one to securely grasp the nipple with a wrench to tighten or remove it. This design feature provides a greater mechanical advantage than that of a normally rounded nipple. Hence, hex pipe nipples are used in various applications where nipples need to be regularly removed or replaced.
-REDUCING/UNEQUAL PIPE NIPPLE
-Reducing or unequal pipe nipples are designed to allow a female fitting with a large connection to attach to a relatively smaller one. These are normally used for piping systems where a change in pipe dimension and flow pressure is necessary.
-HOSE PIPE NIPPLE
-A Hose pipe nipple is designed with a male threaded connection on one end and a hose barb on the other end. These are normally used for piping systems that require a pipe to be connected to tubing.
-WELDING PIPE NIPPLE
-A welding pipe nipple has a male threaded connection on one end and a standard cut pipe on the other end. Once the unthreaded end is welded and connected, fitting a pipe to the threaded end becomes much easier. Welding pipe nipples are normally used in piping systems that require welding to connect components.
-
-Pip's Island Home » How to Measure Pipe Nipple Length? (5 Types)
-How To Measure Pipe Nipple Length? (5 Types)
-by Pip's Island Home
-
-Are you doing a DIY plumbing project and wondering how pipe nipples are measured? Or perhaps you are a plumbing rookie curious how to measure pipe nipples?
-Ordering the right size nipple is important in any successful plumbing installation. This small but crucial pipe fittings make all the difference in guaranteeing leakage-free low-pressure piping systems.
-So, just how are pipe nipples measured? This is a common concern among plumbing newbies looking to understand pipe fitting dimensions.
-Determining pipe nipple size is straightforward as you will find out in this guide. Read on for details on pipe nipples and how to measure the dimensions accurately when ordering these necessary fittings.
-What Is A Pipe Nipple?
-
-
-A pipe nipple is a fitting made from a short piece of pipe and typically comes with male threads on both ends. A nipple acts as an adapter, connecting two female threaded pipes or fittings.
-Manufacturers make nipples by cutting pipes of a certain length and creating the specific end connections that make the nipple unique. Like pipe, nipples can be welded or seamless.
-Nipples usually come in various lengths, but most are about 12”. Before discussing how pipe nipples are measured, let’s first look at the most common types of pipe nipples.
-Most Common Types Of Pipe Nipples
-1. Close Or Running Nipple
-
-
-One of the most common pipe nipples is the close nipple, also known as a running nipple. With this type of nipple, the entire short pipe is threaded with male threads. So when you connect a pipe on either end of the nipple, you wouldn’t see the nipple threads. The pipes or fittings on both sides come close, hiding the pipe nipple underneath.
-One disadvantage of a close nipple is that it can be difficult to unscrew from a pipe or fitting. If you want to unscrew the connection, you must grip one of the nipple’s threaded ends with a pipe wrench, which could damage the threads, requiring you to replace the nipple. A nipple wrench to grip the pipe or fitting’s interior can minimize thread damage.
-2. Hexagonal Nipple
-
-
-A pipe nipple has a small unthreaded space between the two threaded ends. You can place a wrench on the unthreaded space to grasp the nipple and avoid damaging the threads.
-The middle unthreaded space in some nipples has a hexagonal pattern resembling a nut. The hexagonal pattern provides a superior grip compared to a smooth pipe nipple.
-In some nipples, the unthreaded hexagonal space is slightly longer, making the threaded ends shorter. This type of nipple is known as a long hex.
-3. Reducing Nipple
-
-
-Sometimes, you may want to connect differently-sized pipes or fittings, i.e., one fitting or pipe may be larger than the other. In this case, it is best to use a reducing nipple, also known as an unequal nipple.
-A reducing nipple has the usual male threads on both ends but with different diameters. One end takes a female pipe with a larger connection, while the other end connects to a smaller pipe or fitting.
-Be careful when connecting a large pipe to a small one. The increased flow rate and pressure in the smaller fitting or pipe can cause a sudden and potentially dangerous outburst.
-4. Hose Nipple
-
-
-Another common type of nipple is the hose pipe nipple. As the name suggests, these nipples connect pipe to tubing.
-On one end of the nipple is a male threaded connection, while the other end of the nipple has a hose barb. The barb is usually more or less the same size as the threaded end of the nipple.
-5. Welding Nipple
-
-
-Welding nipples have one threaded and another non-threaded end that resembles a normal pipe. This nipple is handy when connecting a piping system to welded fittings or pipes.
-The unthreaded end has a greater surface area to take welded fittings, ensuring a strong connection. Connecting pipes/fittings to the threaded end is easier when the unthreaded end is securely connected to the welded fitting.
-When ordering pipe nipples, you must know the type of nipple that best suits your plumbing installation. Aside from the length and type of pipe, you should also understand the end connections required for your piping installation.
-These are the most common pipe nipple end connections:
-	•	Plain both ends (PBE): This nipple features threadless ends. It connects a welded socket in piping.
-	•	Threaded both ends (TBE): Many pipe nipples are threaded on both ends and help to connect female threaded pipe or fittings.
-	•	Beveled both ends (BBE): This pipe nipple connects welded pipes or fittings. It features beveled ends on both sides of the nipple.
-Other variations include threaded one end, plain one end, and beveled one end. Your choice will depend on the design and function of the piping system.
-How To Measure Pipe Nipple Length?
-
-
-When determining the right type of pipe nipple to buy, you must specify the following:
-	•	Inner or outer diameter
-	•	Pipe nipple length
-	•	Preferred nipple material
-	•	Type of end connection
-How are pipe nipples measured in terms of length? The length of a pipe nipple is the overall pipe length from one end of the nipple to the other. This formula applies whether the pipe nipple is plain on both ends, threaded on both ends, plain on one end, and threaded on the other. You can easily determine the nipple length using a caliper or thread and tape measure.
-When pipe/fitting is installed on a pipe nipple, you can determine the nipple length by subtracting the thread engagement of both ends of the nipple. The engagement is the length of pipe inserted into the nipple to achieve a snug, hand-fitted seal.
-In cases where the female threaded fittings come close to each other such that the nipple doesn’t show, the close length is calculated as two times the thread engagement.
-Use a nominal diameter conversion chart to determine the precise length of the pipe nipple in inches.
-How Do You Determine Pipe Size?
-
-
-In addition to learning how to measure pipe nipple size, you will also need to know how pipe size is measured. The upside is that determining pipe size is easy—all you need is the outside diameter for male threads and the inner diameter for female threads.
-To measure the pipe size for pipe/fittings with male threads, follow these steps:
-	1	Wrap a small string around the pipe
-	2	Use a marker pen to indicate where the string touches
-	3	Measure the string from the tip to the marked point using a tape measure or ruler. This is the pipe’s circumference.
-	4	Obtain the diameter by dividing the circumference by 3.14
-	5	Use the nominal diameter conversion chart to convert the diameter readings to the more accurate nominal diameter. The nominal diameter is the actual pipe size.
-The steps to measure the pipe size of a female threaded pipe are as follows:
-	1	Place a tape measure or ruler on the pipe’s opening to measure the inside diameter.
-	2	Use the nominal diameter chart for pipe sizes to convert the inside diameter to the nominal diameter, which is the pipe’s actual size.
-Tips For Measuring Metric Pipe Fittings
-
-
-Pipe fittings, including pipe nipples with metric thread, are quite common. Metric threaded fittings are also classified as tapered because the threads narrow the further in you get.
-If your pipe/fitting has metric threads, you should have the right thread measurements before ordering a pipe nipple that can take the metric threads.
-So, how do you measure metric pipe fittings? Here’s a step-by-step guide:
-Measure the thread pitch using a pair of calipers or a thread gauge. The thread pitch is measured in mm, and typically measures 1.0, 1.5. or 2.0, but you can find fittings with larger thread pitches.
-Determine the interior diameter for female threaded fittings and the outside diameter for male threaded fittings. This is how pipe thread is measured. (See the guide above on how to determine pipe size).
-Use a metric thread specification chart to identify a thread callout that will give you an estimate measure of the metric pipe fitting. A thread callout combines the pitch measurement, and fitting’s outside diameter.
-Summary: How Are Pipe Nipples Measured?
-Pipe nipples are important in ensuring secure and safe connections in piping systems. The right type and size nipple make a world of difference regarding the integrity of any plumbing system.
-Understanding how pipe nipples are measured will help you choose the right fittings. The figures might initially seem confusing, especially since you’d have to convert internal and outside diameters to nominal ones.
-But, with the right tools and a simple formula to follow, you should quickly learn how to measure pipe nipples and even determine pipe sizes. I hope this handy guide helps you get the hang of measuring pipe nipple length and size.</subsection>
-            <subsection xml:id="piping-systems-types-of-adapters">
-               <title>Types of Adapters</title>
-               <p>Pipe adapters are fittings that have to adapt to changes and are therefore used for joining different types of pipes such as a pipe to a hose. Adapters are used to extend or terminate the piping. They are also used to connect dissimilar pipes.</p>
-               <p>There are male to female adapters, parallel to taper thread adapters, and pipe to hose adapters etc. Pipe adapters have a male or female thread on one side and an opposite gender thread on the other side.</p>
-               <p>* Gauge Adapter</p>
-               <p>A gauge adapter is used for fitting pressure gauges and instrumentation fittings. They are used for the fitting of pressure measuring instrument such as pressure gauges, gauge cocks, shut off valves etc. The different types of gauge adapters are male – female adapters, female – female adapters, male – male adapters, self sealing nipples, LH-RH unions, union nut with nipple, compression fitting with ferrule, swivel adapters etc.</p>
-               <p>* Reducing Adapter</p>
-               <p>A reducing adapter is used for joining a pipe to a hose or tube as well as to help in flow control.</p>
-               <p>In doing so it controls the pressure acting on the hose at the end. It is used in applications where a copper tube is joined to the main steam pipe for trace heating. These are the main types of pipe fittings. However, there are many more types. In the next article we shall continue discussing about various pipe fittings.</p>
-               <p> * Hose Adapter</p>
-               <p>A hose adapter is used where a hose is connected to a pipe. It may be the termination of the piping like a garden hose at the end or a high rating hydraulic hose used to give flexibility and movability to the system</p>
-            </subsection>
-            <subsection xml:id="piping-systems-types-of-tee">
-               <title>Types of Tee</title>
-               <p>Pipe adapters are fittings that have to adapt to changes and are therefore used for joining different types of pipes such as a pipe to a hose. Adapters are used to extend or terminate the piping. They are also used to connect dissimilar pipes.</p>
-               <p>There are male to female adapters, parallel to taper thread adapters, pipe to hose adapters etc. Pipe adapters have a male or female thread on one side and an opposite gender thread on the other side.</p>
-               <p> * Male Tee</p>
-               <p> A male tee is a pipe fitting that joins two perpendicular pipes together or makes a “tee”. It is similar to a female tee but has male threads on all ends and joins to fittings with female threads.</p>
-               <p>*Female Tee</p>
-               <p>A female tee is a pipe fitting that joins one pipe to an another pipe in a perpendicular direction. The female tee is having female threads on all ends and pipes or fittings with male threads fix into it.</p>
-               <p> * Reducing Tee</p>
-               <p> A reducing tee has two openings of same size and one of different size. These are also used to join two pipes perpendicular to each other as well as to obtain flow control.</p>
-               <p>*Street Tee</p>
-               <p>A street tee is a pipe fitting which joins one pipe to another, perpendicular to it. In addition it has male threads on one end and female threads on other two.</p>
-               <p>* Cross Tee</p>
-               <p>A cross tee is a pipe fitting that joins four pipes at 90 degrees each. There is either one inlet or three outlets or vice versa.</p>
-            </subsection>
-            <subsection xml:id="piping-systems-miscellaneous-fittings">
-               <title>Miscellaneous Fittings</title>
-               <p>* Reducing Coupling</p>
-               <p>A reducer coupling is a coupling with two different sizes of threads on each side.</p>
-               <p>They can also be plain reducer coupling and hexagonal reducer coupling. They are used to connect two different sizes of pipes or fittings and sometimes also for flow control.</p>
-               <p>* Reducing Bushing</p>
-               <p>A reducing bushing is a pipe fitting with both male and female threads that joins two pipes of different diameters.</p>
-               <p>* Pipe Cap</p>
-               <p>A pipe cap is a fitting that seals the end of the pipe. It is like a plug but it has female threads and screws on the male threads on the end of a pipe or adapter</p>
-               <p>* Pipe Plug</p>
-               <p>A pipe plug is a fitting to close or seal the end of a pipe. A plug has male threads and screws on to the female threads on a fitting.</p>
-               <p/>
-            </subsection>
-
-Several types of metals are commonly used for pipes on ships due to their specific properties and suitability for marine environments. The choice of metal depends on factors such as corrosion resistance, strength, cost, and the type of fluid or gas being transported. Here are some of the metals frequently used for pipes on ships:
-
-1. **Carbon Steel:** Carbon steel pipes are widely used in shipbuilding due to their strength and cost-effectiveness. They are suitable for conveying various fluids and gases. However, carbon steel is susceptible to corrosion in marine environments, so protective coatings or regular maintenance might be necessary.
-
-2. **Stainless Steel:** Stainless steel is a popular choice for ship pipes because of its excellent corrosion resistance. Different grades of stainless steel are used depending on the level of corrosion resistance required and the specific fluids being transported. Types like 316 and 316L are commonly used in marine applications.
-
-3. **Copper:** Copper pipes are often used in ship plumbing systems for carrying freshwater and certain chemicals. Copper has good corrosion resistance and is especially effective against biofouling, making it suitable for potable water systems.
-
-4. **Nickel Alloys:** Nickel alloys, such as Monel and Inconel, are used in ship systems where resistance to high temperatures, corrosion, and stress is required. These alloys are often used in systems that handle harsh chemicals or high-temperature fluids.
-
-5. **Aluminum:** Aluminum pipes are lightweight and corrosion-resistant, making them ideal for applications where weight reduction is crucial, such as in air conditioning and ventilation systems.
-
-6. **Titanium:** Titanium pipes are highly corrosion-resistant and lightweight, making them suitable for seawater cooling systems and other applications where corrosion is a concern. However, titanium is more expensive than many other materials.
-
-7. **Brass:** Brass pipes are used in certain ship systems due to their corrosion resistance, especially in areas where saltwater exposure is frequent. They are commonly used in small-scale plumbing and valve systems.
-
-8. **Duplex Stainless Steel:** Duplex stainless steels combine the benefits of austenitic and ferritic stainless steels, offering high strength and excellent corrosion resistance. They are used in applications requiring both strength and resistance to aggressive marine environments.
-
-9. **Galvanized Steel:** Galvanized steel pipes are coated with a layer of zinc, providing moderate corrosion resistance. They are used in systems that are exposed to moisture and water, such as ballast systems.
-
-The choice of metal for pipes on ships depends on the specific needs of each application, regulatory requirements, and the balance between performance and cost. In critical systems, where corrosion resistance and reliability are paramount, higher-grade materials like stainless steel and nickel alloys are often preferred.</section>
+         </section>
          <section xml:id="valves">
             <title>Valves</title>
             <introduction>
