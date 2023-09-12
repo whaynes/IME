@@ -707,12 +707,46 @@
                   <p>Threaded pipe sections longer than about one foot are not considered nipples. </p>
                </paragraphs>
                <paragraphs>
+                  <title>Unions and Couplings</title>
+                  <p>Couplings<term/>and<term/>Pipe unions  are both pipe fittings used to join two pipes or nipples, but they are used in different situations. A coupling is used to make a permanent connection, while a union is used when the connection needs to be separated for maintenance from time to time.</p>
+                  <p>A <term>coupling</term> is a simple, short section of pipe with internal female threads.  Two sections of pipe are tightened into the coupling to make the connection.  In order to disassemble the connection, one of the pipes needs to be rotated through several rotations to unscrew it.  This often means that the entire system needs to be taken apart to remove one piece.  </p>
+                  <p>A <term>union</term> consists of three parts – a male and a female part with pipe threads and matching tapered faces, and a hexagonal union nut with internal threads which fits over the male part and screws onto the female part.  </p>
+                  <p>The union is assembled by placing the union over the male part,  then permanently screwing the the male and female parts onto the pipes. After the pipes are aligned, the union nut is tightened to draw the two tapered faces together to create a seal.  Pipes connected with a union can be taken apart by rotating the union nut without affecting other parts of the piping system..</p>
+                  <sidebyside widths="30% 20% 35%" valign="middle">
+                     <image source="pics/piping_systems/union_cross_section.png">
+                        <remix>  https://www.wermac.org/specials/orificeplate.html  </remix>
+                     </image>
+                     <image source="pics/piping_systems/union.png">
+                        <remix>  https://www.wermac.org/specials/orificeplate.html  </remix>
+                     </image>
+                     <image source="pics/piping_systems/union_exploded.png">
+                        <remix>  https://www.wermac.org/specials/orificeplate.html  </remix>
+                     </image>
+                  </sidebyside>
+               </paragraphs>
+               <paragraphs>
                   <title>Elbow Fittings</title>
                   <p>A pipe elbow is a fitting used to join two sections of straight pipes at an angle.  </p>
                   <p>Standard elbows are available in 90° (e) , 45° (f) and less commonly 22.5° (g) angles.  A <term>90° Ell</term> is also called a <term>quarter-bend</term>.   </p>
                   <p>Standard elbows fit the same size pipe and female threads on both ends.  When one end is smaller than the other the fitting is called a <term>reducing elbow</term> (h), and when one end has male threads the fitting is called a <term>street elbow</term> (i).</p>
                   <p>
                      <term>Short radius elbows</term> have a radius of curvature of about one pipe diameter from center of the bend to the center of the elbow face, while the radius of curvature for <term>long radius elbows</term> is about one and a half diameters. Long radius elbows produce less turbulence in the fluid which results in reduced frictional losses and pressure drop, but they take up more room and are more expensive. </p>
+               </paragraphs>
+               <paragraphs>
+                  <title>Tee Fittings</title>
+                  <p>
+                     <term>Tee fittings</term> are used to connect three sections of pipe at right angles, and are often used to make a branch line.  <term>Cross fittings</term> are similar, but connect four pipe sections  </p>
+                  <p>Standard Tees and Crosses use female threads and all connections are the same size, but unequal (reducing) and street (one male thread) varieties are sometimes available.</p>
+               </paragraphs>
+               <paragraphs>
+                  <title>Caps and Plugs</title>
+                  <p>
+                     <term>Caps</term> and <term>plugs</term> are pipe fittings used to seal the end of a section of pipe.  Caps are female threaded and plugs are male threaded.</p>
+               </paragraphs>
+               <paragraphs>
+                  <title>Adapter fittings</title>
+                  <p>Adapter fittings are used to connect components that have different sizes or thread forms together, for example: parallel to taper thread adapters, pipe to hose adapters</p>
+                  <p>Reducing adapters, as the name suggests are used to connect pipes of different sizes.  A <term>straight reducer</term> has female threads on both ends, while a straight <term>reducing bushing</term> has a large male thread and a smaller female thread.  Other reducing adapters including reducing elbow and tees are available with different combinations of male and female threads.</p>
                </paragraphs>
             </subsection>
          </section>

@@ -4254,7 +4254,6 @@ The feed pump is usually a turbine driven centrifugal pump, and the discharge pr
         </Document>
         <Document ID="38B35A89-AE4A-4A73-83F1-5CD4E059D63F">
             <Title>UNIONS</Title>
-            <Text>Union fittings are provided in piping systems to allow the piping to be taken down for repairs and alterations. Unions are available in many different materials and designs to withstand a wide range of pressures and temperatures. Figure 14-1 shows some commonly used types of unions.</Text>
         </Document>
         <Document ID="72618669-6F5E-436C-BFD8-44D905BCED0B">
             <Title>Threaded Pipe Fittings</Title>
@@ -4996,6 +4995,7 @@ The 3-phase output of the exciter is directed through the hollow drive shaft to 
 </Text>
         </Document>
         <Document ID="7DDC4A81-1688-448B-B569-94BE0B4D7B1E">
+            <Title>Adapter fittings</Title>
             <Text>Concentric Reducer
 Eccentric Reducer</Text>
         </Document>
@@ -7119,6 +7119,12 @@ This saves us from having to manually assign the “Front Matter” section type
 
 During Compile, documents assigned the “Front Matter” section type will be laid out differently from documents in the main body of the manuscript.</Notes>
         </Document>
+        <Document ID="86A1B309-915D-4A4F-A20B-2284C38228C9">
+            <Title>Adapter fittings</Title>
+            <Text>Adapter fittings are used to connect components that have different sizes or thread forms together, for example: parallel to taper thread adapters, pipe to hose adapters
+Reducing adapters, as the name suggests are used to connect pipes of different sizes.  A straight reducer has female threads on both ends, while a straight reducing bushing has a large male thread and a smaller female thread.  Other reducing adapters including reducing elbow and tees are available with different combinations of male and female threads.
+</Text>
+        </Document>
         <Document ID="4BB02E29-15A6-42B8-A3D7-95BE9B5774F9">
             <Title>Personal Safety</Title>
         </Document>
@@ -7126,11 +7132,6 @@ During Compile, documents assigned the “Front Matter” section type will be l
             <Title>Protective Equipment</Title>
             <Text>The distribution system is fully equipped with monitoring and metering instrumentation to measures electrical parameters like voltage, current, frequency, power factor, and electrical load, and monitors the system for ground faults.  This information helps in managing the electrical system operation and identifying potential issues.
 Each distribution branch is protected by multiple circuit breakers that protect the system from overloads, short circuits, and other faults.  The circuit breakers are coordinated so that when a fault occurs, the  circuit breaker closest to the fault trips, interrupting the flow of current to the fault area while minimizing disruption to the remainder of the system.
-</Text>
-        </Document>
-        <Document ID="86A1B309-915D-4A4F-A20B-2284C38228C9">
-            <Text>Adapter fittings are used to connect components that have different sizes or thread forms together, for example: parallel to taper thread adapters, pipe to hose adapters
-Reducing adapters, as the name suggests are used to connect pipes of different sizes.  A straight reducer has female threads on both ends, while a straight reducing bushing has a one large male thread and a smaller female thread.  Other reducing adapters including reducing elbow and tees are available with different combinations of male and female threads.
 </Text>
         </Document>
         <Document ID="CC80ED86-FE34-476B-9622-6D9F0DA99178">
@@ -37496,6 +37497,7 @@ The armature windings are the part of the generator where the voltage is induced
 In a typical AC synchronous generator, the rotor carries the field windings and the stator carries the armature windings, however the opposite arrangement is also possible.</Text>
         </Document>
         <Document ID="F69E24DD-3101-49CA-B8FD-B1EE085682BF">
+            <Title>Caps and Plugs</Title>
             <Text>Caps and plugs are pipe fittings used to seal the end of a section of pipe.  Caps are female threaded and plugs are male threaded.</Text>
         </Document>
         <Document ID="3398E671-B9ED-4B34-A476-CE7BDDAE3994">
@@ -37975,38 +37977,26 @@ The motors are fitted with two air-water heat exchangers providing cooled air wh
 </Text>
         </Document>
         <Document ID="D8F1912C-EF3E-43C3-BE51-550287C5DCD4">
-            <Title>Union fittings</Title>
-            <Text>Pipe Union is a type of fitting equipment designed in such a way to unite two pipes which can be detached without causing any deformation to the pipes. Any kind of small diameter piping connections requiring a positive seal and easy assembly as well as disassembly are made with the help of pipe union. In other words, the pipe unions can disjoint two pipes very easily. They are widely demanded in the pipe fitting market.
+            <Title>Unions and Couplings</Title>
+            <Text>Couplings and unions are both pipe fittings used to join two pipes or nipples, but they are used in different situations. A coupling is used to make a permanent connection, while a union is used when the connection that can be separated for maintenance from time to time.
+A coupling is a simple, short section of pipe with internal female threads.  Two sections of pipe are tightened into the coupling to make the connection.  In order to disassemble the connection, one of the pipes needs to be rotated through several rotations to unscrew it.  This often means that the entire system needs to be taken apart to remove one piece.  
+A union consists of three parts – a male and a female part with pipe threads and matching tapered faces, and a hexagonal union nut with internal threads which fits over the male part and screws onto the female part.  
+The union is assembled by placing the union over the male part,  then permanently screwing the male and female parts onto the pipes. After the pipes are aligned, the union nut is tightened to draw the two tapered faces together to create a seal.  Pipes connected with a union can be taken apart by rotating the union nut without affecting other parts of the piping system..
+&lt;sidebyside widths="30% 20% 35%" valign="middle"&gt;
+&lt;image source="pics/piping_systems/union_cross_section.png"&gt;
+&lt;remix&gt;&lt;![CDATA[  https://www.wermac.org/specials/orificeplate.html  ]]&gt;&lt;/remix&gt;
+&lt;/image&gt;
 
-Union connectors separate into three pieces so you can access your line without unthreading pipe connections. They have a gasket that creates a tight seal.
+&lt;image source="pics/piping_systems/union.png"&gt;
+&lt;remix&gt;&lt;![CDATA[  https://www.wermac.org/specials/orificeplate.html  ]]&gt;&lt;/remix&gt;
+&lt;/image&gt;
 
-The basic difference between a coupling and a union is that a coupling is for joining pipe to pipe or pipe to a swedge. A union is made for joining and disassemble of a part of a piping system (a steam trap or control valve, etc) for maintenance or replacement.
-
-Coupling and Adapter Fittings - Pipe couplers slip over the outside of two pipes to connect them, usually permanently. A coupling can be a reducer, or reducing coupling, meaning they reduce flow by joining a larger pipe to a smaller size. Adapters are used when connecting two pipes of different types. For example, an adapter could be fitted on the end of a plain pipe to allow a threaded connection at the other side of the adapter.
-
-Bushing Fittings - Bushings, sometimes called reducer bushings, are used for connecting two pipes of different sizes. The larger diameter of the bushing fits inside of the larger pipe. The smaller pipe is then inserted into the smaller end of the bushing.
- 
-Union Fittings - Unions are similar to couplings in that they connect two similar pipes. With pipe unions, a nut or threaded ring in the middle of the fitting is tightened to join two pipes. It can be easily removed by loosening the ring to disconnect the pipes, while a coupling must to be cut out to disconnect.
-
-A coupling is a short piece of pipe that connects two separate pipe sections together using a variety of methods. Some of these methods include soldering, welding, compression, and screwing. Also, couplings can serve to connect a pipe to a swage when a change in flow diameter is desirable.
-In practice, when a flow path exceeds the length of a single pipe, a coupling comes in to join both sections. In addition, whenever a pipeline undergoes repairs and needs replacement, couplings are what help to fit in the new section. Although screwing is one of the methods of installing a coupling, its purpose is to provide a permanent joint, with no foreseeable need for diassembly, unlike a union. There are three common types of pipe couplings in the industry.
-
-Pipe unions and couplings are both types of pipe fittings that join different parts of a flow system. However, a union makes it easy to separate and reassemble the joint from time to time vs a coupling that provides permanent connections. In this article, you will learn about pipe unions, pipe couplings, the differences between a union and coupling, and finally, frequently asked questions about union vs coupling.
-Pipe Union
-A pipe union is a common connector that provides ease in installation and disassembling, unlike a coupling. Generally, a union consists of three parts – a male end, a female end, and a nut. Both the female and male ends have threads internally and externally, respectively while nuts provide the sealing. So, each pipe section coming together screws unto the union and not each other. This makes it easy to detach and reattach a single connection without affecting other parts of the piping system. Although metals such as carbon steel, stainless steel, and alloys are the common materials for making unions, some are made from plastic. When this is the case, they prevent the occurrence of galvanic corrosion by isolating pipe sections of dissimilar metals.
-
-Although a union and coupling are both pipe fittings that connect various parts of a piping system, there are some basic differences between them.
+&lt;image source="pics/piping_systems/union_exploded.png"&gt;
+&lt;remix&gt;&lt;![CDATA[  https://www.wermac.org/specials/orificeplate.html  ]]&gt;&lt;/remix&gt;
+&lt;/image&gt;
 
 
-Coupling
-Provides a joint that is easy to install and remove.
-A coupling is a permanent joint that should not to be tampered with.
-The use of unions is more versatile as they can serve for pipe-to-pipe, as well as pipe connections to other components.
-Couplings are primarily for pipe-to-pipe connections. Thus, it serves as an extension of the pipeline.
-Generally, unions are deployed on threaded pipes. But larger diameter pipes use flanges.
-Although couplings may have threaded connections, they also deploy in welding, screwing, and compression connections.
-In practice, unions are best suited to low-pressure applications.
-Couplings provide more robust joints in high-pressure applications.
+&lt;/sidebyside&gt;
 </Text>
         </Document>
         <Document ID="F5E2724E-1C74-47BC-8DBB-7CA3AD6064D9">
@@ -40509,6 +40499,9 @@ Because of the relatively low melting temperatures, neither method can be used f
         </Document>
         <Document ID="A73D82A9-2636-4C25-8AF8-EAD7463BC86D">
             <Title>Chapter 14 - MMA Sea Term I</Title>
+        </Document>
+        <Document ID="37EDAD9A-63E9-4F5E-A436-DE4520E3B622">
+            <Title>Pipe, Tubes and Fittings</Title>
         </Document>
         <Document ID="899D8A2F-68AF-4464-B922-D8DE01CB5700">
             <Title>Stop Valves</Title>
