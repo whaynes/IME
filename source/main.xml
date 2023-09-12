@@ -9,7 +9,7 @@
 <p>A <term>Piping System</term>  is a network of pipe or tubing, pumps, valves, tanks and other components connected together to form a complete system for transferring, storing, and processing fluids. Piping systems are ubiquitous aboard the ship as well as in residential, industrial, and infrastructure applications.</p>
 <p>A <term>Piping and Instrumentation Diagram</term> (P&amp;ID) is a schematic diagram that that uses symbols to show the components of a piping system and how the are connected together.   P&amp;IDs are used for design and construction of the the system, and they provide a big picture view to help engineers understand, operate, and troubleshoot the system.</p></introduction>
 
-<section xml:id=""><title>Pipe, Tubes and Fittings</title>
+<section xml:id=""><title>Pipe and Tubes</title>
 <introduction>
 <p>Both pipes and tubes are long, hollow structures but the distinction between them is somewhat unclear.</p>
 <p><term>Pipes</term> are primarily used for fluid transport and are almost always cylindrical.  They are sized in terms of a <term>Nominal Pipe Size</term> (NPS) or Nominal Diameter (DN), which corresponds to the approximate <term>inside diameter</term> (ID). The internal diameter is the critical dimension for fluid flow, since it is needed to calculate pipe capacity, flow rates, and frictional losses.  Additionally, pipes must have sufficient <term>wall thickness</term> to handle the expected internal pressure.  Pipes have somewhat lenient tolerances, and may have variations in wall thickness along their length.</p>
@@ -681,8 +681,9 @@
 
 </subsubsection>
 </subsection>
+</section>
 
-<subsection xml:id="pipe_fittings" ><title>Threaded Pipe Fittings</title>
+<section xml:id="pipe_fittings"><title>Threaded Pipe Fittings</title>
 
 
 
@@ -705,10 +706,10 @@
 
 <paragraphs><title>Unions and Couplings</title>
 
-<p>Couplings<term> </term>and<term> </term>Pipe unions  are both pipe fittings used to join two pipes or nipples, but they are used in different situations. A coupling is used to make a permanent connection, while a union is used when the connection needs to be separated for maintenance from time to time.</p>
+<p>Couplings and unions are both pipe fittings used to join two pipes or nipples, but they are used in different situations. A coupling is used to make a permanent connection, while a union is used when the connection that can be separated for maintenance from time to time.</p>
 <p>A <term>coupling</term> is a simple, short section of pipe with internal female threads.  Two sections of pipe are tightened into the coupling to make the connection.  In order to disassemble the connection, one of the pipes needs to be rotated through several rotations to unscrew it.  This often means that the entire system needs to be taken apart to remove one piece.  </p>
 <p>A <term>union</term> consists of three parts – a male and a female part with pipe threads and matching tapered faces, and a hexagonal union nut with internal threads which fits over the male part and screws onto the female part.  </p>
-<p>The union is assembled by placing the union over the male part,  then permanently screwing the the male and female parts onto the pipes. After the pipes are aligned, the union nut is tightened to draw the two tapered faces together to create a seal.  Pipes connected with a union can be taken apart by rotating the union nut without affecting other parts of the piping system..</p>
+<p>The union is assembled by placing the union over the male part,  then permanently screwing the male and female parts onto the pipes. After the pipes are aligned, the union nut is tightened to draw the two tapered faces together to create a seal.  Pipes connected with a union can be taken apart by rotating the union nut without affecting other parts of the piping system..</p>
 <sidebyside widths="30% 20% 35%" valign="middle">
 <image source="pics/piping_systems/union_cross_section.png">
 <remix><![CDATA[  https://www.wermac.org/specials/orificeplate.html  ]]></remix>
@@ -747,7 +748,6 @@
 <p>Adapter fittings are used to connect components that have different sizes or thread forms together, for example: parallel to taper thread adapters, pipe to hose adapters</p>
 <p>Reducing adapters, as the name suggests are used to connect pipes of different sizes.  A <term>straight reducer</term> has female threads on both ends, while a straight <term>reducing bushing</term> has a large male thread and a smaller female thread.  Other reducing adapters including reducing elbow and tees are available with different combinations of male and female threads.</p>
 </paragraphs>
-</subsection>
 </section>
 
 <section xml:id="valves"><title>Valves</title>
