@@ -12,12 +12,15 @@
          <section xml:id="piping-systems-pipe-and-tubes">
             <title>Pipe and Tubes</title>
             <introduction>
-               <p>Both pipes and tubes are long, hollow structures but the distinction between them is somewhat unclear.</p>
+               <p>In industry, pipe and tube are nearly interchangeable terms. Both describe long hollow cylinders of uniform material with a certain amount of rigidity and permanence.</p>
                <p>
-                  <term>Pipes</term> are primarily used for fluid transport and are almost always cylindrical.  They are sized in terms of a <term>Nominal Pipe Size</term> (NPS) or Nominal Diameter (DN), which corresponds to the approximate <term>inside diameter</term> (ID). The internal diameter is the critical dimension for fluid flow, since it is needed to calculate pipe capacity, flow rates, and frictional losses.  Additionally, pipes must have sufficient <term>wall thickness</term> to handle the expected internal pressure.  Pipes have somewhat lenient tolerances, and may have variations in wall thickness along their length.</p>
+                  <term>Pipes</term> are primarily used for fluid transport and are almost always cylindrical.  Generally, pipe and pipe fittings are sized in terms of a <term>Nominal Pipe Size</term> (NPS) or Nominal Diameter (DN), which corresponds to the approximate <term>inside diameter</term> (ID). The internal diameter is the critical dimension for fluid flow, since it is needed to calculate pipe capacity, flow rates, and frictional losses.  Additionally, pipes must have sufficient <term>wall thickness</term> to handle the expected internal pressure.  Pipes have somewhat lenient tolerances, and may have variations in wall thickness along their length.</p>
                <p>
-                  <term>Tubes</term> are used for fluid transport as well, but also for other applications, particularly for fabricating structures. (For example, scaffolding and bike frames.)  Pipes are rigid and resistant to bending but some tubes such as copper and brass tubes are flexible enough to be easily bent. </p>
-               <p>Tubes are available with various cross-sections, including round, square, rectangular, or oval.  They usually have thinner walls than pipe, making them lighter but less capable of handling high internal pressures. They are often chosen for applications where weight is a consideration. Tubes are sized based on <em>outside</em> dimensions and wall thickness.  Tubes are manufactured with tighter tolerances than pipe, resulting in more precise dimensions and wall thickness consistency.  </p>
+                  <term>Tubes</term>, like pipes, are used for fluid transport, but also for other applications, particularly for fabricating structures. (For example, scaffolding and bike frames.)  Pipes are rigid and resistant to bending but some tubes such as copper and plastic tubes are flexible enough to be easily bent. </p>
+               <p>Tubes are available with various cross-sections, including round, square, rectangular, or oval.  They usually have thinner walls than pipe, making them lighter but less capable of handling high internal pressures. They are often chosen for applications where weight is a consideration. </p>
+               <p>Tubes are sized based on their exact <em>outside</em> dimensions and wall thickness.  Tubes are manufactured with tighter tolerances than pipe, resulting in more precise dimensions and wall thickness consistency.  </p>
+               <p>
+                  <term>Hoses</term> are also used for fluid transport, but hoses are typically more portable and flexible, and are made up of multiple layers of different materials.</p>
             </introduction>
             <subsection xml:id="piping-systems-pipe-materials">
                <title>Pipe Materials</title>
@@ -572,7 +575,7 @@
                   </tabular>
                </table>
             </subsection>
-            <subsection xml:id="piping-systems-pipe-connections">
+            <subsection xml:id="pipe-connections">
                <title>Pipe Connections</title>
                <introduction>
                   <p>Pipe or tubing alone does not constitute a piping system. To make the pipe or tubing into a system, the various components of the complete system must be connected together.  </p>
@@ -645,7 +648,7 @@
                <subsubsection xml:id="piping-systems-threaded-connections">
                   <title>Threaded Connections</title>
                   <p>In a threaded pipe connection, matching male and female threads are screwed together to create a secure and leak-resistant joint.  Threaded pipe connections are widely used in plumbing systems, natural gas lines, water supply systems, <etc/> because they are relatively easy to fabricate and assemble; however they are not suitable for high pressure systems, nor for connections that are frequently taken apart.</p>
-                  <p>Standards were first developed about 200 years ago to define the shape and tolerances of threads used for pipes and pipe fittings in order to ensure compatibility and interchangeability between different components in piping systems.  Although various standards currently exist, the <term>National Pipe Tapered</term> (NPT) standard is the one most commonly used in the United States.</p>
+                  <p>Standards were first developed about 200 years ago to define the shape and tolerances of threads used for pipes and pipe fittings in order to ensure compatibility and interchangeability between different components in piping systems.  Although various standards currently exist, the <term>National Pipe Tapered</term> (NPT) standard is the one most commonly used in the United States.  NPTM and NPTF are abbreviations for NPT-Male and NPT-Female threads.</p>
                   <p>Unlike the straight threads used for nuts and bolts, NPT pipe threads are <term>tapered</term>; that is, they are formed on a conical surface.  This conical surface  tapers at an angle of  <m>1.789^\circ = 1^\circ 47’</m>, which is equivalent to 1⁄16 inch per inch of length.</p>
                   <figure xml:id="fig_npt_threads">
                      <caption>   NPT Threads  </caption>
@@ -663,9 +666,25 @@
                   <p>Brazing alloys melt above 840 degrees.  Brazing alloys are typically made of a mix of copper and phosphorus or silver mixed with other elements.  Brazing creates a stronger connection than soldering that is less likely to leak.  </p>
                   <p>Because of the relatively low melting temperatures, neither method can be used for high-temperature applications.</p>
                </subsubsection>
-               <subsubsection xml:id="piping-systems-compression-fittings">
-                  <title>Compression Fittings</title>
-                  <p>Compression fittings consist of a nut and a ferrule that are tightened onto the pipe, compressing the ferrule against the pipe and creating a seal.</p>
+               <subsubsection xml:id="piping-systems-compression-connections">
+                  <title>Compression Connections</title>
+                  <p>In some systems, mechanically strong, leak tight connections can by compressing the pipe or tube in a compression or flare fitting.</p>
+                  <p>
+                     <term>Compression fittings</term> are made up of three basic elements: the <term>compression nut</term> , the <term>ferrule</term> , and the body.  The tubing is slipped through the nut and the ferrule and then inserted into the end of the body.  By tightening the nut/screw the ferrule is forced into the fitting body. As the ferrule  moves axially into the fitting body, the body’s angled shape compresses the end of the ferrule onto the outer diameter of the tubing. It is this radial compression that creates a leak tight seal between the fitting, ferrule, and tubing, and gives the compression fitting its name.</p>
+                  <figure xml:id="fig_compression_fitting">
+                     <caption>  Compression Fitting  </caption>
+                     <image width="50%" source="pics/piping_systems/compression_fitting.png">
+                        <remix>  https://www.globalspec.com/learnmore/flow_control_fluid_transfer/pipe_tubing_hose_fittings_accessories/pipe_fittings </remix>
+                     </image>
+                  </figure>
+                  <p>Flare fittings consist of a body with a flared or coned end. Special flaring tools are used to create a matching flare on the pipe.  The flare nut compresses the flare into the fitting body and creates the seal. Flare fittings can handle higher pressures and a wider range of operating parameters than standard compression fittings.</p>
+                  <figure xml:id="fig_flare_fitting">
+                     <caption>  Flare Fitting </caption>
+                     <image width="50%" source="pics/piping_systems/flare_fitting.png">
+                        <remix>  Home Depot  </remix>
+                     </image>
+                  </figure>
+                  <p>Compression connections are quick and require little skill to make, but they cannot withstand very high pressures.  Also, there are only a few materials that are suitably compressible (ex. copper, brass, plastic) to use this method.</p>
                </subsubsection>
                <subsubsection xml:id="piping-systems-quick-connect-fittings">
                   <title>Quick Connect Fittings</title>
@@ -685,70 +704,112 @@
                   <p>A solvent-based adhesive is applied to the pipe ends, which chemically melts the plastic and creates a strong bond when the pipes are pushed together.  </p>
                </subsubsection>
             </subsection>
-         </section>
-         <section xml:id="pipe_fittings">
-            <title>Threaded Pipe Fittings</title>
-            <figure xml:id="fig_pipe_fittings">
-               <caption> Pipe Fittings </caption>
-               <image width="100%" source="pics/piping_systems/pipe_fittings.png">
-                  <remix>  mostly from www.jmesales.com  </remix>
-               </image>
-            </figure>
-            <paragraphs>
-               <title>Pipe Nipples</title>
-               <p>Pipe nipples are short sections of pipe with male threads on both ends. The are used to connect two female threaded pipe fittings..  </p>
-               <p>
-                  <term>Close nipples</term> (a) are the shortest practical pipe nipple. The are used to connect two fittings very close to one another, leaving no unthreaded pipe exposed. Close or nipples are difficult to work with because the threads will be damaged with a pipe wrench, and the are difficult to remove without damage.</p>
-               <p>
-                  <term>Short</term> or <term>shoulder nipples</term> (b) are longer than close nipples and have a very small section of unthreaded pipe in the middle. However, this unthreaded section is still not large enough to fit a pipe wrench to tighten or remove the nipple without damage.</p>
-               <p>
-                  <term>Hex nipples</term> (c) are short nipples with a hexagonal center section that allows you to securely grasp the nipple with a wrench to tighten or remove it.</p>
-               <p>
-                  <term>Long</term> or <term>barrel nipples</term> (d) have enough unthreaded pipe in the center to be gripped with a pipe wrench. </p>
-               <p>Threaded pipe sections longer than about one foot are not considered nipples. </p>
-            </paragraphs>
-            <paragraphs>
-               <title>Unions and Couplings</title>
-               <p>Couplings and unions are both pipe fittings used to join two pipes or nipples, but they are used in different situations. A coupling is used to make a permanent connection, while a union is used when the connection that can be separated for maintenance from time to time.</p>
-               <p>A <term>coupling</term> is a simple, short section of pipe with internal female threads.  Two sections of pipe are tightened into the coupling to make the connection.  In order to disassemble the connection, one of the pipes needs to be rotated through several rotations to unscrew it.  This often means that the entire system needs to be taken apart to remove one piece.  </p>
-               <p>A <term>union</term> consists of three parts – a male and a female part with pipe threads and matching tapered faces, and a hexagonal union nut with internal threads which fits over the male part and screws onto the female part.  </p>
-               <p>The union is assembled by placing the union over the male part,  then permanently screwing the male and female parts onto the pipes. After the pipes are aligned, the union nut is tightened to draw the two tapered faces together to create a seal.  Pipes connected with a union can be taken apart by rotating the union nut without affecting other parts of the piping system..</p>
-               <sidebyside widths="30% 20% 35%" valign="middle">
-                  <image source="pics/piping_systems/union_cross_section.png">
-                     <remix>  https://www.wermac.org/specials/orificeplate.html  </remix>
-                  </image>
-                  <image source="pics/piping_systems/union.png">
-                     <remix>  https://www.wermac.org/specials/orificeplate.html  </remix>
-                  </image>
-                  <image source="pics/piping_systems/union_exploded.png">
-                     <remix>  https://www.wermac.org/specials/orificeplate.html  </remix>
-                  </image>
-               </sidebyside>
-            </paragraphs>
-            <paragraphs>
-               <title>Elbow Fittings</title>
-               <p>A pipe elbow is a fitting used to join two sections of straight pipes at an angle.  </p>
-               <p>Standard elbows are available in 90° (e) , 45° (f) and less commonly 22.5° (g) angles.  A <term>90° Ell</term> is also called a <term>quarter-bend</term>.   </p>
-               <p>Standard elbows fit the same size pipe and female threads on both ends.  When one end is smaller than the other the fitting is called a <term>reducing elbow</term> (h), and when one end has male threads the fitting is called a <term>street elbow</term> (i).</p>
-               <p>
-                  <term>Short radius elbows</term> have a radius of curvature of about one pipe diameter from center of the bend to the center of the elbow face, while the radius of curvature for <term>long radius elbows</term> is about one and a half diameters. Long radius elbows produce less turbulence in the fluid which results in reduced frictional losses and pressure drop, but they take up more room and are more expensive. </p>
-            </paragraphs>
-            <paragraphs>
-               <title>Tee Fittings</title>
-               <p>
-                  <term>Tee fittings</term> are used to connect three sections of pipe at right angles, and are often used to make a branch line.  <term>Cross fittings</term> are similar, but connect four pipe sections  </p>
-               <p>Standard Tees and Crosses use female threads and all connections are the same size, but unequal (reducing) and street (one male thread) varieties are sometimes available.</p>
-            </paragraphs>
-            <paragraphs>
-               <title>Caps and Plugs</title>
-               <p>
-                  <term>Caps</term> and <term>plugs</term> are pipe fittings used to seal the end of a section of pipe.  Caps are female threaded and plugs are male threaded.</p>
-            </paragraphs>
-            <paragraphs>
-               <title>Adapter fittings</title>
-               <p>Adapter fittings are used to connect components that have different sizes or thread forms together, for example: parallel to taper thread adapters, pipe to hose adapters</p>
-               <p>Reducing adapters, as the name suggests are used to connect pipes of different sizes.  A <term>straight reducer</term> has female threads on both ends, while a straight <term>reducing bushing</term> has a large male thread and a smaller female thread.  Other reducing adapters including reducing elbow and tees are available with different combinations of male and female threads.</p>
-            </paragraphs>
+            <subsection xml:id="pipe_fittings">
+               <title>Pipe Fittings</title>
+               <introduction>
+                  <p>Pipe fittings are the parts used to join pipe sections together with other system components like valves and pumps to build complete piping systems.</p>
+                  <p>As discussed in <xref ref="pipe-connections"/>, pipe fittings may be welded,  threaded, mechanically joined, or chemically adhered, to name the most common mechanisms, depending on the material of the pipe.  Some of the most common pipe fittings are described in the following sections.  The photos show threaded iron fittings, but similar fittings are available for other materials and connection methods.</p>
+               </introduction>
+               <subsubsection xml:id="piping-systems-pipe-nipples">
+                  <title>Pipe Nipples</title>
+                  <p>Pipe nipples are short sections of pipe with male threads on both ends. The are used to connect two female threaded pipe fittings.</p>
+                  <figure xml:id="fig_nipples">
+                     <caption> Nipples: Close, Short, Hex, Long  </caption>
+                     <image width="100%" source="pics/piping_systems/nipples.png">
+                        <remix>  https://www.wallpaperflare.com/man-worker-sparks-metallurgical-welding-welder-mask-protection-wallpaper-gathq/download/1920x1080  </remix>
+                     </image>
+                  </figure>
+                  <p>
+                     <term>Close nipples</term> are the shortest practical pipe nipple. The are used to connect two fittings very close to one another, leaving no unthreaded pipe exposed. Close or nipples are difficult to work with because the threads will be damaged with a pipe wrench, and the are difficult to remove without damage.</p>
+                  <p>
+                     <term>Short</term> or <term>shoulder nipples</term>  are longer than close nipples and have a very small section of unthreaded pipe in the middle. However, this unthreaded section is still not large enough to fit a pipe wrench to tighten or remove the nipple without damage.</p>
+                  <p>
+                     <term>Hex nipples</term> are short nipples with a hexagonal center section that allows you to securely grasp the nipple with a wrench to tighten or remove it.</p>
+                  <p>
+                     <term>Long</term> or <term>barrel nipples</term>  have enough unthreaded pipe in the center to be gripped with a pipe wrench. </p>
+                  <p>Threaded pipe sections longer than about one foot are not considered nipples. </p>
+               </subsubsection>
+               <subsubsection xml:id="piping-systems-unions-and-couplings">
+                  <title>Unions and Couplings</title>
+                  <p>Couplings and unions are both pipe fittings used to join two pipes or nipples together, but they are used in different situations. Couplings are used to make a permanent connections, while unions are used to permit the system to be taken apart for maintenance from time to time.</p>
+                  <figure xml:id="fig_coupling_union">
+                     <caption>  Coupling and Union  </caption>
+                     <image width="50%" source="pics/piping_systems/coupling_union.png">
+                        <remix>  https://www.wallpaperflare.com/man-worker-sparks-metallurgical-welding-welder-mask-protection-wallpaper-gathq/download/1920x1080  </remix>
+                     </image>
+                  </figure>
+                  <p>A <term>coupling</term> is a simple, short section of pipe with internal female threads.  Two sections of pipe are tightened into the coupling to make the connection.  In order to disassemble the connection, one of the pipes needs to be rotated through several rotations to unscrew it.  This is not too practical because the entire system may need to be taken apart to remove one piece.  </p>
+                  <p>A <term>union</term> consists of three parts – a male and a female part with pipe threads and matching tapered faces, and a hexagonal union nut with internal threads which fits over the male part and screws onto straight threads on the female part.  </p>
+                  <p>The union is assembled by placing the union over the male part,  then threading the male and female parts permanently onto the pipes. After the pipes are aligned, the union nut is tightened to draw the two tapered faces together to create a seal.  Pipe dope or teflon tape must be used on the tapered threads, but should not be used on the mating faces.  Pipes connected with a union can be taken apart by rotating the union nut without affecting other parts of the piping system..</p>
+                  <figure>
+                     <caption>Union Cross-section and Disassembled</caption>
+                     <sidebyside widths="50% 40%" valign="middle">
+                        <image source="pics/piping_systems/union_cross_section.png">
+                           <remix>  https://www.wermac.org/specials/orificeplate.html  </remix>
+                        </image>
+                        <image source="pics/piping_systems/union_exploded.png">
+                           <remix>  https://www.wermac.org/specials/orificeplate.html  </remix>
+                        </image>
+                     </sidebyside>
+                  </figure>
+               </subsubsection>
+               <subsubsection xml:id="piping-systems-elbow-fittings">
+                  <title>Elbow Fittings</title>
+                  <p>A pipe elbow is a fitting used to join two sections of straight pipes at an angle.  </p>
+                  <figure xml:id="fig_elbows">
+                     <caption> Elbows: 90<degree/>, 45<degree/>, 22.5<degree/>, Street Ell, Reducing Ell  </caption>
+                     <image width="100%" source="pics/piping_systems/elbows.png">
+                        <remix>  https://www.wallpaperflare.com/man-worker-sparks-metallurgical-welding-welder-mask-protection-wallpaper-gathq/download/1920x1080  </remix>
+                     </image>
+                  </figure>
+                  <p>Standard elbows are available in 90<degree/>  , 45<degree/> and less commonly 22.5<degree/> angles.  A <term>90<degree/> Ell</term> is also called a <term>quarter-bend</term>.   </p>
+                  <p>Standard elbows fit the same size pipe and female threads on both ends.  When one end is smaller than the other the fitting is called a <term>reducing elbow</term> (h), and when one end has male threads the fitting is called a <term>street elbow</term> (i).</p>
+                  <p>
+                     <term>Short radius elbows</term> have a radius of curvature of about one pipe diameter from center of the bend to the center of the elbow face, while the radius of curvature for <term>long radius elbows</term> is about one and a half diameters. Long radius elbows produce less turbulence in the fluid which results in reduced frictional losses and pressure drop, but they take up more room and are more expensive. </p>
+               </subsubsection>
+               <subsubsection xml:id="piping-systems-tee-fittings">
+                  <title>Tee Fittings</title>
+                  <p>
+                     <term>Tee fittings</term> are used to connect three sections of pipe at right angles, and are often used to make a branch line.  <term>Cross fittings</term> are similar, but connect four pipe sections  </p>
+                  <figure xml:id="fig_tee_cross">
+                     <caption> Tee and Cross  </caption>
+                     <image width="50%" source="pics/piping_systems/tee_cross.png">
+                        <remix>  https://www.wallpaperflare.com/man-worker-sparks-metallurgical-welding-welder-mask-protection-wallpaper-gathq/download/1920x1080  </remix>
+                     </image>
+                  </figure>
+                  <p>Standard Tees and Crosses use female threads and all connections are the same size, but unequal (reducing) and street (one male thread) varieties are sometimes available.</p>
+               </subsubsection>
+               <subsubsection xml:id="piping-systems-caps-and-plugs">
+                  <title>Caps and Plugs</title>
+                  <p>
+                     <term>Caps</term> and <term>plugs</term> are pipe fittings used to seal the end of a section of pipe.  Caps are female threaded and plugs are male threaded.</p>
+                  <figure xml:id="fig_cap_plug">
+                     <caption> Cap and Plug  </caption>
+                     <image width="50%" source="pics/piping_systems/cap_plug.png">
+                        <remix>  https://www.wallpaperflare.com/man-worker-sparks-metallurgical-welding-welder-mask-protection-wallpaper-gathq/download/1920x1080  </remix>
+                     </image>
+                  </figure>
+               </subsubsection>
+               <subsubsection xml:id="piping-systems-adapters">
+                  <title>Adapters</title>
+                  <p>
+                     <term>Adapter</term> fittings are used to connect components that have different threads, diameters or connection methods together, for example: straight to taper thread adapters, pipe to hose adapters,<etc/>.</p>
+                  <figure xml:id="fig_adapters">
+                     <caption> Adapters:  NPT to straight, NPT to Flare Fitting, NPT to copper pipe  </caption>
+                     <image width="80%" source="pics/piping_systems/adapters.png">
+                        <remix>  https://www.wallpaperflare.com/man-worker-sparks-metallurgical-welding-welder-mask-protection-wallpaper-gathq/download/1920x1080  </remix>
+                     </image>
+                  </figure>
+                  <p>
+                     <term>Reducing adapters</term>, as the name suggests, are used to connect pipes of different sizes.  A <term>straight reducer</term> has female threads on both ends, while a straight <term>reducing bushing</term> has a large male thread and a smaller female thread.  Other reducing adapters including reducing elbow and tees are available with different combinations of male and female threads.</p>
+                  <figure xml:id="fig_reducer_bushing">
+                     <caption>  Straight Reducer and Reducing Bushing  </caption>
+                     <image width="50%" source="pics/piping_systems/reducer_bushing.png">
+                        <remix>  https://www.wallpaperflare.com/man-worker-sparks-metallurgical-welding-welder-mask-protection-wallpaper-gathq/download/1920x1080  </remix>
+                     </image>
+                  </figure>
+               </subsubsection>
+            </subsection>
          </section>
          <section xml:id="valves">
             <title>Valves</title>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="9CEE092B-52A4-40FD-A463-60A47C53A797" Version="2.0" Creator="SCRMAC-3.3.1-15588" Device="whaynes-fireball-2" Author="" Modified="2023-09-12 10:02:07 -0400" ModID="04A151C8-72F7-445A-81F6-3AF95CE902DF">
+<ScrivenerProject Identifier="9CEE092B-52A4-40FD-A463-60A47C53A797" Version="2.0" Creator="SCRMAC-3.3.1-15588" Device="whaynes-MBP" Author="" Modified="2023-09-12 23:12:51 -0400" ModID="F633EE27-83FB-4926-8452-4EA88B0F092B">
     <Binder>
         <BinderItem UUID="7A583553-3A84-40D6-B9B9-0430B8CD3E39" Type="DraftFolder" Created="2023-05-29 09:45:48 -0400" Modified="2023-05-29 09:45:48 -0400">
             <Title>Draft</Title>
@@ -3124,14 +3124,14 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="A151F21E-9DB0-4A2E-8CC0-F258638E7524" Type="Text" Created="2023-09-04 09:58:36 -0400" Modified="2023-09-10 10:59:58 -0400">
+                                <BinderItem UUID="A151F21E-9DB0-4A2E-8CC0-F258638E7524" Type="Text" Created="2023-09-04 09:58:36 -0400" Modified="2023-09-12 22:40:47 -0400">
                                     <Title>introduction</Title>
                                     <MetaData>
                                         <SectionType>9D1ADC50-E7BB-4E40-BA04-CCA44927A08E</SectionType>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>1437,2</TextSelection>
+                                        <TextSelection>281,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="5823802B-C704-42B3-AD53-70CB7283790B" Type="Folder" Created="2023-08-31 16:39:37 -0400" Modified="2023-09-10 11:56:27 -0400">
@@ -3163,10 +3163,16 @@
                                         </BinderItem>
                                     </Children>
                                 </BinderItem>
-                                <BinderItem UUID="87E10200-AA7E-47A0-8EBC-BB7BE0F06FC0" Type="Folder" Created="2023-08-31 16:43:12 -0400" Modified="2023-09-04 18:55:03 -0400">
+                                <BinderItem UUID="87E10200-AA7E-47A0-8EBC-BB7BE0F06FC0" Type="Folder" Created="2023-08-31 16:43:12 -0400" Modified="2023-09-12 21:43:56 -0400">
                                     <Title>Pipe Connections</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
+                                        <CustomMetaData>
+                                            <MetaDataItem>
+                                                <FieldID>xml:id</FieldID>
+                                                <Value>pipe-connections</Value>
+                                            </MetaDataItem>
+                                        </CustomMetaData>
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>0,0</TextSelection>
@@ -3200,13 +3206,13 @@
                                                 <TextSelection>3457,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="20CF9A49-E291-42F6-98EA-6A6CD9772B6E" Type="Folder" Created="2023-09-10 10:49:59 -0400" Modified="2023-09-10 18:34:29 -0400">
+                                        <BinderItem UUID="20CF9A49-E291-42F6-98EA-6A6CD9772B6E" Type="Folder" Created="2023-09-10 10:49:59 -0400" Modified="2023-09-12 20:52:35 -0400">
                                             <Title>Threaded Connections</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>2280,4</TextSelection>
+                                                <TextSelection>853,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem UUID="87B2B451-F533-4482-9CBC-3D6AD4D7C4E0" Type="Folder" Created="2023-09-10 10:49:54 -0400" Modified="2023-09-10 21:18:03 -0400">
@@ -3218,13 +3224,13 @@
                                                 <TextSelection>1008,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="4E1835AF-1E55-4890-B218-F353710266B5" Type="Folder" Created="2023-09-10 10:49:57 -0400" Modified="2023-09-10 16:10:41 -0400">
-                                            <Title>Compression Fittings</Title>
+                                        <BinderItem UUID="4E1835AF-1E55-4890-B218-F353710266B5" Type="Folder" Created="2023-09-10 10:49:57 -0400" Modified="2023-09-12 23:12:29 -0400">
+                                            <Title>Compression Connections</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>147,0</TextSelection>
+                                                <TextSelection>1297,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem UUID="0F10E296-B6A0-4746-9CED-CEA666AB960B" Type="Folder" Created="2023-09-10 10:50:01 -0400" Modified="2023-09-10 16:11:23 -0400">
@@ -3262,72 +3268,68 @@
                                         <TextSelection>1,0</TextSelection>
                                     </TextSettings>
                                     <Children>
-                                        <BinderItem UUID="16973B43-CD05-43B5-A3FC-BB216B24FB0A" Type="Text" Created="2023-09-10 21:58:47 -0400" Modified="2023-09-10 21:58:57 -0400">
+                                        <BinderItem UUID="16973B43-CD05-43B5-A3FC-BB216B24FB0A" Type="Text" Created="2023-09-10 21:58:47 -0400" Modified="2023-09-12 21:47:25 -0400">
+                                            <Title>introduction</Title>
                                             <MetaData>
+                                                <SectionType>9D1ADC50-E7BB-4E40-BA04-CCA44927A08E</SectionType>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>218,0</TextSelection>
+                                                <TextSelection>555,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="EABFDCDC-C15B-4880-B49E-74F8B57DEF74" Type="Text" Created="2023-09-10 10:47:16 -0400" Modified="2023-09-10 22:02:33 -0400">
+                                        <BinderItem UUID="EABFDCDC-C15B-4880-B49E-74F8B57DEF74" Type="Folder" Created="2023-09-10 10:47:16 -0400" Modified="2023-09-12 21:48:17 -0400">
                                             <Title>Pipe Nipples</Title>
                                             <MetaData>
-                                                <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>869,0</TextSelection>
+                                                <TextSelection>1020,1</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="D8F1912C-EF3E-43C3-BE51-550287C5DCD4" Type="Text" Created="2023-09-10 10:38:14 -0400" Modified="2023-09-11 22:29:46 -0400">
+                                        <BinderItem UUID="D8F1912C-EF3E-43C3-BE51-550287C5DCD4" Type="Folder" Created="2023-09-10 10:38:14 -0400" Modified="2023-09-12 21:56:16 -0400">
                                             <Title>Unions and Couplings</Title>
                                             <MetaData>
-                                                <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>945,0</TextSelection>
+                                                <TextSelection>1963,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="57A37EBA-A19C-44C1-8561-CE3342A110C8" Type="Text" Created="2023-09-10 10:38:01 -0400" Modified="2023-09-10 22:53:29 -0400">
+                                        <BinderItem UUID="57A37EBA-A19C-44C1-8561-CE3342A110C8" Type="Folder" Created="2023-09-10 10:38:01 -0400" Modified="2023-09-12 21:43:06 -0400">
                                             <Title>Elbow Fittings</Title>
                                             <MetaData>
-                                                <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>837,0</TextSelection>
+                                                <TextSelection>450,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="496211BF-4C84-48E1-8916-D05C55A7B976" Type="Text" Created="2023-09-11 10:53:07 -0400" Modified="2023-09-11 11:06:27 -0400">
+                                        <BinderItem UUID="496211BF-4C84-48E1-8916-D05C55A7B976" Type="Folder" Created="2023-09-11 10:53:07 -0400" Modified="2023-09-12 21:43:09 -0400">
                                             <Title>Tee Fittings</Title>
                                             <MetaData>
-                                                <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>347,0</TextSelection>
+                                                <TextSelection>261,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="F69E24DD-3101-49CA-B8FD-B1EE085682BF" Type="Text" Created="2023-09-11 10:47:40 -0400" Modified="2023-09-11 10:48:52 -0400">
+                                        <BinderItem UUID="F69E24DD-3101-49CA-B8FD-B1EE085682BF" Type="Folder" Created="2023-09-11 10:47:40 -0400" Modified="2023-09-12 21:43:12 -0400">
                                             <Title>Caps and Plugs</Title>
                                             <MetaData>
-                                                <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>9,5</TextSelection>
+                                                <TextSelection>213,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="86A1B309-915D-4A4F-A20B-2284C38228C9" Type="Text" Created="2023-09-11 11:08:51 -0400" Modified="2023-09-11 21:23:45 -0400">
-                                            <Title>Adapter fittings</Title>
+                                        <BinderItem UUID="86A1B309-915D-4A4F-A20B-2284C38228C9" Type="Folder" Created="2023-09-11 11:08:51 -0400" Modified="2023-09-12 22:30:34 -0400">
+                                            <Title>Adapters</Title>
                                             <MetaData>
-                                                <SectionType>C25A5009-E5E6-441A-936C-C29E1879ADAC</SectionType>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>348,0</TextSelection>
+                                                <TextSelection>287,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                     </Children>
@@ -7953,13 +7955,13 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 08:24:39 -0400" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2023-09-13 01:00:00 -0400" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2023-09-12 09:42:01 -0400"/>
+        <PreviousSession Words="575" Characters="4912" Date="2023-09-12 20:03:21 -0400"/>
     </ProjectTargets>
     <RecentWritingHistory Date="2023-09-12 00:00:00 -0400">
-        <DraftWordCount>0</DraftWordCount>
-        <DraftCharCount>0</DraftCharCount>
+        <DraftWordCount>575</DraftWordCount>
+        <DraftCharCount>4912</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
-    <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
+    <PrintSettings PaperSize="611.999972,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
