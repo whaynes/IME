@@ -195,7 +195,7 @@ var ptx_lunr_docs = [
   "url": "safety-osha---29cfr.html",
   "type": "Subsubsection",
   "number": "1.2.1.3",
-  "title": "OSHA &amp; 29CFR",
+  "title": "OSHA & 29CFR",
   "body": " OSHA & 29CFR   OSHA , the Occupational Safety and Health Administration, is a U.S. federal agency under the Department of Labor. OSHA's primary mission is to ensure safe and healthy working conditions for employees by enforcing workplace safety regulations, conducting inspections, and providing resources to help employers and workers prevent workplace injuries, illnesses, and fatalities.  OSHA regulations are found in the US Code of Federal Regulations , Title 29 CFR Part 1910 where they address many aspects of workplace safety, including:  Personal Protective Equipment (PPE)  Lockout\/Tagout (LOTO)  Confined Spaces  Electrical Safety  Machine Guarding  Fall Protection  Welding, Cutting, and Brazing  Respiratory Protection  Chemical Exposure  Hazard Communication    It's important to note that OSHA regulations mainly pertain to workplaces on land. For most safety matters on board ship, the U.S. Coast Guard and international maritime regulations (such as SOLAS) take precedence; however OSHA regulations are sensible guidance that should be followed whenever possible whether you are working at sea, at a shore job, or even at home.  "
 },
 {
@@ -1545,7 +1545,7 @@ var ptx_lunr_docs = [
   "url": "topic-faradays-law.html",
   "type": "Subsection",
   "number": "4.1.9",
-  "title": "Faraday’s Law",
+  "title": "Faraday's Law",
   "body": " Faraday's Law  Electromagnetic induction was discovered by English scientist Michael Faraday in 1831. It is not an exaggeration to say that this discovery is the foundation of the modern world.  Faraday observed that a changing magnetic field induces an EMF in a nearby conductor. You can observe this yourself by moving a magnet around and through a coil of wire connected to a sensitive voltmeter. When the magnetic field passing through the coil changes, whether by moving the magnet through the coil, by moving the conductor through the field, or by varying the strength of the field, a voltage is induced in the conductor that can be used to drive current and deliver electrical power.   Faraday's law of electromagnetic induction states that the induced EMF in a closed coil is directly proportional to the rate of change of magnetic flux passing through the circuit. Mathematically, it is expressed as: Where:  EMF is the induced electromotive force (in volts)   is the number of turns in the coil   is the rate of change in magnetic flux (in webers\/sec)    The opposite is also true. When an electric current flows through a conductor, it generates a magnetic field that surrounds the conductor. This phenomenon is called Oersted’s principle , and it is principle behind motors, solenoids, and electromagnets.  The experiment setup in demonstrates both Faraday’s Law and Oersted’s Principle.   Faraday’s Experiment    Two coils are wrapped around opposite sides of an iron ring. The left coil is connected to a battery and a switch. The right coil is connected to a galvanometer, which is an instrument that detects small voltages.  When the switch is closed, current flowing in the left coil produces a magnetic field surrounding the conductor (Oersted’s principle). This field is trapped and channeled through the right hand coil by the iron ring. As the field builds up when the switch is closed, or collapses when the switch is opened, a voltage is detected on the galvanometer (Faraday’s Law). However, If the switch is left in either position for very long, the voltage decays to zero, and remains that way until the switch is once again flipped. This indicates the the induced voltage is caused by a changing magnetic flux and not by the flux alone.  "
 },
 {
@@ -3016,13 +3016,661 @@ var ptx_lunr_docs = [
   "body": "Power Management System "
 },
 {
-  "id": "piping-systems-pipe",
+  "id": "piping-systems-pipe-materials",
   "level": "1",
-  "url": "piping-systems-pipe.html",
-  "type": "Section",
-  "number": "5.1",
-  "title": "Pipe",
-  "body": " Pipe  TBD  "
+  "url": "piping-systems-pipe-materials.html",
+  "type": "Subsection",
+  "number": "5.1.1",
+  "title": "Pipe Materials",
+  "body": " Pipe Materials  Pipe and tube are manufactured using various materials. The choice depends on factors such as the fluid being transported, temperature and pressure conditions, corrosion considerations, cost, USCG and ABS regulations  Here are few of the materials used in shipboard piping systems.   Welded carbon steel tubing is used for water, steam, and oil lines where the maximum temperature is below 450° F. There are several varieties of carbon steel and it is relatively cost-effective.   Seamless carbon steel tubing is used in oil, steam, and feed water lines operating up to 775° F.   Seamless carbon-molybdenum and chromium-molybdenum alloy steel tubing are used for high temperature, high pressure systems, up to 1500 psig and 1050° F for chrome-moly   Copper-nickel alloy tubing and Seamless brass tubing are both widely used in low pressure systems which must resist the corrosive action of salt water   Nickel alloys , such as Monel and Inconel . These are two families of high-performance alloys known for their exceptional resistance to corrosion, high temperatures, and various harsh environments.   Seamless copper tubing is used for refrigeration lines, plumbing and heating systems, lubrication systems, and other shipboard systems.   Seamless aluminum tubing is used for dry lines in sprinkling systems and for some bilge and sanitary drain systems.   Stainless steel tubing has excellent strength and corrosion resistance. It is often used in hydraulic systems.   Black iron pipe is an informal name for a mild-steel pipe that is used with threaded fittings for easy assembly of low pressure piping systems. It is susceptible to galvanic corrosion, especially when it comes in contact with other materials in a salt water environment.  "
+},
+{
+  "id": "p-767",
+  "level": "2",
+  "url": "piping-systems-pipe-materials.html#p-767",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Welded carbon steel tubing "
+},
+{
+  "id": "p-768",
+  "level": "2",
+  "url": "piping-systems-pipe-materials.html#p-768",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Seamless carbon steel tubing "
+},
+{
+  "id": "p-769",
+  "level": "2",
+  "url": "piping-systems-pipe-materials.html#p-769",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Seamless carbon-molybdenum chromium-molybdenum alloy "
+},
+{
+  "id": "p-770",
+  "level": "2",
+  "url": "piping-systems-pipe-materials.html#p-770",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Copper-nickel alloy tubing Seamless brass tubing "
+},
+{
+  "id": "p-771",
+  "level": "2",
+  "url": "piping-systems-pipe-materials.html#p-771",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Nickel alloys Monel Inconel "
+},
+{
+  "id": "p-772",
+  "level": "2",
+  "url": "piping-systems-pipe-materials.html#p-772",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Seamless copper tubing "
+},
+{
+  "id": "p-773",
+  "level": "2",
+  "url": "piping-systems-pipe-materials.html#p-773",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Seamless aluminum tubing "
+},
+{
+  "id": "p-774",
+  "level": "2",
+  "url": "piping-systems-pipe-materials.html#p-774",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Stainless steel "
+},
+{
+  "id": "p-775",
+  "level": "2",
+  "url": "piping-systems-pipe-materials.html#p-775",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Black iron pipe "
+},
+{
+  "id": "piping-systems-pipe-size",
+  "level": "1",
+  "url": "piping-systems-pipe-size.html",
+  "type": "Subsection",
+  "number": "5.1.2",
+  "title": "Pipe Size",
+  "body": " Pipe Size  Pipe sizes in the United States are specified by two numbers: The Nominal Pipe Size (NPS) in inches and the Schedule (Sch.) number. The European (ISO) equivalent designation is the  diamètre nominal  (DN), where the diameter is given in millimeters.  In engineering a nominal value is a quantity used for the name of an object. Nominal values are usually close to, but not the same as, the actual value. For example a 2 4 is the name of a piece of lumber with finished dimensions closer to 1-1\/2 inches by 3-1\/2 inches. A 120 Volt outlet may provide anywhere between 114 V and 126 V. Nominal values are a convenient shorthand; a rounded figure easy to use and remember.  The NPS is approximately equal to the inside diameter of the pipe for nominal pipe sizes up to 12 inches; above 12 inches, the nominal pipe size is equal to the outside diameter. Nominal dimensions are used in order to simplify the standardization of pipe fittings and pipe taps and threading dies. Pipe fittings with and pipe with the same nominal size are compatible.   Pipe schedule describes the wall thickness of pipes. There are eleven standard Schedule numbers: 5, 10, 20, 30, 40, 60, 80, 100, 120, 140, and 160, with higher numbers indicating thicker walls. The most common sizes found aboard ship are Schedule 40, sometimes called standard weight , and Schedule 80. Schedule 40 is the lightest weight used for steam applications. Schedule 40 and 80 pipes are available in the full range of nominal sizes from 1\/8 inch to 48 inch. Other schedules are more limited.  As the schedule number increases, the pipe wall thickness increases, the inside diameter ( bore ) decreases and the pressure rating of the pipe increases, so for example a 1 inch Schedule 40 pipe which has an outside diameter of 1.315 inches and a wall thickness of 0.133 inches, has a bore of 1.049 inches, while a similar 1 inch Schedule 80 pipe has the same outside diameter, but a wall thickness of 0.179 inches giving a bore of 0.957 inch   NPS Pipe Schedule - Wall thickness in inches. ASME B36.10     NPS  OD Inch.  Sch. 5  Sch. 10  Sch. 40  Sch. 80  Sch. 160    1\/8  0.405  .035  .049  .068  .095     1\/4  0.54  .049  .065  .088  .119     3\/8  0.675  .049  .065  .091  .126     1\/2  0.84  .065  .083  .109  .147  .187    3\/4  1.05  .065  .083  .113  .154  .218    1  1.315  .065  .109  .133  .179  .250    1-1\/4  1.66  .065  .109  .140  .191  .250    1-1\/2  1.9  .065  .109  .145  .200  .281    2  2.375  .065  .109  .154  .218  .343    2-1\/2  2.875  .083  .120  .203  .276  .375    3  3.5  .083  .120  .216  .300  .437    3-1\/2  4  .083  .120  .226  .318     4  4.5  .083  .120  .237  .337  .531    5  5.563  .109  .134  .258  .375  .625    6  6.625  .109  .134  .280  .432  .718    8  8.625  .109  .148  .322  .500  .906    10  10.75  .134  .165  .365  .593  1.125    12  12.75  .165  .180  .365  .593  1.125    14  14   .250  .437  .750  1.406    16  16   .250  .500  .843  1.593    18  18   .250  .562  .937  1.781    20  20   .250  .593  1.031  1.968     "
+},
+{
+  "id": "p-776",
+  "level": "2",
+  "url": "piping-systems-pipe-size.html#p-776",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Nominal Pipe Size Schedule diamètre nominal "
+},
+{
+  "id": "p-777",
+  "level": "2",
+  "url": "piping-systems-pipe-size.html#p-777",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "nominal "
+},
+{
+  "id": "p-779",
+  "level": "2",
+  "url": "piping-systems-pipe-size.html#p-779",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Pipe schedule standard weight "
+},
+{
+  "id": "p-780",
+  "level": "2",
+  "url": "piping-systems-pipe-size.html#p-780",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "bore "
+},
+{
+  "id": "table-3",
+  "level": "2",
+  "url": "piping-systems-pipe-size.html#table-3",
+  "type": "Table",
+  "number": "5.1.1",
+  "title": "NPS Pipe Schedule - Wall thickness in inches.  ASME B36.10",
+  "body": " NPS Pipe Schedule - Wall thickness in inches. ASME B36.10     NPS  OD Inch.  Sch. 5  Sch. 10  Sch. 40  Sch. 80  Sch. 160    1\/8  0.405  .035  .049  .068  .095     1\/4  0.54  .049  .065  .088  .119     3\/8  0.675  .049  .065  .091  .126     1\/2  0.84  .065  .083  .109  .147  .187    3\/4  1.05  .065  .083  .113  .154  .218    1  1.315  .065  .109  .133  .179  .250    1-1\/4  1.66  .065  .109  .140  .191  .250    1-1\/2  1.9  .065  .109  .145  .200  .281    2  2.375  .065  .109  .154  .218  .343    2-1\/2  2.875  .083  .120  .203  .276  .375    3  3.5  .083  .120  .216  .300  .437    3-1\/2  4  .083  .120  .226  .318     4  4.5  .083  .120  .237  .337  .531    5  5.563  .109  .134  .258  .375  .625    6  6.625  .109  .134  .280  .432  .718    8  8.625  .109  .148  .322  .500  .906    10  10.75  .134  .165  .365  .593  1.125    12  12.75  .165  .180  .365  .593  1.125    14  14   .250  .437  .750  1.406    16  16   .250  .500  .843  1.593    18  18   .250  .562  .937  1.781    20  20   .250  .593  1.031  1.968    "
+},
+{
+  "id": "piping-systems-welded-connections",
+  "level": "1",
+  "url": "piping-systems-welded-connections.html",
+  "type": "Subsubsection",
+  "number": "5.1.3.1",
+  "title": "Welded Connections",
+  "body": " Welded Connections  Welding involves melting the base metals (pipes) to fuse them together, typically using an electric arc or gas flame. Common welding methods for pipes include TIG (Tungsten Inert Gas), MIG (Metal Inert Gas), and stick welding.  Welding produces a strong and permanent connection suitable for high-pressure and high-temperature applications; however, welded connections are less flexible than soldered or brazed joints, which can be a disadvantage in some situations.   Arc Welding   https:\/\/www.wallpaperflare.com\/man-worker-sparks-metallurgical-welding-welder-mask-protection-wallpaper-gathq\/download\/1920x1080    Welding requires considerable skill and experience in order to make high quality connections, but properly made welded connections can last the lifetime of the ship.  "
+},
+{
+  "id": "fig_pipe_welding",
+  "level": "2",
+  "url": "piping-systems-welded-connections.html#fig_pipe_welding",
+  "type": "Figure",
+  "number": "5.1.2",
+  "title": "",
+  "body": " Arc Welding   https:\/\/www.wallpaperflare.com\/man-worker-sparks-metallurgical-welding-welder-mask-protection-wallpaper-gathq\/download\/1920x1080   "
+},
+{
+  "id": "piping-systems-flanged-connections",
+  "level": "1",
+  "url": "piping-systems-flanged-connections.html",
+  "type": "Subsubsection",
+  "number": "5.1.3.2",
+  "title": "Flanged Connections",
+  "body": " Flanged Connections  Flanges are circular discs with machined faces, attached to the ends of a section of pipe. Flanges provide a method of connecting pipes, valves, pumps and other equipment to form a piping system.   Flanged Connections    whaynes CC0    https:\/\/www.wermac.org\/flanges\/flanges_pipe-connections_pipe-flanges.html     Flanged joints are made by bolting together two adjacent flanges with a gasket between them to provide a seal. Flanged connections are used for higher-pressure applications and situations where dismantling might be necessary.  The materials and design of the flanges are governed by the requirements of service, and in most cases, a flange is of the same material as the pipe. Flanges in steel piping systems are usually screwed or welded to the pipe or tubing, while flanges in nonferrous systems are usually brazed.  A blind flange (also called a ' closure plate flange ') has no center hole, so nothing can flow through the flange. Blind flanges may be used to temporarily seal a piping system while testing, modifying or repairing the line, to create an access point in a piping system, or to create a long-term seal to terminate a piping system that is not used.   Blind Flange   https:\/\/www.wermac.org\/flanges\/flanges_pipe-connections_pipe-flanges.html    A spectacle blind flange is shaped like a pair of glasses or spectacles  hence the name. One half is open to allow flow through during normal operation and the other side is solid to block flow and secure the system for maintenance. The two halves are separated by a spacer with a hole for one flange bolt. They are generally installed in the piping system permanently.   Spectacle Blind Flange    https:\/\/www.wermac.org\/flanges\/flanges_pipe-connections_pipe-flanges.html    https:\/\/www.piping-designer.com\/index.php\/disciplines\/mechanical\/stationary-equipment\/pipe-flanges\/92-spectacle-blind     To change the position, the system must first be secured, depressurized and locked out. After removing the flange bolts, the spectacle blind can be rotated to the other side, the gaskets replaced, and the bolts retightened.  An orifice flange is used in conjunction with a differential pressure sensor to measure the rate of flow in the pipe.  An orifice is a hole through which fluid may pass. When fluid flows through an orifice it creates a pressure drop, which is measured by the pressure sensor. The flow rate through the orifice is proportional to the square root of the pressure drop and can be calculated knowing the orifice diameter.   Orifice Plates and Orifice Flange    https:\/\/www.wermac.org\/specials\/orificeplate.html    https:\/\/www.wermac.org\/flanges\/flanges_pipe-connections_pipe-flanges.html     The orifice flange assembly consists of a pair of flanges containing pressure taps , an orifice plate , jacking screws and the normal gaskets, nuts and bolts. The orifice plate has a precision hole (the orifice ) drilled through its center, and a tab stamped with the hole diameter. Taps are threaded holes drilled through the flanges where the differential pressure sensor is connected. The jacking screws are used to spread the flanges when replacing the orifice plate.  "
+},
+{
+  "id": "fig_flanges",
+  "level": "2",
+  "url": "piping-systems-flanged-connections.html#fig_flanges",
+  "type": "Figure",
+  "number": "5.1.3",
+  "title": "",
+  "body": " Flanged Connections    whaynes CC0    https:\/\/www.wermac.org\/flanges\/flanges_pipe-connections_pipe-flanges.html    "
+},
+{
+  "id": "p-789",
+  "level": "2",
+  "url": "piping-systems-flanged-connections.html#p-789",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "blind flange closure plate flange "
+},
+{
+  "id": "fig_blind_flange",
+  "level": "2",
+  "url": "piping-systems-flanged-connections.html#fig_blind_flange",
+  "type": "Figure",
+  "number": "5.1.4",
+  "title": "",
+  "body": " Blind Flange   https:\/\/www.wermac.org\/flanges\/flanges_pipe-connections_pipe-flanges.html   "
+},
+{
+  "id": "p-790",
+  "level": "2",
+  "url": "piping-systems-flanged-connections.html#p-790",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "spectacle blind flange "
+},
+{
+  "id": "fig_spectical_blind_flange",
+  "level": "2",
+  "url": "piping-systems-flanged-connections.html#fig_spectical_blind_flange",
+  "type": "Figure",
+  "number": "5.1.5",
+  "title": "",
+  "body": " Spectacle Blind Flange    https:\/\/www.wermac.org\/flanges\/flanges_pipe-connections_pipe-flanges.html    https:\/\/www.piping-designer.com\/index.php\/disciplines\/mechanical\/stationary-equipment\/pipe-flanges\/92-spectacle-blind    "
+},
+{
+  "id": "p-792",
+  "level": "2",
+  "url": "piping-systems-flanged-connections.html#p-792",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "orifice flange "
+},
+{
+  "id": "p-793",
+  "level": "2",
+  "url": "piping-systems-flanged-connections.html#p-793",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "orifice "
+},
+{
+  "id": "fig_orifice_flange",
+  "level": "2",
+  "url": "piping-systems-flanged-connections.html#fig_orifice_flange",
+  "type": "Figure",
+  "number": "5.1.6",
+  "title": "",
+  "body": " Orifice Plates and Orifice Flange    https:\/\/www.wermac.org\/specials\/orificeplate.html    https:\/\/www.wermac.org\/flanges\/flanges_pipe-connections_pipe-flanges.html    "
+},
+{
+  "id": "p-794",
+  "level": "2",
+  "url": "piping-systems-flanged-connections.html#p-794",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "pressure taps orifice plate jacking screws orifice "
+},
+{
+  "id": "piping-systems-threaded-connections",
+  "level": "1",
+  "url": "piping-systems-threaded-connections.html",
+  "type": "Subsubsection",
+  "number": "5.1.3.3",
+  "title": "Threaded Connections",
+  "body": " Threaded Connections  In a threaded pipe connection, matching male and female threads are screwed together to create a secure and leak-resistant joint. Threaded pipe connections are widely used in plumbing systems, natural gas lines, water supply systems, because they are relatively easy to fabricate and assemble; however they are not suitable for high pressure systems, nor for connections that are frequently taken apart.  Standards were first developed about 200 years ago to define the shape and tolerances of threads used for pipes and pipe fittings in order to ensure compatibility and interchangeability between different components in piping systems. Although various standards currently exist, the National Pipe Tapered (NPT) standard is the one most commonly used in the United States. NPTM and NPTF are abbreviations for NPT-Male and NPT-Female threads.  Unlike the straight threads used for nuts and bolts, NPT pipe threads are tapered ; that is, they are formed on a conical surface. This conical surface tapers at an angle of , which is equivalent to 1⁄16 inch per inch of length.   NPT Threads   https:\/\/www.wermac.org\/flanges\/flanges_pipe-connections_pipe-flanges.html    Because of the taper, a pipe thread can only screw into a fitting so far before it jams. The standard specifies this distance as the length of hand tight engagement, the distance the pipe thread can be screwed in by hand. It also specifies another distance – the effective thread, this is the length of the thread which makes the seal on a conventional machined pipe thread. For workers, instead of these distances, it is more convenient to know how many turns to make by hand and how many with a wrench. A simple rule of thumb for installing tapered pipe threads, both metal and plastic, is finger tight plus one to two turns with a wrench.  Tapered threads rely on the deformation of the pipe material to form a secure seal. If they are properly aligned, screwed together using a pipe sealant, and not over-tightened, they will create a rigid and leak-free connection. However, they cannot be taken apart and put back together too many times before the threads will permanently wear out and leak.  "
+},
+{
+  "id": "p-796",
+  "level": "2",
+  "url": "piping-systems-threaded-connections.html#p-796",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "National Pipe Tapered "
+},
+{
+  "id": "p-797",
+  "level": "2",
+  "url": "piping-systems-threaded-connections.html#p-797",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "tapered "
+},
+{
+  "id": "fig_npt_threads",
+  "level": "2",
+  "url": "piping-systems-threaded-connections.html#fig_npt_threads",
+  "type": "Figure",
+  "number": "5.1.7",
+  "title": "",
+  "body": " NPT Threads   https:\/\/www.wermac.org\/flanges\/flanges_pipe-connections_pipe-flanges.html   "
+},
+{
+  "id": "piping-systems-soldered-and-brazed-connections",
+  "level": "1",
+  "url": "piping-systems-soldered-and-brazed-connections.html",
+  "type": "Subsubsection",
+  "number": "5.1.3.4",
+  "title": "Soldered and Brazed Connections",
+  "body": " Soldered and Brazed Connections  Soldering and Brazing are both processes in which two parts are joined together using a molten filler metal. After the filler material solidifies, a strong bond if formed. The difference between soldering and brazing has to do with the filler material, particularly its melting temperature.   Soldering Copper Pipe   Home Depot    Solder is an alloy that melts at 840 F or less. Solder is composed primarily of tin, mixed with other metals such as nickel for added strength. Solder used to be a tin\/lead mixture, but that is no longer used due to health risks of exposing drinking water to lead pipes. Soldering is easier to learn than brazing and soldered joints can be reheated and taken apart.  Brazing alloys melt above 840 degrees. Brazing alloys are typically made of a mix of copper and phosphorus or silver mixed with other elements. Brazing creates a stronger connection than soldering that is less likely to leak.  Because of the relatively low melting temperatures, neither method can be used for high-temperature applications.  "
+},
+{
+  "id": "figure-72",
+  "level": "2",
+  "url": "piping-systems-soldered-and-brazed-connections.html#figure-72",
+  "type": "Figure",
+  "number": "5.1.8",
+  "title": "",
+  "body": " Soldering Copper Pipe   Home Depot   "
+},
+{
+  "id": "piping-systems-compression-connections",
+  "level": "1",
+  "url": "piping-systems-compression-connections.html",
+  "type": "Subsubsection",
+  "number": "5.1.3.5",
+  "title": "Compression Connections",
+  "body": " Compression Connections  In some systems, mechanically strong, leak tight connections can by compressing the pipe or tube in a compression or flare fitting.   Compression fittings are made up of three basic elements: the compression nut , the ferrule , and the body. The tubing is slipped through the nut and the ferrule and then inserted into the end of the body. By tightening the nut\/screw the ferrule is forced into the fitting body. As the ferrule moves axially into the fitting body, the body’s angled shape compresses the end of the ferrule onto the outer diameter of the tubing. It is this radial compression that creates a leak tight seal between the fitting, ferrule, and tubing, and gives the compression fitting its name.   Compression Fitting   https:\/\/www.globalspec.com\/learnmore\/flow_control_fluid_transfer\/pipe_tubing_hose_fittings_accessories\/pipe_fittings    Flare fittings consist of a body with a flared or coned end. Special flaring tools are used to create a matching flare on the pipe. The flare nut compresses the flare into the fitting body and creates the seal. Flare fittings can handle higher pressures and a wider range of operating parameters than standard compression fittings.   Flare Fitting   Home Depot    Compression connections are quick and require little skill to make, but they cannot withstand very high pressures. Also, there are only a few materials that are suitably compressible (ex. copper, brass, plastic) to use this method.  "
+},
+{
+  "id": "p-805",
+  "level": "2",
+  "url": "piping-systems-compression-connections.html#p-805",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Compression fittings compression nut ferrule "
+},
+{
+  "id": "fig_compression_fitting",
+  "level": "2",
+  "url": "piping-systems-compression-connections.html#fig_compression_fitting",
+  "type": "Figure",
+  "number": "5.1.9",
+  "title": "",
+  "body": " Compression Fitting   https:\/\/www.globalspec.com\/learnmore\/flow_control_fluid_transfer\/pipe_tubing_hose_fittings_accessories\/pipe_fittings   "
+},
+{
+  "id": "fig_flare_fitting",
+  "level": "2",
+  "url": "piping-systems-compression-connections.html#fig_flare_fitting",
+  "type": "Figure",
+  "number": "5.1.10",
+  "title": "",
+  "body": " Flare Fitting   Home Depot   "
+},
+{
+  "id": "piping-systems-quick-connect-fittings",
+  "level": "1",
+  "url": "piping-systems-quick-connect-fittings.html",
+  "type": "Subsubsection",
+  "number": "5.1.3.6",
+  "title": "Quick Connect Fittings",
+  "body": " Quick Connect Fittings   Quick-connect fittings, also called a push fittings , are coupling used to provide a fast connections to hoses and flexible tubing, without the need for tools. Some quick-connect fittings are self-sealing, so that upon disconnection they will automatically contain any fluid in the line.   Camlock, Push-to-connect, Twistlock   camlockcoupling.org, homedepot.com, zoro.com    There are several types of quick connect fittings. Some of the most commonly used ones are:   Cam-lock connectors uses foldable tabs on the female half to lock the receiver in place. This type of connection is used in applications involving hoses, such as sewage pumping or fire hoses.   Push-to-connect fittings function by pushing one end into the other. To disconnect, a collar needs to be retracted.   Twist or bayonet fittings utilize a 1\/8 to 1\/4 turn to connect and disconnect. Aboard ship, compressed air hoses for pneumatic tools often use twist fittings.  "
+},
+{
+  "id": "p-808",
+  "level": "2",
+  "url": "piping-systems-quick-connect-fittings.html#p-808",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Quick-connect push fittings "
+},
+{
+  "id": "figure-75",
+  "level": "2",
+  "url": "piping-systems-quick-connect-fittings.html#figure-75",
+  "type": "Figure",
+  "number": "5.1.11",
+  "title": "",
+  "body": " Camlock, Push-to-connect, Twistlock   camlockcoupling.org, homedepot.com, zoro.com   "
+},
+{
+  "id": "p-810",
+  "level": "2",
+  "url": "piping-systems-quick-connect-fittings.html#p-810",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Cam-lock "
+},
+{
+  "id": "p-811",
+  "level": "2",
+  "url": "piping-systems-quick-connect-fittings.html#p-811",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Push-to-connect fittings "
+},
+{
+  "id": "p-812",
+  "level": "2",
+  "url": "piping-systems-quick-connect-fittings.html#p-812",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Twist or bayonet fittings "
+},
+{
+  "id": "piping-systems-glued-connections",
+  "level": "1",
+  "url": "piping-systems-glued-connections.html",
+  "type": "Subsubsection",
+  "number": "5.1.3.7",
+  "title": "Glued Connections",
+  "body": " Glued Connections  This method is used for connecting PVC (Polyvinyl Chloride) pipes like those commonly found in home plumbing systems. PVC pipes are not used in critical ship systems, because the material can fail due to the stresses caused by the motion of the vessel, and will fail in a fire .  A solvent-based adhesive is applied to the pipe ends, which chemically melts the plastic and creates a strong bond when the pipes are pushed together.  "
+},
+{
+  "id": "p-813",
+  "level": "2",
+  "url": "piping-systems-glued-connections.html#p-813",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "PVC "
+},
+{
+  "id": "piping-systems-pipe-nipples",
+  "level": "1",
+  "url": "piping-systems-pipe-nipples.html",
+  "type": "Subsubsection",
+  "number": "5.1.4.1",
+  "title": "Pipe Nipples",
+  "body": " Pipe Nipples  Pipe nipples are short sections of pipe with male threads on both ends. The are used to connect two female threaded pipe fittings.   Nipples: Close, Short, Hex, Long   https:\/\/www.wallpaperflare.com\/man-worker-sparks-metallurgical-welding-welder-mask-protection-wallpaper-gathq\/download\/1920x1080     Close nipples are the shortest practical pipe nipple. The are used to connect two fittings very close to one another, leaving no unthreaded pipe exposed. Close or nipples are difficult to work with because the threads will be damaged with a pipe wrench, and the are difficult to remove without damage.   Short or shoulder nipples are longer than close nipples and have a very small section of unthreaded pipe in the middle. However, this unthreaded section is still not large enough to fit a pipe wrench to tighten or remove the nipple without damage.   Hex nipples are short nipples with a hexagonal center section that allows you to securely grasp the nipple with a wrench to tighten or remove it.   Long or barrel nipples have enough unthreaded pipe in the center to be gripped with a pipe wrench.  Threaded pipe sections longer than about one foot are not considered nipples.  "
+},
+{
+  "id": "fig_nipples",
+  "level": "2",
+  "url": "piping-systems-pipe-nipples.html#fig_nipples",
+  "type": "Figure",
+  "number": "5.1.12",
+  "title": "",
+  "body": " Nipples: Close, Short, Hex, Long   https:\/\/www.wallpaperflare.com\/man-worker-sparks-metallurgical-welding-welder-mask-protection-wallpaper-gathq\/download\/1920x1080   "
+},
+{
+  "id": "p-818",
+  "level": "2",
+  "url": "piping-systems-pipe-nipples.html#p-818",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Close nipples "
+},
+{
+  "id": "p-819",
+  "level": "2",
+  "url": "piping-systems-pipe-nipples.html#p-819",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Short shoulder nipples "
+},
+{
+  "id": "p-820",
+  "level": "2",
+  "url": "piping-systems-pipe-nipples.html#p-820",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Hex nipples "
+},
+{
+  "id": "p-821",
+  "level": "2",
+  "url": "piping-systems-pipe-nipples.html#p-821",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Long barrel nipples "
+},
+{
+  "id": "piping-systems-unions-and-couplings",
+  "level": "1",
+  "url": "piping-systems-unions-and-couplings.html",
+  "type": "Subsubsection",
+  "number": "5.1.4.2",
+  "title": "Unions and Couplings",
+  "body": " Unions and Couplings  Couplings and unions are both pipe fittings used to join two pipes or nipples together, but they are used in different situations. Couplings are used to make a permanent connections, while unions are used to permit the system to be taken apart for maintenance from time to time.   Coupling and Union   https:\/\/www.wallpaperflare.com\/man-worker-sparks-metallurgical-welding-welder-mask-protection-wallpaper-gathq\/download\/1920x1080    A coupling is a simple, short section of pipe with internal female threads. Two sections of pipe are tightened into the coupling to make the connection. In order to disassemble the connection, one of the pipes needs to be rotated through several rotations to unscrew it. This is not too practical because the entire system may need to be taken apart to remove one piece.  A union consists of three parts – male and female parts with matching tapered faces, and a hexagonal union nut with internal threads which fits over the male part and screws onto straight threads on the female part.   Union Cross-section and Disassembled    https:\/\/www.wermac.org\/specials\/orificeplate.html    https:\/\/www.wermac.org\/specials\/orificeplate.html     The union is assembled by sliding the union nut over the male part, then screwing the male and female parts permanently onto the pipes. After the pipes are aligned, the union nut is tightened to draw the two tapered faces together to create a seal. Pipe dope or teflon tape must be used on the tapered threads, but should not be used on the mating faces. Pipes connected with a union can be taken apart by unscrewing the union nut without affecting other parts of the piping system.  "
+},
+{
+  "id": "fig_coupling_union",
+  "level": "2",
+  "url": "piping-systems-unions-and-couplings.html#fig_coupling_union",
+  "type": "Figure",
+  "number": "5.1.13",
+  "title": "",
+  "body": " Coupling and Union   https:\/\/www.wallpaperflare.com\/man-worker-sparks-metallurgical-welding-welder-mask-protection-wallpaper-gathq\/download\/1920x1080   "
+},
+{
+  "id": "p-824",
+  "level": "2",
+  "url": "piping-systems-unions-and-couplings.html#p-824",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "coupling "
+},
+{
+  "id": "p-825",
+  "level": "2",
+  "url": "piping-systems-unions-and-couplings.html#p-825",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "union "
+},
+{
+  "id": "figure-78",
+  "level": "2",
+  "url": "piping-systems-unions-and-couplings.html#figure-78",
+  "type": "Figure",
+  "number": "5.1.14",
+  "title": "",
+  "body": " Union Cross-section and Disassembled    https:\/\/www.wermac.org\/specials\/orificeplate.html    https:\/\/www.wermac.org\/specials\/orificeplate.html    "
+},
+{
+  "id": "piping-systems-elbow-fittings",
+  "level": "1",
+  "url": "piping-systems-elbow-fittings.html",
+  "type": "Subsubsection",
+  "number": "5.1.4.3",
+  "title": "Elbow Fittings",
+  "body": " Elbow Fittings  A pipe elbow is a fitting used to join two sections of straight pipes at an angle.   Elbows: 90 , 45 , 22.5 , Street Ell, Reducing Ell   https:\/\/www.wallpaperflare.com\/man-worker-sparks-metallurgical-welding-welder-mask-protection-wallpaper-gathq\/download\/1920x1080    Standard elbows are available in 90 , 45 and less commonly 22.5 angles. A 90 Ell is also called a quarter-bend .  Standard elbows fit the same size pipe and female threads on both ends. When one end is smaller than the other the fitting is called a reducing elbow (h), and when one end has male threads the fitting is called a street elbow (i).   Short radius elbows have a radius of curvature of about one pipe diameter from center of the bend to the center of the elbow face, while the radius of curvature for long radius elbows is about one and a half diameters. Long radius elbows produce less turbulence in the fluid which results in reduced frictional losses and pressure drop, but they take up more room and are more expensive.  "
+},
+{
+  "id": "fig_elbows",
+  "level": "2",
+  "url": "piping-systems-elbow-fittings.html#fig_elbows",
+  "type": "Figure",
+  "number": "5.1.15",
+  "title": "",
+  "body": " Elbows: 90 , 45 , 22.5 , Street Ell, Reducing Ell   https:\/\/www.wallpaperflare.com\/man-worker-sparks-metallurgical-welding-welder-mask-protection-wallpaper-gathq\/download\/1920x1080   "
+},
+{
+  "id": "p-828",
+  "level": "2",
+  "url": "piping-systems-elbow-fittings.html#p-828",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "90 Ell quarter-bend "
+},
+{
+  "id": "p-829",
+  "level": "2",
+  "url": "piping-systems-elbow-fittings.html#p-829",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "reducing elbow street elbow "
+},
+{
+  "id": "p-830",
+  "level": "2",
+  "url": "piping-systems-elbow-fittings.html#p-830",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Short radius elbows long radius elbows "
+},
+{
+  "id": "piping-systems-tee-fittings",
+  "level": "1",
+  "url": "piping-systems-tee-fittings.html",
+  "type": "Subsubsection",
+  "number": "5.1.4.4",
+  "title": "Tee Fittings",
+  "body": " Tee Fittings   Tee fittings are used to connect three sections of pipe at right angles, and are often used to make a branch line. Cross fittings are similar, but connect four pipe sections   Tee and Cross   https:\/\/www.wallpaperflare.com\/man-worker-sparks-metallurgical-welding-welder-mask-protection-wallpaper-gathq\/download\/1920x1080    Standard Tees and Crosses use female threads and all connections are the same size, but unequal (reducing) and street (one male thread) varieties are sometimes available.  "
+},
+{
+  "id": "p-831",
+  "level": "2",
+  "url": "piping-systems-tee-fittings.html#p-831",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Tee fittings Cross fittings "
+},
+{
+  "id": "fig_tee_cross",
+  "level": "2",
+  "url": "piping-systems-tee-fittings.html#fig_tee_cross",
+  "type": "Figure",
+  "number": "5.1.16",
+  "title": "",
+  "body": " Tee and Cross   https:\/\/www.wallpaperflare.com\/man-worker-sparks-metallurgical-welding-welder-mask-protection-wallpaper-gathq\/download\/1920x1080   "
+},
+{
+  "id": "piping-systems-caps-and-plugs",
+  "level": "1",
+  "url": "piping-systems-caps-and-plugs.html",
+  "type": "Subsubsection",
+  "number": "5.1.4.5",
+  "title": "Caps and Plugs",
+  "body": " Caps and Plugs   Caps and plugs are pipe fittings used to seal the end of a section of pipe. Caps are female threaded and plugs are male threaded.   Cap and Plug   https:\/\/www.wallpaperflare.com\/man-worker-sparks-metallurgical-welding-welder-mask-protection-wallpaper-gathq\/download\/1920x1080    "
+},
+{
+  "id": "p-833",
+  "level": "2",
+  "url": "piping-systems-caps-and-plugs.html#p-833",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Caps plugs "
+},
+{
+  "id": "fig_cap_plug",
+  "level": "2",
+  "url": "piping-systems-caps-and-plugs.html#fig_cap_plug",
+  "type": "Figure",
+  "number": "5.1.17",
+  "title": "",
+  "body": " Cap and Plug   https:\/\/www.wallpaperflare.com\/man-worker-sparks-metallurgical-welding-welder-mask-protection-wallpaper-gathq\/download\/1920x1080   "
+},
+{
+  "id": "piping-systems-adapters",
+  "level": "1",
+  "url": "piping-systems-adapters.html",
+  "type": "Subsubsection",
+  "number": "5.1.4.6",
+  "title": "Adapters",
+  "body": " Adapters   Adapter fittings are used to connect components that have different threads, diameters or connection methods together, for example: straight to taper thread adapters, pipe to hose adapters, .   Adapters: NPT to straight, NPT to Flare Fitting, NPT to copper pipe   https:\/\/www.wallpaperflare.com\/man-worker-sparks-metallurgical-welding-welder-mask-protection-wallpaper-gathq\/download\/1920x1080     Reducing adapters , as the name suggests, are used to connect pipes of different sizes. A straight reducer has female threads on both ends, while a straight reducing bushing has a large male thread and a smaller female thread. Other reducing adapters including reducing elbow and tees are available with different combinations of male and female threads.   Straight Reducer and Reducing Bushing   https:\/\/www.wallpaperflare.com\/man-worker-sparks-metallurgical-welding-welder-mask-protection-wallpaper-gathq\/download\/1920x1080    "
+},
+{
+  "id": "p-834",
+  "level": "2",
+  "url": "piping-systems-adapters.html#p-834",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Adapter "
+},
+{
+  "id": "fig_adapters",
+  "level": "2",
+  "url": "piping-systems-adapters.html#fig_adapters",
+  "type": "Figure",
+  "number": "5.1.18",
+  "title": "",
+  "body": " Adapters: NPT to straight, NPT to Flare Fitting, NPT to copper pipe   https:\/\/www.wallpaperflare.com\/man-worker-sparks-metallurgical-welding-welder-mask-protection-wallpaper-gathq\/download\/1920x1080   "
+},
+{
+  "id": "p-835",
+  "level": "2",
+  "url": "piping-systems-adapters.html#p-835",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Reducing adapters straight reducer reducing bushing "
+},
+{
+  "id": "fig_reducer_bushing",
+  "level": "2",
+  "url": "piping-systems-adapters.html#fig_reducer_bushing",
+  "type": "Figure",
+  "number": "5.1.19",
+  "title": "",
+  "body": " Straight Reducer and Reducing Bushing   https:\/\/www.wallpaperflare.com\/man-worker-sparks-metallurgical-welding-welder-mask-protection-wallpaper-gathq\/download\/1920x1080   "
 },
 {
   "id": "globevalves",
@@ -3043,18 +3691,18 @@ var ptx_lunr_docs = [
   "body": " Globe Valve   "
 },
 {
-  "id": "p-764",
+  "id": "p-842",
   "level": "2",
-  "url": "globevalves.html#p-764",
+  "url": "globevalves.html#p-842",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "valve body "
 },
 {
-  "id": "p-767",
+  "id": "p-845",
   "level": "2",
-  "url": "globevalves.html#p-767",
+  "url": "globevalves.html#p-845",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -3070,36 +3718,36 @@ var ptx_lunr_docs = [
   "body": " Angle Globe Valve   "
 },
 {
-  "id": "p-768",
+  "id": "p-846",
   "level": "2",
-  "url": "globevalves.html#p-768",
+  "url": "globevalves.html#p-846",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Construction Details. "
 },
 {
-  "id": "p-769",
+  "id": "p-847",
   "level": "2",
-  "url": "globevalves.html#p-769",
+  "url": "globevalves.html#p-847",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "stem disk valve disk plug disk nut "
 },
 {
-  "id": "p-770",
+  "id": "p-848",
   "level": "2",
-  "url": "globevalves.html#p-770",
+  "url": "globevalves.html#p-848",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "stuffing box packing packing gland "
 },
 {
-  "id": "p-771",
+  "id": "p-849",
   "level": "2",
-  "url": "globevalves.html#p-771",
+  "url": "globevalves.html#p-849",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -3169,18 +3817,18 @@ var ptx_lunr_docs = [
   "body": " Check Valves   "
 },
 {
-  "id": "p-794",
+  "id": "p-872",
   "level": "2",
-  "url": "checkvalves.html#p-794",
+  "url": "checkvalves.html#p-872",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "body Cover Cap "
 },
 {
-  "id": "p-795",
+  "id": "p-873",
   "level": "2",
-  "url": "checkvalves.html#p-795",
+  "url": "checkvalves.html#p-873",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -3205,9 +3853,9 @@ var ptx_lunr_docs = [
   "body": " Plug Valve   "
 },
 {
-  "id": "p-804",
+  "id": "p-882",
   "level": "2",
-  "url": "plug-typevalves.html#p-804",
+  "url": "plug-typevalves.html#p-882",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -3223,9 +3871,9 @@ var ptx_lunr_docs = [
   "body": " Ball Valve   "
 },
 {
-  "id": "p-809",
+  "id": "p-887",
   "level": "2",
-  "url": "plug-typevalves.html#p-809",
+  "url": "plug-typevalves.html#p-887",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -3250,9 +3898,9 @@ var ptx_lunr_docs = [
   "body": " Butterfly Valve   "
 },
 {
-  "id": "p-811",
+  "id": "p-889",
   "level": "2",
-  "url": "butterflyvalves.html#p-811",
+  "url": "butterflyvalves.html#p-889",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -3277,9 +3925,9 @@ var ptx_lunr_docs = [
   "body": " Pressure Relief Valves   Relief valves are protective devices designed to open automatically when the pressure in the line unit becomes too high. Although there are different types of relief valves, the most common type has a disk that is held in the closed position by a coil spring. When the pressure in the line or machine creates a force great enough to overcome the spring force, the disk moves upward and is opened. After the pressure has been relieved by the escape of fluid through the relief valve, the spring again exerts enough force to close the disk.   Relief Valve    Relief valves have no hand-wheel operator, but may be equipped with a lever attached to the valve stem which the operator can use to momentarily open the valve, in order to test that the valve can open properly, or to blow out debris such as rust or dirt, which if lodged between the disk and seat would cause the valve to leak.  Relief valves are designed to work properly with any type of fluid, while safety valves are only designed to work with gases.  Most relief valves are set to open when the pressure against the disk reaches 110% of the Maximum Allowable Working Pressure (called the MAWP) of the system or machine. For example, if a system operates with a MAWP of 100 psi, then the relief valve would open at 110 psi.  Relief valves are designed to close at a pressure lower than their opening pressure (The difference between opening and closing pressure is called blowdown ). This is done to prevent valve chattering , which is a rapid opening and closing of the valve. Chattering is undesirable because it can damage the seat and disk. If the valve opened and closed at exactly the same pressure, it would chatter, because as soon as it opened, the pressure would drop and cause the valve to close, and as soon as it closed the pressure would cause it to open again.  Chattering is prevented by exposing an additional disk surface area to the fluid pressure immediately after the valve opens. This increased area, acted upon by the fluid pressure, increases the force against the spring, and makes the valve open rapidly once it starts to open, but it will not close again until the pressure falls significantly below the opening pressure.  It must be remembered that the coil spring force acting when the valve begins to open is the same as the spring force acting when the valve closes. Since : Where:   is the Opening pressure.   is the Closing pressure.   is the Opening area.   is the Closing area.    Remember, the extra surface area is not available until the valve disk opens.   Relief Valve Closing Pressure   A relief valve opens at 250 psi and has a bottom surface area when closed of 0.75 . When the valve opens, the bottom surface area increases by 10%. What pressure does the valve close at?              "
 },
 {
-  "id": "p-817",
+  "id": "p-895",
   "level": "2",
-  "url": "pressurereliefvalves.html#p-817",
+  "url": "pressurereliefvalves.html#p-895",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -3313,27 +3961,27 @@ var ptx_lunr_docs = [
   "body": " Suction Head  The distance between the surface of the liquid in the supply tank and the centerline of the pump suction describes the pump suction head .   Positive suction head , also called gravity head, occurs when the liquid level in the supply tank is above the center of the pump suction. The height of the liquid creates a pressure on the suction side of the pump that is greater than atmospheric pressure, and gravity causes the liquid to flow into the pump suction. In this situation, very little power is required to draw the liquid into the pump.   Negative suction head , also called suction lift , occurs when the liquid level in the supply tank is below the center of the pump suction. In this case, the pump must create the force necessary to lift the liquid uphill against the force of gravity and draw it into the pump suction. This process obviously requires more pumping power than when there is a positive suction head.  To pump when there is a suction lift, we use the atmospheric pressure on the surface of the liquid in the supply tank to push the liquid up the pipe to the pump suction, much like sucking on a straw. If the pressure inside the suction pipe is reduced to 13.7 psia compared to the 14.7 psia on the surface of the water in the supply tank, than the water level in the suction pipe should be 2.31 feet higher than the water level in the supply tank. (remember: 1 psi = 2.31 feet of fresh water!). Now if the pressure in the suction pipe is lowered to 0 psia, the atmospheric pressure should theoretically push the water up against the force of gravity (14.7 x 2.31 = 33.96 feet) 34 feet inside the suction pipe. The suction side of the pump will be operating at a pressure lower than atmospheric (under a vacuum) when the pump is lifting. 34 feet of suction lift is the theoretical maximum for fresh water, but in the real world, the maximum suction lift is less.  "
 },
 {
-  "id": "p-837",
+  "id": "p-915",
   "level": "2",
-  "url": "suctionhead.html#p-837",
+  "url": "suctionhead.html#p-915",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "suction head "
 },
 {
-  "id": "p-838",
+  "id": "p-916",
   "level": "2",
-  "url": "suctionhead.html#p-838",
+  "url": "suctionhead.html#p-916",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Positive suction head "
 },
 {
-  "id": "p-839",
+  "id": "p-917",
   "level": "2",
-  "url": "suctionhead.html#p-839",
+  "url": "suctionhead.html#p-917",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -3349,9 +3997,9 @@ var ptx_lunr_docs = [
   "body": " Discharge Head   Static discharge head is the vertical distance above the pump, in feet, between the centerline of the discharge connection and the liquid level in the discharge tank. The greater the discharge head, the more energy will be required to pump the liquid. Also, as the discharge head is increased, the pump capacity decreases; at a certain point the discharge drops to zero GPM, and the pump is no longer pumping.  "
 },
 {
-  "id": "p-841",
+  "id": "p-919",
   "level": "2",
-  "url": "dischargehead.html#p-841",
+  "url": "dischargehead.html#p-919",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -3367,9 +4015,9 @@ var ptx_lunr_docs = [
   "body": " Net Static Head   Net static head is the distance the pump has to raise the pumped fluid between the liquid level in the supply tank to the liquid level in the discharge tank.   Net static head = Static Discharge Head - Static Gravity Head  Net static head = Static Discharge Head + Static Suction Lift   "
 },
 {
-  "id": "p-842",
+  "id": "p-920",
   "level": "2",
-  "url": "netstatichead.html#p-842",
+  "url": "netstatichead.html#p-920",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -3385,18 +4033,18 @@ var ptx_lunr_docs = [
   "body": " By Displacement Characteristics  A positive displacement pump is one in which a definite volume of liquid is delivered for each cycle of pump operation, regardless of the discharge pressure the pump operates against, and provided the capacity of the power unit driving the pump is not exceeded.  A non-positive displacement pump is one in which the volume of liquid delivered for each operational pump cycle depends on the resistance to flow in the discharge line. This type of pump produces a force on the liquid that is constant for each particular operating speed of the pump. Pressure in the discharge line produces a force in the opposite direction. When these two forces are equal, the liquid is in a state of equilibrium and does not flow.  If the discharge valve of a positive displacement pump is completely closed, the discharge pressure will rise to a point where either the unit driving the pump will stall or parts of the pump exposed to discharge pressure will fail. This situation should be avoided. On the other hand, closing the discharge valve on a non-positive displacement pump will cause the discharge pressure to rise to a maximum for that type of pump operating at a specific speed. Nothing more will happen except the pump will churn the liquid trapped in the pump chamber and produce frictional heat in the liquid.  Most positive displacement pumps deliver liquid in slugs, with no delivery in between, and this causes a rise then a drop in discharge pressure and flow. Pumps equipped with many small pumping chambers generally have overlapping delivery that minimizes this effect. Non-positive displacement pumps deliver a practically continuous even flow for a given operating speed and discharge pressure.  "
 },
 {
-  "id": "p-846",
+  "id": "p-924",
   "level": "2",
-  "url": "bydisplacementcharacteristics.html#p-846",
+  "url": "bydisplacementcharacteristics.html#p-924",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "positive displacement pump "
 },
 {
-  "id": "p-847",
+  "id": "p-925",
   "level": "2",
-  "url": "bydisplacementcharacteristics.html#p-847",
+  "url": "bydisplacementcharacteristics.html#p-925",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -3412,9 +4060,9 @@ var ptx_lunr_docs = [
   "body": " By Delivery Characteristics  All shaft driven pumps will deliver liquids at different volume rates if they are run at different speeds. Most pump designs require a change in speed to change their capacity ( constant delivery ). However, some rotary type pumps, and some radial or axial piston pumps are designed to vary the quantity of liquid delivered while maintaining the prime mover at a single speed. Pumps with these characteristics are known as variable delivery pumps.  Variable delivery pumps are most commonly found in hydraulic systems, where the delivery rate can be adjusted to control the rate of motion of hydraulic cylinders and actuators.  "
 },
 {
-  "id": "p-850",
+  "id": "p-928",
   "level": "2",
-  "url": "bydeliverycharacteristics.html#p-850",
+  "url": "bydeliverycharacteristics.html#p-928",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -3430,18 +4078,18 @@ var ptx_lunr_docs = [
   "body": " By Suction Characteristics  Some types of pumps are designed with such close clearances between moving and stationary parts in the pump chamber that they will actually pump air, gases, or vapors as well as liquids. These pumps can be started with no liquid in the pump chamber and will pump the air out of the suction pipe, lowering the pressure, eventually causing the liquid to lift up and enter the pump. These types of pumps are considered to be self-priming .  Other types of pumps, because of larger internal clearances, will not pump air or gases and will not lower the pressure in the suction pipe enough to lift the liquid to the pump chamber. These types of pumps must have the suction pipe and the pump chamber completely flooded with the liquid to be pumped or they will not lift the liquid. Filling the suction pipe and pump chamber with liquid to place these pumps in operation is called priming the pump.  "
 },
 {
-  "id": "p-852",
+  "id": "p-930",
   "level": "2",
-  "url": "bysuctioncharacteristics.html#p-852",
+  "url": "bysuctioncharacteristics.html#p-930",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "self-priming "
 },
 {
-  "id": "p-853",
+  "id": "p-931",
   "level": "2",
-  "url": "bysuctioncharacteristics.html#p-853",
+  "url": "bysuctioncharacteristics.html#p-931",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -3457,9 +4105,9 @@ var ptx_lunr_docs = [
   "body": " Centrifugal Pumps   Centrifugal pumps use centrifugal force to transfer the mechanical energy supplied to the pump into primarily kinetic energy (velocity) in the fluid being pumped. Centrifugal force is the force generated by rotation which acts outward from the center of rotation. Using the terminology already covered, centrifugal pumps are classified as: non-positive displacement pumps, non-self priming, and are constant delivery for a given operating speed and discharge pressure. Because of their simplicity, low cost and ability to operate under a wide variety of conditions, centrifugal pumps are widely used. They can be adapted to produce any head up to several thousand feet and will handle liquids at temperatures up to 1000° F. They can also be designed to handle liquids containing a high proportion of rather large solid particles.   Centrifugal Pump    A centrifugal pump consists of a rotating element called the impeller , which is the only moving part in the pump, and a specially shaped housing, or pump casing. In practically all centrifugal pumps, liquid enters the rotating element at the center through the eye , and is given a rotary motion in the pump chamber by the rotation of a number of impeller blades (generally called vanes ). The rotation of the impeller in a true centrifugal pump does two things. Centrifugal force drives the liquid directly out from the center of the impeller, setting up a greater pressure in the chamber at the outer edge of the impeller than at the eye. At the same time the liquid is also pushed around and around by the turning of the vanes, and is given more and more velocity as it moves farther out from the eye. The liquid finally leaves the impeller tangentially at the end of the vanes with a high velocity, and flows into the discharge passage of the pump housing surrounding the impeller.  The discharge passage gradually widens as it leads the liquid away from the impeller to the discharge nozzle on the pump housing. The gradual widening of the discharge passage reduces the velocity of the liquid. Since the reduction in velocity does not produce work, it results in a change in the type of energy contained in the liquid. Most of the velocity (kinetic energy) in the liquid produced by the centrifugal pump is transformed into pressure (potential energy) by the widening discharge passage. This type of energy is more available for doing work. On most centrifugal pumps this widening passage is built into the pump casing that surrounds the impeller and is called the volute . Additional conversion of velocity to pressure may be accomplished in the discharge nozzle and sometimes in the piping leading away from the pump.  Recall that a reduction in the velocity of a liquid (without producing any work) changes the type of energy contained in the liquid into increased pressure. The reverse is also true. If the pressure in a liquid is reduced (without producing any work) then the velocity of the liquid must increase.)  When liquid is forced away from the eye by centrifugal force, a reduced pressure area is created in the eye causing more liquid to flow in. This creates a constant flow through the impeller and out through the discharge of the centrifugal pump.  In a centrifugal pump, the velocity that can be imparted to the liquid, and the resulting discharge pressure depends upon both the impeller diameter and the impeller RPM. Increasing either results in:  higher centrifugal force  higher liquid velocity  higher pressure    The centrifugal pump, with a certain size impeller operating at a set speed, will only put enough energy in the liquid to create a specific discharge pressure. If the resistance in the discharge piping rises to the maximum pressure the pump can create, liquid flow through the pump stops. The centrifugal pump is said to be operating at its shut-off head and no liquid is delivered by the pump. Friction between the rotating impeller and the liquid trapped in the pump casing increases the liquid temperature, possibly causing it to vaporize. To prevent vaporization of the liquid in a high speed centrifugal pump handling very hot liquids, a small pipeline is installed on the discharge side of the pump to divert a small amount of liquid back to the supply tank on the suction side of the pump. This small quantity of liquid flowing through the pump acts as a cooling system constantly removing the heated liquid from the pump casing and replacing it with cooler liquid from the supply tank. These lines are called recirculating lines and are always found on shipboard turbine-driven centrifugal feed pumps because they are frequently subjected to shut-off head when the ship’s main engine is stopped or maneuvering.  Impeller vanes which curve backwards with respect to their direction of rotation are more efficient and give better performance than straight vanes; however, the pump must be turned in the correct direction to obtain this efficiency. The advantage of straight vane impellers is that they have the same efficiency in either direction of pump rotation. In , the impeller rotation is counter-clockwise allowing the liquid to be pushed around the pump chamber by the vanes, rather than being carried by them. If a curved vane impeller was operated in the wrong direction rotation, it would still deliver some liquid, but the following would be observed:  The pump would require more power to turn the impellor backwards.  The pump discharge capacity would decrease.  The pump efficiency would decrease.     Centrifugal Pump Design  Centrifugal pumps come in two basic designs, volute and diffuser , and many variations, including: single - or double-suction , single or multiple stages, and horizontal or vertical layout.  In the volute pump , the one most commonly used, the impeller discharges into a progressively expanding casing, as shown in . The casing is proportioned to produce equal velocity of flow all around the circumference of the casing and then gradually to reduce the velocity as the liquid passes from the casing into the nozzle to be discharged from the pump, thereby transforming a considerable part of the velocity head into pressure head.   Diffuser Type Centrifugal Pump    In the diffuser pump , the impeller is surrounded by gradually expanding passages formed by stationary guide vanes, sometimes called a diffusion ring, as shown in . In these expanding passages the direction of flow is changed and velocity largely converted to pressure before the liquid enters the volute. It is worth noting that the diffuser vanes are set approximately tangent to the ends of the impeller blades. In this kind of casing, efficiency may be slightly higher than in volute pumps, since velocity is more completely converted into pressure. The added cost of manufacture and more complicated construction of diffuser pumps, however, is generally not considered justified except occasionally in the case of large high pressure pumps.   Impellers    The impellers used in volute and diffuser pumps are of three kinds, open , semi-open , and enclosed as shown in . The open impeller consists only of blades attached to a hub. The semi-open impeller is constructed with a circular plate, called the web, on the inside edge of the blades. The web need not extend all the way out to the ends of the blades. The use of a web makes it possible to use thinner blades. In the case of the enclosed impeller, a shroud is added on the outside edge of the blades, so that the liquid is in large measure confined in the blade region, between the web and the shroud. Holding the liquid between these plates reduces friction losses in the pump. Open and semi-open impellers are normally found in pumps that must handle relatively large solids in the liquid, such as sewage pumps.  Impellers may also be single or double-suction. The former consists of a single impeller drawing liquid in from one side through one eye, while the double suction impeller is similar to a pair of single suction impellers placed back to back, placing an eye on each side of the impeller so that the liquid is drawn into the impeller from opposite directions. Double suction impellers can handle greater capacities of liquid than a single suction impeller of the same size and operating speed. This is because the larger inlet area of the two suction eyes provides less resistance to liquid flow into the impeller.   Double Suction Pump     Single stage pumps contain only one impeller, drawing in the liquid and expelling it through the discharge into the liquid system. A double-suction, single-stage pump is shown in . A disadvantage of the single-stage pump, however, is that discharge pressure cannot be increased above the maximum working pressure of the impeller design operating at a given speed. Above this limit, under practical working conditions, the pump will not deliver any further increase in pressure. Most volute type, single stage pumps do not operate at speeds in excess of 3600 RPM and typically produce maximum discharge pressures in the 150 to 200 psi range. Diffuser type, single stage pumps may operate at speeds as high as 8000 RPM and produce discharge pressures in excess of 1000 psi; turbine driven boiler feed pumps are sometimes this type.  In multistage pumps , this disadvantage is overcome by combining several single-stage pumps, whether single or double suction, so that the discharge of one impeller is delivered to the suction of the next impeller. The liquid is delivered to each succeeding stage under the pressure imparted to it by the preceding stage, and additional velocity and pressure are added. As the liquid passes through each impeller in turn, additional pressure is imparted to it. A much higher working head can be produced than is possible with a single impeller. For the sake of compactness the several impellers of multistage pumps are almost invariably placed on one shaft, and the whole unit is built into one housing. The impellers are arranged in multistage pumps to eliminate or minimize end thrust.  Both volute and diffuser pumps will be found in single and multi-stage construction. Because of the greater cost and complexity of diffuser pumps, they are rarely used.  The pump itself can have a vertical or horizontal layout, determined by the direction of the pump shaft axis when the pump is installed. Horizontal designs, in most applications, are easier for maintenance personnel to work on, while vertical designs require less floor space for installation. Both designs work equally well.    Centrifugal Pump Principles  The discharge capacity, discharge pressure and horsepower required to drive the pump varies as shown below with changes in impeller speed or impeller diameter .  The discharge capacity Q varies DIRECTLY as the impeller speed or impeller diameter .   The discharge pressure from the AS THE SQUARE of the impeller rpm or diameter.   The horsepower necessary to drive the pump varies AS THE CUBE of the impeller rpm or diameter.     Operations  The following steps describe the procedure for safely starting a centrifugal pump.   Centrifugal Pump Starting Procedure   Rotate the pump by hand to insure it is free to turn.  If the pump has a packed shaft and is to operate with a high vacuum on the suction side, open the seal water line to the stuffing box (if fitted with a valve), and the suction vent line to remove vapors from the suction casing. On a high speed boiler feed pump, open the recirculating line.  Open the suction valve and close the discharge valve.  Prime or flood the pump casing with liquid.  Start the pump prime mover.  As the pump comes up to running speed, briefly open the casing vent valve (if installed) to expel any air from the casing.  When the pump is up to its normal running speed, open the discharge valve.  Check the suction and discharge pressure gages to insure the pump is operating normally and make sure a packed pump shaft has a small amount of liquid leakage.  After the pump has run for a little while, check the casing, stuffing box area (on a packed pump), and the bearing housings for excessive temperatures.     "
 },
 {
-  "id": "p-854",
+  "id": "p-932",
   "level": "2",
-  "url": "centrifugalpumps.html#p-854",
+  "url": "centrifugalpumps.html#p-932",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -3475,36 +4123,36 @@ var ptx_lunr_docs = [
   "body": " Centrifugal Pump   "
 },
 {
-  "id": "p-855",
+  "id": "p-933",
   "level": "2",
-  "url": "centrifugalpumps.html#p-855",
+  "url": "centrifugalpumps.html#p-933",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "impeller eye vanes "
 },
 {
-  "id": "p-856",
+  "id": "p-934",
   "level": "2",
-  "url": "centrifugalpumps.html#p-856",
+  "url": "centrifugalpumps.html#p-934",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "volute discharge nozzle "
 },
 {
-  "id": "p-862",
+  "id": "p-940",
   "level": "2",
-  "url": "centrifugalpumps.html#p-862",
+  "url": "centrifugalpumps.html#p-940",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "volute diffuser single double-suction "
 },
 {
-  "id": "p-863",
+  "id": "p-941",
   "level": "2",
-  "url": "centrifugalpumps.html#p-863",
+  "url": "centrifugalpumps.html#p-941",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -3520,9 +4168,9 @@ var ptx_lunr_docs = [
   "body": " Diffuser Type Centrifugal Pump   "
 },
 {
-  "id": "p-864",
+  "id": "p-942",
   "level": "2",
-  "url": "centrifugalpumps.html#p-864",
+  "url": "centrifugalpumps.html#p-942",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -3547,18 +4195,18 @@ var ptx_lunr_docs = [
   "body": " Double Suction Pump   "
 },
 {
-  "id": "p-867",
+  "id": "p-945",
   "level": "2",
-  "url": "centrifugalpumps.html#p-867",
+  "url": "centrifugalpumps.html#p-945",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Single stage pumps "
 },
 {
-  "id": "p-868",
+  "id": "p-946",
   "level": "2",
-  "url": "centrifugalpumps.html#p-868",
+  "url": "centrifugalpumps.html#p-946",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -3583,9 +4231,9 @@ var ptx_lunr_docs = [
   "body": " Reciprocating Pumps  In reciprocating pumps , a power source drives a piston or plunger back and forth in a cylinder. This action pushes liquid out into the discharge on the discharge stroke, and draws liquid into the cylinder, from the source of supply, on the suction stroke. For each stroke, the same quantity of liquid enters and leaves the cylinder. The fluid flow through the pump is controlled by two check valves, one in the suction line and the other in the discharge line of the pump.   shows a steam driven reciprocating pump. The steam piston (7) is driven up and down by steam, delivering power to the liquid piston, or (69), which pumps the liquid. When the liquid piston (69) is moved down, the area above the piston is on a suction stroke. As the piston moves down in cylinder (72), the increase in cylinder volume causes a decrease in cylinder pressure. When the pressure in the cylinder drops below atmospheric pressure (creating a vacuum in the cylinder), the atmospheric pressure on the liquid in the suction tank forces the liquid up the suction pipe, through suction valve (85) and into the cylinder. Atmospheric pressure plus the liquid pressure in the discharge pipe create a pressure higher than the pressure in the cylinder. This holds the discharge valve (84) closed. When the piston begins to move up on the discharge stroke, a decrease in cylinder volume occurs, attempting to compress the liquid. This results in an increase in liquid pressure in the cylinder. As soon as the cylinder pressure exceeds the pressure in the suction pipe, the suction valve (85) is forced closed. As the piston continues to move up, the liquid pressure in the cylinder continues to rise. When the liquid pressure in the cylinder exceeds the pressure in the discharge pipe, the discharge valve (84) opens and fluid flows from the cylinder into the discharge line. This process repeated many times can build up a considerable discharge head (pressure) on the discharge side of the pump.   Simplex Reciprocating Pump    Reciprocating pumps are classified as positive displacement, self-priming and most are constant delivery, except for some specialized hydraulic pumps. Reciprocating pumps are additionally classified by the characteristics in    Reciprocating Pump Terminology    Bore  The bore is the inside diameter (ID) of the cylinder, usually measured in inches.    Stroke  The stroke of a pump is the maximum distance the piston can travel from one end of the cylinder to the other, usually measured in inches.    Single stroke  The motion of the piston from one extreme to the other.    Double stroke  The motion of the piston from one end of the cylinder to the other and back to its original starting point. It is equal in distance to two single strokes. It is also a complete operating cycle for that piston (piston has returned to its original starting point and now the cycle repeats.)    Single-acting  A single acting pump uses only one side of the piston to pump liquid. It is normally the side not attached to the piston rod or the connecting rod.    Double-acting  A double acting pump is fitted with suction and discharge valves on both sides of the piston, allowing the piston to pump liquid on both strokes of the pump cycle.    Direct-acting  The engine used is a steam reciprocating engine. The steam piston is pushed back and forth in the steam cylinder and the rod attached to the steam piston extends into the liquid cylinder and is directly attached to the liquid piston in the reciprocating pump. The engine produces the mechanical motion the reciprocating pistons require, hence; direct-acting.    Indirect-acting  The power sources provide rotary motion to this type of reciprocating pump. The rotary motion of the power supply source must be converted to reciprocating motion at the pistons using a mechanical device called a crankshaft.    Simplex  Only one liquid cylinder and piston are built into the pump. They may be operated by a steam reciprocating engine or more commonly today from a rotary engine via a crankshaft and connecting rod.    Duplex  Two liquid cylinders and pistons are built into a common pump housing. Each cylinder may be operated by its own separate reciprocating engine. (with both engines built into the common housing) More commonly today, they are driven from a rotary engine via a crankshaft and connecting rods.    Triplex  Three liquid cylinders and pistons are built into a common pump housing. Normally driven by a rotary engine via a crankshaft and connecting rods. Although direct-acting and indirecting-acting pumps can be built with more than three cylinders, they are not very common.     "
 },
 {
-  "id": "p-876",
+  "id": "p-954",
   "level": "2",
-  "url": "reciprocatingpumps.html#p-876",
+  "url": "reciprocatingpumps.html#p-954",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -3619,9 +4267,9 @@ var ptx_lunr_docs = [
   "body": " Rotary Pumps  All the many varieties of rotary pumps operate on the same principle. An element called the is rotated in the pump chamber in such a way that the liquid is carried or pushed from the suction side of the pump to the discharge side.  Rotary pumps are positive displacement, since they deliver a fixed quantity of liquid for each operational cycle or revolution of the pump shaft. This means that they want to move liquid even when the pump discharge is blocked. If the discharge of a rotary pump were closed with the pump operating, and if no pressure relief valve was installed in the pump discharge line, pressure would build up till the shaft seal failed, the electric motor overloaded and stopped, the engine driving the pump stalled, the pump casing or discharge piping ruptured, or some other casualty resulted.  When a rotary pump is operating at a constant speed, the amount of liquid delivered to the discharge line decreases slightly as the discharge pressure working against the pump increases. The drop in discharge capacity is due to increased internal leakage through the close clearances between stationary and moving parts in the pump housing. As the discharge pressure increases, the leakage rate from the discharge to the suction side of the pump, through the internal clearances, increases. This internal leakage reduces the pump’s discharge capacity, and is known as  There are dozens of designs for the rotors of rotary pumps. Gears may be used as in , but with almost any number of teeth, and in a variety of forms; elements that look like gears may be employed, although one of the pair may not be capable of rotating the other; two, three, or more lobes may be used; screws may be used which carry the liquid through the pump in their hollowed-out channels; sliding or swinging vanes may be used which form a seal with the walls of the chamber because they are pushed from the center of the rotor by mechanical arrangements or are thrown out by centrifugal force; small pistons moving in and out from the center of the rotor may be used to push liquid through the pump; and there are still more varieties. A few representative designs of rotary pumps will be described in the following sections.   Gear Pumps   Gear Pump     Gear pumps are probably the most common type of rotary pump, and illustrates a typical example. The liquid is carried from the suction to the discharge in the spaces between the gear teeth and the surface of the pump casing as the gears rotate. One of the gears is directly driven by the source of power, while the other, called the rotates with it in the opposite direction. This is accomplished either because motion is imparted from the drive gear to the idler gear by the meshing of the two gears at the center of the pump chamber, or because outside the pump chamber transmit motion from one gear shaft to the other.  There are close clearances between the gear teeth and the pump casing, and between the teeth of the two gears at their point of contact where they form a continuous fluid-tight joint. As the gears rotate in the direction indicated by the arrows, liquid is trapped in turn between each pair of teeth and the casing and carried away from the suction side of the pump. At the same time, as the teeth un-mesh at the center of the pump chamber, a low pressure is left in the empty space between the gear teeth. Liquid flows in to fill the low pressure areas between the gear teeth. As the gear teeth re-mesh on the discharge side of the pump, the liquid in between the gear teeth is forced out, eventually flowing to the discharge connection on the pump casing.  Three kinds of true gears are used: spur , helical and herringbone . Spur and helical gear pumps can be rotated in the opposite direction to reverse the flow through the pump while generally that is not possible with the herringbone design. When the latter is rotated in the wrong direction, liquid is trapped in the middle of the V resulting in pressure strains on the shafts and bearings.  The herringbone gear pump utilizes gears with a very steep V shape to the gear teeth. These designs are employed when very smooth discharge is desired. The steep angle on the gear teeth, however; prevents the gear driven by an outside source from turning the idler gear. The steep angle causes the gear teeth to jam together rather than rotate freely. Rotary motion is transmitted to the idler shaft via a set of timing gears instead. The timing gears prevent driving contact between pumping gears to eliminate the jamming problem.    Internal Gear Pumps   Internal Gear Pump    In an internal gear system, the teeth of one gear project outwards , but the teeth of the other gear project inwards toward the center of the gear as shown in . One gear stands inside the other in the internal gear pump. A gear directly attached to the drive shaft of the pump is set off-center in a circular chamber fitted around its circumference with the spurs of an internal gear. The two gears mesh on one side of the pump chamber, between the suction and discharge. On the opposite side of the chamber a crescent shaped form (a stationary part of the pump) stands in the space between the two gears in such a way as to provide a close clearance with them.  The rotation of the central gear by the shaft causes the outside gear to rotate, since the two are in mesh. Everything in the chamber rotates except the crescent, causing the liquid to be trapped in the gear spaces as they pass the crescent. This liquid is carried from the suction to the discharge, where it is forced out of the pump by the re-meshing of the gear teeth. As liquid is carried away from the suction side of the pump, the pressure is lowered and more liquid is drawn in.  The direction of flow through this type of pump can be reversed by rotating the crescent (and the pump cover it is attached to) 180 degrees.    Gerotor pumps   Gerotor Pump    The gerotor mechanism consists of pair of gear shaped elements, one within the other, mounted in a pump chamber, see . The inner gear is directly connected to the drive shaft and the source of power, and drives the outer gear through direct contact. The inner gear has one fewer teeth than the outer gear. The tooth form of each gear is related to that of the other in such a way that each tooth of the inner gear is always in sliding contact with the surface of the outer gear. Each meshing pair of teeth only fully engages at one point, 12 o’clock in the figure above.  On one side of the point of mesh, pockets of increasing size are formed as the gears rotate (suction pockets), while the pockets on the other side decrease in size (discharge pockets).    Screw Pumps   Screw Pump    Most screw pumps consist of two to four intermeshing screws rotating in a closely fitted chamber. Liquid, trapped in the channels between the intermeshing screws, is pushed to the pump discharge as the thread of one screw rotates onto the channel of another screw. One screw, generally called the , is driven by an outside power source. The other screws, generally called , have their shafts turned by timing gears or by direct contact between the intermeshing screw threads.    Lobe Pumps   Lobe Pump     Lobe pumps operate on the same principle as gear pumps. There are two rotors turning in the pump chamber operating through timing gears on the shafts outside the pump chamber. Most rotors are fitted with two to three lobes (similar to large gear teeth) to push fluid from the suction to the discharge side of the pump. Although the design will handle both liquids or gases, they are more commonly found pumping gases. A common application is an air pump to supply or increase the air flow to diesel and gasoline engines as part of the system necessary to make them run or increase the horsepower of the engine. In most cases they are considered high volume, low pressure pumps.    Vane Pumps  In vane pumps , the rotor is fitted with a number of slots into which movable vanes are installed. The pump chamber is larger in diameter than the rotor and the rotor is offset in the pump chamber so that they almost come in contact with each other at the 12 o’clock position and are separated by some distance at the 6 o’clock position. As the rotor revolves, the vanes are thrown out by centrifugal force to bear against the inside surface of the pump chamber. (Liquid pressure behind the vanes also pushes them in contact with the chamber wall and sometimes springs are used behind the vanes to force them against the chamber wall) As the rotor turns from the 12 o’clock position to the 6 o’clock position, it moves away from the chamber wall and liquid flows into the space between the moving vanes. From approximately the 5 o’clock to the 7 o’clock position, the liquid is trapped between two vanes, the rotor and the chamber wall and is pushed to the discharge side of the pump. As the rotor revolves back to the 12 o’clock position, the space between the rotor and the chamber wall decreases, forcing the liquid to the discharge connection on the pump casing. Different designs of vanes may be used, as shown in , but the sliding vane type is most common.   Vane Pump     "
 },
 {
-  "id": "p-890",
+  "id": "p-968",
   "level": "2",
-  "url": "rotarypumps.html#p-890",
+  "url": "rotarypumps.html#p-968",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -3637,18 +4285,18 @@ var ptx_lunr_docs = [
   "body": " Gear Pump   "
 },
 {
-  "id": "p-894",
+  "id": "p-972",
   "level": "2",
-  "url": "rotarypumps.html#p-894",
+  "url": "rotarypumps.html#p-972",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Gear pumps "
 },
 {
-  "id": "p-896",
+  "id": "p-974",
   "level": "2",
-  "url": "rotarypumps.html#p-896",
+  "url": "rotarypumps.html#p-974",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -3673,9 +4321,9 @@ var ptx_lunr_docs = [
   "body": " Gerotor Pump   "
 },
 {
-  "id": "p-901",
+  "id": "p-979",
   "level": "2",
-  "url": "rotarypumps.html#p-901",
+  "url": "rotarypumps.html#p-979",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -3691,9 +4339,9 @@ var ptx_lunr_docs = [
   "body": " Screw Pump   "
 },
 {
-  "id": "p-903",
+  "id": "p-981",
   "level": "2",
-  "url": "rotarypumps.html#p-903",
+  "url": "rotarypumps.html#p-981",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -3709,18 +4357,18 @@ var ptx_lunr_docs = [
   "body": " Lobe Pump   "
 },
 {
-  "id": "p-904",
+  "id": "p-982",
   "level": "2",
-  "url": "rotarypumps.html#p-904",
+  "url": "rotarypumps.html#p-982",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Lobe pumps "
 },
 {
-  "id": "p-905",
+  "id": "p-983",
   "level": "2",
-  "url": "rotarypumps.html#p-905",
+  "url": "rotarypumps.html#p-983",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -3736,13 +4384,13 @@ var ptx_lunr_docs = [
   "body": " Vane Pump   "
 },
 {
-  "id": "piping-systems-process-and-instrument-diagrams",
+  "id": "piping-systems-piping-and-instrumentation-diagrams",
   "level": "1",
-  "url": "piping-systems-process-and-instrument-diagrams.html",
+  "url": "piping-systems-piping-and-instrumentation-diagrams.html",
   "type": "Section",
   "number": "5.4",
-  "title": "Process and Instrument Diagrams",
-  "body": " Process and Instrument Diagrams  TBD  "
+  "title": "Piping and Instrumentation Diagrams",
+  "body": " Piping and Instrumentation Diagrams  TBD  "
 },
 {
   "id": "diesel-power-combustion-engines",
@@ -3790,27 +4438,27 @@ var ptx_lunr_docs = [
   "body": " Generation  Since this is a cycle, it has no beginning or end, but we have to start somewhere, so let’s begin with the generation stage.  Steam generation occurs in the boiler. The boiler is simply a device used to boil water. Like a tea-kettle on the stove, it contains liquid water and a heat source. As the water is heated, its temperature rises and soon it begins to boil. On the stove, the water vapor or steam rises and dissipates into the kitchen, but not so in a boiler. The boiler is a closed vessel, like a pot with a lid, and any steam generated in the boiler rises to the top and is collected before being sent on to the next step of the cycle.  In the generation stage, the chemical energy stored in the ship’s fuel is released when the fuel is burned in the boiler furnace, and some of this energy is transferred to the working fluid – the water. The water gains energy, and we can detect this in two ways: the water’s temperature goes up, and the water changes state from a liquid into water vapor, which we call steam. Steam leaves the boiler at high pressure and high temperature.  As we will learn in , heat energy which raises the temperature of a substance such as water or steam is sometimes called sensible heat while the heat energy that actually boils the substance is called latent heat .  You probably remember that water boils at 212 °F at standard atmospheric pressure (14.7 psia). If you put a thermometer into a pan of water boiling on the stove, this is what it will read. Even if you turn the flame up to add more heat energy, you won’t be able to make the water temperature rise above 212 °F. This is because you are adding latent heat, which is not reflected by an increase in the water’s temperature. All of the heat energy is being used to turn the liquid water into a vapor.  The boiling or condensing temperature of a liquid is known as its saturation temperature . The saturation temperature for a particular liquid is determined by its pressure, and cannot be changed. For example, 212 °F is the saturation temperature for water at atmospheric pressure, and there is nothing anybody can do to change it.  In order to reach high steam temperatures, which is necessary for high steam cycle efficiency, the boiler must be operated at a pressure far above atmospheric pressure. A typical marine boiler operates at about 600 psi while some have operated as high as 1200 psi, although this introduces additional maintenance difficulties. Shoreside steam power plants operate at 3000 psi or even higher.  Steam temperature is raised even further by superheating the steam. Superheating steam raises its temperature above the saturation temperature for the corresponding steam pressure by continuing to add heat to the steam after it has completely vaporized. This must take place in a separate area, called the superheater, away from liquid water, or the additional heat would simply boil more water rather than superheating the steam. Superheated steam is said to be dry , which means that all liquid water has vaporized and it contains no moisture droplets. Drops of liquid water would damage the turbine in the expansion step described below.  Improving efficiency is a major concern of mechanical and marine engineers. High efficiency means that fuel is not wasted, and operating costs are minimized. Practical boiler designs incorporate many techniques to maximize efficiency. For example, not all of the chemical energy originally contained by the fuel ends up transferred to the steam. A large portion of this energy is lost up the smokestack, carried away by the combustion gases. Practical boilers usually contain some sort of heat exchanger in the smokestack in an effort to recover some of this energy.  "
 },
 {
-  "id": "p-920",
+  "id": "p-998",
   "level": "2",
-  "url": "generation.html#p-920",
+  "url": "generation.html#p-998",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "sensible heat latent heat "
 },
 {
-  "id": "p-922",
+  "id": "p-1000",
   "level": "2",
-  "url": "generation.html#p-922",
+  "url": "generation.html#p-1000",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "saturation temperature "
 },
 {
-  "id": "p-924",
+  "id": "p-1002",
   "level": "2",
-  "url": "generation.html#p-924",
+  "url": "generation.html#p-1002",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -3826,9 +4474,9 @@ var ptx_lunr_docs = [
   "body": " Expansion  The thermal energy added to the working fluid in the generation stage is converted to mechanical energy, or work, in the expansion stage. This work is produced in the form of a rotating turbine shaft which drives the propeller and moves the ship through the water. The more energy we can remove at this stage, the higher the efficiency of the steam cycle. Unfortunately, it is not possible to remove all the energy from the steam in the turbine. Some energy remains in the steam and is carried to the next stage of the cycle.  A turbine is the device used to accomplish the energy transformation in the expansion stage. Like a pinwheel or a fan, a turbine has a freely rotating shaft with many carefully designed turbine blades attached. However, unlike a fan, the turbine rotor is completely enclosed in a casing which also contains nozzles and stationary blades designed to direct the steam towards the rotating blades .   Turbine Blades   Intro to Steam book    High-pressure, high-temperature steam passes through the nozzle, which has a very small opening, and it emerges with a high velocity. The thermal energy of the steam is converted into mechanical kinetic energy in the nozzle. This high velocity steam jet hits the blades and imparts a turning torque to the rotor shaft and converts its kinetic energy to rotational kinetic energy of the shaft. Most turbines have several rows of blades, forming multiple stages to extract the maximum energy from the steam. As the steam gives up its thermal energy, its temperature and pressure both drop. The steam leaves the turbine at a low temperature and low pressure.  High steam pressure at the inlet to the turbine is important for energy conversion, but it is equally important to have a low pressure at the turbine outlet. Steam, or any fluid for that matter, will only flow from high pressure to lower pressure. Without a pressure drop across the blades of the turbine, there would be no steam flow, and no energy conversion. To maximize the energy conversion, we must also maximize the pressure drop across the turbine.  "
 },
 {
-  "id": "p-927",
+  "id": "p-1005",
   "level": "2",
-  "url": "expansion.html#p-927",
+  "url": "expansion.html#p-1005",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -3853,9 +4501,9 @@ var ptx_lunr_docs = [
   "body": " Condensation  As stated previously, a large pressure drop across the turbine is required to get maximum energy extraction from the steam. The boiler supplies the high pressure at the inlet to the turbine, it is the job of the condenser to create a low pressure condition at the turbine outlet.  The condenser is a shell-and-tube heat exchanger cooled by seawater. It consists of a large, rectangular or cylindrical sealed shell containing thousands of tubes. A circulating pump forces cold seawater in at one end, through the tubes, and it exits overboard at the other end. Steam exiting from the turbine enters the condenser at the top, condenses on the tube surfaces and drains out the bottom. That is, the steam gives up its latent heat of condensation to the seawater, and returns to the liquid water state. Once the steam passes across the condenser tubes, it is no longer steam. It has condensed to liquid water, and from this point in the cycle is referred to as condensate . Condensate leaves the condenser as a low temperature, low pressure liquid.  Because the condensation is occurring at approximately the temperature of the seawater, the pressure in the condenser will be approximately equal to the saturation pressure of steam at this temperature, assuming that no air or other gases are present. For example, if the seawater temperature is 80 °F, the corresponding saturation pressure would be 0.5073 psia. This is a very high vacuum, and the greater the vacuum, the better the plant efficiency.  The latent heat removed from the steam by the seawater raises the temperature and increases the energy contained by the seawater, and this cooling water is discharged overboard.  It is unfortunate that some of the energy once contained by the fuel, and then passed on to the steam in the boiler, is eventually thrown away with the seawater. Wouldn’t it be better to somehow use this energy to power the ship? Absolutely, but there is nothing we can do about it! The only way to extract more energy from the steam is by having the turbine discharge to an even lower absolute pressure than we do. The only way to do that is to condense the steam at even lower temperatures than we are. But we can’t do that, because aboard ship there’s nothing colder than the surrounding ocean available to reject the heat to. If we decided not to reject any heat to the ocean at all, the pressure in the condenser would build up to the point where it would equal the steam pressure entering the turbine, and without a pressure drop, the steam would stop flowing altogether. There’s no win, but we’re doing the best we can.  "
 },
 {
-  "id": "p-931",
+  "id": "p-1009",
   "level": "2",
-  "url": "condensation.html#p-931",
+  "url": "condensation.html#p-1009",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -3871,9 +4519,9 @@ var ptx_lunr_docs = [
   "body": " Recovery  The only thing that remains to complete the cycle is to return the condensate to the boiler to be heated up again. Unfortunately, the condensate leaving the condenser is at a low pressure and the boiler operates at a much higher pressure. Condensate won’t flow back into the boiler by itself. A pump is required to raise the pressure and return the condensate to the boiler.  The pump, known as the feed pump , draws condensate from the condenser discharge, raises its pressure slightly above the boiler pressure, and discharges it back into the boiler to restart the cycle. Condensate leaving the feed pump is known as feedwater .  Work is required to drive the feed pump, and this energy reduces the net work produced by the cycle and available to turn the shaft. Fortunately, since water is incompressible it takes much less work to raise its pressure back to the boiler pressure than we get from an equivalent pressure drop across the turbine, and so there is a net positive amount of work produced by the cycle.  "
 },
 {
-  "id": "p-936",
+  "id": "p-1014",
   "level": "2",
-  "url": "recovery.html#p-936",
+  "url": "recovery.html#p-1014",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -3889,18 +4537,18 @@ var ptx_lunr_docs = [
   "body": " Rankine Cycle  The diagram shown in is an idealized representation of the Rankine Cycle used in the study of thermodynamics, and known as a temperature-entropy diagram . The heavy dome shaped curve is known as the vapor dome and points under the curve are saturated steam, while points to the left of the curve are liquid water and points to the right of the curve are superheated steam.  Feedwater enters the boiler at point , and is heated by the fuel. Initially, the water temperature rises, until it reaches the saturation temperature for the boiler pressure, point , where the water begins to boil. Additional heat added at this point does not raise the temperature any further until all the liquid water is completely vaporized, point . The heat added between and is the Latent Heat of Vaporization . After the steam has reached point , any additional heat added causes the temperature to rise again, and the steam becomes superheated.   Temperature - Entropy Diagram    Superheated steam leaves the boiler at point and enters the turbine. During the expansion process, the steam pressure and temperature both drop as energy is extracted from the steam. Steam leaves the turbine and enters the condenser at point , which is saturated or wet steam.  In the condenser, heat is removed from the steam and it returns to the liquid state at point . The feed pump raises the water pressure back up to the boiler pressure and the cycle begins again at point . The feed pump causes a small temperature rise in the feedwater as well as a pressure increase.  The area under the curve from to represents the heat energy added in the boiler and the area under the curve from to represents the heat rejected to the ocean. The area inside the curve represents the net work done by the cycle.  "
 },
 {
-  "id": "p-938",
+  "id": "p-1016",
   "level": "2",
-  "url": "t-sdiagram.html#p-938",
+  "url": "t-sdiagram.html#p-1016",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Rankine Cycle temperature-entropy diagram vapor dome "
 },
 {
-  "id": "p-939",
+  "id": "p-1017",
   "level": "2",
-  "url": "t-sdiagram.html#p-939",
+  "url": "t-sdiagram.html#p-1017",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -3925,9 +4573,9 @@ var ptx_lunr_docs = [
   "body": " Boiler  Heat energy is added to the cycle by burning fuel oil in the boiler. The high temperature flames raise the temperature of the water in the boiler and eventually cause it to boil. Not all energy of the fuel is transferred to the water, some remains in the combustion gases and travels up the stack. This energy will be lost to the atmosphere unless it is recovered by economizers or air heaters located in the exhaust path. Any heat energy lost to the atmosphere represents waste and steam cycle inefficiency.   Marine boilers supply the steam required for propulsion, as well as any other steam requirements of the vessel. Marine propulsion boilers are normally fired with heavy fuel oil, or in a few cases today, coal. Marine boilers, while similar to boilers found ashore, are designed to meet the particular requirements of shipboard use. They are designed to be light and compact to fit into small engine rooms, capable of operating under rapidly changing loads when the vessel is maneuvering, and to operate reliably while the vessel is pitching and rolling during a storm.   Typical Marine Boiler    Diesel and gas turbine powered ships are often equipped with smaller auxiliary boilers to supply the steam for quarters and cargo cargo heating, The heat source for auxiliary boilers can be fuel oil, diesel oil, or the waste heat from the main propulsion diesel engine.  "
 },
 {
-  "id": "p-946",
+  "id": "p-1024",
   "level": "2",
-  "url": "boiler.html#p-946",
+  "url": "boiler.html#p-1024",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -3943,9 +4591,9 @@ var ptx_lunr_docs = [
   "body": " Typical Marine Boiler   "
 },
 {
-  "id": "p-947",
+  "id": "p-1025",
   "level": "2",
-  "url": "boiler.html#p-947",
+  "url": "boiler.html#p-1025",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -3961,9 +4609,9 @@ var ptx_lunr_docs = [
   "body": " Steam Drum  The steam drum is located near the top of the boiler and should normally be half filled with water and the remainder filled with steam. A gage glass on the steam drum allows the operator to determine the water level in the boiler. Too little water would be very dangerous, because without water in the boiler the heat of the flames would melt the boiler tubes and destroy the boiler.  Steam is formed in the boiler tubes, and since steam bubbles are less dense than the surrounding liquid water, they float up to the top of the boiler and eventually rise above the surface of the water in the steam drum. If the steam was allowed to build up in the drum, the boiler pressure would quickly rise, and if not relieved by the safety valves, would cause the boiler to explode. The system is designed to remove steam as quickly as it is created, so a properly operated boiler will maintain a constant pressure.   Steam Drum    A steam drum safety valve is located on top of the steam drum to prevent boiler explosions. This valve will open automatically to relieve the steam pressure up the stack if it rises too high.  "
 },
 {
-  "id": "p-948",
+  "id": "p-1026",
   "level": "2",
-  "url": "steamdrum.html#p-948",
+  "url": "steamdrum.html#p-1026",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -3979,9 +4627,9 @@ var ptx_lunr_docs = [
   "body": " Steam Drum   "
 },
 {
-  "id": "p-950",
+  "id": "p-1028",
   "level": "2",
-  "url": "steamdrum.html#p-950",
+  "url": "steamdrum.html#p-1028",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -3997,18 +4645,18 @@ var ptx_lunr_docs = [
   "body": " Dry Pipe  The dry pipe is located inside the steam drum, near the top. In its simplest form the dry pipe is simply a pipe with holes drilled into the top portion. Steam enters the dry pipe before it leaves the boiler.  The dry pipe is designed to allow steam to enter, but to exclude water droplets and moisture. Moisture in the steam, known as carryover is bad, because high velocity water droplets in the steam can cause damage to the blades and thrust bearings in the turbine. Improper operation of the boiler, for instance letting the steam drum water level get too high, can cause carryover.  "
 },
 {
-  "id": "p-951",
+  "id": "p-1029",
   "level": "2",
-  "url": "drypipe.html#p-951",
+  "url": "drypipe.html#p-1029",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "dry pipe "
 },
 {
-  "id": "p-952",
+  "id": "p-1030",
   "level": "2",
-  "url": "drypipe.html#p-952",
+  "url": "drypipe.html#p-1030",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4024,18 +4672,18 @@ var ptx_lunr_docs = [
   "body": " Superheater  Steam collected in the dry pipe is directed to the superheater section of the boiler, where it is superheated to improve the efficiency of the steam cycle.  Water boils at a particular temperature which is determined by the pressure of the surroundings called the saturation temperature . For example, water at atmospheric pressure always boils at 212 °F, while water at 600 psia always boils at 486 °F. The saturation temperature for water at a given temperature can be looked up in steam tables .  Steam temperature can be raised above the saturation temperature by adding additional more heat energy, but this must occur in an area where there is no liquid water present, or the heat would simply boil more water and would not raise the temperature.  This heating occurs in the superheater, which is a bank of boiler tubes located in the hottest portions of the combustion gas path. Since there is no liquid water in the superheater, all heat added there produces superheat.  "
 },
 {
-  "id": "p-953",
+  "id": "p-1031",
   "level": "2",
-  "url": "superhtr.html#p-953",
+  "url": "superhtr.html#p-1031",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "superheater superheated "
 },
 {
-  "id": "p-954",
+  "id": "p-1032",
   "level": "2",
-  "url": "superhtr.html#p-954",
+  "url": "superhtr.html#p-1032",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4051,18 +4699,18 @@ var ptx_lunr_docs = [
   "body": " Stop Valves  No practical boiler could function without valves. Valves permit the operator to control fluid flow, and to isolate sections of the system for maintenance. There are dozens of valves used in the main steam cycle but in this discussion we will only mention a few of them. You may assume that valves are located throughout the system wherever they are necessary.  The main steam stop valve is located at the outlet of the superheater, and it is the primary valve used to connect or isolate the boiler from the remainder of the steam cycle.  According to US Coast Guard regulations, boilers are required to have two valve protection , that is, they are required to have two valves in series in all boiler connections. This insures that at least one valve will be functional when the time comes to secure the boiler. The valve which provides this protection is called the bulkhead stop valve . It is located in the main steam line, downstream of the main steam stop valve.  "
 },
 {
-  "id": "p-958",
+  "id": "p-1036",
   "level": "2",
-  "url": "mainsteamstopvalve.html#p-958",
+  "url": "mainsteamstopvalve.html#p-1036",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "main steam stop valve "
 },
 {
-  "id": "p-959",
+  "id": "p-1037",
   "level": "2",
-  "url": "mainsteamstopvalve.html#p-959",
+  "url": "mainsteamstopvalve.html#p-1037",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4078,9 +4726,9 @@ var ptx_lunr_docs = [
   "body": " Strainer  A steam strainer is placed in the steam line upstream of the main engine to prevent objects other than steam from entering the turbines, since solid objects impacting the turbine blades would quickly destroy them. Steam lines would normally be expected to be quite clean, but a strainer is cheap insurance against nuts, tools, and gloves left in the lines by shipyard workers, or rust flakes formed during a layup period. Unfortunately, water droplets due to wet steam or carryover will pass through the steam strainer.  "
 },
 {
-  "id": "p-960",
+  "id": "p-1038",
   "level": "2",
-  "url": "strainer.html#p-960",
+  "url": "strainer.html#p-1038",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4096,27 +4744,27 @@ var ptx_lunr_docs = [
   "body": " Throttles  The throttle valves are used to throttle (control) the amount of steam allowed to enter the turbines, and hence they control the speed of the ship. On the TS Kennedy , the throttle valves were manually opened and closed by the engineer on watch but on more modern ships they are remotely operated from the bridge.  There are two throttles, the ahead throttle , and the astern throttle . The ahead throttle controls steam to the high pressure turbine and controls the speed of the ship in the ahead (forward) direction. If the ahead throttle is closed, and the astern throttle is opened, steam will be directed to the astern section of the low pressure turbine and the turbine will rotate in the reverse direction.  The ahead and the astern throttles should not be opened at the same time, because this would cause two opposing torques on the low pressure turbine rotor. While this would not necessarily be damaging, it would be a colossal waste of energy. The Astern Guardian Valve is installed in the astern steam line between the astern throttle and the astern turbine to protect against leakage of the astern throttle while the ship is underway. This valve normally remains closed, and is only opened when the ship is expected to maneuver.  "
 },
 {
-  "id": "p-961",
+  "id": "p-1039",
   "level": "2",
-  "url": "throttles.html#p-961",
+  "url": "throttles.html#p-1039",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "throttle valves "
 },
 {
-  "id": "p-962",
+  "id": "p-1040",
   "level": "2",
-  "url": "throttles.html#p-962",
+  "url": "throttles.html#p-1040",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "ahead throttle astern throttle "
 },
 {
-  "id": "p-963",
+  "id": "p-1041",
   "level": "2",
-  "url": "throttles.html#p-963",
+  "url": "throttles.html#p-1041",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4132,9 +4780,9 @@ var ptx_lunr_docs = [
   "body": " Turbines  The simplified steam cycle uses a single turbine to extract power from the steam, but most ships use two turbines to do the same job. Two shorter turbine shafts are more advantageous than one large shaft for several reasons, including reduced manufacturing cost and increased flexibility in the arrangement of machinery in the engine room.  The first of these two turbines is known as the high pressure turbine (HP) and the second is the low pressure turbine (LP). A steam line, called the crossover carries steam from the outlet of the HP turbine to the inlet of the LP turbine. A set of reduction gears are used to reduce the turbine speed to the shaft and propellor speed.   Main Engine and Gears for Tanker Batillus under construction. Photo by Jorgen Lonn.    http:\/\/www.aukevisser.nl\/supertankers\/id317.htm from the collection of Jorgen Lonn http:\/\/www.aukevisser.nl\/supertankers\/id317.htm\" >Jorgen Lonn.    Superheated steam from the throttles enters the HP turbine where its pressure drops and its thermal energy is converted to mechanical energy. The LP turbine follows the HP turbine and continues to extract energy from the steam. The steam enters at a low pressure (a vacuum actually, at low loads) and exits at an even lower pressure into the main condenser. The specific volume of steam at these low pressures is large, which means that the turbine blades and the LP turbine itself are also large. When looking at the two turbines, it is always easy to identify the LP turbine because of its size; eight to ten feet in diameter is not unusual.  The forward end of the LP Turbine rotor contains the Astern Elements . These are two or three rows of blades designed to rotate the shaft in the astern direction. Since there are so few rows of astern blades, the power the turbine is capable of producing in the astern direction is limited.  The HP and LP turbines and the reduction gear together are known as the Main Engine .  "
 },
 {
-  "id": "p-965",
+  "id": "p-1043",
   "level": "2",
-  "url": "hpturbine.html#p-965",
+  "url": "hpturbine.html#p-1043",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4150,18 +4798,18 @@ var ptx_lunr_docs = [
   "body": " Main Engine and Gears for Tanker Batillus under construction. Photo by Jorgen Lonn.    http:\/\/www.aukevisser.nl\/supertankers\/id317.htm from the collection of Jorgen Lonn http:\/\/www.aukevisser.nl\/supertankers\/id317.htm\" >Jorgen Lonn.   "
 },
 {
-  "id": "p-967",
+  "id": "p-1045",
   "level": "2",
-  "url": "hpturbine.html#p-967",
+  "url": "hpturbine.html#p-1045",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Astern Elements "
 },
 {
-  "id": "p-968",
+  "id": "p-1046",
   "level": "2",
-  "url": "hpturbine.html#p-968",
+  "url": "hpturbine.html#p-1046",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4177,18 +4825,18 @@ var ptx_lunr_docs = [
   "body": " Main Condenser  As stated before, the main condenser is a shell and tube heat exchanger which provides the low pressure zone for the turbine to discharge into. A typical main condensers consists of three main parts: the shell , the tubes , and the tube sheets . Cold sea water enters the shell at the inlet water head or water box, flows across the condenser through the tubes, and is discharged overboardThe steam entering the condenser turns back to liquid water when it comes in contact with the cold condenser tubes. The newly formed condensate drains down to the bottom of the condenser, where it collects in the hot well until it is pumped out.  In order to maintain high plant efficiency it is necessary to maintain a good vacuum in the main condenser. This vacuum is formed by the collapse of the steam as it condenses, since the specific volume of water is so much less than the specific volume of steam. A properly operating main condenser operates at 28.5 in Hg vacuum or greater.  Vacuum will be maintained in the condenser as long as the shell of the condenser does not fill up with air or other gases, however vacuum tends to draw air into the condenser through any available leaks, such as those found at the turbine glands where the turbine shafts penetrate the turbine casing. This air must be pumped back out to the atmosphere as fast as it leaks in, or else vacuum will be lost. This is accomplished with a steam driven pump known as the air ejector which takes suction on top of the main condenser and discharges air to the engine room.  Vacuum will also be lost if condensing stops. This could happen if the supply of cooling water through the condenser tubes was interrupted, perhaps due to failure of the main circulating pump, blocked condenser tubes, or if the condensate pump failed which would cause the condenser to fill up with condensate.  "
 },
 {
-  "id": "p-969",
+  "id": "p-1047",
   "level": "2",
-  "url": "maincond.html#p-969",
+  "url": "maincond.html#p-1047",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "main condenser shell tubes tube sheets hot well "
 },
 {
-  "id": "p-971",
+  "id": "p-1049",
   "level": "2",
-  "url": "maincond.html#p-971",
+  "url": "maincond.html#p-1049",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4204,9 +4852,9 @@ var ptx_lunr_docs = [
   "body": " Condensate pump  At this point in the simplified cycle, you will find a feed pump to return the condensate back to the boiler. In an actual cycle you will find a number of additional items which are installed to increase the efficiency of the steam cycle by adding essentially free energy to the working fluid.  The first new item is the condensate pump , which is a centrifugal pump that takes suction on the condenser hot well and raises the condensate pressure enough to move it on to the DC heater. The condensate pump must pump from a vacuum, which is a difficult job for a pump. It is important to properly vent and seal the pump, or it will not pump well.  "
 },
 {
-  "id": "p-974",
+  "id": "p-1052",
   "level": "2",
-  "url": "condensatepump.html#p-974",
+  "url": "condensatepump.html#p-1052",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4222,9 +4870,9 @@ var ptx_lunr_docs = [
   "body": " Heat Exchangers  Following the condensate pump, condensate passes through a series of heat exchangers designed recover otherwise lost heat energy and improve the efficiency of the steam cycle.  First the condensate passes through the Air Ejector Condenser . The Air Ejector is a steam powered air pump that removes air that leaks into the condenser. The steam used by the air ejector is condensed here, where it preheats the condensate. Any heat added before the condensate reaches the boiler represents fuel that doesn’t need to be burned, so the cycle efficiency is raised.   Air Ejector and Air Ejector Condenser    Next, the condensate passes through gland exhaust condenser . This unit condenses steam that leaks out of the turbine glands, and simultaneously recovers more energy and recaptures the leakage. This is an example of the way a practical cycle takes every opportunity to recover free energy and increase the overall cycle efficiency  The drain cooler and first stage heater follow, in that order. The first stage heater uses partially expanded steam to pre-heat the condensate. This steam condenses in the first stage heater, but still is quite hot, so the remaining energy is recovered in the drain cooler. The condensed drains are returned to the system so no water is lost.  The first stage heater is an example of regenerative feed heating , a process that improves the overall efficiency of the cycle. In regenerative heating, steam is partially expanded in the turbine to drive the propeller, then bled off at an appropriate temperature where it is used to preheat the condensate. Some shore power plants have four or more stages of regenerative heating.  The flow order through these heat exchangers is always from coolest to hottest. Therefore the air ejector and exhaust condensers come first, followed by the drain cooler, and finally the first stage heater.  "
 },
 {
-  "id": "p-976",
+  "id": "p-1054",
   "level": "2",
-  "url": "airejectorcondenser.html#p-976",
+  "url": "airejectorcondenser.html#p-1054",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4240,27 +4888,27 @@ var ptx_lunr_docs = [
   "body": " Air Ejector and Air Ejector Condenser   "
 },
 {
-  "id": "p-977",
+  "id": "p-1055",
   "level": "2",
-  "url": "airejectorcondenser.html#p-977",
+  "url": "airejectorcondenser.html#p-1055",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "gland exhaust condenser "
 },
 {
-  "id": "p-978",
+  "id": "p-1056",
   "level": "2",
-  "url": "airejectorcondenser.html#p-978",
+  "url": "airejectorcondenser.html#p-1056",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "drain cooler first stage heater "
 },
 {
-  "id": "p-979",
+  "id": "p-1057",
   "level": "2",
-  "url": "airejectorcondenser.html#p-979",
+  "url": "airejectorcondenser.html#p-1057",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4276,18 +4924,18 @@ var ptx_lunr_docs = [
   "body": " DC Heater  The first stage heater is followed by the second stage heater, which is usually referred to as the DC Heater . The DC Heater is the point in the steam cycle where condensate becomes feed water .  The DC heater provides a second stage of regenerative feed heating, which is accomplished by mixing low pressure steam directly with the condensate. In other words, the heat exchange occurs by direct contact , hence the name. The DC Heater is also sometimes called deaerating feed tank , the DFT , the deaerator , as well as the second stage heater . All these names refer to the same piece of equipment.   DC Heater    The DC Heater serves three important functions in the steam cycle:   Heat  The first function of the DC Heater is to heat the feedwater prior to returning it to the boiler. Thermodynamically, it is known as the regenerative second stage heater. Using the exhaust steam from steam powered auxiliaries to heat the DC Heater increases the overall plant efficiency and saves fuel.    Deaerate  The second function of the DC Heater is to remove dissolved gases (oxygen and free carbon dioxide) from the condensate and make-up water used for boiler feed. Removal of oxygen and free carbon dioxide protects piping and pumps, as well as boilers and condensate return lines from these corrosive gases.    Store  Finally the DC Heater acts as a storage location for feedwater. It acts as a surge tank for the system, allowing fluctuations in the amount of water contained in the cycle to occur without upsetting the feed pump and feedwater regulators.   "
 },
 {
-  "id": "p-981",
+  "id": "p-1059",
   "level": "2",
-  "url": "dchtr.html#p-981",
+  "url": "dchtr.html#p-1059",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "DC Heater "
 },
 {
-  "id": "p-982",
+  "id": "p-1060",
   "level": "2",
-  "url": "dchtr.html#p-982",
+  "url": "dchtr.html#p-1060",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4330,27 +4978,27 @@ var ptx_lunr_docs = [
   "body": " Feed Valves  Three valves in the feed line before the boiler are used to control the flow of feedwater into the boiler.  The feed check valve comes first. It is a stop-check valve which is normally left open, but which can be used to regulate the feed water flow to the boiler if necessary. The feed check valve is always fitted with a reach rod or other means to permit it to be manually operated from the boiler control station.  The feed check is followed by the feed water regulator which is an automatic, pneumatically actuated regulating valve that responds to changes in boiler drum level and steam demand to automatically maintain a constant water level half-way up the steam drum.  The final valve of the set is the feed stop valve . This valve is provided to permit the feed system to be secured at the boiler when necessary.  "
 },
 {
-  "id": "p-990",
+  "id": "p-1068",
   "level": "2",
-  "url": "feedvalves.html#p-990",
+  "url": "feedvalves.html#p-1068",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "feed check valve "
 },
 {
-  "id": "p-991",
+  "id": "p-1069",
   "level": "2",
-  "url": "feedvalves.html#p-991",
+  "url": "feedvalves.html#p-1069",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "feed water regulator "
 },
 {
-  "id": "p-992",
+  "id": "p-1070",
   "level": "2",
-  "url": "feedvalves.html#p-992",
+  "url": "feedvalves.html#p-1070",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4366,9 +5014,9 @@ var ptx_lunr_docs = [
   "body": " Economizer  After the feedwater enters the boiler it passes through the economizer .  The economizer is a heat recovery device. It consists of a finned-tube heat exchanger which captures the heat in the boiler exhaust gases before they pass up the stack and uses it to heat the feedwater. This is the final effort to improve the efficiency of the steam cycle, by recovering heat energy that would otherwise be lost.  After leaving the economizer the feedwater enters the steam drum where the generation stage occurs, where the steam cycle begins again.   Economizer and Exhaust Gas Flow Path    "
 },
 {
-  "id": "p-993",
+  "id": "p-1071",
   "level": "2",
-  "url": "econ.html#p-993",
+  "url": "econ.html#p-1071",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4402,18 +5050,18 @@ var ptx_lunr_docs = [
   "body": " Propulsion System One Line Diagram   Source: P1206 EMPIRE STATE MACHINERY MANUAL FIRST DRAFT MAY 2022   "
 },
 {
-  "id": "p-1005",
+  "id": "p-1083",
   "level": "2",
-  "url": "Electric-propulsion-overview.html#p-1005",
+  "url": "Electric-propulsion-overview.html#p-1083",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Propulsion Converter transformer "
 },
 {
-  "id": "p-1006",
+  "id": "p-1084",
   "level": "2",
-  "url": "Electric-propulsion-overview.html#p-1006",
+  "url": "Electric-propulsion-overview.html#p-1084",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4429,9 +5077,9 @@ var ptx_lunr_docs = [
   "body": " Description  As discussed in , the essential components of an AC generator are the armature and the field, one of which is located on the rotor and the other on the stator. However a practical generator requires many other components, including an enclosure, bearings, cooling, lubrication, instrumentation and control, and a method to excite the field.  These components are shown in and and discussed below.  The shaft is supported by two journal bearings (7 and 13), one on the drive end ( DE ) and the other on the non-drive end ( NDE ). Each bearing has its own integral oil sump with sight glass, cooling fins, and an oil ring that circulates the oil to the top of the shaft as it rotates.  The shaft itself supports and carries the rotating components: primarily the main rotor core (9) and the 8-pole main field windings (4), but also a cooling fan (2) and several other components (10, 11, 12, 14, 16, and 19) that are required to excite the generator. Excitation systems will be discussed in .  The main field (4) on the rotor is wound to create eight alternating north and south poles. The main stator core (8) surrounds the main rotor (9) and is wound with three main armature windings (3). As the shaft rotates, the rotor’s magnetic field sweeps by the each of the three armature windings in turn, and induces a sinusoidal voltage in each as shown in . The resulting 3-phase AC is directed to the generator terminals (23), and from there connections are made to the main switchboard.   Hyundai HSJ9 Generator   Source: P1206 EMPIRE STATE MACHINERY MANUAL FIRST DRAFT MAY 2022     Generator Exploded View   Source: DV951E001_MAIN ALTERNATOR_OPERATION MANUAL_ALTERNATOR      Water cooled Air Cooler  Ventilation Fan  Main Armature Winding  Main Field Windings  End Shield (DE)  Shaft  Bearing (DE)  Main Stator Core  Main Rotor Core  Main Field Terminals  Leads to\/from Rectifier  Exciter Rotor Core  Bearing (NDE)  Rotating Rectifier  Rectifier Cover  Permanent Magnet Rotor  Permanent Magnet Stator  End Shield (NDE)  Exciter Armature Winding  Exciter Field Winding  Exciter Stator Core  Current Transformer  Main Terminal Box    Both the main core and the stator core are made of thin sheets of electrical steel , called laminations , clamped tightly together. The stationary armature windings (3) and the rotating field windings (4) are inserted into slots formed when the laminations were pressed out, and are firmly wedged in to hold them in position.  Electrical steel is a speciality steel used in the cores of electrical machines such as motors, generators, and transformers. It is an iron alloy with silicon (instead of carbon) as the main additive element. Silicon increases the electrical resistivity of iron by a factor of about 5. Electrical steel also has favorable magnetic properties which tend to reduce magnetic hysteresis  an energy loss caused by the repeated magnetization and de magnetization of the core. These properties reduce energy losses in the core by about three times compared to conventional steel,  The laminations are insulated from each other to prevent current from flowing axially along the core. These currents, called eddy currents , are another source of energy loss, so using insulated laminations improves the generator efficiency.  Generators produce lots of heat while they are operating due to unavoidable losses caused by mechanical friction and electrical resistance, and other factors. If this heat is not removed as it is produced, the generator temperature will rise to unacceptable limits, and high temperature is extremely damaging to electrical insulation. Electrical machines are designed to run for 100,000 hours or more when operated at or below their design temperature limit, however for every 10° C rise above this temperature, the thermal life expectancy of the electrical insulation is reduced by half, so generator cooling is critical.  The generator’s cooling system uses the shaft driven internal fan (2) to circulate the air through the machine. This hot air passes over a water-cooled heat exchanger where it is cooled and then recirculated. The cooling water tubes are double walled with slotted plate fins. Water flows through the inner tube and cools the outer tube and the slotted fins. Air flows between the fins and around the outer tubes and so is cooled.  In the case of a tube leak, water will flow between the inner and outer tubes to a leak detector and trigger an alarm. This prevents water from leaking on to the electrical components.  If for some reason the cooling water is not available, an emergency cooling mode is available. In this mode cover plates on the generator are removed to allow the fan to draw cool air from the engine room and discharge the heated air outside the generator.  "
 },
 {
-  "id": "p-1012",
+  "id": "p-1090",
   "level": "2",
-  "url": "description_generators.html#p-1012",
+  "url": "description_generators.html#p-1090",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4456,27 +5104,27 @@ var ptx_lunr_docs = [
   "body": " Generator Exploded View   Source: DV951E001_MAIN ALTERNATOR_OPERATION MANUAL_ALTERNATOR   "
 },
 {
-  "id": "p-1016",
+  "id": "p-1094",
   "level": "2",
-  "url": "description_generators.html#p-1016",
+  "url": "description_generators.html#p-1094",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "electrical steel laminations "
 },
 {
-  "id": "p-1017",
+  "id": "p-1095",
   "level": "2",
-  "url": "description_generators.html#p-1017",
+  "url": "description_generators.html#p-1095",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "hysteresis "
 },
 {
-  "id": "p-1018",
+  "id": "p-1096",
   "level": "2",
-  "url": "description_generators.html#p-1018",
+  "url": "description_generators.html#p-1096",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4492,9 +5140,9 @@ var ptx_lunr_docs = [
   "body": " Exciter  An exciter , also known as an excitation generator , is a second generator which spins on the same shaft as the main generator. The function of the exciter is to produce the direct current required to energize the main rotor windings, thereby creating a magnetic field.  There are several important differences between the main generator and the exciter. Although both are 3-phase generators, the main generator has a rotating field and a stationary armature while the exciter has a stationary field and a rotating armature. The exciter is much smaller than the main generator; the main generator can generate more than 440 A, while the exciter generates less than 4 A.   Hyundai HSJ9 Excitation System   Source: weh CC0    The 3-phase output of the exciter is directed through the hollow drive shaft to the rotating rectifier mounted on the non-drive end of the shaft. The rectifier is a solid-state electronic device which uses six diodes arranged as shown in to convert the three-phase AC produced by the exciter generator into direct current. From there, DC current travels back through the shaft to excite the rotating main field windings.   3-phase, full-wave rectifier    3 phase AC in   Source: weh cc0     Rotating Diodes   Source: weh cc0     DC out   Source: weh cc0      "
 },
 {
-  "id": "p-1031",
+  "id": "p-1109",
   "level": "2",
-  "url": "Electric-propulsion-exciter.html#p-1031",
+  "url": "Electric-propulsion-exciter.html#p-1109",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4510,9 +5158,9 @@ var ptx_lunr_docs = [
   "body": " Hyundai HSJ9 Excitation System   Source: weh CC0   "
 },
 {
-  "id": "p-1033",
+  "id": "p-1111",
   "level": "2",
-  "url": "Electric-propulsion-exciter.html#p-1033",
+  "url": "Electric-propulsion-exciter.html#p-1111",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4537,18 +5185,18 @@ var ptx_lunr_docs = [
   "body": " Pilot Generator  Just as the exciter generator is needed to supply the field for the main generator, a third generator is needed to supply the field for the exciter. This is the pilot generator .  In other words, the main generator is excited by the exciter, and the exciter is excited by the pilot generator. This process stops here however, because the field of the pilot generator is produced by permanent magnets, not a field winding. For this reason, the pilot generator is alternately called the permanent magnet generator or the PMG .  The pilot generator is shown in . It is located at the end of the shaft outboard of the bearing on the non-drive end of the generator unit . The rotor carries sixteen permanent magnets of alternating polarities bolted to the rotating shaft. The stator is bolted onto the bearing housing and carries 3-phase wye-connected armature windings. The rotating magnets induce a three-phase AC voltage into the stator windings.  The output of the pilot generator is transmitted to the automatic voltage regulator where it is rectified to DC, and then used to excite the stationary exciter field.   Permanent Magnet Generator (PMG)    Permanent Magnet Rotor   DV951E001_MAIN ALTERNATOR_OPERATION MANUAL_PMG     PMG Stator   Source: DV951E001_MAIN ALTERNATOR_OPERATION MANUAL_PMG      Because the source of the excitation in this generator is from permanent magnets, rather than an electromagnet excited by the output of the main generator, the generator is considered separately excited. The main advantage of separate excitation is that fluctuations in the voltage of the main generator do not affect the excitation supply. Voltage fluctuations can be quickly corrected and the generator output can be maintained within tight tolerances..  "
 },
 {
-  "id": "p-1034",
+  "id": "p-1112",
   "level": "2",
-  "url": "Electric-propulsion-pilot-generator.html#p-1034",
+  "url": "Electric-propulsion-pilot-generator.html#p-1112",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "pilot generator "
 },
 {
-  "id": "p-1035",
+  "id": "p-1113",
   "level": "2",
-  "url": "Electric-propulsion-pilot-generator.html#p-1035",
+  "url": "Electric-propulsion-pilot-generator.html#p-1113",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4573,18 +5221,18 @@ var ptx_lunr_docs = [
   "body": " Voltage Regulator  An automatic voltage regulator ( AVR ) is a control device which detects any fluctuation in a generator’s voltage and adjusts the excitation current to offset the fluctuation and so keep the output voltage constant regardless of load changes.  A simplified block diagram of the components of the Hyundai HDEC2000 AVR used on the training ship is shown in . The primary function is to provide continuous voltage regulation of the generator through excitation current control with a PID ( proportional, integral, derivative ) software control algorithm, but the device also includes function blocks which provide monitoring, alarm, and system protection. Two-way communications are provided through a network interface or via the front panel.   Automatic Voltage Regulator (AVR)    Front Panel   Source: DV951E001_MAIN ALTERNATOR_OPERATION MANUAL_AVR     Simplified Block Diagram   Source: weh cc0      The three main components of the AVR are the Digital Signal Processor, the Rectifier, and the Power Module. The device uses a combination of hardware and software to perform its functions.  The Digital Signal Processor  (DSP) is a specialized microprocessor designed to process and manipulate digital signals in real time. The DSP software is executable code stored in nonvolatile Flash memory. The DSP executes code and controls hardware to enable the AVR to perform functions such as regulation, measurement, monitoring, protection, and communications.  The DSP accepts both digital and analog inputs, the most important being the generator voltage and current, which are measured using current and potential (voltage) transformers on the generator output, and digitized by an analog to digital converter ( ADC ) in the DSP. Based on these values and the system requirements, the DSP calculates the amount of excitation current required and produces a command signal that is transmitted to the Power Module.  The Rectifier module supplies DC power to the power module. The power source for the module may come from a Permanent Magnet Generator, as done on the training ship, or directly from the main generator terminals if the generator is self-excited. The module uses a three-phase full-wave rectifier, , to convert the supply to a DC voltage.  The Power Module uses pulse width modulation  (PWM) to trigger a set of insulated gate bipolar transistors ( IGBT) that supply the requested excitation current An excitation current signal is transmitted back to the DSP to be used for to PID feedback, and for over-excitation limitation, protection functions and monitoring. PWM and IGBTs are discussed in more detail in and .  "
 },
 {
-  "id": "p-1039",
+  "id": "p-1117",
   "level": "2",
-  "url": "Electric-propulsion-voltage-regulator.html#p-1039",
+  "url": "Electric-propulsion-voltage-regulator.html#p-1117",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "automatic voltage regulator AVR "
 },
 {
-  "id": "p-1040",
+  "id": "p-1118",
   "level": "2",
-  "url": "Electric-propulsion-voltage-regulator.html#p-1040",
+  "url": "Electric-propulsion-voltage-regulator.html#p-1118",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4600,36 +5248,36 @@ var ptx_lunr_docs = [
   "body": " Automatic Voltage Regulator (AVR)    Front Panel   Source: DV951E001_MAIN ALTERNATOR_OPERATION MANUAL_AVR     Simplified Block Diagram   Source: weh cc0     "
 },
 {
-  "id": "p-1042",
+  "id": "p-1120",
   "level": "2",
-  "url": "Electric-propulsion-voltage-regulator.html#p-1042",
+  "url": "Electric-propulsion-voltage-regulator.html#p-1120",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Digital Signal Processor (DSP) "
 },
 {
-  "id": "p-1043",
+  "id": "p-1121",
   "level": "2",
-  "url": "Electric-propulsion-voltage-regulator.html#p-1043",
+  "url": "Electric-propulsion-voltage-regulator.html#p-1121",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "analog to digital converter ADC "
 },
 {
-  "id": "p-1044",
+  "id": "p-1122",
   "level": "2",
-  "url": "Electric-propulsion-voltage-regulator.html#p-1044",
+  "url": "Electric-propulsion-voltage-regulator.html#p-1122",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Rectifier "
 },
 {
-  "id": "p-1045",
+  "id": "p-1123",
   "level": "2",
-  "url": "Electric-propulsion-voltage-regulator.html#p-1045",
+  "url": "Electric-propulsion-voltage-regulator.html#p-1123",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4663,18 +5311,18 @@ var ptx_lunr_docs = [
   "body": " Process Control (PRC)  The Process Control cabinet contains control and management modules for the propulsion system. It also contains a 230V AC 1.5 kVA uninterruptible power supply ( UPS ) which will take over immediately in the event of failure of the normal power supply. The UPS output goes to the CLC section for distribution.  The front panel of the PRC contains a panel mounted supervision computer with touch-screen, which provides local control to monitor system parameters and alarms including:  Speed setting dial and reply pointer.  Propeller rpm meter.  Power meter.  Emergency stop pushbutton.  Alarm Acknowledge pushbutton.    Within the PRC, programmable logic controllers  (PLCs) and circuit boards automatically monitor and control many aspects of the propulsion system including:  Control the propulsion motor speed, torque, flux and current.  Connections, via fiber optic cables to the bridge and engine control rooms.  Ethernet communications with instruments that monitor the system conditions.  Fault management, safety shutdowns and interlocks.  Provide the trigger pulses for the IGBTs.  Automatically start and stop system auxiliaries.    "
 },
 {
-  "id": "p-1051",
+  "id": "p-1129",
   "level": "2",
-  "url": "Electric-propulsion-process-control--prc-.html#p-1051",
+  "url": "Electric-propulsion-process-control--prc-.html#p-1129",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "uninterruptible power supply UPS "
 },
 {
-  "id": "p-1053",
+  "id": "p-1131",
   "level": "2",
-  "url": "Electric-propulsion-process-control--prc-.html#p-1053",
+  "url": "Electric-propulsion-process-control--prc-.html#p-1131",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4690,9 +5338,9 @@ var ptx_lunr_docs = [
   "body": " Converter Local Control (CLC)  This Converter Local Control cabinet contains equipment to monitor and control the converter, including:    Main PLC. The primary function of this Programmable Logic Controller is to control the sequences, safeties and regulation of the converter and control of motor speed and torque. It acquires signals from various current and voltage measurements and gates the inverter IGBTs accordingly.  Additional tasks of the controller include control of the incoming AC supply breaker, protection of motor and converter, auxiliaries and the interface to the customer application software.     I\/O modules. These input\/output modules connect to establish communication with the various parts of the system. Non-time-critical I\/O units are connected to MV7306 main controller through an Ethernet link.     Low voltage auxiliaries. These auxiliary components use 120 V supplied from UPS. The control cabinet also includes relays used to control circuit breakers, contactors, and DC supply for internal measuring devices.     Touch screen display. This display provides functionality to configure the drive, and provides the operator with local control, diagnostic and monitoring functions.     "
 },
 {
-  "id": "p-1054",
+  "id": "p-1132",
   "level": "2",
-  "url": "Electric-propulsion-converter-local-control--clc-.html#p-1054",
+  "url": "Electric-propulsion-converter-local-control--clc-.html#p-1132",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4726,9 +5374,9 @@ var ptx_lunr_docs = [
   "body": " DFE Diode Front End Section (DFE)  This section contains the Diode Front Edge bridge. This bridge receives the output of the two secondary windings of the propulsion transformer and rectifies this to a DC voltage in the diode bridge .  The propulsion transformers reduce the network voltage (6,600 V) to the requirements of the frequency converters (1,850V). The transformers have a single primary winding, delta connected, and two secondary windings, one is delta connected and the other is wye connected. This provides a 30° phase shift in one of the supplies to the diode front end. This arrangement effectively provides a 12-pulse configuration that reduces harmful harmonics.  The diode bridge is made up of four stacks of six diodes, one stack to each transformer secondary. The output is passed to the DC Capacitor and filter circuit in the DCC cabinet .  "
 },
 {
-  "id": "p-1067",
+  "id": "p-1145",
   "level": "2",
-  "url": "Electric-propulsion-dfe--diode-front-end-section--dfe-.html#p-1067",
+  "url": "Electric-propulsion-dfe--diode-front-end-section--dfe-.html#p-1145",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4753,9 +5401,9 @@ var ptx_lunr_docs = [
   "body": " Inverter (INV)  The inverter section contains three subassemblies called stacks , one for each phase of the output. Each stack consists of four IGBT and two diode press pack modules, a gate driver, water-cooled heat sink and balancing resistors.  The term press pack refers to the physical packaging of electronic components. It typically consists of a semiconductor chip, along with its associated control and protection circuitry, mounted between two metal plates which serve as electrical contacts and provide mechanical support. These plates are made of good thermal conductors such as copper or aluminum. This design allows for efficient heat dissipation, as the metal plates can be directly attached to a heat sink.   IGBT Stack   Source: IGBT    The IGBT gates are triggered by pulse width signals produced in the CLC section which change the direct current stored in the DC capacitors into variable voltage, variable frequency alternating current.  "
 },
 {
-  "id": "p-1071",
+  "id": "p-1149",
   "level": "2",
-  "url": "Electric-propulsion-inverter--inv-.html#p-1071",
+  "url": "Electric-propulsion-inverter--inv-.html#p-1149",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",

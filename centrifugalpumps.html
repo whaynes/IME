@@ -5,7 +5,7 @@
 <!--*         https://pretextbook.org          *-->
 <!--*                                          *-->
 <!--********************************************-->
-<html lang="en-US" dir="ltr">
+<html lang="en-US">
 <head xmlns:og="http://ogp.me/ns#" xmlns:book="https://ogp.me/ns/book#">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Centrifugal Pumps</title>
@@ -14,93 +14,68 @@
 <meta property="og:type" content="book">
 <meta property="book:title" content="Introduction to Marine Engineering">
 <meta property="book:author" content="Engineering Departement">
-<script>
-var runestoneMathReady = new Promise((resolve) => window.rsMathReady = resolve);
+<script>var runestoneMathReady = new Promise((resolve) => window.rsMathReady = resolve);
 window.MathJax = {
-  "tex": {
-    "inlineMath": [
-      [
-        "\\(",
-        "\\)"
-      ]
-    ],
-    "tags": "none",
-    "tagSide": "right",
-    "tagIndent": ".8em",
-    "packages": {
-      "[+]": [
-        "base",
-        "extpfeil",
-        "ams",
-        "amscd",
-        "color",
-        "newcommand",
-        "knowl"
-      ]
-    }
+  tex: {
+    inlineMath: [['\\(','\\)']],
+    tags: "none",
+    tagSide: "right",
+    tagIndent: ".8em",
+    packages: {'[+]': ['base', 'extpfeil', 'ams', 'amscd', 'color', 'newcommand', 'knowl']}
   },
-  "options": {
-    "ignoreHtmlClass": "tex2jax_ignore|ignore-math",
-    "processHtmlClass": "process-math"
+  options: {
+    ignoreHtmlClass: "tex2jax_ignore|ignore-math",
+    processHtmlClass: "process-math",
   },
-  "chtml": {
-    "scale": 0.98,
-    "mtextInheritFont": true
+  chtml: {
+    scale: 0.98,
+    mtextInheritFont: true
   },
-  "loader": {
-    "load": [
-      "input/asciimath",
-      "[tex]/extpfeil",
-      "[tex]/amscd",
-      "[tex]/color",
-      "[tex]/newcommand",
-      "[pretext]/mathjaxknowl3.js"
-    ],
-    "paths": {
-      "pretext": "https://pretextbook.org/js/lib"
-    }
+  loader: {
+    load: ['input/asciimath', '[tex]/extpfeil', '[tex]/amscd', '[tex]/color', '[tex]/newcommand', '[pretext]/mathjaxknowl3.js'],
+    paths: {pretext: "https://pretextbook.org/js/lib"},
   },
-  "startup": {
+  startup: {
     pageReady() {
       return MathJax.startup.defaultPageReady().then(function () {
       console.log("in ready function");
       rsMathReady();
       }
     )}
-  }
+  },
 };
-</script><script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/lunr.js/2.3.9/lunr.min.js" integrity="sha512-4xUl/d6D6THrAnXAwGajXkoWaeMNwEKK4iNfq5DotEbLPAfk6FSxSP3ydNxqDgCw1c/0Z1Jg6L8h2j+++9BZmg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script><script src="lunr-pretext-search-index.js" async=""></script><script src="https://pretextbook.org/js/0.3/pretext_search.js"></script><link href="https://pretextbook.org/css/0.7/pretext_search.css" rel="stylesheet" type="text/css">
-<script>js_version = 0.3</script><script src="https://pretextbook.org/js/lib/jquery.min.js"></script><script src="https://pretextbook.org/js/lib/jquery.sticky.js"></script><script src="https://pretextbook.org/js/lib/jquery.espy.min.js"></script><script src="https://pretextbook.org/js/0.3/pretext.js"></script><script>miniversion=0.1</script><script src="https://pretextbook.org/js/0.3/pretext_add_on.js?x=1"></script><script src="https://pretextbook.org/js/0.3/user_preferences.js"></script><script src="https://pretextbook.org/js/lib/knowl.js"></script><!--knowl.js code controls Sage Cells within knowls--><script>sagecellEvalName='Evaluate (Sage)';
+</script><script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script><script src="https://unpkg.com/lunr/lunr.js"></script><script src="lunr-pretext-search-index.js"></script><script src="https://pretextbook.org/js/0.2/pretext_search.js"></script><link href="https://pretextbook.org/css/0.6/pretext_search.css" rel="stylesheet" type="text/css">
+<script>js_version = 0.2</script><script src="https://pretextbook.org/js/lib/jquery.min.js"></script><script src="https://pretextbook.org/js/lib/jquery.sticky.js"></script><script src="https://pretextbook.org/js/lib/jquery.espy.min.js"></script><script src="https://pretextbook.org/js/0.2/pretext.js"></script><script>miniversion=0.1</script><script src="https://pretextbook.org/js/0.2/pretext_add_on.js?x=1"></script><script src="https://pretextbook.org/js/0.2/user_preferences.js"></script><script src="https://pretextbook.org/js/lib/knowl.js"></script><!--knowl.js code controls Sage Cells within knowls--><script>sagecellEvalName='Evaluate (Sage)';
 </script><link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
 <link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@400;700&amp;family=Noto+Serif:ital,wght@0,400;0,700;1,400;1,700&amp;family=Tinos:ital,wght@0,400;0,700;1,400;1,700&amp;display=swap" rel="stylesheet">
 <link href="https://fonts.cdnfonts.com/css/dejavu-serif" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Roboto+Serif:opsz,wdth,wght@8..144,50..150,100..900&amp;display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wdth,wght@75..100,300..800&amp;display=swap" rel="stylesheet">
-<link href="https://pretextbook.org/css/0.7/pretext.css" rel="stylesheet" type="text/css">
-<link href="https://pretextbook.org/css/0.7/pretext_add_on.css" rel="stylesheet" type="text/css">
-<link href="https://pretextbook.org/css/0.7/shell_default.css" rel="stylesheet" type="text/css">
-<link href="https://pretextbook.org/css/0.7/banner_default.css" rel="stylesheet" type="text/css">
-<link href="https://pretextbook.org/css/0.7/navbar_default.css" rel="stylesheet" type="text/css">
-<link href="https://pretextbook.org/css/0.7/toc_default.css" rel="stylesheet" type="text/css">
-<link href="https://pretextbook.org/css/0.7/knowls_default.css" rel="stylesheet" type="text/css">
-<link href="https://pretextbook.org/css/0.7/style_default.css" rel="stylesheet" type="text/css">
-<link href="https://pretextbook.org/css/0.7/colors_blue_red.css" rel="stylesheet" type="text/css">
-<link href="https://pretextbook.org/css/0.7/setcolors.css" rel="stylesheet" type="text/css">
+<link href="https://pretextbook.org/css/0.6/pretext.css" rel="stylesheet" type="text/css">
+<link href="https://pretextbook.org/css/0.6/pretext_add_on.css" rel="stylesheet" type="text/css">
+<link href="https://pretextbook.org/css/0.6/shell_default.css" rel="stylesheet" type="text/css">
+<link href="https://pretextbook.org/css/0.6/banner_default.css" rel="stylesheet" type="text/css">
+<link href="https://pretextbook.org/css/0.6/navbar_default.css" rel="stylesheet" type="text/css">
+<link href="https://pretextbook.org/css/0.6/toc_default.css" rel="stylesheet" type="text/css">
+<link href="https://pretextbook.org/css/0.6/knowls_default.css" rel="stylesheet" type="text/css">
+<link href="https://pretextbook.org/css/0.6/style_default.css" rel="stylesheet" type="text/css">
+<link href="https://pretextbook.org/css/0.6/colors_blue_red.css" rel="stylesheet" type="text/css">
+<link href="https://pretextbook.org/css/0.6/setcolors.css" rel="stylesheet" type="text/css">
 </head>
 <body class="pretext book ignore-math">
-<a class="assistive" href="#ptx-content">Skip to main content</a><header id="ptx-masthead" class="ptx-masthead"><div class="ptx-banner">
-<a id="logo-link" class="logo-link" href=""></a><div class="title-container">
+<a class="assistive" href="#ptx-content">Skip to main content</a><header id="ptx-masthead"><div class="ptx-banner">
+<a id="logo-link" href=""></a><div class="title-container">
 <h1 class="heading"><a href="book-1.html"><span class="title">Introduction to Marine Engineering</span></a></h1>
 <p class="byline">Engineering Departement</p>
 </div>
-<div id="searchresultsplaceholder" class="searchresultsplaceholder" style="display: none">
-<button id="closesearchresults" class="closesearchresults" onclick="document.getElementById('searchresultsplaceholder').style.display = 'none'; return false;">x</button><h2>Search Results: <span id="searchterms" class="searchterms"></span>
+<div id="searchresultsplaceholder" style="display: none">
+<button id="closesearchresults" onclick="document.getElementById('searchresultsplaceholder').style.display = 'none'; return false;">x</button><h2>Search Results: <span id="searchterms"></span>
 </h2>
-<div id="searchempty" class="searchempty"><span>No results.</span></div>
-<ol id="searchresults" class="searchresults"></ol>
+<div id="searchempty"><span>No results.</span></div>
+<ol id="searchresults"></ol>
 </div>
-</div></header><nav id="ptx-navbar" class="ptx-navbar navbar"><button class="toc-toggle button" aria-label="Show or hide table of contents"><span class="icon">☰</span><span class="name">Contents</span></button><button id="user-preferences-button" class="user-preferences-button button" title="Modify user preferences"><span id="avatarbutton" class="avatarbutton name">You!</span><div id="preferences_menu_holder" class="preferences_menu_holder hidden"><ol id="preferences_menu" class="preferences_menu" style="font-family: 'Roboto Serif', serif;">
+</div></header><nav id="ptx-navbar" class="navbar"><button class="toc-toggle button" aria-label="Show or hide table of contents"><span class="icon">☰</span><span class="name">Contents</span></button><button id="user-preferences-button" class="user-preferences-button button" title="Modify user preferences"><span id="theavatarbutton" class="name">You!</span><div id="preferences_menu_holder" class="hidden"><ol id="preferences_menu" style="font-family: 'Roboto Serif', serif;">
 <li data-env="avatar" tabindex="-1">Choose avatar<div class="wrap_to_submenu"><span class="to_submenu">▻</span></div>
 <ol class="hidden avatar">
 <li data-val="You!" tabindex="-1">
@@ -203,7 +178,7 @@ window.MathJax = {
 </ol>
 </li>
 </ol></div></button><span class="treebuttons"><a class="previous-button button" href="typesofpumps.html" title="Previous"><span class="icon">&lt;</span><span class="name">Prev</span></a><a class="up-button button" href="typesofpumps.html" title="Up"><span class="icon">^</span><span class="name">Up</span></a><a class="next-button button" href="reciprocatingpumps.html" title="Next"><span class="name">Next</span><span class="icon">&gt;</span></a></span><div class="searchbox"><div class="searchwidget">
-<input id="ptxsearch" class="ptxsearch" type="text" name="terms" placeholder="Search" onchange="doSearch()"><button id="searchbutton" class="searchbutton" type="button" onclick="doSearch()">🔍</button>
+<input id="ptxsearch" type="text" name="terms" placeholder="Search" onchange="doSearch()"><button id="searchbutton" type="button" onclick="doSearch()">🔍</button>
 </div></div></nav><div id="latex-macros" class="hidden-content process-math" style="display:none"><span class="process-math">\(
 \newcommand{\lt}{&lt;}
 \newcommand{\gt}{&gt;}
@@ -212,7 +187,7 @@ window.MathJax = {
 \newcommand{\fillinmath}[1]{\mathchoice{\colorbox{fillinmathshade}{$\displaystyle     \phantom{\,#1\,}$}}{\colorbox{fillinmathshade}{$\textstyle        \phantom{\,#1\,}$}}{\colorbox{fillinmathshade}{$\scriptstyle      \phantom{\,#1\,}$}}{\colorbox{fillinmathshade}{$\scriptscriptstyle\phantom{\,#1\,}$}}}
 \)</span></div>
 <div class="ptx-page">
-<div id="ptx-sidebar" class="ptx-sidebar"><nav id="ptx-toc" class="ptx-toc depth2"><ul class="structural">
+<div id="ptx-sidebar"><nav id="ptx-toc" class="depth2"><ul class="structural">
 <li><div class="toc-item"><a href="frontmatter.html" class="internal"><span class="title">Front Matter</span></a></div></li>
 <li>
 <div class="toc-item"><a href="safety.html" class="internal"><span class="codenumber">1</span> <span class="title">Safety</span></a></div>
@@ -341,7 +316,7 @@ window.MathJax = {
 <li><div class="toc-item"><a href="electricity-reactance.html" class="internal"><span class="codenumber">4.1.6</span> <span class="title">Reactance</span></a></div></li>
 <li><div class="toc-item"><a href="electricity-power.html" class="internal"><span class="codenumber">4.1.7</span> <span class="title">Power</span></a></div></li>
 <li><div class="toc-item"><a href="electricity-ohm-s-law.html" class="internal"><span class="codenumber">4.1.8</span> <span class="title">Ohm’s Law</span></a></div></li>
-<li><div class="toc-item"><a href="topic-faradays-law.html" class="internal"><span class="codenumber">4.1.9</span> <span class="title">Faraday’s Law</span></a></div></li>
+<li><div class="toc-item"><a href="topic-faradays-law.html" class="internal"><span class="codenumber">4.1.9</span> <span class="title">Faraday's Law</span></a></div></li>
 </ul>
 </li>
 <li>
@@ -388,9 +363,38 @@ window.MathJax = {
 </ul>
 </li>
 <li>
-<div class="toc-item"><a href="piping-systems.html" class="internal"><span class="codenumber">5</span> <span class="title">Engineering Systems</span></a></div>
+<div class="toc-item"><a href="piping-systems.html" class="internal"><span class="codenumber">5</span> <span class="title">Piping Systems</span></a></div>
 <ul class="structural">
-<li><div class="toc-item"><a href="piping-systems-pipe.html" class="internal"><span class="codenumber">5.1</span> <span class="title">Pipe</span></a></div></li>
+<li>
+<div class="toc-item"><a href="piping-systems-pipe-and-tubes.html" class="internal"><span class="codenumber">5.1</span> <span class="title">Pipe and Tubes</span></a></div>
+<ul class="structural">
+<li><div class="toc-item"><a href="piping-systems-pipe-materials.html" class="internal"><span class="codenumber">5.1.1</span> <span class="title">Pipe Materials</span></a></div></li>
+<li><div class="toc-item"><a href="piping-systems-pipe-size.html" class="internal"><span class="codenumber">5.1.2</span> <span class="title">Pipe Size</span></a></div></li>
+<li>
+<div class="toc-item"><a href="pipe-connections.html" class="internal"><span class="codenumber">5.1.3</span> <span class="title">Pipe Connections</span></a></div>
+<ul class="structural">
+<li><div class="toc-item"><a href="piping-systems-welded-connections.html" class="internal"><span class="codenumber">5.1.3.1</span> <span class="title">Welded Connections</span></a></div></li>
+<li><div class="toc-item"><a href="piping-systems-flanged-connections.html" class="internal"><span class="codenumber">5.1.3.2</span> <span class="title">Flanged Connections</span></a></div></li>
+<li><div class="toc-item"><a href="piping-systems-threaded-connections.html" class="internal"><span class="codenumber">5.1.3.3</span> <span class="title">Threaded Connections</span></a></div></li>
+<li><div class="toc-item"><a href="piping-systems-soldered-and-brazed-connections.html" class="internal"><span class="codenumber">5.1.3.4</span> <span class="title">Soldered and Brazed Connections</span></a></div></li>
+<li><div class="toc-item"><a href="piping-systems-compression-connections.html" class="internal"><span class="codenumber">5.1.3.5</span> <span class="title">Compression Connections</span></a></div></li>
+<li><div class="toc-item"><a href="piping-systems-quick-connect-fittings.html" class="internal"><span class="codenumber">5.1.3.6</span> <span class="title">Quick Connect Fittings</span></a></div></li>
+<li><div class="toc-item"><a href="piping-systems-glued-connections.html" class="internal"><span class="codenumber">5.1.3.7</span> <span class="title">Glued Connections</span></a></div></li>
+</ul>
+</li>
+<li>
+<div class="toc-item"><a href="pipe_fittings.html" class="internal"><span class="codenumber">5.1.4</span> <span class="title">Pipe Fittings</span></a></div>
+<ul class="structural">
+<li><div class="toc-item"><a href="piping-systems-pipe-nipples.html" class="internal"><span class="codenumber">5.1.4.1</span> <span class="title">Pipe Nipples</span></a></div></li>
+<li><div class="toc-item"><a href="piping-systems-unions-and-couplings.html" class="internal"><span class="codenumber">5.1.4.2</span> <span class="title">Unions and Couplings</span></a></div></li>
+<li><div class="toc-item"><a href="piping-systems-elbow-fittings.html" class="internal"><span class="codenumber">5.1.4.3</span> <span class="title">Elbow Fittings</span></a></div></li>
+<li><div class="toc-item"><a href="piping-systems-tee-fittings.html" class="internal"><span class="codenumber">5.1.4.4</span> <span class="title">Tee Fittings</span></a></div></li>
+<li><div class="toc-item"><a href="piping-systems-caps-and-plugs.html" class="internal"><span class="codenumber">5.1.4.5</span> <span class="title">Caps and Plugs</span></a></div></li>
+<li><div class="toc-item"><a href="piping-systems-adapters.html" class="internal"><span class="codenumber">5.1.4.6</span> <span class="title">Adapters</span></a></div></li>
+</ul>
+</li>
+</ul>
+</li>
 <li>
 <div class="toc-item"><a href="valves.html" class="internal"><span class="codenumber">5.2</span> <span class="title">Valves</span></a></div>
 <ul class="structural">
@@ -431,7 +435,7 @@ window.MathJax = {
 </li>
 </ul>
 </li>
-<li><div class="toc-item"><a href="piping-systems-process-and-instrument-diagrams.html" class="internal"><span class="codenumber">5.4</span> <span class="title">Process and Instrument Diagrams</span></a></div></li>
+<li><div class="toc-item"><a href="piping-systems-piping-and-instrumentation-diagrams.html" class="internal"><span class="codenumber">5.4</span> <span class="title">Piping and Instrumentation Diagrams</span></a></div></li>
 </ul>
 </li>
 <li>
@@ -545,14 +549,14 @@ window.MathJax = {
 <main class="ptx-main"><div id="ptx-content" class="ptx-content"><section class="subsubsection" id="centrifugalpumps"><h2 class="heading hide-type">
 <span class="type">Subsubsection</span> <span class="codenumber">5.3.3.1</span> <span class="title">Centrifugal Pumps</span>
 </h2>
-<div class="para" id="p-854">
+<div class="para" id="p-932">
 <dfn class="terminology">Centrifugal pumps</dfn> use centrifugal force to transfer the mechanical energy supplied to the pump into primarily kinetic energy (velocity) in the fluid being pumped. Centrifugal force is the force generated by rotation which acts outward from the center of rotation. Using the terminology already covered, centrifugal pumps are classified as:  non-positive displacement pumps,  non-self priming, and are  constant delivery for a given operating speed and discharge pressure. Because of their simplicity, low cost and ability to operate under a wide variety of conditions, centrifugal pumps are widely used. They can be adapted to produce any head up to several thousand feet and will handle liquids at temperatures up to 1000° F. They can also be designed to handle liquids containing a high proportion of rather large solid particles.</div>
 <figure class="figure figure-like" id="centpump_png"><div class="image-box" style="width: 50%; margin-left: 25%; margin-right: 25%;"><img src="external/pics/pumps/centpump.png" class="contained"></div>
-<figcaption><span class="type">Figure</span><span class="space"> </span><span class="codenumber">5.3.2<span class="period">.</span></span><span class="space"> </span>Centrifugal Pump</figcaption></figure><div class="para" id="p-855">A centrifugal pump consists of a rotating element called the  <dfn class="terminology">impeller</dfn>, which is the only moving part in the pump, and a specially shaped housing, or pump  casing. In practically all centrifugal pumps, liquid enters the rotating element at the center through the  <dfn class="terminology">eye</dfn>, and is given a rotary motion in the pump chamber by the rotation of a number of impeller blades (generally called  <dfn class="terminology">vanes</dfn>). The rotation of the impeller in a true centrifugal pump does two things. Centrifugal force drives the liquid directly out from the center of the impeller, setting up a greater pressure in the chamber at the outer edge of the impeller than at the eye. At the same time the liquid is also pushed around and around by the turning of the vanes, and is given more and more velocity as it moves farther out from the eye. The liquid finally leaves the impeller tangentially at the end of the vanes with a high velocity, and flows into the discharge passage of the pump housing surrounding the impeller.</div>
-<div class="para" id="p-856">The discharge passage gradually widens as it leads the liquid away from the impeller to the discharge nozzle on the pump housing. The gradual widening of the discharge passage reduces the velocity of the liquid. Since the reduction in velocity does not produce work, it results in a change in the type of energy contained in the liquid. Most of the velocity (kinetic energy) in the liquid produced by the centrifugal pump is transformed into pressure (potential energy) by the widening discharge passage. This type of energy is more available for doing work. On most centrifugal pumps this widening passage is built into the pump casing that surrounds the impeller and is called the  <dfn class="terminology">volute</dfn>. Additional conversion of velocity to pressure may be accomplished in the <dfn class="terminology">discharge nozzle</dfn> and sometimes in the piping leading away from the pump.</div>
-<div class="para" id="p-857">Recall that a reduction in the velocity of a liquid (without producing any work) changes the type of energy contained in the liquid into increased pressure. The reverse is also true. If the pressure in a liquid is reduced (without producing any work) then the velocity of the liquid must increase.)</div>
-<div class="para" id="p-858">When liquid is forced away from the eye by centrifugal force, a reduced pressure area is created in the eye causing more liquid to flow in. This creates a constant flow through the impeller and out through the discharge of the centrifugal pump.</div>
-<div class="para logical" id="p-859">
+<figcaption><span class="type">Figure</span><span class="space"> </span><span class="codenumber">5.3.2<span class="period">.</span></span><span class="space"> </span>Centrifugal Pump</figcaption></figure><div class="para" id="p-933">A centrifugal pump consists of a rotating element called the  <dfn class="terminology">impeller</dfn>, which is the only moving part in the pump, and a specially shaped housing, or pump  casing. In practically all centrifugal pumps, liquid enters the rotating element at the center through the  <dfn class="terminology">eye</dfn>, and is given a rotary motion in the pump chamber by the rotation of a number of impeller blades (generally called  <dfn class="terminology">vanes</dfn>). The rotation of the impeller in a true centrifugal pump does two things. Centrifugal force drives the liquid directly out from the center of the impeller, setting up a greater pressure in the chamber at the outer edge of the impeller than at the eye. At the same time the liquid is also pushed around and around by the turning of the vanes, and is given more and more velocity as it moves farther out from the eye. The liquid finally leaves the impeller tangentially at the end of the vanes with a high velocity, and flows into the discharge passage of the pump housing surrounding the impeller.</div>
+<div class="para" id="p-934">The discharge passage gradually widens as it leads the liquid away from the impeller to the discharge nozzle on the pump housing. The gradual widening of the discharge passage reduces the velocity of the liquid. Since the reduction in velocity does not produce work, it results in a change in the type of energy contained in the liquid. Most of the velocity (kinetic energy) in the liquid produced by the centrifugal pump is transformed into pressure (potential energy) by the widening discharge passage. This type of energy is more available for doing work. On most centrifugal pumps this widening passage is built into the pump casing that surrounds the impeller and is called the  <dfn class="terminology">volute</dfn>. Additional conversion of velocity to pressure may be accomplished in the <dfn class="terminology">discharge nozzle</dfn> and sometimes in the piping leading away from the pump.</div>
+<div class="para" id="p-935">Recall that a reduction in the velocity of a liquid (without producing any work) changes the type of energy contained in the liquid into increased pressure. The reverse is also true. If the pressure in a liquid is reduced (without producing any work) then the velocity of the liquid must increase.)</div>
+<div class="para" id="p-936">When liquid is forced away from the eye by centrifugal force, a reduced pressure area is created in the eye causing more liquid to flow in. This creates a constant flow through the impeller and out through the discharge of the centrifugal pump.</div>
+<div class="para logical" id="p-937">
 <div class="para">In a centrifugal pump, the velocity that can be imparted to the liquid, and the resulting discharge pressure depends upon both the impeller diameter and the impeller RPM. Increasing either results in:</div>
 <ul class="disc">
 <li id="li-291"><div class="para" id="p-derived-li-291">higher centrifugal force</div></li>
@@ -560,8 +564,8 @@ window.MathJax = {
 <li id="li-293"><div class="para" id="p-derived-li-293">higher pressure</div></li>
 </ul>
 </div>
-<div class="para" id="p-860">The centrifugal pump, with a certain size impeller operating at a set speed, will only put enough energy in the liquid to create a specific discharge pressure. If the resistance in the discharge piping rises to the maximum pressure the pump can create, liquid flow through the pump stops. The centrifugal pump is said to be operating at its  shut-off head and no liquid is delivered by the pump. Friction between the rotating impeller and the liquid trapped in the pump casing increases the liquid temperature, possibly causing it to vaporize. To prevent vaporization of the liquid in a high speed centrifugal pump handling very hot liquids, a small pipeline is installed on the discharge side of the pump to divert a small amount of liquid back to the supply tank on the suction side of the pump. This small quantity of liquid flowing through the pump acts as a cooling system constantly removing the heated liquid from the pump casing and replacing it with cooler liquid from the supply tank. These lines are called  recirculating lines and are always found on shipboard turbine-driven centrifugal feed pumps because they are frequently subjected to shut-off head when the ship’s main engine is stopped or maneuvering.</div>
-<div class="para logical" id="p-861">
+<div class="para" id="p-938">The centrifugal pump, with a certain size impeller operating at a set speed, will only put enough energy in the liquid to create a specific discharge pressure. If the resistance in the discharge piping rises to the maximum pressure the pump can create, liquid flow through the pump stops. The centrifugal pump is said to be operating at its  shut-off head and no liquid is delivered by the pump. Friction between the rotating impeller and the liquid trapped in the pump casing increases the liquid temperature, possibly causing it to vaporize. To prevent vaporization of the liquid in a high speed centrifugal pump handling very hot liquids, a small pipeline is installed on the discharge side of the pump to divert a small amount of liquid back to the supply tank on the suction side of the pump. This small quantity of liquid flowing through the pump acts as a cooling system constantly removing the heated liquid from the pump casing and replacing it with cooler liquid from the supply tank. These lines are called  recirculating lines and are always found on shipboard turbine-driven centrifugal feed pumps because they are frequently subjected to shut-off head when the ship’s main engine is stopped or maneuvering.</div>
+<div class="para logical" id="p-939">
 <div class="para">Impeller vanes which curve backwards with respect to their direction of rotation are more efficient and give better performance than straight vanes; however, the pump must be turned in the correct direction to obtain this efficiency. The advantage of straight vane impellers is that they have the same efficiency in either direction of pump rotation. In <a href="" class="xref" data-knowl="./knowl/centpump_png.html" title="Figure 5.3.2">Figure 5.3.2</a>, the impeller rotation is counter-clockwise allowing the liquid to be pushed around the pump chamber by the vanes, rather than being carried by them. If a curved vane impeller was operated in the wrong direction rotation, it would still deliver some liquid, but the following would be observed:</div>
 <ul class="disc">
 <li id="li-294"><div class="para" id="p-derived-li-294">The pump would require more power to turn the impellor backwards.</div></li>
@@ -569,12 +573,12 @@ window.MathJax = {
 <li id="li-296"><div class="para" id="p-derived-li-296">The pump efficiency would decrease.</div></li>
 </ul>
 </div>
-<section class="paragraphs" id="paragraphs-48"><h3 class="heading"><span class="title">Centrifugal Pump Design.</span></h3> <div class="para" id="p-862">Centrifugal pumps come in two basic designs, <dfn class="terminology">volute</dfn> and <dfn class="terminology">diffuser</dfn>, and many variations, including: <dfn class="terminology">single</dfn>- or <dfn class="terminology">double-suction</dfn>, single or multiple stages, and horizontal or vertical layout.</div> <div class="para" id="p-863">In the  <dfn class="terminology">volute pump</dfn>, the one most commonly used, the impeller discharges into a progressively expanding casing, as shown in <a href="" class="xref" data-knowl="./knowl/centpump_png.html" title="Figure 5.3.2">Figure 5.3.2</a>. The casing is proportioned to produce equal velocity of flow all around the circumference of the casing and then gradually to reduce the velocity as the liquid passes from the casing into the nozzle to be discharged from the pump, thereby transforming a considerable part of the velocity head into pressure head.</div> <figure class="figure figure-like" id="diffusertype_png"><div class="image-box" style="width: 50%; margin-left: 25%; margin-right: 25%;"><img src="external/pics/pumps/diffusertype.png" class="contained"></div>
-<figcaption><span class="type">Figure</span><span class="space"> </span><span class="codenumber">5.3.3<span class="period">.</span></span><span class="space"> </span>Diffuser Type Centrifugal Pump</figcaption></figure> <div class="para" id="p-864">In the  <dfn class="terminology">diffuser pump</dfn>, the impeller is surrounded by gradually expanding passages formed by stationary guide vanes, sometimes called a diffusion ring, as shown in <a href="" class="xref" data-knowl="./knowl/diffusertype_png.html" title="Figure 5.3.3">Figure 5.3.3</a>. In these expanding passages the direction of flow is changed and velocity largely converted to pressure before the liquid enters the volute. It is worth noting that the diffuser vanes are set approximately tangent to the ends of the impeller blades. In this kind of casing, efficiency may be slightly higher than in volute pumps, since velocity is more completely converted into pressure. The added cost of manufacture and more complicated construction of diffuser pumps, however, is generally not considered justified except occasionally in the case of large high pressure pumps.</div> <figure class="figure figure-like" id="impellers_png"><div class="image-box" style="width: 50%; margin-left: 25%; margin-right: 25%;"><img src="external/pics/pumps/impellers.png" class="contained"></div>
-<figcaption><span class="type">Figure</span><span class="space"> </span><span class="codenumber">5.3.4<span class="period">.</span></span><span class="space"> </span>Impellers</figcaption></figure> <div class="para" id="p-865">The impellers used in volute and diffuser pumps are of three kinds, <em class="emphasis">open</em>, <em class="emphasis">semi-open</em>, and <em class="emphasis">enclosed</em> as shown in <a href="" class="xref" data-knowl="./knowl/impellers_png.html" title="Figure 5.3.4">Figure 5.3.4</a>. The open impeller consists only of blades attached to a hub. The semi-open impeller is constructed with a circular plate, called the web, on the inside edge of the blades. The web need not extend all the way out to the ends of the blades. The use of a web makes it possible to use thinner blades. In the case of the enclosed impeller, a shroud is added on the outside edge of the blades, so that the liquid is in large measure confined in the blade region, between the web and the shroud. Holding the liquid between these plates reduces friction losses in the pump. Open and semi-open impellers are normally found in pumps that must handle relatively large solids in the liquid, such as sewage pumps.</div> <div class="para" id="p-866">Impellers may also be  single or  double-suction. The former consists of a single impeller drawing liquid in from one side through one eye, while the double suction impeller is similar to a pair of single suction impellers placed back to back, placing an eye on each side of the impeller so that the liquid is drawn into the impeller from opposite directions. Double suction impellers can handle greater capacities of liquid than a single suction impeller of the same size and operating speed. This is because the larger inlet area of the two suction eyes provides less resistance to liquid flow into the impeller.</div> <figure class="figure figure-like" id="doublesuction_png"><div class="image-box" style="width: 50%; margin-left: 25%; margin-right: 25%;"><img src="external/pics/pumps/doublesuction.png" class="contained"></div>
-<figcaption><span class="type">Figure</span><span class="space"> </span><span class="codenumber">5.3.5<span class="period">.</span></span><span class="space"> </span>Double Suction Pump</figcaption></figure> <div class="para" id="p-867">
-<dfn class="terminology">Single stage pumps</dfn> contain only one impeller, drawing in the liquid and expelling it through the discharge into the liquid system. A double-suction, single-stage pump is shown in <a href="" class="xref" data-knowl="./knowl/doublesuction_png.html" title="Figure 5.3.5">Figure 5.3.5</a>. A disadvantage of the single-stage pump, however, is that discharge pressure cannot be increased above the maximum working pressure of the impeller design operating at a given speed. Above this limit, under practical working conditions, the pump will not deliver any further increase in pressure. Most volute type, single stage pumps do not operate at speeds in excess of 3600 RPM and typically produce maximum discharge pressures in the 150 to 200 psi range. Diffuser type, single stage pumps may operate at speeds as high as 8000 RPM and produce discharge pressures in excess of 1000 psi; turbine driven boiler feed pumps are sometimes this type.</div> <div class="para" id="p-868">In <dfn class="terminology">multistage pumps</dfn>, this disadvantage is overcome by combining several single-stage pumps, whether single or double suction, so that the discharge of one impeller is delivered to the suction of the next impeller. The liquid is delivered to each succeeding stage under the pressure imparted to it by the preceding stage, and additional velocity and pressure are added. As the liquid passes through each impeller in turn, additional pressure is imparted to it. A much higher working head can be produced than is possible with a single impeller. For the sake of compactness the several impellers of multistage pumps are almost invariably placed on one shaft, and the whole unit is built into one housing. The impellers are arranged in multistage pumps to eliminate or minimize end thrust.</div> <div class="para" id="p-869">Both volute and diffuser pumps will be found in single and multi-stage construction. Because of the greater cost and complexity of diffuser pumps, they are rarely used.</div> <div class="para" id="p-870">The pump itself can have a <em class="emphasis">vertical</em> or <em class="emphasis">horizontal</em> layout, determined by the direction of the pump shaft axis when the pump is installed. Horizontal designs, in most applications, are easier for maintenance personnel to work on, while vertical designs require less floor space for installation. Both designs work equally well.</div></section><section class="paragraphs" id="paragraphs-49"><h3 class="heading"><span class="title">Centrifugal Pump Principles.</span></h3> <div class="para" id="p-871">The discharge capacity, discharge pressure and horsepower required to drive the pump varies as shown below with changes in impeller speed <span class="process-math">\(n\)</span> or impeller diameter <span class="process-math">\(d\text{.}\)</span>
-</div> <div class="para logical" id="p-872">
+<section class="paragraphs" id="paragraphs-48"><h3 class="heading"><span class="title">Centrifugal Pump Design.</span></h3> <div class="para" id="p-940">Centrifugal pumps come in two basic designs, <dfn class="terminology">volute</dfn> and <dfn class="terminology">diffuser</dfn>, and many variations, including: <dfn class="terminology">single</dfn>- or <dfn class="terminology">double-suction</dfn>, single or multiple stages, and horizontal or vertical layout.</div> <div class="para" id="p-941">In the  <dfn class="terminology">volute pump</dfn>, the one most commonly used, the impeller discharges into a progressively expanding casing, as shown in <a href="" class="xref" data-knowl="./knowl/centpump_png.html" title="Figure 5.3.2">Figure 5.3.2</a>. The casing is proportioned to produce equal velocity of flow all around the circumference of the casing and then gradually to reduce the velocity as the liquid passes from the casing into the nozzle to be discharged from the pump, thereby transforming a considerable part of the velocity head into pressure head.</div> <figure class="figure figure-like" id="diffusertype_png"><div class="image-box" style="width: 50%; margin-left: 25%; margin-right: 25%;"><img src="external/pics/pumps/diffusertype.png" class="contained"></div>
+<figcaption><span class="type">Figure</span><span class="space"> </span><span class="codenumber">5.3.3<span class="period">.</span></span><span class="space"> </span>Diffuser Type Centrifugal Pump</figcaption></figure> <div class="para" id="p-942">In the  <dfn class="terminology">diffuser pump</dfn>, the impeller is surrounded by gradually expanding passages formed by stationary guide vanes, sometimes called a diffusion ring, as shown in <a href="" class="xref" data-knowl="./knowl/diffusertype_png.html" title="Figure 5.3.3">Figure 5.3.3</a>. In these expanding passages the direction of flow is changed and velocity largely converted to pressure before the liquid enters the volute. It is worth noting that the diffuser vanes are set approximately tangent to the ends of the impeller blades. In this kind of casing, efficiency may be slightly higher than in volute pumps, since velocity is more completely converted into pressure. The added cost of manufacture and more complicated construction of diffuser pumps, however, is generally not considered justified except occasionally in the case of large high pressure pumps.</div> <figure class="figure figure-like" id="impellers_png"><div class="image-box" style="width: 50%; margin-left: 25%; margin-right: 25%;"><img src="external/pics/pumps/impellers.png" class="contained"></div>
+<figcaption><span class="type">Figure</span><span class="space"> </span><span class="codenumber">5.3.4<span class="period">.</span></span><span class="space"> </span>Impellers</figcaption></figure> <div class="para" id="p-943">The impellers used in volute and diffuser pumps are of three kinds, <em class="emphasis">open</em>, <em class="emphasis">semi-open</em>, and <em class="emphasis">enclosed</em> as shown in <a href="" class="xref" data-knowl="./knowl/impellers_png.html" title="Figure 5.3.4">Figure 5.3.4</a>. The open impeller consists only of blades attached to a hub. The semi-open impeller is constructed with a circular plate, called the web, on the inside edge of the blades. The web need not extend all the way out to the ends of the blades. The use of a web makes it possible to use thinner blades. In the case of the enclosed impeller, a shroud is added on the outside edge of the blades, so that the liquid is in large measure confined in the blade region, between the web and the shroud. Holding the liquid between these plates reduces friction losses in the pump. Open and semi-open impellers are normally found in pumps that must handle relatively large solids in the liquid, such as sewage pumps.</div> <div class="para" id="p-944">Impellers may also be  single or  double-suction. The former consists of a single impeller drawing liquid in from one side through one eye, while the double suction impeller is similar to a pair of single suction impellers placed back to back, placing an eye on each side of the impeller so that the liquid is drawn into the impeller from opposite directions. Double suction impellers can handle greater capacities of liquid than a single suction impeller of the same size and operating speed. This is because the larger inlet area of the two suction eyes provides less resistance to liquid flow into the impeller.</div> <figure class="figure figure-like" id="doublesuction_png"><div class="image-box" style="width: 50%; margin-left: 25%; margin-right: 25%;"><img src="external/pics/pumps/doublesuction.png" class="contained"></div>
+<figcaption><span class="type">Figure</span><span class="space"> </span><span class="codenumber">5.3.5<span class="period">.</span></span><span class="space"> </span>Double Suction Pump</figcaption></figure> <div class="para" id="p-945">
+<dfn class="terminology">Single stage pumps</dfn> contain only one impeller, drawing in the liquid and expelling it through the discharge into the liquid system. A double-suction, single-stage pump is shown in <a href="" class="xref" data-knowl="./knowl/doublesuction_png.html" title="Figure 5.3.5">Figure 5.3.5</a>. A disadvantage of the single-stage pump, however, is that discharge pressure cannot be increased above the maximum working pressure of the impeller design operating at a given speed. Above this limit, under practical working conditions, the pump will not deliver any further increase in pressure. Most volute type, single stage pumps do not operate at speeds in excess of 3600 RPM and typically produce maximum discharge pressures in the 150 to 200 psi range. Diffuser type, single stage pumps may operate at speeds as high as 8000 RPM and produce discharge pressures in excess of 1000 psi; turbine driven boiler feed pumps are sometimes this type.</div> <div class="para" id="p-946">In <dfn class="terminology">multistage pumps</dfn>, this disadvantage is overcome by combining several single-stage pumps, whether single or double suction, so that the discharge of one impeller is delivered to the suction of the next impeller. The liquid is delivered to each succeeding stage under the pressure imparted to it by the preceding stage, and additional velocity and pressure are added. As the liquid passes through each impeller in turn, additional pressure is imparted to it. A much higher working head can be produced than is possible with a single impeller. For the sake of compactness the several impellers of multistage pumps are almost invariably placed on one shaft, and the whole unit is built into one housing. The impellers are arranged in multistage pumps to eliminate or minimize end thrust.</div> <div class="para" id="p-947">Both volute and diffuser pumps will be found in single and multi-stage construction. Because of the greater cost and complexity of diffuser pumps, they are rarely used.</div> <div class="para" id="p-948">The pump itself can have a <em class="emphasis">vertical</em> or <em class="emphasis">horizontal</em> layout, determined by the direction of the pump shaft axis when the pump is installed. Horizontal designs, in most applications, are easier for maintenance personnel to work on, while vertical designs require less floor space for installation. Both designs work equally well.</div></section><section class="paragraphs" id="paragraphs-49"><h3 class="heading"><span class="title">Centrifugal Pump Principles.</span></h3> <div class="para" id="p-949">The discharge capacity, discharge pressure and horsepower required to drive the pump varies as shown below with changes in impeller speed <span class="process-math">\(n\)</span> or impeller diameter <span class="process-math">\(d\text{.}\)</span>
+</div> <div class="para logical" id="p-950">
 <div class="para">The discharge capacity Q varies DIRECTLY as the impeller speed <span class="process-math">\(n\)</span> or impeller diameter <span class="process-math">\(d\text{.}\)</span>
 </div>
 <div class="displaymath process-math">
@@ -582,21 +586,21 @@ window.MathJax = {
 \left(\frac{Q_2}{Q_1}\right) =\left(\frac{n_2}{n_1}\right)=\left(\frac{d_2}{d_1}\right)
 \end{equation*}
 </div>
-</div> <div class="para logical" id="p-873">
+</div> <div class="para logical" id="p-951">
 <div class="para">The discharge pressure <span class="process-math">\(p\)</span> from the AS THE SQUARE of the impeller rpm or diameter.</div>
 <div class="displaymath process-math">
 \begin{equation*}
 \left(\frac{p_2}{p_1}\right) =\left(\frac{n_2}{n_1}\right)^2=\left(\frac{d_2}{d_1}\right)^2
 \end{equation*}
 </div>
-</div> <div class="para logical" id="p-874">
+</div> <div class="para logical" id="p-952">
 <div class="para">The horsepower necessary to drive the pump varies AS THE CUBE of the impeller rpm or diameter.</div>
 <div class="displaymath process-math">
 \begin{equation*}
 \left(\frac{HP_2}{HP_1}\right) =\left(\frac{n_2}{n_1}\right)^3=\left(\frac{d_2}{d_1}\right)^3
 \end{equation*}
 </div>
-</div></section><section class="paragraphs" id="paragraphs-50"><h3 class="heading"><span class="title">Operations.</span></h3> <div class="para" id="p-875">The following steps describe the procedure for safely starting a centrifugal pump.</div> <figure class="list table-like" id="list-1"><figcaption><span class="type">List</span><span class="space"> </span><span class="codenumber">5.3.6<span class="period">.</span></span><span class="space"> </span>Centrifugal Pump Starting Procedure</figcaption><div class="named-list-content"><ol class="decimal">
+</div></section><section class="paragraphs" id="paragraphs-50"><h3 class="heading"><span class="title">Operations.</span></h3> <div class="para" id="p-953">The following steps describe the procedure for safely starting a centrifugal pump.</div> <figure class="list table-like" id="list-1"><figcaption><span class="type">List</span><span class="space"> </span><span class="codenumber">5.3.6<span class="period">.</span></span><span class="space"> </span>Centrifugal Pump Starting Procedure</figcaption><div class="named-list-content"><ol class="decimal">
 <li id="li-297"><div class="para" id="p-derived-li-297">Rotate the pump by hand to insure it is free to turn.</div></li>
 <li id="li-298"><div class="para" id="p-derived-li-298">If the pump has a packed shaft and is to operate with a high vacuum on the suction side, open the seal water line to the stuffing box (if fitted with a valve), and the suction vent line to remove vapors from the suction casing. On a high speed boiler feed pump, open the recirculating line.</div></li>
 <li id="li-299"><div class="para" id="p-derived-li-299">Open the suction valve and close the discharge valve.</div></li>
@@ -611,8 +615,10 @@ window.MathJax = {
 <a class="previous-button button" href="typesofpumps.html" title="Previous"><span class="icon">&lt;</span><span class="name">Prev</span></a><a class="top-button button" href="#" title="Top"><span class="icon">^</span><span class="name">Top</span></a><a class="next-button button" href="reciprocatingpumps.html" title="Next"><span class="name">Next</span><span class="icon">&gt;</span></a>
 </div></main>
 </div>
-<div id="ptx-page-footer" class="ptx-page-footer">
-<a class="pretext-link" href="https://pretextbook.org" title="PreTeXt"><div class="logo"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="338 3000 8772 6866"><g style="stroke-width:.025in; stroke:black; fill:none"><polyline points="472,3590 472,9732 " style="stroke:#000000;stroke-width:174; stroke-linejoin:miter; stroke-linecap:round; "></polyline><path style="stroke:#000000;stroke-width:126;stroke-linecap:butt;" d="M 4724,9448 A 4660 4660  0  0  1  8598  9259"></path><path style="stroke:#000000;stroke-width:174;stroke-linecap:butt;" d="M 4488,9685 A 4228 4228  0  0  0   472  9732"></path><path style="stroke:#000000;stroke-width:126;stroke-linecap:butt;" d="M 4724,3590 A 4241 4241  0  0  1  8598  3496"></path><path style="stroke:#000000;stroke-width:126;stroke-linecap:round;" d="M 850,3496  A 4241 4241  0  0  1  4724  3590"></path><path style="stroke:#000000;stroke-width:126;stroke-linecap:round;" d="M 850,9259  A 4507 4507  0  0  1  4724  9448"></path><polyline points="5385,4299 4062,8125" style="stroke:#000000;stroke-width:300; stroke-linejoin:miter; stroke-linecap:round;"></polyline><polyline points="8598,3496 8598,9259" style="stroke:#000000;stroke-width:126; stroke-linejoin:miter; stroke-linecap:round;"></polyline><polyline points="850,3496 850,9259" style="stroke:#000000;stroke-width:126; stroke-linejoin:miter; stroke-linecap:round;"></polyline><polyline points="4960,9685 4488,9685" style="stroke:#000000;stroke-width:174; stroke-linejoin:miter; stroke-linecap:round;"></polyline><polyline points="3070,4582 1889,6141 3070,7700" style="stroke:#000000;stroke-width:300; stroke-linejoin:miter; stroke-linecap:round;"></polyline><polyline points="6418,4582 7600,6141 6418,7700" style="stroke:#000000;stroke-width:300; stroke-linejoin:miter; stroke-linecap:round;"></polyline><polyline points="8976,3590 8976,9732" style="stroke:#000000;stroke-width:174; stroke-linejoin:miter; stroke-linecap:round;"></polyline><path style="stroke:#000000;stroke-width:174;stroke-linecap:butt;" d="M 4960,9685 A 4228 4228  0  0  1  8976  9732"></path></g></svg></div></a><a class="runestone-link" href="https://runestone.academy" title="Runestone Academy"><img class="logo" src="https://runestone.academy/runestone/static/images/RAIcon_cropped.png"></a><a class="mathjax-link" href="https://www.mathjax.org" title="MathJax"><img class="logo" src="https://www.mathjax.org/badge/badge-square-2.png"></a>
+<div class="ptx-page-footer">
+<a class="pretext-link" href="https://pretextbook.org"><div class="name">Authored in PreTeXt</div>
+<div class="logo"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="338 3000 8772 6866"><g style="stroke-width:.025in; stroke:black; fill:none"><polyline points="472,3590 472,9732 " style="stroke:#000000;stroke-width:174; stroke-linejoin:miter; stroke-linecap:round; "></polyline><path style="stroke:#000000;stroke-width:126;stroke-linecap:butt;" d="M 4724,9448 A 4660 4660  0  0  1  8598  9259 "></path><path style="stroke:#000000;stroke-width:174;stroke-linecap:butt;" d="M 4488,9685 A 4228 4228  0  0  0  472  9732 "></path><path style="stroke:#000000;stroke-width:126;stroke-linecap:butt;" d="M 4724,3590 A 4241 4241  0  0  1  8598  3496 "></path><path style="stroke:#000000;stroke-width:126;stroke-linecap:round;" d="M 850,3496 A 4241 4241  0  0  1  4724  3590 "></path><path style="stroke:#000000;stroke-width:126;stroke-linecap:round;" d="M 850,9259 A 4507 4507  0  0  1  4724  9448 "></path><polyline points="5385,4299 4062,8125 " style="stroke:#000000;stroke-width:300; stroke-linejoin:miter; stroke-linecap:round; "></polyline><polyline points="8598,3496 8598,9259 " style="stroke:#000000;stroke-width:126; stroke-linejoin:miter; stroke-linecap:round; "></polyline><polyline points="850,3496 850,9259 " style="stroke:#000000;stroke-width:126; stroke-linejoin:miter; stroke-linecap:round; "></polyline><polyline points="4960,9685 4488,9685 " style="stroke:#000000;stroke-width:174; stroke-linejoin:miter; stroke-linecap:round; "></polyline><polyline points="3070,4582 1889,6141 3070,7700 " style="stroke:#000000;stroke-width:300; stroke-linejoin:miter; stroke-linecap:round; "></polyline><polyline points="6418,4582 7600,6141 6418,7700 " style="stroke:#000000;stroke-width:300; stroke-linejoin:miter; stroke-linecap:round; "></polyline><polyline points="8976,3590 8976,9732 " style="stroke:#000000;stroke-width:174; stroke-linejoin:miter; stroke-linecap:round; "></polyline><path style="stroke:#000000;stroke-width:174;stroke-linecap:butt;" d="M 4960,9685 A 4228 4228  0  0  1  8976  9732 "></path></g></svg></div></a><a class="runestone-link" href="https://runestone.academy"><div class="name">Powered by Runestone</div>
+<img class="logo" title="Powered by Runestone" src="https://runestone.academy/runestone/static/rectangle_badge.png" alt="Powered by Runestone"></a><a class="mathjax-logo" href="https://www.mathjax.org"><img title="Powered by MathJax" src="https://www.mathjax.org/badge/badge.gif" alt="Powered by MathJax"></a>
 </div>
 </body>
 </html>
