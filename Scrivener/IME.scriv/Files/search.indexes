@@ -4202,7 +4202,8 @@ The constant &lt;em&gt;g&lt;/em&gt; depends on where you are: on earth the const
         </Document>
         <Document ID="C4E520B3-DF55-4D5F-8BB6-E9BB2B9FFD3A">
             <Title>Piping and Instrumentation Diagrams</Title>
-            <Text>
+            <Text>TBD
+
 A  P&amp;amp;ID, which stands for "Piping and Instrumentation Diagram," is a detailed schematic diagram that represents a process system using graphical symbols to show the piping, equipment, instrumentation, and control devices involved.  P&amp;amp;IDs are commonly used in various industries, including chemical processing, petrochemical, pharmaceutical, power generation, and many others. They serve several important purposes:
 
 1. **Process Visualization:**  P&amp;amp;IDs provide a visual representation of a complex process system, making it easier for engineers, operators, and other stakeholders to understand the system's components and how they interact.
@@ -6438,9 +6439,16 @@ where N_a and N_m are the numbers of poles in the alternator and propulsion moto
         <Document ID="0F10E296-B6A0-4746-9CED-CEA666AB960B">
             <Title>Quick Connect Fittings</Title>
             <Text>Quick-connect fittings, also called a push fittings, are coupling used to provide a fast connections to hoses and flexible tubing, without the need for tools.  Some quick-connect fittings are self-sealing, so that upon disconnection they will automatically contain any fluid in the line.
+
+&lt;figure&gt;
+&lt;caption&gt;Camlock, Push-to-connect, Twistlock&lt;/caption&gt;
+&lt;image width="90%" source="pics/piping_systems/quick_connect_fittings.png"&gt;
+&lt;remix&gt;&lt;![CDATA[ camlockcoupling.org,  homedepot.com, zoro.com ]]&gt;&lt;/remix&gt;
+&lt;/image&gt;
+&lt;/figure&gt;
 There are several types of quick connect fittings. Some of the most commonly used ones are:
-Push-to-connect fittings function by pushing one end into the other. To disconnect, a collar needs to be retracted. 
 Cam-lock connectors uses foldable tabs on the female half to lock the receiver in place. This type of connection is used in applications involving hoses, such as sewage pumping or fire hoses. 
+Push-to-connect fittings function by pushing one end into the other. To disconnect, a collar needs to be retracted. 
 Twist or bayonet fittings utilize a 1/8 to 1/4 turn to connect and disconnect. Aboard ship, compressed air hoses for pneumatic tools often use twist fittings.</Text>
         </Document>
         <Document ID="AC727B80-F58D-4AFB-8E1C-58B68F5F1864">
@@ -38035,11 +38043,10 @@ The motors are fitted with two air-water heat exchangers providing cooled air wh
 &lt;/image&gt;
 &lt;/figure&gt;
 A coupling is a simple, short section of pipe with internal female threads.  Two sections of pipe are tightened into the coupling to make the connection.  In order to disassemble the connection, one of the pipes needs to be rotated through several rotations to unscrew it.  This is not too practical because the entire system may need to be taken apart to remove one piece.  
-A union consists of three parts – a male and a female part with pipe threads and matching tapered faces, and a hexagonal union nut with internal threads which fits over the male part and screws onto straight threads on the female part.  
-The union is assembled by placing the union over the male part,  then threading the male and female parts permanently onto the pipes. After the pipes are aligned, the union nut is tightened to draw the two tapered faces together to create a seal.  Pipe dope or teflon tape must be used on the tapered threads, but should not be used on the mating faces.  Pipes connected with a union can be taken apart by rotating the union nut without affecting other parts of the piping system..
+A union consists of three parts – male and female parts with matching tapered faces, and a hexagonal union nut with internal threads which fits over the male part and screws onto straight threads on the female part.  
 &lt;figure&gt;
 &lt;caption&gt;Union Cross-section and Disassembled&lt;/caption&gt;
-&lt;sidebyside widths="50% 40%" valign="middle"&gt;
+&lt;sidebyside widths="40% 40%" valign="middle"&gt;
 &lt;image source="pics/piping_systems/union_cross_section.png"&gt;
 &lt;remix&gt;&lt;![CDATA[  https://www.wermac.org/specials/orificeplate.html  ]]&gt;&lt;/remix&gt;
 &lt;/image&gt;
@@ -38048,6 +38055,7 @@ The union is assembled by placing the union over the male part,  then threading 
 &lt;/image&gt;
 &lt;/sidebyside&gt;
 &lt;/figure&gt;
+The union is assembled by sliding the union nut over the male part,  then screwing the male and female parts permanently onto the pipes. After the pipes are aligned, the union nut is tightened to draw the two tapered faces together to create a seal.  Pipe dope or teflon tape must be used on the tapered threads, but should not be used on the mating faces.  Pipes connected with a union can be taken apart by unscrewing the union nut without affecting other parts of the piping system.
 </Text>
         </Document>
         <Document ID="F5E2724E-1C74-47BC-8DBB-7CA3AD6064D9">
@@ -40540,6 +40548,13 @@ Watching the color of the smoke is a fairly crude method to maintain proper oxyg
         <Document ID="87B2B451-F533-4482-9CBC-3D6AD4D7C4E0">
             <Title>Soldered and Brazed Connections</Title>
             <Text>Soldering and Brazing are both processes in which two parts are joined together using a molten filler metal.  After the filler material solidifies, a strong bond if formed. The difference between soldering and brazing has to do with the filler material, particularly its melting temperature.  
+&lt;figure&gt;
+&lt;caption&gt;Soldering Copper Pipe&lt;/caption&gt;
+&lt;image width="60%" source="pics/piping_systems/sweat_joint.png"&gt;
+&lt;remix&gt;&lt;![CDATA[  Home Depot ]]&gt;&lt;/remix&gt;
+&lt;/image&gt;
+&lt;/figure&gt;
+
 Solder is an alloy that melts at 840 F or less.  Solder is composed primarily of tin, mixed with other metals such as nickel for added strength. Solder used to be a tin/lead mixture, but that is no longer used due to health risks of exposing drinking water to lead pipes.  Soldering is easier to learn than brazing and soldered joints can be reheated and taken apart.  
 Brazing alloys melt above 840 degrees.  Brazing alloys are typically made of a mix of copper and phosphorus or silver mixed with other elements.  Brazing creates a stronger connection than soldering that is less likely to leak.  
 Because of the relatively low melting temperatures, neither method can be used for high-temperature applications.
