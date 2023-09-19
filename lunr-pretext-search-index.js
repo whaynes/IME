@@ -195,7 +195,7 @@ var ptx_lunr_docs = [
   "url": "safety-osha---29cfr.html",
   "type": "Subsubsection",
   "number": "1.2.1.3",
-  "title": "OSHA & 29CFR",
+  "title": "OSHA &amp; 29CFR",
   "body": " OSHA & 29CFR   OSHA , the Occupational Safety and Health Administration, is a U.S. federal agency under the Department of Labor. OSHA's primary mission is to ensure safe and healthy working conditions for employees by enforcing workplace safety regulations, conducting inspections, and providing resources to help employers and workers prevent workplace injuries, illnesses, and fatalities.  OSHA regulations are found in the US Code of Federal Regulations , Title 29 CFR Part 1910 where they address many aspects of workplace safety, including:  Personal Protective Equipment (PPE)  Lockout\/Tagout (LOTO)  Confined Spaces  Electrical Safety  Machine Guarding  Fall Protection  Welding, Cutting, and Brazing  Respiratory Protection  Chemical Exposure  Hazard Communication    It's important to note that OSHA regulations mainly pertain to workplaces on land. For most safety matters on board ship, the U.S. Coast Guard and international maritime regulations (such as SOLAS) take precedence; however OSHA regulations are sensible guidance that should be followed whenever possible whether you are working at sea, at a shore job, or even at home.  "
 },
 {
@@ -1545,7 +1545,7 @@ var ptx_lunr_docs = [
   "url": "topic-faradays-law.html",
   "type": "Subsection",
   "number": "4.1.9",
-  "title": "Faraday's Law",
+  "title": "Faraday’s Law",
   "body": " Faraday's Law  Electromagnetic induction was discovered by English scientist Michael Faraday in 1831. It is not an exaggeration to say that this discovery is the foundation of the modern world.  Faraday observed that a changing magnetic field induces an EMF in a nearby conductor. You can observe this yourself by moving a magnet around and through a coil of wire connected to a sensitive voltmeter. When the magnetic field passing through the coil changes, whether by moving the magnet through the coil, by moving the conductor through the field, or by varying the strength of the field, a voltage is induced in the conductor that can be used to drive current and deliver electrical power.   Faraday's law of electromagnetic induction states that the induced EMF in a closed coil is directly proportional to the rate of change of magnetic flux passing through the circuit. Mathematically, it is expressed as: Where:  EMF is the induced electromotive force (in volts)   is the number of turns in the coil   is the rate of change in magnetic flux (in webers\/sec)    The opposite is also true. When an electric current flows through a conductor, it generates a magnetic field that surrounds the conductor. This phenomenon is called Oersted’s principle , and it is principle behind motors, solenoids, and electromagnets.  The experiment setup in demonstrates both Faraday’s Law and Oersted’s Principle.   Faraday’s Experiment    Two coils are wrapped around opposite sides of an iron ring. The left coil is connected to a battery and a switch. The right coil is connected to a galvanometer, which is an instrument that detects small voltages.  When the switch is closed, current flowing in the left coil produces a magnetic field surrounding the conductor (Oersted’s principle). This field is trapped and channeled through the right hand coil by the iron ring. As the field builds up when the switch is closed, or collapses when the switch is opened, a voltage is detected on the galvanometer (Faraday’s Law). However, If the switch is left in either position for very long, the voltage decays to zero, and remains that way until the switch is once again flipped. This indicates the the induced voltage is caused by a changing magnetic flux and not by the flux alone.  "
 },
 {
@@ -4390,7 +4390,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "5.4",
   "title": "Piping and Instrumentation Diagrams",
-  "body": " Piping and Instrumentation Diagrams  TBD  "
+  "body": " Piping and Instrumentation Diagrams   MARAD    MARAD    MARAD    MARAD   "
 },
 {
   "id": "diesel-power-combustion-engines",
@@ -4438,27 +4438,27 @@ var ptx_lunr_docs = [
   "body": " Generation  Since this is a cycle, it has no beginning or end, but we have to start somewhere, so let’s begin with the generation stage.  Steam generation occurs in the boiler. The boiler is simply a device used to boil water. Like a tea-kettle on the stove, it contains liquid water and a heat source. As the water is heated, its temperature rises and soon it begins to boil. On the stove, the water vapor or steam rises and dissipates into the kitchen, but not so in a boiler. The boiler is a closed vessel, like a pot with a lid, and any steam generated in the boiler rises to the top and is collected before being sent on to the next step of the cycle.  In the generation stage, the chemical energy stored in the ship’s fuel is released when the fuel is burned in the boiler furnace, and some of this energy is transferred to the working fluid – the water. The water gains energy, and we can detect this in two ways: the water’s temperature goes up, and the water changes state from a liquid into water vapor, which we call steam. Steam leaves the boiler at high pressure and high temperature.  As we will learn in , heat energy which raises the temperature of a substance such as water or steam is sometimes called sensible heat while the heat energy that actually boils the substance is called latent heat .  You probably remember that water boils at 212 °F at standard atmospheric pressure (14.7 psia). If you put a thermometer into a pan of water boiling on the stove, this is what it will read. Even if you turn the flame up to add more heat energy, you won’t be able to make the water temperature rise above 212 °F. This is because you are adding latent heat, which is not reflected by an increase in the water’s temperature. All of the heat energy is being used to turn the liquid water into a vapor.  The boiling or condensing temperature of a liquid is known as its saturation temperature . The saturation temperature for a particular liquid is determined by its pressure, and cannot be changed. For example, 212 °F is the saturation temperature for water at atmospheric pressure, and there is nothing anybody can do to change it.  In order to reach high steam temperatures, which is necessary for high steam cycle efficiency, the boiler must be operated at a pressure far above atmospheric pressure. A typical marine boiler operates at about 600 psi while some have operated as high as 1200 psi, although this introduces additional maintenance difficulties. Shoreside steam power plants operate at 3000 psi or even higher.  Steam temperature is raised even further by superheating the steam. Superheating steam raises its temperature above the saturation temperature for the corresponding steam pressure by continuing to add heat to the steam after it has completely vaporized. This must take place in a separate area, called the superheater, away from liquid water, or the additional heat would simply boil more water rather than superheating the steam. Superheated steam is said to be dry , which means that all liquid water has vaporized and it contains no moisture droplets. Drops of liquid water would damage the turbine in the expansion step described below.  Improving efficiency is a major concern of mechanical and marine engineers. High efficiency means that fuel is not wasted, and operating costs are minimized. Practical boiler designs incorporate many techniques to maximize efficiency. For example, not all of the chemical energy originally contained by the fuel ends up transferred to the steam. A large portion of this energy is lost up the smokestack, carried away by the combustion gases. Practical boilers usually contain some sort of heat exchanger in the smokestack in an effort to recover some of this energy.  "
 },
 {
-  "id": "p-998",
+  "id": "p-997",
   "level": "2",
-  "url": "generation.html#p-998",
+  "url": "generation.html#p-997",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "sensible heat latent heat "
 },
 {
-  "id": "p-1000",
+  "id": "p-999",
   "level": "2",
-  "url": "generation.html#p-1000",
+  "url": "generation.html#p-999",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "saturation temperature "
 },
 {
-  "id": "p-1002",
+  "id": "p-1001",
   "level": "2",
-  "url": "generation.html#p-1002",
+  "url": "generation.html#p-1001",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4474,9 +4474,9 @@ var ptx_lunr_docs = [
   "body": " Expansion  The thermal energy added to the working fluid in the generation stage is converted to mechanical energy, or work, in the expansion stage. This work is produced in the form of a rotating turbine shaft which drives the propeller and moves the ship through the water. The more energy we can remove at this stage, the higher the efficiency of the steam cycle. Unfortunately, it is not possible to remove all the energy from the steam in the turbine. Some energy remains in the steam and is carried to the next stage of the cycle.  A turbine is the device used to accomplish the energy transformation in the expansion stage. Like a pinwheel or a fan, a turbine has a freely rotating shaft with many carefully designed turbine blades attached. However, unlike a fan, the turbine rotor is completely enclosed in a casing which also contains nozzles and stationary blades designed to direct the steam towards the rotating blades .   Turbine Blades   Intro to Steam book    High-pressure, high-temperature steam passes through the nozzle, which has a very small opening, and it emerges with a high velocity. The thermal energy of the steam is converted into mechanical kinetic energy in the nozzle. This high velocity steam jet hits the blades and imparts a turning torque to the rotor shaft and converts its kinetic energy to rotational kinetic energy of the shaft. Most turbines have several rows of blades, forming multiple stages to extract the maximum energy from the steam. As the steam gives up its thermal energy, its temperature and pressure both drop. The steam leaves the turbine at a low temperature and low pressure.  High steam pressure at the inlet to the turbine is important for energy conversion, but it is equally important to have a low pressure at the turbine outlet. Steam, or any fluid for that matter, will only flow from high pressure to lower pressure. Without a pressure drop across the blades of the turbine, there would be no steam flow, and no energy conversion. To maximize the energy conversion, we must also maximize the pressure drop across the turbine.  "
 },
 {
-  "id": "p-1005",
+  "id": "p-1004",
   "level": "2",
-  "url": "expansion.html#p-1005",
+  "url": "expansion.html#p-1004",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4501,9 +4501,9 @@ var ptx_lunr_docs = [
   "body": " Condensation  As stated previously, a large pressure drop across the turbine is required to get maximum energy extraction from the steam. The boiler supplies the high pressure at the inlet to the turbine, it is the job of the condenser to create a low pressure condition at the turbine outlet.  The condenser is a shell-and-tube heat exchanger cooled by seawater. It consists of a large, rectangular or cylindrical sealed shell containing thousands of tubes. A circulating pump forces cold seawater in at one end, through the tubes, and it exits overboard at the other end. Steam exiting from the turbine enters the condenser at the top, condenses on the tube surfaces and drains out the bottom. That is, the steam gives up its latent heat of condensation to the seawater, and returns to the liquid water state. Once the steam passes across the condenser tubes, it is no longer steam. It has condensed to liquid water, and from this point in the cycle is referred to as condensate . Condensate leaves the condenser as a low temperature, low pressure liquid.  Because the condensation is occurring at approximately the temperature of the seawater, the pressure in the condenser will be approximately equal to the saturation pressure of steam at this temperature, assuming that no air or other gases are present. For example, if the seawater temperature is 80 °F, the corresponding saturation pressure would be 0.5073 psia. This is a very high vacuum, and the greater the vacuum, the better the plant efficiency.  The latent heat removed from the steam by the seawater raises the temperature and increases the energy contained by the seawater, and this cooling water is discharged overboard.  It is unfortunate that some of the energy once contained by the fuel, and then passed on to the steam in the boiler, is eventually thrown away with the seawater. Wouldn’t it be better to somehow use this energy to power the ship? Absolutely, but there is nothing we can do about it! The only way to extract more energy from the steam is by having the turbine discharge to an even lower absolute pressure than we do. The only way to do that is to condense the steam at even lower temperatures than we are. But we can’t do that, because aboard ship there’s nothing colder than the surrounding ocean available to reject the heat to. If we decided not to reject any heat to the ocean at all, the pressure in the condenser would build up to the point where it would equal the steam pressure entering the turbine, and without a pressure drop, the steam would stop flowing altogether. There’s no win, but we’re doing the best we can.  "
 },
 {
-  "id": "p-1009",
+  "id": "p-1008",
   "level": "2",
-  "url": "condensation.html#p-1009",
+  "url": "condensation.html#p-1008",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4519,9 +4519,9 @@ var ptx_lunr_docs = [
   "body": " Recovery  The only thing that remains to complete the cycle is to return the condensate to the boiler to be heated up again. Unfortunately, the condensate leaving the condenser is at a low pressure and the boiler operates at a much higher pressure. Condensate won’t flow back into the boiler by itself. A pump is required to raise the pressure and return the condensate to the boiler.  The pump, known as the feed pump , draws condensate from the condenser discharge, raises its pressure slightly above the boiler pressure, and discharges it back into the boiler to restart the cycle. Condensate leaving the feed pump is known as feedwater .  Work is required to drive the feed pump, and this energy reduces the net work produced by the cycle and available to turn the shaft. Fortunately, since water is incompressible it takes much less work to raise its pressure back to the boiler pressure than we get from an equivalent pressure drop across the turbine, and so there is a net positive amount of work produced by the cycle.  "
 },
 {
-  "id": "p-1014",
+  "id": "p-1013",
   "level": "2",
-  "url": "recovery.html#p-1014",
+  "url": "recovery.html#p-1013",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4537,18 +4537,18 @@ var ptx_lunr_docs = [
   "body": " Rankine Cycle  The diagram shown in is an idealized representation of the Rankine Cycle used in the study of thermodynamics, and known as a temperature-entropy diagram . The heavy dome shaped curve is known as the vapor dome and points under the curve are saturated steam, while points to the left of the curve are liquid water and points to the right of the curve are superheated steam.  Feedwater enters the boiler at point , and is heated by the fuel. Initially, the water temperature rises, until it reaches the saturation temperature for the boiler pressure, point , where the water begins to boil. Additional heat added at this point does not raise the temperature any further until all the liquid water is completely vaporized, point . The heat added between and is the Latent Heat of Vaporization . After the steam has reached point , any additional heat added causes the temperature to rise again, and the steam becomes superheated.   Temperature - Entropy Diagram    Superheated steam leaves the boiler at point and enters the turbine. During the expansion process, the steam pressure and temperature both drop as energy is extracted from the steam. Steam leaves the turbine and enters the condenser at point , which is saturated or wet steam.  In the condenser, heat is removed from the steam and it returns to the liquid state at point . The feed pump raises the water pressure back up to the boiler pressure and the cycle begins again at point . The feed pump causes a small temperature rise in the feedwater as well as a pressure increase.  The area under the curve from to represents the heat energy added in the boiler and the area under the curve from to represents the heat rejected to the ocean. The area inside the curve represents the net work done by the cycle.  "
 },
 {
-  "id": "p-1016",
+  "id": "p-1015",
   "level": "2",
-  "url": "t-sdiagram.html#p-1016",
+  "url": "t-sdiagram.html#p-1015",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Rankine Cycle temperature-entropy diagram vapor dome "
 },
 {
-  "id": "p-1017",
+  "id": "p-1016",
   "level": "2",
-  "url": "t-sdiagram.html#p-1017",
+  "url": "t-sdiagram.html#p-1016",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4573,9 +4573,9 @@ var ptx_lunr_docs = [
   "body": " Boiler  Heat energy is added to the cycle by burning fuel oil in the boiler. The high temperature flames raise the temperature of the water in the boiler and eventually cause it to boil. Not all energy of the fuel is transferred to the water, some remains in the combustion gases and travels up the stack. This energy will be lost to the atmosphere unless it is recovered by economizers or air heaters located in the exhaust path. Any heat energy lost to the atmosphere represents waste and steam cycle inefficiency.   Marine boilers supply the steam required for propulsion, as well as any other steam requirements of the vessel. Marine propulsion boilers are normally fired with heavy fuel oil, or in a few cases today, coal. Marine boilers, while similar to boilers found ashore, are designed to meet the particular requirements of shipboard use. They are designed to be light and compact to fit into small engine rooms, capable of operating under rapidly changing loads when the vessel is maneuvering, and to operate reliably while the vessel is pitching and rolling during a storm.   Typical Marine Boiler    Diesel and gas turbine powered ships are often equipped with smaller auxiliary boilers to supply the steam for quarters and cargo cargo heating, The heat source for auxiliary boilers can be fuel oil, diesel oil, or the waste heat from the main propulsion diesel engine.  "
 },
 {
-  "id": "p-1024",
+  "id": "p-1023",
   "level": "2",
-  "url": "boiler.html#p-1024",
+  "url": "boiler.html#p-1023",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4591,9 +4591,9 @@ var ptx_lunr_docs = [
   "body": " Typical Marine Boiler   "
 },
 {
-  "id": "p-1025",
+  "id": "p-1024",
   "level": "2",
-  "url": "boiler.html#p-1025",
+  "url": "boiler.html#p-1024",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4609,9 +4609,9 @@ var ptx_lunr_docs = [
   "body": " Steam Drum  The steam drum is located near the top of the boiler and should normally be half filled with water and the remainder filled with steam. A gage glass on the steam drum allows the operator to determine the water level in the boiler. Too little water would be very dangerous, because without water in the boiler the heat of the flames would melt the boiler tubes and destroy the boiler.  Steam is formed in the boiler tubes, and since steam bubbles are less dense than the surrounding liquid water, they float up to the top of the boiler and eventually rise above the surface of the water in the steam drum. If the steam was allowed to build up in the drum, the boiler pressure would quickly rise, and if not relieved by the safety valves, would cause the boiler to explode. The system is designed to remove steam as quickly as it is created, so a properly operated boiler will maintain a constant pressure.   Steam Drum    A steam drum safety valve is located on top of the steam drum to prevent boiler explosions. This valve will open automatically to relieve the steam pressure up the stack if it rises too high.  "
 },
 {
-  "id": "p-1026",
+  "id": "p-1025",
   "level": "2",
-  "url": "steamdrum.html#p-1026",
+  "url": "steamdrum.html#p-1025",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4627,9 +4627,9 @@ var ptx_lunr_docs = [
   "body": " Steam Drum   "
 },
 {
-  "id": "p-1028",
+  "id": "p-1027",
   "level": "2",
-  "url": "steamdrum.html#p-1028",
+  "url": "steamdrum.html#p-1027",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4645,18 +4645,18 @@ var ptx_lunr_docs = [
   "body": " Dry Pipe  The dry pipe is located inside the steam drum, near the top. In its simplest form the dry pipe is simply a pipe with holes drilled into the top portion. Steam enters the dry pipe before it leaves the boiler.  The dry pipe is designed to allow steam to enter, but to exclude water droplets and moisture. Moisture in the steam, known as carryover is bad, because high velocity water droplets in the steam can cause damage to the blades and thrust bearings in the turbine. Improper operation of the boiler, for instance letting the steam drum water level get too high, can cause carryover.  "
 },
 {
-  "id": "p-1029",
+  "id": "p-1028",
   "level": "2",
-  "url": "drypipe.html#p-1029",
+  "url": "drypipe.html#p-1028",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "dry pipe "
 },
 {
-  "id": "p-1030",
+  "id": "p-1029",
   "level": "2",
-  "url": "drypipe.html#p-1030",
+  "url": "drypipe.html#p-1029",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4672,18 +4672,18 @@ var ptx_lunr_docs = [
   "body": " Superheater  Steam collected in the dry pipe is directed to the superheater section of the boiler, where it is superheated to improve the efficiency of the steam cycle.  Water boils at a particular temperature which is determined by the pressure of the surroundings called the saturation temperature . For example, water at atmospheric pressure always boils at 212 °F, while water at 600 psia always boils at 486 °F. The saturation temperature for water at a given temperature can be looked up in steam tables .  Steam temperature can be raised above the saturation temperature by adding additional more heat energy, but this must occur in an area where there is no liquid water present, or the heat would simply boil more water and would not raise the temperature.  This heating occurs in the superheater, which is a bank of boiler tubes located in the hottest portions of the combustion gas path. Since there is no liquid water in the superheater, all heat added there produces superheat.  "
 },
 {
-  "id": "p-1031",
+  "id": "p-1030",
   "level": "2",
-  "url": "superhtr.html#p-1031",
+  "url": "superhtr.html#p-1030",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "superheater superheated "
 },
 {
-  "id": "p-1032",
+  "id": "p-1031",
   "level": "2",
-  "url": "superhtr.html#p-1032",
+  "url": "superhtr.html#p-1031",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4699,18 +4699,18 @@ var ptx_lunr_docs = [
   "body": " Stop Valves  No practical boiler could function without valves. Valves permit the operator to control fluid flow, and to isolate sections of the system for maintenance. There are dozens of valves used in the main steam cycle but in this discussion we will only mention a few of them. You may assume that valves are located throughout the system wherever they are necessary.  The main steam stop valve is located at the outlet of the superheater, and it is the primary valve used to connect or isolate the boiler from the remainder of the steam cycle.  According to US Coast Guard regulations, boilers are required to have two valve protection , that is, they are required to have two valves in series in all boiler connections. This insures that at least one valve will be functional when the time comes to secure the boiler. The valve which provides this protection is called the bulkhead stop valve . It is located in the main steam line, downstream of the main steam stop valve.  "
 },
 {
-  "id": "p-1036",
+  "id": "p-1035",
   "level": "2",
-  "url": "mainsteamstopvalve.html#p-1036",
+  "url": "mainsteamstopvalve.html#p-1035",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "main steam stop valve "
 },
 {
-  "id": "p-1037",
+  "id": "p-1036",
   "level": "2",
-  "url": "mainsteamstopvalve.html#p-1037",
+  "url": "mainsteamstopvalve.html#p-1036",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4726,9 +4726,9 @@ var ptx_lunr_docs = [
   "body": " Strainer  A steam strainer is placed in the steam line upstream of the main engine to prevent objects other than steam from entering the turbines, since solid objects impacting the turbine blades would quickly destroy them. Steam lines would normally be expected to be quite clean, but a strainer is cheap insurance against nuts, tools, and gloves left in the lines by shipyard workers, or rust flakes formed during a layup period. Unfortunately, water droplets due to wet steam or carryover will pass through the steam strainer.  "
 },
 {
-  "id": "p-1038",
+  "id": "p-1037",
   "level": "2",
-  "url": "strainer.html#p-1038",
+  "url": "strainer.html#p-1037",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4744,27 +4744,27 @@ var ptx_lunr_docs = [
   "body": " Throttles  The throttle valves are used to throttle (control) the amount of steam allowed to enter the turbines, and hence they control the speed of the ship. On the TS Kennedy , the throttle valves were manually opened and closed by the engineer on watch but on more modern ships they are remotely operated from the bridge.  There are two throttles, the ahead throttle , and the astern throttle . The ahead throttle controls steam to the high pressure turbine and controls the speed of the ship in the ahead (forward) direction. If the ahead throttle is closed, and the astern throttle is opened, steam will be directed to the astern section of the low pressure turbine and the turbine will rotate in the reverse direction.  The ahead and the astern throttles should not be opened at the same time, because this would cause two opposing torques on the low pressure turbine rotor. While this would not necessarily be damaging, it would be a colossal waste of energy. The Astern Guardian Valve is installed in the astern steam line between the astern throttle and the astern turbine to protect against leakage of the astern throttle while the ship is underway. This valve normally remains closed, and is only opened when the ship is expected to maneuver.  "
 },
 {
-  "id": "p-1039",
+  "id": "p-1038",
   "level": "2",
-  "url": "throttles.html#p-1039",
+  "url": "throttles.html#p-1038",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "throttle valves "
 },
 {
-  "id": "p-1040",
+  "id": "p-1039",
   "level": "2",
-  "url": "throttles.html#p-1040",
+  "url": "throttles.html#p-1039",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "ahead throttle astern throttle "
 },
 {
-  "id": "p-1041",
+  "id": "p-1040",
   "level": "2",
-  "url": "throttles.html#p-1041",
+  "url": "throttles.html#p-1040",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4780,9 +4780,9 @@ var ptx_lunr_docs = [
   "body": " Turbines  The simplified steam cycle uses a single turbine to extract power from the steam, but most ships use two turbines to do the same job. Two shorter turbine shafts are more advantageous than one large shaft for several reasons, including reduced manufacturing cost and increased flexibility in the arrangement of machinery in the engine room.  The first of these two turbines is known as the high pressure turbine (HP) and the second is the low pressure turbine (LP). A steam line, called the crossover carries steam from the outlet of the HP turbine to the inlet of the LP turbine. A set of reduction gears are used to reduce the turbine speed to the shaft and propellor speed.   Main Engine and Gears for Tanker Batillus under construction. Photo by Jorgen Lonn.    http:\/\/www.aukevisser.nl\/supertankers\/id317.htm from the collection of Jorgen Lonn http:\/\/www.aukevisser.nl\/supertankers\/id317.htm\" >Jorgen Lonn.    Superheated steam from the throttles enters the HP turbine where its pressure drops and its thermal energy is converted to mechanical energy. The LP turbine follows the HP turbine and continues to extract energy from the steam. The steam enters at a low pressure (a vacuum actually, at low loads) and exits at an even lower pressure into the main condenser. The specific volume of steam at these low pressures is large, which means that the turbine blades and the LP turbine itself are also large. When looking at the two turbines, it is always easy to identify the LP turbine because of its size; eight to ten feet in diameter is not unusual.  The forward end of the LP Turbine rotor contains the Astern Elements . These are two or three rows of blades designed to rotate the shaft in the astern direction. Since there are so few rows of astern blades, the power the turbine is capable of producing in the astern direction is limited.  The HP and LP turbines and the reduction gear together are known as the Main Engine .  "
 },
 {
-  "id": "p-1043",
+  "id": "p-1042",
   "level": "2",
-  "url": "hpturbine.html#p-1043",
+  "url": "hpturbine.html#p-1042",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4798,18 +4798,18 @@ var ptx_lunr_docs = [
   "body": " Main Engine and Gears for Tanker Batillus under construction. Photo by Jorgen Lonn.    http:\/\/www.aukevisser.nl\/supertankers\/id317.htm from the collection of Jorgen Lonn http:\/\/www.aukevisser.nl\/supertankers\/id317.htm\" >Jorgen Lonn.   "
 },
 {
-  "id": "p-1045",
+  "id": "p-1044",
   "level": "2",
-  "url": "hpturbine.html#p-1045",
+  "url": "hpturbine.html#p-1044",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Astern Elements "
 },
 {
-  "id": "p-1046",
+  "id": "p-1045",
   "level": "2",
-  "url": "hpturbine.html#p-1046",
+  "url": "hpturbine.html#p-1045",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4825,18 +4825,18 @@ var ptx_lunr_docs = [
   "body": " Main Condenser  As stated before, the main condenser is a shell and tube heat exchanger which provides the low pressure zone for the turbine to discharge into. A typical main condensers consists of three main parts: the shell , the tubes , and the tube sheets . Cold sea water enters the shell at the inlet water head or water box, flows across the condenser through the tubes, and is discharged overboardThe steam entering the condenser turns back to liquid water when it comes in contact with the cold condenser tubes. The newly formed condensate drains down to the bottom of the condenser, where it collects in the hot well until it is pumped out.  In order to maintain high plant efficiency it is necessary to maintain a good vacuum in the main condenser. This vacuum is formed by the collapse of the steam as it condenses, since the specific volume of water is so much less than the specific volume of steam. A properly operating main condenser operates at 28.5 in Hg vacuum or greater.  Vacuum will be maintained in the condenser as long as the shell of the condenser does not fill up with air or other gases, however vacuum tends to draw air into the condenser through any available leaks, such as those found at the turbine glands where the turbine shafts penetrate the turbine casing. This air must be pumped back out to the atmosphere as fast as it leaks in, or else vacuum will be lost. This is accomplished with a steam driven pump known as the air ejector which takes suction on top of the main condenser and discharges air to the engine room.  Vacuum will also be lost if condensing stops. This could happen if the supply of cooling water through the condenser tubes was interrupted, perhaps due to failure of the main circulating pump, blocked condenser tubes, or if the condensate pump failed which would cause the condenser to fill up with condensate.  "
 },
 {
-  "id": "p-1047",
+  "id": "p-1046",
   "level": "2",
-  "url": "maincond.html#p-1047",
+  "url": "maincond.html#p-1046",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "main condenser shell tubes tube sheets hot well "
 },
 {
-  "id": "p-1049",
+  "id": "p-1048",
   "level": "2",
-  "url": "maincond.html#p-1049",
+  "url": "maincond.html#p-1048",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4852,9 +4852,9 @@ var ptx_lunr_docs = [
   "body": " Condensate pump  At this point in the simplified cycle, you will find a feed pump to return the condensate back to the boiler. In an actual cycle you will find a number of additional items which are installed to increase the efficiency of the steam cycle by adding essentially free energy to the working fluid.  The first new item is the condensate pump , which is a centrifugal pump that takes suction on the condenser hot well and raises the condensate pressure enough to move it on to the DC heater. The condensate pump must pump from a vacuum, which is a difficult job for a pump. It is important to properly vent and seal the pump, or it will not pump well.  "
 },
 {
-  "id": "p-1052",
+  "id": "p-1051",
   "level": "2",
-  "url": "condensatepump.html#p-1052",
+  "url": "condensatepump.html#p-1051",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4870,9 +4870,9 @@ var ptx_lunr_docs = [
   "body": " Heat Exchangers  Following the condensate pump, condensate passes through a series of heat exchangers designed recover otherwise lost heat energy and improve the efficiency of the steam cycle.  First the condensate passes through the Air Ejector Condenser . The Air Ejector is a steam powered air pump that removes air that leaks into the condenser. The steam used by the air ejector is condensed here, where it preheats the condensate. Any heat added before the condensate reaches the boiler represents fuel that doesn’t need to be burned, so the cycle efficiency is raised.   Air Ejector and Air Ejector Condenser    Next, the condensate passes through gland exhaust condenser . This unit condenses steam that leaks out of the turbine glands, and simultaneously recovers more energy and recaptures the leakage. This is an example of the way a practical cycle takes every opportunity to recover free energy and increase the overall cycle efficiency  The drain cooler and first stage heater follow, in that order. The first stage heater uses partially expanded steam to pre-heat the condensate. This steam condenses in the first stage heater, but still is quite hot, so the remaining energy is recovered in the drain cooler. The condensed drains are returned to the system so no water is lost.  The first stage heater is an example of regenerative feed heating , a process that improves the overall efficiency of the cycle. In regenerative heating, steam is partially expanded in the turbine to drive the propeller, then bled off at an appropriate temperature where it is used to preheat the condensate. Some shore power plants have four or more stages of regenerative heating.  The flow order through these heat exchangers is always from coolest to hottest. Therefore the air ejector and exhaust condensers come first, followed by the drain cooler, and finally the first stage heater.  "
 },
 {
-  "id": "p-1054",
+  "id": "p-1053",
   "level": "2",
-  "url": "airejectorcondenser.html#p-1054",
+  "url": "airejectorcondenser.html#p-1053",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4888,27 +4888,27 @@ var ptx_lunr_docs = [
   "body": " Air Ejector and Air Ejector Condenser   "
 },
 {
-  "id": "p-1055",
+  "id": "p-1054",
   "level": "2",
-  "url": "airejectorcondenser.html#p-1055",
+  "url": "airejectorcondenser.html#p-1054",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "gland exhaust condenser "
 },
 {
-  "id": "p-1056",
+  "id": "p-1055",
   "level": "2",
-  "url": "airejectorcondenser.html#p-1056",
+  "url": "airejectorcondenser.html#p-1055",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "drain cooler first stage heater "
 },
 {
-  "id": "p-1057",
+  "id": "p-1056",
   "level": "2",
-  "url": "airejectorcondenser.html#p-1057",
+  "url": "airejectorcondenser.html#p-1056",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4924,18 +4924,18 @@ var ptx_lunr_docs = [
   "body": " DC Heater  The first stage heater is followed by the second stage heater, which is usually referred to as the DC Heater . The DC Heater is the point in the steam cycle where condensate becomes feed water .  The DC heater provides a second stage of regenerative feed heating, which is accomplished by mixing low pressure steam directly with the condensate. In other words, the heat exchange occurs by direct contact , hence the name. The DC Heater is also sometimes called deaerating feed tank , the DFT , the deaerator , as well as the second stage heater . All these names refer to the same piece of equipment.   DC Heater    The DC Heater serves three important functions in the steam cycle:   Heat  The first function of the DC Heater is to heat the feedwater prior to returning it to the boiler. Thermodynamically, it is known as the regenerative second stage heater. Using the exhaust steam from steam powered auxiliaries to heat the DC Heater increases the overall plant efficiency and saves fuel.    Deaerate  The second function of the DC Heater is to remove dissolved gases (oxygen and free carbon dioxide) from the condensate and make-up water used for boiler feed. Removal of oxygen and free carbon dioxide protects piping and pumps, as well as boilers and condensate return lines from these corrosive gases.    Store  Finally the DC Heater acts as a storage location for feedwater. It acts as a surge tank for the system, allowing fluctuations in the amount of water contained in the cycle to occur without upsetting the feed pump and feedwater regulators.   "
 },
 {
-  "id": "p-1059",
+  "id": "p-1058",
   "level": "2",
-  "url": "dchtr.html#p-1059",
+  "url": "dchtr.html#p-1058",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "DC Heater "
 },
 {
-  "id": "p-1060",
+  "id": "p-1059",
   "level": "2",
-  "url": "dchtr.html#p-1060",
+  "url": "dchtr.html#p-1059",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4978,27 +4978,27 @@ var ptx_lunr_docs = [
   "body": " Feed Valves  Three valves in the feed line before the boiler are used to control the flow of feedwater into the boiler.  The feed check valve comes first. It is a stop-check valve which is normally left open, but which can be used to regulate the feed water flow to the boiler if necessary. The feed check valve is always fitted with a reach rod or other means to permit it to be manually operated from the boiler control station.  The feed check is followed by the feed water regulator which is an automatic, pneumatically actuated regulating valve that responds to changes in boiler drum level and steam demand to automatically maintain a constant water level half-way up the steam drum.  The final valve of the set is the feed stop valve . This valve is provided to permit the feed system to be secured at the boiler when necessary.  "
 },
 {
-  "id": "p-1068",
+  "id": "p-1067",
   "level": "2",
-  "url": "feedvalves.html#p-1068",
+  "url": "feedvalves.html#p-1067",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "feed check valve "
 },
 {
-  "id": "p-1069",
+  "id": "p-1068",
   "level": "2",
-  "url": "feedvalves.html#p-1069",
+  "url": "feedvalves.html#p-1068",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "feed water regulator "
 },
 {
-  "id": "p-1070",
+  "id": "p-1069",
   "level": "2",
-  "url": "feedvalves.html#p-1070",
+  "url": "feedvalves.html#p-1069",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5014,9 +5014,9 @@ var ptx_lunr_docs = [
   "body": " Economizer  After the feedwater enters the boiler it passes through the economizer .  The economizer is a heat recovery device. It consists of a finned-tube heat exchanger which captures the heat in the boiler exhaust gases before they pass up the stack and uses it to heat the feedwater. This is the final effort to improve the efficiency of the steam cycle, by recovering heat energy that would otherwise be lost.  After leaving the economizer the feedwater enters the steam drum where the generation stage occurs, where the steam cycle begins again.   Economizer and Exhaust Gas Flow Path    "
 },
 {
-  "id": "p-1071",
+  "id": "p-1070",
   "level": "2",
-  "url": "econ.html#p-1071",
+  "url": "econ.html#p-1070",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5050,18 +5050,18 @@ var ptx_lunr_docs = [
   "body": " Propulsion System One Line Diagram   Source: P1206 EMPIRE STATE MACHINERY MANUAL FIRST DRAFT MAY 2022   "
 },
 {
-  "id": "p-1083",
+  "id": "p-1082",
   "level": "2",
-  "url": "Electric-propulsion-overview.html#p-1083",
+  "url": "Electric-propulsion-overview.html#p-1082",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Propulsion Converter transformer "
 },
 {
-  "id": "p-1084",
+  "id": "p-1083",
   "level": "2",
-  "url": "Electric-propulsion-overview.html#p-1084",
+  "url": "Electric-propulsion-overview.html#p-1083",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5077,9 +5077,9 @@ var ptx_lunr_docs = [
   "body": " Description  As discussed in , the essential components of an AC generator are the armature and the field, one of which is located on the rotor and the other on the stator. However a practical generator requires many other components, including an enclosure, bearings, cooling, lubrication, instrumentation and control, and a method to excite the field.  These components are shown in and and discussed below.  The shaft is supported by two journal bearings (7 and 13), one on the drive end ( DE ) and the other on the non-drive end ( NDE ). Each bearing has its own integral oil sump with sight glass, cooling fins, and an oil ring that circulates the oil to the top of the shaft as it rotates.  The shaft itself supports and carries the rotating components: primarily the main rotor core (9) and the 8-pole main field windings (4), but also a cooling fan (2) and several other components (10, 11, 12, 14, 16, and 19) that are required to excite the generator. Excitation systems will be discussed in .  The main field (4) on the rotor is wound to create eight alternating north and south poles. The main stator core (8) surrounds the main rotor (9) and is wound with three main armature windings (3). As the shaft rotates, the rotor’s magnetic field sweeps by the each of the three armature windings in turn, and induces a sinusoidal voltage in each as shown in . The resulting 3-phase AC is directed to the generator terminals (23), and from there connections are made to the main switchboard.   Hyundai HSJ9 Generator   Source: P1206 EMPIRE STATE MACHINERY MANUAL FIRST DRAFT MAY 2022     Generator Exploded View   Source: DV951E001_MAIN ALTERNATOR_OPERATION MANUAL_ALTERNATOR      Water cooled Air Cooler  Ventilation Fan  Main Armature Winding  Main Field Windings  End Shield (DE)  Shaft  Bearing (DE)  Main Stator Core  Main Rotor Core  Main Field Terminals  Leads to\/from Rectifier  Exciter Rotor Core  Bearing (NDE)  Rotating Rectifier  Rectifier Cover  Permanent Magnet Rotor  Permanent Magnet Stator  End Shield (NDE)  Exciter Armature Winding  Exciter Field Winding  Exciter Stator Core  Current Transformer  Main Terminal Box    Both the main core and the stator core are made of thin sheets of electrical steel , called laminations , clamped tightly together. The stationary armature windings (3) and the rotating field windings (4) are inserted into slots formed when the laminations were pressed out, and are firmly wedged in to hold them in position.  Electrical steel is a speciality steel used in the cores of electrical machines such as motors, generators, and transformers. It is an iron alloy with silicon (instead of carbon) as the main additive element. Silicon increases the electrical resistivity of iron by a factor of about 5. Electrical steel also has favorable magnetic properties which tend to reduce magnetic hysteresis  an energy loss caused by the repeated magnetization and de magnetization of the core. These properties reduce energy losses in the core by about three times compared to conventional steel,  The laminations are insulated from each other to prevent current from flowing axially along the core. These currents, called eddy currents , are another source of energy loss, so using insulated laminations improves the generator efficiency.  Generators produce lots of heat while they are operating due to unavoidable losses caused by mechanical friction and electrical resistance, and other factors. If this heat is not removed as it is produced, the generator temperature will rise to unacceptable limits, and high temperature is extremely damaging to electrical insulation. Electrical machines are designed to run for 100,000 hours or more when operated at or below their design temperature limit, however for every 10° C rise above this temperature, the thermal life expectancy of the electrical insulation is reduced by half, so generator cooling is critical.  The generator’s cooling system uses the shaft driven internal fan (2) to circulate the air through the machine. This hot air passes over a water-cooled heat exchanger where it is cooled and then recirculated. The cooling water tubes are double walled with slotted plate fins. Water flows through the inner tube and cools the outer tube and the slotted fins. Air flows between the fins and around the outer tubes and so is cooled.  In the case of a tube leak, water will flow between the inner and outer tubes to a leak detector and trigger an alarm. This prevents water from leaking on to the electrical components.  If for some reason the cooling water is not available, an emergency cooling mode is available. In this mode cover plates on the generator are removed to allow the fan to draw cool air from the engine room and discharge the heated air outside the generator.  "
 },
 {
-  "id": "p-1090",
+  "id": "p-1089",
   "level": "2",
-  "url": "description_generators.html#p-1090",
+  "url": "description_generators.html#p-1089",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5104,27 +5104,27 @@ var ptx_lunr_docs = [
   "body": " Generator Exploded View   Source: DV951E001_MAIN ALTERNATOR_OPERATION MANUAL_ALTERNATOR   "
 },
 {
-  "id": "p-1094",
+  "id": "p-1093",
   "level": "2",
-  "url": "description_generators.html#p-1094",
+  "url": "description_generators.html#p-1093",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "electrical steel laminations "
 },
 {
-  "id": "p-1095",
+  "id": "p-1094",
   "level": "2",
-  "url": "description_generators.html#p-1095",
+  "url": "description_generators.html#p-1094",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "hysteresis "
 },
 {
-  "id": "p-1096",
+  "id": "p-1095",
   "level": "2",
-  "url": "description_generators.html#p-1096",
+  "url": "description_generators.html#p-1095",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5140,9 +5140,9 @@ var ptx_lunr_docs = [
   "body": " Exciter  An exciter , also known as an excitation generator , is a second generator which spins on the same shaft as the main generator. The function of the exciter is to produce the direct current required to energize the main rotor windings, thereby creating a magnetic field.  There are several important differences between the main generator and the exciter. Although both are 3-phase generators, the main generator has a rotating field and a stationary armature while the exciter has a stationary field and a rotating armature. The exciter is much smaller than the main generator; the main generator can generate more than 440 A, while the exciter generates less than 4 A.   Hyundai HSJ9 Excitation System   Source: weh CC0    The 3-phase output of the exciter is directed through the hollow drive shaft to the rotating rectifier mounted on the non-drive end of the shaft. The rectifier is a solid-state electronic device which uses six diodes arranged as shown in to convert the three-phase AC produced by the exciter generator into direct current. From there, DC current travels back through the shaft to excite the rotating main field windings.   3-phase, full-wave rectifier    3 phase AC in   Source: weh cc0     Rotating Diodes   Source: weh cc0     DC out   Source: weh cc0      "
 },
 {
-  "id": "p-1109",
+  "id": "p-1108",
   "level": "2",
-  "url": "Electric-propulsion-exciter.html#p-1109",
+  "url": "Electric-propulsion-exciter.html#p-1108",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5158,9 +5158,9 @@ var ptx_lunr_docs = [
   "body": " Hyundai HSJ9 Excitation System   Source: weh CC0   "
 },
 {
-  "id": "p-1111",
+  "id": "p-1110",
   "level": "2",
-  "url": "Electric-propulsion-exciter.html#p-1111",
+  "url": "Electric-propulsion-exciter.html#p-1110",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5185,18 +5185,18 @@ var ptx_lunr_docs = [
   "body": " Pilot Generator  Just as the exciter generator is needed to supply the field for the main generator, a third generator is needed to supply the field for the exciter. This is the pilot generator .  In other words, the main generator is excited by the exciter, and the exciter is excited by the pilot generator. This process stops here however, because the field of the pilot generator is produced by permanent magnets, not a field winding. For this reason, the pilot generator is alternately called the permanent magnet generator or the PMG .  The pilot generator is shown in . It is located at the end of the shaft outboard of the bearing on the non-drive end of the generator unit . The rotor carries sixteen permanent magnets of alternating polarities bolted to the rotating shaft. The stator is bolted onto the bearing housing and carries 3-phase wye-connected armature windings. The rotating magnets induce a three-phase AC voltage into the stator windings.  The output of the pilot generator is transmitted to the automatic voltage regulator where it is rectified to DC, and then used to excite the stationary exciter field.   Permanent Magnet Generator (PMG)    Permanent Magnet Rotor   DV951E001_MAIN ALTERNATOR_OPERATION MANUAL_PMG     PMG Stator   Source: DV951E001_MAIN ALTERNATOR_OPERATION MANUAL_PMG      Because the source of the excitation in this generator is from permanent magnets, rather than an electromagnet excited by the output of the main generator, the generator is considered separately excited. The main advantage of separate excitation is that fluctuations in the voltage of the main generator do not affect the excitation supply. Voltage fluctuations can be quickly corrected and the generator output can be maintained within tight tolerances..  "
 },
 {
-  "id": "p-1112",
+  "id": "p-1111",
   "level": "2",
-  "url": "Electric-propulsion-pilot-generator.html#p-1112",
+  "url": "Electric-propulsion-pilot-generator.html#p-1111",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "pilot generator "
 },
 {
-  "id": "p-1113",
+  "id": "p-1112",
   "level": "2",
-  "url": "Electric-propulsion-pilot-generator.html#p-1113",
+  "url": "Electric-propulsion-pilot-generator.html#p-1112",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5221,18 +5221,18 @@ var ptx_lunr_docs = [
   "body": " Voltage Regulator  An automatic voltage regulator ( AVR ) is a control device which detects any fluctuation in a generator’s voltage and adjusts the excitation current to offset the fluctuation and so keep the output voltage constant regardless of load changes.  A simplified block diagram of the components of the Hyundai HDEC2000 AVR used on the training ship is shown in . The primary function is to provide continuous voltage regulation of the generator through excitation current control with a PID ( proportional, integral, derivative ) software control algorithm, but the device also includes function blocks which provide monitoring, alarm, and system protection. Two-way communications are provided through a network interface or via the front panel.   Automatic Voltage Regulator (AVR)    Front Panel   Source: DV951E001_MAIN ALTERNATOR_OPERATION MANUAL_AVR     Simplified Block Diagram   Source: weh cc0      The three main components of the AVR are the Digital Signal Processor, the Rectifier, and the Power Module. The device uses a combination of hardware and software to perform its functions.  The Digital Signal Processor  (DSP) is a specialized microprocessor designed to process and manipulate digital signals in real time. The DSP software is executable code stored in nonvolatile Flash memory. The DSP executes code and controls hardware to enable the AVR to perform functions such as regulation, measurement, monitoring, protection, and communications.  The DSP accepts both digital and analog inputs, the most important being the generator voltage and current, which are measured using current and potential (voltage) transformers on the generator output, and digitized by an analog to digital converter ( ADC ) in the DSP. Based on these values and the system requirements, the DSP calculates the amount of excitation current required and produces a command signal that is transmitted to the Power Module.  The Rectifier module supplies DC power to the power module. The power source for the module may come from a Permanent Magnet Generator, as done on the training ship, or directly from the main generator terminals if the generator is self-excited. The module uses a three-phase full-wave rectifier, , to convert the supply to a DC voltage.  The Power Module uses pulse width modulation  (PWM) to trigger a set of insulated gate bipolar transistors ( IGBT) that supply the requested excitation current An excitation current signal is transmitted back to the DSP to be used for to PID feedback, and for over-excitation limitation, protection functions and monitoring. PWM and IGBTs are discussed in more detail in and .  "
 },
 {
-  "id": "p-1117",
+  "id": "p-1116",
   "level": "2",
-  "url": "Electric-propulsion-voltage-regulator.html#p-1117",
+  "url": "Electric-propulsion-voltage-regulator.html#p-1116",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "automatic voltage regulator AVR "
 },
 {
-  "id": "p-1118",
+  "id": "p-1117",
   "level": "2",
-  "url": "Electric-propulsion-voltage-regulator.html#p-1118",
+  "url": "Electric-propulsion-voltage-regulator.html#p-1117",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5248,13 +5248,22 @@ var ptx_lunr_docs = [
   "body": " Automatic Voltage Regulator (AVR)    Front Panel   Source: DV951E001_MAIN ALTERNATOR_OPERATION MANUAL_AVR     Simplified Block Diagram   Source: weh cc0     "
 },
 {
+  "id": "p-1119",
+  "level": "2",
+  "url": "Electric-propulsion-voltage-regulator.html#p-1119",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Digital Signal Processor (DSP) "
+},
+{
   "id": "p-1120",
   "level": "2",
   "url": "Electric-propulsion-voltage-regulator.html#p-1120",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Digital Signal Processor (DSP) "
+  "body": "analog to digital converter ADC "
 },
 {
   "id": "p-1121",
@@ -5263,21 +5272,12 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "analog to digital converter ADC "
+  "body": "Rectifier "
 },
 {
   "id": "p-1122",
   "level": "2",
   "url": "Electric-propulsion-voltage-regulator.html#p-1122",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Rectifier "
-},
-{
-  "id": "p-1123",
-  "level": "2",
-  "url": "Electric-propulsion-voltage-regulator.html#p-1123",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5311,18 +5311,18 @@ var ptx_lunr_docs = [
   "body": " Process Control (PRC)  The Process Control cabinet contains control and management modules for the propulsion system. It also contains a 230V AC 1.5 kVA uninterruptible power supply ( UPS ) which will take over immediately in the event of failure of the normal power supply. The UPS output goes to the CLC section for distribution.  The front panel of the PRC contains a panel mounted supervision computer with touch-screen, which provides local control to monitor system parameters and alarms including:  Speed setting dial and reply pointer.  Propeller rpm meter.  Power meter.  Emergency stop pushbutton.  Alarm Acknowledge pushbutton.    Within the PRC, programmable logic controllers  (PLCs) and circuit boards automatically monitor and control many aspects of the propulsion system including:  Control the propulsion motor speed, torque, flux and current.  Connections, via fiber optic cables to the bridge and engine control rooms.  Ethernet communications with instruments that monitor the system conditions.  Fault management, safety shutdowns and interlocks.  Provide the trigger pulses for the IGBTs.  Automatically start and stop system auxiliaries.    "
 },
 {
-  "id": "p-1129",
+  "id": "p-1128",
   "level": "2",
-  "url": "Electric-propulsion-process-control--prc-.html#p-1129",
+  "url": "Electric-propulsion-process-control--prc-.html#p-1128",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "uninterruptible power supply UPS "
 },
 {
-  "id": "p-1131",
+  "id": "p-1130",
   "level": "2",
-  "url": "Electric-propulsion-process-control--prc-.html#p-1131",
+  "url": "Electric-propulsion-process-control--prc-.html#p-1130",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5338,9 +5338,9 @@ var ptx_lunr_docs = [
   "body": " Converter Local Control (CLC)  This Converter Local Control cabinet contains equipment to monitor and control the converter, including:    Main PLC. The primary function of this Programmable Logic Controller is to control the sequences, safeties and regulation of the converter and control of motor speed and torque. It acquires signals from various current and voltage measurements and gates the inverter IGBTs accordingly.  Additional tasks of the controller include control of the incoming AC supply breaker, protection of motor and converter, auxiliaries and the interface to the customer application software.     I\/O modules. These input\/output modules connect to establish communication with the various parts of the system. Non-time-critical I\/O units are connected to MV7306 main controller through an Ethernet link.     Low voltage auxiliaries. These auxiliary components use 120 V supplied from UPS. The control cabinet also includes relays used to control circuit breakers, contactors, and DC supply for internal measuring devices.     Touch screen display. This display provides functionality to configure the drive, and provides the operator with local control, diagnostic and monitoring functions.     "
 },
 {
-  "id": "p-1132",
+  "id": "p-1131",
   "level": "2",
-  "url": "Electric-propulsion-converter-local-control--clc-.html#p-1132",
+  "url": "Electric-propulsion-converter-local-control--clc-.html#p-1131",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5374,9 +5374,9 @@ var ptx_lunr_docs = [
   "body": " DFE Diode Front End Section (DFE)  This section contains the Diode Front Edge bridge. This bridge receives the output of the two secondary windings of the propulsion transformer and rectifies this to a DC voltage in the diode bridge .  The propulsion transformers reduce the network voltage (6,600 V) to the requirements of the frequency converters (1,850V). The transformers have a single primary winding, delta connected, and two secondary windings, one is delta connected and the other is wye connected. This provides a 30° phase shift in one of the supplies to the diode front end. This arrangement effectively provides a 12-pulse configuration that reduces harmful harmonics.  The diode bridge is made up of four stacks of six diodes, one stack to each transformer secondary. The output is passed to the DC Capacitor and filter circuit in the DCC cabinet .  "
 },
 {
-  "id": "p-1145",
+  "id": "p-1144",
   "level": "2",
-  "url": "Electric-propulsion-dfe--diode-front-end-section--dfe-.html#p-1145",
+  "url": "Electric-propulsion-dfe--diode-front-end-section--dfe-.html#p-1144",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5401,9 +5401,9 @@ var ptx_lunr_docs = [
   "body": " Inverter (INV)  The inverter section contains three subassemblies called stacks , one for each phase of the output. Each stack consists of four IGBT and two diode press pack modules, a gate driver, water-cooled heat sink and balancing resistors.  The term press pack refers to the physical packaging of electronic components. It typically consists of a semiconductor chip, along with its associated control and protection circuitry, mounted between two metal plates which serve as electrical contacts and provide mechanical support. These plates are made of good thermal conductors such as copper or aluminum. This design allows for efficient heat dissipation, as the metal plates can be directly attached to a heat sink.   IGBT Stack   Source: IGBT    The IGBT gates are triggered by pulse width signals produced in the CLC section which change the direct current stored in the DC capacitors into variable voltage, variable frequency alternating current.  "
 },
 {
-  "id": "p-1149",
+  "id": "p-1148",
   "level": "2",
-  "url": "Electric-propulsion-inverter--inv-.html#p-1149",
+  "url": "Electric-propulsion-inverter--inv-.html#p-1148",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
