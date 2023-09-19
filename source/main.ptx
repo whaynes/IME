@@ -4305,7 +4305,18 @@ https://www.pinterest.com/pin/386183736777263448/
          </section>
          <section xml:id="piping-systems-piping-and-instrumentation-diagrams">
             <title>Piping and Instrumentation Diagrams</title>
-            <p>TBD</p>
+            <image source="pics/piping_systems/pipe_symbols_1">
+               <remix> MARAD </remix>
+            </image>
+            <image source="pics/piping_systems/pipe_symbols_2">
+               <remix> MARAD </remix>
+            </image>
+            <image source="pics/piping_systems/pipe_symbols_3">
+               <remix> MARAD </remix>
+            </image>
+            <image source="pics/piping_systems/pipe_symbols_4">
+               <remix> MARAD </remix>
+            </image>
          </section>
       </chapter>
       <chapter xml:id="diesel-power">

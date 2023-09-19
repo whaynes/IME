@@ -3926,9 +3926,18 @@ https://www.pinterest.com/pin/386183736777263448/
 
 <section xml:id=""><title>Piping and Instrumentation Diagrams</title>
 
-<p>TBD</p>
-
-
+<image source="pics/piping_systems/pipe_symbols_1">
+<remix><![CDATA[ MARAD ]]></remix>
+</image>
+<image source="pics/piping_systems/pipe_symbols_2">
+<remix><![CDATA[ MARAD ]]></remix>
+</image>
+<image source="pics/piping_systems/pipe_symbols_3">
+<remix><![CDATA[ MARAD ]]></remix>
+</image>
+<image source="pics/piping_systems/pipe_symbols_4">
+<remix><![CDATA[ MARAD ]]></remix>
+</image>
 </section>
 </chapter>
 
@@ -4797,6 +4806,7 @@ http://www.aukevisser.nl/supertankers/id317.htm" >Jorgen Lonn.  ]]></remix>
 <remix> <![CDATA[  MARAD  ]]></remix>
 </image>
 </figure>
+
 </chapter>
 </book>
 </pretext>

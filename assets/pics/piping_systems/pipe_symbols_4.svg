@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 2194 2692" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+<svg width="100%" height="100%" viewBox="0 0 2208 2704" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
     <g transform="matrix(1,0,0,1,-6831,0)">
-        <g transform="matrix(0.980778,0,0,0.98572,1.84399,-5520.03)">
-            <rect id="piping_symbols_4" x="6963" y="5600" width="2237" height="2731" style="fill:none;"/>
+        <g id="pipe_symbols_4" transform="matrix(0.986874,0,0,0.989947,-40.6048,-5543.7)">
+            <rect x="6963" y="5600" width="2237" height="2731" style="fill:none;"/>
             <clipPath id="_clip1">
-                <rect id="piping_symbols_41" serif:id="piping_symbols_4" x="6963" y="5600" width="2237" height="2731"/>
+                <rect x="6963" y="5600" width="2237" height="2731"/>
             </clipPath>
             <g clip-path="url(#_clip1)">
-                <g id="DA700M103R0---NSMV-536-B702-R0-SEA-WATER-COOLING-SYSTEM-DIAGRAM--dragged--2.pdf" serif:id="DA700M103R0 - NSMV-536-B702-R0 SEA WATER COOLING SYSTEM DIAGRAM (dragged) 2.pdf" transform="matrix(0.509799,0,0,0.507244,6919.16,7061.88)">
+                <g id="DA700M103R0---NSMV-536-B702-R0-SEA-WATER-COOLING-SYSTEM-DIAGRAM--dragged--2.pdf" serif:id="DA700M103R0 - NSMV-536-B702-R0 SEA WATER COOLING SYSTEM DIAGRAM (dragged) 2.pdf" transform="matrix(0.50665,0,0,0.505078,6919.43,7067.3)">
                     <g transform="matrix(2.58621,0,0,2.58621,-5100,-3300)">
-                        <use id="DA700M103R0---NSMV-536-B702-R0-SEA-WATER-COOLING-SYSTEM-DIAGRAM--dragged--2.pdf1" serif:id="DA700M103R0 - NSMV-536-B702-R0 SEA WATER COOLING SYSTEM DIAGRAM (dragged) 2.pdf" xlink:href="#_Image2" x="0" y="0" width="3944px" height="2552px"/>
+                        <use xlink:href="#_Image2" x="0" y="0" width="3944px" height="2552px"/>
                     </g>
                 </g>
             </g>
