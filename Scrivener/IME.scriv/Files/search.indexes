@@ -4202,37 +4202,6 @@ The constant &lt;em&gt;g&lt;/em&gt; depends on where you are: on earth the const
         </Document>
         <Document ID="C4E520B3-DF55-4D5F-8BB6-E9BB2B9FFD3A">
             <Title>Piping and Instrumentation Diagrams</Title>
-            <Text>TBD
-
-A  P&amp;amp;ID, which stands for "Piping and Instrumentation Diagram," is a detailed schematic diagram that represents a process system using graphical symbols to show the piping, equipment, instrumentation, and control devices involved.  P&amp;amp;IDs are commonly used in various industries, including chemical processing, petrochemical, pharmaceutical, power generation, and many others. They serve several important purposes:
-
-1. **Process Visualization:**  P&amp;amp;IDs provide a visual representation of a complex process system, making it easier for engineers, operators, and other stakeholders to understand the system's components and how they interact.
-
-2. **Design and Engineering:**  P&amp;amp;IDs are essential during the design and engineering phases of a project. Engineers use them to plan and design process systems, including the layout of pipes, equipment, and instrumentation.
-
-3. **Communication:**  P&amp;amp;IDs act as a universal language in engineering. They help facilitate communication among different teams, such as engineers, designers, operators, and maintenance personnel, by providing a clear and standardized way to discuss and document the process.
-
-4. **Safety:**  P&amp;amp;IDs play a critical role in ensuring safety. They show safety devices, relief valves, and emergency shutdown systems, helping to identify potential hazards and safety measures.
-
-5. **Maintenance and Troubleshooting:** During operation,  P&amp;amp;IDs are valuable for maintenance and troubleshooting. They enable personnel to identify components, valves, instruments, and their locations quickly.
-
-Typically,  P&amp;amp;IDs include various elements:
-
-- **Pipes and Lines:** Piping and conduit lines are represented by lines with specific line types (e.g., solid lines for process lines, dashed lines for utility lines).
-
-- **Equipment:** Equipment such as pumps, compressors, tanks, heat exchangers, and reactors are depicted using standardized symbols.
-
-- **Instruments:** Instruments such as sensors, controllers, and recorders are represented by symbols that indicate their function and type.
-
-- **Valves and Control Valves:** Different types of valves and control valves are shown with symbols that indicate their operation and control functions.
-
-- **Control Loops:** These are used to represent the control systems and feedback loops within the process.
-
-- **Safety Devices:** Safety features like relief valves, pressure safety valves, and emergency shutdown systems are depicted.
-
-- **Annotations and Labels:**  P&amp;amp;IDs include labels, tags, and annotations that provide additional information, such as equipment names, pipe sizes, flow rates, and other relevant data.
-
-Creating and reading  P&amp;amp;IDs is a specialized skill, and professionals known as process engineers or piping and instrumentation designers are typically responsible for their creation and interpretation.  P&amp;amp;IDs are crucial documents for ensuring the safe and efficient operation of complex industrial processes and systems.</Text>
         </Document>
         <Document ID="B9258393-07D4-4BDB-9E5B-27890F672E06">
             <Title>Introduction</Title>
@@ -13401,6 +13370,20 @@ You may also find a &lt;em&gt;submerged tube desuperheater&lt;/em&gt; in the ste
         </Document>
         <Document ID="444039B3-4E72-4CD4-8334-8F271C46ACAE">
             <Title>Symbols</Title>
+            <Text>
+&lt;image source="pics/piping_systems/pipe_symbols_1"&gt;
+&lt;remix&gt;&lt;![CDATA[ MARAD ]]&gt;&lt;/remix&gt;
+&lt;/image&gt;
+&lt;image source="pics/piping_systems/pipe_symbols_2"&gt;
+&lt;remix&gt;&lt;![CDATA[ MARAD ]]&gt;&lt;/remix&gt;
+&lt;/image&gt;
+&lt;image source="pics/piping_systems/pipe_symbols_3"&gt;
+&lt;remix&gt;&lt;![CDATA[ MARAD ]]&gt;&lt;/remix&gt;
+&lt;/image&gt;
+&lt;image source="pics/piping_systems/pipe_symbols_4"&gt;
+&lt;remix&gt;&lt;![CDATA[ MARAD ]]&gt;&lt;/remix&gt;
+&lt;/image&gt;
+</Text>
         </Document>
         <Document ID="89C51861-F132-4DDE-BEB9-DB6040808E0A">
             <Title>P1206 EMPIRE STATE MACHINERY MANUAL - FIRST DRAFT MAY 2022</Title>
@@ -42313,6 +42296,37 @@ In summary, while both pipes and tubes are used for transporting materials, pipe
             <Text>The ILC cubicle contains instrumentation to measure the DC link voltage, output current measurements, and the DC link grounding switch.  
 This module also protects the inverter and DC bus from damage caused by the propulsion motors when the ship is slowing down.  During these periods the momentum of the ship will drive the propellor and motor, causing the motors to behave like generators and produce electrical power.  
 Excessive electrical power cannot be fed back into the electrical distribution system, so when the DC bus reaches a certain voltage, the excess energy is shunted through a chopper unit to braking resistors.  The braking resistors are located near the converter rooms, and are capable of dissipating up to 10 MJ for 20 seconds once every 30 minutes</Text>
+        </Document>
+        <Document ID="CAABA472-D847-4099-9447-7746467181CB">
+            <Text>A  P&amp;amp;ID, which stands for "Piping and Instrumentation Diagram," is a detailed schematic diagram that represents a process system using graphical symbols to show the piping, equipment, instrumentation, and control devices involved.  P&amp;amp;IDs are commonly used in various industries, including chemical processing, petrochemical, pharmaceutical, power generation, and many others. They serve several important purposes:
+
+1. **Process Visualization:**  P&amp;amp;IDs provide a visual representation of a complex process system, making it easier for engineers, operators, and other stakeholders to understand the system's components and how they interact.
+
+2. **Design and Engineering:**  P&amp;amp;IDs are essential during the design and engineering phases of a project. Engineers use them to plan and design process systems, including the layout of pipes, equipment, and instrumentation.
+
+3. **Communication:**  P&amp;amp;IDs act as a universal language in engineering. They help facilitate communication among different teams, such as engineers, designers, operators, and maintenance personnel, by providing a clear and standardized way to discuss and document the process.
+
+4. **Safety:**  P&amp;amp;IDs play a critical role in ensuring safety. They show safety devices, relief valves, and emergency shutdown systems, helping to identify potential hazards and safety measures.
+
+5. **Maintenance and Troubleshooting:** During operation,  P&amp;amp;IDs are valuable for maintenance and troubleshooting. They enable personnel to identify components, valves, instruments, and their locations quickly.
+
+Typically,  P&amp;amp;IDs include various elements:
+
+- **Pipes and Lines:** Piping and conduit lines are represented by lines with specific line types (e.g., solid lines for process lines, dashed lines for utility lines).
+
+- **Equipment:** Equipment such as pumps, compressors, tanks, heat exchangers, and reactors are depicted using standardized symbols.
+
+- **Instruments:** Instruments such as sensors, controllers, and recorders are represented by symbols that indicate their function and type.
+
+- **Valves and Control Valves:** Different types of valves and control valves are shown with symbols that indicate their operation and control functions.
+
+- **Control Loops:** These are used to represent the control systems and feedback loops within the process.
+
+- **Safety Devices:** Safety features like relief valves, pressure safety valves, and emergency shutdown systems are depicted.
+
+- **Annotations and Labels:**  P&amp;amp;IDs include labels, tags, and annotations that provide additional information, such as equipment names, pipe sizes, flow rates, and other relevant data.
+
+Creating and reading  P&amp;amp;IDs is a specialized skill, and professionals known as process engineers or piping and instrumentation designers are typically responsible for their creation and interpretation.  P&amp;amp;IDs are crucial documents for ensuring the safe and efficient operation of complex industrial processes and systems.</Text>
         </Document>
         <Document ID="5CBD8F74-35AA-4D49-83C3-F83D6915485D">
             <Title>Redundancy and Reliability</Title>

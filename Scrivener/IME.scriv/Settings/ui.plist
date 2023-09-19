@@ -2573,6 +2573,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>CAABA472-D847-4099-9447-7746467181CB</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>CB2F0070-5A53-4EA4-9AB0-D1CCA39037B1</key>
 		<dict>
 			<key>Row</key>
@@ -3283,7 +3288,7 @@
 	<key>mainDocumentEditor.rulerIsVisible</key>
 	<false/>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, 1657}, {756, 588}}</string>
+	<string>{{0, 0}, {756, 556}}</string>
 	<key>mainDocumentEditor.selectedRanges</key>
 	<string>{0, 0}</string>
 	<key>mainDocumentEditor.textEditorState</key>
@@ -3294,7 +3299,7 @@
 	<key>mainDocumentEditor.textMode</key>
 	<integer>0</integer>
 	<key>mainWindowFrame</key>
-	<string>728 448 1512 702 0 0 2240 1235 </string>
+	<string>322 422 1512 702 0 0 2240 1235 </string>
 	<key>projectStatsSheet</key>
 	<dict>
 		<key>excludeAnnots</key>
