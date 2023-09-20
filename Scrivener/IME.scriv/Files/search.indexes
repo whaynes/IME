@@ -5594,7 +5594,47 @@ A steam powered rotary soot blower is shown in &lt;xref ref="sootblower_png"/&gt
             <Title>Torque, Speed, and Power</Title>
         </Document>
         <Document ID="1DCD087C-C28B-445A-9C03-CA4FE4EDA4A8">
-            <Title>Vessel Particulars</Title>
+            <Title>Ship Description</Title>
+            <Text>The Patriot State II  is the second of five National Security Multi-mission Vessels (NSMV) S5-ME-155a class vessels built for the U.S. Department of Transportation’s Maritime Administration (MARAD).  The ship has dual missions:  its is primarily a modern platform for training future Merchant Marine Officers, and is also an available government resource to provide Humanitarian Assistance end Disaster Relief (HA/DR) where and when it is needed.
+The NSMVs are passenger-type vessel with capacity for on-deck cargo and container stowage as well as a ramp for 1000 m^2 of roll-on roll-off (RORO) cargo.  
+Accommodation for 600 cadets and 100 officers and crew are located over the forward and midships portions of the vessel.  60 additional berths are available for HA/DR missions by doubling up single-occupancy staterooms.
+Construction History:  design started, keel laid, ship launched, ship delivered, first cruise,$300 million cost, Philly shipyard, TOTE services.
+Diesel-electric propulsion: 4 engines, 2 motors, single fixed-pitch propeller, Azimuthing Bow Thruster, Stern Thruster
+&lt;table xml:id="principle_dimensions"&gt;
+    &lt;title&gt;Principle Dimensions&lt;/title&gt;
+    &lt;tabular&gt;
+        &lt;row header="no"&gt;
+            &lt;cell&gt;Length, overall&lt;/cell&gt;
+            &lt;cell&gt;160 m&lt;/cell&gt;
+            &lt;cell&gt;(525 ft)&lt;/cell&gt;
+        &lt;/row&gt;
+           &lt;row&gt;
+            &lt;cell&gt;Beam&lt;/cell&gt;
+            &lt;cell&gt; 27 m&lt;/cell&gt;
+            &lt;cell&gt;(89 ft) &lt;/cell&gt;
+
+        &lt;/row&gt;
+        &lt;row&gt;
+            &lt;cell&gt;Depth,  to main deck &lt;/cell&gt;
+            &lt;cell&gt; 16.8 m&lt;/cell&gt;
+            &lt;cell&gt;(55 ft)&lt;/cell&gt;
+        &lt;/row&gt;
+        &lt;row&gt;
+            &lt;cell&gt;Draft&lt;/cell&gt;
+            &lt;cell&gt; 7.5 m&lt;/cell&gt;
+            &lt;cell&gt;(25 ft) &lt;/cell&gt;
+        &lt;/row&gt;
+        &lt;row&gt;
+            &lt;cell&gt;Masthead Height, above keel &lt;/cell&gt;
+            &lt;cell&gt; 44 m&lt;/cell&gt;
+            &lt;cell&gt;(144 ft) &lt;/cell&gt;
+        &lt;/row&gt;
+    &lt;/tabular&gt;
+&lt;/table&gt;
+
+Cargo and Tank Capacities
+
+Propulsion plant info</Text>
         </Document>
         <Document ID="770325D1-50D9-41F9-833E-3870109B6C24">
             <Title>Converter Cooling (CCU)</Title>

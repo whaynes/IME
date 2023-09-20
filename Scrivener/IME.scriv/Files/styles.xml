@@ -289,7 +289,7 @@ Attributes}]]></Format>
 
 \f0\fs32 \cf2 Attributes}]]></Format>
     </Style>
-    <Style Name="title" ID="5D4A73FA-8AA3-43F5-95A6-67CA93E77A27" Type="Char" FontChange="Face+Size">
+    <Style Name="title" ID="5D4A73FA-8AA3-43F5-95A6-67CA93E77A27" Type="Char" FontChange="Face+Size" Shortcut="8">
         <Format><![CDATA[{\rtf1\ansi\ansicpg1252\cocoartf2709
 \cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fmodern\fcharset0 Courier;}
 {\colortbl;\red255\green255\blue255;}

@@ -2,6 +2,7 @@
 <CompileSettings>
     <ProjectSettings>
         <Content Scope="Included" TreatAsComplete="Yes" IncludeGroupText="Yes">
+            <CompileGroup Type="BinderItem">2396AEC7-B4DC-4946-BA72-5A07420AA072</CompileGroup>
             <Filter State="Off" Exclude="No" Type="Label">
                 <CollectionID>2655DDF6-4AB8-42CB-A433-1CD76FC351D2</CollectionID>
                 <Label>-1</Label>
