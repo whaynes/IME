@@ -5527,146 +5527,173 @@ var ptx_lunr_docs = [
   "body": " Sewage Treatment  TBD  "
 },
 {
-  "id": "TSPS",
+  "id": "TSPS-principle-dimensions",
   "level": "1",
-  "url": "TSPS.html",
-  "type": "Chapter",
-  "number": "10",
-  "title": "TS Patriot State",
-  "body": " TS Patriot State    Patriot State Waterline Profile   MARAD      Patriot State Outboard Profile   MARAD      Patriot State Inboard Profile Port   MARAD      Patriot State Inboard Profile Starboard   MARAD      Patriot State 05 Level   MARAD      Patriot State 04 Level   MARAD      Patriot State O3 Level   MARAD      Patriot State 02 Level   MARAD      Patriot State 01 Level   MARAD      Patriot State Main Deck   MARAD      Patriot State 2nd Deck   MARAD      Patriot State 3rd Deck   MARAD      Patriot State 4th Deck   MARAD      Patriot State Tank Tops   MARAD      Patriot State Inner Bottom   MARAD    "
+  "url": "TSPS-principle-dimensions.html",
+  "type": "Section",
+  "number": "10.1",
+  "title": "Principle Dimensions",
+  "body": " Principle Dimensions   Principle Dimensions    Length, overall  160 m  (525 ft)    Beam  27 m  (89 ft)    Depth, to main deck  16.8 m  (55 ft)    Draft, load line  7.35 m  (24 ft)    Masthead Height, above keel  44 m  (144 ft)    Total installed Power  16,800 kW  (22,500 hp)    Design Speed  18 knots  (20.7 mph)      Capacities    Cadet Berths  600    Officers and Crew Berths (Single Occupancy)  100    Additional Berths (Double Occupancy)  60    RO-RO Cargo Space  990 m     Deck Container Capacity  60 TEU    Fuel Marine Gas Oil  2169 m     Fresh Water  1234 m     Salt Water Ballast  3567 m     Fresh Water Ballast  1275 m     Gray Water  655 m     Black Water  166 m      Construction History: design started, keel laid, ship launched, ship delivered, first cruise,$300 million cost, Philly shipyard, TOTE services.  "
+},
+{
+  "id": "principle_dimensions",
+  "level": "2",
+  "url": "TSPS-principle-dimensions.html#principle_dimensions",
+  "type": "Table",
+  "number": "10.1.1",
+  "title": "Principle Dimensions",
+  "body": " Principle Dimensions    Length, overall  160 m  (525 ft)    Beam  27 m  (89 ft)    Depth, to main deck  16.8 m  (55 ft)    Draft, load line  7.35 m  (24 ft)    Masthead Height, above keel  44 m  (144 ft)    Total installed Power  16,800 kW  (22,500 hp)    Design Speed  18 knots  (20.7 mph)    "
+},
+{
+  "id": "nsmv_capacities",
+  "level": "2",
+  "url": "TSPS-principle-dimensions.html#nsmv_capacities",
+  "type": "Table",
+  "number": "10.1.2",
+  "title": "Capacities",
+  "body": " Capacities    Cadet Berths  600    Officers and Crew Berths (Single Occupancy)  100    Additional Berths (Double Occupancy)  60    RO-RO Cargo Space  990 m     Deck Container Capacity  60 TEU    Fuel Marine Gas Oil  2169 m     Fresh Water  1234 m     Salt Water Ballast  3567 m     Fresh Water Ballast  1275 m     Gray Water  655 m     Black Water  166 m     "
+},
+{
+  "id": "TSPS-system-diagrams",
+  "level": "1",
+  "url": "TSPS-system-diagrams.html",
+  "type": "Section",
+  "number": "10.2",
+  "title": "System diagrams",
+  "body": " System diagrams    Patriot State Waterline Profile   MARAD      Patriot State Outboard Profile   MARAD      Patriot State Inboard Profile Port   MARAD      Patriot State Inboard Profile Starboard   MARAD      Patriot State 05 Level   MARAD      Patriot State 04 Level   MARAD      Patriot State O3 Level   MARAD      Patriot State 02 Level   MARAD      Patriot State 01 Level   MARAD      Patriot State Main Deck   MARAD      Patriot State 2nd Deck   MARAD      Patriot State 3rd Deck   MARAD      Patriot State 4th Deck   MARAD      Patriot State Tank Tops   MARAD      Patriot State Inner Bottom   MARAD    "
 },
 {
   "id": "fig_waterline_profile",
   "level": "2",
-  "url": "TSPS.html#fig_waterline_profile",
+  "url": "TSPS-system-diagrams.html#fig_waterline_profile",
   "type": "Figure",
-  "number": "10.0.1",
+  "number": "10.2.1",
   "title": "",
   "body": "  Patriot State Waterline Profile   MARAD   "
 },
 {
   "id": "fig_outboard_profile",
   "level": "2",
-  "url": "TSPS.html#fig_outboard_profile",
+  "url": "TSPS-system-diagrams.html#fig_outboard_profile",
   "type": "Figure",
-  "number": "10.0.2",
+  "number": "10.2.2",
   "title": "",
   "body": "  Patriot State Outboard Profile   MARAD   "
 },
 {
   "id": "fig_inboard_port",
   "level": "2",
-  "url": "TSPS.html#fig_inboard_port",
+  "url": "TSPS-system-diagrams.html#fig_inboard_port",
   "type": "Figure",
-  "number": "10.0.3",
+  "number": "10.2.3",
   "title": "",
   "body": "  Patriot State Inboard Profile Port   MARAD   "
 },
 {
   "id": "fig_inboard_stbd",
   "level": "2",
-  "url": "TSPS.html#fig_inboard_stbd",
+  "url": "TSPS-system-diagrams.html#fig_inboard_stbd",
   "type": "Figure",
-  "number": "10.0.4",
+  "number": "10.2.4",
   "title": "",
   "body": "  Patriot State Inboard Profile Starboard   MARAD   "
 },
 {
   "id": "fig_05_level",
   "level": "2",
-  "url": "TSPS.html#fig_05_level",
+  "url": "TSPS-system-diagrams.html#fig_05_level",
   "type": "Figure",
-  "number": "10.0.5",
+  "number": "10.2.5",
   "title": "",
   "body": "  Patriot State 05 Level   MARAD   "
 },
 {
   "id": "fig_04_level",
   "level": "2",
-  "url": "TSPS.html#fig_04_level",
+  "url": "TSPS-system-diagrams.html#fig_04_level",
   "type": "Figure",
-  "number": "10.0.6",
+  "number": "10.2.6",
   "title": "",
   "body": "  Patriot State 04 Level   MARAD   "
 },
 {
   "id": "fig_03_level",
   "level": "2",
-  "url": "TSPS.html#fig_03_level",
+  "url": "TSPS-system-diagrams.html#fig_03_level",
   "type": "Figure",
-  "number": "10.0.7",
+  "number": "10.2.7",
   "title": "",
   "body": "  Patriot State O3 Level   MARAD   "
 },
 {
   "id": "fig_02_level",
   "level": "2",
-  "url": "TSPS.html#fig_02_level",
+  "url": "TSPS-system-diagrams.html#fig_02_level",
   "type": "Figure",
-  "number": "10.0.8",
+  "number": "10.2.8",
   "title": "",
   "body": "  Patriot State 02 Level   MARAD   "
 },
 {
   "id": "fig_01_level",
   "level": "2",
-  "url": "TSPS.html#fig_01_level",
+  "url": "TSPS-system-diagrams.html#fig_01_level",
   "type": "Figure",
-  "number": "10.0.9",
+  "number": "10.2.9",
   "title": "",
   "body": "  Patriot State 01 Level   MARAD   "
 },
 {
   "id": "fig_main_deck",
   "level": "2",
-  "url": "TSPS.html#fig_main_deck",
+  "url": "TSPS-system-diagrams.html#fig_main_deck",
   "type": "Figure",
-  "number": "10.0.10",
+  "number": "10.2.10",
   "title": "",
   "body": "  Patriot State Main Deck   MARAD   "
 },
 {
   "id": "fig_2nd_deck",
   "level": "2",
-  "url": "TSPS.html#fig_2nd_deck",
+  "url": "TSPS-system-diagrams.html#fig_2nd_deck",
   "type": "Figure",
-  "number": "10.0.11",
+  "number": "10.2.11",
   "title": "",
   "body": "  Patriot State 2nd Deck   MARAD   "
 },
 {
   "id": "fig_3rd_deck",
   "level": "2",
-  "url": "TSPS.html#fig_3rd_deck",
+  "url": "TSPS-system-diagrams.html#fig_3rd_deck",
   "type": "Figure",
-  "number": "10.0.12",
+  "number": "10.2.12",
   "title": "",
   "body": "  Patriot State 3rd Deck   MARAD   "
 },
 {
   "id": "fig_4th_deck",
   "level": "2",
-  "url": "TSPS.html#fig_4th_deck",
+  "url": "TSPS-system-diagrams.html#fig_4th_deck",
   "type": "Figure",
-  "number": "10.0.13",
+  "number": "10.2.13",
   "title": "",
   "body": "  Patriot State 4th Deck   MARAD   "
 },
 {
   "id": "fig_tank_top",
   "level": "2",
-  "url": "TSPS.html#fig_tank_top",
+  "url": "TSPS-system-diagrams.html#fig_tank_top",
   "type": "Figure",
-  "number": "10.0.14",
+  "number": "10.2.14",
   "title": "",
   "body": "  Patriot State Tank Tops   MARAD   "
 },
 {
   "id": "fig_inner_bottom",
   "level": "2",
-  "url": "TSPS.html#fig_inner_bottom",
+  "url": "TSPS-system-diagrams.html#fig_inner_bottom",
   "type": "Figure",
-  "number": "10.0.15",
+  "number": "10.2.15",
   "title": "",
   "body": "  Patriot State Inner Bottom   MARAD   "
 }
