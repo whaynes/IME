@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="9CEE092B-52A4-40FD-A463-60A47C53A797" Version="2.0" Creator="SCRMAC-3.3.1-15588" Device="whaynes-fireball-2" Author="" Modified="2023-09-20 10:26:44 -0400" ModID="CA4014D0-E835-44E6-9619-66B76A3C8343">
+<ScrivenerProject Identifier="9CEE092B-52A4-40FD-A463-60A47C53A797" Version="2.0" Creator="SCRMAC-3.3.1-15588" Device="whaynes-fireball-2" Author="" Modified="2023-09-21 10:37:04 -0400" ModID="EBA30344-49A5-4E42-815A-575F19E71740">
     <Binder>
         <BinderItem UUID="7A583553-3A84-40D6-B9B9-0430B8CD3E39" Type="DraftFolder" Created="2023-05-29 09:45:48 -0400" Modified="2023-05-29 09:45:48 -0400">
             <Title>Draft</Title>
@@ -5174,43 +5174,50 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="1DCD087C-C28B-445A-9C03-CA4FE4EDA4A8" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-09-20 10:26:44 -0400">
+                        <BinderItem UUID="1DCD087C-C28B-445A-9C03-CA4FE4EDA4A8" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-09-21 10:36:17 -0400">
                             <Title>Ship Description</Title>
+                            <MetaData>
+                                <SectionType>9D1ADC50-E7BB-4E40-BA04-CCA44927A08E</SectionType>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>957,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="43F1E991-B19E-4467-80F8-D856BE9C6D09" Type="Folder" Created="2023-09-21 10:36:15 -0400" Modified="2023-09-21 10:36:39 -0400">
+                            <Title>Principle Dimensions</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1856,0</TextSelection>
+                                <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="A73D82A9-2636-4C25-8AF8-EAD7463BC86D" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-06-25 12:15:58 -0400">
+                        <BinderItem UUID="A73D82A9-2636-4C25-8AF8-EAD7463BC86D" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-09-21 10:34:54 -0400">
                             <Title>Chapter 14 - MMA Sea Term I</Title>
                             <MetaData>
                                 <SectionType>F2CC3694-551C-46A7-BFD9-B161A49072A7</SectionType>
-                                <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="10FE68A2-915A-4424-BD7A-79DE8ADE2813" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-06-25 12:15:58 -0400">
+                        <BinderItem UUID="10FE68A2-915A-4424-BD7A-79DE8ADE2813" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-09-21 10:34:57 -0400">
                             <Title>What to expect on the training cruise</Title>
                             <MetaData>
                                 <SectionType>F2CC3694-551C-46A7-BFD9-B161A49072A7</SectionType>
-                                <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="06451DEA-0CFA-43B9-8AB7-0AE9080DA80A" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-09-14 08:21:52 -0400">
+                        <BinderItem UUID="06451DEA-0CFA-43B9-8AB7-0AE9080DA80A" Type="Folder" Created="2023-05-31 15:03:02 -0400" Modified="2023-09-21 10:35:16 -0400">
                             <Title>System diagrams</Title>
                             <MetaData>
-                                <SectionType>7AF79F77-7E8C-44AC-96AE-BF3A8922D7D0</SectionType>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>3248,0</TextSelection>
+                                <TextSelection>2815,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -7953,14 +7960,14 @@
     </CustomMetaDataSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 08:24:39 -0400" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2023-09-21 01:00:00 -0400" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="-43" Characters="-442" Date="2023-09-20 08:28:42 -0400"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2023-09-22 01:00:00 -0400" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="160" Characters="1563" Date="2023-09-21 10:34:22 -0400"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2023-09-20 00:00:00 -0400">
-        <DraftWordCount>-43</DraftWordCount>
-        <DraftCharCount>-442</DraftCharCount>
-        <OtherWordCount>295</OtherWordCount>
-        <OtherCharCount>2387</OtherCharCount>
+    <RecentWritingHistory Date="2023-09-21 00:00:00 -0400">
+        <DraftWordCount>160</DraftWordCount>
+        <DraftCharCount>1563</DraftCharCount>
+        <OtherWordCount>0</OtherWordCount>
+        <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>

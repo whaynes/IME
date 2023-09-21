@@ -953,6 +953,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>43F1E991-B19E-4467-80F8-D856BE9C6D09</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>444039B3-4E72-4CD4-8334-8F271C46ACAE</key>
 		<dict>
 			<key>Row</key>
@@ -3288,7 +3293,7 @@
 	<key>mainDocumentEditor.rulerIsVisible</key>
 	<false/>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, 431.5}, {756, 588}}</string>
+	<string>{{0, 0}, {756, 556}}</string>
 	<key>mainDocumentEditor.selectedRanges</key>
 	<string>{0, 0}</string>
 	<key>mainDocumentEditor.textEditorState</key>
