@@ -1423,6 +1423,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>6CEB1B86-3279-4C57-8136-6BB55BC4744A</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>6D1AC369-5549-4029-B3A9-C6D9E02DDB2C</key>
 		<dict>
 			<key>Row</key>
@@ -2738,6 +2743,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>D8FAD731-943C-4610-AEAA-6E5875824BCE</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>D93F8387-A861-46C6-84AB-8DEC1563F84A</key>
 		<dict>
 			<key>Row</key>
@@ -3304,7 +3314,7 @@
 	<key>mainDocumentEditor.textMode</key>
 	<integer>0</integer>
 	<key>mainWindowFrame</key>
-	<string>88 480 1512 702 0 0 2240 1235 </string>
+	<string>351 445 1512 702 0 0 2240 1235 </string>
 	<key>projectStatsSheet</key>
 	<dict>
 		<key>excludeAnnots</key>

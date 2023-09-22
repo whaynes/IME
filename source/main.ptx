@@ -5114,6 +5114,12 @@ http://www.aukevisser.nl/supertankers/id317.htm" &gt;Jorgen Lonn.  </remix>
          <title>TS Patriot State</title>
          <introduction>
             <p>The <em>Patriot State II</em>  is the second of five National Security Multi-mission Vessels (NSMV) S5-ME-155a class vessels built for the U.S. Department of Transportation’s Maritime Administration (MARAD).  </p>
+            <figure xml:id="nsmv_rendering">
+               <caption> NSMV Rendering</caption>
+               <image source="pics/TSPS/nsmv_model.png" width="75%">
+                  <remix> https://www.maritime.dot.gov/sites/marad.dot.gov/files/images/NSMV%20Model%20V12_7_6%20Forward%20Port%20Cloudy.png </remix>
+               </image>
+            </figure>
             <p>The ship has dual missions:  its primary mission is to provide a modern platform for training future Merchant Marine Officers, additionally, she is also an available government resource to provide Humanitarian Assistance end Disaster Relief (HA/DR) where and when needed.</p>
             <p>The NSMVs are passenger-type vessel with capacity for on-deck cargo and container stowage as well as a ramp for roll-on roll-off (RORO) cargo.  </p>
             <p>Accommodation for 600 cadets and 100 officers and crew are located over the forward and midships portions of the vessel.  60 additional berths are available for HA/DR missions by doubling up single-occupancy staterooms.</p>
@@ -5217,10 +5223,9 @@ http://www.aukevisser.nl/supertankers/id317.htm" &gt;Jorgen Lonn.  </remix>
                   </row>
                </tabular>
             </table>
-            <p>Construction History:  design started, keel laid, ship launched, ship delivered, first cruise,$300 million cost, Philly shipyard, TOTE services.</p>
          </section>
-         <section xml:id="TSPS-system-diagrams">
-            <title>System diagrams</title>
+         <section xml:id="TSPS-deck-plans">
+            <title>Deck Plans</title>
             <figure xml:id="fig_waterline_profile" landscape="yes">
                <caption>
                   <em>Patriot State</em>  Waterline Profile  </caption>
@@ -5326,6 +5331,58 @@ http://www.aukevisser.nl/supertankers/id317.htm" &gt;Jorgen Lonn.  </remix>
                   <remix>   MARAD  </remix>
                </image>
             </figure>
+         </section>
+         <section xml:id="TSPS-main-engines">
+            <title>Main Engines</title>
+            <p>Turbocharged, 4-stroke, single acting, trunk piston, non-reversible, direct fuel injection</p>
+            <figure xml:id="main_engine_generator" landscape="yes">
+               <caption>Main Engine and Generator&#x2028;
+ </caption>
+               <image source="pics/TSPS/wabtec_engine_generator">
+                  <remix> DV651M001-R5-MAIN GENERATOR ENGINE.pdf </remix>
+               </image>
+            </figure>
+            <table xml:id="main_engine_info">
+               <title/>
+               <tabular>
+                  <row header="yes">
+                     <cell> Manufacturer </cell>
+                     <cell> GE Wabtec</cell>
+                  </row>
+                  <row>
+                     <cell>Model</cell>
+                     <cell>16 V250MDC</cell>
+                  </row>
+                  <row>
+                     <cell>Maximum Continuous Power  
+</cell>
+                     <cell> 4200 kW  (5632 hp) 
+</cell>
+                  </row>
+                  <row>
+                     <cell>Rated Speed</cell>
+                     <cell>900 rpm </cell>
+                  </row>
+                  <row>
+                     <cell>Arrangement and number of Cylinders </cell>
+                     <cell>V-16</cell>
+                  </row>
+                  <row>
+                     <cell> Bore</cell>
+                     <cell> 250 mm (9.8 in) 
+</cell>
+                  </row>
+                  <row>
+                     <cell>Stroke</cell>
+                     <cell> 320 mm (12.6 in) 
+</cell>
+                  </row>
+               </tabular>
+            </table>
+         </section>
+         <section xml:id="TSPS-ship-s-history">
+            <title>Ship's History</title>
+            <p>Construction History:  design started, keel laid, ship launched, ship delivered, first cruise,$300 million cost, Philly shipyard, TOTE services.</p>
          </section>
       </chapter>
    </book>

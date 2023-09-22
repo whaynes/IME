@@ -4227,8 +4227,6 @@ The feed pump is usually a turbine driven centrifugal pump, and the discharge pr
         </Document>
         <Document ID="72618669-6F5E-436C-BFD8-44D905BCED0B">
             <Title>Pipe Fittings</Title>
-            <Text>
-</Text>
         </Document>
         <Document ID="01CD0ECF-0FD0-4452-BEBA-C4A412EB148C">
             <Title>Overcurrent Protection</Title>
@@ -4966,13 +4964,13 @@ The 3-phase output of the exciter is directed through the hollow drive shaft to 
 &lt;/choices&gt;
 </Text>
         </Document>
-        <Document ID="3F770F4B-2E9C-45FE-91DC-1F0529095F9C">
-            <Title>Units </Title>
-        </Document>
         <Document ID="7DDC4A81-1688-448B-B569-94BE0B4D7B1E">
             <Title>Adapter fittings</Title>
             <Text>Concentric Reducer
 Eccentric Reducer</Text>
+        </Document>
+        <Document ID="3F770F4B-2E9C-45FE-91DC-1F0529095F9C">
+            <Title>Units </Title>
         </Document>
         <Document ID="4B3EA0D1-213B-44EC-920C-EF55A24530A7">
             <Title>Digital Multimeters</Title>
@@ -5577,7 +5575,8 @@ A gate valve, like a globe valve, is constructed in two basic parts, the body, a
         </Document>
         <Document ID="1A2F7258-4AA2-4E28-A18E-7B845D56975F">
             <Title>Combustion Engines</Title>
-            <Text>TBD</Text>
+            <Text>TBD
+</Text>
         </Document>
         <Document ID="D54597B2-D9CF-426A-ADD7-80FF26434B0F">
             <Title>Lubrication Systems</Title>
@@ -5601,6 +5600,13 @@ A steam powered rotary soot blower is shown in &lt;xref ref="sootblower_png"/&gt
         <Document ID="1DCD087C-C28B-445A-9C03-CA4FE4EDA4A8">
             <Title>Ship Description</Title>
             <Text>The Patriot State II  is the second of five National Security Multi-mission Vessels (NSMV) S5-ME-155a class vessels built for the U.S. Department of Transportation’s Maritime Administration (MARAD).  
+
+&lt;figure xml:id="nsmv_rendering"&gt;
+&lt;caption&gt; NSMV Rendering&lt;/caption&gt;
+&lt;image source="pics/TSPS/nsmv_model.png" width="75%"&gt;
+&lt;remix&gt;&lt;![CDATA[ https://www.maritime.dot.gov/sites/marad.dot.gov/files/images/NSMV%20Model%20V12_7_6%20Forward%20Port%20Cloudy.png ]]&gt;&lt;/remix&gt;
+&lt;/image&gt;
+&lt;/figure&gt;
 The ship has dual missions:  its primary mission is to provide a modern platform for training future Merchant Marine Officers, additionally, she is also an available government resource to provide Humanitarian Assistance end Disaster Relief (HA/DR) where and when needed.
 The NSMVs are passenger-type vessel with capacity for on-deck cargo and container stowage as well as a ramp for roll-on roll-off (RORO) cargo.  
 Accommodation for 600 cadets and 100 officers and crew are located over the forward and midships portions of the vessel.  60 additional berths are available for HA/DR missions by doubling up single-occupancy staterooms.
@@ -6474,21 +6480,21 @@ Most positive displacement pumps deliver liquid in slugs, with no delivery in be
 
 The choice of metal for pipes on ships depends on the specific needs of each application, regulatory requirements, and the balance between performance and cost. In critical systems, where corrosion resistance and reliability are paramount, higher-grade materials like stainless steel and nickel alloys are often preferred.</Text>
         </Document>
-        <Document ID="04A2B7DC-0FE6-47C8-B1CD-41CFA9714E15">
-            <Title>Frequency</Title>
-            <Text>Frequency (f) is defined as the number of times the polarity of an AC system reverses in one second. Period (T) is the length of time required to complete one cycle.  Period and frequency are inversely related. &lt;me&gt;T = 1/f&lt;/me&gt;.
-The unit of frequency is the Hertz (Hz), which is equal to 1 cycle/second (cps).
-Electrical power plants and household outlets commonly supply 60 Hz AC. In Europe and Japan, the standard is 50 Hz.
-</Text>
+        <Document ID="3B817287-3048-47FB-8395-4F566AA887AE">
+            <Title>EXPANSION JOINTS</Title>
+            <Text>Expansion joints are used in some piping systems to allow the piping to expand and contract with temperature changes, without damage to the piping. Two basic types of expansion joints are used in shipboard piping systems: sliding-type joints and flexing-type joints. Sliding-type expansion joints include sleeve joints, rotary joints, ball and socket joints, and joints made up of some combination of these types. The amount of axial and rotary motion that can be absorbed by any particular type</Text>
         </Document>
         <Document ID="B2790157-F0AE-4874-8784-E8DECE91A3C9">
             <Title>Fire and explosion risks</Title>
             <Text>Confined spaces may contain flammable substances, inadequate electrical systems, or potential ignition sources. This combination can result in the rapid escalation of fire or explosion hazards, especially in spaces with limited airflow and potential fuel accumulation.
 </Text>
         </Document>
-        <Document ID="3B817287-3048-47FB-8395-4F566AA887AE">
-            <Title>EXPANSION JOINTS</Title>
-            <Text>Expansion joints are used in some piping systems to allow the piping to expand and contract with temperature changes, without damage to the piping. Two basic types of expansion joints are used in shipboard piping systems: sliding-type joints and flexing-type joints. Sliding-type expansion joints include sleeve joints, rotary joints, ball and socket joints, and joints made up of some combination of these types. The amount of axial and rotary motion that can be absorbed by any particular type</Text>
+        <Document ID="04A2B7DC-0FE6-47C8-B1CD-41CFA9714E15">
+            <Title>Frequency</Title>
+            <Text>Frequency (f) is defined as the number of times the polarity of an AC system reverses in one second. Period (T) is the length of time required to complete one cycle.  Period and frequency are inversely related. &lt;me&gt;T = 1/f&lt;/me&gt;.
+The unit of frequency is the Hertz (Hz), which is equal to 1 cycle/second (cps).
+Electrical power plants and household outlets commonly supply 60 Hz AC. In Europe and Japan, the standard is 50 Hz.
+</Text>
         </Document>
         <Document ID="F4A92438-A5C0-44C6-A400-F1A19E8CF612">
             <Title>Safety Management</Title>
@@ -6608,25 +6614,6 @@ Steam temperature can be raised above the saturation temperature by adding addit
 This heating occurs in the superheater, which is a bank of boiler tubes located in the hottest portions of the combustion gas path. Since there is no liquid water in the superheater, all heat added there produces superheat.
 </Text>
         </Document>
-        <Document ID="79080DDA-035D-47A5-AB2C-9E793DC86E7C">
-            <Title>Series Circuit</Title>
-            <Text>In a series circuit, the components are connected in a single path, end-to-end, creating a sequential circuit. If one component fails or is disconnected, the entire circuit is broken, and the flow of current stops.
-
-&lt;figure xml:id="fig_series_resistors"&gt;
-
-&lt;caption&gt;  Three resistors in series  &lt;/caption&gt;
-&lt;image width="60%" source="pics/electricity/series_resistors"&gt;
-&lt;remix&gt;&lt;![CDATA[  Source:  whaynes CC0  ]]&gt;&lt;/remix&gt; &lt;/image&gt;
-&lt;/figure&gt;
-The key characteristics series circuits are: &lt;ul&gt;
-The same current flows through each series component.
-The total resistance is the sum of the individual resistances.
-The voltage drop across each component may be different, but the total voltage drop must equal the supply voltage.
- &lt;/ul&gt;&lt;/p&gt;
-
-
-</Text>
-        </Document>
         <Document ID="7E9BAC87-ED67-4745-8C58-63CA6F3D2CAA">
             <Title>Symbols</Title>
             <Text>&lt;p&gt;
@@ -6645,6 +6632,25 @@ The voltage drop across each component may be different, but the total voltage d
     &lt;image source="pics/electricity/symbols/potentiometer"/&gt;
     &lt;p&gt;Potentiometer    (3 contacts)&lt;/p&gt;
     &lt;/sidebyside&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;</Text>
+        </Document>
+        <Document ID="79080DDA-035D-47A5-AB2C-9E793DC86E7C">
+            <Title>Series Circuit</Title>
+            <Text>In a series circuit, the components are connected in a single path, end-to-end, creating a sequential circuit. If one component fails or is disconnected, the entire circuit is broken, and the flow of current stops.
+
+&lt;figure xml:id="fig_series_resistors"&gt;
+
+&lt;caption&gt;  Three resistors in series  &lt;/caption&gt;
+&lt;image width="60%" source="pics/electricity/series_resistors"&gt;
+&lt;remix&gt;&lt;![CDATA[  Source:  whaynes CC0  ]]&gt;&lt;/remix&gt; &lt;/image&gt;
+&lt;/figure&gt;
+The key characteristics series circuits are: &lt;ul&gt;
+The same current flows through each series component.
+The total resistance is the sum of the individual resistances.
+The voltage drop across each component may be different, but the total voltage drop must equal the supply voltage.
+ &lt;/ul&gt;&lt;/p&gt;
+
+
+</Text>
         </Document>
         <Document ID="BB6D173E-EDA4-4D95-81F0-FC613FB54FB4">
             <Title>Short Circuits</Title>
@@ -6823,8 +6829,6 @@ Once the maintenance or servicing is complete, the person who performed the LOTO
         </Document>
         <Document ID="86E448C7-AB0D-4824-9745-BF3635EA332E">
             <Title>Fundamental Concepts</Title>
-            <Text>
-</Text>
         </Document>
         <Document ID="2DE09976-2549-4D00-AA40-E20AE8F174BC">
             <Title>Electrical Safety</Title>
@@ -12852,6 +12856,58 @@ Cod: 50039409 | Rev: 09 | Date (m/a): 03/2023.
 The values shown are subject to change without prior notice. The information contained is reference values.
 +55 47 3276.4000 motores@weg.net
 Jaraguá do Sul - SC - Brazil
+</Text>
+        </Document>
+        <Document ID="6CEB1B86-3279-4C57-8136-6BB55BC4744A">
+            <Title>Main Engines</Title>
+            <Text>Turbocharged, 4-stroke, single acting, trunk piston, non-reversible, direct fuel injection
+
+&lt;figure xml:id="main_engine_generator" landscape="yes"&gt;
+&lt;caption&gt;Main Engine and Generator 
+ &lt;/caption&gt;
+&lt;image source="pics/TSPS/wabtec_engine_generator"&gt;
+&lt;remix&gt;&lt;![CDATA[ DV651M001-R5-MAIN GENERATOR ENGINE.pdf ]]&gt;&lt;/remix&gt;
+&lt;/image&gt;
+&lt;/figure&gt;
+ 
+&lt;table xml:id="main_engine_info"&gt;
+    &lt;title&gt;  &lt;/title&gt;
+    &lt;tabular&gt;
+        &lt;row header="yes"&gt;
+            &lt;cell&gt; Manufacturer &lt;/cell&gt;
+            &lt;cell&gt; GE Wabtec&lt;/cell&gt;
+        &lt;/row&gt;
+        &lt;row&gt;
+                &lt;cell&gt;Model&lt;/cell&gt;
+                &lt;cell&gt;16 V250MDC&lt;/cell&gt;
+        &lt;/row&gt;
+        &lt;row&gt;
+            &lt;cell&gt;Maximum Continuous Power  
+&lt;/cell&gt;
+            &lt;cell&gt; 4200 kW  (5632 hp) 
+&lt;/cell&gt;
+        &lt;/row&gt;
+        &lt;row&gt;
+            &lt;cell&gt;Rated Speed&lt;/cell&gt;
+            &lt;cell&gt;900 rpm &lt;/cell&gt;
+        &lt;/row&gt;
+
+        &lt;row&gt;
+            &lt;cell&gt;Arrangement and number of Cylinders &lt;/cell&gt;
+            &lt;cell&gt;V-16&lt;/cell&gt;
+        &lt;/row&gt;
+        &lt;row&gt;
+            &lt;cell&gt; Bore&lt;/cell&gt;
+            &lt;cell&gt; 250 mm (9.8 in) 
+&lt;/cell&gt;
+        &lt;/row&gt;
+        &lt;row&gt;
+            &lt;cell&gt;Stroke&lt;/cell&gt;
+            &lt;cell&gt; 320 mm (12.6 in) 
+&lt;/cell&gt;
+        &lt;/row&gt;
+    &lt;/tabular&gt;
+&lt;/table&gt;
 </Text>
         </Document>
         <Document ID="9C1CFB4A-2197-4E0C-863D-20DE31B9D9C4">
@@ -37461,36 +37517,6 @@ Offset butterfly valves seal tightly and have reasonable seat ring life up to ab
         <Document ID="6BF1DD9F-FC0F-4E60-8312-8BF30D0D909E">
             <Title>Slips, Trips and Falls</Title>
         </Document>
-        <Document ID="72D4196D-42F3-4061-B9FC-FB6466615E5A">
-            <Title>introduction</Title>
-            <Text>A  pump is a device used to increase the pressure and move &lt;em&gt;liquids&lt;/em&gt;, such as water or oil, or &lt;em&gt;slurries,&lt;/em&gt; which are mixtures of liquids and solids, through pipes. If a pump is used to move gases, it is usually referred to as a  fan,  compressor, or  blower. 
-The fluid inlet to the pump is called the suction. Fluid flows from the suction into the pump  chamber, and then out the pump  discharge. While the fluid is in the pump chamber, an external power source imparts energy to the fluid in order to: &lt;ul&gt;
- move the fluid from a lower to a higher level 
- move the fluid from a lower to a higher pressure 
- overcome fluid friction in the passages and pipelines 
-&lt;/ul&gt;&lt;/p&gt;
-Most of the energy from the external power source is transformed into usable fluid &lt;em&gt;pressure&lt;/em&gt;, which is a form of potential energy, or into &lt;em&gt;velocity&lt;/em&gt;, which increases the kinetic energy of the fluid. The remainder of the energy is absorbed by frictional losses in the pump and fluid passages, and shows up as heat. The fluid, now at a higher energy level, is led to the pump outlet called the discharge. 
-The external energy supplied to most pump shafts is in the form of torque, produced by electric motors, diesel or gas engines, or gas or steam turbines. Some pumps use a sliding, back-and-forth, external motion and are known as  reciprocating. Pressurized gas or liquid is used as an energy source to operate a  jet type pump. 
-The  capacity of a pump is the volume of fluid that the pump can move (under specific operating conditions) per unit of time and is usually expressed as &lt;q&gt;Gallons per Minute&lt;/q&gt; or &lt;q&gt;GPM&lt;/q&gt; for short. The pressure that a pump is capable of delivering is described as the pump  head, and will be discussed in the next section. 
-</Text>
-        </Document>
-        <Document ID="A990D340-8B32-4517-8774-146C3611D206">
-            <Title>Steam Propulsion</Title>
-        </Document>
-        <Document ID="D123EA5B-EEC1-4328-B0CA-4B336A3468D9">
-            <Title>introduction</Title>
-            <Text>Electrical power is the rate at which electrical energy is transferred or converted from one form to another in an electrical circuit. Electrical power can be converted to useful forms such as mechanical power, light, or  heat, with a suitable device such as a motor, lightbulb, or resistor. Electrical power is measured in watts (W) and is represented by the symbol P.  
-&lt;definition&gt;&lt;statement&gt;
-The watt (Unit symbol: W) is the unit of power the International System of Units (SI).  One watt is the power delivered when one ampere of current is pushed through an electric circuit by one volt of electromotive force, or equivalently 1 joule per second. 
-&lt;/statement&gt;&lt;/definition&gt;
-The watt is a relatively small quantity, so kilowatts (kW) and  megawatts (MW) are commonly used. One kW is equal to 1000 W, and one MW equals 1000 kW.
-To convert between SI and US customary power units, use these conversion factors: 
-&lt;md&gt;
-&lt;mrow&gt;1 \text{ hp} \amp= 746 \text{ W}  \amp \amp =  0.746 \text{ kW} &lt;/mrow&gt; 
-&lt;mrow&gt;1 \text{ kW}\amp =  1.340 \text{ hp} \amp \amp= 3412 \text{ Btu/hr}&lt;/mrow&gt; 
-&lt;/md&gt;&lt;/p&gt;
-</Text>
-        </Document>
         <Document ID="34174402-E8CE-448C-BAF6-E3AFDC7720FA">
             <Title>Types of Nipple</Title>
             <Text>A nipple is basically a pipe with male threads on each side to facilitate joining two pipes or fittings with similar female threads.
@@ -37528,6 +37554,36 @@ HOSE PIPE NIPPLE
 A Hose pipe nipple is designed with a male threaded connection on one end and a hose barb on the other end. These are normally used for piping systems that require a pipe to be connected to tubing.
 WELDING PIPE NIPPLE
 A welding pipe nipple has a male threaded connection on one end and a standard cut pipe on the other end. Once the unthreaded end is welded and connected, fitting a pipe to the threaded end becomes much easier. Welding pipe nipples are normally used in piping systems that require welding to connect components.
+</Text>
+        </Document>
+        <Document ID="72D4196D-42F3-4061-B9FC-FB6466615E5A">
+            <Title>introduction</Title>
+            <Text>A  pump is a device used to increase the pressure and move &lt;em&gt;liquids&lt;/em&gt;, such as water or oil, or &lt;em&gt;slurries,&lt;/em&gt; which are mixtures of liquids and solids, through pipes. If a pump is used to move gases, it is usually referred to as a  fan,  compressor, or  blower. 
+The fluid inlet to the pump is called the suction. Fluid flows from the suction into the pump  chamber, and then out the pump  discharge. While the fluid is in the pump chamber, an external power source imparts energy to the fluid in order to: &lt;ul&gt;
+ move the fluid from a lower to a higher level 
+ move the fluid from a lower to a higher pressure 
+ overcome fluid friction in the passages and pipelines 
+&lt;/ul&gt;&lt;/p&gt;
+Most of the energy from the external power source is transformed into usable fluid &lt;em&gt;pressure&lt;/em&gt;, which is a form of potential energy, or into &lt;em&gt;velocity&lt;/em&gt;, which increases the kinetic energy of the fluid. The remainder of the energy is absorbed by frictional losses in the pump and fluid passages, and shows up as heat. The fluid, now at a higher energy level, is led to the pump outlet called the discharge. 
+The external energy supplied to most pump shafts is in the form of torque, produced by electric motors, diesel or gas engines, or gas or steam turbines. Some pumps use a sliding, back-and-forth, external motion and are known as  reciprocating. Pressurized gas or liquid is used as an energy source to operate a  jet type pump. 
+The  capacity of a pump is the volume of fluid that the pump can move (under specific operating conditions) per unit of time and is usually expressed as &lt;q&gt;Gallons per Minute&lt;/q&gt; or &lt;q&gt;GPM&lt;/q&gt; for short. The pressure that a pump is capable of delivering is described as the pump  head, and will be discussed in the next section. 
+</Text>
+        </Document>
+        <Document ID="A990D340-8B32-4517-8774-146C3611D206">
+            <Title>Steam Propulsion</Title>
+        </Document>
+        <Document ID="D123EA5B-EEC1-4328-B0CA-4B336A3468D9">
+            <Title>introduction</Title>
+            <Text>Electrical power is the rate at which electrical energy is transferred or converted from one form to another in an electrical circuit. Electrical power can be converted to useful forms such as mechanical power, light, or  heat, with a suitable device such as a motor, lightbulb, or resistor. Electrical power is measured in watts (W) and is represented by the symbol P.  
+&lt;definition&gt;&lt;statement&gt;
+The watt (Unit symbol: W) is the unit of power the International System of Units (SI).  One watt is the power delivered when one ampere of current is pushed through an electric circuit by one volt of electromotive force, or equivalently 1 joule per second. 
+&lt;/statement&gt;&lt;/definition&gt;
+The watt is a relatively small quantity, so kilowatts (kW) and  megawatts (MW) are commonly used. One kW is equal to 1000 W, and one MW equals 1000 kW.
+To convert between SI and US customary power units, use these conversion factors: 
+&lt;md&gt;
+&lt;mrow&gt;1 \text{ hp} \amp= 746 \text{ W}  \amp \amp =  0.746 \text{ kW} &lt;/mrow&gt; 
+&lt;mrow&gt;1 \text{ kW}\amp =  1.340 \text{ hp} \amp \amp= 3412 \text{ Btu/hr}&lt;/mrow&gt; 
+&lt;/md&gt;&lt;/p&gt;
 </Text>
         </Document>
         <Document ID="68250206-0728-4659-A41B-FEEBEDA9A0A7">
@@ -37610,18 +37666,22 @@ Black iron pipe is an informal name for a mild-steel pipe that is used with thre
         <Document ID="741D4844-A2B7-4AEE-888A-1411BE28F995">
             <Title>Semiconductors</Title>
         </Document>
-        <Document ID="EF444405-9209-4695-892C-21AAA9F96164">
-            <Title>introduction</Title>
-            <Text>Mechanical hazards are a physical hazards associated with machines and other movable objects that may cause harm to a person.
-Injuries caused by mechanical hazards include friction or abrasion, lacerations, cutting, severing, pinching, crushing, or entanglement of body parts. Additionally, non-mechanical hazards such as chips, splashes, and sparks can injure you or others in the area.
-&lt;figure xml:id="machine-safety"&gt;
-&lt;caption&gt;Rotating Shaft Hazard Sign&lt;/caption&gt;
-&lt;image width="50%" source="pics/safety/machine-safety.jpeg"&gt;
-&lt;remix&gt;&lt;![CDATA[  Source: https://www.compliancesigns.com  ]]&gt;&lt;/remix&gt;
-&lt;/image&gt;
-&lt;/figure&gt;
+        <Document ID="A28BB40F-2DC1-4B6C-A05E-B923E2E4B10A">
+            <Title>Water level</Title>
+            <Text>Maintaining proper boiler water level in the steam drum is probably the most critical aspect of boiler operation. &lt;em&gt;High Water&lt;/em&gt; is harmful because it reduces the efficiency of the steam separators. More importantly, excessively high water will enter the dry pipe, pass through the superheater and enter the turbine – a condition known as &lt;em&gt;carryover&lt;/em&gt;. Carryover leads to dangerous &lt;em&gt;water hammer&lt;/em&gt; in the steam lines, scaling in the superheater, and will damage to turbine rotors and thrust bearings. &lt;em&gt;Low Water&lt;/em&gt; is perhaps even more harmful than high water. It the boiler water level falls too low, portions of the generating tubes will be uncovered and the furnace temperature will quickly overheat and weaken the boiler tubes, leading to catastrophic boiler damage, steam escape, and personnel injury. 
+The boiler is equipped with several means to observe the boiler water level. The simplest is the &lt;em&gt;boiler gage glass&lt;/em&gt;. This device is mounted on the steam drum and makes the water level in the drum directly visible in the same way that the glass on the side of a coffee urn works. The glass is mounted such that the normal operating level is in the center of the glass, and as long as the water level is visible in the glass, the boiler is safe, however the operator should never let the level get within two inches of the top or bottom of the gage glass. A visible water level in the gage glass is reassuring, but it may be a false level if the gage glass valves are closed or the lines are blocked. Periodically blowing down the gage glass will insure that it indicates accurately. The &lt;em&gt;remote level indicator&lt;/em&gt;, &lt;xref ref="waterlevel_png"/&gt;, is a water level sensor connected to a level display that can be mounted in any location, normally wherever convenient for the boiler operator. This device is also called the &lt;em&gt;eye-hi&lt;/em&gt; indicator. &lt;em&gt;High and Low Level Alarms&lt;/em&gt; are sensors which are used to trigger an alarm when the water reaches a critical level. Usually two sensors are provided, the first gives a warning signal when the level is about six inches above or below the normal water level, the second secures the fires if the level continues to rise or fall after the warning alarm. 
+&lt;important&gt;
+The boiler water level must be visible in the gage glass at all times. Any time the water level is not visible, either high or low, the boiler fires must be secured &lt;em&gt;immediately&lt;/em&gt;.
+&lt;/important&gt;
 
-Mechanical hazards can be managed by adopting safe work procedures and the application of appropriate safeguards. As such, you should always wear appropriate PPE, follow the machine’s operating instructions, and ensure that all machine safety features and guards are in place. Be aware that some machines may start automatically at any time, so take appropriate precautions including de-energizing and locking out machinery before working on it.
+&lt;figure xml:id="waterlevel_png"&gt;
+ &lt;caption&gt;Gage Glass and Remote Level Indicator&lt;/caption&gt;
+ &lt;image source="pics/boilers/waterlevel.png" width="50%"/&gt;
+&lt;/figure&gt;
+The feed water regulator system is designed to monitor and maintain the water level in the boiler automatically under all normal loads and operating conditions. The main feed pump takes a suction from the DC Heater, and discharges through the feedwater regulating valve, then into the economizer and the steam drum. The feedwater regulator contains a &lt;em&gt;drum level sensor&lt;/em&gt; which opens or closes the regulating valve in response to the drum water level. When the water level goes up, the regulating valve closes off to restrict the feed water to the drum and bring the level down, and vice versa. This drum level sensing regulator uses &lt;em&gt;feedback control&lt;/em&gt;, which means that is has a fairly slow response; the drum level must deviate from normal before the regulator can make a correction. To improve the regulator response, most feedwater regulator systems also include a steam flow sensor, which gives the regulator a predictive ability known as &lt;em&gt;feedforward control&lt;/em&gt;. As soon as the sensor detects a change in the steam flow, it can respond immediately with a corresponding change in the feedwater flow rate. Feedwater regulators containing both drum level and steam flow sensors are known as &lt;em&gt;two-element&lt;/em&gt; feedwater regulators. 
+The feed water regulator system uses compressed air from the &lt;em&gt;combustion control air system&lt;/em&gt; to actuate the feed water regulator valve and power the regulator. The watch engineer must carefully watch the control air system pressure, because problems there will quickly lead to problems with the boiler water level. If the control air compressor fails, one response would be to cross connect the &lt;em&gt;ship’s service air&lt;/em&gt; into the system. Complete loss of compressed air will cause the feedwater regulator valve to open wide. The operator then must adjust the feed water check valve manually to regulate the boiler drum level. 
+The discharge pressure of the feed pump plays a critical role in the proper operation of the feedwater regulator system. Naturally, the feed pump discharge pressure must be greater than the steam drum pressure at all times, or the feed water will not be able to flow into the boiler. Also, if the feed pump discharge pressure fluctuates, the regulator system will have a difficult time responding properly, so the feed pump is equipped with a &lt;em&gt;constant pressure governor&lt;/em&gt; which maintains a steady discharge pressure at all times, or an &lt;em&gt;excess pressure governor&lt;/em&gt;, which maintains a fixed pressure differential above the drum pressure. The watch engineer should keep a close eye on the feed pump discharge pressure, because changes here will quickly lead to problems with the steam drum level. A stand-by feed pump should always be maintained ready to start quickly if the operating pump has problems. 
+When operating, the boiler water level is subject to &lt;em&gt;shrink and swell&lt;/em&gt;. The specific volume of steam is dependent on the pressure of the surroundings; lower pressure steam takes up more space. When the main engine throttles are opened, the boiler pressure temporarily drops as the steam rushes to the turbine. This drop in pressure causes the steam bubbles remaining in the generating tubes to expand, forcing the water level in the drum to rise or &lt;em&gt;swell&lt;/em&gt;. When the throttles are closed the reverse happens; the boiler pressure increases quickly, and compresses the steam bubbles, causing the water level to &lt;em&gt;shrink&lt;/em&gt;. A properly adjusted two-element feed water regulator will respond properly to shrink and swell. For example, during swell conditions the drum level sensor sees high water and asks the regulating valve to close off, while at the same time, the steam flow sensor detects an increase in steam flow, and asks the regulating valve to open more. The two effects cancel each other out, and the regulating valve holds its position, which is the correct response, since the actual mass of water in the boiler really hasn’t changed. Later as the drum pressure recovers, the swell subsides and the steam flow signal remains, causing the regulator to open a bit more. Close observation of the feed water regulator during maneuvering will be valuable if you are ever called upon to regulate the boiler water level manually. 
 </Text>
         </Document>
         <Document ID="F7A4396C-5980-435E-BB5E-759E74FF1268">
@@ -37676,22 +37736,18 @@ The volt (unit symbol: V) is the unit of electromotive force in the Internationa
 Voltage in an electrical system is equivalent to pressure in a fluid system, and just as a pump generates fluid pressure, voltage must be generated somehow.  There are several methods to produce a voltage, including chemical reactions (such as in batteries) and the photovoltaic effect (as in solar cells); however, the most important method is electromagnetic induction.  Electromagnetic induction is the process where a changing magnetic field induces (creates) an electric voltage in a nearby conductor.   This phenomenon is the basis for generating electricity in devices like generators and transformers and it will be described in more detail in &lt;xref ref="topic-faradays-law"/&gt;.
 A voltage source (power supply) such as a battery or generator is connected to the attached circuit at two points called the terminals. The voltage between the terminals will drive current flow from the positive terminal to the negative terminal.  The term polarity in typically refers to the orientation of the terminals. In simple terms, it indicates which terminal is positive and which is negative with respect to some reference point.</Text>
         </Document>
-        <Document ID="A28BB40F-2DC1-4B6C-A05E-B923E2E4B10A">
-            <Title>Water level</Title>
-            <Text>Maintaining proper boiler water level in the steam drum is probably the most critical aspect of boiler operation. &lt;em&gt;High Water&lt;/em&gt; is harmful because it reduces the efficiency of the steam separators. More importantly, excessively high water will enter the dry pipe, pass through the superheater and enter the turbine – a condition known as &lt;em&gt;carryover&lt;/em&gt;. Carryover leads to dangerous &lt;em&gt;water hammer&lt;/em&gt; in the steam lines, scaling in the superheater, and will damage to turbine rotors and thrust bearings. &lt;em&gt;Low Water&lt;/em&gt; is perhaps even more harmful than high water. It the boiler water level falls too low, portions of the generating tubes will be uncovered and the furnace temperature will quickly overheat and weaken the boiler tubes, leading to catastrophic boiler damage, steam escape, and personnel injury. 
-The boiler is equipped with several means to observe the boiler water level. The simplest is the &lt;em&gt;boiler gage glass&lt;/em&gt;. This device is mounted on the steam drum and makes the water level in the drum directly visible in the same way that the glass on the side of a coffee urn works. The glass is mounted such that the normal operating level is in the center of the glass, and as long as the water level is visible in the glass, the boiler is safe, however the operator should never let the level get within two inches of the top or bottom of the gage glass. A visible water level in the gage glass is reassuring, but it may be a false level if the gage glass valves are closed or the lines are blocked. Periodically blowing down the gage glass will insure that it indicates accurately. The &lt;em&gt;remote level indicator&lt;/em&gt;, &lt;xref ref="waterlevel_png"/&gt;, is a water level sensor connected to a level display that can be mounted in any location, normally wherever convenient for the boiler operator. This device is also called the &lt;em&gt;eye-hi&lt;/em&gt; indicator. &lt;em&gt;High and Low Level Alarms&lt;/em&gt; are sensors which are used to trigger an alarm when the water reaches a critical level. Usually two sensors are provided, the first gives a warning signal when the level is about six inches above or below the normal water level, the second secures the fires if the level continues to rise or fall after the warning alarm. 
-&lt;important&gt;
-The boiler water level must be visible in the gage glass at all times. Any time the water level is not visible, either high or low, the boiler fires must be secured &lt;em&gt;immediately&lt;/em&gt;.
-&lt;/important&gt;
-
-&lt;figure xml:id="waterlevel_png"&gt;
- &lt;caption&gt;Gage Glass and Remote Level Indicator&lt;/caption&gt;
- &lt;image source="pics/boilers/waterlevel.png" width="50%"/&gt;
+        <Document ID="EF444405-9209-4695-892C-21AAA9F96164">
+            <Title>introduction</Title>
+            <Text>Mechanical hazards are a physical hazards associated with machines and other movable objects that may cause harm to a person.
+Injuries caused by mechanical hazards include friction or abrasion, lacerations, cutting, severing, pinching, crushing, or entanglement of body parts. Additionally, non-mechanical hazards such as chips, splashes, and sparks can injure you or others in the area.
+&lt;figure xml:id="machine-safety"&gt;
+&lt;caption&gt;Rotating Shaft Hazard Sign&lt;/caption&gt;
+&lt;image width="50%" source="pics/safety/machine-safety.jpeg"&gt;
+&lt;remix&gt;&lt;![CDATA[  Source: https://www.compliancesigns.com  ]]&gt;&lt;/remix&gt;
+&lt;/image&gt;
 &lt;/figure&gt;
-The feed water regulator system is designed to monitor and maintain the water level in the boiler automatically under all normal loads and operating conditions. The main feed pump takes a suction from the DC Heater, and discharges through the feedwater regulating valve, then into the economizer and the steam drum. The feedwater regulator contains a &lt;em&gt;drum level sensor&lt;/em&gt; which opens or closes the regulating valve in response to the drum water level. When the water level goes up, the regulating valve closes off to restrict the feed water to the drum and bring the level down, and vice versa. This drum level sensing regulator uses &lt;em&gt;feedback control&lt;/em&gt;, which means that is has a fairly slow response; the drum level must deviate from normal before the regulator can make a correction. To improve the regulator response, most feedwater regulator systems also include a steam flow sensor, which gives the regulator a predictive ability known as &lt;em&gt;feedforward control&lt;/em&gt;. As soon as the sensor detects a change in the steam flow, it can respond immediately with a corresponding change in the feedwater flow rate. Feedwater regulators containing both drum level and steam flow sensors are known as &lt;em&gt;two-element&lt;/em&gt; feedwater regulators. 
-The feed water regulator system uses compressed air from the &lt;em&gt;combustion control air system&lt;/em&gt; to actuate the feed water regulator valve and power the regulator. The watch engineer must carefully watch the control air system pressure, because problems there will quickly lead to problems with the boiler water level. If the control air compressor fails, one response would be to cross connect the &lt;em&gt;ship’s service air&lt;/em&gt; into the system. Complete loss of compressed air will cause the feedwater regulator valve to open wide. The operator then must adjust the feed water check valve manually to regulate the boiler drum level. 
-The discharge pressure of the feed pump plays a critical role in the proper operation of the feedwater regulator system. Naturally, the feed pump discharge pressure must be greater than the steam drum pressure at all times, or the feed water will not be able to flow into the boiler. Also, if the feed pump discharge pressure fluctuates, the regulator system will have a difficult time responding properly, so the feed pump is equipped with a &lt;em&gt;constant pressure governor&lt;/em&gt; which maintains a steady discharge pressure at all times, or an &lt;em&gt;excess pressure governor&lt;/em&gt;, which maintains a fixed pressure differential above the drum pressure. The watch engineer should keep a close eye on the feed pump discharge pressure, because changes here will quickly lead to problems with the steam drum level. A stand-by feed pump should always be maintained ready to start quickly if the operating pump has problems. 
-When operating, the boiler water level is subject to &lt;em&gt;shrink and swell&lt;/em&gt;. The specific volume of steam is dependent on the pressure of the surroundings; lower pressure steam takes up more space. When the main engine throttles are opened, the boiler pressure temporarily drops as the steam rushes to the turbine. This drop in pressure causes the steam bubbles remaining in the generating tubes to expand, forcing the water level in the drum to rise or &lt;em&gt;swell&lt;/em&gt;. When the throttles are closed the reverse happens; the boiler pressure increases quickly, and compresses the steam bubbles, causing the water level to &lt;em&gt;shrink&lt;/em&gt;. A properly adjusted two-element feed water regulator will respond properly to shrink and swell. For example, during swell conditions the drum level sensor sees high water and asks the regulating valve to close off, while at the same time, the steam flow sensor detects an increase in steam flow, and asks the regulating valve to open more. The two effects cancel each other out, and the regulating valve holds its position, which is the correct response, since the actual mass of water in the boiler really hasn’t changed. Later as the drum pressure recovers, the swell subsides and the steam flow signal remains, causing the regulator to open a bit more. Close observation of the feed water regulator during maneuvering will be valuable if you are ever called upon to regulate the boiler water level manually. 
+
+Mechanical hazards can be managed by adopting safe work procedures and the application of appropriate safeguards. As such, you should always wear appropriate PPE, follow the machine’s operating instructions, and ensure that all machine safety features and guards are in place. Be aware that some machines may start automatically at any time, so take appropriate precautions including de-energizing and locking out machinery before working on it.
 </Text>
         </Document>
         <Document ID="D347E1E9-6B1E-4750-9042-BE535DD722E5">
@@ -38251,8 +38307,6 @@ Under the ISM Code, both the ship and the company have specific obligations to e
         </Document>
         <Document ID="EB2EC9AB-5C47-49A3-8A53-FD60DE94D62E">
             <Title>Introduction</Title>
-            <Text> 
-</Text>
         </Document>
         <Document ID="D834F2C8-6258-407B-8640-31D8FC8E875A">
             <Title>Rotary Pumps</Title>
@@ -38287,6 +38341,7 @@ The first few rows of tubes in the gas path are known as &lt;em&gt;Screen tubes&
 </Text>
         </Document>
         <Document ID="43F1E991-B19E-4467-80F8-D856BE9C6D09">
+            <Title>Principle Dimensions</Title>
             <Text>
 &lt;table xml:id="principle_dimensions"&gt;
     &lt;title&gt;Principle Dimensions&lt;/title&gt;
@@ -38382,10 +38437,7 @@ The first few rows of tubes in the gas path are known as &lt;em&gt;Screen tubes&
         &lt;/row&gt;
 
     &lt;/tabular&gt;
-&lt;/table&gt;
-
-Construction History:  design started, keel laid, ship launched, ship delivered, first cruise,$300 million cost, Philly shipyard, TOTE services.
-</Text>
+&lt;/table&gt;</Text>
         </Document>
         <Document ID="9829A605-54A2-4ECE-922F-B93594FDE50D">
             <Title>introduction</Title>
@@ -38666,7 +38718,6 @@ Long Nipple
 https://www.titanfittings.com/Articles.asp?ID=419</Text>
         </Document>
         <Document ID="06451DEA-0CFA-43B9-8AB7-0AE9080DA80A">
-            <Title>System diagrams</Title>
             <Text>
 &lt;figure xml:id="fig_waterline_profile" landscape="yes"&gt;
 &lt;caption&gt; &lt;em&gt;Patriot State&lt;/em&gt;  Waterline Profile  &lt;/caption&gt;
@@ -40364,8 +40415,6 @@ Faulty parallel operation
         </Document>
         <Document ID="89C89468-D5D1-411E-B857-BF9A811A72E1">
             <Title>Electrical Components</Title>
-            <Text>
-</Text>
         </Document>
         <Document ID="EBF1A7D8-6AD5-456F-A327-9D65B14B7AE7">
             <Title>Functions of the AVR</Title>
@@ -40452,15 +40501,15 @@ OSHA has established regulations for safety shoe design, including impact and co
 &lt;/sidebyside&gt;
 &lt;/figure&gt;</Text>
         </Document>
-        <Document ID="F0479944-632E-496F-A63B-9C4D615810F7">
-            <Title>What is electricity?</Title>
+        <Document ID="BB29652D-F6D9-43F3-A1A3-7E1534017504">
             <Text>
 
 
-The density of the atoms in copper wire is such that the valence orbits of the individual atoms overlap, causing the electrons to move easily from one atom to the next. Free electrons can drift from one orbit to another in a random direction. When a potential difference is applied, the direction of their movement is controlled. The strength of the potential difference applied at each end of the wire determines how many electrons change from a random motion to a more directional path through the wire. The movement or flow of these electrons is called electron current flow or just current. 
-To produce current, the electrons must be moved by a potential difference. The symbol for current is (I). The basic measurement for current is the ampere (A). One ampere of current is defined as the movement of one coulomb of charge past any given point of a conductor during one second of time. 
-If a copper wire is placed between two charged objects that have a potential difference, all of the negatively-charged free electrons will feel a force pushing them from the negative charge to the positive charge. This force opposite to the conventional direction of the electrostatic lines of force is shown in Figure 9. 
-Electron current, or amperage, is described as the movement of free electrons through a conductor. In electrical formulas, current is symbolized with a capital I, while in the laboratory or on schematic diagrams, it is common to use a capital A to indicate amps or amperage (amps). 
+1. **NPT (National Pipe Thread):**
+   - NPT is a widely used thread standard in the United States and Canada.
+   - There are two main types: NPT (Tapered) and NPTF (Dryseal).
+   - NPT threads are tapered, which helps create a seal by wedging the threads together as the fittings are tightened.
+   - NPTF threads have modified shapes to improve sealing without the need for thread sealants.
 </Text>
         </Document>
         <Document ID="02F110FD-2AA7-42D4-9063-A58B0636D282">
@@ -40471,15 +40520,15 @@ A typical application would be a boiler feedwater stop-check valve. The valve ca
 In some designs, a stop-check valve can be converted to a regular globe valve, which   eliminates the check function and allows the disk to be forced into the open position,   by reinstalling the disk nut or drilling a hole through the upper disk and valve stem   and inserting a pin to lock them together. 
 </Text>
         </Document>
-        <Document ID="BB29652D-F6D9-43F3-A1A3-7E1534017504">
+        <Document ID="F0479944-632E-496F-A63B-9C4D615810F7">
+            <Title>What is electricity?</Title>
             <Text>
 
 
-1. **NPT (National Pipe Thread):**
-   - NPT is a widely used thread standard in the United States and Canada.
-   - There are two main types: NPT (Tapered) and NPTF (Dryseal).
-   - NPT threads are tapered, which helps create a seal by wedging the threads together as the fittings are tightened.
-   - NPTF threads have modified shapes to improve sealing without the need for thread sealants.
+The density of the atoms in copper wire is such that the valence orbits of the individual atoms overlap, causing the electrons to move easily from one atom to the next. Free electrons can drift from one orbit to another in a random direction. When a potential difference is applied, the direction of their movement is controlled. The strength of the potential difference applied at each end of the wire determines how many electrons change from a random motion to a more directional path through the wire. The movement or flow of these electrons is called electron current flow or just current. 
+To produce current, the electrons must be moved by a potential difference. The symbol for current is (I). The basic measurement for current is the ampere (A). One ampere of current is defined as the movement of one coulomb of charge past any given point of a conductor during one second of time. 
+If a copper wire is placed between two charged objects that have a potential difference, all of the negatively-charged free electrons will feel a force pushing them from the negative charge to the positive charge. This force opposite to the conventional direction of the electrostatic lines of force is shown in Figure 9. 
+Electron current, or amperage, is described as the movement of free electrons through a conductor. In electrical formulas, current is symbolized with a capital I, while in the laboratory or on schematic diagrams, it is common to use a capital A to indicate amps or amperage (amps). 
 </Text>
         </Document>
         <Document ID="9E616309-8789-4680-BDFB-F857A5A393B8">
@@ -40669,6 +40718,11 @@ Because of the relatively low melting temperatures, neither method can be used f
         </Document>
         <Document ID="37EDAD9A-63E9-4F5E-A436-DE4520E3B622">
             <Title>Pipe and Tubes</Title>
+        </Document>
+        <Document ID="D8FAD731-943C-4610-AEAA-6E5875824BCE">
+            <Title>Ship's History</Title>
+            <Text>Construction History:  design started, keel laid, ship launched, ship delivered, first cruise,$300 million cost, Philly shipyard, TOTE services.
+</Text>
         </Document>
         <Document ID="899D8A2F-68AF-4464-B922-D8DE01CB5700">
             <Title>Stop Valves</Title>
@@ -41082,6 +41136,12 @@ Class C (Conductive) hard hats or caps, are designed to be light and comfortable
 Bump caps are less obtrusive than hard hats and are designed to provide comfortable, lightweight but they have limited protection against minor head bumps, knocks, and scrapes.  They in environments where there is a risk of hitting the head on objects such as low ceilings, beams, or equipment. They are not meant a substitute for a hard hat because they do not afford protection from high electrical shock, high impact forces, or penetration by falling objects, and they are not OSHA approved, so they can not be used in situations where a hard hat is required.
 </Text>
         </Document>
+        <Document ID="11DFBC74-B52D-4131-ACF2-19C96070ECAC">
+            <Title>Steam Pressure and Temperature</Title>
+            <Text>Steam pressure and temperature are important parameters to watch while the boiler is operating. Obviously, the purpose of the boiler is to produce steam at the correct pressure and temperature to be used by the main engine and auxiliary machinery. Under normal conditions these values are maintained by the combustion control system and should be relatively steady. A rising or falling steam value is a sure indication of an impending problem. You should carefully observe the normal operating range for the drum and superheater outlet pressures, and notify the engineer or take corrective action if these values deviate from normal. 
+High steam pressure, if left unchecked will lead to the superheater safety valves lifting. Properly designed and maintained safety valves are capable of relieving the entire boiler to prevent a boiler explosion, but they should never have to open on a properly operated boiler. Low steam pressure will cause a loss of power at the main engines and generators. Failure to respond will lead to electrical blackout of the ship and loss of propulsion power. Incorrect superheat temperature is less harmful than incorrect steam pressure, but you should still note it and correct it if possible. High and low superheat temperatures often indicates another problem with the boiler such as dirty burners, excess air, or incorrect feed temperatures. On ships with controlled superheat, the superheater temperature control system may be faulty. 
+</Text>
+        </Document>
         <Document ID="41F75C97-200E-432D-9AF8-DC35B1394AC8">
             <Title>Optic Fibre I/O Ethernet Network </Title>
             <Text>Optical Fibre I/O Ethernet Network 
@@ -41108,12 +41168,6 @@ This system provides communication between the port and starboard drives and the
 	•	Configuring the IP addresses of the different components of the propulsion system (PPC, PECe, remote I/O rack, etc). 
 	•	To download software to the PPC and PECe. 
 	•	To monitor the propulsion system using analytical tools.</Text>
-        </Document>
-        <Document ID="11DFBC74-B52D-4131-ACF2-19C96070ECAC">
-            <Title>Steam Pressure and Temperature</Title>
-            <Text>Steam pressure and temperature are important parameters to watch while the boiler is operating. Obviously, the purpose of the boiler is to produce steam at the correct pressure and temperature to be used by the main engine and auxiliary machinery. Under normal conditions these values are maintained by the combustion control system and should be relatively steady. A rising or falling steam value is a sure indication of an impending problem. You should carefully observe the normal operating range for the drum and superheater outlet pressures, and notify the engineer or take corrective action if these values deviate from normal. 
-High steam pressure, if left unchecked will lead to the superheater safety valves lifting. Properly designed and maintained safety valves are capable of relieving the entire boiler to prevent a boiler explosion, but they should never have to open on a properly operated boiler. Low steam pressure will cause a loss of power at the main engines and generators. Failure to respond will lead to electrical blackout of the ship and loss of propulsion power. Incorrect superheat temperature is less harmful than incorrect steam pressure, but you should still note it and correct it if possible. High and low superheat temperatures often indicates another problem with the boiler such as dirty burners, excess air, or incorrect feed temperatures. On ships with controlled superheat, the superheater temperature control system may be faulty. 
-</Text>
         </Document>
         <Document ID="93FFE8C7-2CC7-4A13-AA36-AF03BB078BE0">
             <Title>Drive Cabinets</Title>
@@ -41515,12 +41569,12 @@ Touch screen display. This display provides functionality to configure the drive
         <Document ID="9A588431-F7BD-483F-8AED-2EA5D8CAE96D">
             <Title>Mechanical Energy</Title>
         </Document>
+        <Document ID="987DD2D6-15FF-4F29-821C-001089999C76">
+            <Title>Length Measuring Instruments</Title>
+        </Document>
         <Document ID="15DD9E16-0336-459C-9F1A-2D7772CA3A94">
             <Title>Electrical Symbols</Title>
             <Text>TBD</Text>
-        </Document>
-        <Document ID="987DD2D6-15FF-4F29-821C-001089999C76">
-            <Title>Length Measuring Instruments</Title>
         </Document>
         <Document ID="6D559000-E18C-4772-9DB0-39FFDD9ECC77">
             <Title>Diodes</Title>
