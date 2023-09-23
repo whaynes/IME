@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="9CEE092B-52A4-40FD-A463-60A47C53A797" Version="2.0" Creator="SCRMAC-3.3.1-15588" Device="whaynes-fireball-2" Author="" Modified="2023-09-22 10:55:40 -0400" ModID="2E1845B9-06A1-49DB-9F71-EA85B5ABF74C">
+<ScrivenerProject Identifier="9CEE092B-52A4-40FD-A463-60A47C53A797" Version="2.0" Creator="SCRMAC-3.3.1-15588" Device="whaynes-MBP" Author="" Modified="2023-09-23 11:05:29 -0400" ModID="36CB3F2D-3702-4DDC-83FC-D5547A8FB4CB">
     <Binder>
         <BinderItem UUID="7A583553-3A84-40D6-B9B9-0430B8CD3E39" Type="DraftFolder" Created="2023-05-29 09:45:48 -0400" Modified="2023-05-29 09:45:48 -0400">
             <Title>Draft</Title>
@@ -12,7 +12,7 @@
                 </OutlinerExpandedState>
             </CorkboardAndOutliner>
             <Children>
-                <BinderItem UUID="96776348-B035-46DA-A5A5-210E99B93774" Type="Folder" Created="2023-05-29 09:45:48 -0400" Modified="2023-09-04 10:06:43 -0400">
+                <BinderItem UUID="96776348-B035-46DA-A5A5-210E99B93774" Type="Folder" Created="2023-05-29 09:45:48 -0400" Modified="2023-09-23 11:02:37 -0400">
                     <Title>Front Matter</Title>
                     <MetaData>
                         <SectionType>7AF79F77-7E8C-44AC-96AE-BF3A8922D7D0</SectionType>
@@ -20,7 +20,7 @@
                         <IconFileName>Front Matter</IconFileName>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>128,0</TextSelection>
+                        <TextSelection>313,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="9D380E83-3DCE-4B36-8F98-19DDADFDA2AB" Type="Folder" Created="2023-05-29 10:29:20 -0400" Modified="2023-06-04 13:45:10 -0400">
@@ -1197,7 +1197,7 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="D4B4D958-C454-4CB9-9B25-236E6D2BCA85" Type="Text" Created="2023-06-04 11:39:42 -0400" Modified="2023-06-05 20:04:29 -0400">
+                        <BinderItem UUID="D4B4D958-C454-4CB9-9B25-236E6D2BCA85" Type="Text" Created="2023-06-04 11:39:42 -0400" Modified="2023-09-23 11:05:29 -0400">
                             <Title>introduction</Title>
                             <MetaData>
                                 <SectionType>9D1ADC50-E7BB-4E40-BA04-CCA44927A08E</SectionType>
@@ -1210,7 +1210,7 @@
                                 </CustomMetaData>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,0</TextSelection>
+                                <TextSelection>613,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="DBFA52DC-1D9F-4D57-BD9D-86C083DCB06F" Type="Folder" Created="2023-06-04 11:39:42 -0400" Modified="2023-06-05 20:04:29 -0400">
@@ -5202,13 +5202,13 @@
                                 <TextSelection>2815,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="6CEB1B86-3279-4C57-8136-6BB55BC4744A" Type="Folder" Created="2023-09-22 10:21:11 -0400" Modified="2023-09-22 10:52:58 -0400">
+                        <BinderItem UUID="6CEB1B86-3279-4C57-8136-6BB55BC4744A" Type="Folder" Created="2023-09-22 10:21:11 -0400" Modified="2023-09-23 08:51:15 -0400">
                             <Title>Main Engines</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>182,0</TextSelection>
+                                <TextSelection>183,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="D8FAD731-943C-4610-AEAA-6E5875824BCE" Type="Folder" Created="2023-09-22 10:20:35 -0400" Modified="2023-09-22 10:21:11 -0400">
@@ -7978,14 +7978,14 @@
     </CustomMetaDataSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 08:24:39 -0400" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2023-09-23 01:00:00 -0400" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="153" Characters="1499" Date="2023-09-22 10:55:29 -0400"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2023-09-24 01:00:00 -0400" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="1" Characters="9" Date="2023-09-23 08:49:46 -0400"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2023-09-22 00:00:00 -0400">
-        <DraftWordCount>153</DraftWordCount>
-        <DraftCharCount>1499</DraftCharCount>
+    <RecentWritingHistory Date="2023-09-23 00:00:00 -0400">
+        <DraftWordCount>1</DraftWordCount>
+        <DraftCharCount>9</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
-    <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
+    <PrintSettings PaperSize="611.999972,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
