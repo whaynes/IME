@@ -7,7 +7,9 @@
 -->
 <project ptx-version="2">
   <targets>
-    <target name="web" format="html" xsl="weh-custom-html.xsl"/>
+    <target name="web" format="html" xsl="weh-custom-html.xsl">
+      <stringparams  html.css.extra="external/css/weh-ime.css"/>
+     </target>
     <target name="print" format="pdf"/>
     <target name="print-latex" format="latex"/>
   </targets>
