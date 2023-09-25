@@ -7,7 +7,7 @@ var ptx_lunr_docs = [
   "type": "Front Matter",
   "number": "",
   "title": "Front Matter",
-  "body": "   Engineering Departement  Engineering Department  Massachusetts Maritime Academy       "
+  "body": "   Massachusetts Maritime Academy  Engineering Department  Massachusetts Maritime Academy       "
 },
 {
   "id": "slips-trips-falls",
@@ -5704,7 +5704,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "10.3",
   "title": "Main Engines",
-  "body": " Main Engines  Turbocharged, 4-stroke, single acting, trunk piston, non-reversible, direct fuel injection   Main Engine and Generator    DV651M001-R5-MAIN GENERATOR ENGINE.pdf        Manufacturer  GE Wabtec    Model  16 V250MDC    Maximum Continuous Power  4200 kW (5632 hp)    Rated Speed  900 rpm    Arrangement and number of Cylinders  V-16    Bore  250 mm (9.8 in)    Stroke  320 mm (12.6 in)     "
+  "body": " Main Engines  Turbocharged, 4-stroke, single acting, trunk piston, non-reversible, direct fuel injection   Main Engine and Generator     DV651M001-R5-MAIN GENERATOR ENGINE.pdf        Manufacturer  GE Wabtec    Model  16 V250MDC    Maximum Continuous Power  4200 kW (5632 hp)    Rated Speed  900 rpm    Arrangement and number of Cylinders  V-16    Bore  250 mm (9.8 in)    Stroke  320 mm (12.6 in)     "
 },
 {
   "id": "main_engine_generator",
@@ -5713,7 +5713,7 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "10.3.1",
   "title": "",
-  "body": " Main Engine and Generator    DV651M001-R5-MAIN GENERATOR ENGINE.pdf   "
+  "body": " Main Engine and Generator     DV651M001-R5-MAIN GENERATOR ENGINE.pdf   "
 },
 {
   "id": "main_engine_info",
@@ -5739,6 +5739,7 @@ var ptx_lunr_idx = lunr(function () {
   this.ref('id')
   this.field('title')
   this.field('body')
+  this.metadataWhitelist = ['position']
 
   ptx_lunr_docs.forEach(function (doc) {
     this.add(doc)
