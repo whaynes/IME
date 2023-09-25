@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- intermediate copy. Process with scriv2ptx.xslt -->
-<pretext  xmlns:xi="http://www.w3.org/2001/XInclude">
-<xi:include href="docinfo.ptx"/>
-<book>
+<pretext>
+
+<docinfo>
+  <brandlogo url="https://www.maritime.edu" source="pics/mma_logo.svg"/>
+ <initialism>IME</initialism>
+</docinfo>
+
+<book xmlns:xi="http://www.w3.org/2001/XInclude">
 <title>Introduction to Marine Engineering</title>
 <frontmatter xml:id="frontmatter">
       <titlepage>
