@@ -8,7 +8,7 @@
 	<dict>
 		<key>2655DDF6-4AB8-42CB-A433-1CD76FC351D2</key>
 		<array>
-			<string>AFE975A0-A197-4686-AD42-99EBB39EBAEB</string>
+			<string>5883F49B-922A-44FC-9A12-8947AB5363F7</string>
 		</array>
 	</dict>
 	<key>CommentsScaleFactor</key>
@@ -16,7 +16,7 @@
 	<key>CommentsUseTextScale</key>
 	<true/>
 	<key>CompileFolder</key>
-	<string>/Users/whaynes/ptx/IME/source</string>
+	<string>/Users/whaynes/ptx/IME/source/ptx</string>
 	<key>NotesScaleFactor</key>
 	<real>1</real>
 	<key>QRPanelSettings</key>
@@ -287,6 +287,11 @@
 			<integer>-1</integer>
 		</dict>
 		<key>0FFA7F82-35BF-4C09-B837-057A3C66D1A7</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>1031EE7B-4AB3-46E4-9611-DDA92855C570</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -1374,6 +1379,11 @@
 			<integer>-1</integer>
 		</dict>
 		<key>68250206-0728-4659-A41B-FEEBEDA9A0A7</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>694CE6D3-CDCF-4432-97FF-437DC78F0544</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -2543,11 +2553,6 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
-		<key>C7917DAF-D2EF-486B-A9FB-0F19F72F2C33</key>
-		<dict>
-			<key>Row</key>
-			<integer>-1</integer>
-		</dict>
 		<key>C7F6C614-D9BD-41DB-AAA7-1F0E4DB56284</key>
 		<dict>
 			<key>Row</key>
@@ -2679,6 +2684,11 @@
 			<integer>-1</integer>
 		</dict>
 		<key>D347E1E9-6B1E-4750-9042-BE535DD722E5</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>D3A69991-48ED-4C86-B3FE-0D351BDF8FE5</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -3003,6 +3013,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>EBF4FFA7-4B5B-46EB-A03D-61131E7AF5C0</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>ED35AD9F-4804-45DC-A3FB-E650A2F0AB58</key>
 		<dict>
 			<key>Row</key>
@@ -3183,7 +3198,7 @@
 	<true/>
 	<key>collectionSelectionAutosaveName</key>
 	<array>
-		<integer>3</integer>
+		<integer>0</integer>
 	</array>
 	<key>collectionsHeight</key>
 	<real>118</real>
@@ -3314,7 +3329,7 @@
 	<key>mainDocumentEditor.textMode</key>
 	<integer>0</integer>
 	<key>mainWindowFrame</key>
-	<string>181 178 1512 702 0 0 1920 1055 </string>
+	<string>444 178 1512 702 0 0 1920 1055 </string>
 	<key>projectStatsSheet</key>
 	<dict>
 		<key>excludeAnnots</key>
@@ -3347,7 +3362,7 @@
 		<key>widths</key>
 		<dict>
 			<key>TITLE</key>
-			<real>200</real>
+			<real>480</real>
 		</dict>
 	</dict>
 	<key>selectedCollectionTabIndex</key>
