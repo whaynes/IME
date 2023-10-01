@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 101 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;">
+    <g transform="matrix(1,0,0,1,-130,-998)">
+        <g id="thermal_fuse" transform="matrix(1.0101,0,0,1.11111,-421.314,-255.333)">
+            <rect x="546" y="1128" width="99" height="90" style="fill:none;"/>
+            <clipPath id="_clip1">
+                <rect x="546" y="1128" width="99" height="90"/>
+            </clipPath>
+            <g clip-path="url(#_clip1)">
+                <g transform="matrix(0.313559,0,0,0.9,364.04,-922.561)">
+                    <g id="Fuse">
+                        <path d="M535,2328L654,2328C654,2321.76 670,2316.69 689.708,2316.69C709.415,2316.69 725.415,2321.76 725.415,2328C725.415,2334.24 741.415,2339.31 761.123,2339.31C780.83,2339.31 796.83,2334.24 796.83,2328L915.83,2328" style="fill:none;stroke:black;stroke-width:4.04px;"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

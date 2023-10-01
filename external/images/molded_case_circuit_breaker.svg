@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 101 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;">
+    <g transform="matrix(1,0,0,1,-256,-998)">
+        <g id="molded_case_circuit_breaker" transform="matrix(1.0101,0,0,1.11111,-295.415,-255.333)">
+            <rect x="546" y="1128" width="99" height="90" style="fill:none;"/>
+            <clipPath id="_clip1">
+                <rect x="546" y="1128" width="99" height="90"/>
+            </clipPath>
+            <g clip-path="url(#_clip1)">
+                <g transform="matrix(0.99,0,0,0.9,292.46,229.8)">
+                    <path d="M256.101,1048L356.101,1048" style="fill:none;stroke:black;stroke-width:3px;"/>
+                </g>
+                <g transform="matrix(0.99,0,0,0.9,6.14355,-642.35)">
+                    <g id="circuit-breaker" serif:id="circuit breaker">
+                        <g>
+                            <g transform="matrix(1,0,0,1,-230.501,273.379)">
+                                <path d="M806.501,1743.62L845,1743.62" style="fill:none;stroke:white;stroke-width:6.25px;stroke-linecap:butt;stroke-linejoin:miter;"/>
+                            </g>
+                            <g transform="matrix(1.66667,0,0,1.66667,-372.333,-1378)">
+                                <circle cx="569" cy="2037" r="3" style="fill:white;stroke:black;stroke-width:1.25px;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;"/>
+                            </g>
+                            <g transform="matrix(-1.66667,0,0,1.66667,1562.95,-1377.94)">
+                                <circle cx="569" cy="2037" r="3" style="fill:white;stroke:black;stroke-width:1.25px;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;"/>
+                            </g>
+                            <g transform="matrix(1.74789,0,0,1.74789,-425.24,-2115.45)">
+                                <path d="M573.813,2359.4C575.643,2355.61 579.519,2353 584,2353C588.47,2353 592.337,2355.6 594.173,2359.37" style="fill:none;stroke:black;stroke-width:1.72px;"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
