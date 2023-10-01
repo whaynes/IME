@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="diesel-power">
+   <title>Diesel Propulsion</title>
+   <section xml:id="diesel-power-combustion-engines">
+      <title>Combustion Engines</title>
+      <p>TBD</p>
+   </section>
+   <section xml:id="diesel-power-gas-vs--diesel-engines-and--otto-vs--diesel-cycle">
+      <title>Gas vs. Diesel Engines and  Otto vs. Diesel Cycle</title>
+      <p>TBD</p>
+   </section>
+   <section xml:id="diesel-power-engine-construction-and-components">
+      <title>Engine Construction and Components</title>
+      <p>TBD</p>
+   </section>
+   <section xml:id="diesel-power-two-stroke-vs--four-stroke">
+      <title>Two Stroke vs. Four Stroke</title>
+      <p>TBD</p>
+   </section>
+</chapter>

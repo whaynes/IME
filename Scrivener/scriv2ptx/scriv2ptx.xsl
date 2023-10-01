@@ -4,21 +4,30 @@
  <xsl:strip-space elements="*"/>
  <xsl:preserve-space elements="slate"/>
  <xsl:template match="chapter | backmatter | frontmatter">
-  <!-- add chapters to book.xml all in one place and -->
+  <!-- add chapters to book.xml all in one place and
   <xsl:copy>
    <xsl:apply-templates select="@*"/>
    <xsl:apply-templates/>
-  </xsl:copy>
+  </xsl:copy> -->
+
   <!-- copy each chapter in source book.xml to its own file 
-    uncomment to produce individual chapter files
+    uncomment to produce individual chapter files-->
   <xsl:result-document href="{@xml:id}.ptx">
    <xsl:copy>
     <xsl:apply-templates select="@*"/>
     <xsl:apply-templates/>
    </xsl:copy>
-  </xsl:result-document>-->
+  </xsl:result-document>
  </xsl:template>
+<!--
+Same for docinfo, but xml:id is not valid there.-->
+  <xsl:template match="docinfo">
+  <xsl:result-document href="docinfo.ptx">
+    <xsl:copy-of select="."/>
+  </xsl:result-document>
+  </xsl:template>
   
+
  <!-- IdentityTransform -->
  <xsl:template match="node() | @*">
   <xsl:copy>

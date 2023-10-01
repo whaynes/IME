@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="auxiliary-systems">
+   <title>Auxiliary Systems</title>
+   <section xml:id="auxiliary-systems-lubrication-systems">
+      <title>Lubrication Systems</title>
+      <subsection xml:id="auxiliary-systems-requirements-of-a-lubrication-system">
+         <title>Requirements of a Lubrication System</title>
+         <p>TBD</p>
+      </subsection>
+      <subsection xml:id="auxiliary-systems-rotating-machinery">
+         <title>Rotating Machinery</title>
+         <p>TBD</p>
+      </subsection>
+      <subsection xml:id="auxiliary-systems-axial-and-radial-bearings">
+         <title>Axial and Radial Bearings</title>
+         <p>TBD</p>
+      </subsection>
+   </section>
+   <section xml:id="auxiliary-systems-fuel-oil-systems">
+      <title>Fuel oil Systems</title>
+      <p>TBD</p>
+   </section>
+   <section xml:id="auxiliary-systems-cooling-systems">
+      <title>Cooling Systems</title>
+      <p>TBD</p>
+   </section>
+   <section xml:id="refrigeration">
+      <title>Refrigeration</title>
+      <p>TBD</p>
+   </section>
+   <section xml:id="fresh-water">
+      <title>Fresh Water</title>
+      <p>TBD</p>
+   </section>
+   <section xml:id="sewage-treatment">
+      <title>Sewage Treatment</title>
+      <p>TBD</p>
+   </section>
+</chapter>

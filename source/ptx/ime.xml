@@ -4,6 +4,13 @@
 <xi:include href="docinfo.ptx"/>
 <book >
 <title>Introduction to Marine Engineering</title>
+<docinfo>
+ <brandlogo url="https://www.maritime.edu" source="images/mma_logo.svg"/>
+ <initialism>IME</initialism>
+ <html>
+  <favicon/>
+ </html>
+</docinfo>
 <frontmatter xml:id="frontmatter">
       <titlepage>
         <author>
