@@ -1167,12 +1167,12 @@ death is likely.</p>  </cell></row>
 <chapter xml:id="electricity"> 
 <title>Introduction to Electricity</title>
 <objectives>
-<ul><li><url href="/>stcw/2023/tables/31.html#OICEW-B2.4" visual="OICEW-B2.4"/> Construction of electrical testing and measuring equipment</li>
-<li><url href="/>stcw/2023/tables/31.html#OICEW-B2.4" visual="OICEW-B2.4"/> Operation of electrical testing and measuring equipment</li>
-<li><url href="/>stcw/2023/tables/31.html#OICEW-B2.6" visual="OICEW-B2.6"/> The interpretation of electrical and simple electronic diagrams</li>
-<li><url href="/>stcw/2023/tables/31.html#OICEW-B1.1" visual="OICEW-B1.1"/> Basic configuration and operation principles of electrical generators</li>
-<li><url href="/>stcw/2023/tables/31.html#OICEW-B1.1" visual="OICEW-B1.1"/> Basic configuration and operation principles of electrical motors</li>
-<li><url href="/>stcw/2023/tables/31.html#OICEW-B1.1" visual="OICEW-B1.1"/> Basic configuration and operation principles of electrical distribution systems</li>
+<ul><li><url href="https://weh.maritime.edu/stcw/2023/tables/31.html#OICEW-B2.4" visual="OICEW-B2.4"/> Construction of electrical testing and measuring equipment</li>
+<li><url href="https://weh.maritime.edu/stcw/2023/tables/31.html#OICEW-B2.4" visual="OICEW-B2.4"/> Operation of electrical testing and measuring equipment</li>
+<li><url href="https://weh.maritime.edu/stcw/2023/tables/31.html#OICEW-B2.6" visual="OICEW-B2.6"/> The interpretation of electrical and simple electronic diagrams</li>
+<li><url href="https://weh.maritime.edu/stcw/2023/tables/31.html#OICEW-B1.1" visual="OICEW-B1.1"/> Basic configuration and operation principles of electrical generators</li>
+<li><url href="https://weh.maritime.edu/stcw/2023/tables/31.html#OICEW-B1.1" visual="OICEW-B1.1"/> Basic configuration and operation principles of electrical motors</li>
+<li><url href="https://weh.maritime.edu/stcw/2023/tables/31.html#OICEW-B1.1" visual="OICEW-B1.1"/> Basic configuration and operation principles of electrical distribution systems</li>
 </ul>
 </objectives>
 <introduction>
@@ -4456,7 +4456,7 @@ http://www.aukevisser.nl/supertankers/id317.htm" >Jorgen Lonn.  ]]></remix>
 <figure xml:id="avr_block_diagram">
 
 <caption>Simplified Block Diagram</caption>
-<image  source="images/avr_block_diagram">
+<image  source="images/AVR_block_diagram">
 <remix><![CDATA[   Source:  weh cc0    ]]></remix>
 </image>
 </figure>

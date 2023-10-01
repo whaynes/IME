@@ -142,7 +142,7 @@
                     <HistoryItem Type="BinderItems" ViewMode="Single">EF444405-9209-4695-892C-21AAA9F96164</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">876B48C6-C805-44BE-976A-EFA2B89E1640</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Scrivenings" ScriveningsSelection="0,0">5883F49B-922A-44FC-9A12-8947AB5363F7</HistoryItem>
-                    <HistoryItem Type="BinderItems" ViewMode="Scrivenings" ScriveningsSelection="167379,0">7A583553-3A84-40D6-B9B9-0430B8CD3E39</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Scrivenings" ScriveningsSelection="0,0">7A583553-3A84-40D6-B9B9-0430B8CD3E39</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Scrivenings" ScriveningsSelection="0,0">018B1F5D-7CBC-4DC2-8D11-5B5365194BE8</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">1095E012-8CC6-4444-94E9-E59DB68554D6</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">CA7F4D57-3E75-4CE8-AEC3-42E45DDEFBE6</HistoryItem>
@@ -224,7 +224,7 @@
                 <GroupsViewMode>Scrivenings</GroupsViewMode>
                 <CurrentViewMode>Single</CurrentViewMode>
                 <SelectionAffects>None</SelectionAffects>
-                <NavigationHistory CurrentIndex="-1"/>
+                <NavigationHistory CurrentIndex="0"/>
             </View>
             <Text>
                 <ShowRuler>Yes</ShowRuler>

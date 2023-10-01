@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="9CEE092B-52A4-40FD-A463-60A47C53A797" Version="2.0" Creator="SCRMAC-3.3.1-15588" Device="whaynes-MBP" Author="" Modified="2023-09-30 22:24:31 -0400" ModID="8D281376-96E0-4404-BCE7-7B11FB969926">
+<ScrivenerProject Identifier="9CEE092B-52A4-40FD-A463-60A47C53A797" Version="2.0" Creator="SCRMAC-3.3.1-15588" Device="whaynes-MBP" Author="" Modified="2023-10-01 10:16:10 -0400" ModID="1F2F2D12-4552-46F9-A7EA-95BA5AB0903A">
     <Binder>
         <BinderItem UUID="7A583553-3A84-40D6-B9B9-0430B8CD3E39" Type="DraftFolder" Created="2023-05-29 09:45:48 -0400" Modified="2023-05-29 09:45:48 -0400">
             <Title>Draft</Title>
@@ -46,7 +46,7 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>18,0</TextSelection>
+                                <TextSelection>11,35</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="4D0385E8-AA46-4DBB-AFE8-A6EE3ED9AF19" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-09-30 20:16:55 -0400">
@@ -1791,7 +1791,7 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="91C88055-59F1-44EF-AAC4-B62427C79102" Type="Text" Created="2023-08-15 12:06:19 -0400" Modified="2023-09-04 10:06:43 -0400">
+                        <BinderItem UUID="91C88055-59F1-44EF-AAC4-B62427C79102" Type="Text" Created="2023-08-15 12:06:19 -0400" Modified="2023-10-01 10:14:05 -0400">
                             <Title>objectives</Title>
                             <MetaData>
                                 <SectionType>BEB6ECD8-4CED-4BC3-88C4-382A387A971A</SectionType>
@@ -4818,7 +4818,7 @@
                                                 <TextSelection>0,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="C8CB47E4-1143-4EAC-88B1-8987921364EF" Type="Folder" Created="2023-06-19 20:12:10 -0400" Modified="2023-09-30 20:49:52 -0400">
+                                        <BinderItem UUID="C8CB47E4-1143-4EAC-88B1-8987921364EF" Type="Folder" Created="2023-06-19 20:12:10 -0400" Modified="2023-10-01 10:10:52 -0400">
                                             <Title>Voltage Regulator</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -7968,12 +7968,12 @@
     </CustomMetaDataSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 08:24:39 -0400" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2023-10-01 01:00:00 -0400" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="-404" Characters="-3207" Date="2023-09-30 21:43:56 -0400"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2023-10-02 01:00:00 -0400" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="12" Characters="138" Date="2023-10-01 10:16:07 -0400"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2023-09-30 00:00:00 -0400">
-        <DraftWordCount>-404</DraftWordCount>
-        <DraftCharCount>-3209</DraftCharCount>
+    <RecentWritingHistory Date="2023-10-01 00:00:00 -0400">
+        <DraftWordCount>12</DraftWordCount>
+        <DraftCharCount>138</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
