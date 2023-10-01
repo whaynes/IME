@@ -2631,14 +2631,9 @@
     <Layout>
         <DocumentPrefix><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
 <!-- intermediate copy. Process with scriv2ptx.xslt -->
-<pretext>
-
-<docinfo>
-  <brandlogo url="https://www.maritime.edu" source="images/mma_logo.svg"/>
- <initialism>IME</initialism>
-</docinfo>
-
-<book xmlns:xi="http://www.w3.org/2001/XInclude">
+<pretext xmlns:xi="http://www.w3.org/2001/XInclude">
+<xi:include href="docinfo.ptx"/>
+<book >
 <title><$projecttitle></title>
 ]]></DocumentPrefix>
         <DocumentSuffix><![CDATA[</book>
