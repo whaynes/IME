@@ -11,7 +11,22 @@
 <meta name="robots" content="noindex, nofollow">
 </head>
 <body class="ignore-math">
-<section class="paragraphs"><h2 class="heading"><span class="title">Three phase power.</span></h2> <div class="para">Large AC generators including those on the training ship generate <dfn class="terminology">three phase</dfn> power.  Three phase power consists of three identical alternating voltage waveforms 120 degrees out of phase with each other, as shown in <a href="" class="xref" data-knowl="./knowl/fig_three-phase.html" title="Figure 4.1.8">Figure 4.1.8</a>.</div> <figure class="figure figure-like"><div class="image-box" style="width: 75%; margin-left: 12.5%; margin-right: 12.5%;"><img src="external/pics/electricity/three-phase.svg" role="img" class="contained"></div>
-<figcaption><span class="type">Figure</span><span class="space"> </span><span class="codenumber">4.1.8<span class="period">.</span></span><span class="space"> </span>Three-Phase Voltages</figcaption></figure> <div class="para">Three-phase power is commonly used in industrial and commercial settings, as well as in larger residential complexes and power distribution networks. It’s well-suited for heavy machinery, motors, large-scale industrial processes, and high-power applications.</div> <div class="para">The three voltage sine waves can be separated and used individually to supply <dfn class="terminology">single phase</dfn> power for homes, small businesses, and some light commercial applications. It’s suitable for powering lighting, appliances, and smaller electric loads.</div></section><span class="incontext"><a href="electricity-sine-waves.html#paragraphs-24" class="internal">in-context</a></span>
+<section class="paragraphs"><h2 class="heading"><span class="title">AC Circuits.</span></h2> <div class="para">In AC circuits the power cannot be calculated as easily as DC power for two reasons.  First, the sinusoidal current and voltage are continuously changing, which means that the power is too.  Second, any reactive elements in the circuit shift the current out of phase with the voltage, as shown in <a href="" class="xref" data-knowl="./knowl/fig_phase_shift.html" title="Figure 4.1.10">Figure 4.1.10</a>.</div> <div class="para">The first issue is solved by using RMS average values for current, voltage and power, however simply applying <a href="" class="xref" data-knowl="./knowl/PEI.html" title="Equation 4.1.2">(4.1.2)</a> and multiplying the RMS voltage by the RMS current does not give the correct RMS power because of the second issue, the phase shift between the current and voltage waveforms.</div> <div class="para logical">
+<div class="para">The correct formula for calculating power in a single-phase AC circuit is</div>
+<div class="displaymath process-math">
+\begin{equation}
+P = E I \cos\theta\tag{4.1.4}
+\end{equation}
+</div>
+<div class="para">where:</div>
+<div class="displaymath process-math">
+\begin{align*}
+P \amp =  \text{Real electrical power (RMS, in watts)}\\
+I \amp =  \text{Current (RMS, in amperes)}\\
+V \amp = \text{Voltage (RMS, in volts)}\\
+\theta \amp = \text{phase angle between current and voltage}
+\end{align*}
+</div>
+</div> <div class="para">The <span class="process-math">\(\cos\theta\)</span> term is called the <dfn class="terminology">power factor</dfn>.  Angle <span class="process-math">\(\theta\)</span> is the amount of phase shift, and the power factor the power factor reduces the <dfn class="terminology">apparent power</dfn> <span class="process-math">\(S = EI\text{,}\)</span> to the true power value, sometimes called the <dfn class="terminology">real power</dfn>. The power factor gives an indication of how reactive elements affect the system.  Note that since the power factor is the <em class="emphasis">cosine</em> of  angle <span class="process-math">\(\theta\text{,}\)</span> its value is always between one and negative one.</div></section><span class="incontext"><a href="electricity-power.html#paragraphs-24" class="internal">in-context</a></span>
 </body>
 </html>
