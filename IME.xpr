@@ -261,51 +261,6 @@
                             </scenario>
                         </scenario-array>
                     </entry>
-                    <entry>
-                        <String>validation.scenario.associations</String>
-                        <scenarioAssociation-array>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>source/main.xml</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>2/internal/PreTeXt/Pretext.rnc</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>Validation_scenario</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioStorageLocations">
-                                    <list>
-                                        <Byte>2</Byte>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>source/book.xml</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>2/internal/PreTeXt/Pretext.rnc</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>Validation_scenario</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioStorageLocations">
-                                    <list>
-                                        <Byte>2</Byte>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                        </scenarioAssociation-array>
-                    </entry>
                 </serializableOrderedMap>
             </serialized>
         </options>
