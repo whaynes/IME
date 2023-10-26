@@ -4246,7 +4246,7 @@ http://www.aukevisser.nl/supertankers/id317.htm" >Jorgen Lonn.  ]]></remix>
 
 <section xml:id="ships-generators"><title>Generators</title>
 <introduction>
-<p>Four 4000 kW, 6600 volt, three-phase generators provide electrical power for propulsion and for all other normal ship’s requirements.  The generators are directly driven by 6-cylinder, 4-stroke, 4200 kW diesel engines.  Since the generators have eight poles, when driven at 900 rpm they produce 60 Hz AC  </p>
+<p>Four 4000 kW, 6600 volt, three-phase generators provide electrical power for propulsion and for all other normal ship’s requirements.  Each generator is directly driven by a 16-cylinder, 4-stroke, 4200 kW diesel engine.  Since the generators have eight poles, when driven at 900 rpm they produce 60 Hz AC.</p>
 <table xml:id="generator_specs" >
 <title>Main Generator Specifications</title><tabular>
             <col width="30%"/><col width="30%"/>
@@ -4260,7 +4260,7 @@ http://www.aukevisser.nl/supertankers/id317.htm" >Jorgen Lonn.  ]]></remix>
               <cell>Type</cell><cell>8 pole, cylindrical rotor, brushless, separately excited </cell>
             </row>
             <row>
-              <cell>Rated Output</cell><cell>5066.25vkVA / 4053kW</cell>
+              <cell>Rated Output</cell><cell>5066 kVA / 4053 kW</cell>
             </row>
             <row>
               <cell>Rated Voltage</cell><cell> 6.6 kV AC</cell>
@@ -4278,10 +4278,10 @@ http://www.aukevisser.nl/supertankers/id317.htm" >Jorgen Lonn.  ]]></remix>
               <cell>Power factor</cell><cell>0.8</cell>
             </row>
             <row>
-              <cell>Excitation voltage</cell><cell>60V DC</cell>
+              <cell>Excitation voltage</cell><cell>60 V DC</cell>
             </row>
             <row>
-              <cell>Excitation current</cell><cell>4A DC</cell>
+              <cell>Excitation current</cell><cell>4 A DC</cell>
             </row></tabular>
           </table>
 <p> </p></introduction>

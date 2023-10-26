@@ -4233,7 +4233,7 @@ The feed pump is usually a turbine driven centrifugal pump, and the discharge pr
         </Document>
         <Document ID="8A3A7534-AFA7-4AF9-86EE-6441D7A8AA55">
             <Title>Introducton</Title>
-            <Text>Four 4000 kW, 6600 volt, three-phase generators provide electrical power for propulsion and for all other normal ship’s requirements.  The generators are directly driven by 6-cylinder, 4-stroke, 4200 kW diesel engines.  Since the generators have eight poles, when driven at 900 rpm they produce 60 Hz AC  
+            <Text>Four 4000 kW, 6600 volt, three-phase generators provide electrical power for propulsion and for all other normal ship’s requirements.  Each generator is directly driven by a 16-cylinder, 4-stroke, 4200 kW diesel engine.  Since the generators have eight poles, when driven at 900 rpm they produce 60 Hz AC.
 &lt;table xml:id="generator_specs" &gt;
 &lt;title&gt;Main Generator Specifications&lt;/title&gt;&lt;tabular&gt;
             &lt;col width="30%"/&gt;&lt;col width="30%"/&gt;
@@ -4247,7 +4247,7 @@ The feed pump is usually a turbine driven centrifugal pump, and the discharge pr
               &lt;cell&gt;Type&lt;/cell&gt;&lt;cell&gt;8 pole, cylindrical rotor, brushless, separately excited &lt;/cell&gt;
             &lt;/row&gt;
             &lt;row&gt;
-              &lt;cell&gt;Rated Output&lt;/cell&gt;&lt;cell&gt;5066.25vkVA / 4053kW&lt;/cell&gt;
+              &lt;cell&gt;Rated Output&lt;/cell&gt;&lt;cell&gt;5066 kVA / 4053 kW&lt;/cell&gt;
             &lt;/row&gt;
             &lt;row&gt;
               &lt;cell&gt;Rated Voltage&lt;/cell&gt;&lt;cell&gt; 6.6 kV AC&lt;/cell&gt;
@@ -4265,10 +4265,10 @@ The feed pump is usually a turbine driven centrifugal pump, and the discharge pr
               &lt;cell&gt;Power factor&lt;/cell&gt;&lt;cell&gt;0.8&lt;/cell&gt;
             &lt;/row&gt;
             &lt;row&gt;
-              &lt;cell&gt;Excitation voltage&lt;/cell&gt;&lt;cell&gt;60V DC&lt;/cell&gt;
+              &lt;cell&gt;Excitation voltage&lt;/cell&gt;&lt;cell&gt;60 V DC&lt;/cell&gt;
             &lt;/row&gt;
             &lt;row&gt;
-              &lt;cell&gt;Excitation current&lt;/cell&gt;&lt;cell&gt;4A DC&lt;/cell&gt;
+              &lt;cell&gt;Excitation current&lt;/cell&gt;&lt;cell&gt;4 A DC&lt;/cell&gt;
             &lt;/row&gt;&lt;/tabular&gt;
           &lt;/table&gt;
  </Text>

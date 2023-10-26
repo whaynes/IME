@@ -4772,7 +4772,7 @@
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>405,38</TextSelection>
+                                        <TextSelection>1587,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="2B434DCB-9DEC-4D8D-9365-1C0EA714565A" Type="Folder" Created="2023-06-14 08:03:59 -0400" Modified="2023-09-30 20:49:52 -0400">
