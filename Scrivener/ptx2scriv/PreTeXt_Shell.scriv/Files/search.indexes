@@ -1,33 +1,153 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SearchIndexes Version="1.0">
     <Documents>
-        <Document ID="14564FEE-DCA9-42EB-BA3E-B26EF77AC466">
-            <Title>exercise</Title>
+        <Document ID="4E488D1D-9A77-4A18-9383-7DCD1B322961">
+            <Title>Recovered File-10</Title>
             <Text>&lt;statement&gt;
-   Improper boiler feedwater deaeration could be directly linked to ______. 
+   The boiler water level is normal, the main condenser hotwell level is normal, and
+            the DC heater shows a level 40% of full. You should ______. 
 &lt;/statement&gt;
 &lt;choices&gt;
    &lt;choice&gt;
       &lt;statement&gt;
-         operating with excessive condensate depression 
+         prime the condensate pump 
       &lt;/statement&gt;
    &lt;/choice&gt;
    &lt;choice&gt;
       &lt;statement&gt;
-         fluctuating deaerating feed tank level as a result of taking on makeup feed     too rapidly 
+         bypass the vent condenser 
       &lt;/statement&gt;
    &lt;/choice&gt;
    &lt;choice&gt;
       &lt;statement&gt;
-         fluctuating condensate pressure due to not maintaining proper hotwell level   
+         slow the main unit 
       &lt;/statement&gt;
    &lt;/choice&gt;
    &lt;choice&gt;
       &lt;statement&gt;
-         all of the above 
+         open the makeup feed vacuum drag line 
       &lt;/statement&gt;
    &lt;/choice&gt;
 &lt;/choices&gt;
+</Text>
+        </Document>
+        <Document ID="7333FE6D-AC3F-4590-8C02-8B72B91DBD9F">
+            <Title>Recovered File-1</Title>
+            <Text>&lt;statement&gt;
+   The cooling water supplied to the vent condenser in a DC heater is ______. 
+&lt;/statement&gt;
+&lt;choices&gt;
+   &lt;choice&gt;
+      &lt;statement&gt;
+         seawater 
+      &lt;/statement&gt;
+   &lt;/choice&gt;
+   &lt;choice&gt;
+      &lt;statement&gt;
+         fresh water 
+      &lt;/statement&gt;
+   &lt;/choice&gt;
+   &lt;choice&gt;
+      &lt;statement&gt;
+         potable water 
+      &lt;/statement&gt;
+   &lt;/choice&gt;
+   &lt;choice&gt;
+      &lt;statement&gt;
+         condensate 
+      &lt;/statement&gt;
+   &lt;/choice&gt;
+&lt;/choices&gt;
+</Text>
+        </Document>
+        <Document ID="BCB39C2D-3B74-4C1D-802A-FB2B34E3F2DD">
+            <Title>Recovered File-2</Title>
+            <Text>In this section you will find a brief description of the fluid flow paths through the
+          Deaerator, as well as some considerations for the watch engineer as he operates the unit. 
+
+   &lt;term&gt;Water Flow.&lt;/term&gt; The condensate enters the tank through the tubes of the vent
+          condenser at the top and is forced out through a number of stainless steel spray valves.
+          The spray valves discharge the condensate in a fine conical spray throughout the steam
+          filled upper preheater section of the tank. Most of the corrosive gases are removed here
+          before the water strikes steel surfaces. This hot and partially deaerated water along with
+          any condensed steam, drains down the conical baffle and into the deaerating unit, where it
+          is vigorously scrubbed and heated by the entering oxygen-free steam. The thoroughly
+          deaerated water then falls into the storage section in the bottom half of the tank. It
+          remains there until it is pumped to the boiler by the feed pump. 
+
+   &lt;term&gt;Steam Flow.&lt;/term&gt; Auxiliary Exhaust Steam is used as the heating medium for the DC
+          Heater. The pressure of the exhaust steam establishes pressure inside the DC Heater, and
+          the temperature is the corresponding saturation pressure. For example, a plant operating
+          with 33 psi auxiliary exhaust steam would produce feedwater at 270° F. A different exhaust
+          pressure would mean a correspondingly different temperature, which can be determined from
+          the saturated steam table. 
+Steam enters the deaerating unit through a check valve, and collides at high velocity
+          with the heated and partially deaerated water in the scrubber section where it picks up
+          the water and throws it tangentially outward through the curved baffles. In this process,
+          the water is thoroughly scrubbed by the new incoming steam. As the steam gives up heat to
+          the water most of it condenses. The condensate and condensed steam fall to a storage area,
+          while the uncondensed steam and air rise up to heat the water in the preheating section. 
+
+   &lt;term&gt;Air Flow.&lt;/term&gt; Air and non-condensibles liberated in the scrubber and preheater
+          sections, along with some entrained steam, rise up to the top of the DC Heater where they
+          pass over the relatively cool tubes of the vent condenser. Here, most of the remaining
+          steam is condensed and recovered. The remaining air and non-condensible gases accompanied
+          by a tiny wisp of steam are discharged from the vent condenser, either directly to the
+          atmosphere or to the gland exhaust condenser. 
+
+   &lt;term&gt;Flashing Feed Pump.&lt;/term&gt; The pressure in the shell of the DC Heater is the same as
+          the pressure of the auxiliary exhaust steam used to heat it. Since a mixture of steam and
+          water exists in the heater, the water temperature there will be approximately equal to the
+          saturation temperature of steam at that pressure. This is necessary to achieve good
+          deaeration, but it can lead to a problem. 
+The pressure at the suction of the feed pump depends on the pressure in the DC Heater
+          and the vertical distance between the pump and the DC Heater. But as the feedwater flows
+          to the feed pump, any slight pressure drop, for example caused by line friction or bends,
+          will reduce the feedwater pressure below its saturation pressure and cause it to flash to
+          steam. Since a centrifugal pump cannot pump a vapor, the feed pump will be unable to
+          deliver water to the boiler and may overspeed and trip off the line. To avoid this, in
+          merchant ships the DC Heater is always located high in the engine room and the feed pump
+          low. This maximizes the weight of the water in the feed line, which raises the pressure,
+          (technically the NPSH - &lt;em&gt;Net Positive Suction Head&lt;/em&gt;), at the inlet of the feed
+          pump. Every foot of head raises the water pressure by 0.433 psi, so a 45 foot difference
+          in elevations between the DC Heater and the feed pump causes the feed pressure at the
+          suction of the pump to be about 19 psi greater than the pressure in the DC Heater, which
+          is normally sufficient to prevent flashing. Operators must take care not to let the water
+          level in the DC Heater or the Auxiliary Exhaust Steam pressure fall too low, since both of
+          these problems may lead to feed pump flashing. 
+In naval ships, it is often impossible to locate the DC Heater high in the engine room
+          because of the compact design of the machinery spaces, so these plants are equipped with a
+            &lt;em&gt;feed booster pump&lt;/em&gt; between the DC Heater and the main feed pump. The booster
+          pump raises the pressure of the feedwater and maintains a constant pressure at the suction
+          of the feed pump to prevent flashing. 
+
+   &lt;term&gt;Make Up Feed (MUF).&lt;/term&gt; One of the functions of the DC Heater in the steam cycle
+          is to store water. Water is also stored in two other locations in the steam cycle, the
+          steam drum, and the main condenser hotwell. If the steam drum level and the hotwell level
+          are constant, as they normally should be, then as water is added to or lost by the steam
+          cycle, the level of the DC Heater will change. Because of leaks and losses in the system,
+          the DC Heater level will normally fall slowly during the course of the day, and must be
+          monitored by the watch officer. When the level falls, it is necessary to add &lt;em&gt;make-up
+            feed&lt;/em&gt; to replenish the system. 
+Make-up feed is stored in the make-up feed tanks or the reserve feed tanks and added to
+          the steam cycle by vacuum drag into one of the condensers. When the ship is at sea, the
+          main condenser is usually used. In port, with the main engine shut down, one of the
+          auxiliary condensers would be used instead. On modern ships, the control of the make-up
+          feed and the level in the DC Heater are maintained automatically, but it may be necessary
+          for the watch engineer to take over and add make-up feed manually if the regulator fails. 
+Occasionally the level in the DC Heater gets too high. This should not happen, but if it
+          does it must be lowered back to normal. The condensate system is fitted with a valve and
+          line which exits the steam cycle and starves the DC Heater of water. This line directs the
+          discharge of the condensate pump to a reserve feed tank, instead of the DC Heater, until
+          the level comes down. This is sometimes referred to as dumping the DC Heater or DC Heater
+          starvation. 
+When taking on make-up feed, you must take care not to introduce too much cold water
+          into the DC Heater too fast. If you do, you may overwhelm the ability of the auxiliary
+          exhaust steam line to supply enough steam to maintain the pressure in the DC Heater. All
+          of the entering steam will immediately condense, and the result will be a rapid drop in
+          the shell pressure of the DC Heater, which will lead to a drop in pressure at the suction
+          of the feed pump and possible flashing and overspeeding. This same problem can occur when
+          you use a condensate pump to pump out the hotwell of an idle condenser. 
 </Text>
         </Document>
         <Document ID="68F9DB8A-73A7-4E9C-9336-36748787D6CB">
@@ -47,68 +167,11 @@ no style
 raw pix
 </Text>
         </Document>
-        <Document ID="C28E0816-E8A2-4096-A206-134327E300F1">
-            <Title>exercise</Title>
+        <Document ID="35745E6F-E229-4602-BDFD-806560C060C8">
+            <Title>Recovered File-7</Title>
             <Text>&lt;statement&gt;
-   Under normal conditions, steam to the DC heater is supplied directly from which of   the systems listed? 
-&lt;/statement&gt;
-&lt;choices&gt;
-   &lt;choice&gt;
-      &lt;statement&gt;
-         Main steam 
-      &lt;/statement&gt;
-   &lt;/choice&gt;
-   &lt;choice&gt;
-      &lt;statement&gt;
-         psi auxiliary steam 
-      &lt;/statement&gt;
-   &lt;/choice&gt;
-   &lt;choice&gt;
-      &lt;statement&gt;
-         psi auxiliary steam 
-      &lt;/statement&gt;
-   &lt;/choice&gt;
-   &lt;choice&gt;
-      &lt;statement&gt;
-         Auxiliary exhaust steam 
-      &lt;/statement&gt;
-   &lt;/choice&gt;
-&lt;/choices&gt;
-</Text>
-        </Document>
-        <Document ID="A42E0131-402D-49BD-87B0-144BA2D3D89D">
-            <Title>exercise</Title>
-            <Text>&lt;statement&gt;
-   Which of the DC heater operations listed will result in excessive dissolved oxygen   in boiler water? 
-&lt;/statement&gt;
-&lt;choices&gt;
-   &lt;choice&gt;
-      &lt;statement&gt;
-         Excessively high water level in the heater. 
-      &lt;/statement&gt;
-   &lt;/choice&gt;
-   &lt;choice&gt;
-      &lt;statement&gt;
-         Conical baffles carrying away. 
-      &lt;/statement&gt;
-   &lt;/choice&gt;
-   &lt;choice&gt;
-      &lt;statement&gt;
-         Operating the heater with a closed air vent. 
-      &lt;/statement&gt;
-   &lt;/choice&gt;
-   &lt;choice&gt;
-      &lt;statement&gt;
-         All of the above. 
-      &lt;/statement&gt;
-   &lt;/choice&gt;
-&lt;/choices&gt;
-</Text>
-        </Document>
-        <Document ID="8E8BDF36-F9BF-41A3-91CA-9D20677E272B">
-            <Title>exercise</Title>
-            <Text>&lt;statement&gt;
-   Vent condensers are usually an integral part of deaerating feed heaters and serve   to condense ______. 
+   Vent condensers are usually an integral part of deaerating feed heaters and serve
+            to condense ______. 
 &lt;/statement&gt;
 &lt;choices&gt;
    &lt;choice&gt;
@@ -134,102 +197,71 @@ raw pix
 &lt;/choices&gt;
 </Text>
         </Document>
-        <Document ID="A2D8F53D-3228-47D7-BEFA-4388A661C885">
-            <Title>introduction</Title>
-            <Text>The DC Heater is the point in the steam cycle where condensate becomes feed water. It serves three important functions:  
-   &lt;term&gt;Deaeration.&lt;/term&gt; The primary function of the DC Heater is to remove dissolved gases (oxygen and free carbon dioxide) from the condensate and make-up water used for boiler feed. Removal of oxygen and free carbon dioxide protects piping and pumps, as well as boilers and condensate return lines from these corrosive gases.  
-   &lt;term&gt;Heating.&lt;/term&gt; The second function of the DC Heater is to heat the feedwater prior to returning it to the boiler. Thermodynamically, it is known as the regenerative second stage heater. Using the exhaust steam from steam powered auxiliaries to heat the DC Heater increases the overall plant efficiency and saves fuel.  
-   &lt;term&gt;Storage.&lt;/term&gt; Finally the DC Heater acts as a storage location for feedwater. It acts as a surge tank for the system, allowing fluctuations in the amount of water contained in the cycle to occur without upsetting the feed pump and feedwater regulators. 
-The DC Heater has several different names. We primarily refer to it as the DC Heater, which is short for Direct Contact Heater, since it uses direct contact between steam and water for heating, however it is also known as the &lt;em&gt;deaerating feed tank&lt;/em&gt;, the   &lt;em&gt;DFT&lt;/em&gt;, the &lt;em&gt;deaerator&lt;/em&gt;, and the &lt;em&gt;second stage heater&lt;/em&gt;. All these names refer to the same piece of equipment. 
-&lt;figure xml:id="dc_heater_png"&gt;
-   &lt;caption&gt;DC Heater&lt;/caption&gt;
-   &lt;image source="pics/dc_heater/dc_heater.png"/&gt;
-&lt;/figure&gt;
-</Text>
-        </Document>
-        <Document ID="4C43DB55-FD26-42A9-BCFC-5D8F57FE1391">
-            <Title>exercise</Title>
+        <Document ID="38A967F5-299C-4654-B949-73728EDDF2C1">
+            <Title>Recovered File-12</Title>
             <Text>&lt;statement&gt;
-   A high water level in a deaerating feed heater will cause the automatic dump valve   to drain condensate to the ______. 
+   Improper boiler feedwater deaeration could be directly linked to ______. 
 &lt;/statement&gt;
 &lt;choices&gt;
    &lt;choice&gt;
       &lt;statement&gt;
-         atmospheric drain tank 
+         operating with excessive condensate depression 
       &lt;/statement&gt;
    &lt;/choice&gt;
    &lt;choice&gt;
       &lt;statement&gt;
-         reserve feed tank 
+         fluctuating deaerating feed tank level as a result of taking on makeup feed
+              too rapidly 
       &lt;/statement&gt;
    &lt;/choice&gt;
    &lt;choice&gt;
       &lt;statement&gt;
-         auxiliary condenser 
+         fluctuating condensate pressure due to not maintaining proper hotwell level
+            
       &lt;/statement&gt;
    &lt;/choice&gt;
    &lt;choice&gt;
       &lt;statement&gt;
-         main condenser 
+         all of the above 
       &lt;/statement&gt;
    &lt;/choice&gt;
 &lt;/choices&gt;
 </Text>
         </Document>
-        <Document ID="A732AED4-FAE6-4707-AC84-7BDCB0D526F8">
-            <Title>Operation</Title>
-            <Text>In this section you will find a brief description of the fluid flow paths through the Deaerator, as well as some considerations for the watch engineer as he operates the unit.  
-   &lt;term&gt;Water Flow.&lt;/term&gt; The condensate enters the tank through the tubes of the vent condenser at the top and is forced out through a number of stainless steel spray valves. The spray valves discharge the condensate in a fine conical spray throughout the steam filled upper preheater section of the tank. Most of the corrosive gases are removed here before the water strikes steel surfaces. This hot and partially deaerated water along with any condensed steam, drains down the conical baffle and into the deaerating unit, where it is vigorously scrubbed and heated by the entering oxygen-free steam. The thoroughly deaerated water then falls into the storage section in the bottom half of the tank. It remains there until it is pumped to the boiler by the feed pump.  
-   &lt;term&gt;Steam Flow.&lt;/term&gt; Auxiliary Exhaust Steam is used as the heating medium for the DC Heater. The pressure of the exhaust steam establishes pressure inside the DC Heater, and the temperature is the corresponding saturation pressure. For example, a plant operating with 33 psi auxiliary exhaust steam would produce feedwater at 270° F. A different exhaust pressure would mean a correspondingly different temperature, which can be determined from the saturated steam table. 
-Steam enters the deaerating unit through a check valve, and collides at high velocity with the heated and partially deaerated water in the scrubber section where it picks up the water and throws it tangentially outward through the curved baffles. In this process, the water is thoroughly scrubbed by the new incoming steam. As the steam gives up heat to the water most of it condenses. The condensate and condensed steam fall to a storage area, while the uncondensed steam and air rise up to heat the water in the preheating section.  
-   &lt;term&gt;Air Flow.&lt;/term&gt; Air and non-condensibles liberated in the scrubber and preheater sections, along with some entrained steam, rise up to the top of the DC Heater where they pass over the relatively cool tubes of the vent condenser. Here, most of the remaining steam is condensed and recovered. The remaining air and non-condensible gases accompanied by a tiny wisp of steam are discharged from the vent condenser, either directly to the atmosphere or to the gland exhaust condenser.  
-   &lt;term&gt;Flashing Feed Pump.&lt;/term&gt; The pressure in the shell of the DC Heater is the same as the pressure of the auxiliary exhaust steam used to heat it. Since a mixture of steam and water exists in the heater, the water temperature there will be approximately equal to the saturation temperature of steam at that pressure. This is necessary to achieve good deaeration, but it can lead to a problem. 
-The pressure at the suction of the feed pump depends on the pressure in the DC Heater and the vertical distance between the pump and the DC Heater. But as the feedwater flows to the feed pump, any slight pressure drop, for example caused by line friction or bends, will reduce the feedwater pressure below its saturation pressure and cause it to flash to steam. Since a centrifugal pump cannot pump a vapor, the feed pump will be unable to deliver water to the boiler and may overspeed and trip off the line. To avoid this, in merchant ships the DC Heater is always located high in the engine room and the feed pump low. This maximizes the weight of the water in the feed line, which raises the pressure, (technically the NPSH - &lt;em&gt;Net Positive Suction Head&lt;/em&gt;), at the inlet of the feed pump. Every foot of head raises the water pressure by 0.433 psi, so a 45 foot difference in elevations between the DC Heater and the feed pump causes the feed pressure at the suction of the pump to be about 19 psi greater than the pressure in the DC Heater, which is normally sufficient to prevent flashing. Operators must take care not to let the water level in the DC Heater or the Auxiliary Exhaust Steam pressure fall too low, since both of these problems may lead to feed pump flashing. 
-In naval ships, it is often impossible to locate the DC Heater high in the engine room because of the compact design of the machinery spaces, so these plants are equipped with a   &lt;em&gt;feed booster pump&lt;/em&gt; between the DC Heater and the main feed pump. The booster pump raises the pressure of the feedwater and maintains a constant pressure at the suction of the feed pump to prevent flashing.  
-   &lt;term&gt;Make Up Feed (MUF).&lt;/term&gt; One of the functions of the DC Heater in the steam cycle is to store water. Water is also stored in two other locations in the steam cycle, the steam drum, and the main condenser hotwell. If the steam drum level and the hotwell level are constant, as they normally should be, then as water is added to or lost by the steam cycle, the level of the DC Heater will change. Because of leaks and losses in the system, the DC Heater level will normally fall slowly during the course of the day, and must be monitored by the watch officer. When the level falls, it is necessary to add &lt;em&gt;make-up   feed&lt;/em&gt; to replenish the system. 
-Make-up feed is stored in the make-up feed tanks or the reserve feed tanks and added to the steam cycle by vacuum drag into one of the condensers. When the ship is at sea, the main condenser is usually used. In port, with the main engine shut down, one of the auxiliary condensers would be used instead. On modern ships, the control of the make-up feed and the level in the DC Heater are maintained automatically, but it may be necessary for the watch engineer to take over and add make-up feed manually if the regulator fails. 
-Occasionally the level in the DC Heater gets too high. This should not happen, but if it does it must be lowered back to normal. The condensate system is fitted with a valve and line which exits the steam cycle and starves the DC Heater of water. This line directs the discharge of the condensate pump to a reserve feed tank, instead of the DC Heater, until the level comes down. This is sometimes referred to as dumping the DC Heater or DC Heater starvation. 
-When taking on make-up feed, you must take care not to introduce too much cold water into the DC Heater too fast. If you do, you may overwhelm the ability of the auxiliary exhaust steam line to supply enough steam to maintain the pressure in the DC Heater. All of the entering steam will immediately condense, and the result will be a rapid drop in the shell pressure of the DC Heater, which will lead to a drop in pressure at the suction of the feed pump and possible flashing and overspeeding. This same problem can occur when you use a condensate pump to pump out the hotwell of an idle condenser. 
-</Text>
-        </Document>
-        <Document ID="475FB97D-E404-4B23-8122-7B3EA5AA3D2E">
-            <Title>Description</Title>
-            <Text>A typical DC Heater is shown in &lt;xref ref="dc_heater_png"/&gt;. It consists of a large tank capable of holding several hundred gallons of water, with a condensate inlet connection fed from the main condensate pump, and an outlet to the main feed pump. Heating steam is supplied from the auxiliary exhaust system and there is a connection to discharge accumulated air and non-condensible gases. 
-Internally there are spray nozzles and baffles to insure that there is a thorough mixing of the water and steam to provide effective heating and deaeration. A vent condenser found at the very top of the heater is provided to remove the final traces of steam from the non-condensibles, and a strainer at the bottom prevents large objects from entering the feed pump. 
-Fixtures found on the outside of the DC Heater include: a gage glass, a pressure gage, a water level sensor, a relief valve, and a vacuum breaker. Inlet connections for high pressure drains and the feed pump recirculation line are also found there. The water gage glass permits direct observation of the water level in the heater, while the level sensor provides this same information to the eye-high indicator at the main operating station. It is this water level that we use to determine the amount of water contained in the steam cycle. 
-The DC Heater is a closed tank and is considered by the Coast Guard to be an unfired pressure vessel, so it must be equipped with a relief valve to protect it against bursting due to a high pressure developing inside. It is also equipped with a vacuum breaker that would allow air to enter the tank if a vacuum developed inside when the steam supply is secured. 
-&lt;blockquote&gt;
-   
-      &lt;term&gt;Deaeration, why and how?&lt;/term&gt;
-   
-   Water exposed to the atmosphere normally contains dissolved gases such as carbon   dioxide (CO_2) and oxygen (O_2) in solution. Even in the closed steam   cycle, gases can enter with with the make-up feed and through air leakage into the   condensers. When water is heated in the boiler, these dissolved gas molecules are   released and combine with water (H_2O) to form &lt;em&gt;carbonic acid&lt;/em&gt;,     (H_2CO_3). 
-   
-      &lt;me&gt;CO_2 + O_2 + H_2O \rightarrow H_2CO_3&lt;/me&gt;
-   
-   Carbonic acid corrodes and pits equipment and piping, and it also dissolves iron (Fe)   which results in scaling on the boiler and tubes, which can cause overheating and is   wasteful of energy. For these reasons, the removal of oxygen and carbon dioxide from   boiler feedwater is important for equipment longevity and safe operation. 
-   
-      &lt;em&gt;Deaeration&lt;/em&gt; is the term given to the removal of dissolved gases from feedwater,   and it can be accomplished mechanically or chemically. Aboard ship we use both methods:   mechanical deaeration in the DC Heater removes almost all the dissolved gases, and the   remainder are eliminated with chemical oxygen scavengers. 
-   
-      &lt;em&gt;Mechanical deaeration&lt;/em&gt; is based on the laws of physics. Thermodynamics shows   that the entropy of the free gas is greater than the entropy of the dissolved gas, so as   temperature increases, the solubility of the gases decreases. Henry’s law states that,   at a given temperature, the amount of gas dissolved in a liquid is directly proportional   to the partial pressure of the gas above the liquid. Simplified, this means that heating   the boiler feedwater drives out dissolved gases, and venting them away means they won’t   be reabsorbed. 
-   The best way to mechanically deaerate feedwater is to force steam into it, in a   process known as scrubbing. Scrubbing raises the water temperature causing the release   of O_2 and CO_2 gases which are then vented from the system. In boiler   systems, steam is used to &lt;q&gt;scrub&lt;/q&gt; the feedwater because steam is high temperature,   essentially devoid of O_2 and CO_2, and is readily available. 
-   There are three requirements for efficient scrubbing: First, you must heat the   feedwater to the boiling point which depends on the operating pressure. Raising the   temperature of the water lowers the solubility of the dissolved gases, and when the   temperature reaches the boiling point, the solubility goes to zero. Second, you must   break the water up into fine particles and agitate them with the steam. This increases   the surface area exposed to the steam, which enables the water to be heated to   saturation temperature quickly and reduces the distance the gases have to travel to be   liberated. Agitation helps the gas molecules escape the surface films surrounding the   water droplets. And finally, you must vent the liberated gases to allow their escape   from the system as they are released, and to maintain a low partial pressure surrounding   the droplets. 
-   
-      &lt;em&gt;Chemical deaeration&lt;/em&gt; can be used to remove the last traces of dissolved oxygen.   While the most efficient mechanical deaerators reduce oxygen to very low levels   (.005cc/l or 5 ppb), even trace amounts of oxygen may cause corrosion damage to a   system. Consequently, good operating practice requires the use of a chemical oxygen   scavenger such as sodium sulfite or hydrazine for complete deaeration. 
-   
-      &lt;em&gt;Hydrazine&lt;/em&gt;
-      (N_2H_4) is a colorless, mobile liquid with a week ammonia-like odor. When   maintained in the boiler water in concentrations between 0.1 and 0.3 ppm it will react   with oxygen to form water and nitrogen according to this chemical reaction: 
-   
-      &lt;me&gt;N_2H_4 + O_2 \rightarrow 2H_2O + N_2&lt;/me&gt;
-   
-   Excess hydrazine in a boiler breaks down to produce ammonia, which raises the pH of   the boiler water and provides some additional protection to the system by neutralizing   any carbon dioxide. 
-   Hydrazine should be handled with care since it is carcinogenic and causes eye, nose   and throat irritation and temporary blindness. It is recommended that when handling   liquid hydrazine, you should wear an apron or protective suit, chemical safety goggles   and/or face shield, and butyl rubber gloves and boots. Leather shoes should not be worn   when handling hydrazine since hydrazine cannot be removed from leather. If hydrazine   spills on leather shoes, remove and discard them immediately. 
-&lt;/blockquote&gt;
-</Text>
-        </Document>
-        <Document ID="14A17F4A-ED69-4830-83C2-2F854A013F03">
-            <Title>exercise</Title>
+        <Document ID="E1F57C83-8CC1-46A4-9C96-2C37C4055203">
+            <Title>Recovered File-9</Title>
             <Text>&lt;statement&gt;
-   During normal operation the steam flow from the auxiliary exhaust line to the DC   heater is a function of ______. 
+   Feedwater is deaerated to prevent ______. 
+&lt;/statement&gt;
+&lt;choices&gt;
+   &lt;choice&gt;
+      &lt;statement&gt;
+         cavitation in the feed pump 
+      &lt;/statement&gt;
+   &lt;/choice&gt;
+   &lt;choice&gt;
+      &lt;statement&gt;
+         corrosion in the boiler 
+      &lt;/statement&gt;
+   &lt;/choice&gt;
+   &lt;choice&gt;
+      &lt;statement&gt;
+         loss of system vacuum 
+      &lt;/statement&gt;
+   &lt;/choice&gt;
+   &lt;choice&gt;
+      &lt;statement&gt;
+         all of the above 
+      &lt;/statement&gt;
+   &lt;/choice&gt;
+&lt;/choices&gt;
+</Text>
+        </Document>
+        <Document ID="50AEA41E-04FB-494D-96B4-AFA745C2E820">
+            <Title>Recovered File-8</Title>
+            <Text>&lt;statement&gt;
+   During normal operation the steam flow from the auxiliary exhaust line to the DC
+            heater is a function of ______. 
 &lt;/statement&gt;
 &lt;choices&gt;
    &lt;choice&gt;
@@ -255,10 +287,254 @@ The DC Heater is a closed tank and is considered by the Coast Guard to be an unf
 &lt;/choices&gt;
 </Text>
         </Document>
-        <Document ID="7C30563C-A1C6-4FDA-8590-E38ED1EC62A9">
-            <Title>exercise</Title>
+        <Document ID="72FE0F15-CD1B-421D-8288-E7A3FE985BDA">
+            <Title>Recovered File-6</Title>
             <Text>&lt;statement&gt;
-   Discharging an excessive amount of cold water into the DC heater during normal   steaming conditions could cause ______. 
+   Which of the DC heater operations listed will result in excessive dissolved oxygen
+            in boiler water? 
+&lt;/statement&gt;
+&lt;choices&gt;
+   &lt;choice&gt;
+      &lt;statement&gt;
+         Excessively high water level in the heater. 
+      &lt;/statement&gt;
+   &lt;/choice&gt;
+   &lt;choice&gt;
+      &lt;statement&gt;
+         Conical baffles carrying away. 
+      &lt;/statement&gt;
+   &lt;/choice&gt;
+   &lt;choice&gt;
+      &lt;statement&gt;
+         Operating the heater with a closed air vent. 
+      &lt;/statement&gt;
+   &lt;/choice&gt;
+   &lt;choice&gt;
+      &lt;statement&gt;
+         All of the above. 
+      &lt;/statement&gt;
+   &lt;/choice&gt;
+&lt;/choices&gt;
+</Text>
+        </Document>
+        <Document ID="B0B3F967-065F-4BEA-854A-E10866355A2C">
+            <Title>Recovered File-11</Title>
+            <Text>&lt;statement&gt;
+   The DC Heater functions to ______. 
+&lt;/statement&gt;
+&lt;choices&gt;
+   &lt;choice&gt;
+      &lt;statement&gt;
+         store, heat, and deaerate feedwater 
+      &lt;/statement&gt;
+   &lt;/choice&gt;
+   &lt;choice&gt;
+      &lt;statement&gt;
+         chemically treat feedwater to remove carbonic gas 
+      &lt;/statement&gt;
+   &lt;/choice&gt;
+   &lt;choice&gt;
+      &lt;statement&gt;
+         ensure recirculation in the feedwater system 
+      &lt;/statement&gt;
+   &lt;/choice&gt;
+   &lt;choice&gt;
+      &lt;statement&gt;
+         remove the major amount of noncondensable gases from the main condenser 
+      &lt;/statement&gt;
+   &lt;/choice&gt;
+&lt;/choices&gt;
+</Text>
+        </Document>
+        <Document ID="DFD61DFB-CCC8-4299-BF15-6B4C83F8C0E1">
+            <Title>Recovered File-4</Title>
+            <Text>A typical DC Heater is shown in &lt;xref ref="dc_heater_png"/&gt;. It consists of a large tank
+          capable of holding several hundred gallons of water, with a condensate inlet connection
+          fed from the main condensate pump, and an outlet to the main feed pump. Heating steam is
+          supplied from the auxiliary exhaust system and there is a connection to discharge
+          accumulated air and non-condensible gases. 
+Internally there are spray nozzles and baffles to insure that there is a thorough mixing
+          of the water and steam to provide effective heating and deaeration. A vent condenser found
+          at the very top of the heater is provided to remove the final traces of steam from the
+          non-condensibles, and a strainer at the bottom prevents large objects from entering the
+          feed pump. 
+Fixtures found on the outside of the DC Heater include: a gage glass, a pressure gage, a
+          water level sensor, a relief valve, and a vacuum breaker. Inlet connections for high
+          pressure drains and the feed pump recirculation line are also found there. The water gage
+          glass permits direct observation of the water level in the heater, while the level sensor
+          provides this same information to the eye-high indicator at the main operating station. It
+          is this water level that we use to determine the amount of water contained in the steam
+          cycle. 
+The DC Heater is a closed tank and is considered by the Coast Guard to be an unfired
+          pressure vessel, so it must be equipped with a relief valve to protect it against bursting
+          due to a high pressure developing inside. It is also equipped with a vacuum breaker that
+          would allow air to enter the tank if a vacuum developed inside when the steam supply is
+          secured. 
+&lt;blockquote&gt;
+   
+      &lt;term&gt;Deaeration, why and how?&lt;/term&gt;
+   
+   Water exposed to the atmosphere normally contains dissolved gases such as carbon
+            dioxide (CO_2) and oxygen (O_2) in solution. Even in the closed steam
+            cycle, gases can enter with with the make-up feed and through air leakage into the
+            condensers. When water is heated in the boiler, these dissolved gas molecules are
+            released and combine with water (H_2O) to form &lt;em&gt;carbonic acid&lt;/em&gt;,
+              (H_2CO_3). 
+   
+      &lt;me&gt;CO_2 + O_2 + H_2O \rightarrow H_2CO_3&lt;/me&gt;
+   
+   Carbonic acid corrodes and pits equipment and piping, and it also dissolves iron (Fe)
+            which results in scaling on the boiler and tubes, which can cause overheating and is
+            wasteful of energy. For these reasons, the removal of oxygen and carbon dioxide from
+            boiler feedwater is important for equipment longevity and safe operation. 
+   
+      &lt;em&gt;Deaeration&lt;/em&gt; is the term given to the removal of dissolved gases from feedwater,
+            and it can be accomplished mechanically or chemically. Aboard ship we use both methods:
+            mechanical deaeration in the DC Heater removes almost all the dissolved gases, and the
+            remainder are eliminated with chemical oxygen scavengers. 
+   
+      &lt;em&gt;Mechanical deaeration&lt;/em&gt; is based on the laws of physics. Thermodynamics shows
+            that the entropy of the free gas is greater than the entropy of the dissolved gas, so as
+            temperature increases, the solubility of the gases decreases. Henry’s law states that,
+            at a given temperature, the amount of gas dissolved in a liquid is directly proportional
+            to the partial pressure of the gas above the liquid. Simplified, this means that heating
+            the boiler feedwater drives out dissolved gases, and venting them away means they won’t
+            be reabsorbed. 
+   The best way to mechanically deaerate feedwater is to force steam into it, in a
+            process known as scrubbing. Scrubbing raises the water temperature causing the release
+            of O_2 and CO_2 gases which are then vented from the system. In boiler
+            systems, steam is used to &lt;q&gt;scrub&lt;/q&gt; the feedwater because steam is high temperature,
+            essentially devoid of O_2 and CO_2, and is readily available. 
+   There are three requirements for efficient scrubbing: First, you must heat the
+            feedwater to the boiling point which depends on the operating pressure. Raising the
+            temperature of the water lowers the solubility of the dissolved gases, and when the
+            temperature reaches the boiling point, the solubility goes to zero. Second, you must
+            break the water up into fine particles and agitate them with the steam. This increases
+            the surface area exposed to the steam, which enables the water to be heated to
+            saturation temperature quickly and reduces the distance the gases have to travel to be
+            liberated. Agitation helps the gas molecules escape the surface films surrounding the
+            water droplets. And finally, you must vent the liberated gases to allow their escape
+            from the system as they are released, and to maintain a low partial pressure surrounding
+            the droplets. 
+   
+      &lt;em&gt;Chemical deaeration&lt;/em&gt; can be used to remove the last traces of dissolved oxygen.
+            While the most efficient mechanical deaerators reduce oxygen to very low levels
+            (.005cc/l or 5 ppb), even trace amounts of oxygen may cause corrosion damage to a
+            system. Consequently, good operating practice requires the use of a chemical oxygen
+            scavenger such as sodium sulfite or hydrazine for complete deaeration. 
+   
+      &lt;em&gt;Hydrazine&lt;/em&gt;
+      (N_2H_4) is a colorless, mobile liquid with a week ammonia-like odor. When
+            maintained in the boiler water in concentrations between 0.1 and 0.3 ppm it will react
+            with oxygen to form water and nitrogen according to this chemical reaction: 
+   
+      &lt;me&gt;N_2H_4 + O_2 \rightarrow 2H_2O + N_2&lt;/me&gt;
+   
+   Excess hydrazine in a boiler breaks down to produce ammonia, which raises the pH of
+            the boiler water and provides some additional protection to the system by neutralizing
+            any carbon dioxide. 
+   Hydrazine should be handled with care since it is carcinogenic and causes eye, nose
+            and throat irritation and temporary blindness. It is recommended that when handling
+            liquid hydrazine, you should wear an apron or protective suit, chemical safety goggles
+            and/or face shield, and butyl rubber gloves and boots. Leather shoes should not be worn
+            when handling hydrazine since hydrazine cannot be removed from leather. If hydrazine
+            spills on leather shoes, remove and discard them immediately. 
+&lt;/blockquote&gt;
+</Text>
+        </Document>
+        <Document ID="69C2B881-D3D4-471F-8BA3-57612BA4B5FD">
+            <Title>Recovered File-14</Title>
+            <Text>The DC Heater is the point in the steam cycle where condensate becomes feed water. It
+          serves three important functions: 
+
+   &lt;term&gt;Deaeration.&lt;/term&gt; The primary function of the DC Heater is to remove dissolved
+          gases (oxygen and free carbon dioxide) from the condensate and make-up water used for
+          boiler feed. Removal of oxygen and free carbon dioxide protects piping and pumps, as well
+          as boilers and condensate return lines from these corrosive gases. 
+
+   &lt;term&gt;Heating.&lt;/term&gt; The second function of the DC Heater is to heat the feedwater prior
+          to returning it to the boiler. Thermodynamically, it is known as the regenerative second
+          stage heater. Using the exhaust steam from steam powered auxiliaries to heat the DC Heater
+          increases the overall plant efficiency and saves fuel. 
+
+   &lt;term&gt;Storage.&lt;/term&gt; Finally the DC Heater acts as a storage location for feedwater. It
+          acts as a surge tank for the system, allowing fluctuations in the amount of water
+          contained in the cycle to occur without upsetting the feed pump and feedwater regulators. 
+The DC Heater has several different names. We primarily refer to it as the DC Heater,
+          which is short for Direct Contact Heater, since it uses direct contact between steam and
+          water for heating, however it is also known as the &lt;em&gt;deaerating feed tank&lt;/em&gt;, the
+            &lt;em&gt;DFT&lt;/em&gt;, the &lt;em&gt;deaerator&lt;/em&gt;, and the &lt;em&gt;second stage heater&lt;/em&gt;. All these
+          names refer to the same piece of equipment. 
+&lt;figure xml:id="dc_heater_png"&gt;
+   &lt;caption&gt;DC Heater&lt;/caption&gt;
+   &lt;image source="pics/dc_heater/dc_heater.png"/&gt;
+&lt;/figure&gt;
+</Text>
+        </Document>
+        <Document ID="B0E84637-61BE-4769-BF41-BC6172368122">
+            <Title>Recovered File-3</Title>
+            <Text>&lt;statement&gt;
+   If the DC heater relief valve lifts frequently, the cause can be excessive ______. 
+&lt;/statement&gt;
+&lt;choices&gt;
+   &lt;choice&gt;
+      &lt;statement&gt;
+         condensate supplied to the DC heater 
+      &lt;/statement&gt;
+   &lt;/choice&gt;
+   &lt;choice&gt;
+      &lt;statement&gt;
+         auxiliary exhaust steam pressure 
+      &lt;/statement&gt;
+   &lt;/choice&gt;
+   &lt;choice&gt;
+      &lt;statement&gt;
+         feedwater recirculated from the feed pump 
+      &lt;/statement&gt;
+   &lt;/choice&gt;
+   &lt;choice&gt;
+      &lt;statement&gt;
+         makeup feed introduced to the system 
+      &lt;/statement&gt;
+   &lt;/choice&gt;
+&lt;/choices&gt;
+</Text>
+        </Document>
+        <Document ID="4E81DBAE-3EC1-4CBB-A852-9BF0F0F03E13">
+            <Title>Recovered File-5</Title>
+            <Text>&lt;statement&gt;
+   A high water level in a deaerating feed heater will cause the automatic dump valve
+            to drain condensate to the ______. 
+&lt;/statement&gt;
+&lt;choices&gt;
+   &lt;choice&gt;
+      &lt;statement&gt;
+         atmospheric drain tank 
+      &lt;/statement&gt;
+   &lt;/choice&gt;
+   &lt;choice&gt;
+      &lt;statement&gt;
+         reserve feed tank 
+      &lt;/statement&gt;
+   &lt;/choice&gt;
+   &lt;choice&gt;
+      &lt;statement&gt;
+         auxiliary condenser 
+      &lt;/statement&gt;
+   &lt;/choice&gt;
+   &lt;choice&gt;
+      &lt;statement&gt;
+         main condenser 
+      &lt;/statement&gt;
+   &lt;/choice&gt;
+&lt;/choices&gt;
+</Text>
+        </Document>
+        <Document ID="1AFCEB24-2DDF-4E44-A589-351063049829">
+            <Title>Recovered File-13</Title>
+            <Text>&lt;statement&gt;
+   Discharging an excessive amount of cold water into the DC heater during normal
+            steaming conditions could cause ______. 
 &lt;/statement&gt;
 &lt;choices&gt;
    &lt;choice&gt;
@@ -284,30 +560,31 @@ The DC Heater is a closed tank and is considered by the Coast Guard to be an unf
 &lt;/choices&gt;
 </Text>
         </Document>
-        <Document ID="D16F4141-6BB2-41E3-84FE-B06EC093DDED">
-            <Title>exercise</Title>
+        <Document ID="4F85835B-5535-42BD-9370-2051321C2942">
+            <Title>Recovered File-15</Title>
             <Text>&lt;statement&gt;
-   The boiler water level is normal, the main condenser hotwell level is normal, and   the DC heater shows a level 40% of full. You should ______. 
+   Under normal conditions, steam to the DC heater is supplied directly from which of
+            the systems listed? 
 &lt;/statement&gt;
 &lt;choices&gt;
    &lt;choice&gt;
       &lt;statement&gt;
-         prime the condensate pump 
+         Main steam 
       &lt;/statement&gt;
    &lt;/choice&gt;
    &lt;choice&gt;
       &lt;statement&gt;
-         bypass the vent condenser 
+         psi auxiliary steam 
       &lt;/statement&gt;
    &lt;/choice&gt;
    &lt;choice&gt;
       &lt;statement&gt;
-         slow the main unit 
+         psi auxiliary steam 
       &lt;/statement&gt;
    &lt;/choice&gt;
    &lt;choice&gt;
       &lt;statement&gt;
-         open the makeup feed vacuum drag line 
+         Auxiliary exhaust steam 
       &lt;/statement&gt;
    &lt;/choice&gt;
 &lt;/choices&gt;

@@ -1,10 +1,10 @@
 <Children xmlns:fn="http://www.w3.org/2005/xpath-functions"
           xmlns:uuid="java:java.util.UUID"
           xmlns:xi="http://www.w3.org/2001/XInclude">
-   <BinderItem UUID="5B2FE13F-CFF5-446A-AD70-E1F80BF93689"
+   <BinderItem UUID="3B16EB09-2479-423D-888D-0B8F5991346F"
                Type="Folder"
                ptx=""
-               Created="2023-08-27T12:00:08.888576-04:00">
+               Created="2024-04-22T21:31:12.231642-04:00">
       <Title>Document</Title>
       <MetaData>
          <CustomMetaData>
@@ -23,20 +23,20 @@
          </CustomMetaData>
       </MetaData>
       <Children>
-         <BinderItem UUID="23CA3DAC-332A-4E7B-8BF4-EC88E7970F8B"
+         <BinderItem UUID="EC93C18D-9A80-4A02-A88C-FEC0467389D3"
                      Type="Folder"
-                     ptx="chapter"
-                     Created="2023-08-27T12:00:08.888576-04:00">
-            <Title>DC Heater</Title>
+                     ptx="pretext"
+                     Created="2024-04-22T21:31:12.231642-04:00">
+            <Title>pretext</Title>
             <MetaData>
                <CustomMetaData>
                   <MetaDataItem>
                      <FieldID>ptx-container</FieldID>
-                     <Value>chapter</Value>
+                     <Value>pretext</Value>
                   </MetaDataItem>
                   <MetaDataItem>
                      <FieldID>xml:id</FieldID>
-                     <Value>dcheaterchap</Value>
+                     <Value/>
                   </MetaDataItem>
                   <MetaDataItem>
                      <FieldID>Other Attributes</FieldID>
@@ -45,16 +45,16 @@
                </CustomMetaData>
             </MetaData>
             <Children>
-               <BinderItem UUID="A2D8F53D-3228-47D7-BEFA-4388A661C885"
+               <BinderItem UUID="BA9972C2-27A5-4932-A0C8-6DD2590844F3"
                            Type="Folder"
-                           ptx="introduction"
-                           Created="2023-08-27T12:00:08.888576-04:00">
-                  <Title>introduction</Title>
+                           ptx="article"
+                           Created="2024-04-22T21:31:12.231642-04:00">
+                  <Title>article</Title>
                   <MetaData>
                      <CustomMetaData>
                         <MetaDataItem>
                            <FieldID>ptx-container</FieldID>
-                           <Value>introduction</Value>
+                           <Value>article</Value>
                         </MetaDataItem>
                         <MetaDataItem>
                            <FieldID>xml:id</FieldID>
@@ -67,352 +67,6 @@
                      </CustomMetaData>
                   </MetaData>
                   <Children/>
-               </BinderItem>
-               <BinderItem UUID="475FB97D-E404-4B23-8122-7B3EA5AA3D2E"
-                           Type="Folder"
-                           ptx="section"
-                           Created="2023-08-27T12:00:08.888576-04:00">
-                  <Title>Description</Title>
-                  <MetaData>
-                     <CustomMetaData>
-                        <MetaDataItem>
-                           <FieldID>ptx-container</FieldID>
-                           <Value>section</Value>
-                        </MetaDataItem>
-                        <MetaDataItem>
-                           <FieldID>xml:id</FieldID>
-                           <Value>description</Value>
-                        </MetaDataItem>
-                        <MetaDataItem>
-                           <FieldID>Other Attributes</FieldID>
-                           <Value/>
-                        </MetaDataItem>
-                     </CustomMetaData>
-                  </MetaData>
-                  <Children/>
-               </BinderItem>
-               <BinderItem UUID="A732AED4-FAE6-4707-AC84-7BDCB0D526F8"
-                           Type="Folder"
-                           ptx="section"
-                           Created="2023-08-27T12:00:08.888576-04:00">
-                  <Title>Operation</Title>
-                  <MetaData>
-                     <CustomMetaData>
-                        <MetaDataItem>
-                           <FieldID>ptx-container</FieldID>
-                           <Value>section</Value>
-                        </MetaDataItem>
-                        <MetaDataItem>
-                           <FieldID>xml:id</FieldID>
-                           <Value>ops1</Value>
-                        </MetaDataItem>
-                        <MetaDataItem>
-                           <FieldID>Other Attributes</FieldID>
-                           <Value/>
-                        </MetaDataItem>
-                     </CustomMetaData>
-                  </MetaData>
-                  <Children/>
-               </BinderItem>
-               <BinderItem UUID="D072AB2A-CB89-4E0A-9919-81D52BF831B1"
-                           Type="Folder"
-                           ptx="exercises"
-                           Created="2023-08-27T12:00:08.888576-04:00">
-                  <Title>Chapter Questions</Title>
-                  <MetaData>
-                     <CustomMetaData>
-                        <MetaDataItem>
-                           <FieldID>ptx-container</FieldID>
-                           <Value>exercises</Value>
-                        </MetaDataItem>
-                        <MetaDataItem>
-                           <FieldID>xml:id</FieldID>
-                           <Value>questions-7</Value>
-                        </MetaDataItem>
-                        <MetaDataItem>
-                           <FieldID>Other Attributes</FieldID>
-                           <Value/>
-                        </MetaDataItem>
-                     </CustomMetaData>
-                  </MetaData>
-                  <Children>
-                     <BinderItem UUID="F5B20C6F-C79F-4490-B8E0-BA8D88F16DCD"
-                                 Type="Folder"
-                                 ptx="exercise"
-                                 Created="2023-08-27T12:00:08.888576-04:00">
-                        <Title>exercise</Title>
-                        <MetaData>
-                           <CustomMetaData>
-                              <MetaDataItem>
-                                 <FieldID>ptx-container</FieldID>
-                                 <Value>exercise</Value>
-                              </MetaDataItem>
-                              <MetaDataItem>
-                                 <FieldID>xml:id</FieldID>
-                                 <Value/>
-                              </MetaDataItem>
-                              <MetaDataItem>
-                                 <FieldID>Other Attributes</FieldID>
-                                 <Value/>
-                              </MetaDataItem>
-                           </CustomMetaData>
-                        </MetaData>
-                        <Children/>
-                     </BinderItem>
-                     <BinderItem UUID="8EB59007-B85F-4DAF-9282-C701B492B9B5"
-                                 Type="Folder"
-                                 ptx="exercise"
-                                 Created="2023-08-27T12:00:08.888576-04:00">
-                        <Title>exercise</Title>
-                        <MetaData>
-                           <CustomMetaData>
-                              <MetaDataItem>
-                                 <FieldID>ptx-container</FieldID>
-                                 <Value>exercise</Value>
-                              </MetaDataItem>
-                              <MetaDataItem>
-                                 <FieldID>xml:id</FieldID>
-                                 <Value/>
-                              </MetaDataItem>
-                              <MetaDataItem>
-                                 <FieldID>Other Attributes</FieldID>
-                                 <Value/>
-                              </MetaDataItem>
-                           </CustomMetaData>
-                        </MetaData>
-                        <Children/>
-                     </BinderItem>
-                     <BinderItem UUID="350898B3-84E1-471E-80E5-DF9B6713D8CE"
-                                 Type="Folder"
-                                 ptx="exercise"
-                                 Created="2023-08-27T12:00:08.888576-04:00">
-                        <Title>exercise</Title>
-                        <MetaData>
-                           <CustomMetaData>
-                              <MetaDataItem>
-                                 <FieldID>ptx-container</FieldID>
-                                 <Value>exercise</Value>
-                              </MetaDataItem>
-                              <MetaDataItem>
-                                 <FieldID>xml:id</FieldID>
-                                 <Value/>
-                              </MetaDataItem>
-                              <MetaDataItem>
-                                 <FieldID>Other Attributes</FieldID>
-                                 <Value/>
-                              </MetaDataItem>
-                           </CustomMetaData>
-                        </MetaData>
-                        <Children/>
-                     </BinderItem>
-                     <BinderItem UUID="D16F4141-6BB2-41E3-84FE-B06EC093DDED"
-                                 Type="Folder"
-                                 ptx="exercise"
-                                 Created="2023-08-27T12:00:08.888576-04:00">
-                        <Title>exercise</Title>
-                        <MetaData>
-                           <CustomMetaData>
-                              <MetaDataItem>
-                                 <FieldID>ptx-container</FieldID>
-                                 <Value>exercise</Value>
-                              </MetaDataItem>
-                              <MetaDataItem>
-                                 <FieldID>xml:id</FieldID>
-                                 <Value/>
-                              </MetaDataItem>
-                              <MetaDataItem>
-                                 <FieldID>Other Attributes</FieldID>
-                                 <Value/>
-                              </MetaDataItem>
-                           </CustomMetaData>
-                        </MetaData>
-                        <Children/>
-                     </BinderItem>
-                     <BinderItem UUID="32794439-2C1C-41D4-A697-0B0D4E611E56"
-                                 Type="Folder"
-                                 ptx="exercise"
-                                 Created="2023-08-27T12:00:08.888576-04:00">
-                        <Title>exercise</Title>
-                        <MetaData>
-                           <CustomMetaData>
-                              <MetaDataItem>
-                                 <FieldID>ptx-container</FieldID>
-                                 <Value>exercise</Value>
-                              </MetaDataItem>
-                              <MetaDataItem>
-                                 <FieldID>xml:id</FieldID>
-                                 <Value/>
-                              </MetaDataItem>
-                              <MetaDataItem>
-                                 <FieldID>Other Attributes</FieldID>
-                                 <Value/>
-                              </MetaDataItem>
-                           </CustomMetaData>
-                        </MetaData>
-                        <Children/>
-                     </BinderItem>
-                     <BinderItem UUID="7C30563C-A1C6-4FDA-8590-E38ED1EC62A9"
-                                 Type="Folder"
-                                 ptx="exercise"
-                                 Created="2023-08-27T12:00:08.888576-04:00">
-                        <Title>exercise</Title>
-                        <MetaData>
-                           <CustomMetaData>
-                              <MetaDataItem>
-                                 <FieldID>ptx-container</FieldID>
-                                 <Value>exercise</Value>
-                              </MetaDataItem>
-                              <MetaDataItem>
-                                 <FieldID>xml:id</FieldID>
-                                 <Value/>
-                              </MetaDataItem>
-                              <MetaDataItem>
-                                 <FieldID>Other Attributes</FieldID>
-                                 <Value/>
-                              </MetaDataItem>
-                           </CustomMetaData>
-                        </MetaData>
-                        <Children/>
-                     </BinderItem>
-                     <BinderItem UUID="4C43DB55-FD26-42A9-BCFC-5D8F57FE1391"
-                                 Type="Folder"
-                                 ptx="exercise"
-                                 Created="2023-08-27T12:00:08.888576-04:00">
-                        <Title>exercise</Title>
-                        <MetaData>
-                           <CustomMetaData>
-                              <MetaDataItem>
-                                 <FieldID>ptx-container</FieldID>
-                                 <Value>exercise</Value>
-                              </MetaDataItem>
-                              <MetaDataItem>
-                                 <FieldID>xml:id</FieldID>
-                                 <Value/>
-                              </MetaDataItem>
-                              <MetaDataItem>
-                                 <FieldID>Other Attributes</FieldID>
-                                 <Value/>
-                              </MetaDataItem>
-                           </CustomMetaData>
-                        </MetaData>
-                        <Children/>
-                     </BinderItem>
-                     <BinderItem UUID="8E8BDF36-F9BF-41A3-91CA-9D20677E272B"
-                                 Type="Folder"
-                                 ptx="exercise"
-                                 Created="2023-08-27T12:00:08.888576-04:00">
-                        <Title>exercise</Title>
-                        <MetaData>
-                           <CustomMetaData>
-                              <MetaDataItem>
-                                 <FieldID>ptx-container</FieldID>
-                                 <Value>exercise</Value>
-                              </MetaDataItem>
-                              <MetaDataItem>
-                                 <FieldID>xml:id</FieldID>
-                                 <Value/>
-                              </MetaDataItem>
-                              <MetaDataItem>
-                                 <FieldID>Other Attributes</FieldID>
-                                 <Value/>
-                              </MetaDataItem>
-                           </CustomMetaData>
-                        </MetaData>
-                        <Children/>
-                     </BinderItem>
-                     <BinderItem UUID="C28E0816-E8A2-4096-A206-134327E300F1"
-                                 Type="Folder"
-                                 ptx="exercise"
-                                 Created="2023-08-27T12:00:08.888576-04:00">
-                        <Title>exercise</Title>
-                        <MetaData>
-                           <CustomMetaData>
-                              <MetaDataItem>
-                                 <FieldID>ptx-container</FieldID>
-                                 <Value>exercise</Value>
-                              </MetaDataItem>
-                              <MetaDataItem>
-                                 <FieldID>xml:id</FieldID>
-                                 <Value/>
-                              </MetaDataItem>
-                              <MetaDataItem>
-                                 <FieldID>Other Attributes</FieldID>
-                                 <Value/>
-                              </MetaDataItem>
-                           </CustomMetaData>
-                        </MetaData>
-                        <Children/>
-                     </BinderItem>
-                     <BinderItem UUID="14564FEE-DCA9-42EB-BA3E-B26EF77AC466"
-                                 Type="Folder"
-                                 ptx="exercise"
-                                 Created="2023-08-27T12:00:08.888576-04:00">
-                        <Title>exercise</Title>
-                        <MetaData>
-                           <CustomMetaData>
-                              <MetaDataItem>
-                                 <FieldID>ptx-container</FieldID>
-                                 <Value>exercise</Value>
-                              </MetaDataItem>
-                              <MetaDataItem>
-                                 <FieldID>xml:id</FieldID>
-                                 <Value/>
-                              </MetaDataItem>
-                              <MetaDataItem>
-                                 <FieldID>Other Attributes</FieldID>
-                                 <Value/>
-                              </MetaDataItem>
-                           </CustomMetaData>
-                        </MetaData>
-                        <Children/>
-                     </BinderItem>
-                     <BinderItem UUID="A42E0131-402D-49BD-87B0-144BA2D3D89D"
-                                 Type="Folder"
-                                 ptx="exercise"
-                                 Created="2023-08-27T12:00:08.888576-04:00">
-                        <Title>exercise</Title>
-                        <MetaData>
-                           <CustomMetaData>
-                              <MetaDataItem>
-                                 <FieldID>ptx-container</FieldID>
-                                 <Value>exercise</Value>
-                              </MetaDataItem>
-                              <MetaDataItem>
-                                 <FieldID>xml:id</FieldID>
-                                 <Value/>
-                              </MetaDataItem>
-                              <MetaDataItem>
-                                 <FieldID>Other Attributes</FieldID>
-                                 <Value/>
-                              </MetaDataItem>
-                           </CustomMetaData>
-                        </MetaData>
-                        <Children/>
-                     </BinderItem>
-                     <BinderItem UUID="14A17F4A-ED69-4830-83C2-2F854A013F03"
-                                 Type="Folder"
-                                 ptx="exercise"
-                                 Created="2023-08-27T12:00:08.888576-04:00">
-                        <Title>exercise</Title>
-                        <MetaData>
-                           <CustomMetaData>
-                              <MetaDataItem>
-                                 <FieldID>ptx-container</FieldID>
-                                 <Value>exercise</Value>
-                              </MetaDataItem>
-                              <MetaDataItem>
-                                 <FieldID>xml:id</FieldID>
-                                 <Value/>
-                              </MetaDataItem>
-                              <MetaDataItem>
-                                 <FieldID>Other Attributes</FieldID>
-                                 <Value/>
-                              </MetaDataItem>
-                           </CustomMetaData>
-                        </MetaData>
-                        <Children/>
-                     </BinderItem>
-                  </Children>
                </BinderItem>
             </Children>
          </BinderItem>

@@ -1,0 +1,75 @@
+<Children xmlns:fn="http://www.w3.org/2005/xpath-functions"
+          xmlns:uuid="java:java.util.UUID"
+          xmlns:xi="http://www.w3.org/2001/XInclude">
+   <BinderItem UUID="34A9ACE4-EA96-4BC4-B014-E61715EDDEED"
+               Type="Folder"
+               ptx=""
+               Created="2024-04-22T21:29:16.197583-04:00">
+      <Title>Document</Title>
+      <MetaData>
+         <CustomMetaData>
+            <MetaDataItem>
+               <FieldID>ptx-container</FieldID>
+               <Value/>
+            </MetaDataItem>
+            <MetaDataItem>
+               <FieldID>xml:id</FieldID>
+               <Value/>
+            </MetaDataItem>
+            <MetaDataItem>
+               <FieldID>Other Attributes</FieldID>
+               <Value/>
+            </MetaDataItem>
+         </CustomMetaData>
+      </MetaData>
+      <Children>
+         <BinderItem UUID="5DBCE65A-F7F6-4521-B98F-971D6F8EACA9"
+                     Type="Folder"
+                     ptx="pretext"
+                     Created="2024-04-22T21:29:16.197583-04:00">
+            <Title>pretext</Title>
+            <MetaData>
+               <CustomMetaData>
+                  <MetaDataItem>
+                     <FieldID>ptx-container</FieldID>
+                     <Value>pretext</Value>
+                  </MetaDataItem>
+                  <MetaDataItem>
+                     <FieldID>xml:id</FieldID>
+                     <Value/>
+                  </MetaDataItem>
+                  <MetaDataItem>
+                     <FieldID>Other Attributes</FieldID>
+                     <Value/>
+                  </MetaDataItem>
+               </CustomMetaData>
+            </MetaData>
+            <Children>
+               <BinderItem UUID="C236B63D-425F-4B76-BE2E-3B0EE88686A6"
+                           Type="Folder"
+                           ptx="article"
+                           Created="2024-04-22T21:29:16.197583-04:00">
+                  <Title>article</Title>
+                  <MetaData>
+                     <CustomMetaData>
+                        <MetaDataItem>
+                           <FieldID>ptx-container</FieldID>
+                           <Value>article</Value>
+                        </MetaDataItem>
+                        <MetaDataItem>
+                           <FieldID>xml:id</FieldID>
+                           <Value/>
+                        </MetaDataItem>
+                        <MetaDataItem>
+                           <FieldID>Other Attributes</FieldID>
+                           <Value/>
+                        </MetaDataItem>
+                     </CustomMetaData>
+                  </MetaData>
+                  <Children/>
+               </BinderItem>
+            </Children>
+         </BinderItem>
+      </Children>
+   </BinderItem>
+</Children>

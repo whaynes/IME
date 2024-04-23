@@ -1,28 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="7230DFF0-D98F-4CD3-826E-BAA953D9CA8C" Version="2.0" Creator="SCRMAC-3.3.1-15588" Device="whaynes-MBP" Author="" Modified="2023-08-31 09:26:56 -0400" ModID="5D6F9C9B-F766-4690-B6FF-2AE1093203B8">
+<ScrivenerProject Identifier="7230DFF0-D98F-4CD3-826E-BAA953D9CA8C" Version="2.0" Creator="SCRMAC-3.3.6-16305" Device="whaynes-2017-macbook-pro" Author="" Modified="2024-04-23 19:09:53 -0400" ModID="FEE6B0D5-390C-4515-A666-661F9A891E7E">
     <Binder>
         <BinderItem UUID="4497343D-E609-408A-B00A-2B537F7BADFD" Type="DraftFolder" Created="2019-08-02 15:16:02 -0400" Modified="2019-08-02 15:16:02 -0400">
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
             <Children>
-                <BinderItem UUID="5B2FE13F-CFF5-446A-AD70-E1F80BF93689" Type="Folder" Created="2023-08-27 12:00:32 -0400" Modified="2023-08-27 12:00:32 -0400">
+                <BinderItem UUID="3B16EB09-2479-423D-888D-0B8F5991346F" Type="Folder" Created="2024-04-22 21:32:15 -0400" Modified="2024-04-22 21:32:15 -0400">
                     <Title>Document</Title>
                     <TextSettings>
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="23CA3DAC-332A-4E7B-8BF4-EC88E7970F8B" Type="Folder" Created="2023-08-27 12:00:32 -0400" Modified="2023-08-27 12:00:32 -0400">
-                            <Title>DC Heater</Title>
+                        <BinderItem UUID="EC93C18D-9A80-4A02-A88C-FEC0467389D3" Type="Folder" Created="2024-04-22 21:32:15 -0400" Modified="2024-04-22 21:32:15 -0400">
+                            <Title>pretext</Title>
                             <MetaData>
                                 <CustomMetaData>
                                     <MetaDataItem>
                                         <FieldID>ptx-container</FieldID>
-                                        <Value>chapter</Value>
-                                    </MetaDataItem>
-                                    <MetaDataItem>
-                                        <FieldID>xml:id</FieldID>
-                                        <Value>dcheaterchap</Value>
+                                        <Value>pretext</Value>
                                     </MetaDataItem>
                                 </CustomMetaData>
                             </MetaData>
@@ -30,243 +26,19 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="A2D8F53D-3228-47D7-BEFA-4388A661C885" Type="Folder" Created="2023-08-27 12:00:32 -0400" Modified="2023-08-27 12:01:16 -0400">
-                                    <Title>introduction</Title>
+                                <BinderItem UUID="BA9972C2-27A5-4932-A0C8-6DD2590844F3" Type="Folder" Created="2024-04-22 21:32:15 -0400" Modified="2024-04-22 21:32:15 -0400">
+                                    <Title>article</Title>
                                     <MetaData>
                                         <CustomMetaData>
                                             <MetaDataItem>
                                                 <FieldID>ptx-container</FieldID>
-                                                <Value>introduction</Value>
+                                                <Value>article</Value>
                                             </MetaDataItem>
                                         </CustomMetaData>
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
-                                </BinderItem>
-                                <BinderItem UUID="475FB97D-E404-4B23-8122-7B3EA5AA3D2E" Type="Folder" Created="2023-08-27 12:00:32 -0400" Modified="2023-08-27 12:01:10 -0400">
-                                    <Title>Description</Title>
-                                    <MetaData>
-                                        <CustomMetaData>
-                                            <MetaDataItem>
-                                                <FieldID>ptx-container</FieldID>
-                                                <Value>section</Value>
-                                            </MetaDataItem>
-                                            <MetaDataItem>
-                                                <FieldID>xml:id</FieldID>
-                                                <Value>description</Value>
-                                            </MetaDataItem>
-                                        </CustomMetaData>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem UUID="A732AED4-FAE6-4707-AC84-7BDCB0D526F8" Type="Folder" Created="2023-08-27 12:00:32 -0400" Modified="2023-08-27 12:01:16 -0400">
-                                    <Title>Operation</Title>
-                                    <MetaData>
-                                        <CustomMetaData>
-                                            <MetaDataItem>
-                                                <FieldID>ptx-container</FieldID>
-                                                <Value>section</Value>
-                                            </MetaDataItem>
-                                            <MetaDataItem>
-                                                <FieldID>xml:id</FieldID>
-                                                <Value>ops1</Value>
-                                            </MetaDataItem>
-                                        </CustomMetaData>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem UUID="D072AB2A-CB89-4E0A-9919-81D52BF831B1" Type="Folder" Created="2023-08-27 12:00:32 -0400" Modified="2023-08-27 12:00:32 -0400">
-                                    <Title>Chapter Questions</Title>
-                                    <MetaData>
-                                        <CustomMetaData>
-                                            <MetaDataItem>
-                                                <FieldID>ptx-container</FieldID>
-                                                <Value>exercises</Value>
-                                            </MetaDataItem>
-                                            <MetaDataItem>
-                                                <FieldID>xml:id</FieldID>
-                                                <Value>questions-7</Value>
-                                            </MetaDataItem>
-                                        </CustomMetaData>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
-                                    </TextSettings>
-                                    <Children>
-                                        <BinderItem UUID="F5B20C6F-C79F-4490-B8E0-BA8D88F16DCD" Type="Folder" Created="2023-08-27 12:00:32 -0400" Modified="2023-08-27 12:00:32 -0400">
-                                            <Title>exercise</Title>
-                                            <MetaData>
-                                                <CustomMetaData>
-                                                    <MetaDataItem>
-                                                        <FieldID>ptx-container</FieldID>
-                                                        <Value>exercise</Value>
-                                                    </MetaDataItem>
-                                                </CustomMetaData>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>0,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                        <BinderItem UUID="8EB59007-B85F-4DAF-9282-C701B492B9B5" Type="Folder" Created="2023-08-27 12:00:32 -0400" Modified="2023-08-27 12:00:32 -0400">
-                                            <Title>exercise</Title>
-                                            <MetaData>
-                                                <CustomMetaData>
-                                                    <MetaDataItem>
-                                                        <FieldID>ptx-container</FieldID>
-                                                        <Value>exercise</Value>
-                                                    </MetaDataItem>
-                                                </CustomMetaData>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>0,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                        <BinderItem UUID="350898B3-84E1-471E-80E5-DF9B6713D8CE" Type="Folder" Created="2023-08-27 12:00:32 -0400" Modified="2023-08-27 12:00:32 -0400">
-                                            <Title>exercise</Title>
-                                            <MetaData>
-                                                <CustomMetaData>
-                                                    <MetaDataItem>
-                                                        <FieldID>ptx-container</FieldID>
-                                                        <Value>exercise</Value>
-                                                    </MetaDataItem>
-                                                </CustomMetaData>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>0,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                        <BinderItem UUID="D16F4141-6BB2-41E3-84FE-B06EC093DDED" Type="Folder" Created="2023-08-27 12:00:32 -0400" Modified="2023-08-27 12:01:10 -0400">
-                                            <Title>exercise</Title>
-                                            <MetaData>
-                                                <CustomMetaData>
-                                                    <MetaDataItem>
-                                                        <FieldID>ptx-container</FieldID>
-                                                        <Value>exercise</Value>
-                                                    </MetaDataItem>
-                                                </CustomMetaData>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>0,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                        <BinderItem UUID="32794439-2C1C-41D4-A697-0B0D4E611E56" Type="Folder" Created="2023-08-27 12:00:32 -0400" Modified="2023-08-27 12:00:32 -0400">
-                                            <Title>exercise</Title>
-                                            <MetaData>
-                                                <CustomMetaData>
-                                                    <MetaDataItem>
-                                                        <FieldID>ptx-container</FieldID>
-                                                        <Value>exercise</Value>
-                                                    </MetaDataItem>
-                                                </CustomMetaData>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>0,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                        <BinderItem UUID="7C30563C-A1C6-4FDA-8590-E38ED1EC62A9" Type="Folder" Created="2023-08-27 12:00:32 -0400" Modified="2023-08-27 12:01:10 -0400">
-                                            <Title>exercise</Title>
-                                            <MetaData>
-                                                <CustomMetaData>
-                                                    <MetaDataItem>
-                                                        <FieldID>ptx-container</FieldID>
-                                                        <Value>exercise</Value>
-                                                    </MetaDataItem>
-                                                </CustomMetaData>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>0,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                        <BinderItem UUID="4C43DB55-FD26-42A9-BCFC-5D8F57FE1391" Type="Folder" Created="2023-08-27 12:00:32 -0400" Modified="2023-08-27 12:01:10 -0400">
-                                            <Title>exercise</Title>
-                                            <MetaData>
-                                                <CustomMetaData>
-                                                    <MetaDataItem>
-                                                        <FieldID>ptx-container</FieldID>
-                                                        <Value>exercise</Value>
-                                                    </MetaDataItem>
-                                                </CustomMetaData>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>0,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                        <BinderItem UUID="8E8BDF36-F9BF-41A3-91CA-9D20677E272B" Type="Folder" Created="2023-08-27 12:00:32 -0400" Modified="2023-08-27 12:01:10 -0400">
-                                            <Title>exercise</Title>
-                                            <MetaData>
-                                                <CustomMetaData>
-                                                    <MetaDataItem>
-                                                        <FieldID>ptx-container</FieldID>
-                                                        <Value>exercise</Value>
-                                                    </MetaDataItem>
-                                                </CustomMetaData>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>0,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                        <BinderItem UUID="C28E0816-E8A2-4096-A206-134327E300F1" Type="Folder" Created="2023-08-27 12:00:32 -0400" Modified="2023-08-27 12:01:10 -0400">
-                                            <Title>exercise</Title>
-                                            <MetaData>
-                                                <CustomMetaData>
-                                                    <MetaDataItem>
-                                                        <FieldID>ptx-container</FieldID>
-                                                        <Value>exercise</Value>
-                                                    </MetaDataItem>
-                                                </CustomMetaData>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>0,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                        <BinderItem UUID="14564FEE-DCA9-42EB-BA3E-B26EF77AC466" Type="Folder" Created="2023-08-27 12:00:32 -0400" Modified="2023-08-27 12:01:10 -0400">
-                                            <Title>exercise</Title>
-                                            <MetaData>
-                                                <CustomMetaData>
-                                                    <MetaDataItem>
-                                                        <FieldID>ptx-container</FieldID>
-                                                        <Value>exercise</Value>
-                                                    </MetaDataItem>
-                                                </CustomMetaData>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>0,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                        <BinderItem UUID="A42E0131-402D-49BD-87B0-144BA2D3D89D" Type="Folder" Created="2023-08-27 12:00:32 -0400" Modified="2023-08-27 12:01:10 -0400">
-                                            <Title>exercise</Title>
-                                            <MetaData>
-                                                <CustomMetaData>
-                                                    <MetaDataItem>
-                                                        <FieldID>ptx-container</FieldID>
-                                                        <Value>exercise</Value>
-                                                    </MetaDataItem>
-                                                </CustomMetaData>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>0,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                        <BinderItem UUID="14A17F4A-ED69-4830-83C2-2F854A013F03" Type="Folder" Created="2023-08-27 12:00:32 -0400" Modified="2023-08-27 12:01:10 -0400">
-                                            <Title>exercise</Title>
-                                            <MetaData>
-                                                <CustomMetaData>
-                                                    <MetaDataItem>
-                                                        <FieldID>ptx-container</FieldID>
-                                                        <Value>exercise</Value>
-                                                    </MetaDataItem>
-                                                </CustomMetaData>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>0,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                    </Children>
                                 </BinderItem>
                             </Children>
                         </BinderItem>
@@ -280,7 +52,7 @@
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
             <Children>
-                <BinderItem UUID="68F9DB8A-73A7-4E9C-9336-36748787D6CB" Type="Text" Created="2019-08-11 18:03:04 -0400" Modified="2023-08-27 11:59:41 -0400">
+                <BinderItem UUID="68F9DB8A-73A7-4E9C-9336-36748787D6CB" Type="Text" Created="2019-08-11 18:03:04 -0400" Modified="2024-04-22 21:17:45 -0400">
                     <Title>Style Samples</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -296,6 +68,168 @@
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
+        </BinderItem>
+        <BinderItem UUID="7B899886-F521-4158-8ECB-3F6AE40D98F8" Type="Folder" Created="2024-04-22 21:32:16 -0400" Modified="2024-04-22 21:32:16 -0400">
+            <Title>Recovered Files (Apr 22, 2024 at 9:32 PM)</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Warning</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <Children>
+                <BinderItem UUID="7333FE6D-AC3F-4590-8C02-8B72B91DBD9F" Type="Text" Created="2024-04-22 21:32:16 -0400" Modified="2024-04-22 21:32:16 -0400">
+                    <Title>Recovered File-1</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="BCB39C2D-3B74-4C1D-802A-FB2B34E3F2DD" Type="Text" Created="2024-04-22 21:32:16 -0400" Modified="2024-04-22 21:32:16 -0400">
+                    <Title>Recovered File-2</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="B0E84637-61BE-4769-BF41-BC6172368122" Type="Text" Created="2024-04-22 21:32:16 -0400" Modified="2024-04-22 21:32:16 -0400">
+                    <Title>Recovered File-3</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="DFD61DFB-CCC8-4299-BF15-6B4C83F8C0E1" Type="Text" Created="2024-04-22 21:32:16 -0400" Modified="2024-04-22 21:32:16 -0400">
+                    <Title>Recovered File-4</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="4E81DBAE-3EC1-4CBB-A852-9BF0F0F03E13" Type="Text" Created="2024-04-22 21:32:16 -0400" Modified="2024-04-22 21:32:16 -0400">
+                    <Title>Recovered File-5</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="72FE0F15-CD1B-421D-8288-E7A3FE985BDA" Type="Text" Created="2024-04-22 21:32:16 -0400" Modified="2024-04-22 21:32:16 -0400">
+                    <Title>Recovered File-6</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="35745E6F-E229-4602-BDFD-806560C060C8" Type="Text" Created="2024-04-22 21:32:16 -0400" Modified="2024-04-22 21:32:16 -0400">
+                    <Title>Recovered File-7</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="50AEA41E-04FB-494D-96B4-AFA745C2E820" Type="Text" Created="2024-04-22 21:32:16 -0400" Modified="2024-04-22 21:32:16 -0400">
+                    <Title>Recovered File-8</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="E1F57C83-8CC1-46A4-9C96-2C37C4055203" Type="Text" Created="2024-04-22 21:32:16 -0400" Modified="2024-04-22 21:32:16 -0400">
+                    <Title>Recovered File-9</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="4E488D1D-9A77-4A18-9383-7DCD1B322961" Type="Text" Created="2024-04-22 21:32:16 -0400" Modified="2024-04-22 21:32:16 -0400">
+                    <Title>Recovered File-10</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="B0B3F967-065F-4BEA-854A-E10866355A2C" Type="Text" Created="2024-04-22 21:32:16 -0400" Modified="2024-04-22 21:32:16 -0400">
+                    <Title>Recovered File-11</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="38A967F5-299C-4654-B949-73728EDDF2C1" Type="Text" Created="2024-04-22 21:32:16 -0400" Modified="2024-04-22 21:32:16 -0400">
+                    <Title>Recovered File-12</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="1AFCEB24-2DDF-4E44-A589-351063049829" Type="Text" Created="2024-04-22 21:32:16 -0400" Modified="2024-04-22 21:32:16 -0400">
+                    <Title>Recovered File-13</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="69C2B881-D3D4-471F-8BA3-57612BA4B5FD" Type="Text" Created="2024-04-22 21:32:16 -0400" Modified="2024-04-22 21:32:16 -0400">
+                    <Title>Recovered File-14</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="4F85835B-5535-42BD-9370-2051321C2942" Type="Text" Created="2024-04-22 21:32:16 -0400" Modified="2024-04-22 21:32:16 -0400">
+                    <Title>Recovered File-15</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
         </BinderItem>
     </Binder>
     <Collections>
@@ -376,14 +310,14 @@
     </CustomMetaDataSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2019-08-02 14:45:12 -0400" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2023-09-01 01:00:00 -0400" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2023-08-31 09:26:53 -0400"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2024-04-24 01:00:00 -0400" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2024-04-23 19:09:51 -0400"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2023-08-31 00:00:00 -0400">
+    <RecentWritingHistory Date="2024-04-23 00:00:00 -0400">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
-    <PrintSettings PaperSize="611.999972,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
+    <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>

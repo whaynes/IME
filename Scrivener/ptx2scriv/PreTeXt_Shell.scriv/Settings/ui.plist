@@ -20,22 +20,12 @@
 	</array>
 	<key>bookmarksSelectionInfo</key>
 	<dict>
-		<key>23CA3DAC-332A-4E7B-8BF4-EC88E7970F8B</key>
-		<dict>
-			<key>Row</key>
-			<integer>-1</integer>
-		</dict>
 		<key>68F9DB8A-73A7-4E9C-9336-36748787D6CB</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
 		<key>81F6E3E1-2136-419A-8CAA-8F396FA99BC6</key>
-		<dict>
-			<key>Row</key>
-			<integer>-1</integer>
-		</dict>
-		<key>A2D8F53D-3228-47D7-BEFA-4388A661C885</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -85,7 +75,7 @@
 		<real>1</real>
 	</dict>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {726, 533}}</string>
+	<string>{{0, 0}, {620, 533}}</string>
 	<key>mainDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>
@@ -111,7 +101,7 @@
 		<real>1</real>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {606, 294}}</string>
+	<string>{{0, 0}, {620, 294}}</string>
 	<key>supportingDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>
