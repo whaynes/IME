@@ -4616,6 +4616,10 @@ A number of different methods are available for making these pipe connections.  
 Temperature can be measured in a variety of scales. When the temperature scale is measured up from the point where there is no molecular motion, it is known as an absolute scale, and is directly proportional to the average kinetic energy of the molecules in the substance. The Kelvin and Rankine scales are absolute scales. We normally use the Fahrenheit or Celsius scales, which are offset from the corresponding absolute scale, and so are only indirectly related to the kinetic energy. 
 </Text>
         </Document>
+        <Document ID="16EE02C8-3C4E-4722-AC9D-FC02A78D7C69">
+            <Title>Thermometers</Title>
+            <Text>&lt;term&gt;Thermometers&lt;/term&gt;:</Text>
+        </Document>
         <Document ID="AC648E15-E49E-4FFC-A1FD-4B77F10E8BDA">
             <Title>Propulsion Motors</Title>
         </Document>
@@ -6140,6 +6144,15 @@ The DC Heater serves three important functions in the steam cycle:</Text>
 &lt;/choices&gt;
 </Text>
         </Document>
+        <Document ID="0E7A06E3-B01F-4DB1-9547-0C6DB2126DB7">
+            <Title>Resistance Temperature Detector</Title>
+            <Text>Resistance Temperature Detectors (RTD) determine temperature by measuring the resistance of an electrical wire, which increases as the temperature rises and decreases when the temperature falls. The change in resistance of the wire indicates the temperature change.
+&lt;figure&gt;
+&lt;image source="images/temperature-image5.jpg"  width="40%"/&gt;
+&lt;caption&gt; Resistance Temperature Detector RTD &lt;/caption&gt;
+&lt;/figure&gt;
+</Text>
+        </Document>
         <Document ID="46FB57C1-23FE-427D-B9EC-07272CE260BD">
             <Title>AC Circuits</Title>
             <Text>In AC circuits the power cannot be calculated as easily as DC power for two reasons.  First, the sinusoidal current and voltage are continuously changing, which means that the power is too.  Second, any reactive elements in the circuit shift the current out of phase with the voltage, as shown in &lt;xref ref="fig_phase_shift"/&gt;. 
@@ -6265,6 +6278,15 @@ Note that when current is leading voltage, it is also true that voltage is laggi
         <Document ID="28F9ACE4-ACDE-483B-BD23-882458ECE698">
             <Title>Lift Check</Title>
             <Text>A lift check valve has a specially designed disk or ball which closes against a seat   just like a typical globe valve. In this design, the disk or ball is not attached to any   arm or stem. Since the disk is free to move away from the seat without an arm or stem to   guide it back in correct alignment to the seat upon closing, other guidance means are   employed. In most lift check valves, the disk (with higher than normal sides) or the   ball just fits into to hole in the upper part of the body. When flow pushes the disk or   ball away from the seat, the walls of the hole in the upper body guide the disk or ball   straight up away from the seat. These walls also guide the disk straight down when it is   closing assuring correct alignment between the disk and seat for tight closure. 
+</Text>
+        </Document>
+        <Document ID="457FAB2C-5B38-4D56-9809-69A387B83181">
+            <Title>Thermistor</Title>
+            <Text>Thermistors are a type of temperature-sensitive resistor whose electrical resistance changes significantly with temperature. They are commonly used in electronic devices and temperature control systems.
+&lt;figure&gt;
+&lt;image source="images/temperature-image6.gif"  width="40%"/&gt;
+&lt;caption&gt;Thermistor&lt;/caption&gt;
+&lt;/figure&gt;
 </Text>
         </Document>
         <Document ID="FC35F7A7-C887-420B-9833-DC6A1F29C627">
@@ -37231,6 +37253,15 @@ By implementing robust fire prevention measures, ships can significantly reduce 
             <Title>Heat </Title>
             <Text>The first function of the DC Heater is to heat the feedwater prior to returning it to the boiler. Thermodynamically, it is known as the regenerative second stage heater. Using the exhaust steam from steam powered auxiliaries to heat the DC Heater increases the overall plant efficiency and saves fuel.</Text>
         </Document>
+        <Document ID="22A80BC7-D75F-4AD2-B4F7-E8F37E4D970D">
+            <Title>Thermocouple</Title>
+            <Text>Thermocouple are made from two different metal wires joined at one end. When exposed to temperature variations, it generates a small electrical voltage proportional to the temperature difference.
+&lt;figure&gt;
+&lt;image source="images/temperature-image4.png"  width="60%"/&gt;
+&lt;caption&gt;Thermocouple Temperature Sensor&lt;/caption&gt;
+&lt;/figure&gt;
+</Text>
+        </Document>
         <Document ID="DE30FD0D-7F12-4025-A8E7-D8DAE261E5C4">
             <Title>Power</Title>
             <Text> &lt;em&gt;Power&lt;/em&gt; is the rate of doing work. The amount of work done has nothing at all to do with how long it takes to do it. When you lift a weight of 1 pound through a distance of 1 foot, you have done 1 foot-pound of work, regardless of whether you do it in half a second or half an hour. A device which can do a lot of work quickly is powerful. The common unit of measurement for power is the &lt;em&gt;horsepower&lt;/em&gt; (hp). By definition, 1 horsepower is equal to 33,000 foot-pounds of work per minute or 550 foot-pounds of work per second. Thus a machine that is capable of doing 550 foot-pounds of work per second is said to be a 1-horsepower machine. (As you can see, your horsepower rating would not be very impressive if you did 1 foot-pound of work in half an hour. Figure it out. It works out to be just a little more than one-millionth of a horsepower.) 
@@ -37664,6 +37695,15 @@ Black iron pipe is an informal name for a mild-steel pipe that is used with thre
         </Document>
         <Document ID="741D4844-A2B7-4AEE-888A-1411BE28F995">
             <Title>Semiconductors</Title>
+        </Document>
+        <Document ID="BD29CBC9-4353-4359-B936-6637B5822E96">
+            <Title>Liquid in Glass Thermometer</Title>
+            <Text>Liquid in glass thermometers are the most common instruments for measuring temperature.  This type of thermometer uses a temperature sensitive liquid, such as mercury or alcohol, sealed in a glass tube. The liquid expands or contracts with temperature changes, and the temperature is read from a scale on the thermometer. 
+&lt;figure&gt;
+&lt;image source="images/temperature-image2.png"  width="40%"/&gt;
+&lt;caption&gt;Liquid in Glass Thermometer&lt;/caption&gt;
+&lt;/figure&gt;
+</Text>
         </Document>
         <Document ID="A28BB40F-2DC1-4B6C-A05E-B923E2E4B10A">
             <Title>Water level</Title>
@@ -38320,6 +38360,9 @@ There are dozens of designs for the rotors of rotary pumps. Gears may be used as
         <Document ID="EF1F8DBC-113F-45E2-9BA9-A684C5F54751">
             <Title>Heat Transfer</Title>
         </Document>
+        <Document ID="34613D63-F917-4166-A78D-3759AACDA469">
+            <Title>Temperature</Title>
+        </Document>
         <Document ID="AF33F8DB-CB47-4B25-AC83-ED660D0BDB9E">
             <Title>Transforming Heat to Work</Title>
             <Text>The energy transformation of primary interest in the shipboard steam plant is the transformation from heat to work. To see how this transformation occurs, we need to consider the pressure, temperature, and volume relationships which hold true for gases. These relationships may be summarized as follows:  
@@ -38919,6 +38962,19 @@ But, with the right tools and a simple formula to follow, you should quickly lea
         </Document>
         <Document ID="353F3D8F-6DC9-4AD9-8454-85EA39354060">
             <Title>Batteries</Title>
+        </Document>
+        <Document ID="F42339E0-F91D-4152-85DA-A1DA7707A26A">
+            <Title>Instruments Used to Measure Temperature-1</Title>
+            <Text>&lt;term&gt;</Text>
+        </Document>
+        <Document ID="812627AD-9D7F-41D8-A658-E45E989CF259">
+            <Title>Infrared (IR) Thermometer</Title>
+            <Text>An Infrared (IR) thermometer measures temperature without direct contact with the object. It detects the infrared radiation emitted by the object, converting it into a temperature reading. IR thermometers are particularly useful for non-contact measurements or in hazardous environments.
+&lt;figure&gt;
+&lt;image source="images/temperature-image7.jpg"  width="40%"/&gt;
+&lt;caption&gt;Infrared Thermometer&lt;/caption&gt;
+&lt;/figure&gt;
+</Text>
         </Document>
         <Document ID="ACAC17A9-280F-4325-8B3B-7D7F0F00D2A9">
             <Title>Open circuits, short circuits, and grounds</Title>
@@ -40718,6 +40774,65 @@ Brazing alloys melt above 840 degrees.  Brazing alloys are typically made of a m
 Because of the relatively low melting temperatures, neither method can be used for high-temperature applications.
 </Text>
         </Document>
+        <Document ID="9B0918C5-5CBB-464F-8612-FE9424CBF221">
+            <Title>TEMPERATURE: An Introduction</Title>
+            <Text>&lt;!-- TODO Replace all illustrations in this section with non copyright images --&gt;
+&lt;term&gt;Temperature&lt;/term&gt; is a measure of the average kinetic energy of the particles in a substance. It quantifies how hot or cold an object or environment is relative to a standard or reference point.
+The most commonly used temperature scale in the US today is the &lt;term&gt;Fahrenheit scale&lt;/term&gt;, abbreviated F. In this scale, water freezes at 32 degrees and boils at 212 degrees. (This only holds strictly when atmospheric pressure equals the average sea level pressure. At high altitudes, water boils at a lower temperature, as anyone who cooks in the mountains knows.)
+Another common scale is the &lt;term&gt;Celsius&lt;/term&gt; (also called Centigrade) scale. In this scale, water freezes at 0 degrees and boils at 100 degrees.
+There are also temperature scales in which zero is the lowest possible temperature, called absolute zero. (People have gotten close to absolute zero, but have never reached it. According to theory, we never will.) Absolute zero is at -273.15 Celsius, or -459.67 Fahrenheit.
+The &lt;term&gt;Kelvin&lt;/term&gt; temperature scale uses the same size degree as Celsius, but has its zero set to absolute zero.
+The &lt;term&gt;Rankine&lt;/term&gt; temperature scale uses the same size degree as Fahrenheit, but has its zero set to absolute zero
+The Celsius and Kelvin scales are part of the International System of Units (SI), providing a standardized and widely adopted system for expressing temperatures. Celsius is the more common scale for everyday use, while Kelvin is often used in scientific and thermodynamic calculations.
+&lt;figure&gt;
+&lt;image source="images/temperature-image1.jpg" width="40%"/&gt;
+&lt;caption&gt;Temperature Scales&lt;/caption&gt;
+&lt;/figure&gt;
+To convert between Fahrenheit and Celsius use these formulas:
+&lt;table&gt;
+&lt;title&gt;Temperature Conversion Formulas&lt;/title&gt;
+&lt;tabular&gt;
+&lt;row&gt;
+&lt;cell&gt;
+&lt;url href="https://www.thoughtco.com/convert-celsius-to-fahrenheit-609228"&gt;Celsius to Fahrenheit&lt;/url&gt;
+&lt;/cell&gt;
+&lt;cell&gt;&lt;degree/&gt; F = 9/5 ( &lt;degree/&gt; C) + 32&lt;/cell&gt;
+&lt;/row&gt;
+&lt;row &gt;
+&lt;cell&gt;
+&lt;url href="https://www.thoughtco.com/convert-kelvin-to-fahrenheit-609234"&gt;Kelvin to Fahrenheit&lt;/url&gt;
+&lt;/cell&gt;
+&lt;cell&gt;&lt;degree/&gt; F = 9/5 (K - 273) + 32&lt;/cell&gt;
+&lt;/row&gt;
+&lt;row &gt;
+&lt;cell&gt;
+&lt;url href="https://www.thoughtco.com/fahrenheit-to-celsius-formula-609230"&gt;Fahrenheit to Celsius&lt;/url&gt;
+&lt;/cell&gt;
+&lt;cell&gt;&lt;degree/&gt; C = 5/9 (&lt;degree/&gt; F - 32)&lt;/cell&gt;
+&lt;/row&gt;
+&lt;row &gt;
+&lt;cell&gt;
+&lt;url href="https://www.thoughtco.com/celsius-to-kelvin-conversion-example-609547"&gt;Celsius toKelvin&lt;/url&gt;
+&lt;/cell&gt;
+&lt;cell&gt;K = &lt;degree/&gt; C + 273&lt;/cell&gt;
+&lt;/row&gt;
+&lt;row &gt;
+&lt;cell&gt;
+&lt;url href="https://www.thoughtco.com/convert-kelvin-to-celsius-609233"&gt;Kelvin to Celsius&lt;/url&gt;
+&lt;/cell&gt;
+&lt;cell&gt;&lt;degree/&gt; C = K - 273&lt;/cell&gt;
+&lt;/row&gt;
+&lt;row &gt;
+&lt;cell&gt;
+&lt;url href="https://www.thoughtco.com/convert-fahrenheit-to-kelvin-609231"&gt;Fahrenheit to Kelvin&lt;/url&gt;
+&lt;/cell&gt;
+&lt;cell&gt;K = 5/9 (&lt;degree/&gt; F - 32) + 273&lt;/cell&gt;
+&lt;/row&gt;
+&lt;/tabular&gt;
+&lt;/table&gt;
+
+These formulas allow you to convert temperatures between different scales. It's important to use the appropriate formula based on the units provided or required for a specific calculation or conversion.</Text>
+        </Document>
         <Document ID="8F8066D3-5174-4A50-B2FA-1FE9E1AF9AA4">
             <Title>Crew Obligations</Title>
         </Document>
@@ -40862,6 +40977,11 @@ To prevent a boiler explosion, there must be no unburned fuel or fuel vapors in 
             <Title>AC vs. DC</Title>
             <Text>single phase, three phase
 batteries and solar cells</Text>
+        </Document>
+        <Document ID="8C0995B4-B291-42E4-92C9-C7F0DCFC7B0C">
+            <Title>Instruments Used to Measure Temperature</Title>
+            <Text>Various instruments are used to measure temperature in different applications. The choice of temperature measurement instrument depends on factors such as the required accuracy, temperature range, and the specific application or industry. Different instruments are suitable for different temperature ranges and environments.
+Here are some common instruments used to measure temperature:</Text>
         </Document>
         <Document ID="CBF84701-5367-48B9-A96E-CA24E710C11A">
             <Title>exercise</Title>
@@ -41539,6 +41659,15 @@ The boiler water must be tested and boiler chemicals added each day to maintain 
         </Document>
         <Document ID="D93F8387-A861-46C6-84AB-8DEC1563F84A">
             <Title>Boilers</Title>
+        </Document>
+        <Document ID="3F7B553F-DC13-438A-BE2E-03726D2E156E">
+            <Title>Bimetallic temperature sensors</Title>
+            <Text>Bimetallic temperature sensors use the differential expansion of two metals to detect temperature changes. These are often used in thermostats and mechanical temperature gauges.
+&lt;figure&gt;
+&lt;image source="images/temperature-image3.png"  width="30%"/&gt;
+&lt;caption&gt;Bimetallic Thermometer Temperature Sensor&lt;/caption&gt;
+&lt;/figure&gt;
+</Text>
         </Document>
         <Document ID="52A63732-E948-4F44-93C5-FD01F315E5A1">
             <Title>Converter Local Control (CLC)</Title>

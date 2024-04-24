@@ -2793,7 +2793,7 @@
     <PostProcessing Enabled="Yes" Type="Script">
         <Script><![CDATA[(java -jar /Applications/Oxygen\ XML\ Editor/frameworks/dita/DITA-OT3.x/lib/saxon/Saxon-HE-10.6.jar -xsl:/Users/whaynes/ptx/ime/Scrivener/scriv2ptx/scriv2ptx.xsl -o:ime.ptx -s:ime.xml && 
 osascript -e 'display notification "Export Success" with title "Scriv2PTX"' &&
-cd ~/ptx/ime && ~/Library/Python/3.12/bin/pretext build && ~/Library/Python/3.11/bin/pretext build print-latex) ]]></Script>
+cd ~/ptx/ime && ~/Library/Python/3.12/bin/pretext build ) ]]></Script>
         <Env>/Users/whaynes/.rbenv/shims:</Env>
     </PostProcessing>
 </CompileFormat>

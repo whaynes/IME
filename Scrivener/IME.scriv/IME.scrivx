@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="9CEE092B-52A4-40FD-A463-60A47C53A797" Version="2.0" Creator="SCRMAC-3.3.6-16305" Device="whaynes-2017-macbook-pro" Author="" Modified="2024-04-23 19:38:45 -0400" ModID="55A1D06B-4FC5-4AEA-9353-13DA2AECB890">
+<ScrivenerProject Identifier="9CEE092B-52A4-40FD-A463-60A47C53A797" Version="2.0" Creator="SCRMAC-3.3.6-16305" Device="whaynes-2017-macbook-pro" Author="" Modified="2024-04-23 23:07:50 -0400" ModID="24FE5EEA-9282-42EE-BAFA-09E73A44D04B">
     <Binder>
         <BinderItem UUID="7A583553-3A84-40D6-B9B9-0430B8CD3E39" Type="DraftFolder" Created="2023-05-29 09:45:48 -0400" Modified="2023-05-29 09:45:48 -0400">
             <Title>Draft</Title>
@@ -1186,7 +1186,7 @@
                                         <TextSelection>1,0</TextSelection>
                                     </TextSettings>
                                     <Children>
-                                        <BinderItem UUID="9B0918C5-5CBB-464F-8612-FE9424CBF221" Type="Folder" Created="2024-04-22 21:43:09 -0400" Modified="2024-04-22 22:08:16 -0400">
+                                        <BinderItem UUID="9B0918C5-5CBB-464F-8612-FE9424CBF221" Type="Folder" Created="2024-04-22 21:43:09 -0400" Modified="2024-04-23 22:47:07 -0400">
                                             <Title>TEMPERATURE: An Introduction</Title>
                                             <MetaData>
                                                 <SectionType>9D1ADC50-E7BB-4E40-BA04-CCA44927A08E</SectionType>
@@ -1205,7 +1205,7 @@
                                                 <TextSelection>337,0</TextSelection>
                                             </TextSettings>
                                             <Children>
-                                                <BinderItem UUID="BD29CBC9-4353-4359-B936-6637B5822E96" Type="Folder" Created="2024-04-22 21:48:53 -0400" Modified="2024-04-22 22:00:45 -0400">
+                                                <BinderItem UUID="BD29CBC9-4353-4359-B936-6637B5822E96" Type="Folder" Created="2024-04-22 21:48:53 -0400" Modified="2024-04-23 22:37:47 -0400">
                                                     <Title>Liquid in Glass Thermometer</Title>
                                                     <MetaData>
                                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -1214,7 +1214,7 @@
                                                         <TextSelection>29,0</TextSelection>
                                                     </TextSettings>
                                                 </BinderItem>
-                                                <BinderItem UUID="3F7B553F-DC13-438A-BE2E-03726D2E156E" Type="Folder" Created="2024-04-22 21:49:14 -0400" Modified="2024-04-23 19:12:29 -0400">
+                                                <BinderItem UUID="3F7B553F-DC13-438A-BE2E-03726D2E156E" Type="Folder" Created="2024-04-22 21:49:14 -0400" Modified="2024-04-23 22:40:59 -0400">
                                                     <Title>Bimetallic temperature sensors</Title>
                                                     <MetaData>
                                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -1223,7 +1223,7 @@
                                                         <TextSelection>330,0</TextSelection>
                                                     </TextSettings>
                                                 </BinderItem>
-                                                <BinderItem UUID="22A80BC7-D75F-4AD2-B4F7-E8F37E4D970D" Type="Folder" Created="2024-04-22 21:51:25 -0400" Modified="2024-04-23 19:33:01 -0400">
+                                                <BinderItem UUID="22A80BC7-D75F-4AD2-B4F7-E8F37E4D970D" Type="Folder" Created="2024-04-22 21:51:25 -0400" Modified="2024-04-23 22:45:37 -0400">
                                                     <Title>Thermocouple</Title>
                                                     <MetaData>
                                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -1232,7 +1232,7 @@
                                                         <TextSelection>205,88</TextSelection>
                                                     </TextSettings>
                                                 </BinderItem>
-                                                <BinderItem UUID="0E7A06E3-B01F-4DB1-9547-0C6DB2126DB7" Type="Folder" Created="2024-04-22 21:51:31 -0400" Modified="2024-04-23 19:33:01 -0400">
+                                                <BinderItem UUID="0E7A06E3-B01F-4DB1-9547-0C6DB2126DB7" Type="Folder" Created="2024-04-22 21:51:31 -0400" Modified="2024-04-23 22:39:07 -0400">
                                                     <Title>Resistance Temperature Detector</Title>
                                                     <MetaData>
                                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -1241,7 +1241,7 @@
                                                         <TextSelection>264,0</TextSelection>
                                                     </TextSettings>
                                                 </BinderItem>
-                                                <BinderItem UUID="457FAB2C-5B38-4D56-9809-69A387B83181" Type="Folder" Created="2024-04-22 21:51:37 -0400" Modified="2024-04-23 19:35:27 -0400">
+                                                <BinderItem UUID="457FAB2C-5B38-4D56-9809-69A387B83181" Type="Folder" Created="2024-04-22 21:51:37 -0400" Modified="2024-04-23 22:34:01 -0400">
                                                     <Title>Thermistor</Title>
                                                     <MetaData>
                                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -1250,7 +1250,7 @@
                                                         <TextSelection>6,0</TextSelection>
                                                     </TextSettings>
                                                 </BinderItem>
-                                                <BinderItem UUID="812627AD-9D7F-41D8-A658-E45E989CF259" Type="Folder" Created="2024-04-22 21:51:44 -0400" Modified="2024-04-23 19:35:58 -0400">
+                                                <BinderItem UUID="812627AD-9D7F-41D8-A658-E45E989CF259" Type="Folder" Created="2024-04-22 21:51:44 -0400" Modified="2024-04-23 22:34:01 -0400">
                                                     <Title>Infrared (IR) Thermometer</Title>
                                                     <MetaData>
                                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -8082,11 +8082,11 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 08:24:39 -0400" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2024-04-24 01:00:00 -0400" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="-8" Characters="-47" Date="2024-04-23 19:09:51 -0400"/>
+        <PreviousSession Words="-26" Characters="-141" Date="2024-04-23 23:07:46 -0400"/>
     </ProjectTargets>
     <RecentWritingHistory Date="2024-04-23 00:00:00 -0400">
-        <DraftWordCount>-8</DraftWordCount>
-        <DraftCharCount>-47</DraftCharCount>
+        <DraftWordCount>-26</DraftWordCount>
+        <DraftCharCount>-141</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
