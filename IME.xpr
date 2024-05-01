@@ -10,31 +10,11 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>Scrivener/ptx2scriv/roger.ptx</String>
+                                    <String>Scrivener/ptx2scriv/diesel.ptx</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>roger</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioStorageLocations">
-                                    <list>
-                                        <Byte>2</Byte>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>Roger/roger.ptx</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>roger</String>
+                                        <String>ptx2scriv</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -221,7 +201,7 @@
                                     <null/>
                                 </field>
                                 <field name="name">
-                                    <String>roger</String>
+                                    <String>ptx2scriv</String>
                                 </field>
                                 <field name="baseURL">
                                     <String></String>

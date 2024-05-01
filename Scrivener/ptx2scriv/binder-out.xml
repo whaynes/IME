@@ -1,10 +1,10 @@
 <Children xmlns:fn="http://www.w3.org/2005/xpath-functions"
           xmlns:uuid="java:java.util.UUID"
           xmlns:xi="http://www.w3.org/2001/XInclude">
-   <BinderItem UUID="3B16EB09-2479-423D-888D-0B8F5991346F"
+   <BinderItem UUID="3F7A1031-8053-4EE1-9C59-7890B21FB525"
                Type="Folder"
                ptx=""
-               Created="2024-04-22T21:31:12.231642-04:00">
+               Created="2024-04-26T21:14:04.982356-04:00">
       <Title>Document</Title>
       <MetaData>
          <CustomMetaData>
@@ -23,10 +23,10 @@
          </CustomMetaData>
       </MetaData>
       <Children>
-         <BinderItem UUID="EC93C18D-9A80-4A02-A88C-FEC0467389D3"
+         <BinderItem UUID="19244D42-22C9-4D34-A6DF-DEC84DB9D450"
                      Type="Folder"
                      ptx="pretext"
-                     Created="2024-04-22T21:31:12.231642-04:00">
+                     Created="2024-04-26T21:14:04.982356-04:00">
             <Title>pretext</Title>
             <MetaData>
                <CustomMetaData>
@@ -45,10 +45,10 @@
                </CustomMetaData>
             </MetaData>
             <Children>
-               <BinderItem UUID="BA9972C2-27A5-4932-A0C8-6DD2590844F3"
+               <BinderItem UUID="C3C64DBB-A9B2-4E3F-A572-B6BD764C531E"
                            Type="Folder"
                            ptx="article"
-                           Created="2024-04-22T21:31:12.231642-04:00">
+                           Created="2024-04-26T21:14:04.982356-04:00">
                   <Title>article</Title>
                   <MetaData>
                      <CustomMetaData>

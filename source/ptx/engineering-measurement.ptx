@@ -278,7 +278,7 @@ To convert between Fahrenheit and Celsius use these formulas:
                <title>Thermistor</title>
                <p>Thermistors are a type of temperature-sensitive resistor whose electrical resistance changes significantly with temperature. They are commonly used in electronic devices and temperature control systems.</p>
                <figure>
-                  <image source="images/temperature-image6.gif" width="40%"/>
+                  <image source="images/temperature-image6.png" width="40%"/>
                   <caption>Thermistor</caption>
                </figure>
             </paragraphs>
