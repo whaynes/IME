@@ -8,7 +8,7 @@
 	<dict>
 		<key>2655DDF6-4AB8-42CB-A433-1CD76FC351D2</key>
 		<array>
-			<string>6F3974CA-6CAF-4A08-8FBA-C598D9F2A6CD</string>
+			<string>AD7A5795-F6F0-4581-BA63-4F20AD9A4971</string>
 		</array>
 	</dict>
 	<key>CommentsScaleFactor</key>
@@ -3590,7 +3590,7 @@
 	<true/>
 	<key>collectionSelectionAutosaveName</key>
 	<array>
-		<integer>0</integer>
+		<integer>3</integer>
 	</array>
 	<key>collectionsHeight</key>
 	<real>118</real>
@@ -3710,7 +3710,7 @@
 	<key>mainDocumentEditor.rulerIsVisible</key>
 	<false/>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {620, 261}}</string>
+	<string>{{0, 0}, {620, 294}}</string>
 	<key>mainDocumentEditor.selectedRanges</key>
 	<string>{0, 0}</string>
 	<key>mainDocumentEditor.textEditorState</key>
@@ -3721,7 +3721,7 @@
 	<key>mainDocumentEditor.textMode</key>
 	<integer>0</integer>
 	<key>mainWindowFrame</key>
-	<string>-58 118 1293 757 0 0 1440 875 </string>
+	<string>99 71 1293 757 0 0 1440 875 </string>
 	<key>projectStatsSheet</key>
 	<dict>
 		<key>excludeAnnots</key>
@@ -3819,7 +3819,7 @@
 		<real>84</real>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 8437}, {472, 643}}</string>
+	<string>{{0, 0}, {533.60000000000002, 488.80000000000001}}</string>
 	<key>supportingDocumentEditor.selectedItemIDs</key>
 	<array/>
 	<key>supportingDocumentEditor.selectedItemUUIDs</key>

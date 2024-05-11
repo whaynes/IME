@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="9CEE092B-52A4-40FD-A463-60A47C53A797" Version="2.0" Creator="SCRMAC-3.3.6-16305" Device="whaynes-2017-macbook-pro" Author="" Modified="2024-04-30 21:41:23 -0400" ModID="E501C383-A5B6-4779-A900-990119EAAFC9">
+<ScrivenerProject Identifier="9CEE092B-52A4-40FD-A463-60A47C53A797" Version="2.0" Creator="SCRMAC-3.3.6-16305" Device="whaynes-2017-macbook-pro" Author="" Modified="2024-05-10 19:36:31 -0400" ModID="0498A65D-F0A5-4AE9-BC8E-2014D6A28AAA">
     <Binder>
         <BinderItem UUID="7A583553-3A84-40D6-B9B9-0430B8CD3E39" Type="DraftFolder" Created="2023-05-29 09:45:48 -0400" Modified="2023-05-29 09:45:48 -0400">
             <Title>Draft</Title>
@@ -4265,23 +4265,23 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="495C33B7-6C7E-4E15-A0F3-56F193157F2C" Type="Folder" Created="2024-04-26 21:14:19 -0400" Modified="2024-04-30 21:40:45 -0400">
+                        <BinderItem UUID="495C33B7-6C7E-4E15-A0F3-56F193157F2C" Type="Folder" Created="2024-04-26 21:14:19 -0400" Modified="2024-05-03 20:27:27 -0400">
                             <Title>Introduction</Title>
                             <MetaData>
                                 <SectionType>9D1ADC50-E7BB-4E40-BA04-CCA44927A08E</SectionType>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>971,0</TextSelection>
+                                <TextSelection>1076,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="0348DE80-DE65-4463-84A0-8E513365C8ED" Type="Folder" Created="2024-04-27 19:28:24 -0400" Modified="2024-04-30 21:22:02 -0400">
+                        <BinderItem UUID="0348DE80-DE65-4463-84A0-8E513365C8ED" Type="Folder" Created="2024-04-27 19:28:24 -0400" Modified="2024-05-03 20:57:42 -0400">
                             <Title>History of the Internal Combustion Engine</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>2854,0</TextSelection>
+                                <TextSelection>195,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="463FDA98-8F2C-4E81-AB33-81ABE1636216" Type="Folder" Created="2024-04-27 19:28:53 -0400" Modified="2024-04-27 20:20:23 -0400">
@@ -4293,14 +4293,14 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="15B6D460-608A-48C9-94B3-88A197779B22" Type="Text" Created="2024-04-27 20:20:18 -0400" Modified="2024-04-30 21:22:02 -0400">
+                                <BinderItem UUID="15B6D460-608A-48C9-94B3-88A197779B22" Type="Text" Created="2024-04-27 20:20:18 -0400" Modified="2024-05-03 21:18:33 -0400">
                                     <Title>Introduction</Title>
                                     <MetaData>
                                         <SectionType>9D1ADC50-E7BB-4E40-BA04-CCA44927A08E</SectionType>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>590,0</TextSelection>
+                                        <TextSelection>1921,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="128B4AC0-E0F0-496B-85AB-1F613FBBFEF2" Type="Folder" Created="2024-04-27 19:59:33 -0400" Modified="2024-04-30 21:22:03 -0400">
@@ -4309,7 +4309,7 @@
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>683,0</TextSelection>
+                                        <TextSelection>395,0</TextSelection>
                                     </TextSettings>
                                     <Children>
                                         <BinderItem UUID="09C47F81-6DFB-4A6B-BBA9-86E5BA6DE256" Type="Text" Created="2024-04-27 19:59:36 -0400" Modified="2024-04-30 21:22:02 -0400">
@@ -4426,13 +4426,13 @@
                                         <TextSelection>64,23</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="AD7A5795-F6F0-4581-BA63-4F20AD9A4971" Type="Folder" Created="2024-04-27 20:00:33 -0400" Modified="2024-04-30 21:22:03 -0400">
+                                <BinderItem UUID="AD7A5795-F6F0-4581-BA63-4F20AD9A4971" Type="Folder" Created="2024-04-27 20:00:33 -0400" Modified="2024-05-03 20:23:52 -0400">
                                     <Title>Engine Displacement</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>480,0</TextSelection>
+                                        <TextSelection>481,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="08D74388-71F0-4BBB-9563-C31816AA22A5" Type="Folder" Created="2024-04-27 20:00:35 -0400" Modified="2024-04-30 21:22:02 -0400">
@@ -4453,13 +4453,13 @@
                                         <TextSelection>672,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="63F820B9-C071-437E-8B85-AFFCE3FA64DC" Type="Folder" Created="2024-04-27 20:00:39 -0400" Modified="2024-04-30 21:22:03 -0400">
+                                <BinderItem UUID="63F820B9-C071-437E-8B85-AFFCE3FA64DC" Type="Folder" Created="2024-04-27 20:00:39 -0400" Modified="2024-04-30 22:02:27 -0400">
                                     <Title>Compression Ratio and Clearance Volume</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>985,0</TextSelection>
+                                        <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="BAC4736D-9268-4F00-A318-6415F273AFFF" Type="Folder" Created="2024-04-27 20:00:47 -0400" Modified="2024-04-30 21:22:03 -0400">
@@ -8616,7 +8616,7 @@
         </Collection>
         <Collection Type="RecentSearch" ID="2655DDF6-4AB8-42CB-A433-1CD76FC351D2" Color="0.922173 0.818612 0.999627">
             <Title>Search Results</Title>
-            <SearchSettings Operator="Any" Type="All" CaseSensitive="No" IgnoreDiacritics="No">image20</SearchSettings>
+            <SearchSettings Operator="Any" Type="All" CaseSensitive="No" IgnoreDiacritics="No">"volume of "</SearchSettings>
         </Collection>
     </Collections>
     <SectionTypes>
@@ -8700,12 +8700,12 @@
     </CustomMetaDataSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 08:24:39 -0400" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2024-05-01 01:00:00 -0400" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="-169" Characters="-936" Date="2024-04-30 18:09:36 -0400"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2024-05-11 01:00:00 -0400" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2024-05-10 19:36:06 -0400"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2024-04-30 00:00:00 -0400">
-        <DraftWordCount>-169</DraftWordCount>
-        <DraftCharCount>-940</DraftCharCount>
+    <RecentWritingHistory Date="2024-05-10 00:00:00 -0400">
+        <DraftWordCount>0</DraftWordCount>
+        <DraftCharCount>0</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>

@@ -4247,6 +4247,8 @@ The feed pump is usually a turbine driven centrifugal pump, and the discharge pr
         </Document>
         <Document ID="72618669-6F5E-436C-BFD8-44D905BCED0B">
             <Title>Pipe Fittings</Title>
+            <Text>
+</Text>
         </Document>
         <Document ID="01CD0ECF-0FD0-4452-BEBA-C4A412EB148C">
             <Title>Overcurrent Protection</Title>
@@ -4518,13 +4520,6 @@ The herringbone gear pump utilizes gears with a very steep &lt;q&gt;V&lt;/q&gt; 
         <Document ID="EA1E21F1-4061-4853-9014-63C67D975424">
             <Title>level measurement</Title>
         </Document>
-        <Document ID="577D872C-891F-41BF-909F-CB53C8B2D221">
-            <Title>Diesel Engine Fundamentals</Title>
-            <Text>&lt;figure&gt;
-   &lt;caption/&gt;
-  &lt;image source="images/diesel-image22.png" width="50%"/&gt; 
-&lt;/figure&gt;</Text>
-        </Document>
         <Document ID="34014151-A0E1-4C76-A85F-CA46CEA1AF00">
             <Title>Work</Title>
             <Text>Mechanical energy in transition is called &lt;em&gt;work.&lt;/em&gt; When an object is moved through a distance against a resisting force, we say that work has been done. The formula for calculating work is:  &lt;me&gt;W=Fd&lt;/me&gt;
@@ -4573,17 +4568,17 @@ A street elbow is different from the male and female elbows in the respect that 
 * Reducing Street Elbow
 A reducing street elbow is a pipe fitting that has male thread on one side and unequal female threads on other side. They are used for altering the direction of flow as well as joining pipes of two different sizes. They come in various angles like 45 degrees and 90 degrees.</Text>
         </Document>
+        <Document ID="3FD0C358-2A3C-4238-BBB7-581A21ECB56D">
+            <Title>Overspeed Device</Title>
+            <Text>Because a diesel is not self-speed-limiting, a failure in the governor, injection system, or sudden loss of load could cause the diesel to overspeed. An overspeed condition is extremely dangerous because engine failure is usually catastrophic and can possibly cause the engine to fly apart. 
+An overspeed device, usually some type of mechanical flyweight, will act to cut off fuel to the engine and alarm at a certain preset rpm. This is usually accomplished by isolating the governor from its oil supply, causing it to travel to the no-fuel position, or it can override the governor and directly trip the fuel rack to the no-fuel position.</Text>
+        </Document>
         <Document ID="E04C59FA-A8ED-4221-8F69-07D8D84B46BC">
             <Title>introduction</Title>
             <Text>Electricity is the backbone of modern civilization, supporting nearly every aspect of our lives.  Most people have used electricity every day of their lives without giving it much thought.  Electricity is not a single thing, rather the term encompasses a broad range of phenomena associated with the presence and movement of charged particles. Electricity is related to magnetism, both being part of the phenomenon of electromagnetism, as described by Maxwell's equations. 
 Electrical phenomena include static electricity, electrical discharges like lightning and sparks, electromagnetic waves like light and x-rays, electromagnitism, electrical generation by induction, chemical reaction, and photoelectric effects; power transmission through conductors, resistance heating, conversion of electrical power to motion, and more. 
 In this chapter we will define some basic electrical concepts and describe some important electrical devices in order to give you a framework to understand how we harness and use electrical power aboard the training ship.
 </Text>
-        </Document>
-        <Document ID="3FD0C358-2A3C-4238-BBB7-581A21ECB56D">
-            <Title>Overspeed Device</Title>
-            <Text>Because a diesel is not self-speed-limiting, a failure in the governor, injection system, or sudden loss of load could cause the diesel to overspeed. An overspeed condition is extremely dangerous because engine failure is usually catastrophic and can possibly cause the engine to fly apart. 
-An overspeed device, usually some type of mechanical flyweight, will act to cut off fuel to the engine and alarm at a certain preset rpm. This is usually accomplished by isolating the governor from its oil supply, causing it to travel to the no-fuel position, or it can override the governor and directly trip the fuel rack to the no-fuel position.</Text>
         </Document>
         <Document ID="00784E0C-A73D-4D6D-AA80-5ACC42A488FE">
             <Title>connections</Title>
@@ -4959,6 +4954,7 @@ In situations where the safety of the ship, crew, or passengers is compromised, 
 </Text>
         </Document>
         <Document ID="43747D63-F976-4166-99E2-CF7C29A9B2A1">
+            <Title>introduction</Title>
             <Text>The control of a diesel engine is accomplished through several components: the camshaft, the fuel injector pump, fuel injector and the governor. The camshaft provides the timing needed to properly inject the fuel, the fuel injector pump provides the components that meters and injects the fuel, and the governor regulates the amount of fuel that the injector is to inject. Together, these three major components ensure that the engine runs at the desired speed.</Text>
         </Document>
         <Document ID="776B6EAD-F03A-4074-B9CE-9A0250BFE814">
@@ -5699,6 +5695,9 @@ De-ionized water is circulated by the pump to the cooling pipes and ducts of the
 The coolant pressure, temperature, flow rate and conductivity are closely monitored.  A high temperature coolant alarm will sound at 43°C (110° F).   If a high conductivity is detected, the coolant is shunted through a resin de-ionizing cartridge until until a satisfactory conductivity level is restored,
 </Text>
         </Document>
+        <Document ID="463FDA98-8F2C-4E81-AB33-81ABE1636216">
+            <Title>The Basic Diesel Cycle</Title>
+        </Document>
         <Document ID="13B13BB2-8F58-431A-B282-F87BF9A91CF3">
             <Title>Example Problem</Title>
             <Text>The last example explains how to convert meters to inches. We start with the same units as in the first example, but finish with different units. There will be two separate conversions. First, we convert from meters to feet. Then we convert from feet to inches. Remember, there are 
@@ -5713,9 +5712,6 @@ KM to Miles
 
 
  </Text>
-        </Document>
-        <Document ID="463FDA98-8F2C-4E81-AB33-81ABE1636216">
-            <Title>The Basic Diesel Cycle</Title>
         </Document>
         <Document ID="CA951A70-7F74-43FB-9F23-9776D23CB858">
             <Title>Low Lube Oil Pressure</Title>
@@ -5855,21 +5851,18 @@ Understand accuracy, precision, tolerance, calibration
         <Document ID="28F15D5A-BDCB-4ACA-9480-B92687C7AFCB">
             <Title>temperature measurement</Title>
         </Document>
-        <Document ID="83AC238D-6C2C-461C-82E3-78EE448C1552">
-            <Text>
-
-The main functions of a generator excitation system include:
-
-1. Voltage Regulation: The excitation system adjusts the generator's field current to maintain a steady voltage output, typically at a specified set point. This ensures that the generator can provide a constant and stable supply of electrical power.
-
-2. Reactive Power Control: The excitation system controls the generator's reactive power output. Reactive power is required to maintain voltage stability in power systems and is important for reactive power compensation and voltage control in transmission and distribution networks.
-
-3. System Stability: The excitation system plays a crucial role in maintaining the stability of the power system. It helps to dampen system oscillations and supports the overall stability of the interconnected grid by adjusting the generator's excitation level in response to changes in system conditions.
-
-4. Fault Ride-Through Capability: In the event of a fault or disturbance in the power system, the excitation system can provide additional field current to the generator to enhance its ability to ride through the fault without tripping offline.
-
-5. Synchronization: The excitation system assists in synchronizing the generator with the rest of the power system. It ensures that the generator's output voltage matches the system voltage during the connection process, allowing for smooth and seamless integration of the generator into the grid.
-</Text>
+        <Document ID="D91326B3-BFE1-4611-B763-BAAF8EF3B4FA">
+            <Title>Requirements of Fuel Injection System</Title>
+            <Text>The external fuel system stores and delivers clean fuel to the fuel injection system. 
+In delivering. fuel to the cylinders, the fuel injection system must fulfill the following 
+requirements: 
+1. Meter or measure the correct quantity of fuel injected. 
+2. Time the fuel injection 
+3. Control the rate of fuel injection 
+4. Atomize or break up the fuel into fine particles according to the type of combustion 
+chamber 
+5. Pressurize and distribute the fuel to be injected 
+The desired condition is to create a homogeneous mixture in the combustion space, in the correct proportions, of the smallest possible fuel particles and air. Although it is not possible to achieve an ideal condition, a good fuel injection system will come close.</Text>
         </Document>
         <Document ID="15EF96E7-A794-4929-92C0-E58C36C8194F">
             <Title>introduction</Title>
@@ -5954,12 +5947,20 @@ Surface-mount resistors are compact and designed for surface-mount technology, f
 
 </Text>
         </Document>
-        <Document ID="34D84876-8763-40E3-82F3-986BBB055466">
-            <Title>exercise</Title>
-            <Text>&lt;statement&gt; Mechanical energy in transition is referred to as ______. 
-&lt;/statement&gt;
-&lt;choices&gt; &lt;choice&gt; &lt;statement&gt; enthalpy  &lt;/statement&gt; &lt;/choice&gt; &lt;choice&gt; &lt;statement&gt; heat  &lt;/statement&gt; &lt;/choice&gt; &lt;choice correct="yes"&gt; &lt;statement&gt; work  &lt;/statement&gt; &lt;/choice&gt; &lt;choice&gt; &lt;statement&gt; velocity  &lt;/statement&gt; &lt;/choice&gt;
-&lt;/choices&gt;
+        <Document ID="83AC238D-6C2C-461C-82E3-78EE448C1552">
+            <Text>
+
+The main functions of a generator excitation system include:
+
+1. Voltage Regulation: The excitation system adjusts the generator's field current to maintain a steady voltage output, typically at a specified set point. This ensures that the generator can provide a constant and stable supply of electrical power.
+
+2. Reactive Power Control: The excitation system controls the generator's reactive power output. Reactive power is required to maintain voltage stability in power systems and is important for reactive power compensation and voltage control in transmission and distribution networks.
+
+3. System Stability: The excitation system plays a crucial role in maintaining the stability of the power system. It helps to dampen system oscillations and supports the overall stability of the interconnected grid by adjusting the generator's excitation level in response to changes in system conditions.
+
+4. Fault Ride-Through Capability: In the event of a fault or disturbance in the power system, the excitation system can provide additional field current to the generator to enhance its ability to ride through the fault without tripping offline.
+
+5. Synchronization: The excitation system assists in synchronizing the generator with the rest of the power system. It ensures that the generator's output voltage matches the system voltage during the connection process, allowing for smooth and seamless integration of the generator into the grid.
 </Text>
         </Document>
         <Document ID="2F6AA3F0-2A83-4589-9A9D-6708B1EB58A0">
@@ -5979,21 +5980,16 @@ The PWM signal is often passed through a low-pass filter. The filter averages ou
             <Title>Gas vs. Diesel Engines and  Otto vs. Diesel Cycle</Title>
             <Text>TBD</Text>
         </Document>
+        <Document ID="34D84876-8763-40E3-82F3-986BBB055466">
+            <Title>exercise</Title>
+            <Text>&lt;statement&gt; Mechanical energy in transition is referred to as ______. 
+&lt;/statement&gt;
+&lt;choices&gt; &lt;choice&gt; &lt;statement&gt; enthalpy  &lt;/statement&gt; &lt;/choice&gt; &lt;choice&gt; &lt;statement&gt; heat  &lt;/statement&gt; &lt;/choice&gt; &lt;choice correct="yes"&gt; &lt;statement&gt; work  &lt;/statement&gt; &lt;/choice&gt; &lt;choice&gt; &lt;statement&gt; velocity  &lt;/statement&gt; &lt;/choice&gt;
+&lt;/choices&gt;
+</Text>
+        </Document>
         <Document ID="44491009-8E5B-4730-AB86-E89115037679">
             <Title>Introduction to Electricity</Title>
-        </Document>
-        <Document ID="D91326B3-BFE1-4611-B763-BAAF8EF3B4FA">
-            <Title>Requirements of Fuel Injection System</Title>
-            <Text>The external fuel system stores and delivers clean fuel to the fuel injection system. 
-In delivering. fuel to the cylinders, the fuel injection system must fulfill the following 
-requirements: 
-1. Meter or measure the correct quantity of fuel injected. 
-2. Time the fuel injection 
-3. Control the rate of fuel injection 
-4. Atomize or break up the fuel into fine particles according to the type of combustion 
-chamber 
-5. Pressurize and distribute the fuel to be injected 
-The desired condition is to create a homogeneous mixture in the combustion space, in the correct proportions, of the smallest possible fuel particles and air. Although it is not possible to achieve an ideal condition, a good fuel injection system will come close.</Text>
         </Document>
         <Document ID="16BF0145-6448-4FE0-B2B7-35C43DB0D95F">
             <Title>Energy Transformations</Title>
@@ -6359,35 +6355,6 @@ A hose adapter is used where a hose is connected to a pipe. It may be the termin
         <Document ID="D491F6BD-4AE2-4F44-B407-69871128D98D">
             <Title>Engineering Measurement</Title>
         </Document>
-        <Document ID="D76B36DB-6076-4716-8858-2203D23AEAE8">
-            <Title>Reactance</Title>
-            <Text>Reactance is a property that represents opposition to current flow in AC systems due to reactive components like capacitors and inductors. Unlike resistance, which is related to the dissipation of energy as heat, reactance is associated with the storage and release of energy in the electric or magnetic fields of the reactive components.
-There are two types of reactance:
-Capacitive Reactance X_C: Capacitive reactance occurs in circuits containing capacitors. When AC voltage is applied to a capacitor, it causes a displacement of charge between the plates, resulting in the accumulation and discharge of energy. This leads to a phase shift between the voltage and current waveforms. Capacitive reactance is inversely proportional to the frequency of the AC signal so is less significant at high frequencies. 
-Inductive Reactance X_L: Inductive reactance arises in circuits containing inductors. When AC voltage is applied to an inductor, it induces a magnetic field that stores energy. Changes in the magnetic field cause an opposing voltage that leads to a phase shift between voltage and current. Inductive reactance is directly proportional to the frequency of the AC signal so is less significant at low frequencies.
-Reactance is measured in ohms (\Omega), just like resistance. However, reactance has both magnitude and phase, making it a complex quantity. The magnitude of reactance determines how much opposition a reactive component offers to the AC current, while the phase shift characterizes the timing difference between the voltage and current waveforms.
-Impedance Z: is a measure of the total opposition to flow of current in an AC circuit due to both resistance and reactance.&lt;me&gt; Z = \sqrt{R^2+ (X_L -X_C)^2} &lt;/me&gt;.  Impedance has units of ohms.
-Phase shift:  In a circuit with no reactive elements, the current and voltage sine waves are in phase, &lt;ie/&gt;  their peaks and valleys line up.  However reactive elements cause the current and voltage waves to shift out of phase.  An inductor will cause the current to lag behind the voltage, while a capacitor will cause the current to lead the voltage. 
-&lt;figure xml:id="fig_phase_shift"&gt;
-&lt;caption&gt;Phase shifts due to reactive elements&lt;/caption&gt;
-&lt;sidebyside width="30%"&gt;
-&lt;figure&gt;
-&lt;caption&gt; Resistor. Current and voltage in phase.&lt;/caption&gt;
-&lt;image source="images/in-phase"/&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-&lt;caption&gt; Inductor.  Current lags voltage.&lt;/caption&gt; 
-&lt;image source="images/ELI"/&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-&lt;caption&gt; Capacitor.  Current leads voltage.&lt;/caption&gt;
-&lt;image source="images/ICE"/&gt; 
-&lt;/figure&gt;
-&lt;/sidebyside&gt;
-&lt;/figure&gt;
-
-Note that when current is leading voltage, it is also true that voltage is lagging current.</Text>
-        </Document>
         <Document ID="A82696F0-858C-49E2-84EC-B37E53E751A9">
             <Title>TYPE APE PUMP</Title>
             <Text>Type APE pumps are assembled with all the individual cylinder plungers in a single housing. The left side of figure 7-7 shows the pump assembly for a 6-cylinder engine. The injection pumps are operated from a single camshaft in the bottom part of the housing. The cams dip into lubricating oil and brush against felt cushions at the bottom of each revolution. At the top of each revolution, the cams force the spring-loaded plungers up against the plunger spring resistance. 
@@ -6429,6 +6396,35 @@ a lower helix. With this type of plunger, fuel injection will always begin at th
   &lt;image source="images/diesel-image44.png" width="50%"/&gt; 
 &lt;/figure&gt;
 A high pressure pump and an injection nozzle for each cylinder are combined into one unit. This type of unit, generally used with Detroit engines, is often referred to as a UNIT INJECTOR system.</Text>
+        </Document>
+        <Document ID="D76B36DB-6076-4716-8858-2203D23AEAE8">
+            <Title>Reactance</Title>
+            <Text>Reactance is a property that represents opposition to current flow in AC systems due to reactive components like capacitors and inductors. Unlike resistance, which is related to the dissipation of energy as heat, reactance is associated with the storage and release of energy in the electric or magnetic fields of the reactive components.
+There are two types of reactance:
+Capacitive Reactance X_C: Capacitive reactance occurs in circuits containing capacitors. When AC voltage is applied to a capacitor, it causes a displacement of charge between the plates, resulting in the accumulation and discharge of energy. This leads to a phase shift between the voltage and current waveforms. Capacitive reactance is inversely proportional to the frequency of the AC signal so is less significant at high frequencies. 
+Inductive Reactance X_L: Inductive reactance arises in circuits containing inductors. When AC voltage is applied to an inductor, it induces a magnetic field that stores energy. Changes in the magnetic field cause an opposing voltage that leads to a phase shift between voltage and current. Inductive reactance is directly proportional to the frequency of the AC signal so is less significant at low frequencies.
+Reactance is measured in ohms (\Omega), just like resistance. However, reactance has both magnitude and phase, making it a complex quantity. The magnitude of reactance determines how much opposition a reactive component offers to the AC current, while the phase shift characterizes the timing difference between the voltage and current waveforms.
+Impedance Z: is a measure of the total opposition to flow of current in an AC circuit due to both resistance and reactance.&lt;me&gt; Z = \sqrt{R^2+ (X_L -X_C)^2} &lt;/me&gt;.  Impedance has units of ohms.
+Phase shift:  In a circuit with no reactive elements, the current and voltage sine waves are in phase, &lt;ie/&gt;  their peaks and valleys line up.  However reactive elements cause the current and voltage waves to shift out of phase.  An inductor will cause the current to lag behind the voltage, while a capacitor will cause the current to lead the voltage. 
+&lt;figure xml:id="fig_phase_shift"&gt;
+&lt;caption&gt;Phase shifts due to reactive elements&lt;/caption&gt;
+&lt;sidebyside width="30%"&gt;
+&lt;figure&gt;
+&lt;caption&gt; Resistor. Current and voltage in phase.&lt;/caption&gt;
+&lt;image source="images/in-phase"/&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+&lt;caption&gt; Inductor.  Current lags voltage.&lt;/caption&gt; 
+&lt;image source="images/ELI"/&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+&lt;caption&gt; Capacitor.  Current leads voltage.&lt;/caption&gt;
+&lt;image source="images/ICE"/&gt; 
+&lt;/figure&gt;
+&lt;/sidebyside&gt;
+&lt;/figure&gt;
+
+Note that when current is leading voltage, it is also true that voltage is lagging current.</Text>
         </Document>
         <Document ID="28F9ACE4-ACDE-483B-BD23-882458ECE698">
             <Title>Lift Check</Title>
@@ -6814,16 +6810,16 @@ This heating occurs in the superheater, which is a bank of boiler tubes located 
             <Title>History of the Internal Combustion Engine</Title>
             <Text>&lt;figure&gt;
    &lt;caption&gt; Nicolaus Otto (1832)&lt;/caption&gt; 
-  &lt;image source="images/diesel-image3.png" width="50%"/&gt; 
+  &lt;image source="images/diesel-image3.png" width="25%"/&gt; 
 &lt;/figure&gt;
-Born in 1832 in Germany, Nicolaus August Otto invented the first practical alternative to the steam engine - the first successful four-stroke cycle engine. Otto built his first four-stroke engine in 1861. Then, in partnership with German industrialist Eugen Langen, they improved the design and won a gold medal at the World Exposition in Paris of 1867. 
-In 1876, Otto, then a traveling salesman, chanced upon a newspaper account of the Lenoir internal combustion engine. Before year's end, Otto had built an internal combustion engine, utilizing a four-stroke piston cycle. Now called the 'Otto cycle' in his honor, the design called for four strokes of a piston to draw in and compress a gas-air mixture within a cylinder resulting in an internal explosion. He received patent #365,701 for his gas-motor engine. Because of its reliability, efficiency, and relative quietness, more than 30,000 Otto cycle engines were built in the next 10 years. He also developed low-voltage magneto ignition systems for his engines, allowing a much greater ease in starting. 
+The first practical alternative to the steam engine was invented in 1861 Nicolaus August Otto. Later, in partnership with German industrialist Eugen Langen, they improved the design and won a gold medal at the World Exposition in Paris of 1867.  In 1876, Otto, then a traveling salesman, chanced upon a newspaper account of the Lenoir internal combustion engine. Before year's end, Otto had built an internal combustion engine, utilizing a four-stroke piston cycle. 
+Otto's design called for four strokes of a piston to draw in and compress a gas-air mixture within a cylinder resulting in an internal explosion.  He received patent #365,701 for his gas-motor engine, now called the Otto cycle in his honor. Because of its reliability, efficiency, and relative quietness, more than 30,000 Otto cycle engines were built in the next 10 years. He also developed low-voltage magneto ignition systems for his engines, allowing a much greater ease in starting. 
 &lt;figure&gt;
    &lt;caption&gt; Rudolf Diesel (1858) &lt;/caption&gt;
-  &lt;image source="images/diesel-image4.png" width="50%"/&gt; 
+  &lt;image source="images/diesel-image4.png" width="25%"/&gt; 
 &lt;/figure&gt;
 Dr. Rudolf Diesel was born in 1858 in France and began his career as a refrigeration engineer. For ten years he worked on various heat engines, including a solar-powered air engine. Diesel's ideas for an engine where the combustion would be carried out within the cylinder were published in 1893. 
-The modern diesel engine came about as the result of the internal combustion principles first proposed by Sadi Carnot in the early 19th century. Dr. Rudolf Diesel applied Sadi Carnot's principles into a patented cycle or method of combustion that has become known as the "diesel" cycle. His patented engine operated when the heat generated during the compression of the air fuel charge caused ignition of the mixture, which then expanded at a constant pressure during the full power stroke of the engine. Dr. Diesel's first engine ran on coal dust and used a compression pressure of 1500 psi to increase its theoretical efficiency. Also, his first engine did not have provisions for any type of cooling system. Consequently, between the extreme pressure and the lack of cooling, the engine exploded and almost killed its inventor. After recovering from his injuries, Diesel tried again using oil as the fuel, adding a cooling water jacket around the cylinder, and lowering the compression pressure to approximately 550 psi. This combination eventually proved successful. Production rights to the engine were sold to Adolphus Bush, who built the first diesel engines for commercial use, installing them in his St. Louis brewery to drive various pumps.</Text>
+The modern diesel engine came about as the result of the internal combustion principles first proposed by Sadi Carnot in the early 19th century. Dr. Rudolf Diesel applied Sadi Carnot's principles into a patented cycle or method of combustion that has become known as the &lt;q&gt;diesel&lt;/q&gt; cycle. His patented engine operated when the heat generated during the compression of the air fuel charge caused ignition of the mixture, which then expanded at a constant pressure during the full power stroke of the engine. Dr. Diesel's first engine ran on coal dust and used a compression pressure of 1500 psi to increase its theoretical efficiency. Also, his first engine did not have provisions for any type of cooling system. Consequently, between the extreme pressure and the lack of cooling, the engine exploded and almost killed its inventor. After recovering from his injuries, Diesel tried again using oil as the fuel, adding a cooling water jacket around the cylinder, and lowering the compression pressure to approximately 550 psi. This combination eventually proved successful. Production rights to the engine were sold to Adolphus Bush, who built the first diesel engines for commercial use, installing them in his St. Louis brewery to drive various pumps.</Text>
         </Document>
         <Document ID="7E9BAC87-ED67-4745-8C58-63CA6F3D2CAA">
             <Title>Symbols</Title>
@@ -7777,6 +7773,10 @@ The steam cycle is an example of what is known by engineers as a cyclic heat eng
 The four stages of the steam cycle will be described, and then the cycle will be described again, this times from the perspective of the Rankine Cycle.
 </Text>
         </Document>
+        <Document ID="6BDE07F8-0031-4419-9A0F-16E5C5F7EC94">
+            <Title>Flywheel</Title>
+            <Text>The flywheel is located on one end of the crankshaft and serves three purposes. First, through its inertia, it reduces vibration by smoothing out the power stroke as each cylinder fires. Second, it is the mounting surface used to bolt the engine up to its load. Third, on some diesels, the flywheel has gear teeth around its perimeter that allow the starting motors to engage and crank the diesel.</Text>
+        </Document>
         <Document ID="C84EFB1B-13C0-4BF9-8807-ED2CDA410D02">
             <Title>Three phase power</Title>
             <Text>Large AC generators including those on the training ship generate three phase power.  Three phase power consists of three identical alternating voltage waveforms 120 degrees out of phase with each other, as shown in &lt;xref ref='fig_three-phase'/&gt;.   
@@ -7787,10 +7787,6 @@ The four stages of the steam cycle will be described, and then the cycle will be
 Three-phase power is commonly used in industrial and commercial settings, as well as in larger residential complexes and power distribution networks. It's well-suited for heavy machinery, motors, large-scale industrial processes, and high-power applications.
 The three voltage sine waves can be separated and used individually to supply single phase power for homes, small businesses, and some light commercial applications. It's suitable for powering lighting, appliances, and smaller electric loads.
 </Text>
-        </Document>
-        <Document ID="6BDE07F8-0031-4419-9A0F-16E5C5F7EC94">
-            <Title>Flywheel</Title>
-            <Text>The flywheel is located on one end of the crankshaft and serves three purposes. First, through its inertia, it reduces vibration by smoothing out the power stroke as each cylinder fires. Second, it is the mounting surface used to bolt the engine up to its load. Third, on some diesels, the flywheel has gear teeth around its perimeter that allow the starting motors to engage and crank the diesel.</Text>
         </Document>
         <Document ID="EE0308CE-D1C7-45C8-B60C-B26CEA21FA29">
             <Title>Operations</Title>
@@ -8096,18 +8092,15 @@ The register assembly consists of three main parts. The &lt;em&gt;movable air do
 The air and gas flow paths through the boiler are shown in &lt;xref ref="boilergasflow_png"/&gt;. Air supplied by the forced draft fan passes across the tubes of a steam heated air heater, and then through the boiler casing where it picks up more heat. The air passes through the register and into the furnace, where it meets up with fuel sprayed by the atomizer. It immediately ignites, and the burner flame liberates heat energy from the fuel to heat the water in the boiler. Some of this heat is in the form of thermal radiation which shines on the exposed screen and wall tubes. Other energy resides in the thermal energy of the combustion gases. These hot combustion gases flow from the furnace through the screen tubes, past the superheater tubes and the main generating bank and finally across the economizer tubes, losing heat and dropping in temperature along the way. Finally, the hot combustion gases pass up the smokestack to the atmosphere. 
 </Text>
         </Document>
-        <Document ID="CA520FD5-3488-4DAB-9E06-C3147927C1B7">
-            <Title>SOLAS</Title>
-            <Text>The International Convention for the Safety of Life at Sea (SOLAS) is an international treaty developed by the International Maritime Organization (IMO) in 1914, following the sinking of the Titanic, one of the most famous maritime disasters in history.   
-SOLAS sets out minimum safety standards for the construction, equipment, and operation of ships in order to prevent accidents at sea and ensure that ships are well-prepared to handle emergencies. 
-Key aspects and provisions of SOLAS include: &lt;ul&gt;
-Structural Integrity &lt;p&gt;It defines requirements for ship construction, stability, and subdivision to ensure that vessels are built to withstand the stresses of the marine environment.&lt;/p&gt;
-Safety Equipment &lt;p&gt;SOLAS mandates the provision of life-saving appliances such as lifeboats, life rafts, lifejackets, and distress signaling equipment on board.&lt;/p&gt;
-Fire Safety &lt;p&gt;The treaty outlines measures for preventing and combating fires on board ships, including fire detection systems, fire-fighting equipment, and fire drills.&lt;/p&gt;
-Navigation Safety &lt;p&gt;SOLAS includes regulations for navigational equipment, including navigation lights, radar systems, and the use of electronic navigation aids.&lt;/p&gt;
-Radio Communications &lt;p&gt;SOLAS establishes regulations for navigation and communication equipment, including requirements for radar systems, navigational aids, and communication devices to ensure safe navigation and effective communication, ensuring that vessels can call for assistance in case of emergencies.&lt;/p&gt;
-Training and Drills &lt;p&gt;SOLAS mandates regular safety training and drills for the crew, including procedures for abandoning ship, using life-saving equipment, and responding to emergencies.&lt;/p&gt;
-&lt;/ul&gt;&lt;/p&gt;</Text>
+        <Document ID="AA21BE8B-AE1B-4D31-A3D1-D7549BB64556">
+            <Title>Cylinder Sleeve or Bore</Title>
+            <Text>Diesel engines use one of two types of cylinders. In one type, each cylinder is simply machined or bored into the block casting, making the block and cylinders an integral part. In the second type, a machined steel sleeve is pressed into the block casting to form the cylinder. Figure 2 and Figure 3 provide examples of sleeved diesel engines. With either method, the cylinder sleeve or bore provides the engine with the cylindrical structure needed to confine the combustion gasses and to act as a guide for the engine's pistons. 
+
+   &lt;image source="images/diesel-image30.png" width="50%"/&gt;
+   &lt;image source="images/diesel-image31.png" width="50%"/&gt;
+
+Four Stroke Cylinder Liner Two Stroke Cylinder Liner/air ports 
+In engines using sleeves, there are two types of sleeves, wet and dry. A dry sleeve is surrounded by the metal of the block and does not come in direct contact with the engine's coolant (water). A wet sleeve comes in direct contact with the engine's coolant. The volume enclosed by the sleeve or bore is called the combustion chamber and is the space where the fuel is burned. In either type of cylinder, sleeved or bored, the diameter of the cylinder is called the bore of the engine and is stated in inches. For example, the bore of a 350 cubic inch Chevrolet gasoline engine is 4 inches. Most diesel engines are multi-cylinder engines and typically have their cylinders arranged in one of two ways, an in-line or a "V", although other combinations exits. In an in-line engine, as the name indicates, all the cylinders are in a row. In a "V" type engine the cylinders are arranged in two rows of cylinders set at an angle to each other that align to a common crankshaft. Each group of cylinders making up one side of the "V" is referred to as a bank of cylinders.</Text>
         </Document>
         <Document ID="0EAA72DF-5AA5-4759-9BE2-4E3CE4ED84EA">
             <Title>Periodic Waves</Title>
@@ -8137,15 +8130,18 @@ Phase Shift Phase shift refers to the time difference between two periodic wavef
 &lt;/figure&gt;
 </Text>
         </Document>
-        <Document ID="AA21BE8B-AE1B-4D31-A3D1-D7549BB64556">
-            <Title>Cylinder Sleeve or Bore</Title>
-            <Text>Diesel engines use one of two types of cylinders. In one type, each cylinder is simply machined or bored into the block casting, making the block and cylinders an integral part. In the second type, a machined steel sleeve is pressed into the block casting to form the cylinder. Figure 2 and Figure 3 provide examples of sleeved diesel engines. With either method, the cylinder sleeve or bore provides the engine with the cylindrical structure needed to confine the combustion gasses and to act as a guide for the engine's pistons. 
-
-   &lt;image source="images/diesel-image30.png" width="50%"/&gt;
-   &lt;image source="images/diesel-image31.png" width="50%"/&gt;
-
-Four Stroke Cylinder Liner Two Stroke Cylinder Liner/air ports 
-In engines using sleeves, there are two types of sleeves, wet and dry. A dry sleeve is surrounded by the metal of the block and does not come in direct contact with the engine's coolant (water). A wet sleeve comes in direct contact with the engine's coolant. The volume enclosed by the sleeve or bore is called the combustion chamber and is the space where the fuel is burned. In either type of cylinder, sleeved or bored, the diameter of the cylinder is called the bore of the engine and is stated in inches. For example, the bore of a 350 cubic inch Chevrolet gasoline engine is 4 inches. Most diesel engines are multi-cylinder engines and typically have their cylinders arranged in one of two ways, an in-line or a "V", although other combinations exits. In an in-line engine, as the name indicates, all the cylinders are in a row. In a "V" type engine the cylinders are arranged in two rows of cylinders set at an angle to each other that align to a common crankshaft. Each group of cylinders making up one side of the "V" is referred to as a bank of cylinders.</Text>
+        <Document ID="CA520FD5-3488-4DAB-9E06-C3147927C1B7">
+            <Title>SOLAS</Title>
+            <Text>The International Convention for the Safety of Life at Sea (SOLAS) is an international treaty developed by the International Maritime Organization (IMO) in 1914, following the sinking of the Titanic, one of the most famous maritime disasters in history.   
+SOLAS sets out minimum safety standards for the construction, equipment, and operation of ships in order to prevent accidents at sea and ensure that ships are well-prepared to handle emergencies. 
+Key aspects and provisions of SOLAS include: &lt;ul&gt;
+Structural Integrity &lt;p&gt;It defines requirements for ship construction, stability, and subdivision to ensure that vessels are built to withstand the stresses of the marine environment.&lt;/p&gt;
+Safety Equipment &lt;p&gt;SOLAS mandates the provision of life-saving appliances such as lifeboats, life rafts, lifejackets, and distress signaling equipment on board.&lt;/p&gt;
+Fire Safety &lt;p&gt;The treaty outlines measures for preventing and combating fires on board ships, including fire detection systems, fire-fighting equipment, and fire drills.&lt;/p&gt;
+Navigation Safety &lt;p&gt;SOLAS includes regulations for navigational equipment, including navigation lights, radar systems, and the use of electronic navigation aids.&lt;/p&gt;
+Radio Communications &lt;p&gt;SOLAS establishes regulations for navigation and communication equipment, including requirements for radar systems, navigational aids, and communication devices to ensure safe navigation and effective communication, ensuring that vessels can call for assistance in case of emergencies.&lt;/p&gt;
+Training and Drills &lt;p&gt;SOLAS mandates regular safety training and drills for the crew, including procedures for abandoning ship, using life-saving equipment, and responding to emergencies.&lt;/p&gt;
+&lt;/ul&gt;&lt;/p&gt;</Text>
         </Document>
         <Document ID="FE240C34-3316-4080-A433-65BA7E9ADA4A">
             <Title>Personal Protective Equipment</Title>
@@ -13298,6 +13294,7 @@ Conduction, radiation, and convection are usually considered to be the three met
             <Title>Hot work</Title>
         </Document>
         <Document ID="E0164142-9BA4-4423-A825-725BC64D7745">
+            <Title>Introduction</Title>
             <Text>To understand how a diesel engine operates, an understanding of the major components and how they work together is necessary. Figure 2 is an example of a medium-sized, four-stroke, supercharged, diesel engine with inlet ports and exhaust valves. Figure 3 provides a cross section of a similarly sized V-type diesel engine. 
 &lt;figure&gt;
    &lt;caption&gt; 2- 16 cylinder, 4 stroke, turbocharged diesel engine &lt;/caption&gt; 
@@ -13648,15 +13645,6 @@ Before applying &lt;xref ref="ohms-law"/&gt; the given voltage must be converted
             <Title>Electrical Shock</Title>
             <Text>The most immediate and dangerous hazard of electricity is electrical shock. When a person comes into contact with an electrical voltage, current can pass through their body, causing electrical shock. 
 Roughly speaking, the greater the current, the more severe the shock.  High voltage presents more danger than lower voltages, but even normal household voltage (120 V AC) can cause severe shock or even death.</Text>
-        </Document>
-        <Document ID="DE37BFAF-7C47-4B7F-A9DD-0FCA5B12C0F7">
-            <Title>Conversion of Heat to Work</Title>
-            <Text> The burning of fuel and air in the engine cylinder with the piston close to the top point of travel (top dead center) causes a marked increase in the pressure and temperature in the combustion space over the piston. This pressure “P” on pounds per square inch, Figure 1-1, on each square inch of top of the piston acts through a connecting rod to exert a force on the crank pin. This causes the crankshaft to rotate as indicated by the arrow. 
-&lt;figure&gt;
-   &lt;caption/&gt; 
-  &lt;image source="images/diesel-image2.png" width="50%"/&gt; 
-&lt;/figure&gt;
-As the piston is forced down, the pressure of 800 to over 1400 PSI and temperatures that can reach 3,500&lt;degree/&gt; will decrease as the gas expands. As the piston approaches the bottom point of travel (bottom dead center), pressure will be approximately 50 PSI and temperature close to 800&lt;degree/&gt; just before the exhaust valve or ports opens. During this stroke of the piston, a large portion of the energy released from the fuel during combustion will have been converted into rotational force on the crankshaft. The crankshaft is then capable of transmitting this rotational force and doing work.</Text>
         </Document>
         <Document ID="D6E37E3D-2D0B-4AED-B36B-AE61FCC04867">
             <Title>Introduction overview</Title>
@@ -37603,11 +37591,7 @@ A\  is the cross-sectional area of the conductor, in square meters.
         </Document>
         <Document ID="63F820B9-C071-437E-8B85-AFFCE3FA64DC">
             <Title>Compression Ratio and Clearance Volume</Title>
-            <Text>Clearance volume is the volume remaining in the cylinder when the piston is at TDC. Because of the irregular shape of the combustion chamber (volume in the head) the clearance volume is calculated empirically by filling the chamber with a measured amount of fluid while the piston is at TDC. This volume is then added to the displacement volume in the cylinder to obtain the cylinders total volume. An engine's compression ratio is determined by taking the volume of the cylinder with piston at TDC (highest point of travel) and dividing the volume of the cylinder when the piston is at BDC (lowest point of travel), as shown in Figure 15. This can be calculated by using the following formula: Compression Ratio displacement volume clearance volume clearance volume. 
-&lt;figure&gt;
-   &lt;caption/&gt; 
-  &lt;image source="images/diesel-image25.emf" width="50%"/&gt; 
-&lt;/figure&gt;
+            <Text>Clearance volume is the volume remaining in the cylinder when the piston is at TDC. Because of the irregular shape of the combustion chamber (volume in the head) the clearance volume is calculated empirically by filling the chamber with a measured amount of fluid while the piston is at TDC. This volume is then added to the displacement volume in the cylinder to obtain the cylinders total volume. An engine's compression ratio is determined by taking the volume of the cylinder with piston at TDC (highest point of travel) and dividing the volume of the cylinder when the piston is at BDC (lowest point of travel), as shown in Figure 15. This can be calculated by using the following formula: &lt;me&gt;\text{Compression Ratio} =  \frac{\text{displacement volume} - \text{ clearance volume}} {\text{clearance volume}}&lt;/me&gt;. 
 &lt;figure&gt;
    &lt;caption&gt; 15 Compression Ratio &lt;/caption&gt; 
   &lt;image source="images/diesel-image26.png" width="50%"/&gt; 
@@ -37725,6 +37709,23 @@ The ports are then "closed" when the piston travels back above the level of the 
   &lt;image source="images/diesel-image19.png" width="50%"/&gt; 
 &lt;/figure&gt;</Text>
         </Document>
+        <Document ID="9FFD125C-CA24-4A09-BB11-8792552B8462">
+            <Title>Operation of a Governor</Title>
+            <Text>The following is an explanation of the operation of a constant speed, hydraulically compensated governor using the Woodward brand governor as an example. The principals involved are common in any mechanical and hydraulic governor. 
+The Woodward speed governor operates the diesel engine fuel racks to ensure a constant engine speed is maintained at any load. The governor is a mechanical-hydraulic type governor and receives its supply of oil from the engine lubricating system. This means that a loss of lube oil pressure will cut off the supply of oil to the governor and cause the governor to shut down the engine. This provides the engine with a built-in shutdown device to protect the engine in the event of loss of lubricating oil pressure. 
+The governor controls the fuel rack position through a combined action of the hydraulic piston and a set of mechanical flyweights, which are driven by the engine blower shaft. Figure 28 provides an illustration of a functional diagram of a mechanical-hydraulic governor. The position of the flyweights is determined by the speed of the engine. As the engine speeds up or down, the weights move in or out. The movement of the flyweights, due to a change in engine speed, moves a small piston (pilot valve) in the governor's hydraulic system. This motion adjusts flow of hydraulic fluid to a large hydraulic piston (servo-motor piston). The large hydraulic piston is linked to the fuel rack and its motion resets the fuel rack for increased/decreased fuel. 
+&lt;figure&gt;
+   &lt;caption/&gt; 
+  &lt;image source="images/diesel-image45.png" width="50%"/&gt; 
+&lt;/figure&gt;
+&lt;figure&gt;
+   &lt;caption&gt; 28 Simplified Mechanical-Hydraulic Governor &lt;/caption&gt; 
+  &lt;image source="images/diesel-image46.png" width="50%"/&gt; 
+&lt;/figure&gt;</Text>
+        </Document>
+        <Document ID="EB9FCE57-36E9-462A-9A37-12C442C56D23">
+            <Title>Measuring Instruments</Title>
+        </Document>
         <Document ID="C326C5C1-84DB-4822-9E91-50156CDF3B7D">
             <Title>General Purpose</Title>
             <Text>Rulers and Yardsticks  are straight, flat measuring tools commonly used for shorter lengths. A ruler measure 1 ft. or 12 inches whereas a yardstick measure 3 ft. or 1 yd.
@@ -37760,23 +37761,6 @@ Sonar is an object-finding system that uses sound waves to determine the distan
 
 These instruments allow engineers, sailors, and others to accurately measure lengths and distances according to their respective systems of measurement. It's important to note that many professionals now use digital instruments, such as laser distance measurers, which can provide precise measurements in multiple units.
 </Text>
-        </Document>
-        <Document ID="EB9FCE57-36E9-462A-9A37-12C442C56D23">
-            <Title>Measuring Instruments</Title>
-        </Document>
-        <Document ID="9FFD125C-CA24-4A09-BB11-8792552B8462">
-            <Title>Operation of a Governor</Title>
-            <Text>The following is an explanation of the operation of a constant speed, hydraulically compensated governor using the Woodward brand governor as an example. The principals involved are common in any mechanical and hydraulic governor. 
-The Woodward speed governor operates the diesel engine fuel racks to ensure a constant engine speed is maintained at any load. The governor is a mechanical-hydraulic type governor and receives its supply of oil from the engine lubricating system. This means that a loss of lube oil pressure will cut off the supply of oil to the governor and cause the governor to shut down the engine. This provides the engine with a built-in shutdown device to protect the engine in the event of loss of lubricating oil pressure. 
-The governor controls the fuel rack position through a combined action of the hydraulic piston and a set of mechanical flyweights, which are driven by the engine blower shaft. Figure 28 provides an illustration of a functional diagram of a mechanical-hydraulic governor. The position of the flyweights is determined by the speed of the engine. As the engine speeds up or down, the weights move in or out. The movement of the flyweights, due to a change in engine speed, moves a small piston (pilot valve) in the governor's hydraulic system. This motion adjusts flow of hydraulic fluid to a large hydraulic piston (servo-motor piston). The large hydraulic piston is linked to the fuel rack and its motion resets the fuel rack for increased/decreased fuel. 
-&lt;figure&gt;
-   &lt;caption/&gt; 
-  &lt;image source="images/diesel-image45.png" width="50%"/&gt; 
-&lt;/figure&gt;
-&lt;figure&gt;
-   &lt;caption&gt; 28 Simplified Mechanical-Hydraulic Governor &lt;/caption&gt; 
-  &lt;image source="images/diesel-image46.png" width="50%"/&gt; 
-&lt;/figure&gt;</Text>
         </Document>
         <Document ID="9E434387-F128-4499-AC81-5261648DB3E6">
             <Title>Single-phase generator</Title>
@@ -37966,13 +37950,9 @@ To convert between SI and US customary power units, use these conversion factors
         <Document ID="68250206-0728-4659-A41B-FEEBEDA9A0A7">
             <Title>Thermal Energy</Title>
         </Document>
-        <Document ID="48299D64-016F-45A1-9670-369CB36DF9C1">
-            <Title>Construction</Title>
-            <Text>An electrical generator consists of two main mechanical components: a rotating part called the rotor and a stationary part called the stator, and two main electrical components: the armature and the field.  
-Both the armature and the field are made of a conducting material, usually copper wire, wound into multi-loop coils called windings. The rotor is connected to a prime mover, such as a steam turbine or a diesel engine which supplies the mechanical energy to the generator.
-The field windings are like an electromagnet.  When direct current (DC) flows through the field windings, a magnetic field is created similar to the one which surrounds the north and south poles of an ordinary magnet, but adjustable. The strength of the field is controlled by the amount of the field current.  The process of supplying electrical current to the field winding is known as excitation.  
-The armature windings are the part of the generator where the voltage is induced.  The armature consists of several individual windings connected in a specific configuration. The end points of the armature windings are called the generator terminals.  As long as the generator is spinning, the field will induce a sinusoidal AC voltage into the armature windings.  The armature windings deliver power to the terminals and thence to the load circuit.
-In a typical AC synchronous generator, the rotor carries the field windings and the stator carries the armature windings, however the opposite arrangement is also possible.</Text>
+        <Document ID="0D8FDF44-B9F3-42F3-B586-6A8CAADD90FD">
+            <Title>Metering</Title>
+            <Text>Accurate metering or measuring of the fuel means that, for the same fuel control setting, the same quantity of fuel must be delivered to each cylinder for each power stroke of the engine, only with accurate metering can the engine operate at uniform speed with a uniform power output.</Text>
         </Document>
         <Document ID="F69E24DD-3101-49CA-B8FD-B1EE085682BF">
             <Title>Caps and Plugs</Title>
@@ -37985,9 +37965,13 @@ In a typical AC synchronous generator, the rotor carries the field windings and 
 &lt;/figure&gt;
 </Text>
         </Document>
-        <Document ID="0D8FDF44-B9F3-42F3-B586-6A8CAADD90FD">
-            <Title>Metering</Title>
-            <Text>Accurate metering or measuring of the fuel means that, for the same fuel control setting, the same quantity of fuel must be delivered to each cylinder for each power stroke of the engine, only with accurate metering can the engine operate at uniform speed with a uniform power output.</Text>
+        <Document ID="48299D64-016F-45A1-9670-369CB36DF9C1">
+            <Title>Construction</Title>
+            <Text>An electrical generator consists of two main mechanical components: a rotating part called the rotor and a stationary part called the stator, and two main electrical components: the armature and the field.  
+Both the armature and the field are made of a conducting material, usually copper wire, wound into multi-loop coils called windings. The rotor is connected to a prime mover, such as a steam turbine or a diesel engine which supplies the mechanical energy to the generator.
+The field windings are like an electromagnet.  When direct current (DC) flows through the field windings, a magnetic field is created similar to the one which surrounds the north and south poles of an ordinary magnet, but adjustable. The strength of the field is controlled by the amount of the field current.  The process of supplying electrical current to the field winding is known as excitation.  
+The armature windings are the part of the generator where the voltage is induced.  The armature consists of several individual windings connected in a specific configuration. The end points of the armature windings are called the generator terminals.  As long as the generator is spinning, the field will induce a sinusoidal AC voltage into the armature windings.  The armature windings deliver power to the terminals and thence to the load circuit.
+In a typical AC synchronous generator, the rotor carries the field windings and the stator carries the armature windings, however the opposite arrangement is also possible.</Text>
         </Document>
         <Document ID="3398E671-B9ED-4B34-A476-CE7BDDAE3994">
             <Title>OICEW-C2.1 Safe isolation of shipboard machinery and equipment before personnel are permitted to work</Title>
@@ -38016,6 +38000,14 @@ Systematically analyzing and communicating job hazards and implementing appropri
         <Document ID="66D334FC-1497-41F1-9BC5-5EA67AEEB1F5">
             <Title>Electrical Charge</Title>
         </Document>
+        <Document ID="09C47F81-6DFB-4A6B-BBA9-86E5BA6DE256">
+            <Title>Intake</Title>
+            <Text>As the piston moves upward and approaches 28° before top dead center (BTDC), as measured by crankshaft rotation, the camshaft lobe starts to lift the cam follower. This causes the pushrod to move upward and pivots the rocker arm on the rocker arm shaft. As the valve lash is taken up, the rocker arm pushes the intake valve downward and the valve starts to open. The intake stroke now starts while the exhaust valve is still open. The flow of the exhaust gasses will have created a low pressure condition within the cylinder and will help pull in the fresh air charge as shown in Figure 16. The piston continues its upward travel through top dead center (TDC) while fresh air enters and exhaust gasses leave. At about 12° after top dead center (ATDC), the camshaft exhaust lobe rotates so that the exhaust valve will start to close. The valve is fully closed at 23° ATDC. This is accomplished through the valve spring, which was compressed when the valve was opened, forcing the rocker arm and cam follower back against the cam lobe as it rotates. The time frame during which both the intake and exhaust valves are open is called valve overlap (51° of overlap in this example) and is necessary to allow the fresh air to help scavenge (remove) the spent exhaust gasses and cool the cylinder. In most engines, 30 to 50 times cylinder volume is scavenged through the cylinder during overlap. This excess cool air also provides the necessary cooling effect on the engine parts. As the piston passes TDC and begins to travel down the cylinder bore, the movement of the piston creates a suction and continues to draw fresh air into the cylinder. 
+&lt;figure&gt;
+   &lt;caption&gt; 18- Compression &lt;/caption&gt; 
+  &lt;image source="images/diesel-image6.png" width="30%"/&gt; 
+&lt;/figure&gt;</Text>
+        </Document>
         <Document ID="1CB51344-9ABA-4CCB-9454-DD7F8AF794A9">
             <Title>Inverter (INV)</Title>
             <Text>The inverter section contains three subassemblies called stacks, one for each phase of the output.  Each stack consists of four IGBT and two diode press pack modules, a gate driver, water-cooled heat sink and balancing resistors.   
@@ -38028,14 +38020,6 @@ The term press pack refers to the physical packaging of electronic components.  
 &lt;/figure&gt;
 The IGBT gates are triggered by pulse width signals produced in the CLC section which change the direct current stored in the DC capacitors into variable voltage, variable frequency alternating current.
 </Text>
-        </Document>
-        <Document ID="09C47F81-6DFB-4A6B-BBA9-86E5BA6DE256">
-            <Title>Intake</Title>
-            <Text>As the piston moves upward and approaches 28° before top dead center (BTDC), as measured by crankshaft rotation, the camshaft lobe starts to lift the cam follower. This causes the pushrod to move upward and pivots the rocker arm on the rocker arm shaft. As the valve lash is taken up, the rocker arm pushes the intake valve downward and the valve starts to open. The intake stroke now starts while the exhaust valve is still open. The flow of the exhaust gasses will have created a low pressure condition within the cylinder and will help pull in the fresh air charge as shown in Figure 16. The piston continues its upward travel through top dead center (TDC) while fresh air enters and exhaust gasses leave. At about 12° after top dead center (ATDC), the camshaft exhaust lobe rotates so that the exhaust valve will start to close. The valve is fully closed at 23° ATDC. This is accomplished through the valve spring, which was compressed when the valve was opened, forcing the rocker arm and cam follower back against the cam lobe as it rotates. The time frame during which both the intake and exhaust valves are open is called valve overlap (51° of overlap in this example) and is necessary to allow the fresh air to help scavenge (remove) the spent exhaust gasses and cool the cylinder. In most engines, 30 to 50 times cylinder volume is scavenged through the cylinder during overlap. This excess cool air also provides the necessary cooling effect on the engine parts. As the piston passes TDC and begins to travel down the cylinder bore, the movement of the piston creates a suction and continues to draw fresh air into the cylinder. 
-&lt;figure&gt;
-   &lt;caption&gt; 18- Compression &lt;/caption&gt; 
-  &lt;image source="images/diesel-image6.png" width="30%"/&gt; 
-&lt;/figure&gt;</Text>
         </Document>
         <Document ID="5823802B-C704-42B3-AD53-70CB7283790B">
             <Title>Pipe Materials</Title>
@@ -38682,27 +38666,32 @@ Maintain proper lighting to ensure visibility within the confined space. Establi
             <Text>tbd</Text>
         </Document>
         <Document ID="15B6D460-608A-48C9-94B3-88A197779B22">
-            <Text>All diesel engines fall into one of two categories, two-stroke or four-stroke cycle engines. The word cycle refers to any operation or series of events that repeats itself. In the case of a four stroke cycle engine, the engine requires four strokes of the piston (intake, compression, power, and exhaust) to complete one full cycle. Therefore, it requires two rotations of the crankshaft, or 720° of crankshaft rotation (360° x 2) to complete one cycle. In a two-stroke cycle engine the events (intake, compression, power, and exhaust) occur in only one rotation of the crankshaft, or 360°.
-In the following discussion of the diesel cycle it is important to keep in mind the time frame in which each of the actions is required to occur. Time is required to move exhaust gas out of the cylinder and fresh air in to the cylinders, to compress the air, to inject fuel, and to burn the fuel. If a four-stroke diesel engine is running at a constant 2100 revolutions per minute (rpm), the crankshaft would be rotating at 35 revolutions, or 12,600 degrees, per second. One stroke is completed in about 0.01429 seconds.
+            <Title>Introduction</Title>
+            <Text>
+&lt;figure&gt;
+   &lt;caption&gt;Conversion of Pressure to Rotating force&lt;/caption&gt;
+  &lt;image source="images/diesel-image2.png" width="50%"/&gt; 
+&lt;/figure&gt;
+A diesel engine converts the energy stored in the fuel's chemical bonds into mechanical energy by burning the fuel. The chemical reaction of burning the fuel liberates heat and causes the gasses to expand and force he piston down, creating torque which rotates the crankshaft and drives the load. 
+All diesel engines fall into one of two categories, two-stroke or four-stroke cycle engines. The word cycle refers to any operation or series of events that repeats itself. 
+In the case of a four-stroke cycle engine, the engine requires four strokes of the piston (down, up, down, up) to complete one full cycle. Therefore, it requires two rotations of the crankshaft, or 720° of crankshaft rotation to complete one cycle. The events occurring during the four strokes are : &lt;ul&gt;
+   Intake The piston passes TDC, the intake valve(s) open and the fresh air is admitted into the cylinder, the exhaust valve is still open for a few degrees to allow scavenging to occur. 
+   Compression After the piston passes BDC the intake valve closes and the piston travels up to TDC (completion of the first crankshaft rotation). 
+   Fuel injection As the piston nears TDC on the compression stroke, the fuel is injected by the injectors and the fuel starts to burn, further heating the gasses in the cylinder. 
+   Power The piston passes TDC and the expanding gasses force the piston down, rotating the crankshaft. 
+   Exhaust As the piston passes BDC the exhaust valves open and the exhaust gasses start to flow out of the cylinder. This continues as the piston travels up to TDC, pumping the spent gasses out of the cylinder. At TDC the second crankshaft rotation is complete. 
+&lt;/ul&gt;&lt;/p&gt;
+In a two-stroke cycle engine all the cycle's events (intake, compression, power, and exhaust) occur in just one rotation of the crankshaft, or 360°. The events occur as follows: &lt;ul&gt;
+   Intake The piston is near BDC and exhaust is in progress. The intake valve or ports open and the fresh air is forced in. The exhaust valves or ports are closed and intake continues. 
+   Compression After both the exhaust and intake valves or ports are closed, the piston travels up towards TDC. The fresh air is heated by the compression. 
+   Fuel injection Near TDC the fuel is injected by the injectors and the fuel starts to burn, further heating the gasses in the cylinder. 
+   Power The piston passes TDC and the expanding gasses force the piston down, rotating the crankshaft. 
+   Exhaust As the piston approaches BDC the exhaust valves or ports open and the exhaust gasses start to flow out of the cylinder. 
+   &lt;/ul&gt;&lt;/p&gt;
 
+In the following discussion of the diesel cycle it is important to keep in mind the time required for each of the actions to occur. Very little time is available to move exhaust gas out of, and fresh air into the cylinders, to compress the air, to inject fuel, and the fuel to burn. If a four-stroke diesel engine is running at a constant 2100 revolutions per minute , the crankshaft would be rotating at 35 revolutions, or 12,600 degrees, per second. One stroke is completed in about 0.01429 seconds.
 Ignition occurs in a diesel by injecting fuel into the air charge which has been heated by compression to a temperature greater than the ignition point of the fuel. 
-A diesel engine converts the energy stored in the fuel's chemical bonds into mechanical energy by burning the fuel. The chemical reaction of burning the fuel liberates heat, which causes the gasses to expand, forcing the piston to rotate the crankshaft. 
-A four-stroke engine requires two rotations of the crankshaft to complete one cycle. The event occur as follows: 
-&lt;blockquote&gt;
-   Intake - the piston passes TDC, the intake valve(s) open and the fresh air is admitted into the cylinder, the exhaust valve is still open for a few degrees to allow scavenging to occur. 
-   Compression - after the piston passes BDC the intake valve closes and the piston travels up to TDC (completion of the first crankshaft rotation). 
-   Fuel injection - As the piston nears TDC on the compression stroke, the fuel is injected by the injectors and the fuel starts to burn, further heating the gasses in the cylinder. 
-   Power - the piston passes TDC and the expanding gasses force the piston down, rotating the crankshaft. 
-   Exhaust - as the piston passes BDC the exhaust valves open and the exhaust gasses start to flow out of the cylinder. This continues as the piston travels up to TDC, pumping the spent gasses out of the cylinder. At TDC the second crankshaft rotation is complete. 
-&lt;/blockquote&gt;
-A two-stroke engine requires one rotation of the crankshaft to complete one cycle. The events occur as follows: 
-&lt;blockquote&gt;
-   Intake - the piston is near BDC and exhaust is in progress. The intake valve or ports open and the fresh air is forced in. The exhaust valves or ports are closed and intake continues. 
-   Compression - after both the exhaust and intake valves or ports are closed, the piston travels up towards TDC. The fresh air is heated by the compression. 
-   Fuel injection - near TDC the fuel is injected by the injectors and the fuel starts to burn, further heating the gasses in the cylinder. 
-   Power - the piston passes TDC and the expanding gasses force the piston down, rotating the crankshaft. 
-   Exhaust - as the piston approaches BDC the exhaust valves or ports open and the exhaust gasses start to flow out of the cylinder. 
-   &lt;/blockquote&gt;</Text>
+</Text>
         </Document>
         <Document ID="EF069A83-E56B-4BF4-956B-3F444E307B6D">
             <Title>ISM Code</Title>
@@ -38758,6 +38747,8 @@ Under the ISM Code, both the ship and the company have specific obligations to e
         </Document>
         <Document ID="EB2EC9AB-5C47-49A3-8A53-FD60DE94D62E">
             <Title>Introduction</Title>
+            <Text> 
+</Text>
         </Document>
         <Document ID="D834F2C8-6258-407B-8640-31D8FC8E875A">
             <Title>Rotary Pumps</Title>
@@ -39385,13 +39376,6 @@ But, with the right tools and a simple formula to follow, you should quickly lea
             <Text>Finally the DC Heater acts as a storage location for feedwater. It acts as a surge tank for the system, allowing fluctuations in the amount of water contained in the cycle to occur without upsetting the feed pump and feedwater regulators. 
 </Text>
         </Document>
-        <Document ID="353F3D8F-6DC9-4AD9-8454-85EA39354060">
-            <Title>Batteries</Title>
-        </Document>
-        <Document ID="F42339E0-F91D-4152-85DA-A1DA7707A26A">
-            <Title>Instruments Used to Measure Temperature-1</Title>
-            <Text>&lt;term&gt;</Text>
-        </Document>
         <Document ID="3BC4C4AD-1D72-4A07-99C1-12FC1A08749B">
             <Title>Piston and Piston Rings</Title>
             <Text>The piston transforms the energy of the expanding gasses into mechanical energy. The piston rides in the cylinder liner or sleeve as shown in Figure 2 and Figure 3. Pistons are commonly made of aluminum or cast iron alloys. To prevent the combustion gasses from bypassing the piston and to keep friction to a minimum, each piston has several metal rings around it, as illustrated by Figure 6. These rings function as the seal between the piston and the cylinder wall and also act to reduce friction by minimizing the contact area between the piston and the cylinder wall. The rings are usually made of cast iron and coated with chrome or molybdenum. Most diesel engine pistons have several rings, usually 2 to 5, with each ring performing a distinct function. The top ring(s) acts primarily as the pressure seal. The intermediate ring(s) acts as a wiper ring to remove and control the amount of oil film on the cylinder walls. The bottom ring(s) is an oiler ring and ensures that a supply of lubricating oil is evenly deposited on the cylinder walls. 
@@ -39399,6 +39383,13 @@ But, with the right tools and a simple formula to follow, you should quickly lea
    &lt;caption&gt; 5 Piston and Connecting Rod &lt;/caption&gt; 
   &lt;image source="images/diesel-image32.png" width="50%"/&gt; 
 &lt;/figure&gt;</Text>
+        </Document>
+        <Document ID="353F3D8F-6DC9-4AD9-8454-85EA39354060">
+            <Title>Batteries</Title>
+        </Document>
+        <Document ID="F42339E0-F91D-4152-85DA-A1DA7707A26A">
+            <Title>Instruments Used to Measure Temperature-1</Title>
+            <Text>&lt;term&gt;</Text>
         </Document>
         <Document ID="812627AD-9D7F-41D8-A658-E45E989CF259">
             <Title>Infrared (IR) Thermometer</Title>
@@ -39417,9 +39408,31 @@ But, with the right tools and a simple formula to follow, you should quickly lea
             <Title>Open circuits, short circuits, and grounds</Title>
         </Document>
         <Document ID="495C33B7-6C7E-4E15-A0F3-56F193157F2C">
-            <Text>A diesel engine is one type of internal combustion engine in which chemical energy of a fuel is converted directly into power available for doing work. These prime movers are built in sizes ranging from a few horsepower to over 100,000. Within the limits of its range of horsepower, the diesel engine is the most efficient source of power available. 
-This very efficient and self-contained source of power is quite versatile in its application. Diesels are widely used for electrical power in a wide variety of commercial and industrial application. In the field of transportation, they power locomotives, trucks and all varieties of oceangoing vessels. 
-Diesel engines will operate on a wide variety of liquid fuel oils. Most large slow speed engines operate on Heavy Fuel Oil (HFO). With a growing trend for engines to run on gaseous fuels such as natural gas or bio-gas, many engines operate on a combination of liquid and gaseous fuels and called “dual-fuel” engines.</Text>
+            <Title>Introduction</Title>
+            <Text>A diesel engine is a type of internal combustion engine in which the chemical energy of fuel is converted into work.  Diesel engines provide a rugged, efficient, versatile, self-contained source of power.
+These engines come in sizes ranging from a few horsepower to over 100,000. Within the limits of its range of horsepower, the diesel engine is one of the most efficient source of power available. 
+Diesels are widely used in a wide variety of commercial and industrial applications including electrical generation. In the field of transportation, they power locomotives, construction equipment, vehicles, and all varieties of oceangoing vessels. 
+Diesel engines can operate on a wide variety of liquid fuel oils. Most small and medium engines operate on petroleum diesel fuel, which is a distilled from crude oil, while large slow speed marine engines operate on Heavy Fuel Oil (HFO). There is a growing trend for engines to run on gaseous fuels such as natural gas or bio-gas.  Engines which can operate on a combination of liquid and gaseous fuels are called dual-fuel.
+
+</Text>
+        </Document>
+        <Document ID="4D0A0228-504A-480D-99F0-7C6523533A2E">
+            <Title>Exhaust</Title>
+            <Text>As the piston approaches 48° BBDC, the cam of the exhaust lobe starts to force the follower upward, causing the exhaust valve to lift off its seat. As shown in Figure 20, the exhaust gasses start to flow out the exhaust valve due to cylinder pressure and into the exhaust manifold. After passing BDC, the piston moves upward and accelerates to its maximum speed at 63° BTDC. From this point on the piston is decelerating. As the piston speed slows down, the velocity of the gasses flowing out of the cylinder creates a pressure slightly lower than atmospheric pressure. At 28° BTDC, the intake valve opens and the cycle starts again. 
+&lt;figure&gt;
+   &lt;caption&gt; 21-Four Stroke Timing Diagram, Naturally Aspirated Engine &lt;/caption&gt; 
+  &lt;image source="images/diesel-image10.png" width="50%"/&gt; 
+&lt;/figure&gt;
+A-Intake valve Opening, B- Exhaust Valve Closing, C- Exhaust Valve Opening, D- Intake Valve Closing</Text>
+        </Document>
+        <Document ID="92D88081-23B4-4DF6-8BDA-97FD096D8A24">
+            <Title>Exhaust System</Title>
+            <Text>The exhaust system of a diesel engine performs three functions. First, the exhaust system routes the spent combustion gasses away from the engine, where they are diluted by the atmosphere. This keeps the area around the engine habitable. Second, the exhaust system confines and routes the gasses to the turbocharger, if used. Third, the exhaust system allows mufflers to be used to reduce the engine noise.
+
+&lt;figure&gt;
+   &lt;caption/&gt;
+  &lt;image source="images/diesel-image22.png" width="50%"/&gt; 
+&lt;/figure&gt;</Text>
         </Document>
         <Document ID="CBBC0D8D-2D52-4BD9-B8CB-36E5F079A0CD">
             <Title>introduction</Title>
@@ -39432,15 +39445,6 @@ Diesel engines will operate on a wide variety of liquid fuel oils. Most large sl
 &lt;/image&gt;
 &lt;/figure&gt;
 Here are some of the main hazards associated with electricity:</Text>
-        </Document>
-        <Document ID="4D0A0228-504A-480D-99F0-7C6523533A2E">
-            <Title>Exhaust</Title>
-            <Text>As the piston approaches 48° BBDC, the cam of the exhaust lobe starts to force the follower upward, causing the exhaust valve to lift off its seat. As shown in Figure 20, the exhaust gasses start to flow out the exhaust valve due to cylinder pressure and into the exhaust manifold. After passing BDC, the piston moves upward and accelerates to its maximum speed at 63° BTDC. From this point on the piston is decelerating. As the piston speed slows down, the velocity of the gasses flowing out of the cylinder creates a pressure slightly lower than atmospheric pressure. At 28° BTDC, the intake valve opens and the cycle starts again. 
-&lt;figure&gt;
-   &lt;caption&gt; 21-Four Stroke Timing Diagram, Naturally Aspirated Engine &lt;/caption&gt; 
-  &lt;image source="images/diesel-image10.png" width="50%"/&gt; 
-&lt;/figure&gt;
-A-Intake valve Opening, B- Exhaust Valve Closing, C- Exhaust Valve Opening, D- Intake Valve Closing</Text>
         </Document>
         <Document ID="DA41FE0A-CF6B-4899-A2C0-7E6A471053A6">
             <Title>Symbols</Title>
@@ -39478,10 +39482,6 @@ A-Intake valve Opening, B- Exhaust Valve Closing, C- Exhaust Valve Opening, D- I
 &lt;url href="https://weh.maritime.edu/stcw/2023/tables/31.html#OICEW-C2.1" visual="OICEW-C2.1"/&gt; Safety measures to be taken for repair and maintenance
 &lt;url href="https://weh.maritime.edu/stcw/2023/tables/35.html#ABE-C3.1" visual="ABE-C3.1"/&gt; Permit to work systems
 </Text>
-        </Document>
-        <Document ID="92D88081-23B4-4DF6-8BDA-97FD096D8A24">
-            <Title>Exhaust System</Title>
-            <Text>The exhaust system of a diesel engine performs three functions. First, the exhaust system routes the spent combustion gasses away from the engine, where they are diluted by the atmosphere. This keeps the area around the engine habitable. Second, the exhaust system confines and routes the gasses to the turbocharger, if used. Third, the exhaust system allows mufflers to be used to reduce the engine noise.</Text>
         </Document>
         <Document ID="3EBAA94F-EF39-4552-AC9D-3FC55A57683E">
             <Title>The Power Electronic Controller - PECe</Title>
@@ -41758,13 +41758,16 @@ This system provides communication between the port and starboard drives and the
         <Document ID="B1A29701-C510-4FB4-96C4-DEDCCC2CDFDC">
             <Title>Electrical Principles</Title>
         </Document>
-        <Document ID="D4499CD7-4218-4DDD-8ACB-A8A39325A1D6">
-            <Title>Components of a Safety Management System</Title>
+        <Document ID="FC6C69C4-CCCD-443B-8BD2-A31F9BFEE5F1">
+            <Title>Fuel Injection</Title>
         </Document>
         <Document ID="85C5F406-7D62-41E6-B4F7-B344DBE29512">
             <Title>Single-phase motors</Title>
             <Text>Although most large motors aboard ship are supplied with three-phase power, smaller motors, such as those driving appliances, must operate from single-phase circuits.   &lt;term&gt;Single-phase motors&lt;/term&gt; are most often arranged with two sets of stator windings, with the second set supplied from the line connections through a &lt;term&gt;capacitor&lt;/term&gt;. The capacitor imposes a phase shift on the line current reaching these windings, to make it look like two-phase AC current. The stator is thus able to develop a rotating magnetic field to drive a rotor.
 </Text>
+        </Document>
+        <Document ID="D4499CD7-4218-4DDD-8ACB-A8A39325A1D6">
+            <Title>Components of a Safety Management System</Title>
         </Document>
         <Document ID="8577BEFB-1994-46A4-B66E-42F9F7CA6C4A">
             <Text>Electricity is the backbone of modern civilization, supporting nearly every aspect of our lives.  Most people have used electricity every day of their lives without giving it much thought.
@@ -41773,9 +41776,6 @@ Electrical phenomena include static electricity, electrical discharges like ligh
 In this chapter we will define some basic electrical terms and describe some important electrical phenomena  in order to give you a framework to understand how we harness and use electrical power aboard the training ship.
 
 </Text>
-        </Document>
-        <Document ID="FC6C69C4-CCCD-443B-8BD2-A31F9BFEE5F1">
-            <Title>Fuel Injection</Title>
         </Document>
         <Document ID="A7C893EB-56A1-42F9-B073-5BAF59AA178D">
             <Title>Water drum</Title>
@@ -42189,7 +42189,7 @@ Touch screen display. This display provides functionality to configure the drive
         </Document>
         <Document ID="AD7A5795-F6F0-4581-BA63-4F20AD9A4971">
             <Title>Engine Displacement</Title>
-            <Text>Engine displacement is one of the terms used to compare one engine to another. Displacement refers to the total volume displaced by all the pistons during one stroke. The displacement is usually given in cubic inches or liters. To calculate the displacement of an engine, the volume of one cylinder must be determined (volume of a cylinder = (πr2)h where h = the stroke). The volume of one cylinder is multiplied by the number of cylinders to obtain the total engine displacement.</Text>
+            <Text>Engine displacement is one of the terms used to compare one engine to another. Displacement refers to the total volume displaced by all the pistons during one stroke. The displacement is usually given in cubic inches or liters. To calculate the displacement of an engine, the volume of one cylinder must be determined (volume of a cylinder = (πr^2)h where h = the stroke). The volume of one cylinder is multiplied by the number of cylinders to obtain the total engine displacement.</Text>
         </Document>
         <Document ID="71F67220-492E-4788-8B6A-D5427BA9B099">
             <Title>What is an IGBT?</Title>
