@@ -64,4 +64,6 @@
     <Day dwc="4" dcc="24" owc="0" occ="0">2024-04-27</Day>
     <Day dwc="-172" dcc="-981" dtwc="10804" owc="0" occ="0" dtcc="65238">2024-04-30</Day>
     <Day dwc="-27" dcc="-237" dtwc="10777" owc="0" occ="0" dtcc="65001">2024-05-03</Day>
+    <Day dwc="1" dcc="0" owc="0" occ="0">2024-07-11</Day>
+    <Day dwc="0" dcc="0" owc="1" occ="-75">2024-07-12</Day>
 </WritingHistory>

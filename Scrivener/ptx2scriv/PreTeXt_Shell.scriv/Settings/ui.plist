@@ -20,12 +20,12 @@
 	</array>
 	<key>bookmarksSelectionInfo</key>
 	<dict>
-		<key>19244D42-22C9-4D34-A6DF-DEC84DB9D450</key>
+		<key>27E11326-AFE0-4262-ADC9-F91B7F5D7E28</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
-		<key>3F7A1031-8053-4EE1-9C59-7890B21FB525</key>
+		<key>3592C410-2EC8-44F2-8C27-DDAC4089A648</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -36,6 +36,21 @@
 			<integer>-1</integer>
 		</dict>
 		<key>81F6E3E1-2136-419A-8CAA-8F396FA99BC6</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>911EE128-D66D-426F-81C9-FF0B7775E61A</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>ABD0F88E-3CE6-406A-900A-1D803B709B76</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>B030C9BA-7521-426C-A8B7-D10B8C13992D</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -90,14 +105,14 @@
 		<real>1</real>
 	</dict>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {620, 533}}</string>
+	<string>{{0, -32}, {726, 565}}</string>
 	<key>mainDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>
 		<real>1</real>
 	</dict>
 	<key>mainWindowFrame</key>
-	<string>697 169 1253 679 0 0 1440 875 </string>
+	<string>934 342 1253 679 1920 39 1512 950 </string>
 	<key>searchResultsTable</key>
 	<dict>
 		<key>order</key>
@@ -116,7 +131,7 @@
 		<real>1</real>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {620, 294}}</string>
+	<string>{{0, 0}, {606, 294}}</string>
 	<key>supportingDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>
