@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="7230DFF0-D98F-4CD3-826E-BAA953D9CA8C" Version="2.0" Creator="SCRMAC-3.3.6-16305" Device="whaynes-MBP" Author="" Modified="2024-07-12 09:45:47 -0400" ModID="F2354BF4-C3E5-40D7-9A83-6FC363D99EF0">
+<ScrivenerProject Identifier="7230DFF0-D98F-4CD3-826E-BAA953D9CA8C" Version="2.0" Creator="SCRMAC-3.3.6-16305" Device="whaynes-MBP" Author="" Modified="2024-07-16 08:24:52 -0400" ModID="6831518A-3A82-4928-8E43-D23434CC7FE1">
     <Binder>
         <BinderItem UUID="4497343D-E609-408A-B00A-2B537F7BADFD" Type="DraftFolder" Created="2019-08-02 15:16:02 -0400" Modified="2019-08-02 15:16:02 -0400">
             <MetaData>
@@ -406,14 +406,14 @@
     </CustomMetaDataSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2019-08-02 14:45:12 -0400" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2024-07-13 01:00:00 -0400" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2024-07-12 09:44:32 -0400"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2024-07-17 01:00:00 -0400" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2024-07-16 08:24:47 -0400"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2024-07-12 00:00:00 -0400">
+    <RecentWritingHistory Date="2024-07-16 00:00:00 -0400">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
-        <OtherCharCount>-1</OtherCharCount>
+        <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="611.999972,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>

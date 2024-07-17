@@ -31,4 +31,12 @@
       </a>
     </div>
   </xsl:template>
+  
+  <!-- This allows including entire pdf.  path 'external' is hard coded -->
+  <xsl:template match="includepdf">
+    <xsl:text>\includepdf[pages=-]{external/</xsl:text>
+    <xsl:value-of select="."/>
+    <xsl:text>}%&#xa;</xsl:text>
+  </xsl:template>
+  
 </xsl:stylesheet>

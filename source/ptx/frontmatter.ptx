@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <frontmatter xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="frontmatter">
-   <titlepage>
-      <author>
-         <personname>Massachusetts Maritime Academy</personname>
-         <department>Engineering Department</department>
-         <institution>Massachusetts Maritime Academy</institution>
-      </author>
-      <date>
-         <today/>
-      </date>
-   </titlepage>
+  <titlepage>
+    <author>
+      <personname>Massachusetts Maritime Academy</personname>
+      <department>Engineering Department</department>
+      <institution>Massachusetts Maritime Academy</institution>
+    </author>
+    <date>
+      <today/>
+    </date>
+  </titlepage>
 </frontmatter>

@@ -1,39 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="auxiliary-systems">
-   <title>Auxiliary Systems</title>
-   <section xml:id="auxiliary-systems-lubrication-systems">
-      <title>Lubrication Systems</title>
-      <subsection xml:id="auxiliary-systems-requirements-of-a-lubrication-system">
-         <title>Requirements of a Lubrication System</title>
-         <p>TBD</p>
-      </subsection>
-      <subsection xml:id="auxiliary-systems-rotating-machinery">
-         <title>Rotating Machinery</title>
-         <p>TBD</p>
-      </subsection>
-      <subsection xml:id="auxiliary-systems-axial-and-radial-bearings">
-         <title>Axial and Radial Bearings</title>
-         <p>TBD</p>
-      </subsection>
-   </section>
-   <section xml:id="auxiliary-systems-fuel-oil-systems">
-      <title>Fuel oil Systems</title>
+  <title>Auxiliary Systems</title>
+  <section xml:id="auxiliary-systems-lubrication-systems">
+    <title>Lubrication Systems</title>
+    <subsection xml:id="auxiliary-systems-requirements-of-a-lubrication-system">
+      <title>Requirements of a Lubrication System</title>
       <p>TBD</p>
-   </section>
-   <section xml:id="auxiliary-systems-cooling-systems">
-      <title>Cooling Systems</title>
+    </subsection>
+    <subsection xml:id="auxiliary-systems-rotating-machinery">
+      <title>Rotating Machinery</title>
       <p>TBD</p>
-   </section>
-   <section xml:id="refrigeration">
-      <title>Refrigeration</title>
+    </subsection>
+    <subsection xml:id="auxiliary-systems-axial-and-radial-bearings">
+      <title>Axial and Radial Bearings</title>
       <p>TBD</p>
-   </section>
-   <section xml:id="fresh-water">
-      <title>Fresh Water</title>
-      <p>TBD</p>
-   </section>
-   <section xml:id="sewage-treatment">
-      <title>Sewage Treatment</title>
-      <p>TBD</p>
-   </section>
+    </subsection>
+  </section>
+  <section xml:id="auxiliary-systems-fuel-oil-systems">
+    <title>Fuel oil Systems</title>
+    <p>TBD</p>
+    <subsection xml:id="auxiliary-systems-bunkering-or-taking-on-fuel-oil-aboard-ship">
+      <title>Bunkering or Taking on Fuel Oil Aboard Ship</title>
+      <p>The volume of a definite quantity of bunker increases with an increase in temperature whereas its weight remains the same. For this reason, the bunker is always ordered and measured by weight and not by volume. </p>
+      <p>The density of fuel oil (in kg/<m>m^{3}</m>) at a standard reference temperature of 15⁰C is always provided by the supplier in <em>Bunker Delivery Note</em>. With this, the density of fuel oil at tank temperature can be determined using an ASTM table or using software most commonly installed on all ship’s computer. </p>
+      <figure>
+        <caption>ASTM Table</caption>
+        <image width="50%" source="images/image33.png"/>
+      </figure>
+      <figure>
+        <caption>Bunker Weight</caption>
+        <image width="50%" source="images/image34.png"/>
+      </figure>
+    </subsection>
+  </section>
+  <section xml:id="auxiliary-systems-cooling-systems">
+    <title>Cooling Systems</title>
+    <p>TBD</p>
+  </section>
+  <section xml:id="refrigeration">
+    <title>Refrigeration</title>
+    <p>TBD</p>
+  </section>
+  <section xml:id="fresh-water">
+    <title>Fresh Water</title>
+    <p>TBD</p>
+  </section>
+  <section xml:id="sewage-treatment">
+    <title>Sewage Treatment</title>
+    <p>TBD</p>
+  </section>
 </chapter>
