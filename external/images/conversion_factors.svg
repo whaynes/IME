@@ -1,0 +1,1151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 882 1188" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(14.94,0,0,14.94,248.591,31.0195)">
+    </g>
+    <text x="89.999px" y="31.02px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:14.94px;">C<tspan x="101.216px 109.474px 117.913px 124.961px 132.204px 138.013px 143.971px 148.405px 156.664px 165.102px 166.953px 175.197px 182.111px 189.264px 194.804px 203.063px 208.872px 212.986px 222.126px 229.04px 237.478px 241.599px " y="31.02px 31.02px 31.02px 31.02px 31.02px 31.02px 31.02px 31.02px 31.02px 31.02px 31.02px 31.02px 31.02px 31.02px 31.02px 31.02px 31.02px 31.02px 31.02px 31.02px 31.02px 31.02px ">onversion Factor Table</tspan></text>
+    <g transform="matrix(11.88,0,0,11.88,794.004,31.0195)">
+    </g>
+    <text x="368.998px" y="31.02px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:11.88px;">h<tspan x="375.353px 379.509px 383.665px 389.948px 392.655px 395.789px 398.924px 407px 415.077px 421.514px 424.221px 429.553px 433.709px 436.416px 442.699px 447.913px 453.898px 456.605px 461.938px 468.149px 474.135px 477.269px 481.354px 486.387px 489.07px 497.147px 505.223px 510.71px 654.351px 662.843px 668.984px 675.266px 680.48px 684.672px 687.771px 693.15px 699.505px 703.661px 705.983px 715.485px 718.043px 724.326px 729.54px 732.983px 736.664px 742.804px 749.086px 752.815px 764.871px 767.97px 772.126px 776.283px 784.252px 789.585px " y="31.02px 31.02px 31.02px 31.02px 31.02px 31.02px 31.02px 31.02px 31.02px 31.02px 31.02px 31.02px 31.02px 31.02px 31.02px 31.02px 31.02px 31.02px 31.02px 31.02px 31.02px 31.02px 31.02px 31.02px 31.02px 31.02px 31.02px 31.02px 31.02px 31.02px 31.02px 31.02px 31.02px 31.02px 31.02px 31.02px 31.02px 31.02px 31.02px 31.02px 31.02px 31.02px 31.02px 31.02px 31.02px 31.02px 31.02px 31.02px 31.02px 31.02px 31.02px 31.02px 31.02px 31.02px ">ttp://www.et.byu.edu/~ jww8 Copyright © by Jon Wittwer</tspan></text>
+    <g>
+        <text x="46.799px" y="61.08px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">M<tspan x="56.586px 61.998px " y="61.08px 61.08px ">ul</tspan>ti<tspan x="71.335px " y="61.08px ">p</tspan>le<tspan x="84.504px 133.194px " y="61.08px 61.08px "> b</tspan>y <tspan x="219.609px 225.815px 231.363px " y="61.08px 61.08px 61.08px ">To </tspan>Ge<tspan x="247.277px " y="61.08px ">t</tspan></text>
+        <text x="46.799px" y="72.96px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">i<tspan x="49.823px 55.645px 60.569px 66.454px 133.186px 137.954px 140.634px 145.025px 150.722px 219.604px 224.528px " y="72.96px 72.96px 72.96px 72.96px 72.96px 72.96px 72.96px 72.96px 72.96px 72.96px 72.96px ">nch 2.54 cm</tspan></text>
+        <text x="46.799px" y="85.02px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">T<tspan x="54.408px 60.379px 63.489px 67.664px 69.142px 74.152px 78.996px 84.904px 87.46px 92.303px 95.194px 99.369px 105.152px 107.621px 113.529px 118.602px 120.763px 128.247px 132.318px 135.428px 139.467px 143.35px 148.423px 154.331px 155.867px 160.815px 164.99px 167.755px 171.412px 175.555px 179.211px 182.321px 188.229px 193.239px 199.21px 201.074px 205.812px 209.468px 214.322px 217.088px 221.565px 227.348px 231.004px 236.014px " y="85.02px 85.02px 85.02px 85.02px 85.02px 85.02px 85.02px 85.02px 85.02px 85.02px 85.02px 85.02px 85.02px 85.02px 85.02px 85.02px 85.02px 85.02px 85.02px 85.02px 85.02px 85.02px 85.02px 85.02px 85.02px 85.02px 85.02px 85.02px 85.02px 85.02px 85.02px 85.02px 85.02px 85.02px 85.02px 85.02px 85.02px 85.02px 85.02px 85.02px 85.02px 85.02px 85.02px 85.02px ">his can also be written as: 1 inch = 2.54 cm</tspan></text>
+        <text x="46.799px" y="99.78px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">a<tspan x="51.347px 56.063px 59.839px 64.618px 133.174px 138.662px 142.783px 145.254px 149.437px 154.821px 160.936px 219.624px 223.014px " y="99.78px 99.78px 99.78px 99.78px 99.78px 99.78px 99.78px 99.78px 99.78px 99.78px 99.78px 99.78px 99.78px ">cre 43,560 ft</tspan></text>
+        <text x="226.758px" y="95.639px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">2</text>
+        <text x="46.799px" y="111.84px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">a<tspan x="51.278px 59.734px 65.278px 69.987px 73.693px 78.402px 80.386px 85.992px 89.699px 91.577px 94.479px 101.965px 103.949px 109.556px 112.458px 133.156px 137.207px 139.609px 144.923px 150.968px 157.013px 219.561px 224.103px 229.521px 234.804px 237.331px 242.75px 251.206px 256.75px 259.183px 262.086px 269.571px " y="111.84px 111.84px 111.84px 111.84px 111.84px 111.84px 111.84px 111.84px 111.84px 111.84px 111.84px 111.84px 111.84px 111.84px 111.84px 111.84px 111.84px 111.84px 111.84px 111.84px 111.84px 111.84px 111.84px 111.84px 111.84px 111.84px 111.84px 111.84px 111.84px 111.84px 111.84px 111.84px ">mpere·hr (A·h) 3,600 coulomb (C)</tspan></text>
+        <text x="46.799px" y="126.6px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">ån<tspan x="57.358px 62.377px 66.456px 70.399px 74.374px 80.061px 88.786px 88.886px 92.057px 99.811px 102.981px 133.176px 137.224px 142.347px " y="126.6px 126.6px 126.6px 126.6px 126.6px 126.6px 126.6px 126.6px 126.6px 126.6px 126.6px 126.6px 126.6px 126.6px ">gström (Å) 1x1</tspan>0</text>
+        <g transform="matrix(8.28,0,0,8.28,163.625,122.459)">
+        </g>
+        <text x="152.708px" y="122.459px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">-1<tspan x="158.69px " y="122.459px ">0</tspan></text>
+    </g>
+    <g>
+        <text x="219.599px" y="126.6px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">m</text>
+        <text x="46.799px" y="138.66px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">atm <tspan x="65.159px " y="138.66px ">(</tspan>atm<tspan x="85.278px " y="138.66px ">o</tspan>sph<tspan x="106.265px " y="138.66px ">e</tspan>re)<tspan x="122.897px 133.198px " y="138.66px 138.66px "> 1</tspan>.01<tspan x="149.81px " y="138.66px ">3</tspan>25 <tspan x="219.598px " y="138.66px ">b</tspan>ar</text>
+        <text x="46.799px" y="150.72px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">a<tspan x="51.1px 54.597px 62.876px 65.1px 67.657px 71.29px 74.787px 80.091px 133.226px 137.517px 142.653px 144.877px 150.744px 219.608px 224.077px 232.355px 234.913px 240.154px 243.296px 246.479px 255.165px " y="150.72px 150.72px 150.72px 150.72px 150.72px 150.72px 150.72px 150.72px 150.72px 150.72px 150.72px 150.72px 150.72px 150.72px 150.72px 150.72px 150.72px 150.72px 150.72px 150.72px 150.72px ">tm, std 76.0 cm of Hg</tspan></text>
+        <text x="46.799px" y="162.6px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">a<tspan x="51.044px 54.485px 62.707px 64.875px 67.4px 70.977px 74.418px 79.665px 133.203px 137.438px 142.518px 148.329px 219.573px 227.796px 236.018px 238.544px 243.728px 246.814px 249.34px 257.969px 262.486px 265.011px 269.256px 272.697px 275.222px 281.033px 284.328px " y="162.6px 162.6px 162.6px 162.6px 162.6px 162.6px 162.6px 162.6px 162.6px 162.6px 162.6px 162.6px 162.6px 162.6px 162.6px 162.6px 162.6px 162.6px 162.6px 162.6px 162.6px 162.6px 162.6px 162.6px 162.6px 162.6px 162.6px ">tm, std 760 mm of Hg at 0ºC</tspan></text>
+        <text x="46.799px" y="174.66px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">a<tspan x="51.251px 54.899px 63.329px 65.704px 67.689px 71.473px 75.121px 80.576px 133.203px 137.227px 141.252px 143.626px 148.914px 154.932px 219.613px 222.907px 226.555px 228.604px 233.996px 237.289px 239.886px 246.979px 251.431px 254.923px " y="174.66px 174.66px 174.66px 174.66px 174.66px 174.66px 174.66px 174.66px 174.66px 174.66px 174.66px 174.66px 174.66px 174.66px 174.66px 174.66px 174.66px 174.66px 174.66px 174.66px 174.66px 174.66px 174.66px 174.66px ">tm, std 33.90 ft of wate</tspan>r</text>
+        <text x="46.799px" y="186.72px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">a<tspan x="51.223px 54.843px 63.244px 65.591px 68.178px 71.934px 75.554px 80.98px 133.213px 137.648px 142.907px 145.253px 150.512px 154.947px 219.623px 222.314px 227.803px 230.391px 235.754px 239.019px 241.607px 250.416px 255.111px 257.078px 261.502px 265.122px 267.71px 271.706px 277.695px 281.169px " y="186.72px 186.72px 186.72px 186.72px 186.72px 186.72px 186.72px 186.72px 186.72px 186.72px 186.72px 186.72px 186.72px 186.72px 186.72px 186.72px 186.72px 186.72px 186.72px 186.72px 186.72px 186.72px 186.72px 186.72px 186.72px 186.72px 186.72px 186.72px 186.72px 186.72px ">tm, std 29.92 in of Hg at 30ºF</tspan></text>
+        <text x="46.799px" y="201.48px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">a<tspan x="51.34px 55.077px 63.596px 66.059px 67.705px 71.578px 75.315px 80.858px 133.226px 137.068px 142.548px 145.012px 150.388px 155.764px 161.141px 219.593px 222.182px 227.788px 231.17px 234.01px 236.818px " y="201.48px 201.48px 201.48px 201.48px 201.48px 201.48px 201.48px 201.48px 201.48px 201.48px 201.48px 201.48px 201.48px 201.48px 201.48px 201.48px 201.48px 201.48px 201.48px 201.48px 201.48px ">tm, std 14.696 lbf/in</tspan></text>
+        <text x="242.424px" y="197.159px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">2</text>
+        <text x="248.659px" y="201.48px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">a<tspan x="253.2px 258.806px 262.679px 268.451px 271.416px 277.022px 280.894px 283.702px 288.244px " y="201.48px 201.48px 201.48px 201.48px 201.48px 201.48px 201.48px 201.48px 201.48px ">bs (psia)</tspan></text>
+        <g transform="matrix(10.44,0,0,10.44,236.18,213.36)">
+        </g>
+        <text x="46.798px" y="213.36px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">atm<tspan x="64.045px 66.658px 67.663px " y="213.36px 213.36px 213.36px ">, s</tspan>td<tspan x="81.265px 133.178px " y="213.36px 213.36px "> 1</tspan>01<tspan x="147.418px " y="213.36px ">.</tspan>32<tspan x="158.995px 163.321px 219.553px 225.288px 231.524px " y="213.36px 213.36px 213.36px 213.36px 213.36px ">5 kPa</tspan></text>
+    </g>
+    <g>
+        <text x="46.798px" y="228.299px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">atm,<tspan x="66.644px 67.672px " y="228.299px 228.299px "> s</tspan>td <tspan x="133.193px " y="228.299px ">1</tspan>.01<tspan x="150.032px " y="228.299px ">3</tspan>x10</text>
+        <g transform="matrix(8.28,0,0,8.28,172.999,223.98)">
+        </g>
+        <text x="169.596px" y="223.98px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">5</text>
+    </g>
+    <g>
+        <text x="219.599px" y="228.3px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">P<tspan x="225.358px " y="228.3px ">a</tspan></text>
+        <text x="46.799px" y="243.06px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">atm, <tspan x="67.685px " y="243.06px ">s</tspan>td <tspan x="133.206px " y="243.06px ">1</tspan>.03323 <tspan x="219.611px " y="243.06px ">k</tspan>gf / <tspan x="242.037px " y="243.06px ">c</tspan>m</text>
+        <text x="255.522px" y="238.92px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">2</text>
+        <text x="46.799px" y="255.12px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">a<tspan x="51.277px 54.952px 63.408px 65.809px 67.668px 71.479px 75.153px 80.634px 133.189px 136.968px 142.386px 144.787px 150.1px 155.414px 160.728px 219.574px 225.117px 228.927px 231.673px " y="255.12px 255.12px 255.12px 255.12px 255.12px 255.12px 255.12px 255.12px 255.12px 255.12px 255.12px 255.12px 255.12px 255.12px 255.12px 255.12px 255.12px 255.12px 255.12px ">tm, std 14.696 psia</tspan></text>
+        <g transform="matrix(10.44,0,0,10.44,253.634,267)">
+        </g>
+        <text x="46.799px" y="267px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">b<tspan x="52.231px 56.599px 60.195px 133.161px 138.834px 141.125px 146.328px 151.061px 156.264px 161.467px 219.566px 223.934px 227.498px 235.844px 238.134px 240.712px 244.412px 247.976px " y="267px 267px 267px 267px 267px 267px 267px 267px 267px 267px 267px 267px 267px 267px 267px 267px 267px 267px ">ar 0.9869 atm, std</tspan></text>
+    </g>
+    <g>
+        <text x="46.799px" y="281.759px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">b<tspan x="52.639px 57.414px 61.417px 133.169px 137.245px 142.396px 146.472px " y="281.759px 281.759px 281.759px 281.759px 281.759px 281.759px 281.759px ">ar 1x10</tspan></text>
+        <g transform="matrix(8.28,0,0,8.28,156.216,277.62)">
+        </g>
+        <text x="152.813px" y="277.62px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">5</text>
+    </g>
+    <g>
+        <text x="219.599px" y="281.76px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">P<tspan x="225.358px " y="281.76px ">a</tspan></text>
+        <text x="46.799px" y="293.82px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">Btu <tspan x="133.199px " y="293.82px ">7</tspan>78.<tspan x="150.193px " y="293.82px ">1</tspan>69 <tspan x="219.599px " y="293.82px ">f</tspan>t·l<tspan x="231.916px " y="293.82px ">b</tspan>f</text>
+        <text x="46.799px" y="305.88px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">B<tspan x="53.687px 57.652px 63.225px 133.199px 137.268px 143.603px 148.007px 152.098px 154.789px 161.124px 165.528px 171.132px 219.599px " y="305.88px 305.88px 305.88px 305.88px 305.88px 305.88px 305.88px 305.88px 305.88px 305.88px 305.88px 305.88px 305.88px ">tu 1055.056 J</tspan></text>
+        <text x="46.799px" y="320.64px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">Btu <tspan x="133.199px 137.164px 139.73px " y="320.64px 320.64px 320.64px ">5.4</tspan>0395 <tspan x="219.609px " y="320.64px ">p</tspan>sia·ft</text>
+        <g transform="matrix(8.28,0,0,8.28,249.674,316.499)">
+        </g>
+        <text x="246.321px" y="316.499px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">3</text>
+    </g>
+    <g>
+        <text x="46.799px" y="335.4px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">Bt<tspan x="57.565px 63.094px 133.199px 137.935px 140.582px 146.143px 150.879px 155.97px 161.071px " y="335.4px 335.4px 335.4px 335.4px 335.4px 335.4px 335.4px 335.4px 335.4px ">u 2.928x1</tspan>0</text>
+        <g transform="matrix(8.28,0,0,8.28,178.581,331.26)">
+        </g>
+        <text x="171.388px" y="331.26px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">-4</text>
+    </g>
+    <g transform="matrix(10.44,0,0,10.44,240.504,335.4)">
+    </g>
+    <text x="219.599px" y="335.4px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">k<tspan x="224.142px 234.72px " y="335.4px 335.4px ">Wh</tspan></text>
+    <g>
+        <text x="46.799px" y="350.16px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">B<tspan x="53.693px 57.664px 63.243px 133.199px 137.274px 142.425px 146.5px " y="350.16px 350.16px 350.16px 350.16px 350.16px 350.16px 350.16px ">tu 1x10</tspan></text>
+        <g transform="matrix(8.28,0,0,8.28,159.037,346.02)">
+        </g>
+        <text x="152.841px" y="346.02px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">-5</text>
+    </g>
+    <g>
+        <text x="219.599px" y="350.16px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">t<tspan x="222.899px 228.131px 232.465px 235.797px " y="350.16px 350.16px 350.16px 350.16px ">herm</tspan></text>
+        <text x="46.799px" y="362.22px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">Btu<tspan x="62.757px 64.428px " y="362.22px 362.22px "> /</tspan> hr <tspan x="133.181px " y="362.22px ">1</tspan>.0<tspan x="145.809px " y="362.22px ">5</tspan>50<tspan x="160.483px " y="362.22px ">5</tspan>6 <tspan x="219.554px " y="362.22px ">k</tspan>J / hr</text>
+        <g transform="matrix(10.44,0,0,10.44,262.02,374.28)">
+        </g>
+        <text x="46.799px" y="374.28px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">Bt<tspan x="57.232px 62.594px 64.43px " y="374.28px 374.28px 374.28px ">u /</tspan> h<tspan x="75.594px 79.38px 133.181px 139.045px 141.526px 146.095px 149.955px 155.349px 219.571px 222.971px 226.726px 228.79px 231.396px 237.02px 240.42px " y="374.28px 374.28px 374.28px 374.28px 374.28px 374.28px 374.28px 374.28px 374.28px 374.28px 374.28px 374.28px 374.28px 374.28px 374.28px ">r 0.216 ft·lbf </tspan>/ s<tspan x="252.408px " y="374.28px ">e</tspan>c</text>
+    </g>
+    <g>
+        <text x="46.799px" y="389.04px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">Btu <tspan x="64.439px " y="389.04px ">/</tspan> hr <tspan x="133.199px " y="389.04px ">3</tspan>.929x10</text>
+        <g transform="matrix(8.28,0,0,8.28,177.956,384.9)">
+        </g>
+        <text x="170.823px" y="384.9px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">-4</text>
+    </g>
+    <g>
+        <text x="219.599px" y="389.04px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">h<tspan x="224.819px " y="389.04px ">p</tspan></text>
+        <text x="46.799px" y="401.1px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">Btu <tspan x="64.439px " y="401.1px ">/</tspan> hr <tspan x="133.199px 139.167px 141.752px " y="401.1px 401.1px 401.1px ">0.2</tspan>931 <tspan x="219.599px " y="401.1px ">W</tspan></text>
+        <text x="46.799px" y="412.98px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">Btu<tspan x="63.022px 64.433px 67.433px 70.16px " y="412.98px 412.98px 412.98px 412.98px "> / l</tspan>bm<tspan x="87.355px 133.209px " y="412.98px 412.98px "> 2</tspan>.3<tspan x="144.818px " y="412.98px ">2</tspan>6*<tspan x="159.162px 219.596px " y="412.98px 412.98px "> k</tspan>J <tspan x="231.471px 234.47px 237.198px " y="412.98px 412.98px 412.98px ">/ k</tspan>g</text>
+        <text x="46.799px" y="427.92px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">Btu<tspan x="63.009px 64.428px 67.423px 70.4px " y="427.92px 427.92px 427.92px 427.92px "> / l</tspan>bm<tspan x="87.581px 133.206px 137.913px 141.932px 144.551px " y="427.92px 427.92px 427.92px 427.92px 427.92px "> 25,0</tspan>37<tspan x="159.769px 219.581px " y="427.92px 427.92px "> f</tspan>t</text>
+        <text x="227.012px" y="423.6px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">2</text>
+        <text x="232.739px" y="427.92px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;"><tspan x="232.739px 235.734px 238.712px " y="427.92px 427.92px 427.92px ">/ s</tspan></text>
+        <text x="242.74px" y="423.6px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">2</text>
+        <text x="46.799px" y="439.8px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">Btu <tspan x="64.431px " y="439.8px ">/</tspan> lbm·R <tspan x="133.219px " y="439.8px ">4</tspan>.1868 <tspan x="219.601px " y="439.8px ">k</tspan>J / kg·K</text>
+        <text x="46.799px" y="451.86px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">Bt<tspan x="57.626px 63.185px 64.428px 67.482px 70.205px 73.009px 78.83px 87.563px 89.823px 92.825px 99.189px 133.219px 138.914px 141.592px 145.648px 150.77px 156.36px 161.482px 219.604px 225.403px 229.439px 231.476px 234.53px 237.254px 243.054px 248.081px 250.341px 253.343px " y="451.86px 451.86px 451.86px 451.86px 451.86px 451.86px 451.86px 451.86px 451.86px 451.86px 451.86px 451.86px 451.86px 451.86px 451.86px 451.86px 451.86px 451.86px 451.86px 451.86px 451.86px 451.86px 451.86px 451.86px 451.86px 451.86px 451.86px 451.86px ">u / lbm·°F 4.1868 kJ / kg·°C</tspan></text>
+        <g transform="matrix(10.44,0,0,10.44,270.133,463.92)">
+        </g>
+        <text x="46.799px" y="463.92px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">Bt<tspan x="57.324px 62.733px 64.431px " y="463.92px 463.92px 463.92px ">u /</tspan> lb<tspan x="78.316px 86.899px 92.443px 95.096px 97.206px 104.797px 133.221px 138.766px 141.293px 145.198px 150.169px 155.609px 160.579px 219.601px 225.25px 229.135px " y="463.92px 463.92px 463.92px 463.92px 463.92px 463.92px 463.92px 463.92px 463.92px 463.92px 463.92px 463.92px 463.92px 463.92px 463.92px 463.92px ">mol·R 4.1868 kJ </tspan>/ kmo<tspan x="257.134px 259.786px 261.896px " y="463.92px 463.92px 463.92px ">l·K</tspan></text>
+    </g>
+    <g>
+        <text x="46.799px" y="478.68px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">ca<tspan x="56.411px 59.181px 61.526px 64.673px 69.98px 73.45px 78.34px 83.062px 85.833px 91.495px 95.445px 98.435px 103.387px 106.533px 133.151px 137.446px 140.091px 145.649px 151.207px 156.295px 161.393px " y="478.68px 478.68px 478.68px 478.68px 478.68px 478.68px 478.68px 478.68px 478.68px 478.68px 478.68px 478.68px 478.68px 478.68px 478.68px 478.68px 478.68px 478.68px 478.68px 478.68px 478.68px ">l (g-calorie) 3.968x1</tspan>0</text>
+        <g transform="matrix(8.28,0,0,8.28,177.811,474.54)">
+        </g>
+        <text x="171.705px" y="474.54px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">-3</text>
+    </g>
+    <g transform="matrix(10.44,0,0,10.44,234.954,478.68)">
+    </g>
+    <text x="219.599px" y="478.68px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">B<tspan x="226.008px 229.494px " y="478.68px 478.68px ">tu</tspan></text>
+    <g>
+        <text x="46.799px" y="493.44px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">c<tspan x="51.755px 56.544px 59.381px 133.166px 137.256px 139.968px 144.391px 150.016px 156.371px 161.536px 165.626px " y="493.44px 493.44px 493.44px 493.44px 493.44px 493.44px 493.44px 493.44px 493.44px 493.44px 493.44px ">al 1.560x10</tspan></text>
+        <g transform="matrix(8.28,0,0,8.28,179.141,489.3)">
+        </g>
+        <text x="171.981px" y="489.3px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">-<tspan x="174.785px " y="489.3px ">6</tspan></text>
+    </g>
+    <g>
+        <text x="219.599px" y="493.44px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">h<tspan x="225.11px 230.558px 232.447px 237.958px " y="493.44px 493.44px 493.44px 493.44px ">p·hr</tspan></text>
+        <text x="46.799px" y="505.5px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">cal <tspan x="61.8px " y="505.5px ">(</tspan>IT<tspan x="76.341px 77.549px " y="505.5px 505.5px "> c</tspan>alori<tspan x="102.026px " y="505.5px ">e</tspan>) <tspan x="133.166px " y="505.5px ">4</tspan>.1868<tspan x="160.723px 219.596px " y="505.5px 505.5px "> J</tspan></text>
+        <text x="46.799px" y="517.38px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">C<tspan x="54.338px " y="517.38px ">a</tspan>lorie <tspan x="80.246px 83.307px 90.846px " y="517.38px 517.38px 517.38px ">(Ca</tspan>l) <tspan x="133.169px " y="517.38px ">4</tspan>.1868<tspan x="160.719px 219.594px " y="517.38px 517.38px "> k</tspan>J</text>
+        <text x="46.799px" y="529.44px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">ca<tspan x="56.095px " y="529.44px ">l</tspan> /<tspan x="64.189px " y="529.44px "> </tspan>se<tspan x="75.499px 80.23px 133.151px 138.656px 141.143px 145.008px 149.938px 155.338px 160.268px 219.629px 230.75px 232.043px 235.031px 242.237px 246.802px 250.563px " y="529.44px 529.44px 529.44px 529.44px 529.44px 529.44px 529.44px 529.44px 529.44px 529.44px 529.44px 529.44px 529.44px 529.44px 529.44px 529.44px ">c 4.1868 W (watt</tspan>)</text>
+        <text x="46.799px" y="541.5px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">c<tspan x="51.519px 60.049px 62.556px 65.532px 70.148px 74.931px 80.548px 84.298px 87.117px 95.648px 100.431px 104.023px " y="541.5px 541.5px 541.5px 541.5px 541.5px 541.5px 541.5px 541.5px 541.5px 541.5px 541.5px 541.5px ">m (centimete</tspan>r)<tspan x="115.563px 133.219px 139.077px 141.552px 147.671px 151.796px 156.359px 161.278px 165.131px 219.546px 222.94px " y="541.5px 541.5px 541.5px 541.5px 541.5px 541.5px 541.5px 541.5px 541.5px 541.5px 541.5px "> 0.03281 ft</tspan></text>
+        <text x="46.799px" y="553.38px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">c<tspan x="51.732px 60.475px 133.159px 139.23px 141.918px 146.256px 151.857px 156.195px 160.95px 219.581px 222.614px " y="553.38px 553.38px 553.38px 553.38px 553.38px 553.38px 553.38px 553.38px 553.38px 553.38px 553.38px ">m 0.3937 in</tspan></text>
+        <g transform="matrix(10.44,0,0,10.44,245.558,565.44)">
+        </g>
+        <text x="46.799px" y="565.44px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">c<tspan x="51.448px 57.652px 60.088px 62.993px 67.538px 72.25px 77.796px 81.475px 84.223px 89.77px 95.192px 97.941px 101.754px 106.466px 109.372px 133.279px 139.066px " y="565.44px 565.44px 565.44px 565.44px 565.44px 565.44px 565.44px 565.44px 565.44px 565.44px 565.44px 565.44px 565.44px 565.44px 565.44px 565.44px 565.44px ">P (centipoise) 0.</tspan>00<tspan x="153.566px 157.348px 219.714px 225.741px 230.223px 232.21px 236.023px 240.735px " y="565.44px 565.44px 565.44px 565.44px 565.44px 565.44px 565.44px 565.44px ">1 Pa·sec</tspan></text>
+    </g>
+    <g>
+        <text x="46.799px" y="580.2px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">cS<tspan x="56.802px 60.598px 62.626px 65.649px 70.312px " y="580.2px 580.2px 580.2px 580.2px 580.2px ">t (ce</tspan>nti<tspan x="87.469px 91.4px 95.04px 100.579px 105.868px 110.697px 114.629px 117.652px 133.164px 137.064px 142.04px " y="580.2px 580.2px 580.2px 580.2px 580.2px 580.2px 580.2px 580.2px 580.2px 580.2px 580.2px ">stokes) 1x1</tspan>0</text>
+        <g transform="matrix(8.28,0,0,8.28,159.116,576.06)">
+        </g>
+        <text x="152.106px" y="576.06px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">-6</text>
+    </g>
+    <g>
+        <text x="219.599px" y="580.2px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">m</text>
+        <text x="228.149px" y="576.06px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">2</text>
+        <g transform="matrix(10.44,0,0,10.44,253.419,580.2)">
+        </g>
+        <text x="234.401px" y="580.2px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">/ s<tspan x="243.793px " y="580.2px ">e</tspan>c</text>
+    </g>
+    <g transform="matrix(10.44,0,0,10.44,74.9028,593.339)">
+    </g>
+    <text x="46.798px" y="593.339px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">d<tspan x="52.252px 56.933px 61.656px 65.336px 70.017px " y="593.339px 593.339px 593.339px 593.339px 593.339px ">egree</tspan></text>
+    <g>
+        <text x="133.199px" y="593.34px" style="font-family:'Symbol';font-size:11.88px;">π</text>
+        <text x="139.718px" y="593.34px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">/180 <tspan x="219.624px " y="593.34px ">r</tspan>adian</text>
+        <g transform="matrix(10.44,0,0,10.44,143.48,606.84)">
+        </g>
+        <text x="46.799px" y="606.84px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">d<tspan x="52.559px 57.443px 63.267px 68.255px 133.199px 137.258px " y="606.84px 606.84px 606.84px 606.84px 606.84px 606.84px ">yne 10</tspan></text>
+    </g>
+    <g>
+        <text x="219.599px" y="606.985px" style="font-family:'Helvetica';font-size:11.88px;">µ</text>
+        <g transform="matrix(10.44,0,0,10.44,297.36,606.985)">
+        </g>
+        <text x="226.056px" y="606.985px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">N<tspan x="234.694px 236.404px 239.144px 247.437px 250.02px 254.503px 258.046px 263.301px 268.682px 273.332px 280.289px 283.645px 288.9px 294.281px " y="606.985px 606.985px 606.985px 606.985px 606.985px 606.985px 606.985px 606.985px 606.985px 606.985px 606.985px 606.985px 606.985px 606.985px "> (micronewton)</tspan></text>
+    </g>
+    <g>
+        <text x="46.798px" y="622.139px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">eV<tspan x="59.189px 61.792px " y="622.139px 622.139px "> (</tspan>electronvolt) <tspan x="133.156px " y="622.139px ">1</tspan>.602x10</text>
+        <g transform="matrix(8.28,0,0,8.28,181.416,617.82)">
+        </g>
+        <text x="171.233px" y="617.82px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">-19</text>
+    </g>
+    <g transform="matrix(10.44,0,0,10.44,223.534,622.14)">
+    </g>
+    <text x="219.599px" y="622.14px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">J</text>
+    <g>
+        <text x="46.799px" y="636.9px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">e<tspan x="51.858px 55.914px 61.015px 133.171px 137.301px 142.506px 146.636px " y="636.9px 636.9px 636.9px 636.9px 636.9px 636.9px 636.9px ">rg 1x10</tspan></text>
+        <g transform="matrix(8.28,0,0,8.28,159.552,632.58)">
+        </g>
+        <text x="153.031px" y="632.58px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">-<tspan x="155.868px " y="632.58px ">7</tspan></text>
+    </g>
+    <g>
+        <text x="219.599px" y="636.9px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">J</text>
+        <text x="46.799px" y="648.78px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">ft<tspan x="53.975px 55.796px 58.789px 62.199px 66.998px 71.797px 75.562px 78.555px 133.164px 139.038px 141.53px 145.671px 151.806px 157.315px 162.25px 166.213px 219.639px " y="648.78px 648.78px 648.78px 648.78px 648.78px 648.78px 648.78px 648.78px 648.78px 648.78px 648.78px 648.78px 648.78px 648.78px 648.78px 648.78px 648.78px "> (feet) 0.3048* m</tspan></text>
+        <g transform="matrix(10.44,0,0,10.44,232.98,660.84)">
+        </g>
+        <text x="46.799px" y="660.84px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">f<tspan x="50.163px 53.882px 133.201px 137.296px 143.124px 145.569px 151.032px 155.92px 219.656px 224.346px " y="660.84px 660.84px 660.84px 660.84px 660.84px 660.84px 660.84px 660.84px 660.84px 660.84px ">t 30.48 cm</tspan></text>
+    </g>
+    <g>
+        <text x="46.799px" y="675.6px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">f<tspan x="49.771px " y="675.6px ">t</tspan></text>
+        <g transform="matrix(8.28,0,0,8.28,56.7997,671.46)">
+        </g>
+        <text x="53.099px" y="671.46px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">2</text>
+    </g>
+    <g>
+        <text x="133.199px" y="675.6px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">2<tspan x="138.181px 141.075px 146.057px 151.864px 156.47px 161.432px 166.779px 171.051px " y="675.6px 675.6px 675.6px 675.6px 675.6px 675.6px 675.6px 675.6px ">.2957x10</tspan></text>
+        <g transform="matrix(8.28,0,0,8.28,183.942,671.46)">
+        </g>
+        <text x="177.589px" y="671.46px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">-<tspan x="180.538px " y="671.46px ">5</tspan></text>
+    </g>
+    <g transform="matrix(10.44,0,0,10.44,237.262,675.6)">
+    </g>
+    <text x="219.599px" y="675.6px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">a<tspan x="224.06px 228.688px 232.376px " y="675.6px 675.6px 675.6px ">cre</tspan></text>
+    <g>
+        <text x="46.799px" y="690.539px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">f<tspan x="49.771px " y="690.539px ">t</tspan></text>
+        <g transform="matrix(8.28,0,0,8.28,56.7997,686.22)">
+        </g>
+        <text x="53.099px" y="686.22px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">2</text>
+    </g>
+    <g>
+        <text x="133.199px" y="690.54px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">144 <tspan x="219.586px " y="690.54px ">i</tspan>n</text>
+        <g transform="matrix(8.28,0,0,8.28,231.914,686.22)">
+        </g>
+        <text x="228.213px" y="686.22px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">2</text>
+    </g>
+    <g>
+        <text x="46.799px" y="705.3px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">f<tspan x="49.771px " y="705.3px ">t</tspan></text>
+        <g transform="matrix(8.28,0,0,8.28,56.7997,700.98)">
+        </g>
+        <text x="53.099px" y="700.98px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">2</text>
+    </g>
+    <g>
+        <text x="133.199px" y="705.3px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">0<tspan x="138.963px 141.344px 147.37px 152.664px 157.134px 162.428px 168.453px 172.484px 178.51px 183.908px 187.762px 219.599px " y="705.3px 705.3px 705.3px 705.3px 705.3px 705.3px 705.3px 705.3px 705.3px 705.3px 705.3px 705.3px ">.09290304* m</tspan></text>
+        <g transform="matrix(8.28,0,0,8.28,231.737,700.98)">
+        </g>
+        <text x="228.035px" y="700.98px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">2</text>
+    </g>
+    <g>
+        <text x="46.799px" y="720.06px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">f<tspan x="49.771px " y="720.06px ">t</tspan></text>
+        <g transform="matrix(8.28,0,0,8.28,56.4519,715.92)">
+        </g>
+        <text x="53.099px" y="715.92px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">3</text>
+    </g>
+    <g transform="matrix(10.44,0,0,10.44,260.255,720.06)">
+    </g>
+    <text x="133.199px" y="720.06px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">7<tspan x="137.477px 140.418px 146.377px 151.762px 156.082px 219.599px 224.889px 229.909px 232.976px 235.106px 238.549px 245.844px 248.786px 254.233px 257.175px " y="720.06px 720.06px 720.06px 720.06px 720.06px 720.06px 720.06px 720.06px 720.06px 720.06px 720.06px 720.06px 720.06px 720.06px 720.06px ">.481 gal (U.S.)</tspan></text>
+    <g>
+        <text x="46.798px" y="734.82px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">f<tspan x="49.771px " y="734.82px ">t</tspan></text>
+        <g transform="matrix(8.28,0,0,8.28,56.4519,730.68)">
+        </g>
+        <text x="53.099px" y="730.68px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">3</text>
+    </g>
+    <g>
+        <text x="133.199px" y="734.82px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">0<tspan x="139.178px 141.774px " y="734.82px 734.82px ">.0</tspan>2832 <tspan x="219.599px " y="734.82px ">m</tspan></text>
+        <g transform="matrix(8.28,0,0,8.28,231.604,730.68)">
+        </g>
+        <text x="228.25px" y="730.68px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">3</text>
+    </g>
+    <g>
+        <text x="46.799px" y="749.58px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">f<tspan x="49.771px " y="749.58px ">t</tspan></text>
+        <g transform="matrix(8.28,0,0,8.28,56.4519,745.44)">
+        </g>
+        <text x="53.099px" y="745.44px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">3</text>
+    </g>
+    <g>
+        <text x="133.199px" y="749.58px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">2<tspan x="138.482px 144.121px 147.317px 152.162px 156.736px 161.998px 219.598px " y="749.58px 749.58px 749.58px 749.58px 749.58px 749.58px 749.58px ">8.317 L</tspan></text>
+        <text x="46.798px" y="764.52px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">f<tspan x="50.164px " y="764.52px ">t</tspan></text>
+        <text x="53.885px" y="760.2px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">3</text>
+        <text x="59.755px" y="764.52px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">/<tspan x="62.578px 65.199px 67.772px 73.361px 81.863px 133.221px 139.05px 141.497px 147.588px 152.948px 157.483px 162.947px 167.482px 172.372px 219.591px " y="764.52px 764.52px 764.52px 764.52px 764.52px 764.52px 764.52px 764.52px 764.52px 764.52px 764.52px 764.52px 764.52px 764.52px 764.52px "> lbm 0.062428 m</tspan></text>
+        <text x="228.093px" y="760.2px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">3</text>
+        <text x="234.718px" y="764.52px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;"><tspan x="234.718px 237.54px 240.162px 245.73px " y="764.52px 764.52px 764.52px 764.52px ">/ kg</tspan></text>
+        <text x="46.798px" y="779.28px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">f<tspan x="50.488px 54.532px 56.885px 59.781px 65.694px 69.383px 133.198px 137.347px 140.117px 144.976px 150.19px 154.672px 159.896px 164.045px " y="779.28px 779.28px 779.28px 779.28px 779.28px 779.28px 779.28px 779.28px 779.28px 779.28px 779.28px 779.28px 779.28px 779.28px ">t·lbf 1.285x10</tspan></text>
+        <g transform="matrix(8.28,0,0,8.28,176.664,775.14)">
+        </g>
+        <text x="170.459px" y="775.14px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">-<tspan x="173.311px " y="775.14px ">3</tspan></text>
+    </g>
+    <g>
+        <text x="219.599px" y="779.28px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">B<tspan x="226.008px 229.494px " y="779.28px 779.28px ">tu</tspan></text>
+        <g transform="matrix(10.44,0,0,10.44,223.535,791.34)">
+        </g>
+        <text x="46.799px" y="791.34px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">f<tspan x="50.614px 54.784px 57.263px 60.284px 66.323px 70.138px 133.199px 137.473px 140.37px 144.915px 149.524px 154.133px 159.472px 164.456px 219.599px " y="791.34px 791.34px 791.34px 791.34px 791.34px 791.34px 791.34px 791.34px 791.34px 791.34px 791.34px 791.34px 791.34px 791.34px 791.34px ">t·lbf 1.35582 J</tspan></text>
+    </g>
+    <g>
+        <text x="46.799px" y="806.1px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">ft<tspan x="54.301px 56.538px 59.318px 65.115px 68.689px 133.199px " y="806.1px 806.1px 806.1px 806.1px 806.1px 806.1px ">·lbf 3</tspan>.7<tspan x="144.671px 150.239px 155.806px 160.914px 164.947px " y="806.1px 806.1px 806.1px 806.1px 806.1px ">66x10</tspan></text>
+        <g transform="matrix(8.28,0,0,8.28,177.69,801.78)">
+        </g>
+        <text x="171.246px" y="801.78px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">-7</text>
+    </g>
+    <g>
+        <text x="219.599px" y="806.099px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">k<tspan x="224.142px 234.72px " y="806.099px 806.099px ">Wh</tspan></text>
+        <text x="46.799px" y="817.979px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">f<tspan x="50.495px 54.545px 56.905px 59.807px 65.726px 69.422px 133.196px 137.351px 140.128px 144.555px 149.044px 153.533px 158.753px 163.618px 219.631px 228.808px 231.167px " y="817.979px 817.979px 817.979px 817.979px 817.979px 817.979px 817.979px 817.979px 817.979px 817.979px 817.979px 817.979px 817.979px 817.979px 817.979px 817.979px 817.979px ">t·lbf 1.35582 N·m</tspan></text>
+        <g transform="matrix(10.44,0,0,10.44,277.507,830.039)">
+        </g>
+        <text x="46.799px" y="830.039px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">ft·l<tspan x="58.882px " y="830.039px ">b</tspan>f <tspan x="133.206px 139.135px 141.68px " y="830.039px 830.039px 830.039px ">0.3</tspan>24 <tspan x="219.616px " y="830.039px ">c</tspan>alo<tspan x="237.264px " y="830.039px ">r</tspan>ie <tspan x="250.717px 253.764px 258.972px 262.342px " y="830.039px 830.039px 830.039px 830.039px ">(g-c</tspan>al)</text>
+    </g>
+    <g>
+        <text x="46.799px" y="844.799px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">f<tspan x="50.426px 54.409px 56.7px 59.534px 65.385px 69.012px 70.014px 73.099px 75.839px 79.957px 84.973px 89.926px 133.211px 137.298px 140.007px 145.158px 149.245px 154.397px 159.559px 163.646px " y="844.799px 844.799px 844.799px 844.799px 844.799px 844.799px 844.799px 844.799px 844.799px 844.799px 844.799px 844.799px 844.799px 844.799px 844.799px 844.799px 844.799px 844.799px 844.799px 844.799px ">t·lbf / sec 1.818x10</tspan></text>
+        <g transform="matrix(8.28,0,0,8.28,176.154,840.66)">
+        </g>
+        <text x="169.998px" y="840.66px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">-<tspan x="172.8px " y="840.66px ">3</tspan></text>
+    </g>
+    <g transform="matrix(10.44,0,0,10.44,230.54,844.799)">
+    </g>
+    <text x="219.599px" y="844.799px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">h<tspan x="224.819px " y="844.799px ">p</tspan></text>
+    <g>
+        <text x="46.799px" y="859.739px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">f<tspan x="50.006px 53.567px 56.129px 58.793px " y="859.739px 859.739px 859.739px 859.739px ">t / </tspan>s</text>
+        <g transform="matrix(8.28,0,0,8.28,68.7534,855.419)">
+        </g>
+        <text x="65.052px" y="855.419px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">2</text>
+    </g>
+    <g>
+        <text x="133.199px" y="859.74px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">0<tspan x="139.15px 141.719px " y="859.74px 859.74px ">.3</tspan>048* <tspan x="219.564px " y="859.74px ">m</tspan> / <tspan x="235.785px " y="859.74px ">s</tspan></text>
+        <text x="239.764px" y="855.419px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">2</text>
+        <text x="46.799px" y="874.5px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">U<tspan x="53.904px 56.655px 61.912px 64.664px 68.02px 73.12px 77.95px 80.931px 83.807px 89.576px 95.47px 96.839px 100.091px 105.192px 110.021px 112.897px 116.15px 133.199px 139.333px 142.084px 146.214px 150.615px 155.016px 160.68px 165.874px 219.606px 223.276px " y="874.5px 874.5px 874.5px 874.5px 874.5px 874.5px 874.5px 874.5px 874.5px 874.5px 874.5px 874.5px 874.5px 874.5px 874.5px 874.5px 874.5px 874.5px 874.5px 874.5px 874.5px 874.5px 874.5px 874.5px 874.5px 874.5px 874.5px ">.S. gallon (gal) 0.13368 ft</tspan></text>
+        <text x="227.301px" y="870.18px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">3</text>
+        <text x="46.799px" y="886.38px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">g<tspan x="52.077px 57.084px 60.138px 133.174px 137.752px 140.473px 145.469px 150.841px 155.483px 161.429px 219.591px " y="886.38px 886.38px 886.38px 886.38px 886.38px 886.38px 886.38px 886.38px 886.38px 886.38px 886.38px ">al 3.7854 L</tspan></text>
+        <text x="46.799px" y="901.32px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">g<tspan x="52.023px 56.975px 59.976px 133.164px 137.688px 140.354px 145.297px 150.615px 155.202px 161.094px 166.423px 170.676px " y="901.32px 901.32px 901.32px 901.32px 901.32px 901.32px 901.32px 901.32px 901.32px 901.32px 901.32px 901.32px ">al 3.7854x10</tspan></text>
+        <g transform="matrix(8.28,0,0,8.28,183.482,897)">
+        </g>
+        <text x="177.194px" y="897px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">-<tspan x="180.129px " y="897px ">3</tspan></text>
+    </g>
+    <g>
+        <text x="219.599px" y="901.32px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">m</text>
+        <text x="227.698px" y="896.999px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">3</text>
+        <text x="46.799px" y="916.08px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">g<tspan x="52.074px 57.077px 60.128px 133.154px 138.168px 142.743px 147.047px 219.554px 222.824px " y="916.08px 916.08px 916.08px 916.08px 916.08px 916.08px 916.08px 916.08px 916.08px ">al 231 in</tspan></text>
+        <text x="228.892px" y="911.939px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">3</text>
+        <text x="46.799px" y="928.14px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">g<tspan x="51.991px 56.912px 59.88px 62.1px 65.444px 72.641px 75.484px 83.986px 86.829px 90.173px 133.216px 137.437px 140.281px 145.212px 151.699px 155.92px 219.616px 224.808px 229.729px 232.698px 235.574px 238.919px 246.115px 248.959px 254.307px 257.151px " y="928.14px 928.14px 928.14px 928.14px 928.14px 928.14px 928.14px 928.14px 928.14px 928.14px 928.14px 928.14px 928.14px 928.14px 928.14px 928.14px 928.14px 928.14px 928.14px 928.14px 928.14px 928.14px 928.14px 928.14px 928.14px 928.14px ">al (U.K.) 1.201 gal (U.S.)</tspan></text>
+        <text x="46.799px" y="942.9px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">g<tspan x="51.917px 56.765px 59.66px 62.461px 65.731px 72.855px 75.624px 84.053px 86.822px 90.093px 133.176px 138.034px 142.871px 146.977px 149.746px 155.533px 219.576px 222.69px " y="942.9px 942.9px 942.9px 942.9px 942.9px 942.9px 942.9px 942.9px 942.9px 942.9px 942.9px 942.9px 942.9px 942.9px 942.9px 942.9px 942.9px 942.9px ">al (U.K.) 277.4 in</tspan></text>
+        <text x="228.603px" y="938.58px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">3</text>
+        <text x="46.799px" y="957.66px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">gal<tspan x="58.938px " y="957.66px "> </tspan>/ min (g<tspan x="94.888px " y="957.66px ">p</tspan>m)<tspan x="112.175px 133.191px 139.103px 141.632px " y="957.66px 957.66px 957.66px 957.66px "> 0.0</tspan>02<tspan x="158.595px " y="957.66px ">2</tspan>28<tspan x="172.801px 219.586px " y="957.66px 957.66px "> f</tspan>t</text>
+        <text x="226.837px" y="953.519px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">3</text>
+        <g transform="matrix(10.44,0,0,10.44,251.992,957.66)">
+        </g>
+        <text x="232.82px" y="957.66px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">/ sec</text>
+    </g>
+    <g>
+        <text x="46.798px" y="972.42px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">g<tspan x="51.86px 56.65px 65.419px 74.187px 78.977px 80.292px " y="972.42px 972.42px 972.42px 972.42px 972.42px 972.42px ">amma (</tspan></text>
+        <text x="83.506px" y="972.42px" style="font-family:'Symbol';font-size:11.88px;">γ</text>
+        <text x="88.543px" y="972.42px" style="font-family:'Symbol';font-size:11.88px;">,</text>
+        <text x="91.418px" y="972.42px" style="font-family:'Symbol';font-size:11.88px;">Γ</text>
+        <text x="98.798px" y="972.42px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">)<tspan x="102.068px 133.198px 137.345px 142.568px 146.715px " y="972.42px 972.42px 972.42px 972.42px 972.42px "> 1x10</tspan></text>
+        <g transform="matrix(8.28,0,0,8.28,160.333,968.28)">
+        </g>
+        <text x="153.128px" y="968.28px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">-<tspan x="155.978px " y="968.28px ">9</tspan></text>
+    </g>
+    <g transform="matrix(10.44,0,0,10.44,254.351,972.419)">
+    </g>
+    <text x="219.599px" y="972.419px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">t<tspan x="223.111px 227.814px 231.619px 234.14px 238.613px 241.134px 244.031px 251.271px " y="972.419px 972.419px 972.419px 972.419px 972.419px 972.419px 972.419px 972.419px ">esla (T)</tspan></text>
+    <g>
+        <text x="46.799px" y="987.719px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">g<tspan x="51.95px 56.831px 62.515px 66.727px 70.939px 133.174px 137.355px 142.611px 146.791px " y="987.719px 987.719px 987.719px 987.719px 987.719px 987.719px 987.719px 987.719px 987.719px ">auss 1x10</tspan></text>
+        <g transform="matrix(8.28,0,0,8.28,160.553,983.579)">
+        </g>
+        <text x="153.238px" y="983.579px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">-<tspan x="156.115px " y="983.579px ">4</tspan></text>
+    </g>
+    <g transform="matrix(10.44,0,0,10.44,227.021,987.719)">
+    </g>
+    <text x="219.599px" y="987.719px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">T</text>
+    <g>
+        <text x="46.799px" y="1002.48px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">g<tspan x="51.873px 55.903px 60.706px 69.486px 70.903px 74.129px 79.203px 82.429px 133.181px 137.994px 140.719px 145.532px 151.901px 156.338px 161.517px 165.62px " y="1002.48px 1002.48px 1002.48px 1002.48px 1002.48px 1002.48px 1002.48px 1002.48px 1002.48px 1002.48px 1002.48px 1002.48px 1002.48px 1002.48px 1002.48px 1002.48px ">ram (g) 2.205x10</tspan></text>
+        <g transform="matrix(8.28,0,0,8.28,178.157,998.34)">
+        </g>
+        <text x="171.989px" y="998.34px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">-<tspan x="174.804px " y="998.34px ">3</tspan></text>
+    </g>
+    <g transform="matrix(10.44,0,0,10.44,236.332,1002.48)">
+    </g>
+    <text x="219.599px" y="1002.48px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">l<tspan x="222.14px 227.698px " y="1002.48px 1002.48px ">bm</tspan></text>
+    <g>
+        <text x="46.799px" y="1017.42px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">g / cm</text>
+        <g transform="matrix(8.28,0,0,8.28,76.6436,1013.1)">
+        </g>
+        <text x="73.29px" y="1013.1px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">3</text>
+    </g>
+    <g transform="matrix(10.44,0,0,10.44,252.511,1017.42)">
+    </g>
+    <text x="133.199px" y="1017.42px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">1<tspan x="137.644px 219.599px 224.044px 227.339px 233.528px 238.944px 240.479px 243.922px 246.059px " y="1017.42px 1017.42px 1017.42px 1017.42px 1017.42px 1017.42px 1017.42px 1017.42px 1017.42px "> 1 kg / L</tspan></text>
+    <g>
+        <text x="46.798px" y="1032.18px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">g / cm</text>
+        <g transform="matrix(8.28,0,0,8.28,76.6436,1028.04)">
+        </g>
+        <text x="73.29px" y="1028.04px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">3</text>
+    </g>
+    <g>
+        <text x="133.199px" y="1032.18px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">1<tspan x="136.86px 142.787px 148.714px 154.641px 219.579px 224.984px 229.616px 232.707px 235.366px 237.8px " y="1032.18px 1032.18px 1032.18px 1032.18px 1032.18px 1032.18px 1032.18px 1032.18px 1032.18px 1032.18px ">000 kg / m</tspan></text>
+        <g transform="matrix(8.28,0,0,8.28,249.492,1028.04)">
+        </g>
+        <text x="246.139px" y="1028.04px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">3</text>
+    </g>
+    <g>
+        <text x="46.799px" y="1046.94px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">g / cm</text>
+        <g transform="matrix(8.28,0,0,8.28,76.6436,1042.8)">
+        </g>
+        <text x="73.29px" y="1042.8px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">3</text>
+    </g>
+    <g>
+        <text x="133.199px" y="1046.94px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">6<tspan x="138.588px 143.153px 145.63px 151.124px 155.689px 160.608px 219.564px 222.166px 227.785px 236.317px " y="1046.94px 1046.94px 1046.94px 1046.94px 1046.94px 1046.94px 1046.94px 1046.94px 1046.94px 1046.94px ">2.428 lbm </tspan>/ f<tspan x="247.832px " y="1046.94px ">t</tspan></text>
+        <g transform="matrix(8.28,0,0,8.28,254.936,1042.8)">
+        </g>
+        <text x="251.582px" y="1042.8px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">3</text>
+    </g>
+    <g>
+        <text x="46.799px" y="1061.7px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">g / cm</text>
+        <g transform="matrix(8.28,0,0,8.28,76.6436,1057.56)">
+        </g>
+        <text x="73.29px" y="1057.56px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">3</text>
+    </g>
+    <g>
+        <text x="133.199px" y="1061.7px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">1.<tspan x="139.626px 145.063px 150.605px 156.773px 219.599px 223.533px 226.182px 231.589px 236.462px " y="1061.7px 1061.7px 1061.7px 1061.7px 1061.7px 1061.7px 1061.7px 1061.7px 1061.7px ">940 slug </tspan>/ <tspan x="245.159px " y="1061.7px ">f</tspan>t</text>
+        <g transform="matrix(8.28,0,0,8.28,255.754,1057.56)">
+        </g>
+        <text x="252.4px" y="1057.56px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">3</text>
+    </g>
+    <g>
+        <text x="46.799px" y="1076.64px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">g / cm</text>
+        <g transform="matrix(8.28,0,0,8.28,76.6436,1072.32)">
+        </g>
+        <text x="73.29px" y="1072.32px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">3</text>
+    </g>
+    <g>
+        <text x="133.199px" y="1076.64px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">0<tspan x="139.16px 141.738px " y="1076.64px 1076.64px ">.0</tspan>36127 <tspan x="219.539px " y="1076.64px ">l</tspan>bm <tspan x="238.456px " y="1076.64px ">/</tspan> in</text>
+        <text x="252.695px" y="1072.32px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">3</text>
+        <text x="46.799px" y="1091.4px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">he<tspan x="57.314px 62.061px 65.836px 70.415px 74.222px 79.031px 133.164px 137.043px 141.998px " y="1091.4px 1091.4px 1091.4px 1091.4px 1091.4px 1091.4px 1091.4px 1091.4px 1091.4px ">ctare 1x1</tspan>0</text>
+        <g transform="matrix(8.28,0,0,8.28,156.462,1087.26)">
+        </g>
+        <text x="152.023px" y="1087.26px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">4</text>
+    </g>
+    <g>
+        <text x="219.599px" y="1091.4px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">m</text>
+        <text x="227.698px" y="1087.26px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">2</text>
+        <text x="46.799px" y="1103.46px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">h<tspan x="52.439px 57.182px 61.862px 65.571px 70.084px 73.825px 78.568px 133.214px 137.737px 140.173px 145.625px 150.128px 153.942px 160.021px 165.473px 219.686px 224.199px 228.879px 232.62px 237.363px " y="1103.46px 1103.46px 1103.46px 1103.46px 1103.46px 1103.46px 1103.46px 1103.46px 1103.46px 1103.46px 1103.46px 1103.46px 1103.46px 1103.46px 1103.46px 1103.46px 1103.46px 1103.46px 1103.46px 1103.46px ">ectare 2.47104 acres</tspan></text>
+        <text x="46.799px" y="1115.34px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">h<tspan x="52.461px 58.061px 59.942px 62.9px 68.563px 74.037px 77.799px 81.666px 86.431px 92.031px 97.505px 104.587px 109.352px 113.114px 116.073px 133.164px 138.638px 143.184px 145.641px 151.115px 154.951px 219.571px 226.225px 229.956px 235.295px 237.784px 240.617px 243.106px 251.618px 254.42px " y="1115.34px 1115.34px 1115.34px 1115.34px 1115.34px 1115.34px 1115.34px 1115.34px 1115.34px 1115.34px 1115.34px 1115.34px 1115.34px 1115.34px 1115.34px 1115.34px 1115.34px 1115.34px 1115.34px 1115.34px 1115.34px 1115.34px 1115.34px 1115.34px 1115.34px 1115.34px 1115.34px 1115.34px 1115.34px 1115.34px ">p (horsepower) 42.41 Btu / min</tspan></text>
+        <g transform="matrix(10.44,0,0,10.44,255.901,1127.4)">
+        </g>
+        <text x="46.799px" y="1127.4px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">h<tspan x="52.363px 57.864px 133.191px 138.933px 141.083px 145.509px 151.512px 156.783px 161.585px 219.589px 226.145px 229.777px 235.018px 237.463px 240.198px 242.643px 246.412px 251.078px " y="1127.4px 1127.4px 1127.4px 1127.4px 1127.4px 1127.4px 1127.4px 1127.4px 1127.4px 1127.4px 1127.4px 1127.4px 1127.4px 1127.4px 1127.4px 1127.4px 1127.4px 1127.4px ">p 0.7068 Btu / sec</tspan></text>
+    </g>
+    <g>
+        <text x="320.399px" y="61.08px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">hp<tspan x="331.765px 406.789px 411.386px 415.607px 421.134px 426.66px 429.169px 433.391px 493.171px 499.877px 503.66px 509.051px 511.003px 513.888px 516.428px " y="61.08px 61.08px 61.08px 61.08px 61.08px 61.08px 61.08px 61.08px 61.08px 61.08px 61.08px 61.08px 61.08px 61.08px 61.08px "> 2544.5 Btu / h</tspan>r</text>
+        <text x="320.399px" y="72.96px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">h<tspan x="326.059px 331.656px 406.801px 410.895px 416.367px 420.221px " y="72.96px 72.96px 72.96px 72.96px 72.96px 72.96px ">p 745.</tspan>70 <tspan x="493.224px 504.312px 505.605px 508.562px 515.735px 520.268px 523.996px 527.725px " y="72.96px 72.96px 72.96px 72.96px 72.96px 72.96px 72.96px 72.96px ">W (watt)</tspan></text>
+        <text x="320.399px" y="85.02px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">hp<tspan x="331.738px 406.799px 412.677px 414.964px 419.099px 424.612px 428.82px 433.383px 439.522px 493.199px " y="85.02px 85.02px 85.02px 85.02px 85.02px 85.02px 85.02px 85.02px 85.02px 85.02px "> 0.74570 k</tspan>W</text>
+        <text x="320.399px" y="97.08px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">h<tspan x="325.994px 331.526px 406.799px 410.838px 414.878px 417.268px 423.301px 429.335px 435.369px 493.171px 496.48px 500.144px 502.116px 504.631px 510.164px 513.473px 516.064px 518.83px 521.96px 530.406px 533.14px " y="97.08px 97.08px 97.08px 97.08px 97.08px 97.08px 97.08px 97.08px 97.08px 97.08px 97.08px 97.08px 97.08px 97.08px 97.08px 97.08px 97.08px 97.08px 97.08px 97.08px 97.08px ">p 33,000 ft·lbf / min</tspan></text>
+        <text x="320.399px" y="108.96px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">hp<tspan x="331.747px 406.789px 411.001px 415.214px 421.358px 493.176px 496.595px 500.369px 502.452px 505.078px 510.721px 514.14px " y="108.96px 108.96px 108.96px 108.96px 108.96px 108.96px 108.96px 108.96px 108.96px 108.96px 108.96px 108.96px "> 550 ft·lbf </tspan>/ s<tspan x="526.176px " y="108.96px ">e</tspan>c</text>
+        <text x="320.399px" y="121.02px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">h<tspan x="326.047px 331.632px 333.657px 339.305px 343.053px 406.799px 411.33px 415.485px 420.945px 426.405px 493.199px 499.838px 503.555px " y="121.02px 121.02px 121.02px 121.02px 121.02px 121.02px 121.02px 121.02px 121.02px 121.02px 121.02px 121.02px 121.02px ">p·hr 2544 Btu</tspan></text>
+        <text x="320.399px" y="135.78px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">hp·hr<tspan x="343.842px 406.799px " y="135.78px 135.78px "> 1</tspan>.98x<tspan x="428.989px " y="135.78px ">1</tspan>0</text>
+        <g transform="matrix(8.28,0,0,8.28,443.567,131.639)">
+        </g>
+        <text x="439.212px" y="131.639px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">6</text>
+    </g>
+    <g transform="matrix(10.44,0,0,10.44,513.796,135.78)">
+    </g>
+    <text x="493.198px" y="135.78px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">f<tspan x="496.529px 500.214px 502.208px 504.744px 510.298px " y="135.78px 135.78px 135.78px 135.78px 135.78px ">t·lbf</tspan></text>
+    <g>
+        <text x="320.399px" y="150.719px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">hp·<tspan x="333.953px " y="150.719px ">h</tspan>r <tspan x="406.799px " y="150.719px ">2</tspan>.6<tspan x="419.424px " y="150.719px ">8</tspan>x1<tspan x="433.323px " y="150.719px ">0</tspan></text>
+        <g transform="matrix(8.28,0,0,8.28,443.863,146.4)">
+        </g>
+        <text x="439.508px" y="146.4px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">6</text>
+    </g>
+    <g>
+        <text x="493.198px" y="150.72px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">J</text>
+        <text x="320.399px" y="162.6px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">i<tspan x="323.537px 329.474px 406.831px 411.713px 414.507px 419.013px 424.825px 429.091px 493.249px 498.287px " y="162.6px 162.6px 162.6px 162.6px 162.6px 162.6px 162.6px 162.6px 162.6px 162.6px ">n 2.54* cm</tspan></text>
+        <text x="320.399px" y="174.66px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">i<tspan x="323.098px 328.594px 331.174px 336.546px 339.819px 342.399px 351.215px 355.919px 406.804px 412.541px 414.895px 420.893px 424.897px 428.901px 434.272px 493.214px 497.646px 501.274px " y="174.66px 174.66px 174.66px 174.66px 174.66px 174.66px 174.66px 174.66px 174.66px 174.66px 174.66px 174.66px 174.66px 174.66px 174.66px 174.66px 174.66px 174.66px ">n of Hg 0.0334 atm</tspan></text>
+        <text x="320.399px" y="186.72px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">i<tspan x="323.174px 328.748px 331.352px 336.8px 340.15px 342.753px 351.647px 356.427px 406.821px 410.631px 414.711px 417.142px 422.486px 428.561px 493.239px 496.014px 501.588px 504.192px 509.64px 512.99px 515.593px 522.743px 527.252px 530.8px " y="186.72px 186.72px 186.72px 186.72px 186.72px 186.72px 186.72px 186.72px 186.72px 186.72px 186.72px 186.72px 186.72px 186.72px 186.72px 186.72px 186.72px 186.72px 186.72px 186.72px 186.72px 186.72px 186.72px 186.72px ">n of Hg 13.60 in of wate</tspan>r</text>
+        <text x="320.399px" y="198.6px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">in of <tspan x="342.561px " y="198.6px ">H</tspan>g <tspan x="406.794px " y="198.6px ">3</tspan>.387 <tspan x="493.184px 498.868px 505.054px " y="198.6px 198.6px 198.6px ">kPa</tspan></text>
+        <text x="320.399px" y="210.66px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">i<tspan x="323.075px 328.549px 331.127px 336.476px 339.726px 342.304px 349.354px 353.763px 357.212px 361.851px 365.488px 406.769px 412.483px 414.815px 420.79px 425.189px 429.17px 434.414px 493.184px 495.86px 501.334px 503.912px 509.261px 512.511px 515.089px 523.883px " y="210.66px 210.66px 210.66px 210.66px 210.66px 210.66px 210.66px 210.66px 210.66px 210.66px 210.66px 210.66px 210.66px 210.66px 210.66px 210.66px 210.66px 210.66px 210.66px 210.66px 210.66px 210.66px 210.66px 210.66px 210.66px 210.66px ">n of water 0.0736 in of Hg</tspan></text>
+        <text x="320.399px" y="225.42px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">in<tspan x="328.871px " y="225.42px "> </tspan>of<tspan x="340.416px " y="225.42px "> </tspan>wa<tspan x="354.821px 358.431px " y="225.42px 225.42px ">te</tspan>r <tspan x="406.716px 412.592px 415.084px 421.22px 425.363px 430.768px 434.639px 493.109px 495.727px 501.362px " y="225.42px 225.42px 225.42px 225.42px 225.42px 225.42px 225.42px 225.42px 225.42px 225.42px ">0.0361 lbf</tspan> /<tspan x="510.265px " y="225.42px "> </tspan>in</text>
+        <text x="521.361px" y="221.279px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">2</text>
+        <text x="527.617px" y="225.42px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">(p<tspan x="536.246px 540.148px 542.986px " y="225.42px 225.42px 225.42px ">si)</tspan></text>
+        <g transform="matrix(10.44,0,0,10.44,509.871,237.48)">
+        </g>
+        <text x="320.399px" y="237.48px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">i<tspan x="323.089px 328.577px 331.16px 336.523px 339.787px 342.37px 349.434px 353.858px 357.321px 361.974px 365.624px 406.769px 412.497px 414.843px 420.832px 426.822px 431.256px 436.619px 440.676px 445.465px 493.194px 497.617px 501.237px " y="237.48px 237.48px 237.48px 237.48px 237.48px 237.48px 237.48px 237.48px 237.48px 237.48px 237.48px 237.48px 237.48px 237.48px 237.48px 237.48px 237.48px 237.48px 237.48px 237.48px 237.48px 237.48px 237.48px ">n of water 0.002458 atm</tspan></text>
+    </g>
+    <g>
+        <text x="320.399px" y="252.24px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">J<tspan x="324.454px 327.184px 330.383px 333.06px 338.776px 344.355px 347.179px 352.184px 355.384px 406.786px 412.397px 415.095px 420.811px 425.576px 430.717px 435.503px 440.655px 444.731px " y="252.24px 252.24px 252.24px 252.24px 252.24px 252.24px 252.24px 252.24px 252.24px 252.24px 252.24px 252.24px 252.24px 252.24px 252.24px 252.24px 252.24px 252.24px "> (joule) 9.4782x10</tspan></text>
+        <g transform="matrix(8.28,0,0,8.28,458.305,248.1)">
+        </g>
+        <text x="451.073px" y="248.1px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">-4</text>
+    </g>
+    <g transform="matrix(10.44,0,0,10.44,508.554,252.24)">
+    </g>
+    <text x="493.198px" y="252.24px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">B<tspan x="499.608px 503.094px " y="252.24px 252.24px ">tu</tspan></text>
+    <g>
+        <text x="320.399px" y="267px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">J<tspan x="324.72px 406.799px 412.675px 415.639px 420.69px 426.671px 431.013px 435.689px 441.106px 445.447px " y="267px 267px 267px 267px 267px 267px 267px 267px 267px 267px "> 6.2415x10</tspan></text>
+        <g transform="matrix(8.28,0,0,8.28,459.481,262.86)">
+        </g>
+        <text x="452.055px" y="262.86px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">1<tspan x="455.498px " y="262.86px ">8</tspan></text>
+    </g>
+    <g>
+        <text x="493.198px" y="267px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">e<tspan x="497.879px " y="267px ">V</tspan></text>
+        <text x="320.399px" y="279.06px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">J<tspan x="324.464px 406.799px 412.889px 415.388px 420.163px 424.52px 429.295px 433.714px 439.335px 493.199px 496.825px 500.807px 503.097px 505.929px 511.78px " y="279.06px 279.06px 279.06px 279.06px 279.06px 279.06px 279.06px 279.06px 279.06px 279.06px 279.06px 279.06px 279.06px 279.06px 279.06px "> 0.73756 ft·lbf</tspan></text>
+        <g transform="matrix(10.44,0,0,10.44,512.439,291.12)">
+        </g>
+        <text x="320.399px" y="291.12px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">J<tspan x="324.068px 406.799px 410.489px 493.2px 501.911px 503.806px " y="291.12px 291.12px 291.12px 291.12px 291.12px 291.12px "> 1 N·m</tspan></text>
+    </g>
+    <g>
+        <text x="320.399px" y="305.88px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">J<tspan x="324.702px 406.799px 411.123px 416.522px 420.846px " y="305.88px 305.88px 305.88px 305.88px 305.88px "> 1x10</tspan></text>
+        <g transform="matrix(8.28,0,0,8.28,431.121,301.56)">
+        </g>
+        <text x="427.436px" y="301.56px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">7</text>
+    </g>
+    <g>
+        <text x="493.198px" y="305.88px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">e<tspan x="497.899px 501.596px 506.338px " y="305.88px 305.88px 305.88px ">rgs</tspan></text>
+        <text x="320.399px" y="317.76px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">J<tspan x="324.607px 327.489px 330.715px 332.637px 336.897px 406.794px 411.023px 493.199px " y="317.76px 317.76px 317.76px 317.76px 317.76px 317.76px 317.76px 317.76px "> / s 1 W</tspan></text>
+        <text x="320.399px" y="329.82px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">kg<tspan x="330.84px 333.798px 336.784px 342.391px 345.221px 347.832px 353.334px 358.169px 361.959px 366.522px 375.062px 378.049px 406.784px 411.357px 413.843px 418.416px 424.545px 430.047px 435.446px 440.019px 444.592px 449.991px 493.171px 495.782px 501.41px 509.95px 512.109px 515.096px 520.724px 526.226px 531.593px 537.221px 542.786px 544.501px " y="329.82px 329.82px 329.82px 329.82px 329.82px 329.82px 329.82px 329.82px 329.82px 329.82px 329.82px 329.82px 329.82px 329.82px 329.82px 329.82px 329.82px 329.82px 329.82px 329.82px 329.82px 329.82px 329.82px 329.82px 329.82px 329.82px 329.82px 329.82px 329.82px 329.82px 329.82px 329.82px 329.82px 329.82px "> (kilogram) 2.2046226 lbm (pound m</tspan>as<tspan x="561.603px " y="329.82px ">s</tspan>)</text>
+        <g transform="matrix(10.44,0,0,10.44,510.334,341.88)">
+        </g>
+        <text x="320.399px" y="341.88px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">kg <tspan x="406.799px 412.779px 415.376px " y="341.88px 341.88px 341.88px ">0.0</tspan>68522<tspan x="445.846px 493.199px " y="341.88px 341.88px "> s</tspan>lug</text>
+    </g>
+    <g>
+        <text x="320.399px" y="356.64px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">k<tspan x="326.35px 331.528px 406.799px 411.006px 416.289px 420.497px " y="356.64px 356.64px 356.64px 356.64px 356.64px 356.64px ">g 1x10</tspan></text>
+        <g transform="matrix(8.28,0,0,8.28,433.222,352.5)">
+        </g>
+        <text x="426.97px" y="352.5px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">-<tspan x="429.868px " y="352.5px ">3</tspan></text>
+    </g>
+    <g transform="matrix(10.44,0,0,10.44,536.336,356.639)">
+    </g>
+    <text x="493.198px" y="356.639px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">m<tspan x="501.432px 505.918px 509.37px 512.853px 515.376px 519.799px 522.124px 525.42px 530.615px " y="356.639px 356.639px 356.639px 356.639px 356.639px 356.639px 356.639px 356.639px 356.639px ">etric ton</tspan></text>
+    <g>
+        <text x="320.399px" y="371.399px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">k<tspan x="325.946px 330.722px 333.179px 335.981px 338.439px " y="371.399px 371.399px 371.399px 371.399px 371.399px ">g / m</tspan></text>
+        <g transform="matrix(8.28,0,0,8.28,350.273,367.26)">
+        </g>
+        <text x="346.92px" y="367.26px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">3</text>
+    </g>
+    <g>
+        <text x="406.799px" y="371.4px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">0<tspan x="412.562px 414.943px 420.968px 426.262px 430.731px 436.129px 440.598px 445.422px 493.144px 495.65px 501.173px 509.61px 512.213px 514.97px 517.574px 520.874px " y="371.4px 371.4px 371.4px 371.4px 371.4px 371.4px 371.4px 371.4px 371.4px 371.4px 371.4px 371.4px 371.4px 371.4px 371.4px 371.4px ">.062428 lbm / ft</tspan></text>
+        <text x="524.528px" y="367.26px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">3</text>
+        <text x="320.399px" y="383.46px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">k<tspan x="325.871px 330.571px 333.841px 406.809px 412.072px 414.423px 419.217px 425.212px 430.475px 435.739px 439.802px 493.224px 498.717px 503.48px 510.549px 514.017px 519.386px 524.879px 526.674px 529.526px 538.277px " y="383.46px 383.46px 383.46px 383.46px 383.46px 383.46px 383.46px 383.46px 383.46px 383.46px 383.46px 383.46px 383.46px 383.46px 383.46px 383.46px 383.46px 383.46px 383.46px 383.46px 383.46px ">gf 9.80665 newton (N)</tspan></text>
+        <text x="320.399px" y="395.52px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">k<tspan x="325.755px 328.334px 333.711px 406.816px 410.429px 416.307px 422.185px 428.064px 493.196px 495.556px 500.933px " y="395.52px 395.52px 395.52px 395.52px 395.52px 395.52px 395.52px 395.52px 395.52px 395.52px 395.52px ">ip 1000 lbf</tspan></text>
+        <text x="320.399px" y="407.4px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">k<tspan x="325.819px 328.462px 333.903px 406.809px 412.124px 417.44px 422.756px 427.497px 493.194px " y="407.4px 407.4px 407.4px 407.4px 407.4px 407.4px 407.4px 407.4px 407.4px ">ip 4448 N</tspan></text>
+        <text x="320.399px" y="422.34px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">k<tspan x="326.241px 330.319px 406.806px 410.905px 493.206px 497.305px 501.407px 507.249px 513.593px 518.391px 520.694px " y="422.34px 422.34px 422.34px 422.34px 422.34px 422.34px 422.34px 422.34px 422.34px 422.34px 422.34px ">J 1 1 kPa·m</tspan></text>
+        <text x="529.47px" y="418.02px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">3</text>
+        <text x="320.399px" y="434.22px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">k<tspan x="325.706px 329.249px 406.801px 410.365px 416.194px 422.024px 427.853px 493.211px 501.797px 503.565px " y="434.22px 434.22px 434.22px 434.22px 434.22px 434.22px 434.22px 434.22px 434.22px 434.22px ">J 1000 N·m</tspan></text>
+        <text x="320.399px" y="446.28px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">kJ<tspan x="329.848px 406.799px 412.667px 415.152px 420.551px 426.053px 430.606px 435.535px 440.108px 493.199px 499.881px 503.64px " y="446.28px 446.28px 446.28px 446.28px 446.28px 446.28px 446.28px 446.28px 446.28px 446.28px 446.28px 446.28px "> 0.94782 Btu</tspan></text>
+        <text x="320.399px" y="458.34px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">k<tspan x="326.288px 330.413px 406.799px 411.634px 416.051px 420.155px 422.923px 427.403px 433.084px 493.199px 496.885px 500.927px 503.277px 506.17px 512.08px " y="458.34px 458.34px 458.34px 458.34px 458.34px 458.34px 458.34px 458.34px 458.34px 458.34px 458.34px 458.34px 458.34px 458.34px 458.34px ">J 737.56 ft·lbf</tspan></text>
+        <text x="320.399px" y="473.1px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">k<tspan x="325.905px 329.646px 332.294px 335.054px 337.702px 343.208px 347.942px 406.814px 410.576px 416.604px 422.632px 428.66px 493.194px " y="473.1px 473.1px 473.1px 473.1px 473.1px 473.1px 473.1px 473.1px 473.1px 473.1px 473.1px 473.1px 473.1px ">J / kg 1000 m</tspan></text>
+        <text x="501.633px" y="468.779px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">2</text>
+        <text x="507.828px" y="473.1px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">/<tspan x="510.589px 513.896px " y="473.1px 473.1px "> s</tspan></text>
+        <text x="517.69px" y="468.779px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">2</text>
+        <text x="320.399px" y="484.98px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">k<tspan x="325.978px 329.794px 332.423px 335.257px 337.886px 343.466px 348.273px 406.806px 412.647px 415.105px 420.581px 425.127px 430.498px 435.87px 440.416px 493.179px 499.834px 503.566px 508.906px 510.993px 513.828px 516.456px 519.04px 524.641px " y="484.98px 484.98px 484.98px 484.98px 484.98px 484.98px 484.98px 484.98px 484.98px 484.98px 484.98px 484.98px 484.98px 484.98px 484.98px 484.98px 484.98px 484.98px 484.98px 484.98px 484.98px 484.98px 484.98px 484.98px ">J / kg 0.42992 Btu / lbm</tspan></text>
+        <text x="320.399px" y="497.04px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">kJ<tspan x="330.172px 332.269px 335.292px 338.02px 343.789px 348.785px 351.015px 359.321px 406.778px 412.809px 415.456px 420.192px 424.489px 429.579px 434.67px 439.03px 493.136px 499.98px 503.902px 509.431px 510.946px 513.969px 516.696px 519.469px 525.259px 533.962px 536.192px " y="497.04px 497.04px 497.04px 497.04px 497.04px 497.04px 497.04px 497.04px 497.04px 497.04px 497.04px 497.04px 497.04px 497.04px 497.04px 497.04px 497.04px 497.04px 497.04px 497.04px 497.04px 497.04px 497.04px 497.04px 497.04px 497.04px 497.04px "> / kg·K 0.23885 Btu / lbm·°</tspan>R</text>
+        <text x="320.399px" y="509.1px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">kJ / k<tspan x="344.011px " y="509.1px ">g</tspan>·ºC <tspan x="406.786px 410.753px 493.186px " y="509.1px 509.1px 509.1px ">1 k</tspan>J / k<tspan x="516.799px " y="509.1px ">g</tspan>·K</text>
+        <text x="320.399px" y="520.98px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">kJ <tspan x="332.274px 335.27px 337.997px " y="520.98px 520.98px 520.98px ">/ k</tspan>g·<tspan x="350.909px " y="520.98px ">º</tspan>C <tspan x="406.788px 410.786px 493.186px 497.163px 499.89px 502.886px 505.613px " y="520.98px 520.98px 520.98px 520.98px 520.98px 520.98px 520.98px ">1 J / g</tspan>·º<tspan x="516.531px " y="520.98px ">C</tspan></text>
+        <text x="320.399px" y="533.04px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">kJ / kg·º<tspan x="354.591px 362.229px 406.786px 412.722px 415.276px " y="533.04px 533.04px 533.04px 533.04px 533.04px ">C 0.2</tspan>3885<tspan x="438.381px 493.149px " y="533.04px 533.04px "> B</tspan>tu <tspan x="510.962px " y="533.04px ">/</tspan> lbm·º<tspan x="539.334px " y="533.04px ">F</tspan></text>
+        <text x="320.399px" y="545.1px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">kJ / kg·ºC <tspan x="406.794px 412.75px 415.324px " y="545.1px 545.1px 545.1px ">0.2</tspan>3885 <tspan x="493.164px " y="545.1px ">B</tspan>tu <tspan x="510.979px " y="545.1px ">/</tspan> lbm·R</text>
+        <text x="320.399px" y="556.98px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">km <tspan x="406.799px " y="556.98px ">3</tspan>280<tspan x="426.789px 429.395px 434.445px 493.199px " y="556.98px 556.98px 556.98px 556.98px ">.8 f</tspan>t</text>
+        <text x="320.399px" y="569.04px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">k<tspan x="325.989px 334.513px 406.791px 412.643px 415.111px 420.493px 425.05px 428.897px 434.383px 493.179px 501.703px " y="569.04px 569.04px 569.04px 569.04px 569.04px 569.04px 569.04px 569.04px 569.04px 569.04px 569.04px ">m 0.6214 mi</tspan></text>
+        <text x="320.399px" y="581.1px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">k<tspan x="325.894px 334.323px 337.073px 342.653px 346.332px 406.809px 412.565px 414.939px 420.226px 424.688px 428.44px 433.832px 493.174px 501.603px 504.321px 506.937px 509.687px 512.303px 517.882px 521.562px 524.178px 527.053px 535.482px 540.999px 546.578px " y="581.1px 581.1px 581.1px 581.1px 581.1px 581.1px 581.1px 581.1px 581.1px 581.1px 581.1px 581.1px 581.1px 581.1px 581.1px 581.1px 581.1px 581.1px 581.1px 581.1px 581.1px 581.1px 581.1px 581.1px 581.1px ">m/hr 0.6214 mi / hr (mph)</tspan></text>
+        <text x="320.399px" y="592.98px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">km<tspan x="334.546px 337.408px 343.098px 346.889px 406.809px 412.677px 415.162px 419.736px 424.288px 428.841px 433.769px 493.174px 501.714px 504.576px " y="592.98px 592.98px 592.98px 592.98px 592.98px 592.98px 592.98px 592.98px 592.98px 592.98px 592.98px 592.98px 592.98px 592.98px ">/hr 0.2778 m/s</tspan></text>
+        <text x="320.399px" y="605.04px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">km/<tspan x="337.566px " y="605.04px ">h</tspan>r <tspan x="406.786px 412.707px 415.245px " y="605.04px 605.04px 605.04px ">0.9</tspan>11<tspan x="428.529px 432.717px 493.186px " y="605.04px 605.04px 605.04px ">3 f</tspan>t/<tspan x="503.369px " y="605.04px ">s</tspan></text>
+        <text x="320.399px" y="619.8px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">kP<tspan x="332.304px 336.962px 338.777px " y="619.8px 619.8px 619.8px ">a (</tspan>kilopa<tspan x="369.276px 373.266px " y="619.8px 619.8px ">sc</tspan>al) <tspan x="406.771px " y="619.8px ">9</tspan>.8693x10</text>
+        <g transform="matrix(8.28,0,0,8.28,456.357,615.659)">
+        </g>
+        <text x="450.303px" y="615.659px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">-3</text>
+    </g>
+    <g>
+        <text x="493.198px" y="619.8px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">a<tspan x="497.383px 500.763px " y="619.8px 619.8px ">tm</tspan></text>
+        <text x="320.399px" y="634.74px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">kP<tspan x="332.15px 336.731px 406.821px 412.707px 415.21px 419.092px 424.612px 428.828px 434.975px 440.496px 493.173px 495.802px 501.448px " y="634.74px 634.74px 634.74px 634.74px 634.74px 634.74px 634.74px 634.74px 634.74px 634.74px 634.74px 634.74px 634.74px ">a 0.14504 lbf</tspan> /<tspan x="510.373px " y="634.74px "> </tspan>in</text>
+        <text x="521.491px" y="630.42px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">2</text>
+        <text x="527.757px" y="634.74px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">(p<tspan x="536.408px 540.32px 543.168px " y="634.74px 634.74px 634.74px ">si)</tspan></text>
+        <text x="320.399px" y="646.62px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">kW <tspan x="406.793px " y="646.62px ">3</tspan>412.14 <tspan x="493.183px " y="646.62px ">B</tspan>tu <tspan x="511.002px " y="646.62px ">/</tspan> hr</text>
+        <text x="320.399px" y="658.68px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">k<tspan x="325.854px 337.344px 406.793px 412.51px 414.844px 420.09px 425.441px 429.842px 434.619px 493.188px 499.719px 503.327px 508.542px 510.988px 513.698px 516.144px 519.887px 524.528px " y="658.68px 658.68px 658.68px 658.68px 658.68px 658.68px 658.68px 658.68px 658.68px 658.68px 658.68px 658.68px 658.68px 658.68px 658.68px 658.68px 658.68px 658.68px ">W 0.9478 Btu / sec</tspan></text>
+        <text x="320.399px" y="670.74px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">kW<tspan x="337.944px 406.791px 411.491px 415.775px 419.745px 422.378px 426.724px 432.27px 493.171px 495.93px 501.706px 505.258px 507.474px 511.026px 514.934px 516.394px 519.404px 522.069px 526.112px 531.053px " y="670.74px 670.74px 670.74px 670.74px 670.74px 670.74px 670.74px 670.74px 670.74px 670.74px 670.74px 670.74px 670.74px 670.74px 670.74px 670.74px 670.74px 670.74px 670.74px 670.74px "> 737.56 lbf·ft / sec</tspan></text>
+        <text x="320.399px" y="682.62px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">k<tspan x="326.207px 338.049px 406.798px 410.863px 413.549px 417.885px 423.589px 427.653px 493.198px 499.09px " y="682.62px 682.62px 682.62px 682.62px 682.62px 682.62px 682.62px 682.62px 682.62px 682.62px ">W 1.341 hp</tspan></text>
+        <text x="320.399px" y="694.68px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">k<tspan x="325.951px 337.537px 343.172px 343.403px 346.335px 351.887px 362.846px 366.101px 371.737px 377.184px 382.496px 386.231px 389.163px 406.771px 410.851px 416.298px 420.106px 424.625px 427.055px 430.863px 436.311px 493.186px 499.813px 503.517px " y="694.68px 694.68px 694.68px 694.68px 694.68px 694.68px 694.68px 694.68px 694.68px 694.68px 694.68px 694.68px 694.68px 694.68px 694.68px 694.68px 694.68px 694.68px 694.68px 694.68px 694.68px 694.68px 694.68px 694.68px ">Wh (kW-hour) 3412.14 Btu</tspan></text>
+        <text x="320.399px" y="706.74px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">kW<tspan x="337.713px 343.436px 406.758px 410.655px 413.173px 417.341px 422.876px 426.773px 493.163px 498.887px 504.547px 506.648px 512.371px " y="706.74px 706.74px 706.74px 706.74px 706.74px 706.74px 706.74px 706.74px 706.74px 706.74px 706.74px 706.74px 706.74px ">h 1.341 hp·hr</tspan></text>
+        <text x="320.399px" y="718.62px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">k<tspan x="325.518px 336.672px 341.875px 406.763px 410.411px 415.321px 420.963px 426.604px 493.176px 498.295px " y="718.62px 718.62px 718.62px 718.62px 718.62px 718.62px 718.62px 718.62px 718.62px 718.62px ">Wh 3600 kJ</tspan></text>
+        <text x="320.399px" y="733.38px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">L <tspan x="329.59px 332.734px 335.503px " y="733.38px 733.38px 733.38px ">(li</tspan>te<tspan x="347.201px 351.149px 354.294px 406.798px 412.824px 415.467px 421.754px 426.047px 430.402px 434.695px 438.716px 493.198px " y="733.38px 733.38px 733.38px 733.38px 733.38px 733.38px 733.38px 733.38px 733.38px 733.38px 733.38px 733.38px ">r) 0.03531 f</tspan>t</text>
+        <text x="500.677px" y="729.239px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">3</text>
+        <text x="320.399px" y="748.32px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">L <tspan x="406.798px 412.236px 416.139px 418.664px 424.832px 429.445px 493.163px " y="748.32px 748.32px 748.32px 748.32px 748.32px 748.32px 748.32px ">61.02 i</tspan>n</text>
+        <text x="501.7px" y="744px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">3</text>
+        <text x="320.399px" y="760.2px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">L<tspan x="326.992px 406.798px 412.901px 415.621px 420.429px 426.062px 431.799px 436.607px 493.198px 498.267px 503.065px 505.91px 508.825px 512.047px 519.12px 521.84px 527.066px 529.786px " y="760.2px 760.2px 760.2px 760.2px 760.2px 760.2px 760.2px 760.2px 760.2px 760.2px 760.2px 760.2px 760.2px 760.2px 760.2px 760.2px 760.2px 760.2px "> 0.2642 gal (U.S.)</tspan></text>
+        <text x="320.399px" y="775.14px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">L<tspan x="326.569px 406.798px 412.478px 414.776px 420.717px 426.658px 430.334px 493.198px " y="775.14px 775.14px 775.14px 775.14px 775.14px 775.14px 775.14px 775.14px "> 0.001 m</tspan></text>
+        <text x="501.551px" y="770.82px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">3</text>
+        <text x="320.399px" y="789.9px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">L / s <tspan x="406.808px 411.535px 414.173px 418.19px 422.207px 427.758px 493.208px " y="789.9px 789.9px 789.9px 789.9px 789.9px 789.9px 789.9px ">2.119 f</tspan>t</text>
+        <text x="500.678px" y="785.58px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">3</text>
+        <text x="506.338px" y="789.9px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;"><tspan x="506.338px " y="789.9px ">/</tspan> mi<tspan x="523.598px 529.379px 530.814px 533.953px 538.837px 542.394px 551.088px " y="789.9px 789.9px 789.9px 789.9px 789.9px 789.9px 789.9px ">n (cfm)</tspan></text>
+        <text x="320.398px" y="801.78px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">L<tspan x="326.983px 329.889px 332.977px 334.989px 339.111px 406.811px 410.901px 415.012px 417.724px 422.879px 427.303px 493.191px 498.252px 503.041px 505.878px 508.784px 511.872px 514.044px 522.811px 525.867px 531.722px 533.124px 536.337px 541.398px 547.252px 556.019px " y="801.78px 801.78px 801.78px 801.78px 801.78px 801.78px 801.78px 801.78px 801.78px 801.78px 801.78px 801.78px 801.78px 801.78px 801.78px 801.78px 801.78px 801.78px 801.78px 801.78px 801.78px 801.78px 801.78px 801.78px 801.78px 801.78px "> / s 15.85 gal / min (gpm)</tspan></text>
+        <text x="320.398px" y="816.72px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">lbf (pound <tspan x="367.027px " y="816.72px ">f</tspan>orc<tspan x="384.712px 389.595px 392.673px 406.761px " y="816.72px 816.72px 816.72px 816.72px ">e) 3</tspan>2.17<tspan x="426.395px 431.988px 493.151px " y="816.72px 816.72px 816.72px ">4 l</tspan>bm·ft <tspan x="521.089px " y="816.72px ">/</tspan> s</text>
+        <text x="530.66px" y="812.4px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">2</text>
+        <text x="320.399px" y="828.6px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">lbf <tspan x="406.816px " y="828.6px ">4</tspan>.44822 <tspan x="493.201px " y="828.6px ">N</tspan></text>
+        <text x="320.399px" y="840.66px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">lb<tspan x="329.021px 332.617px 406.828px 411.155px 415.921px 418.598px 422.654px 427.398px 493.228px 499.048px 504.743px 510.302px 516.122px 521.879px 526.634px " y="840.66px 840.66px 840.66px 840.66px 840.66px 840.66px 840.66px 840.66px 840.66px 840.66px 840.66px 840.66px 840.66px 840.66px 840.66px ">f 32.17 poundal</tspan>s</text>
+        <text x="320.399px" y="855.42px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">l<tspan x="322.969px 328.557px 331.921px 334.531px 337.353px 339.963px 342.753px " y="855.42px 855.42px 855.42px 855.42px 855.42px 855.42px 855.42px ">bf / in</tspan></text>
+        <text x="348.341px" y="851.279px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">2</text>
+        <g transform="matrix(10.44,0,0,10.44,510.087,855.42)">
+        </g>
+        <text x="355.318px" y="855.42px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;"><tspan x="355.318px 358.265px 363.853px 367.707px 370.497px 373.444px 406.798px 412.626px 415.072px 421.161px 426.519px 431.407px 437.496px 441.654px 493.211px 497.734px 501.453px " y="855.42px 855.42px 855.42px 855.42px 855.42px 855.42px 855.42px 855.42px 855.42px 855.42px 855.42px 855.42px 855.42px 855.42px 855.42px 855.42px 855.42px ">(psi) 0.06805 atm</tspan></text>
+    </g>
+    <g>
+        <text x="320.399px" y="870.179px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">l<tspan x="322.963px 328.545px 331.904px 334.513px 337.328px 339.937px 342.721px " y="870.179px 870.179px 870.179px 870.179px 870.179px 870.179px 870.179px ">bf / in</tspan></text>
+        <g transform="matrix(8.28,0,0,8.28,352.004,866.039)">
+        </g>
+        <text x="348.303px" y="866.039px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">2</text>
+    </g>
+    <g transform="matrix(10.44,0,0,10.44,526.462,870.179)">
+    </g>
+    <text x="406.799px" y="870.179px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">2.3<tspan x="418.124px " y="870.179px ">0</tspan>7 <tspan x="493.231px " y="870.179px ">f</tspan>t <tspan x="502.241px " y="870.179px ">w</tspan>at<tspan x="517.742px 522.579px " y="870.179px 870.179px ">er</tspan></text>
+    <g>
+        <text x="320.398px" y="885.119px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">l<tspan x="322.963px 328.545px 331.903px 334.512px 337.328px 339.937px 342.721px " y="885.119px 885.119px 885.119px 885.119px 885.119px 885.119px 885.119px ">bf / in</tspan></text>
+        <g transform="matrix(8.28,0,0,8.28,352.004,880.799)">
+        </g>
+        <text x="348.303px" y="880.799px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">2</text>
+    </g>
+    <g transform="matrix(10.44,0,0,10.44,517.613,885.12)">
+    </g>
+    <text x="406.799px" y="885.12px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">2<tspan x="411.262px 413.638px 419.658px 423.683px 428.972px 493.201px 495.921px 501.44px 503.847px 512.685px " y="885.12px 885.12px 885.12px 885.12px 885.12px 885.12px 885.12px 885.12px 885.12px 885.12px ">.036 in Hg</tspan></text>
+    <g>
+        <text x="320.398px" y="899.88px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">l<tspan x="322.963px 328.545px 331.903px 334.512px 337.328px 339.937px 342.721px " y="899.88px 899.88px 899.88px 899.88px 899.88px 899.88px 899.88px ">bf / in</tspan></text>
+        <g transform="matrix(8.28,0,0,8.28,352.004,895.74)">
+        </g>
+        <text x="348.303px" y="895.74px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">2</text>
+    </g>
+    <g>
+        <text x="406.799px" y="899.879px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">6<tspan x="412.426px 417.583px 423.21px 428.941px 431.447px 436.228px 440.655px 445.436px 493.146px 499.483px " y="899.879px 899.879px 899.879px 899.879px 899.879px 899.879px 899.879px 899.879px 899.879px 899.879px ">894.757 Pa</tspan></text>
+        <text x="320.398px" y="911.939px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">l<tspan x="323.339px 329.297px 338.168px 406.816px 413.014px 415.829px 421.662px 426.19px 430.655px 435.183px 440.911px 445.815px 450.28px 455.162px 459.45px 493.198px 499.135px " y="911.939px 911.939px 911.939px 911.939px 911.939px 911.939px 911.939px 911.939px 911.939px 911.939px 911.939px 911.939px 911.939px 911.939px 911.939px 911.939px 911.939px ">bm 0.45359237* kg</tspan></text>
+        <g transform="matrix(10.44,0,0,10.44,510.36,923.819)">
+        </g>
+        <text x="320.398px" y="923.819px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">lbm <tspan x="406.816px 412.802px 415.405px " y="923.819px 923.819px 923.819px ">0.0</tspan>3108<tspan x="441.181px 445.163px 493.206px " y="923.819px 923.819px 923.819px ">1 s</tspan>lug</text>
+    </g>
+    <g>
+        <text x="320.398px" y="938.579px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">l<tspan x="322.857px 328.334px 336.723px 339.303px 342.013px 344.593px 347.271px " y="938.579px 938.579px 938.579px 938.579px 938.579px 938.579px 938.579px ">bm / in</tspan></text>
+        <g transform="matrix(8.28,0,0,8.28,356.101,934.439)">
+        </g>
+        <text x="352.748px" y="934.439px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">3</text>
+    </g>
+    <g>
+        <text x="406.799px" y="938.58px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">17<tspan x="415.555px 420.298px 425.397px 493.164px 495.944px 501.742px 510.453px 512.077px 515.108px 517.795px " y="938.58px 938.58px 938.58px 938.58px 938.58px 938.58px 938.58px 938.58px 938.58px 938.58px ">28 lbm / f</tspan>t</text>
+        <g transform="matrix(8.28,0,0,8.28,528.652,934.439)">
+        </g>
+        <text x="525.298px" y="934.439px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">3</text>
+    </g>
+    <g>
+        <text x="320.399px" y="953.519px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">l<tspan x="322.773px 328.165px 336.469px 339.01px 341.635px 344.826px 347.994px " y="953.519px 953.519px 953.519px 953.519px 953.519px 953.519px 953.519px ">bm / ft</tspan></text>
+        <g transform="matrix(8.28,0,0,8.28,354.87,949.2)">
+        </g>
+        <text x="351.517px" y="949.2px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">3</text>
+    </g>
+    <g>
+        <text x="406.799px" y="953.519px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">0<tspan x="412.723px 415.264px " y="953.519px 953.519px ">.0</tspan>16<tspan x="430.824px " y="953.519px ">0</tspan>18<tspan x="445.914px 493.213px 498.104px 501.085px 504.002px 506.983px " y="953.519px 953.519px 953.519px 953.519px 953.519px 953.519px "> g / c</tspan>m</text>
+        <g transform="matrix(8.28,0,0,8.28,523.719,949.2)">
+        </g>
+        <text x="520.366px" y="949.2px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">3</text>
+    </g>
+    <g>
+        <text x="320.399px" y="968.28px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">l<tspan x="322.773px 328.165px 336.469px 339.01px 341.635px 344.826px 347.994px " y="968.28px 968.28px 968.28px 968.28px 968.28px 968.28px 968.28px ">bm / ft</tspan></text>
+        <g transform="matrix(8.28,0,0,8.28,354.87,964.139)">
+        </g>
+        <text x="351.517px" y="964.139px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">3</text>
+    </g>
+    <g>
+        <text x="406.799px" y="968.28px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">16<tspan x="416.436px 419.109px 425.426px 429.477px 434.594px 493.186px 498.981px 504.003px 506.317px 509.367px 511.738px " y="968.28px 968.28px 968.28px 968.28px 968.28px 968.28px 968.28px 968.28px 968.28px 968.28px 968.28px ">.018 kg / m</tspan></text>
+        <text x="520.466px" y="964.139px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">3</text>
+        <text x="320.399px" y="980.34px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">m (met<tspan x="351.99px 356.884px " y="980.34px 980.34px ">er</tspan>) <tspan x="406.778px " y="980.34px ">3</tspan>.28083 <tspan x="493.203px " y="980.34px ">f</tspan>t</text>
+        <text x="320.399px" y="992.22px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">m <tspan x="406.799px 410.821px 413.466px 419.755px 425.312px 430.045px 435.603px 493.218px 498.066px 502.789px " y="992.22px 992.22px 992.22px 992.22px 992.22px 992.22px 992.22px 992.22px 992.22px 992.22px ">1.0926 yar</tspan>d</text>
+        <g transform="matrix(10.44,0,0,10.44,502.136,1004.28)">
+        </g>
+        <text x="320.399px" y="1004.28px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">m<tspan x="329.33px 406.799px 411.325px 417.114px 419.991px 424.517px 429.461px 435.981px 493.193px 496.415px " y="1004.28px 1004.28px 1004.28px 1004.28px 1004.28px 1004.28px 1004.28px 1004.28px 1004.28px 1004.28px "> 39.370 in</tspan></text>
+    </g>
+    <g>
+        <text x="320.399px" y="1019.04px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">m</text>
+        <g transform="matrix(8.28,0,0,8.28,332.2,1014.9)">
+        </g>
+        <text x="328.499px" y="1014.9px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">2</text>
+    </g>
+    <g>
+        <text x="406.799px" y="1019.04px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">1<tspan x="411.016px 415.567px 420.119px 426.601px 493.181px 496.365px " y="1019.04px 1019.04px 1019.04px 1019.04px 1019.04px 1019.04px ">550 in</tspan></text>
+        <g transform="matrix(8.28,0,0,8.28,506.048,1014.9)">
+        </g>
+        <text x="502.346px" y="1014.9px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">2</text>
+    </g>
+    <g>
+        <text x="320.399px" y="1033.8px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">m</text>
+        <g transform="matrix(8.28,0,0,8.28,332.2,1029.66)">
+        </g>
+        <text x="328.499px" y="1029.66px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">2</text>
+    </g>
+    <g>
+        <text x="406.799px" y="1033.8px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">10<tspan x="416.694px 419.053px 423.687px " y="1033.8px 1033.8px 1033.8px ">.76</tspan>4 <tspan x="493.199px " y="1033.8px ">f</tspan>t</text>
+        <g transform="matrix(8.28,0,0,8.28,504.227,1029.66)">
+        </g>
+        <text x="500.526px" y="1029.66px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">2</text>
+    </g>
+    <g>
+        <text x="320.399px" y="1048.74px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">m</text>
+        <g transform="matrix(8.28,0,0,8.28,331.852,1044.42)">
+        </g>
+        <text x="328.499px" y="1044.42px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">3</text>
+    </g>
+    <g>
+        <text x="406.799px" y="1048.74px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">1<tspan x="411.183px 416.643px 421.028px " y="1048.74px 1048.74px 1048.74px ">x10</tspan></text>
+        <g transform="matrix(8.28,0,0,8.28,432.034,1044.42)">
+        </g>
+        <text x="427.679px" y="1044.42px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">6</text>
+    </g>
+    <g>
+        <text x="493.198px" y="1048.74px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">cm</text>
+        <text x="506.722px" y="1044.42px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">3</text>
+        <g transform="matrix(10.44,0,0,10.44,528.723,1048.74)">
+        </g>
+        <text x="512.818px" y="1048.74px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;"><tspan x="512.818px " y="1048.74px ">(</tspan>cc)</text>
+    </g>
+    <g>
+        <text x="320.399px" y="1063.5px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">m</text>
+        <g transform="matrix(8.28,0,0,8.28,331.852,1059.36)">
+        </g>
+        <text x="328.499px" y="1059.36px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">3</text>
+    </g>
+    <g>
+        <text x="406.799px" y="1063.5px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">3<tspan x="411.61px 416.172px 419.334px 424.146px 428.687px 433.562px 493.199px 497.28px " y="1063.5px 1063.5px 1063.5px 1063.5px 1063.5px 1063.5px 1063.5px 1063.5px ">5.315 ft</tspan></text>
+        <g transform="matrix(8.28,0,0,8.28,505.069,1059.36)">
+        </g>
+        <text x="501.716px" y="1059.36px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">3</text>
+    </g>
+    <g>
+        <text x="320.399px" y="1078.26px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">m</text>
+        <g transform="matrix(8.28,0,0,8.28,331.852,1074.12)">
+        </g>
+        <text x="328.499px" y="1074.12px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">3</text>
+    </g>
+    <g transform="matrix(10.44,0,0,10.44,533.496,1078.26)">
+    </g>
+    <text x="406.799px" y="1078.26px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">2<tspan x="411.767px 417.559px 423.457px 426.337px 430.595px 435.542px 493.199px 498.428px 503.385px 506.391px 508.656px 512.037px 519.271px 522.151px 527.537px 530.417px " y="1078.26px 1078.26px 1078.26px 1078.26px 1078.26px 1078.26px 1078.26px 1078.26px 1078.26px 1078.26px 1078.26px 1078.26px 1078.26px 1078.26px 1078.26px 1078.26px ">64.17 gal (U.S.)</tspan></text>
+    <g>
+        <text x="320.398px" y="1093.02px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">m</text>
+        <g transform="matrix(8.28,0,0,8.28,331.852,1088.88)">
+        </g>
+        <text x="328.499px" y="1088.88px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">3</text>
+    </g>
+    <g>
+        <text x="406.799px" y="1093.02px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">1<tspan x="410.319px 416.106px 421.892px 427.678px 493.198px " y="1093.02px 1093.02px 1093.02px 1093.02px 1093.02px ">000 L</tspan></text>
+        <text x="320.398px" y="1107.96px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">m</text>
+        <text x="329.054px" y="1103.64px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">3</text>
+        <text x="335.068px" y="1107.96px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">/ k<tspan x="346.41px 351.359px 406.818px " y="1107.96px 1107.96px 1107.96px ">g 1</tspan>6.02<tspan x="429.842px 493.208px " y="1107.96px 1107.96px "> f</tspan>t</text>
+        <text x="500.601px" y="1103.64px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">3</text>
+        <text x="506.615px" y="1107.96px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">/ l<tspan x="514.961px " y="1107.96px ">b</tspan>m</text>
+        <g transform="matrix(10.44,0,0,10.44,524.727,1119.84)">
+        </g>
+        <text x="320.398px" y="1119.84px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">m /<tspan x="334.415px " y="1119.84px "> </tspan>s <tspan x="406.811px 410.671px 416.066px 421.462px 423.944px 428.869px 493.161px 496.562px 500.318px 502.162px " y="1119.84px 1119.84px 1119.84px 1119.84px 1119.84px 1119.84px 1119.84px 1119.84px 1119.84px 1119.84px ">196.8 ft /</tspan> m<tspan x="516.179px " y="1119.84px ">i</tspan>n</text>
+    </g>
+    <g>
+        <text x="593.998px" y="61.079px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">m<tspan x="602.454px 605.055px 607.831px 610.432px 614.241px 680.398px 684.448px 686.848px 692.162px 698.205px 766.798px 772.32px 780.776px 782.818px 785.595px " y="61.079px 61.079px 61.079px 61.079px 61.079px 61.079px 61.079px 61.079px 61.079px 61.079px 61.079px 61.079px 61.079px 61.079px 61.079px "> / s 3.60 km / </tspan>h</text>
+        <text x="593.998px" y="72.959px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">m / s <tspan x="680.416px " y="72.959px ">3</tspan>.2<tspan x="691.781px " y="72.959px ">8</tspan>08<tspan x="707.938px 766.773px " y="72.959px 72.959px "> f</tspan>t <tspan x="775.774px " y="72.959px ">/</tspan> s</text>
+        <text x="593.998px" y="85.019px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">m / s <tspan x="680.421px " y="85.019px ">2</tspan>.237 <tspan x="766.796px " y="85.019px ">m</tspan>i / <tspan x="786.088px 791.869px 793.817px " y="85.019px 85.019px 85.019px ">h (</tspan>mph)</text>
+        <text x="593.998px" y="99.779px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">m<tspan x="602.418px 605.012px 607.752px " y="99.779px 99.779px 99.779px "> / </tspan>s</text>
+        <g transform="matrix(8.28,0,0,8.28,617.821,95.6392)">
+        </g>
+        <text x="614.12px" y="95.639px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">2</text>
+    </g>
+    <g>
+        <text x="680.399px" y="99.78px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">3.28<tspan x="696.998px " y="99.78px ">0</tspan>8 <tspan x="766.778px " y="99.78px ">f</tspan>t <tspan x="775.783px " y="99.78px ">/</tspan> s</text>
+        <text x="785.419px" y="95.639px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">2</text>
+        <text x="593.998px" y="111.84px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">m<tspan x="602.207px 606.668px 610.095px 613.554px 616.052px 620.45px 623.303px 626.573px 631.744px 637.04px 680.388px 683.92px 689.717px 695.514px 701.311px 766.778px 772.054px " y="111.84px 111.84px 111.84px 111.84px 111.84px 111.84px 111.84px 111.84px 111.84px 111.84px 111.84px 111.84px 111.84px 111.84px 111.84px 111.84px 111.84px ">etric ton 1000 kg</tspan></text>
+        <text x="593.998px" y="123.9px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">m<tspan x="602.432px 605.154px 607.658px 680.418px 686.179px 688.557px 694.579px 700.601px 704.357px 766.783px 769.506px " y="123.9px 123.9px 123.9px 123.9px 123.9px 123.9px 123.9px 123.9px 123.9px 123.9px 123.9px ">il 0.001 in</tspan></text>
+        <text x="593.998px" y="135.78px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">mi <tspan x="607.708px " y="135.78px ">(</tspan>mile<tspan x="630.056px 633.16px 680.406px " y="135.78px 135.78px 135.78px ">) 5</tspan>280 <tspan x="766.784px " y="135.78px ">f</tspan>t</text>
+        <text x="593.998px" y="147.84px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">mi <tspan x="680.414px " y="147.84px ">1</tspan>.609<tspan x="704.035px 708.239px 766.799px " y="147.84px 147.84px 147.84px ">3 k</tspan>m</text>
+        <text x="593.998px" y="162.6px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">m<tspan x="602.486px " y="162.6px ">i</tspan></text>
+        <text x="605.262px" y="158.459px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">2</text>
+        <text x="611.726px" y="162.6px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;"><tspan x="611.726px 614.659px 618.5px 623.96px 629.273px 633.783px 637.519px 642.259px 645.138px 653.625px 656.401px 658.958px 663.697px 666.631px 680.421px 685.766px 691.215px 697.29px 766.878px 771.388px 776.064px 779.801px 784.54px " y="162.6px 162.6px 162.6px 162.6px 162.6px 162.6px 162.6px 162.6px 162.6px 162.6px 162.6px 162.6px 162.6px 162.6px 162.6px 162.6px 162.6px 162.6px 162.6px 162.6px 162.6px 162.6px 162.6px ">(square mile) 640 acres</tspan></text>
+        <text x="593.999px" y="174.66px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">m<tspan x="602.481px 608.05px 613.681px 615.245px 618.173px 626.655px 629.426px 631.978px 636.712px 639.514px 645.146px 650.59px 655.898px 659.63px 662.558px 680.391px 684.196px 686.622px 691.962px 698.032px 703.372px 707.448px 766.773px 772.322px 780.804px 782.805px 785.608px 788.23px 793.862px " y="174.66px 174.66px 174.66px 174.66px 174.66px 174.66px 174.66px 174.66px 174.66px 174.66px 174.66px 174.66px 174.66px 174.66px 174.66px 174.66px 174.66px 174.66px 174.66px 174.66px 174.66px 174.66px 174.66px 174.66px 174.66px 174.66px 174.66px 174.66px 174.66px ">ph (mile/hour) 1.6093 km / hr</tspan></text>
+        <text x="593.999px" y="186.72px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">m<tspan x="602.353px 607.794px 613.297px 680.389px 685.13px 689.872px 692.171px 698.113px 766.751px 769.968px 773.541px 776.11px 778.785px 781.354px 789.708px 792.351px 797.792px 800.361px 803.161px 806.379px 811.82px 820.174px " y="186.72px 186.72px 186.72px 186.72px 186.72px 186.72px 186.72px 186.72px 186.72px 186.72px 186.72px 186.72px 186.72px 186.72px 186.72px 186.72px 186.72px 186.72px 186.72px 186.72px 186.72px 186.72px ">ph 88.0 ft / min (fpm)</tspan></text>
+        <text x="593.999px" y="198.6px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">m<tspan x="602.519px 608.126px 613.797px 680.381px 684.224px 686.689px 692.171px 697.549px 702.081px 766.741px 770.125px 773.864px 775.778px 778.619px " y="198.6px 198.6px 198.6px 198.6px 198.6px 198.6px 198.6px 198.6px 198.6px 198.6px 198.6px 198.6px 198.6px 198.6px ">ph 1.467 ft / </tspan>s</text>
+        <text x="593.999px" y="210.66px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">m<tspan x="602.267px 607.623px 613.041px 680.399px 685.994px 688.207px 693.438px 698.668px 702.948px 708.805px 766.763px 775.032px 777.572px 780.161px " y="210.66px 210.66px 210.66px 210.66px 210.66px 210.66px 210.66px 210.66px 210.66px 210.66px 210.66px 210.66px 210.66px 210.66px ">ph 0.4470 m / </tspan>s</text>
+        <text x="593.999px" y="225.42px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">micron<tspan x="625.686px 680.399px " y="225.42px 225.42px "> 1</tspan>x10</text>
+        <g transform="matrix(8.28,0,0,8.28,706.706,221.279)">
+        </g>
+        <text x="699.637px" y="221.279px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">-6</text>
+    </g>
+    <g transform="matrix(10.44,0,0,10.44,775.432,225.42)">
+    </g>
+    <text x="766.799px" y="225.42px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">m</text>
+    <g>
+        <text x="593.999px" y="240.18px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">m<tspan x="602.744px 611.489px 612.921px 618.628px 622.237px 624.261px 633.414px 638.453px 680.399px 684.467px 687.157px 691.496px 695.565px 701.167px 706.311px 710.379px " y="240.18px 240.18px 240.18px 240.18px 240.18px 240.18px 240.18px 240.18px 240.18px 240.18px 240.18px 240.18px 240.18px 240.18px 240.18px 240.18px ">m of Hg 1.316x10</tspan></text>
+        <g transform="matrix(8.28,0,0,8.28,722.853,236.04)">
+        </g>
+        <text x="716.712px" y="236.04px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">-3</text>
+    </g>
+    <g>
+        <text x="766.799px" y="240.18px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">a<tspan x="770.983px 774.363px " y="240.18px 240.18px ">tm</tspan></text>
+        <g transform="matrix(10.44,0,0,10.44,766.686,252.24)">
+        </g>
+        <text x="593.999px" y="252.24px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">m<tspan x="602.736px 611.473px 612.917px 618.616px 622.216px 624.256px 633.4px 638.431px 680.396px 686.461px 689.142px 693.202px 697.533px 701.864px " y="252.24px 252.24px 252.24px 252.24px 252.24px 252.24px 252.24px 252.24px 252.24px 252.24px 252.24px 252.24px 252.24px 252.24px ">m of Hg 0.1333</tspan></text>
+    </g>
+    <g>
+        <text x="766.789px" y="252.24px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;"><tspan x="766.789px 772.047px 777.807px " y="252.24px 252.24px 252.24px ">kPa</tspan></text>
+        <text x="593.999px" y="267px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">mm<tspan x="611.118px 612.924px 618.446px 621.869px " y="267px 267px 267px 267px "> of </tspan>wa<tspan x="636.291px 639.913px " y="267px 267px ">te</tspan>r <tspan x="680.351px 685.768px 688.273px 693.69px 698.261px 703.208px 708.166px " y="267px 267px 267px 267px 267px 267px 267px ">9.678x1</tspan>0</text>
+        <g transform="matrix(8.28,0,0,8.28,724.239,262.86)">
+        </g>
+        <text x="718.196px" y="262.86px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">-5</text>
+    </g>
+    <g>
+        <text x="766.799px" y="267px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">a<tspan x="770.983px 774.363px " y="267px 267px ">tm</tspan></text>
+        <g transform="matrix(10.44,0,0,10.44,766.886,281.76)">
+        </g>
+        <text x="593.999px" y="281.76px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">N<tspan x="602.822px 604.057px 606.982px 612.548px 617.384px 624.527px 628.068px 633.509px 639.075px 642px 680.331px " y="281.76px 281.76px 281.76px 281.76px 281.76px 281.76px 281.76px 281.76px 281.76px 281.76px 281.76px "> (newton) 1</tspan></text>
+    </g>
+    <g>
+        <text x="766.731px" y="281.76px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;"><tspan x="766.731px " y="281.76px ">k</tspan>g·m / s</text>
+        <text x="800.266px" y="277.62px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">2</text>
+        <text x="593.998px" y="296.7px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">N <tspan x="680.398px 684.445px 689.568px " y="296.7px 296.7px 296.7px ">1x1</tspan>0</text>
+        <g transform="matrix(8.28,0,0,8.28,703.33,292.38)">
+        </g>
+        <text x="699.927px" y="292.38px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">5</text>
+    </g>
+    <g>
+        <text x="766.799px" y="296.7px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">d<tspan x="772.29px 776.904px 782.459px " y="296.7px 296.7px 296.7px ">yne</tspan></text>
+        <text x="593.998px" y="309.66px" style="font-family:'Helvetica';font-size:11.88px;">µ</text>
+        <text x="600.588px" y="309.66px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">N<tspan x="609.342px 610.801px 613.657px 622.066px 624.765px 629.364px 633.024px 638.395px 647.15px 650.005px 680.368px 686.105px 688.46px 692.192px 766.778px 772.212px 776.77px 782.267px " y="309.66px 309.66px 309.66px 309.66px 309.66px 309.66px 309.66px 309.66px 309.66px 309.66px 309.66px 309.66px 309.66px 309.66px 309.66px 309.66px 309.66px 309.66px "> (microN) 0.1 dyne</tspan></text>
+        <text x="593.998px" y="322.08px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">N <tspan x="680.398px 686.34px 688.9px " y="322.08px 322.08px 322.08px ">0.2</tspan>2481 <tspan x="766.786px " y="322.08px ">l</tspan>bf</text>
+        <text x="593.998px" y="334.14px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">N·<tspan x="605.003px 613.569px 680.381px 686.274px 688.577px 693.155px 697.316px 701.894px 707.318px 766.796px 770.226px 774.01px 776.104px 778.741px " y="334.14px 334.14px 334.14px 334.14px 334.14px 334.14px 334.14px 334.14px 334.14px 334.14px 334.14px 334.14px 334.14px 334.14px ">m 0.7376 ft·lb</tspan>f</text>
+        <text x="593.998px" y="346.2px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">N·<tspan x="605.004px 613.571px 680.393px 684.283px 766.796px " y="346.2px 346.2px 346.2px 346.2px 346.2px ">m 1 J</tspan></text>
+        <text x="593.998px" y="360.96px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">P<tspan x="600.154px 604.765px 607.483px " y="360.96px 360.96px 360.96px ">a (</tspan>pas<tspan x="624.851px " y="360.96px ">c</tspan>al<tspan x="636.898px 639.933px 680.426px 684.337px 766.826px 775.759px 777.085px " y="360.96px 360.96px 360.96px 360.96px 360.96px 360.96px 360.96px ">) 1 N /</tspan> m</text>
+        <g transform="matrix(8.28,0,0,8.28,795.002,356.818)">
+        </g>
+        <text x="791.301px" y="356.818px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">2</text>
+    </g>
+    <g>
+        <text x="593.998px" y="375.72px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">P<tspan x="600.276px 605.008px 680.436px 684.469px 687.124px 692.796px 697.163px 703.461px 709.133px 714.241px 718.274px " y="375.72px 375.72px 375.72px 375.72px 375.72px 375.72px 375.72px 375.72px 375.72px 375.72px 375.72px ">a 1.4504x10</tspan></text>
+        <g transform="matrix(8.28,0,0,8.28,731.77,371.58)">
+        </g>
+        <text x="724.573px" y="371.58px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">-4</text>
+    </g>
+    <g>
+        <text x="766.799px" y="375.72px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">lbf<tspan x="778.607px " y="375.72px "> </tspan>/ in</text>
+        <text x="795.338px" y="371.58px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">2</text>
+        <text x="801.632px" y="375.72px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">(ps<tspan x="814.307px " y="375.72px ">i</tspan>a)</text>
+        <text x="593.999px" y="390.48px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">P<tspan x="599.976px 604.408px 680.429px 686.166px 688.52px 694.518px 698.96px 704.958px 709.755px 714.553px 719.82px 766.759px 769.238px 774.735px 778.008px 780.598px 783.329px 786.568px 789.841px " y="390.48px 390.48px 390.48px 390.48px 390.48px 390.48px 390.48px 390.48px 390.48px 390.48px 390.48px 390.48px 390.48px 390.48px 390.48px 390.48px 390.48px 390.48px 390.48px ">a 0.020886 lbf / ft</tspan></text>
+        <g transform="matrix(8.28,0,0,8.28,797.17,386.34)">
+        </g>
+        <text x="793.469px" y="386.34px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">2</text>
+    </g>
+    <g>
+        <text x="593.998px" y="405.42px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">P<tspan x="600.169px 604.794px 680.434px " y="405.42px 405.42px 405.42px ">a 9</tspan>.86<tspan x="698.892px " y="405.42px ">9</tspan>x10</text>
+        <g transform="matrix(8.28,0,0,8.28,726.5,401.1)">
+        </g>
+        <text x="719.47px" y="401.1px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">-6</text>
+    </g>
+    <g>
+        <text x="766.799px" y="405.42px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">a<tspan x="770.983px 774.363px " y="405.42px 405.42px ">tm</tspan></text>
+        <text x="593.999px" y="417.3px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">P<tspan x="600.169px 604.794px " y="417.3px 417.3px ">a·</tspan>s <tspan x="680.399px " y="417.3px ">1</tspan>0 <tspan x="766.794px " y="417.3px ">p</tspan>ois<tspan x="784.897px " y="417.3px ">e</tspan></text>
+        <text x="593.999px" y="432.24px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">p<tspan x="599.567px 603.401px 606.171px 608.788px 611.715px 617.283px 622.725px 628.032px 633.6px 639.105px 642.939px 645.557px 651.124px 655.857px 659.587px 661.293px 665.128px 670.581px 675.887px 680.39px 684.121px 688.853px 691.47px 694.24px 699.808px 704.478px 710.108px 713.035px 715.652px 718.902px 722.152px 725.402px 728.019px 731.854px 736.587px 741.319px 743.936px 746.487px 752.055px 755.399px 758.636px 761.437px 764.054px 766.824px " y="432.24px 432.24px 432.24px 432.24px 432.24px 432.24px 432.24px 432.24px 432.24px 432.24px 432.24px 432.24px 432.24px 432.24px 432.24px 432.24px 432.24px 432.24px 432.24px 432.24px 432.24px 432.24px 432.24px 432.24px 432.24px 432.24px 432.24px 432.24px 432.24px 432.24px 432.24px 432.24px 432.24px 432.24px 432.24px 432.24px 432.24px 432.24px 432.24px 432.24px 432.24px 432.24px 432.24px 432.24px ">si (pounds per square inch) --- see lbf / in</tspan></text>
+        <g transform="matrix(8.28,0,0,8.28,776.093,427.92)">
+        </g>
+        <text x="772.391px" y="427.92px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">2</text>
+    </g>
+    <g>
+        <text x="593.998px" y="445.2px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">ra<tspan x="602.361px 607.931px 610.765px 615.332px 620.965px 680.396px 684.264px 689.197px " y="445.2px 445.2px 445.2px 445.2px 445.2px 445.2px 445.2px 445.2px ">dian 180</tspan>/</text>
+        <g transform="matrix(11.88,0,0,11.88,704.716,445.2)">
+        </g>
+        <text x="698.196px" y="445.2px" style="font-family:'Symbol';font-size:11.88px;">π</text>
+    </g>
+    <g>
+        <text x="766.799px" y="445.2px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">d<tspan x="772.252px 776.934px 781.657px 785.336px 790.017px " y="445.2px 445.2px 445.2px 445.2px 445.2px ">egree</tspan></text>
+        <text x="593.999px" y="457.62px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">s<tspan x="597.514px 602.826px 607.949px 611.465px 614.844px 617.589px 620.812px 625.936px 631.184px 680.426px 684.62px 690.37px 696.12px 701.87px 766.809px 769.04px 774.289px " y="457.62px 457.62px 457.62px 457.62px 457.62px 457.62px 457.62px 457.62px 457.62px 457.62px 457.62px 457.62px 457.62px 457.62px 457.62px 457.62px 457.62px ">hort ton 2000 lbm</tspan></text>
+        <text x="593.999px" y="469.68px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">s<tspan x="597.838px 603.472px 608.919px 612.758px 616.461px 617.589px 621.136px 626.582px 632.154px 680.426px 685.769px 691.842px 695.608px 698.037px 701.845px 706.717px 712.164px 716.661px 766.804px 772.355px " y="469.68px 469.68px 469.68px 469.68px 469.68px 469.68px 469.68px 469.68px 469.68px 469.68px 469.68px 469.68px 469.68px 469.68px 469.68px 469.68px 469.68px 469.68px 469.68px 469.68px ">hort ton 907.1847 kg</tspan></text>
+        <text x="593.999px" y="481.74px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">s<tspan x="598.3px 601.318px 607.091px 612.332px 680.394px 684.935px 689.915px 692.807px 697.078px 701.609px 707.518px 766.781px 769.799px 775.833px " y="481.74px 481.74px 481.74px 481.74px 481.74px 481.74px 481.74px 481.74px 481.74px 481.74px 481.74px 481.74px 481.74px 481.74px ">lug 32.174 lbm</tspan></text>
+        <g transform="matrix(10.44,0,0,10.44,777.617,493.62)">
+        </g>
+        <text x="593.999px" y="493.62px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">s<tspan x="598.177px 601.072px 606.723px 611.841px 680.401px 684.549px 690.335px 693.104px 697.586px 703.268px 707.687px 713.369px 766.799px 772.69px " y="493.62px 493.62px 493.62px 493.62px 493.62px 493.62px 493.62px 493.62px 493.62px 493.62px 493.62px 493.62px 493.62px 493.62px ">lug 14.5939 kg</tspan></text>
+    </g>
+    <g>
+        <text x="593.999px" y="508.38px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">sl<tspan x="600.529px 605.908px 610.755px 613.715px 616.589px 619.549px " y="508.38px 508.38px 508.38px 508.38px 508.38px 508.38px ">ug / f</tspan>t</text>
+        <g transform="matrix(8.28,0,0,8.28,630.09,504.24)">
+        </g>
+        <text x="626.737px" y="504.24px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">3</text>
+    </g>
+    <g>
+        <text x="680.399px" y="508.38px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">0.<tspan x="689.309px 693.785px 697.927px 702.402px 708.183px 766.813px 771.926px 774.951px 778.09px 780.162px 785.17px " y="508.38px 508.38px 508.38px 508.38px 508.38px 508.38px 508.38px 508.38px 508.38px 508.38px 508.38px ">5154 g / cm</tspan></text>
+        <text x="793.989px" y="504.24px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">3</text>
+        <text x="593.998px" y="523.32px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">sto<tspan x="607.514px 612.938px 617.903px 621.97px 680.376px 684.411px 689.522px " y="523.32px 523.32px 523.32px 523.32px 523.32px 523.32px 523.32px ">kes 1x1</tspan>0</text>
+        <g transform="matrix(8.28,0,0,8.28,707.059,519)">
+        </g>
+        <text x="699.859px" y="519px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">-4</text>
+    </g>
+    <g>
+        <text x="766.799px" y="523.32px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">m</text>
+        <text x="775.436px" y="519px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">2</text>
+        <g transform="matrix(10.44,0,0,10.44,790.8,523.32)">
+        </g>
+        <text x="781.225px" y="523.32px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">/ s</text>
+    </g>
+    <g>
+        <text x="593.999px" y="538.08px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">th<tspan x="603.454px 608.25px 612.043px 620.586px 680.401px 684.268px 689.209px " y="538.08px 538.08px 538.08px 538.08px 538.08px 538.08px 538.08px ">erm 1x1</tspan>0</text>
+        <g transform="matrix(8.28,0,0,8.28,702.611,533.94)">
+        </g>
+        <text x="699.208px" y="533.94px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">5</text>
+    </g>
+    <g>
+        <text x="766.799px" y="538.08px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">B<tspan x="773.208px 776.694px " y="538.08px 538.08px ">tu</tspan></text>
+        <text x="593.999px" y="550.14px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">t<tspan x="597.387px 602.676px 608.09px 610.518px 615.806px 618.997px 621.425px 625.001px 629.58px 632.927px 636.503px 639.119px 643.739px 648.318px 651.894px 656.243px 659.788px 662.404px 667.693px 673.107px 680.421px 684.781px 690.696px 696.611px 766.819px 773.287px 776.832px 781.985px 784.413px 787.06px 790.062px 798.389px 801.005px " y="550.14px 550.14px 550.14px 550.14px 550.14px 550.14px 550.14px 550.14px 550.14px 550.14px 550.14px 550.14px 550.14px 550.14px 550.14px 550.14px 550.14px 550.14px 550.14px 550.14px 550.14px 550.14px 550.14px 550.14px 550.14px 550.14px 550.14px 550.14px 550.14px 550.14px 550.14px 550.14px 550.14px ">on of refrigeration 200 Btu / min</tspan></text>
+        <text x="593.999px" y="562.02px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">W<tspan x="605.23px 606.374px " y="562.02px 562.02px "> (</tspan>watt)<tspan x="632.306px 680.364px " y="562.02px 562.02px "> 3</tspan>.4121<tspan x="705.46px 766.769px " y="562.02px 562.02px "> B</tspan>tu <tspan x="784.588px " y="562.02px ">/</tspan> hr</text>
+        <g transform="matrix(10.44,0,0,10.44,809.185,574.08)">
+        </g>
+        <text x="593.999px" y="574.08px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">W <tspan x="680.399px 686.324px 688.657px 693.267px " y="574.08px 574.08px 574.08px 574.08px ">0.73</tspan>76<tspan x="707.523px 766.799px " y="574.08px 574.08px "> f</tspan>t·<tspan x="776.201px " y="574.08px ">l</tspan>bf<tspan x="788.014px 790.019px " y="574.08px 574.08px "> /</tspan> sec</text>
+    </g>
+    <g>
+        <text x="593.999px" y="588.84px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">W<tspan x="605.992px 680.399px 684.614px 687.452px 691.939px 697.794px 702.009px 707.3px 711.516px " y="588.84px 588.84px 588.84px 588.84px 588.84px 588.84px 588.84px 588.84px 588.84px "> 1.341x10</tspan></text>
+        <g transform="matrix(8.28,0,0,8.28,724.255,584.7)">
+        </g>
+        <text x="717.997px" y="584.7px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">-<tspan x="720.902px " y="584.7px ">3</tspan></text>
+    </g>
+    <g>
+        <text x="766.799px" y="588.84px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">h<tspan x="772.019px " y="588.84px ">p</tspan></text>
+        <g transform="matrix(10.44,0,0,10.44,679.877,600.9)">
+        </g>
+        <text x="593.999px" y="600.9px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">W</text>
+    </g>
+    <g>
+        <text x="680.399px" y="600.9px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;"><tspan x="680.399px 684.4px 766.799px 770.779px 773.504px 776.503px 779.229px " y="600.9px 600.9px 600.9px 600.9px 600.9px 600.9px 600.9px ">1 J / s</tspan></text>
+        <text x="593.999px" y="615.66px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">W<tspan x="604.741px 606.418px 608.902px 611.999px 616.352px " y="615.66px 615.66px 615.66px 615.66px 615.66px "> / cm</tspan></text>
+        <g transform="matrix(8.28,0,0,8.28,628.216,611.52)">
+        </g>
+        <text x="624.515px" y="611.52px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">2</text>
+    </g>
+    <g>
+        <text x="680.399px" y="615.66px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">1<tspan x="684.828px 690.333px 694.763px " y="615.66px 615.66px 615.66px ">x10</tspan></text>
+        <g transform="matrix(8.28,0,0,8.28,705.897,611.52)">
+        </g>
+        <text x="701.459px" y="611.52px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">4</text>
+    </g>
+    <g>
+        <text x="766.799px" y="615.66px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">W<tspan x="777.491px 779.218px 781.653px 784.799px " y="615.66px 615.66px 615.66px 615.66px "> / m</tspan></text>
+        <g transform="matrix(8.28,0,0,8.28,796.614,611.52)">
+        </g>
+        <text x="792.913px" y="611.52px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">2</text>
+    </g>
+    <g>
+        <text x="593.998px" y="630.42px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">W<tspan x="604.74px 606.418px 608.902px 611.999px 616.352px " y="630.42px 630.42px 630.42px 630.42px 630.42px "> / cm</tspan></text>
+        <g transform="matrix(8.28,0,0,8.28,627.868,626.28)">
+        </g>
+        <text x="624.515px" y="626.28px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">3</text>
+    </g>
+    <g>
+        <text x="680.399px" y="630.42px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">1<tspan x="684.828px 690.333px 694.763px " y="630.42px 630.42px 630.42px ">x10</tspan></text>
+        <g transform="matrix(8.28,0,0,8.28,705.814,626.28)">
+        </g>
+        <text x="701.459px" y="626.28px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">6</text>
+    </g>
+    <g>
+        <text x="766.799px" y="630.42px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">W<tspan x="777.491px 779.218px 781.653px 784.799px " y="630.42px 630.42px 630.42px 630.42px "> / m</tspan></text>
+        <g transform="matrix(8.28,0,0,8.28,796.267,626.28)">
+        </g>
+        <text x="792.913px" y="626.28px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">3</text>
+    </g>
+    <g>
+        <text x="593.998px" y="645.18px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">W<tspan x="604.691px 606.418px 608.853px 611.999px " y="645.18px 645.18px 645.18px 645.18px "> / m</tspan></text>
+        <g transform="matrix(8.28,0,0,8.28,623.814,641.04)">
+        </g>
+        <text x="620.113px" y="641.04px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">2</text>
+    </g>
+    <g>
+        <text x="680.399px" y="645.18px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">0<tspan x="686.506px 689.232px 693.606px 697.71px 702.502px 706.605px 766.781px 773.703px 777.702px 783.309px 784.597px 787.698px 790.455px 793.681px 799.611px 801.919px 805.563px " y="645.18px 645.18px 645.18px 645.18px 645.18px 645.18px 645.18px 645.18px 645.18px 645.18px 645.18px 645.18px 645.18px 645.18px 645.18px 645.18px 645.18px ">.3171 Btu / (h·ft</tspan></text>
+        <text x="809.562px" y="641.04px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">2</text>
+        <g transform="matrix(10.44,0,0,10.44,816.459,645.18)">
+        </g>
+        <text x="813.379px" y="645.18px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">)</text>
+    </g>
+    <g>
+        <text x="593.999px" y="660.119px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">W<tspan x="604.691px 606.418px 608.853px 611.999px " y="660.119px 660.119px 660.119px 660.119px "> / m</tspan></text>
+        <g transform="matrix(8.28,0,0,8.28,623.467,655.8)">
+        </g>
+        <text x="620.113px" y="655.8px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">3</text>
+    </g>
+    <g>
+        <text x="680.399px" y="660.12px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">0<tspan x="686.222px 688.663px 694.747px 700.1px 705.454px 710.807px 714.96px 766.776px 773.414px 777.128px 782.45px 784.922px 787.739px 790.211px 793.152px 798.798px 800.821px 804.181px " y="660.12px 660.12px 660.12px 660.12px 660.12px 660.12px 660.12px 660.12px 660.12px 660.12px 660.12px 660.12px 660.12px 660.12px 660.12px 660.12px 660.12px 660.12px ">.09665 Btu / (h·ft</tspan></text>
+        <text x="807.895px" y="655.8px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">3</text>
+        <text x="811.139px" y="660.12px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">)</text>
+        <text x="593.999px" y="672px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">W<tspan x="605.01px 606.418px 609.172px 611.767px 620.2px 622.16px 625.666px 633.128px 680.403px 684.159px 766.808px 777.82px 779.228px 781.982px 784.577px 793.01px 794.97px " y="672px 672px 672px 672px 672px 672px 672px 672px 672px 672px 672px 672px 672px 672px 672px 672px 672px "> / m·ºC 1 W / m·K</tspan></text>
+        <text x="593.999px" y="684.06px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">W<tspan x="605.124px 606.371px " y="684.06px 684.06px "> /</tspan> m<tspan x="620.405px 622.479px 626.099px 633.675px 680.363px 686.238px 688.73px 692.934px 697.493px 702.052px 706.987px 711.567px 766.746px 773.435px 777.2px 782.574px 784.563px " y="684.06px 684.06px 684.06px 684.06px 684.06px 684.06px 684.06px 684.06px 684.06px 684.06px 684.06px 684.06px 684.06px 684.06px 684.06px 684.06px 684.06px ">·ºC 0.57782 Btu /</tspan> (<tspan x="793.043px 798.74px 800.814px 804.225px 807.99px 810.065px 813.684px " y="684.06px 684.06px 684.06px 684.06px 684.06px 684.06px 684.06px ">h·ft·ºF</tspan>)</text>
+        <text x="593.999px" y="698.82px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">W<tspan x="605.184px 606.418px " y="698.82px 698.82px "> /</tspan> (m</text>
+        <text x="623.635px" y="694.68px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">2</text>
+        <text x="627.315px" y="698.82px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">·ºC)<tspan x="643.818px 680.438px 684.368px 766.836px 778.022px 779.262px " y="698.82px 698.82px 698.82px 698.82px 698.82px 698.82px "> 1 W /</tspan> (m</text>
+        <text x="796.478px" y="694.68px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">2</text>
+        <text x="800.158px" y="698.82px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">·K)</text>
+        <text x="593.998px" y="713.58px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">W<tspan x="605.219px 606.418px " y="713.58px 713.58px "> /</tspan> (m</text>
+        <text x="623.736px" y="709.44px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">2</text>
+        <text x="627.443px" y="713.58px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">·ºC) <tspan x="680.398px 686.367px 688.954px " y="713.58px 713.58px 713.58px ">0.1</tspan>7612 <tspan x="766.776px " y="713.58px ">B</tspan>tu <tspan x="784.592px " y="713.58px ">/</tspan> (h·ft</text>
+        <text x="808.594px" y="709.44px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">2</text>
+        <g transform="matrix(10.44,0,0,10.44,827.536,713.58)">
+        </g>
+        <text x="812.301px" y="713.58px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">·ºF)</text>
+    </g>
+    <g>
+        <text x="593.999px" y="728.519px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">w<tspan x="600.995px 605.674px 611.187px 615.866px 619.543px 622.008px 624.755px 627.221px " y="728.519px 728.519px 728.519px 728.519px 728.519px 728.519px 728.519px 728.519px ">eber / m</tspan></text>
+        <g transform="matrix(8.28,0,0,8.28,639.349,724.2)">
+        </g>
+        <text x="635.647px" y="724.2px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">2</text>
+    </g>
+    <g>
+        <text x="680.399px" y="728.52px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">1<tspan x="684.14px 689.887px 692.25px 698.257px 704.264px 710.272px 766.816px 771.528px 775.969px 781.215px 784.988px " y="728.52px 728.52px 728.52px 728.52px 728.52px 728.52px 728.52px 728.52px 728.52px 728.52px 728.52px ">0,000 gauss</tspan></text>
+        <g transform="matrix(10.44,0,0,10.44,812.49,752.46)">
+        </g>
+        <text x="593.998px" y="752.46px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">*<tspan x="597.817px 601.928px 609.119px 614.671px 619.325px 620.792px 625.446px 630.246px 634.671px 639.262px 642.882px 645.328px 649.815px 655.179px 660.668px 665.186px 669.84px 673.492px 677.248px 679.939px 685.303px 690.792px 693.989px 699.478px 704.132px 707.753px 714.724px 719.378px 724.032px 729.521px 731.967px 740.369px 745.023px 748.643px 752.295px 754.986px 759.577px 760.905px 765.33px 770.819px 776.245px 778.691px 785.255px 790.744px 795.44px 797.912px 800.603px 804.359px 809.911px " y="752.46px 752.46px 752.46px 752.46px 752.46px 752.46px 752.46px 752.46px 752.46px 752.46px 752.46px 752.46px 752.46px 752.46px 752.46px 752.46px 752.46px 752.46px 752.46px 752.46px 752.46px 752.46px 752.46px 752.46px 752.46px 752.46px 752.46px 752.46px 752.46px 752.46px 752.46px 752.46px 752.46px 752.46px 752.46px 752.46px 752.46px 752.46px 752.46px 752.46px 752.46px 752.46px 752.46px 752.46px 752.46px 752.46px 752.46px 752.46px 752.46px "> The exact conversion between metric and English.</tspan></text>
+    </g>
+    <g>
+        <text x="593.998px" y="776.4px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">T<tspan x="600.753px 606.881px 616.361px 622.228px 628.356px 635.33px 641.532px 648.286px 655.772px 662.746px " y="776.4px 776.4px 776.4px 776.4px 776.4px 776.4px 776.4px 776.4px 776.4px 776.4px ">EMPERATURE</tspan></text>
+        <text x="593.998px" y="788.46px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">T<tspan x="601.666px 604.99px 613.472px 616.796px 617.466px 622.263px 625.362px 633.029px 636.354px 640.305px 648.212px 651.537px 651.713px 656.509px 660.133px 665.045px 669.935px 674.408px 677.231px 681.433px " y="788.46px 788.46px 788.46px 788.46px 788.46px 788.46px 788.46px 788.46px 788.46px 788.46px 788.46px 788.46px 788.46px 788.46px 788.46px 788.46px 788.46px 788.46px 788.46px 788.46px ">(K) = T(ºC) + 273.15</tspan></text>
+        <text x="593.998px" y="800.52px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">T(R<tspan x="612.246px 615.36px 616.756px 621.343px 624.958px " y="800.52px 800.52px 800.52px 800.52px 800.52px ">) = T</tspan>(º<tspan x="639.27px " y="800.52px ">F</tspan>) <tspan x="649.906px 654.492px 657.888px " y="800.52px 800.52px 800.52px ">+ 4</tspan>59<tspan x="673.369px " y="800.52px ">.</tspan>67</text>
+        <text x="593.998px" y="812.4px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">T<tspan x="601.586px 604.83px 608.701px 615.129px 618.374px 618.9px 623.616px 627.36px 631.482px 634.225px 639.411px 642.627px 650.215px 653.459px 657.33px 665.157px 668.402px 668.616px 673.332px 676.978px 681.371px " y="812.4px 812.4px 812.4px 812.4px 812.4px 812.4px 812.4px 812.4px 812.4px 812.4px 812.4px 812.4px 812.4px 812.4px 812.4px 812.4px 812.4px 812.4px 812.4px 812.4px 812.4px ">(ºF) = 1.8 T(ºC) + 32</tspan></text>
+        <text x="593.998px" y="836.52px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">S<tspan x="598.545px 606.433px 615.835px 621.886px 625.678px 629.547px 638.949px 644.738px 652.626px 658.854px 664.968px 671.885px 680.117px 686.272px 688.269px 695.186px 703.074px 711.307px 715.854px 721.967px 728.884px 737.117px 743.794px " y="836.52px 836.52px 836.52px 836.52px 836.52px 836.52px 836.52px 836.52px 836.52px 836.52px 836.52px 836.52px 836.52px 836.52px 836.52px 836.52px 836.52px 836.52px 836.52px 836.52px 836.52px 836.52px 836.52px ">OME IMPORTANT CONSTANTS</tspan></text>
+        <text x="593.998px" y="851.28px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">A<tspan x="601.144px 604.844px 610.445px " y="851.28px 851.28px 851.28px ">tom</tspan>ic <tspan x="627.991px 637.705px 642.47px " y="851.28px 851.28px 851.28px ">Mas</tspan>s <tspan x="653.309px 660.861px 666.587px " y="851.28px 851.28px 851.28px ">Uni</tspan>t <tspan x="674.09px " y="851.28px ">(</tspan>u) <tspan x="701.99px 706.547px 723.59px " y="851.28px 851.28px 851.28px ">= 1</tspan>.66054x10</text>
+        <text x="772.475px" y="847.14px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">-27</text>
+        <text x="787.139px" y="851.28px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;"><tspan x="787.139px " y="851.28px ">k</tspan>g</text>
+        <text x="593.999px" y="866.04px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">A<tspan x="600.975px 605.697px " y="866.04px 866.04px ">vo</tspan>gad<tspan x="626.421px " y="866.04px ">r</tspan>o’<tspan x="637.527px 641.487px 644.718px " y="866.04px 866.04px 866.04px ">s n</tspan>umb<tspan x="670.14px " y="866.04px ">e</tspan>r <tspan x="679.31px " y="866.04px ">(</tspan>N</text>
+        <text x="691.311px" y="868.74px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">A</text>
+        <text x="697.366px" y="866.04px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">) <tspan x="701.725px 706.249px 723.598px " y="866.04px 866.04px 866.04px ">= 6</tspan>.02<tspan x="742.443px " y="866.04px ">2</tspan>13x<tspan x="760.213px " y="866.04px ">1</tspan>0</text>
+        <text x="770.335px" y="861.9px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">23</text>
+        <text x="784.437px" y="866.04px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;"><tspan x="784.437px " y="866.04px ">p</tspan>art<tspan x="802.541px " y="866.04px ">i</tspan>cle<tspan x="817.763px " y="866.04px ">s</tspan>/mo<tspan x="838.822px " y="866.04px ">l</tspan></text>
+        <text x="593.998px" y="882.78px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">Bo<tspan x="606.488px 609.252px 613.163px 617.994px 626.687px 631.403px 637.183px 642.557px 644.328px 648.376px 649.62px 654.399px 660.054px 665.834px 669.882px 673.794px 678.509px 684.29px 688.201px 688.301px " y="882.78px 882.78px 882.78px 882.78px 882.78px 882.78px 882.78px 882.78px 882.78px 882.78px 882.78px 882.78px 882.78px 882.78px 882.78px 882.78px 882.78px 882.78px 882.78px 882.78px ">ltzmann’s constant (</tspan>k</text>
+        <text x="697.2px" y="885.48px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">B</text>
+        <text x="702.621px" y="882.78px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">)=<tspan x="710.371px 723.598px 727.614px 730.252px 734.54px 739.621px 745.902px 751.453px 755.803px 760.895px " y="882.78px 882.78px 882.78px 882.78px 882.78px 882.78px 882.78px 882.78px 882.78px 882.78px "> 1.38065x1</tspan>0</text>
+        <text x="771.193px" y="878.64px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">-23</text>
+        <text x="787.139px" y="882.78px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;"><tspan x="787.139px 791.134px 793.832px 796.846px 799.545px " y="882.78px 882.78px 882.78px 882.78px 882.78px ">J / K</tspan></text>
+        <text x="593.999px" y="899.52px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">el<tspan x="601.714px 606.663px 611.549px 615.464px 619.411px 625.07px 630.854px 630.954px 635.84px 641.686px 646.405px 650.352px 655.343px 660.291px 660.838px 663.98px 668.929px 672.072px 701.998px 706.613px 723.598px 727.064px 731.084px 733.725px 739.28px 745.565px 750.294px 755.024px 760.119px " y="899.52px 899.52px 899.52px 899.52px 899.52px 899.52px 899.52px 899.52px 899.52px 899.52px 899.52px 899.52px 899.52px 899.52px 899.52px 899.52px 899.52px 899.52px 899.52px 899.52px 899.52px 899.52px 899.52px 899.52px 899.52px 899.52px 899.52px 899.52px 899.52px ">ectron charge (e) = -1.6022x1</tspan>0</text>
+        <text x="770.423px" y="895.38px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">-19</text>
+        <text x="785.338px" y="899.52px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;"><tspan x="785.338px " y="899.52px ">C</tspan></text>
+        <text x="593.998px" y="914.28px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">el<tspan x="601.75px 606.717px 611.621px 615.554px 619.519px 625.195px 630.997px 631.097px 639.812px 644.653px " y="914.28px 914.28px 914.28px 914.28px 914.28px 914.28px 914.28px 914.28px 914.28px 914.28px ">ectron mas</tspan>s <tspan x="653.945px " y="914.28px ">(</tspan>m</text>
+        <text x="665.82px" y="916.98px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">e</text>
+        <text x="669.759px" y="914.28px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">) <tspan x="701.998px 706.631px 723.6px 729.173px 731.832px 735.87px 742.173px 747.745px 752.054px 757.626px 762.739px " y="914.28px 914.28px 914.28px 914.28px 914.28px 914.28px 914.28px 914.28px 914.28px 914.28px 914.28px ">= 9.10939x1</tspan>0</text>
+        <text x="773.08px" y="910.14px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">-3<tspan x="779.261px " y="910.14px ">1</tspan></text>
+        <text x="787.14px" y="914.28px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;"><tspan x="787.14px " y="914.28px ">k</tspan>g</text>
+        <text x="593.999px" y="931.02px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">pr<tspan x="603.772px " y="931.02px ">o</tspan>to<tspan x="618.912px 624.718px 624.818px 633.536px 638.381px " y="931.02px 931.02px 931.02px 931.02px 931.02px ">n mas</tspan>s <tspan x="647.625px " y="931.02px ">(</tspan>m</text>
+        <text x="659.507px" y="933.72px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">p</text>
+        <text x="664.111px" y="931.02px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">) <tspan x="701.998px 706.634px 723.598px 727.639px 730.302px 735.878px 740.608px 745.359px 750.934px 756.051px 760.092px " y="931.02px 931.02px 931.02px 931.02px 931.02px 931.02px 931.02px 931.02px 931.02px 931.02px 931.02px ">= 1.6726x10</tspan></text>
+        <text x="766.398px" y="926.88px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">-2<tspan x="772.932px " y="926.88px ">7</tspan></text>
+        <text x="782.098px" y="931.02px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;"><tspan x="782.098px " y="931.02px ">k</tspan>g</text>
+        <text x="593.999px" y="944.88px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">G<tspan x="602.312px 606.929px 610.774px 612.851px 620.371px 625.824px 631.402px 635.246px 638.956px 643.469px 649.047px 652.756px 652.86px 655.797px 663.296px 666.233px 701.998px 706.407px 723.595px 728.474px 732.559px 736.372px 741.825px 747.158px 750.951px " y="944.88px 944.88px 944.88px 944.88px 944.88px 944.88px 944.88px 944.88px 944.88px 944.88px 944.88px 944.88px 944.88px 944.88px 944.88px 944.88px 944.88px 944.88px 944.88px 944.88px 944.88px 944.88px 944.88px 944.88px 944.88px ">as Constant (R) = 8314 J </tspan>/ k<tspan x="764.674px 773.165px 778.618px 781.179px 783.196px " y="944.88px 944.88px 944.88px 944.88px 944.88px ">mol·K</tspan></text>
+        <text x="593.999px" y="959.82px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">G<tspan x="602.299px 606.079px 610.788px 615.434px 618.254px 622.002px 626.555px 630.304px 633.123px 638.615px 644.232px 648.785px 651.385px 651.901px 659.46px 664.952px 670.57px 674.454px 678.202px 682.755px 688.372px 692.121px 692.221px 695.197px 703.654px 706.63px 711.078px 723.56px 728.948px 731.423px 736.811px 741.353px 745.916px 750.844px 754.697px " y="959.82px 959.82px 959.82px 959.82px 959.82px 959.82px 959.82px 959.82px 959.82px 959.82px 959.82px 959.82px 959.82px 959.82px 959.82px 959.82px 959.82px 959.82px 959.82px 959.82px 959.82px 959.82px 959.82px 959.82px 959.82px 959.82px 959.82px 959.82px 959.82px 959.82px 959.82px 959.82px 959.82px 959.82px 959.82px ">ravitational Constant (G)= 6.672x10</tspan></text>
+        <text x="760.815px" y="955.5px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">-1<tspan x="766.488px " y="955.5px ">1</tspan></text>
+        <text x="776.339px" y="959.82px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;"><tspan x="776.339px 785.214px 787.271px " y="959.82px 959.82px 959.82px ">N·m</tspan></text>
+        <text x="795.801px" y="955.5px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">2</text>
+        <text x="802.043px" y="959.82px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">/ k<tspan x="813.114px " y="959.82px ">g</tspan></text>
+        <text x="817.938px" y="955.5px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">2</text>
+        <text x="593.998px" y="974.58px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">G<tspan x="602.416px 606.312px 611.138px 615.901px " y="974.58px 974.58px 974.58px 974.58px ">ravi</tspan>ty <tspan x="628.509px " y="974.58px ">(</tspan>mean) <tspan x="701.873px 706.438px 723.473px " y="974.58px 974.58px 974.58px ">= 9</tspan>.8067 <tspan x="754.993px " y="974.58px ">(</tspan>9.81) <tspan x="782.902px 791.548px 793.728px 796.695px 799.7px " y="974.58px 974.58px 974.58px 974.58px 974.58px ">m / s</tspan></text>
+        <text x="803.701px" y="970.44px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">2</text>
+        <text x="593.998px" y="989.34px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">Planck’<tspan x="625.744px 629.717px " y="989.34px 989.34px ">s </tspan>constant <tspan x="670.473px " y="989.34px ">(</tspan>h) <tspan x="701.998px 706.535px 723.598px " y="989.34px 989.34px 989.34px ">= 6</tspan>.6260x<tspan x="758.465px " y="989.34px ">1</tspan>0</text>
+        <text x="768.614px" y="985.2px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">-34</text>
+        <text x="781.74px" y="989.34px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">J·s</text>
+        <text x="593.999px" y="1004.1px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">Sp<tspan x="605.119px 610.058px 614.998px 620.709px 622.22px 627.869px 631.42px 633.554px 640.059px 643.035px 648.016px 653.853px 657.759px 658.956px 662.089px 666.966px 670.099px 701.998px 706.603px 723.598px 728.318px 730.95px 736.494px 742.039px 746.738px 752.283px 757.003px 762.652px 766.996px 772.07px 777.156px 781.166px " y="1004.1px 1004.1px 1004.1px 1004.1px 1004.1px 1004.1px 1004.1px 1004.1px 1004.1px 1004.1px 1004.1px 1004.1px 1004.1px 1004.1px 1004.1px 1004.1px 1004.1px 1004.1px 1004.1px 1004.1px 1004.1px 1004.1px 1004.1px 1004.1px 1004.1px 1004.1px 1004.1px 1004.1px 1004.1px 1004.1px 1004.1px 1004.1px ">eed of Light (c) = 2.99792458x10</tspan></text>
+        <text x="787.441px" y="999.959px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">8</text>
+        <text x="795.957px" y="1004.1px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;"><tspan x="795.957px 804.645px 807.652px 811.694px 813.616px 816.749px 821.688px 826.773px 831.483px 836.359px 840.265px " y="1004.1px 1004.1px 1004.1px 1004.1px 1004.1px 1004.1px 1004.1px 1004.1px 1004.1px 1004.1px 1004.1px ">m/s (exact)</tspan></text>
+        <text x="593.998px" y="1028.22px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">S<tspan x="598.739px 602.8px 605.856px 611.839px 618.928px 625.172px 630.883px 634.944px 642.639px 648.883px " y="1028.22px 1028.22px 1028.22px 1028.22px 1028.22px 1028.22px 1028.22px 1028.22px 1028.22px 1028.22px ">I PREFIXES</tspan></text>
+        <text x="593.998px" y="1042.98px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">yoc<tspan x="609.305px 613.036px 618.668px 619.917px " y="1042.98px 1042.98px 1042.98px 1042.98px ">to (</tspan>10</text>
+        <text x="633.282px" y="1038.84px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">-24</text>
+        <text x="644.204px" y="1042.98px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">), <tspan x="653.805px " y="1042.98px ">z</tspan>ep<tspan x="669.289px 673.02px 678.651px 679.157px " y="1042.98px 1042.98px 1042.98px 1042.98px ">to (</tspan>10</text>
+        <text x="692.522px" y="1038.84px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">-21</text>
+        <text x="702.145px" y="1042.98px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">), <tspan x="713.164px " y="1042.98px ">a</tspan>tto<tspan x="731.106px 731.497px " y="1042.98px 1042.98px "> (</tspan>10</text>
+        <text x="744.862px" y="1038.84px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">-18</text>
+        <text x="754.766px" y="1042.98px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">), <tspan x="765.195px " y="1042.98px ">f</tspan>em<tspan x="782.319px 786.05px 791.681px 792.188px " y="1042.98px 1042.98px 1042.98px 1042.98px ">to (</tspan>10</text>
+        <text x="805.553px" y="1038.84px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">-15</text>
+        <text x="814.878px" y="1042.98px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">), <tspan x="826.204px " y="1042.98px ">p</tspan>ico</text>
+        <text x="593.999px" y="1057.74px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">(1<tspan x="601.197px " y="1057.74px ">0</tspan></text>
+        <text x="607.5px" y="1053.6px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">-1<tspan x="613.466px " y="1053.6px ">2</tspan></text>
+        <text x="617.231px" y="1057.74px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">),<tspan x="623.051px 627.839px 633.641px 638.378px 644.18px 649.856px 650.871px 654.032px 658.07px " y="1057.74px 1057.74px 1057.74px 1057.74px 1057.74px 1057.74px 1057.74px 1057.74px 1057.74px "> nano (10</tspan></text>
+        <text x="664.373px" y="1053.6px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">-9</text>
+        <text x="671.555px" y="1057.74px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">),<tspan x="677.376px 680.573px 689.288px 692.292px 697.196px 701.16px 706.837px 707.569px 710.73px 714.767px " y="1057.74px 1057.74px 1057.74px 1057.74px 1057.74px 1057.74px 1057.74px 1057.74px 1057.74px 1057.74px "> micro (10</tspan></text>
+        <text x="721.07px" y="1053.6px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">-6</text>
+        <text x="728.253px" y="1057.74px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">),<tspan x="734.073px 737.307px 746.022px 749.026px 751.915px " y="1057.74px 1057.74px 1057.74px 1057.74px 1057.74px "> mill</tspan>i <tspan x="759.78px 762.941px 766.978px " y="1057.74px 1057.74px 1057.74px ">(10</tspan></text>
+        <text x="773.281px" y="1053.6px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">-3</text>
+        <text x="779.462px" y="1057.74px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">),<tspan x="785.282px 789.472px 794.272px 799.238px 805.04px 808.974px 811.978px 812.332px 815.493px 819.531px " y="1057.74px 1057.74px 1057.74px 1057.74px 1057.74px 1057.74px 1057.74px 1057.74px 1057.74px 1057.74px "> centi (10</tspan></text>
+        <text x="825.834px" y="1053.6px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">-2</text>
+        <text x="832.362px" y="1057.74px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">),</text>
+        <text x="593.999px" y="1072.5px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">de<tspan x="604.708px 609.614px 612.62px 613.99px 617.153px 621.192px " y="1072.5px 1072.5px 1072.5px 1072.5px 1072.5px 1072.5px ">ci (10</tspan></text>
+        <text x="627.497px" y="1068.36px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">-1</text>
+        <text x="633.465px" y="1072.5px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">),<tspan x="639.288px 643.672px 649.413px 654.382px 660.164px 664.903px 666.173px 669.335px 673.374px " y="1072.5px 1072.5px 1072.5px 1072.5px 1072.5px 1072.5px 1072.5px 1072.5px 1072.5px "> deka (10</tspan></text>
+        <text x="679.679px" y="1068.36px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">1</text>
+        <text x="682.882px" y="1072.5px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">),<tspan x="688.706px 692.992px 698.859px 703.827px " y="1072.5px 1072.5px 1072.5px 1072.5px "> hec</tspan>to<tspan x="718.189px 718.373px 721.535px 725.575px " y="1072.5px 1072.5px 1072.5px 1072.5px "> (10</tspan></text>
+        <text x="731.879px" y="1068.36px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">2</text>
+        <text x="735.646px" y="1072.5px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">),<tspan x="741.469px 745.207px 750.99px 753.996px 756.782px 762.46px 764.235px 767.397px 771.437px " y="1072.5px 1072.5px 1072.5px 1072.5px 1072.5px 1072.5px 1072.5px 1072.5px 1072.5px "> kilo (10</tspan></text>
+        <text x="777.741px" y="1068.36px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">3</text>
+        <text x="781.16px" y="1072.5px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">),<tspan x="786.984px 791.145px 799.861px 804.829px 809.839px 814.578px 816.497px 819.659px 823.699px " y="1072.5px 1072.5px 1072.5px 1072.5px 1072.5px 1072.5px 1072.5px 1072.5px 1072.5px "> mega (10</tspan></text>
+        <text x="830.003px" y="1068.36px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">6</text>
+        <text x="834.424px" y="1072.5px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">),</text>
+        <text x="593.999px" y="1087.44px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">g<tspan x="599.065px 602.126px 607.192px 611.987px 614.735px 617.953px 622.048px " y="1087.44px 1087.44px 1087.44px 1087.44px 1087.44px 1087.44px 1087.44px ">iga (10</tspan></text>
+        <text x="628.408px" y="1083.12px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">9</text>
+        <text x="632.873px" y="1087.44px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">)<tspan x="636.091px 638.808px 641.557px 645.391px 650.415px 654.437px 659.231px 659.864px 663.082px 667.177px " y="1087.44px 1087.44px 1087.44px 1087.44px 1087.44px 1087.44px 1087.44px 1087.44px 1087.44px 1087.44px ">, tera (10</tspan></text>
+        <text x="673.537px" y="1083.12px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">1<tspan x="676.785px " y="1083.12px ">2</tspan></text>
+        <text x="680.596px" y="1087.44px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">)<tspan x="683.814px 686.531px 691.012px 696.871px 701.896px 705.886px 710.681px 710.993px 714.211px 718.306px " y="1087.44px 1087.44px 1087.44px 1087.44px 1087.44px 1087.44px 1087.44px 1087.44px 1087.44px 1087.44px ">, peta (10</tspan></text>
+        <text x="724.667px" y="1083.12px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">1<tspan x="727.914px " y="1083.12px ">5</tspan></text>
+        <text x="731.427px" y="1087.44px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">)<tspan x="734.645px 737.362px 742.318px 747.342px 752.513px 757.307px 759.464px 762.682px 766.777px " y="1087.44px 1087.44px 1087.44px 1087.44px 1087.44px 1087.44px 1087.44px 1087.44px 1087.44px ">, exa (10</tspan></text>
+        <text x="773.137px" y="1083.12px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">1<tspan x="776.385px " y="1083.12px ">8</tspan></text>
+        <text x="780.477px" y="1087.44px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">)<tspan x="783.696px 786.412px 790.387px 795.296px 800.321px 804.311px 808.302px 813.096px 813.196px 816.414px 820.509px " y="1087.44px 1087.44px 1087.44px 1087.44px 1087.44px 1087.44px 1087.44px 1087.44px 1087.44px 1087.44px 1087.44px ">, zetta (10</tspan></text>
+        <text x="826.87px" y="1083.12px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">2<tspan x="830.681px " y="1083.12px ">1</tspan></text>
+        <text x="833.928px" y="1087.44px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">)<tspan x="837.146px " y="1087.44px ">,</tspan></text>
+        <text x="593.998px" y="1102.2px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">yo<tspan x="604.18px 607.935px 611.69px 616.248px 617.578px 620.56px 624.419px " y="1102.2px 1102.2px 1102.2px 1102.2px 1102.2px 1102.2px 1102.2px ">tta (10</tspan></text>
+        <text x="630.544px" y="1098.06px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:8.28px;">24</text>
+        <g transform="matrix(10.44,0,0,10.44,641.608,1102.2)">
+        </g>
+        <text x="638.528px" y="1102.2px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">)</text>
+    </g>
+    <g transform="matrix(10.44,0,0,10.44,39.8816,100.319)">
+    </g>
+    <text x="32.219px" y="100.319px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">A</text>
+    <g transform="matrix(10.44,0,0,10.44,38.9942,266.999)">
+    </g>
+    <text x="32.219px" y="266.999px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">B</text>
+    <g transform="matrix(10.44,0,0,10.44,39.8816,478.68)">
+    </g>
+    <text x="32.219px" y="478.68px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">C</text>
+    <g>
+        <text x="32.219px" y="594.78px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">D</text>
+        <text x="32.219px" y="621.78px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">E</text>
+        <g transform="matrix(10.44,0,0,10.44,38.4827,648.78)">
+        </g>
+        <text x="32.219px" y="648.78px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">F</text>
+    </g>
+    <g transform="matrix(10.44,0,0,10.44,40.7795,873.6)">
+    </g>
+    <text x="32.219px" y="873.6px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">G</text>
+    <g transform="matrix(10.44,0,0,10.44,41.2597,1091.94)">
+    </g>
+    <text x="32.219px" y="1091.94px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">H</text>
+    <g transform="matrix(10.44,0,0,10.44,309.394,251.34)">
+    </g>
+    <text x="305.458px" y="251.34px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">J</text>
+    <g transform="matrix(10.44,0,0,10.44,313.696,330)">
+    </g>
+    <text x="305.458px" y="330px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">K</text>
+    <g transform="matrix(10.44,0,0,10.44,311.91,733.021)">
+    </g>
+    <text x="305.458px" y="733.021px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">L</text>
+    <g transform="matrix(10.44,0,0,10.44,315.606,980.701)">
+    </g>
+    <text x="305.458px" y="980.701px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">M</text>
+    <g transform="matrix(10.44,0,0,10.44,586.121,537.9)">
+    </g>
+    <text x="578.698px" y="537.9px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">T</text>
+    <g transform="matrix(10.44,0,0,10.44,587.677,282.66)">
+    </g>
+    <text x="578.698px" y="282.66px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">N</text>
+    <g transform="matrix(10.44,0,0,10.44,585.234,361.14)">
+    </g>
+    <text x="578.698px" y="361.14px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">P</text>
+    <g>
+        <text x="578.698px" y="446.28px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">R</text>
+        <g transform="matrix(10.44,0,0,10.44,583.991,458.34)">
+        </g>
+        <text x="578.698px" y="458.34px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">S</text>
+    </g>
+    <g transform="matrix(10.44,0,0,10.44,590.433,561.48)">
+    </g>
+    <text x="578.698px" y="561.48px" style="font-family:'HoeflerText-Regular', 'Hoefler Text', serif;font-size:10.44px;">W</text>
+    <g transform="matrix(1,0,0,1,0,-1083.12)">
+        <rect x="301.859" y="1135.38" width="0.72" height="0.36"/>
+    </g>
+    <g transform="matrix(1,0,0,1,0,1079.4)">
+        <rect x="301.859" y="54.12" width="0.72" height="0.36"/>
+    </g>
+    <g transform="matrix(1,0,0,1,0,-1.86)">
+        <rect x="301.859" y="54.48" width="0.72" height="1080.9"/>
+    </g>
+    <g transform="matrix(1,0,0,1,0,1081.2)">
+        <rect x="575.459" y="53.22" width="0.72" height="0.36"/>
+    </g>
+    <g transform="matrix(1,0,0,1,0,-1083.12)">
+        <rect x="575.459" y="1135.38" width="0.72" height="0.36"/>
+    </g>
+    <g transform="matrix(1,0,0,1,0,-0.96)">
+        <rect x="575.459" y="53.58" width="0.72" height="1081.8"/>
+    </g>
+    <g transform="matrix(1,0,0,1,0,456.6)">
+        <rect x="587.338" y="365.34" width="0.36" height="0.72"/>
+    </g>
+    <g transform="matrix(1,0,0,1,0,456.6)">
+        <rect x="857.699" y="365.34" width="0.36" height="0.72"/>
+    </g>
+    <g transform="matrix(1,0,0,1,0,456.6)">
+        <rect x="587.699" y="365.34" width="270" height="0.72"/>
+    </g>
+</svg>
