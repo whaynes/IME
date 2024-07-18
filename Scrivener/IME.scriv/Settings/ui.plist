@@ -8,7 +8,7 @@
 	<dict>
 		<key>2655DDF6-4AB8-42CB-A433-1CD76FC351D2</key>
 		<array>
-			<string>246BEBE5-0EA8-4CA8-B7FB-0E8BC84B9AA3</string>
+			<string>D2C28CBC-DE83-4FFC-A806-B815C9D9D4DE</string>
 		</array>
 	</dict>
 	<key>CommentsScaleFactor</key>
@@ -841,6 +841,11 @@
 			<integer>-1</integer>
 		</dict>
 		<key>261B3A94-BF5F-4195-88CA-546062E3949A</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>2627DD2F-EE03-4DAD-91E2-B2ED5FCBE854</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -5052,7 +5057,7 @@
 	<key>mainDocumentEditor.textMode</key>
 	<integer>0</integer>
 	<key>mainWindowFrame</key>
-	<string>0 327 1920 728 0 0 1920 1055 </string>
+	<string>20 327 1920 728 0 0 1920 1055 </string>
 	<key>projectStatsSheet</key>
 	<dict>
 		<key>excludeAnnots</key>
@@ -5085,7 +5090,7 @@
 		<key>widths</key>
 		<dict>
 			<key>TITLE</key>
-			<real>200</real>
+			<real>290</real>
 		</dict>
 	</dict>
 	<key>selectedCollectionTabIndex</key>

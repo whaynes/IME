@@ -137,7 +137,8 @@
     <subsection xml:id="engineering-measurement-length">
       <title>Length</title>
       <introduction>
-        <p>Length is a measure of the distance between two points. It is a fundamental dimension used to quantify the size or extent of objects, distances between locations, and dimensions in space.</p>
+        <p>
+          <term>Length</term> is a measure of the distance between two points. It is a fundamental dimension used to quantify the size or extent of objects, distances between locations, and dimensions in space.</p>
       </introduction>
       <subsubsection xml:id="engineering-measurement-length-units">
         <title>Length Units</title>
@@ -1226,9 +1227,7 @@
         </statement>
         <answer>
           <p>
-            <me>
-              <mrow>27.5 \textrm{ in Hg} = 0.919 \textrm{ atm} = 698.5 \textrm{ mm Hg}= 93.3 \textrm{ kPa} = 13.5 \textrm{ psia}</mrow>
-            </me>
+            <me>27.5 \textrm{ in Hg} = 0.919 \textrm{ atm} = 698.5 \textrm{ mm Hg}= 93.3 \textrm{ kPa} = 13.5 \textrm{ psia}</me>
           </p>
         </answer>
         <solution>

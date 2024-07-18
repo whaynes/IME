@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="9CEE092B-52A4-40FD-A463-60A47C53A797" Version="2.0" Creator="SCRMAC-3.3.6-16305" Device="whaynes-MBP" Author="" Modified="2024-07-17 19:50:21 -0400" ModID="64C61E69-1B2D-4BEB-96AF-38DBD46131CA">
+<ScrivenerProject Identifier="9CEE092B-52A4-40FD-A463-60A47C53A797" Version="2.0" Creator="SCRMAC-3.3.6-16305" Device="whaynes-MBP" Author="" Modified="2024-07-17 20:27:41 -0400" ModID="55977253-8EF0-49EE-BB22-AF001B37EA56">
     <Binder>
         <BinderItem UUID="7A583553-3A84-40D6-B9B9-0430B8CD3E39" Type="DraftFolder" Created="2023-05-29 09:45:48 -0400" Modified="2023-05-29 09:45:48 -0400">
             <Title>Draft</Title>
@@ -2495,14 +2495,14 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                     <Children>
-                                        <BinderItem UUID="BCDCD87A-A0E8-4BF7-AB2A-5B9775FA4994" Type="Folder" Created="2024-07-16 15:15:58 -0400" Modified="2024-07-17 17:41:01 -0400">
+                                        <BinderItem UUID="BCDCD87A-A0E8-4BF7-AB2A-5B9775FA4994" Type="Folder" Created="2024-07-16 15:15:58 -0400" Modified="2024-07-17 20:08:20 -0400">
                                             <Title>Absolute pressures</Title>
                                             <MetaData>
                                                 <SectionType>377EE401-2EDE-4A95-A5D9-961DF245887A</SectionType>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>158,132</TextSelection>
+                                                <TextSelection>271,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem UUID="4DE01048-D876-4E8E-886D-348A048B7F66" Type="Folder" Created="2023-06-04 11:39:42 -0400" Modified="2024-07-17 15:59:38 -0400">
@@ -7077,9 +7077,10 @@
                                 <TextSelection>3,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="D2C28CBC-DE83-4FFC-A806-B815C9D9D4DE" Type="Folder" Created="2024-07-14 15:28:29 -0400" Modified="2024-07-17 17:07:28 -0400">
+                                <BinderItem UUID="D2C28CBC-DE83-4FFC-A806-B815C9D9D4DE" Type="Folder" Created="2024-07-14 15:28:29 -0400" Modified="2024-07-17 20:24:14 -0400">
                                     <Title>Bunkering or Taking on Fuel Oil Aboard Ship</Title>
                                     <MetaData>
+                                        <SectionType>7AF79F77-7E8C-44AC-96AE-BF3A8922D7D0</SectionType>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
@@ -7235,21 +7236,19 @@
                                 <TextSelection>145,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="A73D82A9-2636-4C25-8AF8-EAD7463BC86D" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-09-21 10:34:54 -0400">
+                        <BinderItem UUID="A73D82A9-2636-4C25-8AF8-EAD7463BC86D" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2024-07-17 20:27:11 -0400">
                             <Title>Chapter 14 - MMA Sea Term I</Title>
                             <MetaData>
                                 <SectionType>F2CC3694-551C-46A7-BFD9-B161A49072A7</SectionType>
-                                <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="10FE68A2-915A-4424-BD7A-79DE8ADE2813" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2023-09-21 10:34:57 -0400">
+                        <BinderItem UUID="10FE68A2-915A-4424-BD7A-79DE8ADE2813" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2024-07-17 20:27:14 -0400">
                             <Title>What to expect on the training cruise</Title>
                             <MetaData>
                                 <SectionType>F2CC3694-551C-46A7-BFD9-B161A49072A7</SectionType>
-                                <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
@@ -11849,6 +11848,14 @@ US Standard System (psi)
                         <TextSelection>28,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem UUID="2627DD2F-EE03-4DAD-91E2-B2ED5FCBE854" Type="Text" Created="2024-07-17 20:26:59 -0400" Modified="2024-07-17 20:26:59 -0400">
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
     </Binder>
@@ -11858,7 +11865,7 @@ US Standard System (psi)
         </Collection>
         <Collection Type="RecentSearch" ID="2655DDF6-4AB8-42CB-A433-1CD76FC351D2" Color="0.922173 0.818612 0.999627">
             <Title>Search Results</Title>
-            <SearchSettings Operator="Exact" Type="All" Scope="Draft" ExcludeTrash="Yes" CaseSensitive="No" IgnoreDiacritics="No">survey</SearchSettings>
+            <SearchSettings Operator="Exact" Type="All" Scope="Draft" ExcludeTrash="Yes" CaseSensitive="No" IgnoreDiacritics="No">image33.png</SearchSettings>
         </Collection>
     </Collections>
     <SectionTypes>
@@ -11943,11 +11950,11 @@ US Standard System (psi)
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 08:24:39 -0400" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2024-07-18 01:00:00 -0400" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="571" Characters="4425" Date="2024-07-17 19:50:18 -0400"/>
+        <PreviousSession Words="585" Characters="4515" Date="2024-07-17 20:05:50 -0400"/>
     </ProjectTargets>
     <RecentWritingHistory Date="2024-07-17 00:00:00 -0400">
-        <DraftWordCount>571</DraftWordCount>
-        <DraftCharCount>4423</DraftCharCount>
+        <DraftWordCount>585</DraftWordCount>
+        <DraftCharCount>4513</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>-6</OtherCharCount>
     </RecentWritingHistory>
