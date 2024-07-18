@@ -24,9 +24,9 @@
     </introduction>
     <subsection xml:id="unit-factor-method">
       <title>Unit-factor Method</title>
-      <p>The <term>unit-factor method</term> or the <term>unity bracket method</term> is a widely used metod for unit conversions using the rules of algebra. This method utilizes the fact that any number or expression can be multiplied by one (unity) without changing its value. The advantage of this method is that it explicitly accounts for units, rather than treating a conversion factor as a <em>magic number</em>.</p>
+      <p>The <term>unit-factor method</term> or the <term>unity bracket method</term> is a widely used method for unit conversions using the rules of algebra. This method utilizes the fact that any number or expression can be multiplied by one (unity) without changing its value. The advantage of this method is that it explicitly accounts for units, rather than treating a conversion factor as a <em>magic number</em>.</p>
       <p>To use this method, conversion factors are expressed as fraction equal to <em>one</em>, and multiplied against the original value while keeping careful track of the units in each term. Multiplying a value by a unit-factor and canceling any dimensional units appearing in both the numerator and denominator will express the original quantity in different units. </p>
-      <p>For example, since <m>\inch{1} = \cm{2.54}</m>, dividing both sides by <m>\inch{1}</m> inch gives the unit-factor<me> 1 = \left[\frac{\cm{2.54}}{\inch{1}}\right]</me>. </p>
+      <p>For example, since <m>\inch{1} = \cm{2.54}</m>, dividing both sides by <m>\inch{1}</m> inch gives the unit-factor<me> 1 = \left[\frac{\cm{2.54}}{\inch{1}}\right]</me>. The fraction bar in this term can be read as <q>per</q>, so this unit-factor says that there are <q>2.54 centimeters per inch</q>.</p>
       <p>To convert <m>36</m> inches to cm, just multiply by <m>36</m> inches by the appropriate unit-factor, and cancel the inch units that appear in both the numerator and denominator.</p>
       <p>
         <me>\inch{36} \times \left[\frac{\cm{2.54} }{\inch{1}}\right] = 36 \cancel{\text{ in}} \times \left[\frac{2.54 \text{ cm}}{\cancel{1 \text{ in}}}\right] = \cm{91.44}</me>
