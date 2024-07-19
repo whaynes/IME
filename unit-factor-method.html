@@ -699,7 +699,7 @@ window.MathJax = {
 <main class="ptx-main"><div id="ptx-content" class="ptx-content"><section class="subsection" id="unit-factor-method"><h2 class="heading hide-type">
 <span class="type">Subsection</span><span class="space"> </span><span class="codenumber">2.1.1</span><span class="space"> </span><span class="title">Unit-factor Method</span>
 </h2>
-<div class="para" id="unit-factor-method-2">The <dfn class="terminology">unit-factor method</dfn> or the <dfn class="terminology">unity bracket method</dfn> is a widely used method for unit conversions using the rules of algebra. This method utilizes the fact that any number or expression can be multiplied by one (unity) without changing its value. The advantage of this method is that it explicitly accounts for units, rather than treating a conversion factor as a <em class="emphasis">magic number</em>.</div>
+<div class="para" id="unit-factor-method-2">The <dfn class="terminology">unit-factor method</dfn> or the <dfn class="terminology">unity bracket method</dfn> is a widely used method for unit conversions using the rules of algebra. This method utilizes the fact that any number or expression can be multiplied by one (unity) without changing its value.  The advantage of this method is that it explicitly accounts for units, rather than treating a conversion factor as a <em class="emphasis">magic number</em>.</div>
 <div class="para" id="unit-factor-method-3">To use this method, conversion factors are expressed as fraction equal to <em class="emphasis">one</em>, and multiplied against the original value while keeping careful track of the units in each term. Multiplying a value by a unit-factor and canceling any dimensional units appearing in both the numerator and denominator will express the original quantity in different units.</div>
 <div class="para logical" id="unit-factor-method-4">
 <div class="para">For example, since <span class="process-math">\(\inch{1} = \cm{2.54}\text{,}\)</span> dividing both sides by <span class="process-math">\(\inch{1}\)</span> inch gives the unit-factor</div>
@@ -713,29 +713,29 @@ window.MathJax = {
 <div class="para" id="unit-factor-method-5">To convert <span class="process-math">\(36\)</span> inches to cm, just multiply by <span class="process-math">\(36\)</span> inches by the appropriate unit-factor, and cancel the inch units that appear in both the numerator and denominator.</div>
 <div class="para logical" id="unit-factor-method-6"><div class="displaymath process-math">
 \begin{equation*}
-\inch{36} \times \left[\frac{\cm{2.54} }{\inch{1}}\right] = 36 \cancel{\text{ in}} \times \left[\frac{2.54 \text{ cm}}{\cancel{1 \text{ in}}}\right] = \cm{91.44}
+\inch{36}  \times \left[\frac{\cm{2.54} }{\inch{1}}\right] =  36 \cancel{\text{ in}} \times \left[\frac{2.54 \text{ cm}}{\cancel{1 \text{ in}}}\right] = \cm{91.44}
 \end{equation*}
 </div></div>
 <div class="para" id="unit-factor-method-7">To convert from cm to inches, use the reciprocal of this unit-factor, which is also unity.</div>
 <div class="para logical" id="unit-factor-method-8"><div class="displaymath process-math">
 \begin{equation*}
-\cm{100} \times \left[\frac{\inch{1}}{\cm{2.54} }\right] = 100 \cancel{\text{ cm}} \times \left[\frac{1 \text{ in}}{2.54 \cancel{\text{ cm}}}\right] = \inch{39.37}
+\cm{100}  \times \left[\frac{\inch{1}}{\cm{2.54} }\right] =  100 \cancel{\text{ cm}} \times \left[\frac{1 \text{ in}}{2.54 \cancel{\text{ cm}}}\right] = \inch{39.37}
 \end{equation*}
 </div></div>
 <div class="para" id="unit-factor-method-9">Thus <span class="process-math">\(\yd{1}\)</span> (<span class="process-math">\(\inch{36}\)</span>) is a bit shorter than a meter (<span class="process-math">\(\cm{100}\)</span>), and <span class="process-math">\(\m{1}\)</span> is a little more than <span class="process-math">\(\inch{39}.\)</span>
 </div>
 <div class="para" id="unit-factor-method-10">Unit conversion is often easier <em class="emphasis">within</em> the the SI system, since the relations between units are logical, and the prefixes increase or decrease by <span class="process-math">\(10^3\text{,}\)</span> so unit conversions can often be done in your head.</div>
 <div class="para logical" id="unit-factor-method-11">
-<div class="para">Several different conversion factors can be applied sequentially or simultaneously until only the desired set of dimensional units remains. This way, you only need to remember a few common conversion factors to make many different conversions. Here are some relations that you should remember:</div>
+<div class="para">Several different conversion factors can be applied sequentially or simultaneously until only the desired set of dimensional units remains. This way, you only need to remember a few common conversion factors to make many different conversions.  Here are some relations that you should remember:</div>
 <div class="displaymath process-math" id="unit-factor-method-11-1">
 \begin{align*}
-\mi{1} \amp = \ft{5280} \\
-\ft{1} \amp = \inch{12} \\
-\yd{1} \amp = \ft{3}\\
+\mi{1}  \amp = \ft{5280} \\
+\ft{1}  \amp = \inch{12} \\
+\yd{1}  \amp = \ft{3}\\
 \inch{1} \amp = \cm{2.54} \\
 \m{1} \amp= \cm{100} \\
-\hr{1} \amp = \minute{60} \\
-\minute{1} \amp = \second{60}
+\hr{1}   \amp = \minute{60} \\
+\minute{1}  \amp = \second{60}
 \end{align*}
 </div>
 </div>
@@ -753,7 +753,9 @@ d = \ft{3208}
 </div></div></div></details><details id="engineering-measurement-example-distance-conversion-4" class="solution solution-like born-hidden-knowl"><summary><span class="type">Solution</span><span class="period">.</span></summary><div class="solution solution-like">
 <div class="para" id="engineering-measurement-example-distance-conversion-4-1">Refer to <a href="engineering-measurement-length-units.html#length-units" class="xref" data-knowl="./knowl/xref/length-units.html" data-reveal-label="Reveal" data-close-label="Close" title="Table 2.2.3: Length units for US Standard and Metric systems">Table 2.2.3</a> for the length relations needed for the unit-factors.</div> <div class="para logical" id="engineering-measurement-example-distance-conversion-4-2"><div class="displaymath process-math" id="engineering-measurement-example-distance-conversion-4-2-1">
 \begin{align*}
-d \amp= \km{1} \times \left[\frac{\m{1000}}{\km{1}}\right] \left[\frac{\ft{1}}{\m{.3048}}\right] \\
+d \amp= \km{1} \times
+\left[\frac{\m{1000}}{\km{1}}\right]
+\left[\frac{\ft{1}}{\m{.3048}}\right]\\
 \amp = \ft{3208}
 \end{align*}
 </div></div>
@@ -780,9 +782,18 @@ d \amp= \km{1} \times \left[\frac{\m{1000}}{\km{1}}\right] \left[\frac{\ft{1}}{\
 </ol></div></div></details><details id="engineering-measurement-example-problem-4" class="solution solution-like born-hidden-knowl"><summary><span class="type">Solution</span><span class="period">.</span></summary><div class="solution solution-like">
 <div class="para logical" id="engineering-measurement-example-problem-4-1"><div class="displaymath process-math" id="engineering-measurement-example-problem-4-1-1">
 \begin{align*}
-10 \mathrm{\ mph}\amp = \frac{\mi{10}}{\hr{1}}\times \left[\frac{\ft{5280}}{\mi{1}}\right] \left[\frac{\inch{12}}{\ft{1}}\right] \left[\frac{\cm{2.54}}{\inch{1}}\right] \left[\frac{\m{1}}{\cm{100}}\right] \times \left[\frac{\hr{1}}{\minute{60}}\right] \left[\frac{\minute{1}}{\second{60}}\right] \\
-\amp = \frac{\mi{10}}{\hr{1}}\times \left[ \frac{\m{1609.3}}{\mi{1}} \right]\times \left[ \frac{\hr{1}}{\second{3600}} \right] \\
-\amp = \frac{\mi{10}}{\hr{1}}\times \left[ \frac{\mps{0.447}}{\mph{1}} \right] \\
+10 \mathrm{\ mph}\amp = \frac{\mi{10}}{\hr{1}}\times
+\left[\frac{\ft{5280}}{\mi{1}}\right]
+\left[\frac{\inch{12}}{\ft{1}}\right]
+\left[\frac{\cm{2.54}}{\inch{1}}\right]
+\left[\frac{\m{1}}{\cm{100}}\right] \times
+\left[\frac{\hr{1}}{\minute{60}}\right]
+\left[\frac{\minute{1}}{\second{60}}\right]\\
+\amp = \frac{\mi{10}}{\hr{1}}\times
+\left[ \frac{\m{1609.3}}{\mi{1}} \right]\times
+\left[ \frac{\hr{1}}{\second{3600}} \right]\\
+\amp = \frac{\mi{10}}{\hr{1}}\times
+\left[ \frac{\mps{0.447}}{\mph{1}} \right]\\
 \amp = \mps{4.47}
 \end{align*}
 </div></div> <div class="para logical" id="engineering-measurement-example-problem-4-2">
