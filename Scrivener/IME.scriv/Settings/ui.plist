@@ -5057,7 +5057,7 @@
 	<key>mainDocumentEditor.textMode</key>
 	<integer>0</integer>
 	<key>mainWindowFrame</key>
-	<string>20 327 1920 728 0 0 1920 1055 </string>
+	<string>0 327 1920 728 0 0 1920 1055 </string>
 	<key>projectStatsSheet</key>
 	<dict>
 		<key>excludeAnnots</key>
@@ -5090,7 +5090,7 @@
 		<key>widths</key>
 		<dict>
 			<key>TITLE</key>
-			<real>290</real>
+			<real>200</real>
 		</dict>
 	</dict>
 	<key>selectedCollectionTabIndex</key>
