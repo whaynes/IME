@@ -1159,7 +1159,7 @@
 <example xml:id=''><title>in Hg to psi conversion</title>
 
  
-<statement><p>Convert  10 in Hg vacuum to pounds per square inch absolute (psia)..</p></statement>
+<statement><p>Convert  10 in Hg vacuum to pounds per square inch absolute (psia).</p></statement>
 <answer>
 <p><me> 10 \textrm{ in Hg (vac)} = \psi{9.79}</me></p></answer>
 
