@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<docinfo xmlns:xi="http://www.w3.org/2001/XInclude">
-  <brandlogo url="https://www.maritime.edu" source="images/mma_logo.svg"/>
-  <initialism>IME</initialism>
-  <html>
-    <favicon/>
-  </html>
-  <math-package latex-name="cancel" mathjax-name="cancel"/>
-  <math-package latex-name="mhchem" mathjax-name="mhchem"/>
-  <macros>
+<docinfo xmlns:xi="http://www.w3.org/2001/XInclude" xml:base="docinfo.ptx">
+   <brandlogo url="https://www.maritime.edu" source="images/mma_logo.svg"/>
+   <initialism>IME</initialism>
+   <html>
+      <favicon/>
+   </html>
+   <math-package latex-name="cancel" mathjax-name="cancel"/>
+   <math-package latex-name="mhchem" mathjax-name="mhchem"/>
+   <macros>
     \let\vecarrow\vec%
     \renewcommand{\vec}{\mathbf}%
     \newcommand{\ihat}{\vec{i}}%
