@@ -65,8 +65,6 @@ For each conversion, we create an appropriate unit-factor from &lt;xref ref="atm
         </Document>
         <Document ID="EB2EC9AB-5C47-49A3-8A53-FD60DE94D62E">
             <Title>Introduction</Title>
-            <Text> 
-</Text>
         </Document>
         <Document ID="34613D63-F917-4166-A78D-3759AACDA469">
             <Title>Temperature</Title>
@@ -304,22 +302,6 @@ Contactors are relays designed to handle higher voltages and currents than typic
 &lt;/sidebyside&gt;
 &lt;/figure&gt;</Text>
         </Document>
-        <Document ID="03623C3D-06D6-4ED0-901F-301A26D78F20">
-            <Title>Types of Elbow</Title>
-            <Text>Without elbows, it is impossible to think of a piping system on ship, especially in a limited place of installation. Elbows give flexibility for directing and building the piping system leading to saving of space and material.
-Different types of elbows are used in the piping system of ships as per the space and design of installation.
- * Male Elbow
-A male elbow is a fitting with male threads on both sides and is used for changing the direction of the piping. They fix on to female threads of the fittings on both sides. They come in various angles like 45 degrees and 90 degrees.
-* Female Elbow
-A female elbow is a pipe fitting that is used to change the direction of the piping and has female threads on both sides, which allow for fixing pipes or fittings with male threads. They come in various angles like 45 degrees and 90 degrees.
-* Street Elbow
-A street elbow is different from the male and female elbows in the respect that it has a male thread on one side and a female thread on other side. The advantage of using the street elbow is that it can directly fix to the pipe without connecting a nipple. They come in various angles like 45 degrees and 90 degrees.
-* Reducing Street Elbow
-A reducing street elbow is a pipe fitting that has male thread on one side and unequal female threads on other side. They are used for altering the direction of flow as well as joining pipes of two different sizes. They come in various angles like 45 degrees and 90 degrees.</Text>
-        </Document>
-        <Document ID="28F15D5A-BDCB-4ACA-9480-B92687C7AFCB">
-            <Title>temperature measurement</Title>
-        </Document>
         <Document ID="649613C2-F46A-4774-B6BB-EB37D43A03B6">
             <Title>Symbols</Title>
             <Text>&lt;p&gt;
@@ -359,6 +341,22 @@ A reducing street elbow is a pipe fitting that has male thread on one side and u
 
 &lt;/ul&gt;&lt;/p&gt;</Text>
         </Document>
+        <Document ID="03623C3D-06D6-4ED0-901F-301A26D78F20">
+            <Title>Types of Elbow</Title>
+            <Text>Without elbows, it is impossible to think of a piping system on ship, especially in a limited place of installation. Elbows give flexibility for directing and building the piping system leading to saving of space and material.
+Different types of elbows are used in the piping system of ships as per the space and design of installation.
+ * Male Elbow
+A male elbow is a fitting with male threads on both sides and is used for changing the direction of the piping. They fix on to female threads of the fittings on both sides. They come in various angles like 45 degrees and 90 degrees.
+* Female Elbow
+A female elbow is a pipe fitting that is used to change the direction of the piping and has female threads on both sides, which allow for fixing pipes or fittings with male threads. They come in various angles like 45 degrees and 90 degrees.
+* Street Elbow
+A street elbow is different from the male and female elbows in the respect that it has a male thread on one side and a female thread on other side. The advantage of using the street elbow is that it can directly fix to the pipe without connecting a nipple. They come in various angles like 45 degrees and 90 degrees.
+* Reducing Street Elbow
+A reducing street elbow is a pipe fitting that has male thread on one side and unequal female threads on other side. They are used for altering the direction of flow as well as joining pipes of two different sizes. They come in various angles like 45 degrees and 90 degrees.</Text>
+        </Document>
+        <Document ID="28F15D5A-BDCB-4ACA-9480-B92687C7AFCB">
+            <Title>temperature measurement</Title>
+        </Document>
         <Document ID="0094C026-9A29-4CA9-9FE1-5A38714CC967">
             <Title>Pneumercator (Bubbler) Gauges</Title>
             <Text>This gauging system works on the principle of hydrostatic pressure measurement to determine liquid level. The pressure created by the actual depth of liquid is fed to the gauge which moves the reading until an equilibrium is reached. 
@@ -366,6 +364,12 @@ A reducing street elbow is a pipe fitting that has male thread on one side and u
         </Document>
         <Document ID="A2828978-8627-4517-90E7-796979D852B3">
             <Title>Unit-factor Method</Title>
+        </Document>
+        <Document ID="6A6268F9-ED49-4E9B-84BA-E432C0CB4C1B">
+            <Title>Boiler Water Treatment</Title>
+            <Text>Boiler water must be treated chemically to avoid problems such as Scale, Corrosion, Sludge Formation, and Foaming. Scale is caused by impurities such as calcium and magnesium precipitating out of the water, and by suspended solids settling out and adhering to the tube surfaces. Scale deposits on the tubes act as thermal insulation which reduces the heat transfer across the tubes and increases the tube temperatures. Corrosion due to dissolved oxygen attacks the iron of the tubes and leads to its deterioration. Untreated sludge will bake onto the heat transfer surfaces and cause overheating, and suspended solids will cause a foam to form in the steam drum leading to carryover. 
+The boiler water must be tested and boiler chemicals added each day to maintain correct pH levels to limit corrosion, and for correct phosphate levels, which help to precipitate out calcium and magnesium. Periodic surface blowdowns are conducted on a steaming boiler to remove suspended solids, lower the conductivity, and remove dissolved substances contained in the water. Sludge accumulations in the mud drum and headers are removed by conducting bottom blows. A boiler can only receive a bottom blow when it is secured, since blowing a steaming boiler could interrupt the natural circulation flow and cause tube overheating. 
+</Text>
         </Document>
         <Document ID="46446F36-4033-4154-ACE1-AAC013FB5240">
             <Title>Feed Pump</Title>
@@ -381,12 +385,6 @@ The feed pump is usually a turbine driven centrifugal pump, and the discharge pr
         </Document>
         <Document ID="BA0DCC9C-FB8C-4014-AD8D-861B079A7C95">
             <Title>Foot Protection</Title>
-        </Document>
-        <Document ID="6A6268F9-ED49-4E9B-84BA-E432C0CB4C1B">
-            <Title>Boiler Water Treatment</Title>
-            <Text>Boiler water must be treated chemically to avoid problems such as Scale, Corrosion, Sludge Formation, and Foaming. Scale is caused by impurities such as calcium and magnesium precipitating out of the water, and by suspended solids settling out and adhering to the tube surfaces. Scale deposits on the tubes act as thermal insulation which reduces the heat transfer across the tubes and increases the tube temperatures. Corrosion due to dissolved oxygen attacks the iron of the tubes and leads to its deterioration. Untreated sludge will bake onto the heat transfer surfaces and cause overheating, and suspended solids will cause a foam to form in the steam drum leading to carryover. 
-The boiler water must be tested and boiler chemicals added each day to maintain correct pH levels to limit corrosion, and for correct phosphate levels, which help to precipitate out calcium and magnesium. Periodic surface blowdowns are conducted on a steaming boiler to remove suspended solids, lower the conductivity, and remove dissolved substances contained in the water. Sludge accumulations in the mud drum and headers are removed by conducting bottom blows. A boiler can only receive a bottom blow when it is secured, since blowing a steaming boiler could interrupt the natural circulation flow and cause tube overheating. 
-</Text>
         </Document>
         <Document ID="1965642B-B063-4E9C-905A-C99F4C87FBEA">
             <Title>Pressure Measuring Devices</Title>
@@ -755,19 +753,6 @@ A good deal of confusion exists concerning the use of the word &lt;q&gt;heat.&lt
         <Document ID="71C5C3B2-8E7A-46E1-A64E-8619D6DAD346">
             <Text>How many square kilometers  are there in 2 square miles?</Text>
         </Document>
-        <Document ID="E21C7AC5-6DB9-4370-8618-6389ACC50514">
-            <Title>introduction</Title>
-            <Text>Safety management is a systematic approach taken by regulatory bodies and companies to identify, assess, control, and mitigate risks in order to ensure the safety of personnel, assets, and the environment. It involves the development and implementation of policies, procedures, and practices aimed at preventing accidents, injuries, and damage. 
-Key components of safety management include risk assessment, safety planning, establishment of policies and procedures, training and education, reporting and investigation of incidents, audits and inspections, and continuous improvement efforts. The goal of safety management is to protect lives, prevent harm, and promote a culture of safety within organizations across various industries.</Text>
-        </Document>
-        <Document ID="10FE68A2-915A-4424-BD7A-79DE8ADE2813">
-            <Title>What to expect on the training cruise</Title>
-        </Document>
-        <Document ID="5FDBB9D5-A0CD-4F3A-AC4B-CB47966B2996">
-            <Title>Boiler Casing</Title>
-            <Text>The entire boiler is surrounded by a two-layered casing which provides an airtight enclosure for the boiler, see &lt;xref ref="refractory_png"/&gt;. Air from the forced draft blowers flows between the two casings. Both the inner and outer casings of the boiler are made of steel panels. The panels are removable to provide access to the boiler tubes for inspection or repair, and are welded or bolted together with gaskets to form an airtight seal. 
-</Text>
-        </Document>
         <Document ID="D5F58053-F988-4B24-96FF-7010B6E9E9CC">
             <Title>Capsule Gages is a device used to measure low-pressure ranges with high accuracy. It is particularly effective in applications where sensitive pressure measurement is required, such as in laboratory settings, HVAC systems, and certain industrial processes.
 
@@ -811,7 +796,19 @@ Capsule-type pressure gauges are commonly used in scenarios requiring precise me
 - **Limited Pressure Range**: Typically suitable only for low-pressure measurements.
 
 In summary, capsule-type pressure gauges are specialized instruments designed for precise low-pressure measurement. Their unique design, based on the deformation of a capsule element, allows for high sensitivity and accuracy, making them suitable for various sensitive and critical applications.</Title>
-            <Text> </Text>
+        </Document>
+        <Document ID="10FE68A2-915A-4424-BD7A-79DE8ADE2813">
+            <Title>What to expect on the training cruise</Title>
+        </Document>
+        <Document ID="5FDBB9D5-A0CD-4F3A-AC4B-CB47966B2996">
+            <Title>Boiler Casing</Title>
+            <Text>The entire boiler is surrounded by a two-layered casing which provides an airtight enclosure for the boiler, see &lt;xref ref="refractory_png"/&gt;. Air from the forced draft blowers flows between the two casings. Both the inner and outer casings of the boiler are made of steel panels. The panels are removable to provide access to the boiler tubes for inspection or repair, and are welded or bolted together with gaskets to form an airtight seal. 
+</Text>
+        </Document>
+        <Document ID="E21C7AC5-6DB9-4370-8618-6389ACC50514">
+            <Title>introduction</Title>
+            <Text>Safety management is a systematic approach taken by regulatory bodies and companies to identify, assess, control, and mitigate risks in order to ensure the safety of personnel, assets, and the environment. It involves the development and implementation of policies, procedures, and practices aimed at preventing accidents, injuries, and damage. 
+Key components of safety management include risk assessment, safety planning, establishment of policies and procedures, training and education, reporting and investigation of incidents, audits and inspections, and continuous improvement efforts. The goal of safety management is to protect lives, prevent harm, and promote a culture of safety within organizations across various industries.</Text>
         </Document>
         <Document ID="D4AD0181-964C-4548-8EFB-6673964758E3">
             <Title>Electrical Equipment</Title>
@@ -1107,7 +1104,6 @@ The total resistance of a parallel circuit containing n branches is given by thi
         </Document>
         <Document ID="F5A0F03C-2EA3-40E2-ABD6-9F3CCB0DC386">
             <Title>Examples</Title>
-            <Text> </Text>
         </Document>
         <Document ID="F5E2724E-1C74-47BC-8DBB-7CA3AD6064D9">
             <Title>Heat Exchangers</Title>
@@ -1124,6 +1120,23 @@ The flow order through these heat exchangers is always from coolest to hottest. 
         <Document ID="0CD197D1-392B-4DAB-A205-F2C83F67C2E8">
             <Title>answer</Title>
             <Text>&lt;me&gt;5 \mathrm{\ bar}  =  \psi{72.7}  =   \kPa{500} &lt;/me&gt;
+</Text>
+        </Document>
+        <Document ID="E90423B5-659A-417E-ABC7-D074377C61A4">
+            <Title>PASCAL’S PRINCIPLE</Title>
+            <Text>PASCAL’S PRINCIPLE 
+A change in pressure applied to an enclosed fluid is transmitted undiminished to all portions of the fluid and to the walls of its container. 
+Pascal’s principle, an experimentally verified fact, is what makes pressure so important in fluids. Since a change in pressure is transmitted undiminished in an enclosed fluid, we often know more about pressure than other physical quantities in fluids. Moreover, Pascal’s principle implies that &lt;em&gt;the total pressure in a fluid is the sum of the pressures from different sources&lt;/em&gt;. We shall find this fact—that pressures add—very useful. 
+Blaise Pascal had an interesting life in that he was home-schooled by his father who removed all of the mathematics textbooks from his house and forbade him to study mathematics until the age of 15. This, of course, raised the boy’s curiosity, and by the age of 12, he started to teach himself geometry. Despite this early deprivation, Pascal went on to make major contributions in the mathematical fields of probability theory, number theory, and geometry. He is also well known for being the inventor of the first mechanical digital calculator, in addition to his contributions in the field of fluid statics. 
+Application of Pascal’s Principle 
+One of the most important technological applications of Pascal’s principle is found in a &lt;em&gt;hydraulic system&lt;/em&gt;, which is an enclosed fluid system used to exert forces. The most common hydraulic systems are those that operate car brakes. Let us first consider the simple hydraulic system shown in &lt;xref ref="one-cubic-inch"/&gt;
+
+&lt;figure xml:id="one-cubic-inch"&gt;
+   &lt;caption&gt;1 cubic inch    A small force can be converted into a larger force when pressure is transmitted through liquids in different containers with pistons that are connected.
+&lt;/caption&gt;
+   &lt;image width="50%" source="images/image9.jpeg"/&gt;
+&lt;/figure&gt;
+A typical hydraulic system with two fluid-filled cylinders, capped with pistons and connected by a tube called a hydraulic line. A downward force F1F1 on the left piston creates a pressure that is transmitted undiminished to all parts of the enclosed fluid. This results in an upward force F2F2 on the right piston that is larger than F1F1 because the right piston has a larger area. 
 </Text>
         </Document>
         <Document ID="9D17C38D-7178-43C2-B30D-FCEDCDDDB94E">
@@ -1153,23 +1166,6 @@ The flow order through these heat exchangers is always from coolest to hottest. 
       &lt;/statement&gt;
    &lt;/choice&gt;
 &lt;/choices&gt;
-</Text>
-        </Document>
-        <Document ID="E90423B5-659A-417E-ABC7-D074377C61A4">
-            <Title>PASCAL’S PRINCIPLE</Title>
-            <Text>PASCAL’S PRINCIPLE 
-A change in pressure applied to an enclosed fluid is transmitted undiminished to all portions of the fluid and to the walls of its container. 
-Pascal’s principle, an experimentally verified fact, is what makes pressure so important in fluids. Since a change in pressure is transmitted undiminished in an enclosed fluid, we often know more about pressure than other physical quantities in fluids. Moreover, Pascal’s principle implies that &lt;em&gt;the total pressure in a fluid is the sum of the pressures from different sources&lt;/em&gt;. We shall find this fact—that pressures add—very useful. 
-Blaise Pascal had an interesting life in that he was home-schooled by his father who removed all of the mathematics textbooks from his house and forbade him to study mathematics until the age of 15. This, of course, raised the boy’s curiosity, and by the age of 12, he started to teach himself geometry. Despite this early deprivation, Pascal went on to make major contributions in the mathematical fields of probability theory, number theory, and geometry. He is also well known for being the inventor of the first mechanical digital calculator, in addition to his contributions in the field of fluid statics. 
-Application of Pascal’s Principle 
-One of the most important technological applications of Pascal’s principle is found in a &lt;em&gt;hydraulic system&lt;/em&gt;, which is an enclosed fluid system used to exert forces. The most common hydraulic systems are those that operate car brakes. Let us first consider the simple hydraulic system shown in &lt;xref ref="one-cubic-inch"/&gt;
-
-&lt;figure xml:id="one-cubic-inch"&gt;
-   &lt;caption&gt;1 cubic inch    A small force can be converted into a larger force when pressure is transmitted through liquids in different containers with pistons that are connected.
-&lt;/caption&gt;
-   &lt;image width="50%" source="images/image9.jpeg"/&gt;
-&lt;/figure&gt;
-A typical hydraulic system with two fluid-filled cylinders, capped with pistons and connected by a tube called a hydraulic line. A downward force F1F1 on the left piston creates a pressure that is transmitted undiminished to all parts of the enclosed fluid. This results in an upward force F2F2 on the right piston that is larger than F1F1 because the right piston has a larger area. 
 </Text>
         </Document>
         <Document ID="997A4ACA-FF05-46BC-B8C0-266CCA4D412C">
@@ -2026,6 +2022,14 @@ Span Adjustment: After setting the zero point, the gauge is subjected to its max
    &lt;image width="30%" source="images/temperature-image3.png"/&gt;
 &lt;/figure&gt;</Text>
         </Document>
+        <Document ID="3117E545-D17B-4424-8D9F-D47B9FC3B2CC">
+            <Title>Dual Scale Gage</Title>
+            <Text>The Dial contains a basic pressure scale and one or more additional concentric scales in equivalent values of a different pressure unit. 
+&lt;figure&gt;
+   &lt;caption&gt;Dual Gauge&lt;/caption&gt;
+   &lt;image width="50%" source="images/image5.jpeg"/&gt;
+&lt;/figure&gt;</Text>
+        </Document>
         <Document ID="5EB14D26-26BA-4355-BF47-25B540862F6E">
             <Title>Time Measuring Instruments</Title>
             <Text>Solar Day and Sundials: One of the earliest methods of measuring time is based on the solar day—the time it takes for the Earth to complete one rotation on its axis relative to the sun. Ancient cultures, such as the Egyptians and Babylonians, observed the motion of the sun's shadow to create sundials. These sundials divided the day into various parts based on the position of the sun. 
@@ -2066,14 +2070,6 @@ Nautical Time: In the past, sailors aboard ships used nautical time to simplify 
 The choice of timekeeping instrument depends on factors such as accuracy requirements, portability, and intended use. Atomic clocks, based on the vibrations of atoms, are among the most accurate timekeeping devices developed to date. 
 The history of time measurement is a fascinating subject, from the ancient sundials to the modern atomic clocks. Today, the most accurate time measurement is based on the behavior of atoms. The definition of a second as the duration of 9,192,631,770 periods of radiation corresponding to the transition between the two hyperfine levels of the ground state of the cesium-133 atom is now the universally accepted standard. It is amazing to think that the behavior of an atom can be used to measure time with such incredible accuracy. 
 </Text>
-        </Document>
-        <Document ID="3117E545-D17B-4424-8D9F-D47B9FC3B2CC">
-            <Title>Dual Scale Gage</Title>
-            <Text>The Dial contains a basic pressure scale and one or more additional concentric scales in equivalent values of a different pressure unit. 
-&lt;figure&gt;
-   &lt;caption&gt;Dual Gauge&lt;/caption&gt;
-   &lt;image width="50%" source="images/image5.jpeg"/&gt;
-&lt;/figure&gt;</Text>
         </Document>
         <Document ID="38B35A89-AE4A-4A73-83F1-5CD4E059D63F">
             <Title>UNIONS</Title>
@@ -2726,7 +2722,6 @@ In terms of statute or land miles, a nautical mile represents 1.15 miles. This i
         </Document>
         <Document ID="226BFB73-24D3-485A-BEAE-0D717A4BA743">
             <Title>Manometers</Title>
-            <Text> </Text>
         </Document>
         <Document ID="D3A69991-48ED-4C86-B3FE-0D351BDF8FE5">
             <Title>Gage Pressure</Title>
@@ -4223,6 +4218,9 @@ Field windings are used to create magnetic field in motors and generators.
 &lt;/figure&gt;
 </Text>
         </Document>
+        <Document ID="DE86183A-E5A6-44AA-8D48-F0F81BA5EA3D">
+            <Title>Vacuum Gauge</Title>
+        </Document>
         <Document ID="43B2DD1B-3FB7-40C9-9FB7-D951A9AC99FD">
             <Title>Symbols</Title>
             <Text>&lt;p&gt;
@@ -4259,9 +4257,6 @@ Off State When no voltage is applied to the gate, the IGBT is in an off state, a
 On State When full voltage is applied to the gate with respect to the emitter, current freely flows from the collector to the emitter. This is the on state of the IGBT, and it can conduct high currents like a closed switch.
 Control State The IGBT can be controlled by applying a variable voltage to the gate. When a positive voltage is applied, it turns on the IGBT, allowing current flow. By adjusting the gate voltage, the IGBT can regulate the current flow.
 </Text>
-        </Document>
-        <Document ID="DE86183A-E5A6-44AA-8D48-F0F81BA5EA3D">
-            <Title>Vacuum Gauge</Title>
         </Document>
         <Document ID="3F88F6D2-A280-4D81-8FE0-01EA2857A310">
             <Title>Introduction</Title>
@@ -9721,8 +9716,6 @@ The superheater elements are normally filled entirely with steam, not water. Sin
         </Document>
         <Document ID="89C89468-D5D1-411E-B857-BF9A811A72E1">
             <Title>Electrical Components</Title>
-            <Text>
-</Text>
         </Document>
         <Document ID="04A2B7DC-0FE6-47C8-B1CD-41CFA9714E15">
             <Title>Frequency</Title>
@@ -11784,22 +11777,21 @@ Electrical phenomena include static electricity, electrical discharges like ligh
 In this chapter we will define some basic electrical concepts and describe some important electrical devices in order to give you a framework to understand how we harness and use electrical power aboard the training ship.
 </Text>
         </Document>
-        <Document ID="53AFDE3C-A21E-4B06-AC16-C47820FBBA77">
-            <Title>exercise</Title>
-            <Text>&lt;statement&gt;
- Water-tube boiler screen tubes protect which of the listed components from high furnace temperatures? 
-&lt;/statement&gt;
-&lt;choices&gt;
- &lt;choice&gt; &lt;statement&gt; Saturated steam tube bank &lt;/statement&gt;
- &lt;/choice&gt;
- &lt;choice&gt; &lt;statement&gt; Superheater tube bank &lt;/statement&gt;
- &lt;/choice&gt;
- &lt;choice&gt; &lt;statement&gt; Water drum &lt;/statement&gt;
- &lt;/choice&gt;
- &lt;choice&gt; &lt;statement&gt; Refractory &lt;/statement&gt;
- &lt;/choice&gt;
-&lt;/choices&gt;
-</Text>
+        <Document ID="91E78655-3EF3-4DA2-A958-4404BF7CF795">
+            <Title>Pressure Units</Title>
+            <Text>There are numerous units of measurement for pressure: 
+US Standard Pressure, pounds per square inch (psi) 
+International (SI) or Metric, pascal or kilo-pascal, Newtons per Meter Squared (kPa) 
+Atmospheric Pressure (atm) 
+Absolute Pressure (psia) 
+Gauge Pressure (psig) 
+Head Pressure (feet) 
+Torr (torr) 
+Bar (Bar) 
+Gauge Vacuum (inHg) 
+Compound Gauge (psig and inHg) 
+Dual Gauge (Multiple Units) 
+Guage for Inches of water (in H20)</Text>
         </Document>
         <Document ID="9CFE450C-8B9C-4788-AF43-2366679242FC">
             <Title>Delta Circuit</Title>
@@ -11825,6 +11817,23 @@ Participate in Training and Drills: All personnel on board the ship must undergo
 Comply with Safety Procedures: The ship must comply with all safety procedures and guidelines outlined in the SMS. This includes following safe working practices, adhering to emergency response plans, and utilizing safety equipment as required.
 Maintain Records: The ship is responsible for maintaining accurate records of safety-related activities, including incidents, inspections, audits, drills, and maintenance activities. These records provide evidence of compliance with the ISM Code.
 &lt;/ul&gt;&lt;/p&gt;</Text>
+        </Document>
+        <Document ID="53AFDE3C-A21E-4B06-AC16-C47820FBBA77">
+            <Title>exercise</Title>
+            <Text>&lt;statement&gt;
+ Water-tube boiler screen tubes protect which of the listed components from high furnace temperatures? 
+&lt;/statement&gt;
+&lt;choices&gt;
+ &lt;choice&gt; &lt;statement&gt; Saturated steam tube bank &lt;/statement&gt;
+ &lt;/choice&gt;
+ &lt;choice&gt; &lt;statement&gt; Superheater tube bank &lt;/statement&gt;
+ &lt;/choice&gt;
+ &lt;choice&gt; &lt;statement&gt; Water drum &lt;/statement&gt;
+ &lt;/choice&gt;
+ &lt;choice&gt; &lt;statement&gt; Refractory &lt;/statement&gt;
+ &lt;/choice&gt;
+&lt;/choices&gt;
+</Text>
         </Document>
         <Document ID="9F6889D7-357E-45EA-BD9F-A0088EB67BC6">
             <Title>exercise</Title>
@@ -11872,22 +11881,6 @@ Brushless exciters use solid-state devices, such as diodes, thyristors, and tran
 &lt;/figure&gt;
 The excitation system used aboard the training ship is shown in &lt;xref ref="excitation_system_schematic"/&gt;.  This system is categorized as a brushless and self-excited.  The main components include the the exciter generator and rotating diodes, the pilot generator, and the voltage regulator, each of which will be discussed in the following sections.
 </Text>
-        </Document>
-        <Document ID="91E78655-3EF3-4DA2-A958-4404BF7CF795">
-            <Title>Pressure Units</Title>
-            <Text>There are numerous units of measurement for pressure: 
-US Standard Pressure, pounds per square inch (psi) 
-International (SI) or Metric, pascal or kilo-pascal, Newtons per Meter Squared (kPa) 
-Atmospheric Pressure (atm) 
-Absolute Pressure (psia) 
-Gauge Pressure (psig) 
-Head Pressure (feet) 
-Torr (torr) 
-Bar (Bar) 
-Gauge Vacuum (inHg) 
-Compound Gauge (psig and inHg) 
-Dual Gauge (Multiple Units) 
-Guage for Inches of water (in H20)</Text>
         </Document>
         <Document ID="61A8C683-4946-4C3B-8F3C-EC5712792CC0">
             <Title>Power</Title>
@@ -12558,10 +12551,6 @@ The furnace is the space inside the boiler where combustion occurs. Heat loss fr
 Partial Vacuum gauge pressure measurements require conversions which will be discussed in the following sections. 
 </Text>
         </Document>
-        <Document ID="43747D63-F976-4166-99E2-CF7C29A9B2A1">
-            <Title>introduction</Title>
-            <Text>The control of a diesel engine is accomplished through several components: the camshaft, the fuel injector pump, fuel injector and the governor. The camshaft provides the timing needed to properly inject the fuel, the fuel injector pump provides the components that meters and injects the fuel, and the governor regulates the amount of fuel that the injector is to inject. Together, these three major components ensure that the engine runs at the desired speed.</Text>
-        </Document>
         <Document ID="805D2940-743A-4ADC-ACBC-B42E482792FA">
             <Title>Pressure Conversions </Title>
             <Text>Gauge to Absolute Pressure Conversions 
@@ -12595,6 +12584,10 @@ Convert 122 kPa to psi.
 Convert 35 psig to kPa 
 35 psig + 14.7 psia = 49.7 psia 
 49.7 psia x \frac{101.325kPa}{14.7psia} = 343 kPa</Text>
+        </Document>
+        <Document ID="43747D63-F976-4166-99E2-CF7C29A9B2A1">
+            <Title>introduction</Title>
+            <Text>The control of a diesel engine is accomplished through several components: the camshaft, the fuel injector pump, fuel injector and the governor. The camshaft provides the timing needed to properly inject the fuel, the fuel injector pump provides the components that meters and injects the fuel, and the governor regulates the amount of fuel that the injector is to inject. Together, these three major components ensure that the engine runs at the desired speed.</Text>
         </Document>
         <Document ID="DE874D11-C7EF-4EE4-AEC4-705682EAE532">
             <Title>Electrical Hazards</Title>
@@ -12683,7 +12676,6 @@ The refractory materials are held in position with anchor bolts which are connec
         </Document>
         <Document ID="1AE6A427-21D9-471F-A7B1-C8AB4C92DB9F">
             <Title>Guage pressure</Title>
-            <Text> </Text>
         </Document>
         <Document ID="EDAD5B65-7C31-489A-A044-3CA0B29E6D67">
             <Title>Unit Conversions</Title>
@@ -13827,12 +13819,6 @@ These are just a few examples of how mathematics can be used to find area, and t
             <Title>Timing</Title>
             <Text>In addition to measuring the amount of fuel injected, the system must properly time the injection to ensure efficient combustion so that maximum energy can be obtained from the fuel. When fuel is injected too early into the cylinder, it may cause the engine to detonate and lose power, and have low exhaust temperatures. If the fuel is injected late into the cylinder, it will cause the engine to have high exhaust temperatures, smoky exhaust, and a loss of power. In both situations, fuel economy will be low and fuel consumption will be high.</Text>
         </Document>
-        <Document ID="0675DD9F-DE70-48FE-8589-6980F6ECECA8">
-            <Title>Tee Fittings</Title>
-            <Text>Equal Tee
-Reducing Tee
-Barred Tee (Branching Tee)</Text>
-        </Document>
         <Document ID="129AFEAA-2A72-44BD-90D9-02309E149194">
             <Title>PASCAL’S PRINCIPLE</Title>
             <Text>PASCAL’S PRINCIPLE 
@@ -13849,6 +13835,12 @@ One of the most important technological applications of Pascal’s principle is 
 &lt;/figure&gt;
 A typical hydraulic system with two fluid-filled cylinders, capped with pistons and connected by a tube called a hydraulic line. A downward force F1F1 on the left piston creates a pressure that is transmitted undiminished to all parts of the enclosed fluid. This results in an upward force F2F2 on the right piston that is larger than F1F1 because the right piston has a larger area. 
 </Text>
+        </Document>
+        <Document ID="0675DD9F-DE70-48FE-8589-6980F6ECECA8">
+            <Title>Tee Fittings</Title>
+            <Text>Equal Tee
+Reducing Tee
+Barred Tee (Branching Tee)</Text>
         </Document>
         <Document ID="74D7577F-FD05-4D15-AA0E-AE0767126FEC">
             <Title>Example Problem</Title>
@@ -13923,7 +13915,6 @@ A pipe plug is a fitting to close or seal the end of a pipe. A plug has male thr
         </Document>
         <Document ID="610E74CC-4248-4120-BD83-1AEE763C8BAC">
             <Title>Speed and Velodity</Title>
-            <Text> </Text>
         </Document>
         <Document ID="A151F21E-9DB0-4A2E-8CC0-F258638E7524">
             <Title>introduction</Title>
@@ -14364,9 +14355,6 @@ Because the source of the excitation in this generator is from permanent magnets
         <Document ID="534F4FEC-08D7-4A09-9CDB-57734D04C534">
             <Title>flow measurement</Title>
         </Document>
-        <Document ID="1AEEB279-493C-4CDA-831C-E018EB6A9456">
-            <Title>General Pump Classifications</Title>
-        </Document>
         <Document ID="31A62823-3B54-49A7-B0CA-37D77A186AC7">
             <Title>Switchboards and Load centers</Title>
             <Text>A switchboard is an electrical enclosure containing the equipment that monitors, controls, protects, and distributes electrical power. It divides the electrical system into separate circuits and provides a central point from which electrical power can be managed and routed to different areas or equipment.
@@ -14386,6 +14374,9 @@ The NSMV power distribution system consists of the following: &lt;ul&gt;
 24 Lighting distribution boards (120V), provide the majority of ship’s lighting and outlets.
 13 Emergency Lighting distribution boards (120V), supply the &lt;q&gt;E&lt;/q&gt; lights which sufficient lighting to safely evacuate the ship in an emergency.
 &lt;/ul&gt;&lt;/p&gt;</Text>
+        </Document>
+        <Document ID="1AEEB279-493C-4CDA-831C-E018EB6A9456">
+            <Title>General Pump Classifications</Title>
         </Document>
         <Document ID="57A37EBA-A19C-44C1-8561-CE3342A110C8">
             <Title>Elbow Fittings</Title>
@@ -14513,7 +14504,6 @@ Note that we used the conversion &lt;me&gt;\N{1} = 1 \mathrm{kg\ m}/\mathrm{s}^2
         </Document>
         <Document ID="A967A6F0-8B50-46E6-9D05-B62A1078AC5B">
             <Title>in Hg to psi conversion</Title>
-            <Text> </Text>
         </Document>
         <Document ID="BEEA511A-C355-47FD-A22F-D44ABF912F5F">
             <Title>DC Power</Title>
@@ -14874,15 +14864,15 @@ Mechanical hazards can be managed by adopting safe work procedures and the appli
             <Text>Pipe or tubing alone does not constitute a piping system. To make the pipe or tubing into a system, the various components of the complete system must be connected together.  
 A number of different methods are available for making these pipe connections.  Some common connection methods are described below.</Text>
         </Document>
-        <Document ID="BEA6B4B6-7D1B-4EF0-8D30-B2F593BF6D1C">
-            <Title>Inertia</Title>
-            <Text>Mass is a measure of an object's resistance to changes in its motion. The greater the mass, the more force is required to change its state of motion (i.e., to accelerate it).  This relation is expressed by Newton's Second law of motion: &lt;me&gt;F = ma &lt;/me&gt;.</Text>
-        </Document>
         <Document ID="670935E1-07DF-4CD4-AF5D-7521F1888A7F">
             <Title>Atmospheric Pressure (psia)</Title>
             <Text>Atmospheric pressure, as stated earlier, is specific to elevation. Air, which is all around you, has weight, and it presses against everything it touches. That pressure is called atmospheric pressure, or air pressure. It is the force exerted on a surface by the air above it as gravity pulls it to Earth. Atmospheric pressure is the pressure exerted by the Earth's atmosphere at a given location. For example, standard atmospheric pressure at sea level is 760mmHg, 14.7 psia or 101.325 kPa. In Denver, Colorado, atmospheric pressure 12.4 psi or about 84.0 kPa, and in Death Valley, California it is 14.9 psi or 102.6 kPa. 
 Atmospheric pressure is commonly measured with a barometer. 
 One Atmosphere at Sea Level = 14.7 psi, 101.325 kPa and 760 mmHg (1 Torr).</Text>
+        </Document>
+        <Document ID="BEA6B4B6-7D1B-4EF0-8D30-B2F593BF6D1C">
+            <Title>Inertia</Title>
+            <Text>Mass is a measure of an object's resistance to changes in its motion. The greater the mass, the more force is required to change its state of motion (i.e., to accelerate it).  This relation is expressed by Newton's Second law of motion: &lt;me&gt;F = ma &lt;/me&gt;.</Text>
         </Document>
         <Document ID="2B8604CB-F91A-4D3F-96BD-EC80DA4DD23C">
             <Text>The problem supplies the weight  &lt;me&gt;w = \N{150}&lt;/me&gt; and its location, Earth, which has a gravitational acceleration of &lt;me&gt;g = \aSI{9.8}&lt;/me&gt;. 
@@ -15212,11 +15202,6 @@ A-Intake valve Opening, B- Exhaust Valve Closing, C- Exhaust Valve Opening, D- I
         <Document ID="D1AFC683-3074-467D-A83E-789F1CC63924">
             <Title>Pressure Scales</Title>
         </Document>
-        <Document ID="16973B43-CD05-43B5-A3FC-BB216B24FB0A">
-            <Title>introduction</Title>
-            <Text>Pipe fittings are the parts used to join pipe sections together with other system components like valves and pumps to build complete piping systems.
-As discussed in &lt;xref ref="pipe-connections"/&gt;, pipe fittings may be welded,  threaded, mechanically joined, or chemically adhered, to name the most common mechanisms, depending on the material of the pipe.  Some of the most common pipe fittings are described in the following sections.  The photos show threaded iron fittings, but similar fittings are available for other materials and connection methods.</Text>
-        </Document>
         <Document ID="D4183644-2A98-4FC8-A547-DFCB23CB08C8">
             <Text>----
 Gauge to Absolute Pressure Conversions 
@@ -15235,6 +15220,11 @@ Absolute Pressure = &lt;em&gt;P&lt;/em&gt;
 
 Absolute Pressure = 14.7 psia + 100 psig 
 Absolute Pressure = 114.7 psia</Text>
+        </Document>
+        <Document ID="16973B43-CD05-43B5-A3FC-BB216B24FB0A">
+            <Title>introduction</Title>
+            <Text>Pipe fittings are the parts used to join pipe sections together with other system components like valves and pumps to build complete piping systems.
+As discussed in &lt;xref ref="pipe-connections"/&gt;, pipe fittings may be welded,  threaded, mechanically joined, or chemically adhered, to name the most common mechanisms, depending on the material of the pipe.  Some of the most common pipe fittings are described in the following sections.  The photos show threaded iron fittings, but similar fittings are available for other materials and connection methods.</Text>
         </Document>
         <Document ID="9C23C44B-171B-44E2-A34A-CC86D60665E0">
             <Title>By Displacement Characteristics</Title>
@@ -15834,7 +15824,6 @@ The material chosen for a pipe depends on factors such as the fluid being transp
         </Document>
         <Document ID="B9B5196F-CBAA-4527-8718-6AB5F0188B9D">
             <Title> Torque </Title>
-            <Text> </Text>
         </Document>
         <Document ID="EEC1189A-9DA8-4823-8994-A809EA63A03D">
             <Title>Reciprocating Pumps</Title>
@@ -15862,8 +15851,6 @@ Reciprocating pumps are classified as positive displacement, self-priming and mo
         </Document>
         <Document ID="86E448C7-AB0D-4824-9745-BF3635EA332E">
             <Title>Fundamental Concepts</Title>
-            <Text>
-</Text>
         </Document>
         <Document ID="4BF3E8A7-1793-4614-B525-2AF0F6F34BB4">
             <Title>conclusion</Title>
@@ -16439,10 +16426,6 @@ These units supply clean air directly to the user from a source other than the a
    &lt;/ul&gt;&lt;/p&gt;
 </Text>
         </Document>
-        <Document ID="428DCEE5-FF99-4F91-B9D8-DF34A8412F99">
-            <Title>introduction</Title>
-            <Text>Circuit faults or malfunctions can usually be grouped into one of the following categories:</Text>
-        </Document>
         <Document ID="D663EA3E-123E-44A1-817A-0A6BE7738AC2">
             <Title>Gauge; Inches of Water</Title>
             <Text>The units are conventionally used for measurement of certain pressure differentials such as small pressure differences across an orifice. 
@@ -16450,6 +16433,10 @@ These units supply clean air directly to the user from a source other than the a
    &lt;caption&gt;Inches of water Gauge&lt;/caption&gt;
    &lt;image width="50%" source="images/image7.jpeg"/&gt;
 &lt;/figure&gt;</Text>
+        </Document>
+        <Document ID="428DCEE5-FF99-4F91-B9D8-DF34A8412F99">
+            <Title>introduction</Title>
+            <Text>Circuit faults or malfunctions can usually be grouped into one of the following categories:</Text>
         </Document>
         <Document ID="698A1138-1449-4699-9ADD-B9610C2CBF19">
             <Title>Voltage testers</Title>
@@ -21822,19 +21809,19 @@ In the engine room, particular hazards include high temperatures and moving mach
             <Text>Construction History:  design started, keel laid, ship launched, ship delivered, first cruise,$300 million cost, Philly shipyard, TOTE services.
 </Text>
         </Document>
-        <Document ID="0E5E7548-42EC-4800-8E3A-5A5AE46483EE">
-            <Title>exercise</Title>
-            <Text>&lt;statement&gt; Which of the devices listed is used to convert thermal energy to useful mechanical work? 
-&lt;/statement&gt;
-&lt;choices&gt; &lt;choice correct="yes"&gt; &lt;statement&gt; Turbine  &lt;/statement&gt; &lt;/choice&gt; &lt;choice&gt; &lt;statement&gt; Condenser  &lt;/statement&gt; &lt;/choice&gt; &lt;choice&gt; &lt;statement&gt; Air ejector  &lt;/statement&gt; &lt;/choice&gt; &lt;choice&gt; &lt;statement&gt; Each of the above  &lt;/statement&gt; &lt;/choice&gt;
-&lt;/choices&gt;
-</Text>
-        </Document>
         <Document ID="4C265676-35F7-47B2-9D79-DFF21E79CFCF">
             <Title>exercise</Title>
             <Text>&lt;statement&gt; Heat which brings about a change in the physical state of a substance without a change in temperature, is called ______. 
 &lt;/statement&gt;
 &lt;choices&gt; &lt;choice&gt; &lt;statement&gt; specific heat  &lt;/statement&gt; &lt;/choice&gt; &lt;choice&gt; &lt;statement&gt; sensible heat  &lt;/statement&gt; &lt;/choice&gt; &lt;choice correct="yes"&gt; &lt;statement&gt; latent heat  &lt;/statement&gt; &lt;/choice&gt; &lt;choice&gt; &lt;statement&gt; ambient heat  &lt;/statement&gt; &lt;/choice&gt;
+&lt;/choices&gt;
+</Text>
+        </Document>
+        <Document ID="0E5E7548-42EC-4800-8E3A-5A5AE46483EE">
+            <Title>exercise</Title>
+            <Text>&lt;statement&gt; Which of the devices listed is used to convert thermal energy to useful mechanical work? 
+&lt;/statement&gt;
+&lt;choices&gt; &lt;choice correct="yes"&gt; &lt;statement&gt; Turbine  &lt;/statement&gt; &lt;/choice&gt; &lt;choice&gt; &lt;statement&gt; Condenser  &lt;/statement&gt; &lt;/choice&gt; &lt;choice&gt; &lt;statement&gt; Air ejector  &lt;/statement&gt; &lt;/choice&gt; &lt;choice&gt; &lt;statement&gt; Each of the above  &lt;/statement&gt; &lt;/choice&gt;
 &lt;/choices&gt;
 </Text>
         </Document>
@@ -22687,8 +22674,6 @@ Head injuries are caused by falling or flying objects, or by bumping your head a
         </Document>
         <Document ID="72618669-6F5E-436C-BFD8-44D905BCED0B">
             <Title>Pipe Fittings</Title>
-            <Text>
-</Text>
         </Document>
         <Document ID="15B6D460-608A-48C9-94B3-88A197779B22">
             <Title>Introduction</Title>
@@ -25089,7 +25074,6 @@ Understanding the concept of power and its measurement is vital in your journey 
         </Document>
         <Document ID="96072CFD-D310-4AE7-B2C8-38152766E737">
             <Title>Barometer</Title>
-            <Text> </Text>
         </Document>
         <Document ID="07AD1099-F9DB-4BF3-9592-EE067D838FA8">
             <Text>TBD</Text>
@@ -25161,6 +25145,14 @@ As the valve is opened by the camshaft, it compresses the valve spring. The ener
 The camshaft is driven by the engine's crankshaft through a series of gears called idler gears and timing gears. The gears allow the rotation of the camshaft to correspond or be in time with, the rotation of the crankshaft and thereby allows the valve opening, valve closing, and injection of fuel to be timed to occur at precise intervals in the piston's travel. To increase the flexibility in timing the valve opening, valve closing, and injection of fuel, and to increase power or to reduce cost, an engine may have one or more camshafts. Typically, in a medium to large V-type engine, each bank will have one or more camshafts per head. In the larger engines, the intake valves, exhaust valves, and fuel injectors may share a common camshaft or have independent camshafts. 
 Depending on the type and make of the engine, the location of the camshaft or shafts varies. The camshaft(s) in an in-line engine is usually found either in the head of the engine or in the top of the block running down one side of the cylinder bank. Figure 10 provides an example of an engine with the camshaft located on the side of the engine. Figure 3 provides an example of an overhead cam arrangement as on a V-type engine. On small or mid-sized V-type engines, the camshaft is usually located in the block at the center of the "V" between the two banks of cylinders. In larger or multi-cam shafted V- type engines, the camshafts are usually located in the heads.</Text>
         </Document>
+        <Document ID="F9ED553E-195A-4774-821F-950C14F6639A">
+            <Title>Gauge; Inches of Water</Title>
+            <Text>The units are conventionally used for measurement of certain pressure differentials such as small pressure differences across an orifice. 
+&lt;figure&gt;
+   &lt;caption&gt;Inches of water Gauge&lt;/caption&gt;
+   &lt;image width="50%" source="images/image7.jpeg"/&gt;
+&lt;/figure&gt;</Text>
+        </Document>
         <Document ID="206FAC30-97D3-4070-B164-3DA231233971">
             <Title>The Generation of Steam</Title>
             <Text>When a liquid boils, it generates a vapor, that is, some or all of the liquid changes its physical state from liquid to gas (or vapor). As long as the vapor is in contact with the liquid from which it is being generated, it remains at the same temperature as the boiling liquid. In this condition, the liquid and its vapor are said to be in &lt;em&gt;equilibrium contact&lt;/em&gt; with each other. 
@@ -25174,14 +25166,6 @@ Although it is impossible to raise the temperature of the steam in the steam dru
 All ship’s propulsion boilers are equipped with superheaters. The primary advantage is that superheating the steam provides a greater temperature differential between the boiler and the condenser, thus allowing more heat to be converted to work at the turbines. Another advantage is that superheated steam is dry and therefore causes relatively little corrosion or erosion of machinery and piping. Also, superheated steam does not conduct heat as rapidly (and therefore does not lose heat as rapidly) as saturated steam. The increased efficiency which results from the use of superheated steam reduces the amount of fuel oil required to generate each pound of steam, and so reduces the space and weight requirements for the boilers. 
 It should be noted, however, that most auxiliary machinery is designed to operate on saturated steam. Reciprocating machinery in particular requires saturated steam for the lubrication of internal moving parts of the steam end. Ship’s boilers, therefore, are designed to produce both saturated steam and superheated steam. 
 </Text>
-        </Document>
-        <Document ID="F9ED553E-195A-4774-821F-950C14F6639A">
-            <Title>Gauge; Inches of Water</Title>
-            <Text>The units are conventionally used for measurement of certain pressure differentials such as small pressure differences across an orifice. 
-&lt;figure&gt;
-   &lt;caption&gt;Inches of water Gauge&lt;/caption&gt;
-   &lt;image width="50%" source="images/image7.jpeg"/&gt;
-&lt;/figure&gt;</Text>
         </Document>
         <Document ID="F186F231-79C3-492D-BCFA-2F03DA63D898">
             <Title>Dangers</Title>

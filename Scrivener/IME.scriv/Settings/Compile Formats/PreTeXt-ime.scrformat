@@ -2791,9 +2791,12 @@
         </PandocSettings>
     </EBookSettings>
     <PostProcessing Enabled="Yes" Type="Script">
-        <Script><![CDATA[(java -cp /Applications/saxon/saxon-he-12.5.jar net.sf.saxon.Transform -xsl:/Users/whaynes/ptx/ime/Scrivener/scriv2ptx/scriv2ptx.xsl -o:ime.ptx -s:ime.xml && 
-osascript -e 'display notification "Export Success" with title "Scriv2PTX"' &&
-cd ~/ptx/ime && ~/.pyenv/shims/pretext build ) ]]></Script>
+        <Script><![CDATA[(~/.local/bin/ptx-format -c config-format < ime.xml > ime.fmt && 
+java -cp /Applications/saxon/saxon-he-12.5.jar net.sf.saxon.Transform -xsl:/Users/whaynes/ptx/ime/Scrivener/scriv2ptx/scriv2ptx.xsl -o:ime.ptx -s:ime.fmt && osascript -e 'display notification "Export Success" with title "Scriv2PTX"' && 
+mv ime.fmt ime.xml && 
+cd ~/ptx/ime && ~/.pyenv/shims/pretext build &&
+osascript -e 'display notification "Build Success" with title "Scriv2PTX"'
+) ]]></Script>
         <Env>/Users/whaynes/.rbenv/shims:</Env>
     </PostProcessing>
 </CompileFormat>
