@@ -3,7 +3,7 @@ import fnmatch
 import os
 import shutil
 
-images = ['*.pdf', '*.png', '*.jpg', '*.jpeg', '*.svg', '*.ggb']
+images = ['*.pdf', '*.png', '*.jpg', '*.jpeg', '*.svg', '*.ggb', '*.gif']
 # these command line arguments are set by the makefile
 resource_dir = "source/resources"  #(RESOURCES)
 external_dir = "output/assets"  #(EXTERNAL)

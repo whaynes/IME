@@ -4,16 +4,16 @@
   <xi:include href="docinfo.ptx"/>
   <book>
     <title>Introduction to Marine Engineering</title>
-    <xi:include href="frontmatter.ptx"/>
+ <!--   <xi:include href="frontmatter.ptx"/>
     <xi:include href="safety.ptx"/>
     <xi:include href="engineering-measurement.ptx"/>
     <xi:include href="thermodynamics.ptx"/>
     <xi:include href="electricity.ptx"/>
     <xi:include href="piping-systems.ptx"/>
-    <xi:include href="diesel-power.ptx"/>
-    <xi:include href="steam-propulsion.ptx"/>
+-->    <xi:include href="diesel-power.ptx"/>
+<!--    <xi:include href="steam-propulsion.ptx"/>
     <xi:include href="Electric-propulsion.ptx"/>
     <xi:include href="auxiliary-systems.ptx"/>
     <xi:include href="TSPS.ptx"/>
-  </book>
+-->  </book>
 </pretext>
