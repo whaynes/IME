@@ -31,7 +31,7 @@ pretext build print --clean
 
 ### Deploying
 
-To preview how this book will appear upon a deploy to [https://whaynes.github.io/IME/]():
+To preview how this book will appear upon a deploy to [https://whaynes.github.io/IME/frontmatter.html]():
 
 ```bash
 rm -rf output/stage # to remove cached files
