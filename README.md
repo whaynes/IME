@@ -39,7 +39,7 @@ pretext deploy --stage-only
 pretext view # open /output/stage in your browser
 ```
 
-To deploy updates to [https://whaynes.github.io/IME/](https://whaynes.github.io/whaynes/IME/):
+To deploy updates to [https://whaynes.github.io/IME/](https://whaynes.github.io/IME/):
 
 ```bash
 ## after adding/commiting everything with Git
