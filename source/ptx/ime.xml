@@ -28,10 +28,16 @@
 </ul></p>
 <p>During the cycle, ignition occurs when fuel is injected into the air charge heated by compression to a temperature greater than the ignition point of the fuel.  The chemical reaction of burning the fuel liberates heat which causes the gases to expand and force the piston down, creating torque to rotate the crankshaft and drive the load. </p>
 </stack>
-<figure>
-<caption>Four-stroke Cycle</caption>
-<image source="images/Diesel_Engine_(4_cycle_running).gif"/>
-</figure>
+        <figure>
+          <caption>Four-stroke Cycle</caption>
+          <interactive aspect="1:2" platform="javascript" preview="images/Diesel_Engine_(4_cycle_running)">
+            <slate surface="pretext" >
+              <sidebyside>
+               <image source="images/Diesel_Engine_(4_cycle_running).gif"/>
+              </sidebyside>
+            </slate>
+          </interactive>
+        </figure>
 </sidebyside>
 <p>All diesel engines fall into one of two categories, <term>two-stroke</term> or <term>four-stroke</term> engines. In the case of a four-stroke cycle engine, the engine requires four strokes of the piston (down, up, down, up) to complete one full cycle. Therefore, it requires two rotations of the crankshaft, or 720° of crankshaft rotation to complete one cycle.  In a two-stroke cycle engine all the cycle's events occur in just one rotation of the crankshaft, or 360°.</p>
 </introduction>

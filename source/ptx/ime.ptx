@@ -31,7 +31,11 @@
             </stack>
             <figure>
               <caption>Four-stroke Cycle</caption>
-              <image source="images/Diesel_Engine_(4_cycle_running).gif" />
+              <interactive aspect="1:2" platform="javascript" preview="images/Diesel_Engine_(4_cycle_running)">
+                <slate surface="pretext">                <sidebyside>
+                               <image source="images/Diesel_Engine_(4_cycle_running).gif">                </image>
+                </sidebyside>                </slate>
+              </interactive>
             </figure>
           </sidebyside>
           <p>All diesel engines fall into one of two categories, <term>two-stroke</term> or <term>four-stroke</term> engines. In the case of a four-stroke cycle engine, the engine requires four strokes of the piston (down, up, down, up) to complete one full cycle. Therefore, it requires two rotations of the crankshaft, or 720° of crankshaft rotation to complete one cycle.  In a two-stroke cycle engine all the cycle's events occur in just one rotation of the crankshaft, or 360°.</p>
