@@ -2630,7 +2630,7 @@
     </TitleLinks>
     <Layout>
         <DocumentPrefix><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
-<!-- intermediate copy. Process with scriv2ptx.xslt -->
+<?xml-model href="../xsl/weh-pretext.rnc" type="application/relax-ng-compact-syntax"?>
 <pretext xmlns:xi="http://www.w3.org/2001/XInclude">
 <xi:include href="docinfo.ptx"/>
 <book >
@@ -2791,9 +2791,9 @@
         </PandocSettings>
     </EBookSettings>
     <PostProcessing Enabled="Yes" Type="Script">
-        <Script><![CDATA[(~/.local/bin/ptx-format -c config-format < ime.xml > ime.fmt && 
-java -cp /Applications/saxon/saxon-he-12.5.jar net.sf.saxon.Transform -xsl:/Users/whaynes/ptx/ime/Scrivener/scriv2ptx/scriv2ptx.xsl -o:ime.ptx -s:ime.fmt && osascript -e 'display notification "Export Success" with title "Scriv2PTX"' && 
-mv ime.fmt ime.xml && 
+        <Script><![CDATA[(~/.local/bin/ptx-format -c config-format < ime.xml > ime.ptx &&
+java -cp /Applications/saxon/saxon-he-12.5.jar net.sf.saxon.Transform -xsl:/Users/whaynes/ptx/ime/Scrivener/scriv2ptx/scriv2ptx.xsl -s:ime.ptx -o:temp.ptx && osascript -e 'display notification "Export Success" with title "Scriv2PTX"' && 
+rm temp.ptx &&
 cd ~/ptx/ime && ~/.pyenv/shims/pretext build &&
 osascript -e 'display notification "Build Success" with title "Scriv2PTX"'
 ) ]]></Script>
