@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="9CEE092B-52A4-40FD-A463-60A47C53A797" Version="2.0" Creator="SCRMAC-3.3.6-16305" Device="whaynes-MBP" Author="" Modified="2024-08-15 14:45:54 -0400" ModID="DF45D113-DD06-4442-8611-5630156E249A">
+<ScrivenerProject Identifier="9CEE092B-52A4-40FD-A463-60A47C53A797" Version="2.0" Creator="SCRMAC-3.3.6-16305" Device="whaynes-MBP" Author="" Modified="2024-08-15 18:41:15 -0400" ModID="E80ED32D-1EB9-4697-9072-782FC7F4C567">
     <Binder>
         <BinderItem UUID="7A583553-3A84-40D6-B9B9-0430B8CD3E39" Type="DraftFolder" Created="2023-05-29 09:45:48 -0400" Modified="2023-05-29 09:45:48 -0400">
             <Title>Draft</Title>
@@ -2589,7 +2589,7 @@
                                                 </BinderItem>
                                             </Children>
                                         </BinderItem>
-                                        <BinderItem UUID="1AE6A427-21D9-471F-A7B1-C8AB4C92DB9F" Type="Folder" Created="2024-07-17 15:03:14 -0400" Modified="2024-07-17 16:16:12 -0400">
+                                        <BinderItem UUID="1AE6A427-21D9-471F-A7B1-C8AB4C92DB9F" Type="Folder" Created="2024-07-17 15:03:14 -0400" Modified="2024-08-15 18:41:00 -0400">
                                             <Title>Guage pressure</Title>
                                             <MetaData>
                                                 <SectionType>377EE401-2EDE-4A95-A5D9-961DF245887A</SectionType>
@@ -5628,7 +5628,7 @@
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>1002,0</TextSelection>
+                                        <TextSelection>1235,49</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="128B4AC0-E0F0-496B-85AB-1F613FBBFEF2" Type="Folder" Created="2024-04-27 19:59:33 -0400" Modified="2024-08-11 11:56:42 -0400">
@@ -12751,11 +12751,11 @@ US Standard System (psi)
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 08:24:39 -0400" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2024-08-16 01:00:00 -0400" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="-50" Characters="-100" Date="2024-08-15 13:52:42 -0400"/>
+        <PreviousSession Words="-50" Characters="-101" Date="2024-08-15 13:52:42 -0400"/>
     </ProjectTargets>
     <RecentWritingHistory Date="2024-08-15 00:00:00 -0400">
         <DraftWordCount>-50</DraftWordCount>
-        <DraftCharCount>-100</DraftCharCount>
+        <DraftCharCount>-101</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
