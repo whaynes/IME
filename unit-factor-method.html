@@ -89,7 +89,7 @@ window.MathJax = {
 <link href="_static/pretext/css/toc_default.css" rel="stylesheet" type="text/css">
 <link href="_static/pretext/css/knowls_default.css" rel="stylesheet" type="text/css">
 <link href="_static/pretext/css/style_default.css" rel="stylesheet" type="text/css">
-<link href="_static/pretext/css/colors_default.css" rel="stylesheet" type="text/css">
+<link href="_static/pretext/css/colors_mma_gold.css" rel="stylesheet" type="text/css">
 <link href="_static/pretext/css/setcolors.css" rel="stylesheet" type="text/css">
 <link rel="stylesheet" type="text/css" href="external/css/weh-ime.css">
 <style>
@@ -357,7 +357,7 @@ window.MathJax = {
 </ul>
 </li>
 <li class="toc-item toc-section">
-<div class="toc-title-box"><a href="engineering-measurement-torque-.html" class="internal"><span class="codenumber">2.5</span> <span class="title">Torque</span></a></div>
+<div class="toc-title-box"><a href="engineering-measurement-torque.html" class="internal"><span class="codenumber">2.5</span> <span class="title">Torque</span></a></div>
 <ul class="structural toc-item-list">
 <li class="toc-item toc-subsection"><div class="toc-title-box"><a href="engineering-measurement-magnitude-and-direction.html" class="internal"><span class="codenumber">2.5.1</span> <span class="title">Magnitude and Direction</span></a></div></li>
 <li class="toc-item toc-subsection"><div class="toc-title-box"><a href="engineering-measurement-types-of-torque.html" class="internal"><span class="codenumber">2.5.2</span> <span class="title">Types of Torque</span></a></div></li>
@@ -749,16 +749,16 @@ window.MathJax = {
 <main class="ptx-main"><div id="ptx-content" class="ptx-content"><section class="subsection" id="unit-factor-method"><h2 class="heading hide-type">
 <span class="type">Subsection</span><span class="space"> </span><span class="codenumber">2.1.1</span><span class="space"> </span><span class="title">Unit-factor Method</span>
 </h2>
-<div class="para" id="unit-factor-method-2">The <dfn class="terminology">unit-factor method</dfn> or the <dfn class="terminology">unity bracket method</dfn> is a widely used method for unit conversions using the rules of algebra. This method utilizes the fact that any number or expression can be multiplied by one (unity) without changing its value.  The advantage of this method is that it explicitly accounts for units, rather than treating a conversion factor as a <em class="emphasis">magic number</em>.</div>
-<div class="para" id="unit-factor-method-3">To use this method, conversion factors are expressed as fraction equal to <em class="emphasis">one</em>, and multiplied against the original value while keeping careful track of the units in each term. Multiplying a value by a unit-factor and canceling any dimensional units appearing in both the numerator and denominator will express the original quantity in different units.</div>
+<div class="para" id="unit-factor-method-2">The <dfn class="terminology">unit-factor method</dfn> or the <dfn class="terminology">unity bracket method</dfn> is a widely used method for unit conversions using the rules of algebra. This method utilizes the fact that any number or expression can be multiplied by one (unity) without changing its value.  The advantage of this method is that it explicitly accounts for units, rather than treating a conversion factor as a <em class="emphasis">magic number</em> .</div>
+<div class="para" id="unit-factor-method-3">To use this method, conversion factors are expressed as fraction equal to <em class="emphasis">one</em> , and multiplied against the original value while keeping careful track of the units in each term. Multiplying a value by a unit-factor and canceling any dimensional units appearing in both the numerator and denominator will express the original quantity in different units.</div>
 <div class="para logical" id="unit-factor-method-4">
-<div class="para">For example, since <span class="process-math">\(\inch{1} = \cm{2.54}\text{,}\)</span> dividing both sides by <span class="process-math">\(\inch{1}\)</span> inch gives the unit-factor</div>
+<div class="para">For example, since <span class="process-math">\(\inch{1} = \cm{2.54}\)</span> , dividing both sides by <span class="process-math">\(\inch{1}\)</span> inch gives the unit-factor</div>
 <div class="displaymath process-math">
 \begin{equation*}
-1 = \left[\frac{\cm{2.54}}{\inch{1}}\right]\text{.}
+1 = \left[\frac{\cm{2.54}}{\inch{1}}\right]
 \end{equation*}
 </div>
-<div class="para">The fraction bar in this term can be read as “per”, so this unit-factor says that there are “2.54 centimeters per inch”.</div>
+<div class="para">.  The fraction bar in this term can be read as “per” , so this unit-factor says that there are “2.54 centimeters per inch” .</div>
 </div>
 <div class="para" id="unit-factor-method-5">To convert <span class="process-math">\(36\)</span> inches to cm, just multiply by <span class="process-math">\(36\)</span> inches by the appropriate unit-factor, and cancel the inch units that appear in both the numerator and denominator.</div>
 <div class="para logical" id="unit-factor-method-6"><div class="displaymath process-math">
@@ -772,25 +772,25 @@ window.MathJax = {
 \cm{100}  \times \left[\frac{\inch{1}}{\cm{2.54} }\right] =  100 \cancel{\text{ cm}} \times \left[\frac{1 \text{ in}}{2.54 \cancel{\text{ cm}}}\right] = \inch{39.37}
 \end{equation*}
 </div></div>
-<div class="para" id="unit-factor-method-9">Thus <span class="process-math">\(\yd{1}\)</span> (<span class="process-math">\(\inch{36}\)</span>) is a bit shorter than a meter (<span class="process-math">\(\cm{100}\)</span>), and <span class="process-math">\(\m{1}\)</span> is a little more than <span class="process-math">\(\inch{39}.\)</span>
+<div class="para" id="unit-factor-method-9">Thus <span class="process-math">\(\yd{1}\)</span> ( <span class="process-math">\(\inch{36}\)</span> ) is a bit shorter than a meter ( <span class="process-math">\(\cm{100}\)</span> ), and <span class="process-math">\(\m{1}\)</span> is a little more than <span class="process-math">\(\inch{39}.\)</span>
 </div>
-<div class="para" id="unit-factor-method-10">Unit conversion is often easier <em class="emphasis">within</em> the the SI system, since the relations between units are logical, and the prefixes increase or decrease by <span class="process-math">\(10^3\text{,}\)</span> so unit conversions can often be done in your head.</div>
+<div class="para" id="unit-factor-method-10">Unit conversion is often easier <em class="emphasis">within</em> the the SI system, since the relations between units are logical, and the prefixes increase or decrease by <span class="process-math">\(10^3\)</span> , so unit conversions can often be done in your head.</div>
 <div class="para logical" id="unit-factor-method-11">
 <div class="para">Several different conversion factors can be applied sequentially or simultaneously until only the desired set of dimensional units remains. This way, you only need to remember a few common conversion factors to make many different conversions.  Here are some relations that you should remember:</div>
 <div class="displaymath process-math" id="unit-factor-method-11-1">
 \begin{align*}
-\mi{1}  \amp = \ft{5280} \\
-\ft{1}  \amp = \inch{12} \\
+\mi{1}  \amp = \ft{5280}\\
+\ft{1}  \amp = \inch{12}\\
 \yd{1}  \amp = \ft{3}\\
-\inch{1} \amp = \cm{2.54} \\
-\m{1} \amp= \cm{100} \\
-\hr{1}   \amp = \minute{60} \\
+\inch{1} \amp = \cm{2.54}\\
+\m{1} \amp= \cm{100}\\
+\hr{1}   \amp = \minute{60}\\
 \minute{1}  \amp = \second{60}
 \end{align*}
 </div>
 </div>
 <div class="para" id="unit-factor-method-12">With these values we can find the conversion factor between miles per hour and meters per second, as shown in the next example.</div>
-<div class="para" id="unit-factor-method-13">More conversion factors available in the appendix or online.</div>
+<div class="para" id="unit-factor-method-13">More conversion factors available in <a href="engineering-measurement-conversion-factors.html#conversion-factor-pdf" class="xref" data-knowl="./knowl/xref/conversion-factor-pdf.html" data-reveal-label="Reveal" data-close-label="Close" title="Figure 2.1.3">Figure 2.1.3</a> or online.</div>
 <article class="example example-like" id="engineering-measurement-example-distance-conversion"><h2 class="heading">
 <span class="type">Example</span><span class="space"> </span><span class="codenumber">2.1.1</span><span class="period">.</span><span class="space"> </span><span class="title">Distance Conversion.</span>
 </h2>
@@ -826,7 +826,7 @@ d \amp= \km{1} \times
 </div></div></li>
 <li id="engineering-measurement-example-problem-3-1-1-2"><div class="para" id="p-derived-engineering-measurement-example-problem-3-1-1-2"><div class="displaymath process-math">
 \begin{equation*}
-\mps{0.447} = 1 \mathrm{\ mph} 
+\mps{0.447} = 1 \mathrm{\ mph}
 \end{equation*}
 </div></div></li>
 </ol></div></div></details><details id="engineering-measurement-example-problem-4" class="solution solution-like born-hidden-knowl"><summary class="knowl__link"><span class="type">Solution</span><span class="period">.</span></summary><div class="solution solution-like knowl__content">
@@ -850,9 +850,10 @@ d \amp= \km{1} \times
 <div class="para">By simplifying the unit-factors, we see that</div>
 <div class="displaymath process-math">
 \begin{equation*}
-\mps{0.447} =\mph{1} \text{.}
+\mps{0.447} =\mph{1}
 \end{equation*}
 </div>
+<div class="para">.</div>
 </div>
 </div></details>
 </div></article></section></div>
