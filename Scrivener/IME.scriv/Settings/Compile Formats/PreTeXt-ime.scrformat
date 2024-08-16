@@ -21,7 +21,8 @@
 {\*\expandedcolortbl;;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
 
-\f0\fs24 \cf0 <chapter xml:id="\expnd0\expndtw0\kerning0
+\f0\fs24 \cf0 \
+<chapter xml:id="\expnd0\expndtw0\kerning0
 <$custom:xml:id>\kerning1\expnd0\expndtw0 "> \
 }]]></Prefix>
             <Suffix AfterSubdocs="Yes"><![CDATA[{\rtf1\ansi\ansicpg1252\cocoartf2761
