@@ -5300,7 +5300,7 @@
 		<real>84</real>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 30}, {812, 868.80000000000007}}</string>
+	<string>{{0, -25.600000000000001}, {812, 868.80000000000007}}</string>
 	<key>supportingDocumentEditor.selectedItemIDs</key>
 	<array/>
 	<key>supportingDocumentEditor.selectedItemUUIDs</key>

@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <chapter xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="diesel-power">
    <title>Diesel Propulsion</title>
    <introduction>
@@ -49,7 +48,6 @@
             <caption>Four Stroke Timing Diagram, Naturally Aspirated Engine</caption>
             <image source="images/four-stroke-timing" width="75%"/>
          </figure>
-         <p/>
          <p>We will now discuss the operation of four-stroke engine as it passes through one complete cycle.    For the purpose of the discussion,  we will assume that the engine is normally aspirated with intake and exhaust valves,  and has a 3.5-inch bore, a 4-inch stroke and a 16:1 compression ratio.</p>
          <paragraphs>
             <title>Intake</title>
@@ -559,79 +557,79 @@
          <paragraphs>
             <title>Individual Pump Injection System</title>
             <p>Individual-pump injection systems of the original jerk pump, or basic, type include high-pressure pumps and pressure-operated nozzles which are separate units. In some engines, only one pump and nozzle are provided for each cylinder. In other engines, such as the Fairbanks Morse, each cylinder is provided with two pumps and two nozzles.</p>
-            <paragraphs>
-               <title>Type APF</title>
-               <p>Type APF pumps are of single-cylinder design, the plunger pump for each cylinder being in a separate housing. In a 6-cylinder engine, for example, there are six separate APF pumps. Each pump is cam-driven and regulated by an individual control rack.</p>
-               <figure xml:id="bosch-apf">
-                  <caption>Bosch 1 Cylinder Type APF Injection Pump</caption>
-                  <image source="images/bosch-apf.png" width="70%"/>
-               </figure>
-            </paragraphs>
-            <paragraphs>
-               <title>Type APE</title>
-               <p>Type APE pumps are assembled with all the individual cylinder plungers in a single housing. The left side of <xref ref="bosch-ape"/> shows the pump assembly for a 6-cylinder engine. The injection pumps are operated from a single camshaft in the bottom part of the housing. The cams dip into lubricating oil and brush against felt cushions at the bottom of each revolution. At the top of each revolution, the cams force the spring-loaded plungers up against the plunger spring resistance.</p>
-               <p>Each plunger moves up and down in a barrel which contains fuel oil at the supply pressure.</p>
-               <p>The plunger traps oil above it during part of the upward stroke and forces it through the delivery valve and· high pressure tubing to the injector nozzle, where it is injected into the combustion chamber. The action of the plunger, control rack, delivery valve, and injector nozzle are the same in both APE and APF types of pumps.</p>
-               <p>By studying <xref ref="bosch-ape"/> , you can obtain a better understanding of the fuel injection mechanism and the control of the amount of fuel injected. The fuel oil sump is filled with clean oil from the supply pump and fuel oil filter. Oil enters the barrel above the plunger through a pair of ports. The amount of fuel forced out through the­ injector nozzle of each upward stroke of the plunger depends on how the plunger is rotated. In <xref ref="bosch-ape"/> , notice that the control rack has teeth all along the side, meshing with a gear segment on each pump. Lengthwise movement of the control rack rotates all the plungers the same amount and in the same direction.</p>
-               <figure xml:id="bosch-ape">
-                  <caption>Bosch 6 CylinderType APE Injection Pump</caption>
-                  <image source="images/bosch-ape.png" width="85%"/>
-               </figure>
-               <p>Rotation of the plungers changes the part of the plunger helix that passes over the spill port (on the right side of each barrel in <xref ref="bosch-ape"/> ), thus changing the time at which injection ends.</p>
-            </paragraphs>
-            <paragraphs>
-               <title>Operating Principle</title>
-               <p>The pumping principle of the Bosch pump is illustrated by <xref ref="bosch-fig"/> , in which four steps of a pumping stroke are shown.</p>
-               <p>In <xref ref="bosch-fig-a"/> , the plunger is below the inlet and spill ports. Fuel oil enters the barrel, as indicated by the small arrows, and fills the barrel chamber (between the plunger and the delivery valve). The plunger has a flat top, and the two ports are set at the same level. The two ports are closed by the plunger at exactly the same moment the plunger travels upward.</p>
-               <p>In <xref ref="bosch-fig-b"/> , the ports have just closed. The fuel above the plunger is trapped and placed under high pressure by the rising plunger. The pressure forces the  delivery valve open at once, allowing the high-pressure oil to go to the spray nozzle.</p>
-               <p>In <xref ref="bosch-fig-c"/> , the plunger is in the effective part of its stroke with both ports closed. Fuel is passing through the delivery valve to the spray nozzle. The effective stroke will continue as long as both ports remain covered by the plunger.</p>
-               <p>In <xref ref="bosch-fig-d"/> ,  the moment that the spill port is uncovered by the edge of the helix causing fuel injection to end. As soon as the port is opened, the fuel oil above the plunger flows out through the vertical slot in the plunger and goes to the low-pressure fuel oil sump. Thus, the pressure above the plunger is released and the delivery valve is returned to its seat by the valve spring.</p>
-               <figure xml:id="bosch-fig">
-                  <caption>Upward stroke of Bosch plunger, showing pumping principle.</caption>
-                  <sidebyside valign="bottom" width="25%">
-                     <figure xml:id="bosch-fig-a">
-                        <caption>Charging</caption>
-                        <image source="/images/bosch-a.png"/>
-                     </figure>
-                     <figure xml:id="bosch-fig-b">
-                        <caption>Port Closes</caption>
-                        <image source="/images/bosch-b.png"/>
-                     </figure>
-                     <figure xml:id="bosch-fig-c">
-                        <caption>Delivery</caption>
-                        <image source="/images/bosch-c.png"/>
-                     </figure>
-                     <figure xml:id="bosch-fig-d">
-                        <caption>Spill Opens</caption>
-                        <image source="/images/bosch-d.png"/>
-                     </figure>
-                  </sidebyside>
-               </figure>
-            </paragraphs>
-            <paragraphs>
-               <title>Fuel Metering</title>
-               <p>The effect of ·plunger rotation on fuel delivery is shown in figure <xref ref="bosch-plunger"/> . In figures A, the plunger is rotated to bring the vertical slot to the edge of the inlet port, which is the setting for maximum delivery. In this plunger position, the lowest part of the helix is in line with the spill port, allowing the longest possible effective stroke before the spill port is uncovered, ending the injection of fuel. Figure B show the setting for medium or normal delivery. This brings a higher part of the helix in line with the spill port and leaves a short effective stroke before the spill port is uncovered.</p>
-               <figure xml:id="bosch-plunger">
-                  <caption>Effect of plunger rotation on fuel delivery.</caption>
-                  <image source="images/bosch-plunger.png" width="75%"/>
-               </figure>
-               <p>Figure C shows the position of <q>no fuel delivery</q> , which  is reached when the plunger has been rotated to bring the vertical slot in line with the spill port. In this plunger position, the fuel above the plunger will not be under compression during any part of the upward stroke.</p>
-               <p>The amount of fuel injected can be regulated by setting the plunger in any position between no delivery and maximum delivery. The plunger setting is controlled by the position of the control rack, which regulates all the plungers at the same time. Movement of the control rack, either manually or by governor action rotates the plunger and varies the quantity of fuel delivered by the pump.</p>
-               <p>Figure <xref ref="bosch-injector-pump"/> illustrates a cutaway view of the Bosch injection pump and control rack assembly. The gear segment is secured to the control sleeve, which is free to rotate on the stationary barrel. The control sleeve has a slot at the bottom into which fits the plunger flange. The flange moves in the slot as the plunger moves up and down. When the control rack is moved lengthwise, the gear segment and the control sleeve rotate around the outside of the barrel. The plunger flange and the plunger (inside the barrel) follow the rotation of the control sleeve.</p>
-               <figure xml:id="bosch-injector-pump">
-                  <caption>Bosch injection pump and control rack assembly</caption>
-                  <image source="images/bosch-injector-pump" width="50%"/>
-               </figure>
-               <p>The Bosch plunger, shown in figures <xref first="bosch-plunger" last="unit-injector-pic"/> , has a flat top surface and has only a lower helix. With this type of plunger, fuel injection will always begin at the same point in the piston cycle, whether it is set for light load or heavy load. Injection begins when the ports are closed; the end of injection can be varied by plunger rotation. This type of plunger is used in pumps marked "Timed for port closing." Injection has a constant beginning and variable ending.</p>
-            </paragraphs>
-            <paragraphs>
-               <title>Unit Injectors</title>
-               <p>When a high pressure pump and an injection nozzle are combined into one piece, the combination is called  a <term>Unit Injector</term> system.  This type of unit is commonly used in Detroit engines</p>
-               <figure xml:id="unit-injector-pic">
-                  <caption>Detroit Diesel Unit Injector</caption>
-                  <image source="images/unit-injector-pic" width="65%"/>
-               </figure>
-            </paragraphs>
+         </paragraphs>
+         <paragraphs>
+            <title>Type APF</title>
+            <p>Type APF pumps are of single-cylinder design, the plunger pump for each cylinder being in a separate housing. In a 6-cylinder engine, for example, there are six separate APF pumps. Each pump is cam-driven and regulated by an individual control rack.</p>
+            <figure xml:id="bosch-apf">
+               <caption>Bosch 1 Cylinder Type APF Injection Pump</caption>
+               <image source="images/bosch-apf.png" width="70%"/>
+            </figure>
+         </paragraphs>
+         <paragraphs>
+            <title>Type APE</title>
+            <p>Type APE pumps are assembled with all the individual cylinder plungers in a single housing. The left side of <xref ref="bosch-ape"/> shows the pump assembly for a 6-cylinder engine. The injection pumps are operated from a single camshaft in the bottom part of the housing. The cams dip into lubricating oil and brush against felt cushions at the bottom of each revolution. At the top of each revolution, the cams force the spring-loaded plungers up against the plunger spring resistance.</p>
+            <p>Each plunger moves up and down in a barrel which contains fuel oil at the supply pressure.</p>
+            <p>The plunger traps oil above it during part of the upward stroke and forces it through the delivery valve and· high pressure tubing to the injector nozzle, where it is injected into the combustion chamber. The action of the plunger, control rack, delivery valve, and injector nozzle are the same in both APE and APF types of pumps.</p>
+            <p>By studying <xref ref="bosch-ape"/> , you can obtain a better understanding of the fuel injection mechanism and the control of the amount of fuel injected. The fuel oil sump is filled with clean oil from the supply pump and fuel oil filter. Oil enters the barrel above the plunger through a pair of ports. The amount of fuel forced out through the­ injector nozzle of each upward stroke of the plunger depends on how the plunger is rotated. In <xref ref="bosch-ape"/> , notice that the control rack has teeth all along the side, meshing with a gear segment on each pump. Lengthwise movement of the control rack rotates all the plungers the same amount and in the same direction.</p>
+            <figure xml:id="bosch-ape">
+               <caption>Bosch 6 CylinderType APE Injection Pump</caption>
+               <image source="images/bosch-ape.png" width="85%"/>
+            </figure>
+            <p>Rotation of the plungers changes the part of the plunger helix that passes over the spill port (on the right side of each barrel in <xref ref="bosch-ape"/> ), thus changing the time at which injection ends.</p>
+         </paragraphs>
+         <paragraphs>
+            <title>Operating Principle</title>
+            <p>The pumping principle of the Bosch pump is illustrated by <xref ref="bosch-fig"/> , in which four steps of a pumping stroke are shown.</p>
+            <p>In <xref ref="bosch-fig-a"/> , the plunger is below the inlet and spill ports. Fuel oil enters the barrel, as indicated by the small arrows, and fills the barrel chamber (between the plunger and the delivery valve). The plunger has a flat top, and the two ports are set at the same level. The two ports are closed by the plunger at exactly the same moment the plunger travels upward.</p>
+            <p>In <xref ref="bosch-fig-b"/> , the ports have just closed. The fuel above the plunger is trapped and placed under high pressure by the rising plunger. The pressure forces the  delivery valve open at once, allowing the high-pressure oil to go to the spray nozzle.</p>
+            <p>In <xref ref="bosch-fig-c"/> , the plunger is in the effective part of its stroke with both ports closed. Fuel is passing through the delivery valve to the spray nozzle. The effective stroke will continue as long as both ports remain covered by the plunger.</p>
+            <p>In <xref ref="bosch-fig-d"/> ,  the moment that the spill port is uncovered by the edge of the helix causing fuel injection to end. As soon as the port is opened, the fuel oil above the plunger flows out through the vertical slot in the plunger and goes to the low-pressure fuel oil sump. Thus, the pressure above the plunger is released and the delivery valve is returned to its seat by the valve spring.</p>
+            <figure xml:id="bosch-fig">
+               <caption>Upward stroke of Bosch plunger, showing pumping principle.</caption>
+               <sidebyside valign="bottom" width="25%">
+                  <figure xml:id="bosch-fig-a">
+                     <caption>Charging</caption>
+                     <image source="/images/bosch-a.png"/>
+                  </figure>
+                  <figure xml:id="bosch-fig-b">
+                     <caption>Port Closes</caption>
+                     <image source="/images/bosch-b.png"/>
+                  </figure>
+                  <figure xml:id="bosch-fig-c">
+                     <caption>Delivery</caption>
+                     <image source="/images/bosch-c.png"/>
+                  </figure>
+                  <figure xml:id="bosch-fig-d">
+                     <caption>Spill Opens</caption>
+                     <image source="/images/bosch-d.png"/>
+                  </figure>
+               </sidebyside>
+            </figure>
+         </paragraphs>
+         <paragraphs>
+            <title>Fuel Metering</title>
+            <p>The effect of ·plunger rotation on fuel delivery is shown in figure <xref ref="bosch-plunger"/> . In figures A, the plunger is rotated to bring the vertical slot to the edge of the inlet port, which is the setting for maximum delivery. In this plunger position, the lowest part of the helix is in line with the spill port, allowing the longest possible effective stroke before the spill port is uncovered, ending the injection of fuel. Figure B show the setting for medium or normal delivery. This brings a higher part of the helix in line with the spill port and leaves a short effective stroke before the spill port is uncovered.</p>
+            <figure xml:id="bosch-plunger">
+               <caption>Effect of plunger rotation on fuel delivery.</caption>
+               <image source="images/bosch-plunger.png" width="75%"/>
+            </figure>
+            <p>Figure C shows the position of <q>no fuel delivery</q> , which  is reached when the plunger has been rotated to bring the vertical slot in line with the spill port. In this plunger position, the fuel above the plunger will not be under compression during any part of the upward stroke.</p>
+            <p>The amount of fuel injected can be regulated by setting the plunger in any position between no delivery and maximum delivery. The plunger setting is controlled by the position of the control rack, which regulates all the plungers at the same time. Movement of the control rack, either manually or by governor action rotates the plunger and varies the quantity of fuel delivered by the pump.</p>
+            <p>Figure <xref ref="bosch-injector-pump"/> illustrates a cutaway view of the Bosch injection pump and control rack assembly. The gear segment is secured to the control sleeve, which is free to rotate on the stationary barrel. The control sleeve has a slot at the bottom into which fits the plunger flange. The flange moves in the slot as the plunger moves up and down. When the control rack is moved lengthwise, the gear segment and the control sleeve rotate around the outside of the barrel. The plunger flange and the plunger (inside the barrel) follow the rotation of the control sleeve.</p>
+            <figure xml:id="bosch-injector-pump">
+               <caption>Bosch injection pump and control rack assembly</caption>
+               <image source="images/bosch-injector-pump" width="50%"/>
+            </figure>
+            <p>The Bosch plunger, shown in figures <xref first="bosch-plunger" last="unit-injector-pic"/> , has a flat top surface and has only a lower helix. With this type of plunger, fuel injection will always begin at the same point in the piston cycle, whether it is set for light load or heavy load. Injection begins when the ports are closed; the end of injection can be varied by plunger rotation. This type of plunger is used in pumps marked "Timed for port closing." Injection has a constant beginning and variable ending.</p>
+         </paragraphs>
+         <paragraphs>
+            <title>Unit Injectors</title>
+            <p>When a high pressure pump and an injection nozzle are combined into one piece, the combination is called  a <term>Unit Injector</term> system.  This type of unit is commonly used in Detroit engines</p>
+            <figure xml:id="unit-injector-pic">
+               <caption>Detroit Diesel Unit Injector</caption>
+               <image source="images/unit-injector-pic" width="65%"/>
+            </figure>
          </paragraphs>
       </subsection>
       <subsection xml:id="diesel-power-governor">

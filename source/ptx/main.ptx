@@ -1,7 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" ?>
+
 <?xml-model href="../../../mathbook/schema/pretext-dev.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <pretext xmlns:xi="http://www.w3.org/2001/XInclude">
   <xi:include href="docinfo.ptx"/>
+
   <book>
     <title>Introduction to Marine Engineering</title>
     <xi:include href="frontmatter.ptx"/>

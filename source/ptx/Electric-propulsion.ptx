@@ -1,538 +1,437 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<chapter xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="Electric-propulsion">
-   <title>Electric Propulsion</title>
-   <introduction>
-      <p>Marine electric propulsion systems utilize generators to provide power for electric motors, which in turn drive the ship's propeller. The electric generators may be driven by any suitable prime mover, most commonly, diesel engines. While it may initially seem counterintuitive to interpose complex and costly equipment between the prime mover and the propeller when a simple line shaft and gearbox could transmit the power instead, there are valid justifications for the added complexity and expense. </p>
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<chapter xml:id="Electric-propulsion" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Electric Propulsion</title>
+  <introduction>
+    <p>Marine electric propulsion systems utilize generators to provide power for electric motors, which in turn drive the ship's propeller. The electric generators may be driven by any suitable prime mover, most commonly, diesel engines. While it may initially seem counterintuitive to interpose complex and costly equipment between the prime mover and the propeller when a simple line shaft and gearbox could transmit the power instead, there are valid justifications for the added complexity and expense.</p>
+    <p>
+      The advantages of electric propulsion include:
+      <ul>
+        <li>
+          <title>Layout Flexibility</title>
+          <p>The ability to install the prime mover in any convenient location, without being restricted to a direct line with the propeller. Power is transmitted through flexible cable runs, as opposed to rigid line shafts. Furthermore, instead of relying on a single large main engine, multiple smaller engines can be used, allowing for placement in smaller spaces and more convenient locations.</p>
+        </li>
+        <li>
+          <title>Efficient Operation</title>
+          <p>Eliminating the need for reduction gears. Typically, diesel engines and steam turbines operate most efficiently at high or medium speeds, while propellors are most efficient at low speed, below about 100 RPM.  When propulsion power is supplied electrically, speed reduction is accomplished by selecting the appropriate number of poles in the generator and varying the electrical frequency supplied to the motor. This setup allows each component to operate within its most efficient range, maximizing overall energy efficiency and reducing fuel consumption.</p>
+        </li>
+        <li>
+          <title>Redundancy and Reliability</title>
+          <p>Inherent redundancy and enhanced reliability compared to traditional propulsion systems. With multiple smaller generator sets, the system can continue to function even if one or more generators or motors fail or require maintenance. This redundancy  reduces the risk of complete propulsion failure and ensures that the propulsion system remains operational.</p>
+        </li>
+        <li>
+          <title>Economical Part-Load Operation</title>
+          <p>Improved efficiency at low loads. Ships can secure one or more engine/generator sets if they are not needed. The remaining engines can then operate at nearly full load, resulting in improved efficiency compared to having more engines operating at part-load. Load management systems continuously monitor the electrical demand and promptly initiate the startup of an additional generator when necessary.</p>
+        </li>
+      </ul>
+    </p>
+  </introduction>
+  <section xml:id="Electric-propulsion-overview">
+    <title>Overview</title>
+    <p>An overview of the electric propulsion system of the <em>Patriot State II</em> is shown in the one-line diagram below, <xref ref="propulsion_system"/> .</p>
+    <p>Electrical power for both propulsion and ship’s services is produced by four Hyundai HSJ9 913-08P diesel driven generators.    These are 6600 Volt, three-phase AC synchronous generators capable of producing up to 4053 kW at 80% power factor, or 5066.25 kVA.</p>
+    <p>Generators 1 and 2 are located in engineroom 1 and directly feed main switchboard No.1, and generators 3 and 4 are located in engine room 2 and feed main switchboard No. 2.  The switchboards can be split or cross-connected as necessary for emergency operations.</p>
+    <figure xml:id="propulsion_system" landscape="yes">
+      <caption>Propulsion System One Line Diagram</caption>
+      <image source="images/propulsion_system" width="100%">
+        <remix>Source:  P1206 EMPIRE STATE MACHINERY MANUAL  FIRST DRAFT MAY 2022</remix>
+      </image>
+    </figure>
+    <p>Each switchboard supplies electrical power at 60 Hz, 1850 Volts to a <term>Propulsion Converter</term> via a step-down <term>transformer</term> . The purpose of the propulsion converters is to change input voltage and frequency to the voltage and frequency needed to spin the propulsion motor in the desired direction, at the desired speed, as ordered by the bridge.</p>
+    <p>Each propulsion converter provides power to a <term>Propulsion Motor</term> .  The two propulsion motors drive a common shaft which is directly connected to the ship’s single propeller, as shown in <xref ref="DriveTrain"/> .</p>
+    <p>The generators, transformers, propulsion converters, and propulsion motors will be discussed in more detail in the sections that follow.</p>
+  </section>
+  <section xml:id="ships-generators">
+    <title>Generators</title>
+    <introduction>
+      <p>Four 4000 kW, 6600 volt, three-phase generators provide electrical power for propulsion and for all other normal ship’s requirements.  Each generator is directly driven by a 16-cylinder, 4-stroke, 4200 kW diesel engine.  Since the generators have eight poles, when driven at 900 rpm they produce 60 Hz AC.</p>
+      <table xml:id="generator_specs">
+        <title>Main Generator Specifications</title>
+        <tabular>
+          <col width="30%"/>
+          <col width="30%"/>
+          <row><cell>Manufacturer</cell> <cell>Hyundai</cell></row>
+          <row><cell>Model</cell> <cell>HSJ9 913-08P</cell></row>
+          <row><cell>Type</cell> <cell>8 pole, cylindrical rotor, brushless, separately excited</cell></row>
+          <row><cell>Rated Output</cell> <cell>5066 kVA / 4053 kW</cell></row>
+          <row><cell>Rated Voltage</cell> <cell>6.6 kV AC</cell></row>
+          <row><cell>Current</cell> <cell>443.2 A</cell></row>
+          <row><cell>Speed</cell> <cell>900 rpm</cell></row>
+          <row><cell>Frequency</cell> <cell>60 Hz</cell></row>
+          <row><cell>Power factor</cell> <cell>0.8</cell></row>
+          <row><cell>Excitation voltage</cell> <cell>60 V DC</cell></row>
+          <row><cell>Excitation current</cell> <cell>4 A DC</cell></row>
+        </tabular>
+      </table>
+      <p/>
+    </introduction>
+    <subsection xml:id="description_generators">
+      <title>Description</title>
+      <p>As discussed in <xref ref="AC_generators"/> , the essential components of an AC generator are the armature and the field, one of which is located on the rotor and the other on the stator.  However a practical generator requires many other components, including an enclosure, bearings, cooling, lubrication, instrumentation and control, and a method to excite the field.</p>
+      <p>These components are shown in <xref ref="generator"/> and <xref ref="generator_exploded"/> and discussed below.</p>
+      <p>The shaft is supported by two journal bearings (7 and 13), one on the drive end ( <term>DE</term> ) and the other on the non-drive end ( <term>NDE</term> ).  Each bearing has its own integral oil sump with sight glass, cooling fins, and an oil ring that circulates the oil to the top of the shaft as it rotates.</p>
+      <p>The shaft itself supports and carries the rotating components: primarily the main rotor core (9) and the 8-pole main field windings (4), but also a cooling fan (2) and several other components (10, 11, 12, 14, 16, and 19) that are required to excite the generator.  Excitation systems will be discussed in <xref ref="Electric-propulsion-excitation-system"/> .</p>
+      <p>The main field (4) on the rotor is wound to create eight alternating north and south poles. The main stator core (8) surrounds the main rotor (9) and is wound with three main armature windings (3).  As the shaft rotates, the rotor’s magnetic field sweeps by the each of the three armature windings in turn, and induces a sinusoidal voltage in each as shown in <xref ref="three-phase"/> .  The resulting 3-phase AC is directed to the generator terminals (23), and from there connections are made to the main switchboard.</p>
+      <figure xml:id="generator">
+        <caption>Hyundai HSJ9 Generator</caption>
+        <image source="images/generator" width="100%">
+          <remix>Source:  P1206 EMPIRE STATE MACHINERY MANUAL  FIRST DRAFT MAY 2022</remix>
+        </image>
+      </figure>
+      <figure xml:id="generator_exploded">
+        <caption>Generator Exploded View</caption>
+        <image source="images/generator_exploded.png" width="100%">
+          <remix>Source: DV951E001_MAIN ALTERNATOR_OPERATION MANUAL_ALTERNATOR</remix>
+        </image>
+      </figure>
       <p>
-          The advantages of electric propulsion include:
+        <ol cols="2">
+          <li>Water cooled Air Cooler</li>
+          <li>Ventilation Fan</li>
+          <li>Main Armature Winding</li>
+          <li>Main Field Windings</li>
+          <li>End Shield (DE)</li>
+          <li>Shaft</li>
+          <li>Bearing (DE)</li>
+          <li>Main Stator Core</li>
+          <li>Main Rotor Core</li>
+          <li>Main Field Terminals</li>
+          <li>Leads to/from Rectifier</li>
+          <li>Exciter Rotor Core</li>
+          <li>Bearing (NDE)</li>
+          <li>Rotating Rectifier</li>
+          <li>Rectifier Cover</li>
+          <li>Permanent Magnet Rotor</li>
+          <li>Permanent Magnet Stator</li>
+          <li>End Shield (NDE)</li>
+          <li>Exciter Armature Winding</li>
+          <li>Exciter Field Winding</li>
+          <li>Exciter Stator Core</li>
+          <li>Current Transformer</li>
+          <li>Main Terminal Box</li>
+        </ol>
+      </p>
+      <p>Both the main core and the stator core are made of thin sheets of <term>electrical steel</term> , called <term>laminations</term> , clamped tightly together. The stationary armature windings (3) and the rotating field windings (4) are inserted into slots formed when the laminations were pressed out, and are firmly wedged in to hold them in position.</p>
+      <p>Electrical steel is a speciality steel used in the cores of electrical machines such as motors, generators, and transformers. It is an iron alloy with silicon (instead of carbon) as the main additive element. Silicon increases the electrical resistivity of iron by a factor of about 5.  Electrical steel also has favorable magnetic properties which tend to reduce magnetic <term>hysteresis</term> <mdash/> an energy loss caused by the repeated magnetization and de magnetization of the core.  These properties reduce energy losses in the core by about three times compared to conventional steel,</p>
+      <p>The laminations are insulated from each other to prevent current from flowing axially along the core.  These currents, called <term>eddy currents</term> , are another source of energy loss, so using insulated laminations improves the generator efficiency.</p>
+      <p>Generators produce lots of heat while they are operating due to unavoidable losses caused by mechanical friction and electrical resistance, and other factors.  If this heat is not removed as it is produced, the generator temperature will rise to unacceptable limits, and high temperature is extremely damaging to electrical insulation. Electrical machines are designed to run for 100,000 hours or more when operated at or below their design temperature limit, however for every 10° C rise above this temperature, the thermal life expectancy of the electrical insulation is reduced by half, so generator cooling is critical.</p>
+      <p>The generator’s cooling system uses the shaft driven internal fan (2) to circulate the air through the machine. This hot air passes over a water-cooled heat exchanger where it is cooled and then recirculated.  The cooling water tubes are double walled with slotted plate fins. Water flows through the inner tube and cools the outer tube and the slotted fins. Air flows between the fins and around the outer tubes and so is cooled.</p>
+      <p>In the case of a tube leak,  water will flow between the inner and outer tubes to a leak detector and trigger an alarm.  This prevents water from leaking on to the electrical components.</p>
+      <p>If for some reason the cooling water is not available, an  emergency cooling mode is available.  In this mode  cover plates on the generator are removed to allow the fan to draw cool air from the engine room and discharge the heated air outside the generator.</p>
+    </subsection>
+    <subsection xml:id="Electric-propulsion-excitation-system">
+      <title>Excitation System</title>
+      <introduction>
+        <p>The purpose of the excitation system is to <term>excite</term> the generator’s field.  That is, the system supplies the DC voltage and current to the generator’s main field windings that creates the magnetic field required for electrical generation.  The amount of excitation current determines the strength of this field, which in turn affects the generator output.</p>
+        <p>Generator excitation systems consists of several components that work together excite the field, maintain a constant and correct output voltage despite fluctuations in the load or other system conditions, and balance the reactive power when the generator is operating in parallel.</p>
+        <p>There are several different excitation system designs in use, each with particular advantages and disadvantages. These can be broadly categorized as separately or self excited, and brushed or brushless excitation systems.</p>
+        <p>In a <term>separately excited</term> excitation system, the excitation current is provided by an external DC power source. The generator's field winding is connected to a separate power supply, which is independent of the generator's output.  Separately excited generators tend to be more stable and less sensitive to load fluctuations because the excitation current is not affected by the generator's output. They provide better voltage regulation and are commonly used in applications that require precise control.</p>
+        <p>A <term>self-excited</term> system, on the other hand, uses the generator’s own output voltage to produce the excitation current. The generator's output voltage is connected, in parallel, to both the field circuit and to the load. In this design, generator excitation is effectively an additional load on the generator.  Self-excited generators are simpler and less expensive, but are inherently less stable and more sensitive to load changes due to the coupling between the generator load, output voltage, and excitation current. Voltage regulation is more difficult, especially under sudden changes in load.</p>
+        <p><term>Brushed</term> exciters use carbon brushes and copper slip rings to transmit the excitation current to the rotating generator rotor winding. Brushed exciters are simple and inexpensive and they were once widely used; however, they require significant maintenance including cleaning, adjustment, and periodic replacement of worn brushes.  They are being superseded by brushless exciters in new generators.</p>
+        <p><term>Brushless</term> exciters use solid-state devices, such as diodes, thyristors, and transistors mounted on the rotating shaft, to rectify the output voltage of the exciter generator.  They eliminate the need for brushes and slip rings, so are more reliable, require less maintenance, and offer better voltage control than brushed exciters.</p>
+        <figure xml:id="brushed_vs_brushless">
+          <caption>Brushed vs. Brushless Excitation</caption>
+          <sidebyside width="48%">
+            <figure xml:id="brushes_sliprings">
+              <caption>Brushes and Slip Rings</caption>
+              <image source="images/brushes_sliprings.png">
+                <remix>Source:  https://pdfs.semanticscholar.org/658b/d1175e37de0040d98f072a8d48a7b3dac713.pdf</remix>
+              </image>
+            </figure>
+            <figure xml:id="diode_wheel">
+              <caption>Rotating Diodes</caption>
+              <image source="images/diode_wheel.png">
+                <remix>Source:  Marad Field Acceptance test</remix>
+              </image>
+            </figure>
+          </sidebyside>
+        </figure>
+        <p>The excitation system used aboard the training ship is shown in <xref ref="excitation_system_schematic"/> .  This system is categorized as a brushless and self-excited.  The main components include the the <term>exciter generator</term> and <term>rotating diodes</term> , the <term>pilot generator</term> , and the <term>voltage regulator</term> , each of which will be discussed in the following sections.</p>
+      </introduction>
+      <subsubsection xml:id="Electric-propulsion-exciter">
+        <title>Exciter</title>
+        <p>An <term>exciter</term> , also known as an <term>excitation generator</term> , is a second generator which spins on the same shaft as the main generator.  The function of the exciter is to produce the direct current required to energize the main rotor windings, thereby creating a magnetic field.</p>
+        <p>There are several important differences between the main generator and the exciter.  Although both are 3-phase generators, the main generator has a rotating field and a stationary armature while the exciter has a stationary field and a rotating armature.   The exciter is much smaller than the main generator; the main generator can generate more than 440 A, while the exciter generates less than 4 A.</p>
+        <figure xml:id="excitation_system_schematic">
+          <caption>Hyundai HSJ9 Excitation System</caption>
+          <image source="images/excitation_system" width="100%">
+            <remix>Source: weh CC0</remix>
+          </image>
+        </figure>
+        <p>The 3-phase output of the exciter is directed through the hollow drive shaft to the <term>rotating rectifier</term> mounted on the non-drive end of the shaft.  The rectifier is a solid-state electronic device which uses six diodes arranged as shown in <xref ref="three_phase_rectifier"/> to convert the three-phase AC produced by the exciter generator into direct current. From there, DC current travels back through the shaft to excite the rotating main field windings.</p>
+        <figure xml:id="three_phase_rectifier">
+          <caption>3-phase, full-wave rectifier</caption>
+          <sidebyside valign="bottom" widths="25% 33% 25%">
+            <figure xml:id="diodes_in">
+              <caption>3 phase AC in</caption>
+              <image source="images/diodes_in">
+                <remix>Source:  weh cc0</remix>
+              </image>
+            </figure>
+            <figure xml:id="six_diodes">
+              <caption>Rotating Diodes</caption>
+              <image source="images/six_diodes">
+                <remix>Source:  weh cc0</remix>
+              </image>
+            </figure>
+            <figure xml:id="diodes_out">
+              <caption>DC out</caption>
+              <image source="images/diodes_out">
+                <remix>Source:  weh cc0</remix>
+              </image>
+            </figure>
+          </sidebyside>
+        </figure>
+      </subsubsection>
+      <subsubsection xml:id="Electric-propulsion-pilot-generator">
+        <title>Pilot Generator</title>
+        <p>Just as the exciter generator is needed to supply the field for the main generator, a third generator is needed to supply the field for the exciter.  This is the <term>pilot generator</term> .</p>
+        <p>In other words, the main generator is excited by the exciter, and the exciter is excited by the pilot generator. This process stops here however, because the field of the pilot generator is produced by permanent magnets, not a field winding.  For this reason, the pilot generator is alternately called the <term>permanent magnet generator</term> or the <term>PMG</term> .</p>
+        <p>The pilot generator is shown in <xref ref="pilot_generator"/> .  It is located at the end of the shaft outboard of the bearing on the non-drive end of the generator unit  .  The rotor carries sixteen permanent magnets of alternating polarities bolted to the rotating shaft.  The stator is bolted onto the bearing housing and carries 3-phase wye-connected armature windings.  The rotating magnets induce a three-phase AC voltage into the stator windings.</p>
+        <p>The output of the pilot generator is transmitted to the automatic voltage regulator where it is rectified to DC, and then used to excite the stationary exciter field.</p>
+        <figure xml:id="pilot_generator">
+          <caption>Permanent Magnet Generator (PMG)</caption>
+          <sidebyside width="48%">
+            <figure xml:id="pmg_rotor">
+              <caption>Permanent Magnet Rotor</caption>
+              <image source="images/pmg_rotor.png" width="100%">
+                <remix>DV951E001_MAIN ALTERNATOR_OPERATION MANUAL_PMG</remix>
+              </image>
+            </figure>
+            <figure xml:id="pmg_stator">
+              <caption>PMG Stator</caption>
+              <image source="images/pmg_stator.png" width="100%">
+                <remix>Source: DV951E001_MAIN ALTERNATOR_OPERATION MANUAL_PMG</remix>
+              </image>
+            </figure>
+          </sidebyside>
+        </figure>
+        <p>Because the source of the excitation in this generator is from permanent magnets, rather than an electromagnet excited by the output of the main generator, the generator is considered separately excited.  The main advantage of separate excitation is that fluctuations in the voltage of the main generator do not affect the excitation supply. Voltage fluctuations can be quickly corrected and the generator output can be maintained within tight tolerances..</p>
+      </subsubsection>
+      <subsubsection xml:id="Electric-propulsion-voltage-regulator">
+        <title>Voltage Regulator</title>
+        <p>An <term>automatic voltage regulator</term> ( <term>AVR</term> ) is a control device which detects any fluctuation in a generator’s voltage and adjusts the excitation current to offset the fluctuation and so keep the output voltage constant regardless of load changes.</p>
+        <p>A simplified block diagram of the components of the Hyundai HDEC2000 AVR used on the training ship is shown in <xref ref="avr_block_diagram"/> .     The primary function is to provide continuous voltage regulation of the generator through excitation current control with a <term>PID</term> ( <term>proportional, integral, derivative</term> ) software control algorithm, but the device also includes function blocks which provide monitoring, alarm, and system protection.  Two-way communications are provided through a network interface or via the front panel.</p>
+        <figure xml:id="AVR">
+          <caption>Automatic Voltage Regulator (AVR)</caption>
+          <sidebyside valign="bottom" widths="30% 70%">
+            <figure xml:id="Front_Panel">
+              <caption>Front Panel</caption>
+              <image source="images/AVR">
+                <remix>Source:  DV951E001_MAIN ALTERNATOR_OPERATION MANUAL_AVR</remix>
+              </image>
+            </figure>
+            <figure xml:id="avr_block_diagram">
+              <caption>Simplified Block Diagram</caption>
+              <image source="images/AVR_block_diagram">
+                <remix>Source:  weh cc0</remix>
+              </image>
+            </figure>
+          </sidebyside>
+        </figure>
+        <p>The three main components of the AVR are the Digital Signal Processor, the Rectifier, and the Power Module. The device uses a combination of hardware and software to perform its functions.</p>
+        <p>The <term>Digital Signal Processor</term> <term>(DSP)</term> is a specialized microprocessor designed to process and manipulate digital signals in real time.  The DSP software is executable code stored in nonvolatile Flash memory.  The DSP executes code and controls hardware to enable the AVR to perform functions such as regulation, measurement, monitoring, protection, and communications.</p>
+        <p>The DSP accepts both digital and analog inputs, the most important being the generator voltage and current, which are measured using current and potential (voltage) transformers on the generator output, and digitized by an <term>analog to digital converter</term> ( <term>ADC</term> ) in the DSP.  Based on these values and the system requirements, the DSP calculates the amount of excitation current required and produces a command signal that is transmitted to the Power Module.</p>
+        <p>The <term>Rectifier</term> module supplies DC power to the power module.  The power source for the module may come from a Permanent Magnet Generator, as done on the training ship, or directly from the main generator terminals if the generator is self-excited.  The module uses a three-phase full-wave rectifier, <xref ref="three_phase_rectifier"/> , to convert the supply to a DC voltage.</p>
+        <p>The Power Module uses <term>pulse width modulation</term> <term>(PWM)</term> to trigger a set of <term>insulated gate bipolar transistors</term> ( <term>IGBT)</term> that supply the requested excitation current  An excitation current signal is transmitted back to the DSP to be used for to PID feedback, and for over-excitation limitation, protection functions and monitoring.  PWM and IGBTs are discussed in more detail in <xref ref="what-is-pulse-width-modulation" text="title"/> and <xref ref="what-is-an-igbt" text="title"/> .</p>
+      </subsubsection>
+    </subsection>
+  </section>
+  <section xml:id="Electric-propulsion-propulsion-converters">
+    <title>Propulsion Converters</title>
+    <introduction>
+      <p>Propulsion Converters are very large <term>variable frequency drives</term> . Recall from <xref ref="VFDs"/> that VFDs are electronic devices that take fixed frequency AC and convert it to variable-voltage, variable-frequency AC.    A VFD can drive an induction motor at any combination of speed and torque within the motor’s operating range.</p>
+      <p>The ship’s propulsion converters convert the fixed 6,600 V, 60 Hz AC from the High Voltage Main Switchboard (HVMSB) into a variable voltage and frequency which is used to drive the two electric propulsion motors at any speed commanded by the bridge.</p>
+      <table>
+        <title>Frequency Converter Specifications</title>
+        <tabular>
+          <col width="40%"/>
+          <col width="40%"/>
+          <row><cell>Manufacturer</cell> <cell>General Electric</cell></row>
+          <row><cell>Model</cell> <cell> <p>MV7306 DFE 12P <fn>3.3 kV Diode Front End, 12 pulse, Neutral Point Clamped (NPC)</fn></p> </cell></row>
+          <row><cell>Rated output power</cell> <cell>4.75 MW</cell></row>
+          <row><cell>Input voltage</cell> <cell>1,850 V</cell></row>
+          <row><cell>Output voltage</cell> <cell>variable 0 <ndash/> 3,150 V</cell></row>
+          <row><cell>Output current</cell> <cell>1,035 A maximum</cell></row>
+          <row><cell>Supply frequency</cell> <cell>60H</cell></row>
+          <row><cell>Output frequency</cell> <cell>variable 15 <ndash/> 90 Hz</cell></row>
+        </tabular>
+      </table>
+    </introduction>
+    <subsection xml:id="overview-converters">
+      <title>Description</title>
+      <p>The ship has two General Electric MV7306 propulsion converters, one for each propulsion motor.  The converters include the three main components shown in <xref ref="VFD_main_components"/> , as well as other supporting components housed in a row of cabinets located in converter rooms 1 and 2, on the 4th deck. The converters operate at extremely dangerous high voltages, so these rooms are normally locked and off-limits to all unauthorized personnel.</p>
+      <figure xml:id="propulsion_converter">
+        <caption>Propulsion Frequency Converter, exterior</caption>
+        <image source="images/propulsion_converter" width="100%">
+          <remix>Source:  P1206 EMPIRE STATE MACHINERY MANUAL  FIRST DRAFT MAY 2022</remix>
+        </image>
+      </figure>
+    </subsection>
+    <subsection xml:id="Electric-propulsion-drive-cabinets">
+      <title>Drive Cabinets</title>
+      <introduction>
+        <p>The components of the propulsion converter are housed in eight connected cabinets.  Each cabinet supports a particular function, as described below:</p>
+        <figure xml:id="MV7000_internal">
+          <caption>Drive Cabinets, interior</caption>
+          <image source="images/MV7000_internal.png" width="100%">
+            <remix>Source: GEA30737C MV7000 Press Pack</remix>
+          </image>
+        </figure>
+      </introduction>
+      <subsubsection xml:id="Electric-propulsion-process-control--prc-">
+        <title>Process Control (PRC)</title>
+        <p>The Process Control cabinet contains control and management modules for the propulsion system. It also contains a 230V AC 1.5 kVA <term>uninterruptible power supply</term> ( <term>UPS</term> ) which will take over immediately in the event of failure of the normal power supply. The UPS output goes to the CLC section for distribution.</p>
+        <p>
+          The front panel of the PRC contains a panel mounted supervision computer with touch-screen, which provides local control to monitor system parameters and alarms including:
+          <ul>
+            <li>Speed setting dial and reply pointer.</li>
+            <li>Propeller rpm meter.</li>
+            <li>Power meter.</li>
+            <li>Emergency stop pushbutton.</li>
+            <li>Alarm Acknowledge pushbutton.</li>
+          </ul>
+        </p>
+        <p>
+          Within the PRC, <term>programmable logic controllers</term><term>(PLCs)</term>and circuit boards automatically monitor and control many aspects of the propulsion system including:
+          <ul>
+            <li>Control the propulsion motor speed, torque, flux and current.</li>
+            <li>Connections, via fiber optic cables to the bridge and engine control rooms.</li>
+            <li>Ethernet communications with instruments that monitor the system conditions.</li>
+            <li>Fault management, safety shutdowns and interlocks.</li>
+            <li>Provide the trigger pulses for the IGBTs.</li>
+            <li>Automatically start and stop system auxiliaries.</li>
+          </ul>
+        </p>
+      </subsubsection>
+      <subsubsection xml:id="Electric-propulsion-converter-local-control--clc-">
+        <title>Converter Local Control (CLC)</title>
+        <p>
+          This Converter Local Control cabinet contains equipment to monitor and control the converter, including:
           <ul>
             <li>
-               <title>Layout Flexibility</title>
-               <p>The ability to install the prime mover in any convenient location, without being restricted to a direct line with the propeller. Power is transmitted through flexible cable runs, as opposed to rigid line shafts. Furthermore, instead of relying on a single large main engine, multiple smaller engines can be used, allowing for placement in smaller spaces and more convenient locations.	</p>
+              <p><term>Main PLC.</term> The primary function of this Programmable Logic Controller is to control the sequences, safeties and regulation of the converter and control of motor speed and torque. It acquires signals from various current and voltage measurements and gates the inverter IGBTs accordingly.</p>
+              <p>Additional tasks of the controller include control of the incoming AC supply breaker, protection of motor and converter, auxiliaries and the interface to the customer application software.</p>
             </li>
             <li>
-               <title>Efficient Operation</title>
-               <p>Eliminating the need for reduction gears. Typically, diesel engines and steam turbines operate most efficiently at high or medium speeds, while propellors are most efficient at low speed, below about 100 RPM.  When propulsion power is supplied electrically, speed reduction is accomplished by selecting the appropriate number of poles in the generator and varying the electrical frequency supplied to the motor. This setup allows each component to operate within its most efficient range, maximizing overall energy efficiency and reducing fuel consumption.</p>
+              <p><term>I/O modules.</term> These input/output modules connect to establish communication with the various parts of the system. Non-time-critical I/O units are connected to MV7306 main controller through an Ethernet link.</p>
             </li>
             <li>
-               <title>Redundancy and Reliability</title>
-               <p>Inherent redundancy and enhanced reliability compared to traditional propulsion systems. With multiple smaller generator sets, the system can continue to function even if one or more generators or motors fail or require maintenance. This redundancy  reduces the risk of complete propulsion failure and ensures that the propulsion system remains operational. </p>
+              <p><term>Low voltage auxiliaries.</term> These auxiliary components use 120 V supplied from UPS. The control cabinet also includes relays used to control circuit breakers, contactors, and DC supply for internal measuring devices.</p>
             </li>
             <li>
-               <title>Economical Part-Load Operation</title>
-               <p>Improved efficiency at low loads. Ships can secure one or more engine/generator sets if they are not needed. The remaining engines can then operate at nearly full load, resulting in improved efficiency compared to having more engines operating at part-load. Load management systems continuously monitor the electrical demand and promptly initiate the startup of an additional generator when necessary.</p>
+              <p><term>Touch screen display.</term> This display provides functionality to configure the drive, and provides the operator  with local control, diagnostic and monitoring functions.</p>
             </li>
-         </ul>
-      </p>
-   </introduction>
-   <section xml:id="Electric-propulsion-overview">
-      <title>Overview</title>
-      <p>An overview of the electric propulsion system of the <em>Patriot State II</em> is shown in the one-line diagram below, <xref ref="propulsion_system"/>.</p>
-      <p>Electrical power for both propulsion and ship’s services is produced by four Hyundai HSJ9 913-08P diesel driven generators.    These are 6600 Volt, three-phase AC synchronous generators capable of producing up to 4053 kW at 80% power factor, or 5066.25 kVA. </p>
-      <p>Generators 1 and 2 are located in engineroom 1 and directly feed main switchboard No.1, and generators 3 and 4 are located in engine room 2 and feed main switchboard No. 2.  The switchboards can be split or cross-connected as necessary for emergency operations.</p>
-      <figure xml:id="propulsion_system" landscape="yes">
-         <caption>Propulsion System One Line Diagram  </caption>
-         <image width="100%" source="images/propulsion_system">
-            <remix>   Source:  P1206 EMPIRE STATE MACHINERY MANUAL  FIRST DRAFT MAY 2022    </remix>
-         </image>
+          </ul>
+        </p>
+      </subsubsection>
+      <subsubsection xml:id="Electric-propulsion-converter-cooling--ccu-">
+        <title>Converter Cooling (CCU)</title>
+        <p>The Converter Cooling cabinet contains the equipment required to remove the heat generated by diodes and IGBTs when the converter is operating. The cubicle contains two circulating pumps (one always in stand-by), a stainless steel plate-type heat exchanger, an expansion tank, a resin deionizing cartridge, stainless steel piping and high pressure hoses.</p>
+        <p>Deionized water is used as the primary cooling medium. because its low conductivity minimizes corrosion and improves heat transfer, while its purity reduces the accumulation of scale formation.</p>
+        <p>De-ionized water is circulated by the pump to the cooling pipes and ducts of the high voltage sections. Returning coolant then passes through a the heat exchange and the heat from the de-ionized water is removed by raw water.  A three-way thermostatic bypass valve controls the flow of raw water to through the heat exchanger to maintain the coolant temperature at an optimum level.</p>
+        <p>The coolant pressure, temperature, flow rate and conductivity are closely monitored.  A high temperature coolant alarm will sound at 43°C (110° F).   If a high conductivity is detected, the coolant is shunted through a resin de-ionizing cartridge until until a satisfactory conductivity level is restored,</p>
+      </subsubsection>
+      <subsubsection xml:id="Electric-propulsion-pre-charging--pre-">
+        <title>Pre-charging (PRE)</title>
+        <p>
+          The pre
+          <ndash/>
+          magnetization (pre
+          <ndash/>
+          charging) transformer and switchgear for the pre
+          <ndash/>
+          magnetizing of the propulsion transformer and the DC filter capacitors is located in this section.
+            
+        
+        
+        
+        </p>
+        <p>During startup, magnetizing the main transformers and charging the DC filter capacitors will draw a large (&gt; 400 A) current which can affect other parts of the electrical distribution system if not controlled.  The pre-charging system reduces the peak currents by limiting the charging rate with resistors and spreading the charging/magnetizing cycle out over about 10 minutes.</p>
+        <p>Power for pre-charging is supplied by a 440 V circuit from the main switchboard.</p>
+      </subsubsection>
+      <subsubsection xml:id="Electric-propulsion----------------dfe------------------------------diode-front-end-section--dfe--------------">
+        <title>
+          DFE
+          <ndash/>
+          Diode Front End Section (DFE)
+            
+        
+        
+        
+        </title>
+        <p>This section contains the Diode Front Edge bridge. This bridge receives the output of the two secondary windings of the <term>propulsion transformer</term> and rectifies this to a DC voltage in the <term>diode bridge</term> .</p>
+        <p>The propulsion transformers reduce the network voltage (6,600 V) to the requirements of the frequency converters (1,850V).   The transformers have a single primary winding, delta connected, and two secondary windings, one is delta connected and the other is wye connected. This provides a 30° phase shift in one of the supplies to the diode front end.  This arrangement effectively provides a 12-pulse configuration that reduces harmful harmonics.</p>
+        <p>The diode bridge is made up of four stacks of six diodes, one stack to each transformer secondary. The output is passed to the DC Capacitor and filter circuit in the DCC cabinet .</p>
+      </subsubsection>
+      <subsubsection xml:id="Electric-propulsion-dc-capacitor-section--dcc-">
+        <title>DC Capacitor Section (DCC)</title>
+        <p>This section houses the DC filter capacitor banks.These capacitors store energy and filter the rectified AC to remove any residual ripple from the waveform to provide a more stable DC supply. The capacitors are water cooled. During the power sequence they are all pre-charged.</p>
+      </subsubsection>
+      <subsubsection xml:id="Electric-propulsion-inverter--inv-">
+        <title>Inverter (INV)</title>
+        <p>The inverter section contains three subassemblies called <term>stacks</term> , one for each phase of the output.  Each stack consists of four IGBT and two diode <term>press pack</term> modules, a gate driver, water-cooled heat sink and balancing resistors.</p>
+        <p>The term press pack refers to the physical packaging of electronic components.  It typically consists of a semiconductor chip,  along with its associated control and protection circuitry, mounted between two metal plates which serve as electrical contacts and provide mechanical support. These plates are made of good thermal conductors such as copper or aluminum. This design allows for efficient heat dissipation, as the metal plates can be directly attached to a heat sink.</p>
+        <figure xml:id="IGBT_stack">
+          <caption>IGBT Stack</caption>
+          <image source="images/IGBT_stack.png" width="75%">
+            <remix>Source:  IGBT</remix>
+          </image>
+        </figure>
+        <p>The IGBT gates are triggered by pulse width signals produced in the CLC section which change the direct current stored in the DC capacitors into variable voltage, variable frequency alternating current.</p>
+      </subsubsection>
+      <subsubsection xml:id="Electric-propulsion-inverter-local-contol--ilc-">
+        <title>Inverter Local Contol (ILC)</title>
+        <p>The ILC cubicle contains instrumentation to measure the DC link voltage, output current measurements, and the DC link grounding switch.</p>
+        <p>This module also protects the inverter and DC bus from damage caused by the propulsion motors when the ship is slowing down.  During these periods the momentum of the ship will drive the propellor and motor, causing the motors to behave like generators and produce electrical power.</p>
+        <p>Excessive electrical power cannot be fed back into the electrical distribution system, so when the DC bus reaches a certain voltage, the excess energy is shunted through a chopper unit to braking resistors.  The braking resistors are located near the converter rooms, and are capable of dissipating up to 10 MJ for 20 seconds once every 30 minutes</p>
+      </subsubsection>
+      <subsubsection xml:id="Electric-propulsion-ac-output---ac-out-">
+        <title>AC Output  (AC OUT)</title>
+        <p>This section contains the connections between the output of the inverter and the cabling to the propulsion motor.</p>
+      </subsubsection>
+    </subsection>
+  </section>
+  <section xml:id="Electric-propulsion-propulsion-motors">
+    <title>Propulsion Motors</title>
+    <introduction>
+      <p>The ship is propelled by two 4500 kW (6000 HP) General Electric three-phase induction motors.  The motors drive a single propeller shaft, which passes through the stern tube and drives a fixed-pitch propeller.   The speed and direction of the motors are varied by the Propulsion Converter in response to commands from the bridge.</p>
+      <table>
+        <title>Propulsion Motor Specifications</title>
+        <tabular>
+          <col width="40%"/>
+          <col width="40%"/>
+          <row><cell>Manufacturer</cell> <cell>GE Power Conversion</cell></row>
+          <row><cell>Type</cell> <cell>Three-phase AC Induction</cell></row>
+          <row><cell>Model</cell> <cell> <p>N3 HXC 1250 L/10 <fn>Series NC, H=Air/water cooling, X=Medium Voltage, C=Copper Cage, 1250 mm shaft height, L=magnetic circuit type, 10 pole</fn></p> </cell></row>
+          <row><cell>No. of sets</cell> <cell>2</cell></row>
+          <row><cell>Rated Power</cell> <cell>4,500 kW</cell></row>
+          <row><cell>Voltage</cell> <cell>3,150 V</cell></row>
+          <row><cell>Current</cell> <cell>1,035A</cell></row>
+          <row><cell>No. of Poles</cell> <cell>10</cell></row>
+          <row><cell>Speed</cell> <cell>0-115 rpm</cell></row>
+        </tabular>
+      </table>
+      <p>The propeller shaft is supported by journal bearings which maintain radial alignment, and a thrust bearing which transmits thrust from the propeller to the hull and  maintains axial alignment. The shaft is equipped with turning gear and a shaft lock. When either of these is engaged, propulsion is blocked.</p>
+      <figure xml:id="DriveTrain" landscape="yes">
+        <caption>Drive Train</caption>
+        <image source="images/DriveTrain" width="100%">
+          <remix>Source:  P1206 EMPIRE STATE MACHINERY MANUAL  FIRST DRAFT MAY 2022</remix>
+        </image>
       </figure>
-      <p>Each switchboard supplies electrical power at 60 Hz, 1850 Volts to a <term>Propulsion Converter</term> via a step-down <term>transformer</term>. The purpose of the propulsion converters is to change input voltage and frequency to the voltage and frequency needed to spin the propulsion motor in the desired direction, at the desired speed, as ordered by the bridge. </p>
-      <p>Each propulsion converter provides power to a <term>Propulsion Motor</term>.  The two propulsion motors drive a common shaft which is directly connected to the ship’s single propeller, as shown in <xref ref="DriveTrain"/>.  </p>
-      <p>The generators, transformers, propulsion converters, and propulsion motors will be discussed in more detail in the sections that follow.</p>
-   </section>
-   <section xml:id="ships-generators">
-      <title>Generators</title>
-      <introduction>
-         <p>Four 4000 kW, 6600 volt, three-phase generators provide electrical power for propulsion and for all other normal ship’s requirements.  Each generator is directly driven by a 16-cylinder, 4-stroke, 4200 kW diesel engine.  Since the generators have eight poles, when driven at 900 rpm they produce 60 Hz AC.</p>
-         <table xml:id="generator_specs">
-            <title>Main Generator Specifications</title>
-            <tabular>
-               <col width="30%"/>
-               <col width="30%"/>
-               <row>
-                  <cell>Manufacturer</cell>
-                  <cell>Hyundai</cell>
-               </row>
-               <row>
-                  <cell>Model</cell>
-                  <cell>HSJ9 913-08P </cell>
-               </row>
-               <row>
-                  <cell>Type</cell>
-                  <cell>8 pole, cylindrical rotor, brushless, separately excited </cell>
-               </row>
-               <row>
-                  <cell>Rated Output</cell>
-                  <cell>5066 kVA / 4053 kW</cell>
-               </row>
-               <row>
-                  <cell>Rated Voltage</cell>
-                  <cell> 6.6 kV AC</cell>
-               </row>
-               <row>
-                  <cell>Current</cell>
-                  <cell>443.2 A</cell>
-               </row>
-               <row>
-                  <cell>Speed</cell>
-                  <cell>900 rpm </cell>
-               </row>
-               <row>
-                  <cell>Frequency</cell>
-                  <cell>60 Hz</cell>
-               </row>
-               <row>
-                  <cell>Power factor</cell>
-                  <cell>0.8</cell>
-               </row>
-               <row>
-                  <cell>Excitation voltage</cell>
-                  <cell>60 V DC</cell>
-               </row>
-               <row>
-                  <cell>Excitation current</cell>
-                  <cell>4 A DC</cell>
-               </row>
-            </tabular>
-         </table>
-         <p/>
-      </introduction>
-      <subsection xml:id="description_generators">
-         <title>Description</title>
-         <p>As discussed in <xref ref="AC_generators"/>, the essential components of an AC generator are the armature and the field, one of which is located on the rotor and the other on the stator.  However a practical generator requires many other components, including an enclosure, bearings, cooling, lubrication, instrumentation and control, and a method to excite the field.  </p>
-         <p>These components are shown in <xref ref="generator"/> and  <xref ref="generator_exploded"/> and discussed below.</p>
-         <p>The shaft is supported by two journal bearings (7 and 13), one on the drive end (<term>DE</term>) and the other on the non-drive end (<term>NDE</term>).  Each bearing has its own integral oil sump with sight glass, cooling fins, and an oil ring that circulates the oil to the top of the shaft as it rotates. </p>
-         <p>The shaft itself supports and carries the rotating components: primarily the main rotor core (9) and the 8-pole main field windings (4), but also a cooling fan (2) and several other components (10, 11, 12, 14, 16, and 19) that are required to excite the generator.  Excitation systems will be discussed in <xref ref="Electric-propulsion-excitation-system"/>. </p>
-         <p>The main field (4) on the rotor is wound to create eight alternating north and south poles. The main stator core (8) surrounds the main rotor (9) and is wound with three main armature windings (3).  As the shaft rotates, the rotor’s magnetic field sweeps by the each of the three armature windings in turn, and induces a sinusoidal voltage in each as shown in <xref ref="three-phase"/>.  The resulting 3-phase AC is directed to the generator terminals (23), and from there connections are made to the main switchboard.</p>
-         <figure xml:id="generator">
-            <caption> Hyundai HSJ9 Generator </caption>
-            <image width="100%" source="images/generator">
-               <remix>   Source:  P1206 EMPIRE STATE MACHINERY MANUAL  FIRST DRAFT MAY 2022     </remix>
-            </image>
-         </figure>
-         <figure xml:id="generator_exploded">
-            <caption> Generator Exploded View </caption>
-            <image width="100%" source="images/generator_exploded.png">
-               <remix>
-   Source: DV951E001_MAIN ALTERNATOR_OPERATION MANUAL_ALTERNATOR   </remix>
-            </image>
-         </figure>
-         <p>
-            <ol cols="2">
-               <li>Water cooled Air Cooler</li>
-               <li>Ventilation Fan</li>
-               <li>Main Armature Winding </li>
-               <li>Main Field Windings</li>
-               <li>End Shield (DE)</li>
-               <li>Shaft</li>
-               <li>Bearing (DE)</li>
-               <li>Main Stator Core</li>
-               <li>Main Rotor Core</li>
-               <li>Main Field Terminals</li>
-               <li>Leads to/from Rectifier</li>
-               <li>Exciter Rotor Core</li>
-               <li>Bearing (NDE)</li>
-               <li>Rotating Rectifier</li>
-               <li>Rectifier Cover</li>
-               <li>Permanent Magnet Rotor</li>
-               <li>Permanent Magnet Stator</li>
-               <li>End Shield (NDE)</li>
-               <li>Exciter Armature Winding</li>
-               <li>Exciter Field Winding</li>
-               <li>Exciter Stator Core</li>
-               <li>Current Transformer</li>
-               <li>Main Terminal Box</li>
-            </ol>
-         </p>
-         <p>Both the main core and the stator core are made of thin sheets of <term>electrical steel</term>, called <term>laminations</term>, clamped tightly together. The stationary armature windings (3) and the rotating field windings (4) are inserted into slots formed when the laminations were pressed out, and are firmly wedged in to hold them in position. </p>
-         <p>Electrical steel is a speciality steel used in the cores of electrical machines such as motors, generators, and transformers. It is an iron alloy with silicon (instead of carbon) as the main additive element. Silicon increases the electrical resistivity of iron by a factor of about 5.  Electrical steel also has favorable magnetic properties which tend to reduce magnetic <term>hysteresis</term>
-            <mdash/> an energy loss caused by the repeated magnetization and de magnetization of the core.  These properties reduce energy losses in the core by about three times compared to conventional steel,</p>
-         <p>The laminations are insulated from each other to prevent current from flowing axially along the core.  These currents, called <term>eddy currents</term>, are another source of energy loss, so using insulated laminations improves the generator efficiency.  </p>
-         <p>Generators produce lots of heat while they are operating due to unavoidable losses caused by mechanical friction and electrical resistance, and other factors.  If this heat is not removed as it is produced, the generator temperature will rise to unacceptable limits, and high temperature is extremely damaging to electrical insulation. Electrical machines are designed to run for 100,000 hours or more when operated at or below their design temperature limit, however for every 10° C rise above this temperature, the thermal life expectancy of the electrical insulation is reduced by half, so generator cooling is critical.</p>
-         <p>The generator’s cooling system uses the shaft driven internal fan (2) to circulate the air through the machine. This hot air passes over a water-cooled heat exchanger where it is cooled and then recirculated.  The cooling water tubes are double walled with slotted plate fins. Water flows through the inner tube and cools the outer tube and the slotted fins. Air flows between the fins and around the outer tubes and so is cooled.  </p>
-         <p>In the case of a tube leak,  water will flow between the inner and outer tubes to a leak detector and trigger an alarm.  This prevents water from leaking on to the electrical components.</p>
-         <p>If for some reason the cooling water is not available, an  emergency cooling mode is available.  In this mode  cover plates on the generator are removed to allow the fan to draw cool air from the engine room and discharge the heated air outside the generator. </p>
-      </subsection>
-      <subsection xml:id="Electric-propulsion-excitation-system">
-         <title>Excitation System</title>
-         <introduction>
-            <p>The purpose of the excitation system is to <term>excite</term> the generator’s field.  That is, the system supplies the DC voltage and current to the generator’s main field windings that creates the magnetic field required for electrical generation.  The amount of excitation current determines the strength of this field, which in turn affects the generator output.</p>
-            <p>Generator excitation systems consists of several components that work together excite the field, maintain a constant and correct output voltage despite fluctuations in the load or other system conditions, and balance the reactive power when the generator is operating in parallel.</p>
-            <p>There are several different excitation system designs in use, each with particular advantages and disadvantages. These can be broadly categorized as separately or self excited, and brushed or brushless excitation systems.</p>
-            <p>In a <term>separately excited</term> excitation system, the excitation current is provided by an external DC power source. The generator's field winding is connected to a separate power supply, which is independent of the generator's output.  Separately excited generators tend to be more stable and less sensitive to load fluctuations because the excitation current is not affected by the generator's output. They provide better voltage regulation and are commonly used in applications that require precise control.</p>
-            <p>A <term>self-excited</term> system, on the other hand, uses the generator’s own output voltage to produce the excitation current. The generator's output voltage is connected, in parallel, to both the field circuit and to the load. In this design, generator excitation is effectively an additional load on the generator.  Self-excited generators are simpler and less expensive, but are inherently less stable and more sensitive to load changes due to the coupling between the generator load, output voltage, and excitation current. Voltage regulation is more difficult, especially under sudden changes in load.</p>
-            <p>
-               <term>Brushed</term> exciters use carbon brushes and copper slip rings to transmit the excitation current to the rotating generator rotor winding. Brushed exciters are simple and inexpensive and they were once widely used; however, they require significant maintenance including cleaning, adjustment, and periodic replacement of worn brushes.  They are being superseded by brushless exciters in new generators.</p>
-            <p>
-               <term>Brushless</term> exciters use solid-state devices, such as diodes, thyristors, and transistors mounted on the rotating shaft, to rectify the output voltage of the exciter generator.  They eliminate the need for brushes and slip rings, so are more reliable, require less maintenance, and offer better voltage control than brushed exciters.</p>
-            <figure xml:id="brushed_vs_brushless">
-               <caption>Brushed vs. Brushless Excitation</caption>
-               <sidebyside width="48%">
-                  <figure xml:id="brushes_sliprings">
-                     <caption> Brushes and Slip Rings </caption>
-                     <image source="images/brushes_sliprings.png">
-                        <remix>   Source:  https://pdfs.semanticscholar.org/658b/d1175e37de0040d98f072a8d48a7b3dac713.pdf    </remix>
-                     </image>
-                  </figure>
-                  <figure xml:id="diode_wheel">
-                     <caption> Rotating Diodes </caption>
-                     <image source="images/diode_wheel.png">
-                        <remix>   Source:  Marad Field Acceptance test    </remix>
-                     </image>
-                  </figure>
-               </sidebyside>
-            </figure>
-            <p>The excitation system used aboard the training ship is shown in <xref ref="excitation_system_schematic"/>.  This system is categorized as a brushless and self-excited.  The main components include the the <term>exciter generator</term> and <term>rotating diodes</term>, the <term>pilot generator</term>, and the <term>voltage regulator</term>, each of which will be discussed in the following sections.</p>
-         </introduction>
-         <subsubsection xml:id="Electric-propulsion-exciter">
-            <title>Exciter</title>
-            <p>An <term>exciter</term>, also known as an <term>excitation generator</term>, is a second generator which spins on the same shaft as the main generator.  The function of the exciter is to produce the direct current required to energize the main rotor windings, thereby creating a magnetic field. </p>
-            <p>There are several important differences between the main generator and the exciter.  Although both are 3-phase generators, the main generator has a rotating field and a stationary armature while the exciter has a stationary field and a rotating armature.   The exciter is much smaller than the main generator; the main generator can generate more than 440 A, while the exciter generates less than 4 A.</p>
-            <figure xml:id="excitation_system_schematic">
-               <caption>  Hyundai HSJ9 Excitation System</caption>
-               <image width="100%" source="images/excitation_system">
-                  <remix>   Source: weh CC0  </remix>
-               </image>
-            </figure>
-            <p>The 3-phase output of the exciter is directed through the hollow drive shaft to the <term>rotating rectifier</term> mounted on the non-drive end of the shaft.  The rectifier is a solid-state electronic device which uses six diodes arranged as shown in <xref ref="three_phase_rectifier"/> to convert the three-phase AC produced by the exciter generator into direct current. From there, DC current travels back through the shaft to excite the rotating main field windings.</p>
-            <figure xml:id="three_phase_rectifier">
-               <caption>3-phase, full-wave rectifier  </caption>
-               <sidebyside widths="25% 33% 25%" valign="bottom">
-                  <figure xml:id="diodes_in">
-                     <caption>  3 phase AC in </caption>
-                     <image source="images/diodes_in">
-                        <remix>   Source:  weh cc0    </remix>
-                     </image>
-                  </figure>
-                  <figure xml:id="six_diodes">
-                     <caption>  Rotating Diodes  </caption>
-                     <image source="images/six_diodes">
-                        <remix>   Source:  weh cc0    </remix>
-                     </image>
-                  </figure>
-                  <figure xml:id="diodes_out">
-                     <caption> DC out  </caption>
-                     <image source="images/diodes_out">
-                        <remix>   Source:  weh cc0    </remix>
-                     </image>
-                  </figure>
-               </sidebyside>
-            </figure>
-         </subsubsection>
-         <subsubsection xml:id="Electric-propulsion-pilot-generator">
-            <title>Pilot Generator</title>
-            <p>Just as the exciter generator is needed to supply the field for the main generator, a third generator is needed to supply the field for the exciter.  This is the <term>pilot generator</term>. </p>
-            <p>In other words, the main generator is excited by the exciter, and the exciter is excited by the pilot generator. This process stops here however, because the field of the pilot generator is produced by permanent magnets, not a field winding.  For this reason, the pilot generator is alternately called the <term>permanent magnet generator</term> or the <term>PMG</term>.</p>
-            <p>The pilot generator is shown in <xref ref="pilot_generator"/>.  It is located at the end of the shaft outboard of the bearing on the non-drive end of the generator unit  .  The rotor carries sixteen permanent magnets of alternating polarities bolted to the rotating shaft.  The stator is bolted onto the bearing housing and carries 3-phase wye-connected armature windings.  The rotating magnets induce a three-phase AC voltage into the stator windings.</p>
-            <p>The output of the pilot generator is transmitted to the automatic voltage regulator where it is rectified to DC, and then used to excite the stationary exciter field.  </p>
-            <figure xml:id="pilot_generator">
-               <caption>Permanent Magnet Generator (PMG)</caption>
-               <sidebyside width="48%">
-                  <figure xml:id="pmg_rotor">
-                     <caption> Permanent Magnet Rotor</caption>
-                     <image width="100%" source="images/pmg_rotor.png">
-                        <remix>   DV951E001_MAIN ALTERNATOR_OPERATION MANUAL_PMG    </remix>
-                     </image>
-                  </figure>
-                  <figure xml:id="pmg_stator">
-                     <caption> PMG Stator </caption>
-                     <image width="100%" source="images/pmg_stator.png">
-                        <remix>   Source: DV951E001_MAIN ALTERNATOR_OPERATION MANUAL_PMG   </remix>
-                     </image>
-                  </figure>
-               </sidebyside>
-            </figure>
-            <p>Because the source of the excitation in this generator is from permanent magnets, rather than an electromagnet excited by the output of the main generator, the generator is considered separately excited.  The main advantage of separate excitation is that fluctuations in the voltage of the main generator do not affect the excitation supply. Voltage fluctuations can be quickly corrected and the generator output can be maintained within tight tolerances..</p>
-         </subsubsection>
-         <subsubsection xml:id="Electric-propulsion-voltage-regulator">
-            <title>Voltage Regulator</title>
-            <p>An <term>automatic voltage regulator</term> (<term>AVR</term>) is a control device which detects any fluctuation in a generator’s voltage and adjusts the excitation current to offset the fluctuation and so keep the output voltage constant regardless of load changes. </p>
-            <p>A simplified block diagram of the components of the Hyundai HDEC2000 AVR used on the training ship is shown in <xref ref="avr_block_diagram"/>.     The primary function is to provide continuous voltage regulation of the generator through excitation current control with a <term>PID</term> (<term>proportional, integral, derivative</term>) software control algorithm, but the device also includes function blocks which provide monitoring, alarm, and system protection.  Two-way communications are provided through a network interface or via the front panel.</p>
-            <figure xml:id="AVR">
-               <caption>Automatic Voltage Regulator (AVR)</caption>
-               <sidebyside widths="30% 70%" valign="bottom">
-                  <figure xml:id="Front_Panel">
-                     <caption> Front Panel  </caption>
-                     <image source="images/AVR">
-                        <remix>   Source:  DV951E001_MAIN ALTERNATOR_OPERATION MANUAL_AVR    </remix>
-                     </image>
-                  </figure>
-                  <figure xml:id="avr_block_diagram">
-                     <caption>Simplified Block Diagram</caption>
-                     <image source="images/AVR_block_diagram">
-                        <remix>   Source:  weh cc0    </remix>
-                     </image>
-                  </figure>
-               </sidebyside>
-            </figure>
-            <p>The three main components of the AVR are the Digital Signal Processor, the Rectifier, and the Power Module. The device uses a combination of hardware and software to perform its functions.</p>
-            <p>The <term>Digital Signal Processor</term>
-               <term>(DSP)</term> is a specialized microprocessor designed to process and manipulate digital signals in real time.  The DSP software is executable code stored in nonvolatile Flash memory.  The DSP executes code and controls hardware to enable the AVR to perform functions such as regulation, measurement, monitoring, protection, and communications.</p>
-            <p>The DSP accepts both digital and analog inputs, the most important being the generator voltage and current, which are measured using current and potential (voltage) transformers on the generator output, and digitized by an <term>analog to digital converter</term> (<term>ADC</term>) in the DSP.  Based on these values and the system requirements, the DSP calculates the amount of excitation current required and produces a command signal that is transmitted to the Power Module.</p>
-            <p>The <term>Rectifier</term> module supplies DC power to the power module.  The power source for the module may come from a Permanent Magnet Generator, as done on the training ship, or directly from the main generator terminals if the generator is self-excited.  The module uses a three-phase full-wave rectifier, <xref ref="three_phase_rectifier"/>, to convert the supply to a DC voltage. </p>
-            <p>The Power Module uses <term>pulse width modulation</term>
-               <term>(PWM)</term> to trigger a set of <term>insulated gate bipolar transistors</term> (<term>IGBT)</term> that supply the requested excitation current  An excitation current signal is transmitted back to the DSP to be used for to PID feedback, and for over-excitation limitation, protection functions and monitoring.  PWM and IGBTs are discussed in more detail in <xref ref="what-is-pulse-width-modulation" text="title"/> and <xref ref="what-is-an-igbt" text="title"/>.</p>
-         </subsubsection>
-      </subsection>
-   </section>
-   <section xml:id="Electric-propulsion-propulsion-converters">
-      <title>Propulsion Converters</title>
-      <introduction>
-         <p>Propulsion Converters are very large  <term>variable frequency drives</term>. Recall from <xref ref="VFDs"/> that VFDs are electronic devices that take fixed frequency AC and convert it to variable-voltage, variable-frequency AC.    A VFD can drive an induction motor at any combination of speed and torque within the motor’s operating range.</p>
-         <p>The ship’s propulsion converters convert the fixed 6,600 V, 60 Hz AC from the High Voltage Main Switchboard (HVMSB) into a variable voltage and frequency which is used to drive the two electric propulsion motors at any speed commanded by the bridge.</p>
-         <table>
-            <title>Frequency Converter Specifications</title>
-            <tabular>
-               <col width="40%"/>
-               <col width="40%"/>
-               <row>
-                  <cell>Manufacturer</cell>
-                  <cell>General Electric</cell>
-               </row>
-               <row>
-                  <cell>Model</cell>
-                  <cell>
-                     <p>MV7306 DFE 12P <fn>3.3 kV Diode Front End, 12 pulse, Neutral Point Clamped (NPC) 
-</fn>
-                     </p>
-                  </cell>
-               </row>
-               <row>
-                  <cell>Rated output power</cell>
-                  <cell>4.75 MW </cell>
-               </row>
-               <row>
-                  <cell>Input voltage</cell>
-                  <cell>1,850 V</cell>
-               </row>
-               <row>
-                  <cell>Output voltage</cell>
-                  <cell>
-                  variable 0
-                  <ndash/>
-                  3,150 V
-                </cell>
-               </row>
-               <row>
-                  <cell>Output current</cell>
-                  <cell>1,035 A maximum</cell>
-               </row>
-               <row>
-                  <cell>Supply frequency</cell>
-                  <cell>60H</cell>
-               </row>
-               <row>
-                  <cell>Output frequency</cell>
-                  <cell>
-                  variable 15
-                  <ndash/>
-                  90 Hz
-                </cell>
-               </row>
-            </tabular>
-         </table>
-      </introduction>
-      <subsection xml:id="overview-converters">
-         <title>Description</title>
-         <p>The ship has two General Electric MV7306 propulsion converters, one for each propulsion motor.  The converters include the three main components shown in <xref ref="VFD_main_components"/>, as well as other supporting components housed in a row of cabinets located in converter rooms 1 and 2, on the 4th deck. The converters operate at extremely dangerous high voltages, so these rooms are normally locked and off-limits to all unauthorized personnel.</p>
-         <figure xml:id="propulsion_converter">
-            <caption> Propulsion Frequency Converter, exterior </caption>
-            <image width="100%" source="images/propulsion_converter">
-               <remix>   Source:  P1206 EMPIRE STATE MACHINERY MANUAL  FIRST DRAFT MAY 2022   </remix>
-            </image>
-         </figure>
-      </subsection>
-      <subsection xml:id="Electric-propulsion-drive-cabinets">
-         <title>Drive Cabinets</title>
-         <introduction>
-            <p>The components of the propulsion converter are housed in eight connected cabinets.  Each cabinet supports a particular function, as described below: </p>
-            <figure xml:id="MV7000_internal">
-               <caption>  Drive Cabinets, interior </caption>
-               <image width="100%" source="images/MV7000_internal.png">
-                  <remix>   Source: GEA30737C MV7000 Press Pack    </remix>
-               </image>
-            </figure>
-         </introduction>
-         <subsubsection xml:id="Electric-propulsion-process-control--prc-">
-            <title>Process Control (PRC)</title>
-            <p>The Process Control cabinet contains control and management modules for the propulsion system. It also contains a 230V AC 1.5 kVA <term>uninterruptible power supply</term> (<term>UPS</term>) which will take over immediately in the event of failure of the normal power supply. The UPS output goes to the CLC section for distribution. </p>
-            <p>
-              The front panel of the PRC contains a panel mounted supervision computer with touch-screen, which provides local control to monitor system parameters and alarms including:
-              <ul>
-                  <li>Speed setting dial and reply pointer. </li>
-                  <li>Propeller rpm meter. </li>
-                  <li>Power meter.  </li>
-                  <li>Emergency stop pushbutton. </li>
-                  <li>Alarm Acknowledge pushbutton. </li>
-               </ul>
-            </p>
-            <p>
-              Within the PRC, <term>programmable logic controllers</term>
-               <term>(PLCs)</term> and circuit boards automatically monitor and control many aspects of the propulsion system including:
-              <ul>
-                  <li>Control the propulsion motor speed, torque, flux and current.</li>
-                  <li>Connections, via fiber optic cables to the bridge and engine control rooms.</li>
-                  <li>Ethernet communications with instruments that monitor the system conditions.</li>
-                  <li>Fault management, safety shutdowns and interlocks.</li>
-                  <li>Provide the trigger pulses for the IGBTs.</li>
-                  <li>Automatically start and stop system auxiliaries.</li>
-               </ul>
-            </p>
-         </subsubsection>
-         <subsubsection xml:id="Electric-propulsion-converter-local-control--clc-">
-            <title>Converter Local Control (CLC)</title>
-            <p>
-              This Converter Local Control cabinet contains equipment to monitor and control the converter, including:
-              <ul>
-                  <li>
-                     <p>
-                        <term>Main PLC.</term>  The primary function of this Programmable Logic Controller is to control the sequences, safeties and regulation of the converter and control of motor speed and torque. It acquires signals from various current and voltage measurements and gates the inverter IGBTs accordingly. </p>
-                     <p>Additional tasks of the controller include control of the incoming AC supply breaker, protection of motor and converter, auxiliaries and the interface to the customer application software.</p>
-                  </li>
-                  <li>
-                     <p>
-                        <term>I/O modules.</term>  These input/output modules connect to establish communication with the various parts of the system. Non-time-critical I/O units are connected to MV7306 main controller through an Ethernet link.</p>
-                  </li>
-                  <li>
-                     <p>
-                        <term>Low voltage auxiliaries.</term>  These auxiliary components use 120 V supplied from UPS. The control cabinet also includes relays used to control circuit breakers, contactors, and DC supply for internal measuring devices. </p>
-                  </li>
-                  <li>
-                     <p>
-                        <term>Touch screen display.</term> This display provides functionality to configure the drive, and provides the operator  with local control, diagnostic and monitoring functions. </p>
-                  </li>
-               </ul>
-            </p>
-         </subsubsection>
-         <subsubsection xml:id="Electric-propulsion-converter-cooling--ccu-">
-            <title>Converter Cooling (CCU)</title>
-            <p>The Converter Cooling cabinet contains the equipment required to remove the heat generated by diodes and IGBTs when the converter is operating. The cubicle contains two circulating pumps (one always in stand-by), a stainless steel plate-type heat exchanger, an expansion tank, a resin deionizing cartridge, stainless steel piping and high pressure hoses.</p>
-            <p>Deionized water is used as the primary cooling medium. because its low conductivity minimizes corrosion and improves heat transfer, while its purity reduces the accumulation of scale formation.  </p>
-            <p>De-ionized water is circulated by the pump to the cooling pipes and ducts of the high voltage sections. Returning coolant then passes through a the heat exchange and the heat from the de-ionized water is removed by raw water.  A three-way thermostatic bypass valve controls the flow of raw water to through the heat exchanger to maintain the coolant temperature at an optimum level. </p>
-            <p>The coolant pressure, temperature, flow rate and conductivity are closely monitored.  A high temperature coolant alarm will sound at 43°C (110° F).   If a high conductivity is detected, the coolant is shunted through a resin de-ionizing cartridge until until a satisfactory conductivity level is restored,</p>
-         </subsubsection>
-         <subsubsection xml:id="Electric-propulsion-pre-charging--pre-">
-            <title>Pre-charging (PRE)</title>
-            <p>
-              The pre
-              <ndash/>
-              magnetization (pre
-              <ndash/>
-              charging) transformer and switchgear for the pre
-              <ndash/>
-              magnetizing of the propulsion transformer and the DC filter capacitors is located in this section.
-            </p>
-            <p>During startup, magnetizing the main transformers and charging the DC filter capacitors will draw a large (&gt; 400 A) current which can affect other parts of the electrical distribution system if not controlled.  The pre-charging system reduces the peak currents by limiting the charging rate with resistors and spreading the charging/magnetizing cycle out over about 10 minutes.</p>
-            <p>Power for pre-charging is supplied by a 440 V circuit from the main switchboard.</p>
-         </subsubsection>
-         <subsubsection xml:id="Electric-propulsion----------------dfe------------------------------diode-front-end-section--dfe--------------">
-            <title>
-              DFE
-              <ndash/>
-              Diode Front End Section (DFE)
-            </title>
-            <p>This section contains the Diode Front Edge bridge. This bridge receives the output of the two secondary windings of the <term>propulsion transformer</term> and rectifies this to a DC voltage in the <term>diode bridge</term>. </p>
-            <p>The propulsion transformers reduce the network voltage (6,600 V) to the requirements of the frequency converters (1,850V).   The transformers have a single primary winding, delta connected, and two secondary windings, one is delta connected and the other is wye connected. This provides a 30° phase shift in one of the supplies to the diode front end.  This arrangement effectively provides a 12-pulse configuration that reduces harmful harmonics. </p>
-            <p>The diode bridge is made up of four stacks of six diodes, one stack to each transformer secondary. The output is passed to the DC Capacitor and filter circuit in the DCC cabinet . </p>
-         </subsubsection>
-         <subsubsection xml:id="Electric-propulsion-dc-capacitor-section--dcc-">
-            <title>DC Capacitor Section (DCC)</title>
-            <p>This section houses the DC filter capacitor banks.These capacitors store energy and filter the rectified AC to remove any residual ripple from the waveform to provide a more stable DC supply. The capacitors are water cooled. During the power sequence they are all pre-charged.</p>
-         </subsubsection>
-         <subsubsection xml:id="Electric-propulsion-inverter--inv-">
-            <title>Inverter (INV)</title>
-            <p>The inverter section contains three subassemblies called <term>stacks</term>, one for each phase of the output.  Each stack consists of four IGBT and two diode <term>press pack</term> modules, a gate driver, water-cooled heat sink and balancing resistors.   </p>
-            <p>The term press pack refers to the physical packaging of electronic components.  It typically consists of a semiconductor chip,  along with its associated control and protection circuitry, mounted between two metal plates which serve as electrical contacts and provide mechanical support. These plates are made of good thermal conductors such as copper or aluminum. This design allows for efficient heat dissipation, as the metal plates can be directly attached to a heat sink.</p>
-            <figure xml:id="IGBT_stack">
-               <caption> IGBT Stack  </caption>
-               <image width="75%" source="images/IGBT_stack.png">
-                  <remix>   Source:  IGBT    </remix>
-               </image>
-            </figure>
-            <p>The IGBT gates are triggered by pulse width signals produced in the CLC section which change the direct current stored in the DC capacitors into variable voltage, variable frequency alternating current.</p>
-         </subsubsection>
-         <subsubsection xml:id="Electric-propulsion-inverter-local-contol--ilc-">
-            <title>Inverter Local Contol (ILC)</title>
-            <p>The ILC cubicle contains instrumentation to measure the DC link voltage, output current measurements, and the DC link grounding switch.  </p>
-            <p>This module also protects the inverter and DC bus from damage caused by the propulsion motors when the ship is slowing down.  During these periods the momentum of the ship will drive the propellor and motor, causing the motors to behave like generators and produce electrical power.  </p>
-            <p>Excessive electrical power cannot be fed back into the electrical distribution system, so when the DC bus reaches a certain voltage, the excess energy is shunted through a chopper unit to braking resistors.  The braking resistors are located near the converter rooms, and are capable of dissipating up to 10 MJ for 20 seconds once every 30 minutes</p>
-         </subsubsection>
-         <subsubsection xml:id="Electric-propulsion-ac-output---ac-out-">
-            <title>AC Output  (AC OUT)</title>
-            <p>This section contains the connections between the output of the inverter and the cabling to the propulsion motor. </p>
-         </subsubsection>
-      </subsection>
-   </section>
-   <section xml:id="Electric-propulsion-propulsion-motors">
-      <title>Propulsion Motors</title>
-      <introduction>
-         <p>The ship is propelled by two 4500 kW (6000 HP) General Electric three-phase induction motors.  The motors drive a single propeller shaft, which passes through the stern tube and drives a fixed-pitch propeller.   The speed and direction of the motors are varied by the Propulsion Converter in response to commands from the bridge.</p>
-         <table>
-            <title>Propulsion Motor Specifications</title>
-            <tabular>
-               <col width="40%"/>
-               <col width="40%"/>
-               <row>
-                  <cell>Manufacturer</cell>
-                  <cell>GE Power Conversion</cell>
-               </row>
-               <row>
-                  <cell>Type  </cell>
-                  <cell>Three-phase AC Induction</cell>
-               </row>
-               <row>
-                  <cell>Model</cell>
-                  <cell>
-                     <p>N3 HXC 1250 L/10 <fn>Series NC, H=Air/water cooling, X=Medium Voltage, C=Copper Cage, 1250 mm shaft height, L=magnetic circuit type, 10 pole</fn>
-                     </p>
-                  </cell>
-               </row>
-               <row>
-                  <cell>No. of sets</cell>
-                  <cell>2</cell>
-               </row>
-               <row>
-                  <cell>Rated Power</cell>
-                  <cell> 4,500 kW</cell>
-               </row>
-               <row>
-                  <cell>Voltage</cell>
-                  <cell>3,150 V</cell>
-               </row>
-               <row>
-                  <cell>Current</cell>
-                  <cell>1,035A</cell>
-               </row>
-               <row>
-                  <cell>No. of Poles</cell>
-                  <cell>10</cell>
-               </row>
-               <row>
-                  <cell>Speed</cell>
-                  <cell>0-115 rpm</cell>
-               </row>
-            </tabular>
-         </table>
-         <p>The propeller shaft is supported by journal bearings which maintain radial alignment, and a thrust bearing which transmits thrust from the propeller to the hull and  maintains axial alignment. The shaft is equipped with turning gear and a shaft lock. When either of these is engaged, propulsion is blocked. </p>
-         <figure xml:id="DriveTrain" landscape="yes">
-            <caption> Drive Train  </caption>
-            <image width="100%" source="images/DriveTrain">
-               <remix>   Source:  P1206 EMPIRE STATE MACHINERY MANUAL  FIRST DRAFT MAY 2022    </remix>
-            </image>
-         </figure>
-      </introduction>
-      <subsection xml:id="Electric-propulsion-description">
-         <title>Description</title>
-         <p>The stator core is made up of electrically insulated sheets, braced with clamping bolts and rings and mounted in the stator housing. The stator windings consists of layered coils mounted in the open slots of the stator core. The stator has two terminal boxes on the stator housing for electrical connections. </p>
-         <p>The rotor is comprised of a forged shaft with a shrunk on rotor body. The rotor windings are formed by bars and rings embedded together and brazed by an induction heating method to form a squirrel cage. </p>
-         <p>The rotor is supported with self-lubricated, bushed bearings. There are two jacking oil pumps for the drive end bearings and two jacking oil pumps for the non-drive end bearings, normally with one operating and one in standby. </p>
-         <p>The motors are fitted with two air-water heat exchangers providing cooled air which is forced through internal cooling openings via four 440V 9.2 kW electric-motor driven fans. This air is then circulated back to the coolers. In the event of fan failure, it is still possible to operate at a reduced speed.  In the event of cooling water failure, the motor is provided with emergency air openings in the cooler hood and in the stator housing which can be removed for natural cooling. </p>
-         <figure xml:id="propulsion_motor">
-            <caption>No. 1 Propulsion Motor </caption>
-            <image width="100%" source="images/propulsion_motor">
-               <remix>   Source:  DV951E001_MAIN ALTERNATOR_OPERATION MANUAL_ALTERNATOR  </remix>
-            </image>
-         </figure>
-      </subsection>
-   </section>
+    </introduction>
+    <subsection xml:id="Electric-propulsion-description">
+      <title>Description</title>
+      <p>The stator core is made up of electrically insulated sheets, braced with clamping bolts and rings and mounted in the stator housing. The stator windings consists of layered coils mounted in the open slots of the stator core. The stator has two terminal boxes on the stator housing for electrical connections.</p>
+      <p>The rotor is comprised of a forged shaft with a shrunk on rotor body. The rotor windings are formed by bars and rings embedded together and brazed by an induction heating method to form a squirrel cage.</p>
+      <p>The rotor is supported with self-lubricated, bushed bearings. There are two jacking oil pumps for the drive end bearings and two jacking oil pumps for the non-drive end bearings, normally with one operating and one in standby.</p>
+      <p>The motors are fitted with two air-water heat exchangers providing cooled air which is forced through internal cooling openings via four 440V 9.2 kW electric-motor driven fans. This air is then circulated back to the coolers. In the event of fan failure, it is still possible to operate at a reduced speed.  In the event of cooling water failure, the motor is provided with emergency air openings in the cooler hood and in the stator housing which can be removed for natural cooling.</p>
+      <figure xml:id="propulsion_motor">
+        <caption>No. 1 Propulsion Motor</caption>
+        <image source="images/propulsion_motor" width="100%">
+          <remix>Source:  DV951E001_MAIN ALTERNATOR_OPERATION MANUAL_ALTERNATOR</remix>
+        </image>
+      </figure>
+    </subsection>
+  </section>
 </chapter>
