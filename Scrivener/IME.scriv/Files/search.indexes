@@ -33,7 +33,7 @@ For each conversion, we create an appropriate unit-factor from &lt;xref ref="atm
 &lt;mrow&gt;  \amp =  27.5 \textrm{ in Hg} \times \left[\frac{760 \textrm{ mm Hg}}{29.92 \textrm{ in Hg}}\right] \amp = 698.5  \textrm{ mm Hg}&lt;/mrow&gt;
 &lt;mrow&gt;  \amp =  27.5 \textrm{ in Hg} \times \left[\frac{\kPa{101.5}}{29.92 \textrm{ in Hg}}\right] \amp =  93.3 \textrm{ kPa}&lt;/mrow&gt;
 &lt;mrow&gt;  \amp =  27.5 \textrm{ in Hg} \times \left[\frac{\psinch{14.7}}{29.92 \textrm{ in Hg}}\right] \amp =  13.5 \textrm{ psia}&lt;/mrow&gt;
-&lt;/md&gt;
+&lt;/md&gt;&lt;/p&gt;
 &lt;/solution&gt;
 </Text>
         </Document>
@@ -80,16 +80,14 @@ For each conversion, we create an appropriate unit-factor from &lt;xref ref="atm
         </Document>
         <Document ID="EB2EC9AB-5C47-49A3-8A53-FD60DE94D62E">
             <Title>Introduction</Title>
-            <Text> 
-</Text>
+        </Document>
+        <Document ID="34613D63-F917-4166-A78D-3759AACDA469">
+            <Title>Temperature</Title>
         </Document>
         <Document ID="8EF61945-9B10-407B-9A81-117A648362E4">
             <Title>Supercharging</Title>
             <Text>Supercharging an engine performs the same function as turbocharging an engine. The difference is the source of power used to drive the device that compresses the incoming fresh air. In a supercharged engine, the air is commonly compressed in a device called a blower. The blower is driven through gears directly from the engines crankshaft. The most common type of blower uses two rotating rotors to compress the air. Supercharging is more commonly found on two-stroke engines where the higher pressures that a supercharger is capable of generating are needed.
 Supercharging provides an immediate power boost without the lag often associated with turbochargers, although supercharging is generally less efficient because it draws power directly from the engine.</Text>
-        </Document>
-        <Document ID="34613D63-F917-4166-A78D-3759AACDA469">
-            <Title>Temperature</Title>
         </Document>
         <Document ID="DC012F76-010A-429A-BD5A-35EA344C9913">
             <Title>DFE &lt;ndash/&gt; Diode Front End Section (DFE)</Title>
@@ -98,13 +96,13 @@ The propulsion transformers reduce the network voltage (6,600 V) to the requirem
 The diode bridge is made up of four stacks of six diodes, one stack to each transformer secondary. The output is passed to the DC Capacitor and filter circuit in the DCC cabinet . 
 </Text>
         </Document>
-        <Document ID="F1CB3239-DE4C-4642-BFBD-AA99A8339622">
-            <Title>Introduction</Title>
-            <Text>Volume is the amount of three-dimensional space enclosed by a boundary or occupied by a substance.  For containers, volume measures their capacity.</Text>
-        </Document>
         <Document ID="1FC470F3-B9B3-4F83-B428-43451037351F">
             <Title>Electrically Powered Servo-Operated Gauges</Title>
             <Text>This tank gauging system is based on the principle of displacement measurement. A small displacer is accurately positioned in the liquid medium using a servo motor. The displacer is suspended on a measuring wire that is wound onto a finely grooved drum housing within the instrument.</Text>
+        </Document>
+        <Document ID="F1CB3239-DE4C-4642-BFBD-AA99A8339622">
+            <Title>Introduction</Title>
+            <Text>Volume is the amount of three-dimensional space enclosed by a boundary or occupied by a substance.  For containers, volume measures their capacity.</Text>
         </Document>
         <Document ID="4DB0BBD2-EFB1-48F2-A91D-9657941C7452">
             <Title>Temperature</Title>
@@ -119,7 +117,7 @@ Temperature can be measured in a variety of scales. When the temperature scale i
 &lt;figure xml:id="fig_three_phase_stator"&gt;
 &lt;caption&gt; Three-phase generator stator, showing three individual armature windings. &lt;/caption&gt;
 &lt;image width="50%" source="images/three_phase_stator.png"&gt;
-&lt;remix&gt;&lt;![CDATA[  https://www.allaboutcircuits.com/textbook/alternating-current/chpt-13/tesla-polyphase-induction-motors/  ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;&lt;source&gt;https://www.allaboutcircuits.com/textbook/alternating-current/chpt-13/tesla-polyphase-induction-motors/&lt;/source&gt;&lt;/remix&gt;
 
 &lt;/image&gt;
 &lt;/figure&gt;
@@ -130,7 +128,7 @@ As the rotor rotates, the rotating magnetic field induces voltages into each sta
 
 &lt;caption&gt;  Three-phase AC Voltage  &lt;/caption&gt;
 &lt;image width="60%" source="images/three-phase"&gt;
-&lt;remix&gt;&lt;![CDATA[   Source:  whaynes CC0    ]]&gt;&lt;/remix&gt;&lt;/image&gt;
+&lt;remix&gt;&lt;source&gt;whaynes CC0   &lt;/source&gt;&lt;/remix&gt;&lt;/image&gt;
 &lt;/figure&gt;
 </Text>
         </Document>
@@ -149,7 +147,7 @@ The close quarters, complex layout, and intricate ventilation systems aboard shi
 &lt;figure xml:id="Hyundai_Fortune"&gt;
 &lt;caption&gt;&lt;em&gt;Hyundai Fortune&lt;/em&gt; on fire 21 March 2006&lt;/caption&gt;
 &lt;image width="75%" source="images/Burning_container_ship_Hyundai_Fortune_yemin-ship-76682.jpg"&gt;
-&lt;remix&gt;&lt;![CDATA[  Source:  Royal Netherlands Navy, CC0, via Wikimedia Commons https://commons.wikimedia.org/wiki/File:Burning_container_ship_Hyundai_Fortune_yemin-ship-76682.jpg   ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;&lt;source&gt;Royal Netherlands Navy, CC0, via Wikimedia Commons https://commons.wikimedia.org/wiki/File:Burning_container_ship_Hyundai_Fortune_yemin-ship-76682.jpg  &lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 &lt;/figure&gt;
 Effective fire prevention measures, comprehensive emergency response plans, rigorous training, and state-of-the-art firefighting equipment are crucial in mitigating this threat and ensuring the safety of everyone on board.
@@ -271,35 +269,19 @@ Contactors are relays designed to handle higher voltages and currents than typic
 &lt;sidebyside widths="47% 26% 26%" &gt;
 
 &lt;image source="images/switch_panel.png"&gt;
-&lt;remix&gt;&lt;![CDATA[  https://www.hippopx.com/en/technology-anlagentechnik-plant-control-control-desk-controller-switch-396455  ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;&lt;source&gt;https://www.hippopx.com/en/technology-anlagentechnik-plant-control-control-desk-controller-switch-396455&lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 
 &lt;image source="images/ice_cube_relay.png"&gt;
-&lt;remix&gt;&lt;![CDATA[  https://www.grainger.com/product/DAYTON-General-Purpose-Relay-Socket-1EJC1  ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;&lt;source&gt;https://www.grainger.com/product/DAYTON-General-Purpose-Relay-Socket-1EJC1&lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 
 &lt;image source="images/contactor.png"&gt;
-&lt;remix&gt;&lt;![CDATA[  https://www.grainger.com/product/SQUARE-D-Definite-Purpose-Magnetic-5KAL8  ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;&lt;source&gt;https://www.grainger.com/product/SQUARE-D-Definite-Purpose-Magnetic-5KAL8&lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 
 &lt;/sidebyside&gt;
 &lt;/figure&gt;</Text>
-        </Document>
-        <Document ID="03623C3D-06D6-4ED0-901F-301A26D78F20">
-            <Title>Types of Elbow</Title>
-            <Text>Without elbows, it is impossible to think of a piping system on ship, especially in a limited place of installation. Elbows give flexibility for directing and building the piping system leading to saving of space and material.
-Different types of elbows are used in the piping system of ships as per the space and design of installation.
- * Male Elbow
-A male elbow is a fitting with male threads on both sides and is used for changing the direction of the piping. They fix on to female threads of the fittings on both sides. They come in various angles like 45 degrees and 90 degrees.
-* Female Elbow
-A female elbow is a pipe fitting that is used to change the direction of the piping and has female threads on both sides, which allow for fixing pipes or fittings with male threads. They come in various angles like 45 degrees and 90 degrees.
-* Street Elbow
-A street elbow is different from the male and female elbows in the respect that it has a male thread on one side and a female thread on other side. The advantage of using the street elbow is that it can directly fix to the pipe without connecting a nipple. They come in various angles like 45 degrees and 90 degrees.
-* Reducing Street Elbow
-A reducing street elbow is a pipe fitting that has male thread on one side and unequal female threads on other side. They are used for altering the direction of flow as well as joining pipes of two different sizes. They come in various angles like 45 degrees and 90 degrees.</Text>
-        </Document>
-        <Document ID="28F15D5A-BDCB-4ACA-9480-B92687C7AFCB">
-            <Title>temperature measurement</Title>
         </Document>
         <Document ID="649613C2-F46A-4774-B6BB-EB37D43A03B6">
             <Title>Symbols</Title>
@@ -340,6 +322,27 @@ A reducing street elbow is a pipe fitting that has male thread on one side and u
 
 &lt;/ul&gt;&lt;/p&gt;</Text>
         </Document>
+        <Document ID="03623C3D-06D6-4ED0-901F-301A26D78F20">
+            <Title>Types of Elbow</Title>
+            <Text>Without elbows, it is impossible to think of a piping system on ship, especially in a limited place of installation. Elbows give flexibility for directing and building the piping system leading to saving of space and material.
+Different types of elbows are used in the piping system of ships as per the space and design of installation.
+ * Male Elbow
+A male elbow is a fitting with male threads on both sides and is used for changing the direction of the piping. They fix on to female threads of the fittings on both sides. They come in various angles like 45 degrees and 90 degrees.
+* Female Elbow
+A female elbow is a pipe fitting that is used to change the direction of the piping and has female threads on both sides, which allow for fixing pipes or fittings with male threads. They come in various angles like 45 degrees and 90 degrees.
+* Street Elbow
+A street elbow is different from the male and female elbows in the respect that it has a male thread on one side and a female thread on other side. The advantage of using the street elbow is that it can directly fix to the pipe without connecting a nipple. They come in various angles like 45 degrees and 90 degrees.
+* Reducing Street Elbow
+A reducing street elbow is a pipe fitting that has male thread on one side and unequal female threads on other side. They are used for altering the direction of flow as well as joining pipes of two different sizes. They come in various angles like 45 degrees and 90 degrees.</Text>
+        </Document>
+        <Document ID="28F15D5A-BDCB-4ACA-9480-B92687C7AFCB">
+            <Title>temperature measurement</Title>
+        </Document>
+        <Document ID="0094C026-9A29-4CA9-9FE1-5A38714CC967">
+            <Title>Pneumercator (Bubbler) Gauges</Title>
+            <Text>This gauging system works on the principle of hydrostatic pressure measurement to determine liquid level. The pressure created by the actual depth of liquid is fed to the gauge which moves the reading until an equilibrium is reached. 
+</Text>
+        </Document>
         <Document ID="A2828978-8627-4517-90E7-796979D852B3">
             <Title>Unit-factor Method</Title>
         </Document>
@@ -356,18 +359,13 @@ The feed pump is usually a turbine driven centrifugal pump, and the discharge pr
 &lt;figure xml:id="fig_coffin_feed_pump"&gt;
 &lt;caption&gt; Cutaway Coffin Steam-driven Feed Pump from &lt;em&gt;TS Patriot State I&lt;/em&gt;&lt;/caption&gt;
 &lt;image width="50%" source="images/coffin_feed_pump.png"&gt;
-&lt;remix&gt; &lt;![CDATA[ Own work whaynes@maritime.edu CC0]]&gt;&lt;/remix&gt;
+&lt;remix&gt; &lt;source&gt; Own work whaynes@maritime.edu CC0&lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 &lt;/figure&gt;
 </Text>
         </Document>
         <Document ID="BA0DCC9C-FB8C-4014-AD8D-861B079A7C95">
             <Title>Foot Protection</Title>
-        </Document>
-        <Document ID="0094C026-9A29-4CA9-9FE1-5A38714CC967">
-            <Title>Pneumercator (Bubbler) Gauges</Title>
-            <Text>This gauging system works on the principle of hydrostatic pressure measurement to determine liquid level. The pressure created by the actual depth of liquid is fed to the gauge which moves the reading until an equilibrium is reached. 
-</Text>
         </Document>
         <Document ID="1965642B-B063-4E9C-905A-C99F4C87FBEA">
             <Title>Pressure Measuring Devices</Title>
@@ -451,6 +449,21 @@ Systematically analyzing and communicating job hazards and implementing appropri
 &lt;image source="images/jha.png"/&gt;&lt;/figure&gt;
 </Text>
         </Document>
+        <Document ID="0348DE80-DE65-4463-84A0-8E513365C8ED">
+            <Title>History of the Internal Combustion Engine</Title>
+            <Text>&lt;figure&gt;
+   &lt;caption&gt; Nicolaus Otto (1832)&lt;/caption&gt; 
+  &lt;image source="images/diesel-image3.png" width="25%"/&gt; 
+&lt;/figure&gt;
+The first practical alternative to the steam engine was invented in 1861 Nicolaus August Otto. Later, in partnership with German industrialist Eugen Langen, they improved the design and won a gold medal at the World Exposition in Paris of 1867.  In 1876, Otto, then a traveling salesman, chanced upon a newspaper account of the Lenoir internal combustion engine. Before year's end, Otto had built an internal combustion engine, utilizing a four-stroke piston cycle. 
+Otto's design called for four strokes of a piston to draw in and compress a gas-air mixture within a cylinder resulting in an internal explosion.  He received patent #365,701 for his gas-motor engine, now called the Otto cycle in his honor. Because of its reliability, efficiency, and relative quietness, more than 30,000 Otto cycle engines were built in the next 10 years. He also developed low-voltage magneto ignition systems for his engines, allowing a much greater ease in starting. 
+&lt;figure&gt;
+   &lt;caption&gt; Rudolf Diesel (1858) &lt;/caption&gt;
+  &lt;image source="images/diesel-image4.png" width="25%"/&gt; 
+&lt;/figure&gt;
+Dr. Rudolf Diesel was born in 1858 in France and began his career as a refrigeration engineer. For ten years he worked on various heat engines, including a solar-powered air engine. Diesel's ideas for an engine where the combustion would be carried out within the cylinder were published in 1893. 
+The modern diesel engine came about as the result of the internal combustion principles first proposed by Sadi Carnot in the early 19th century. Dr. Rudolf Diesel applied Sadi Carnot's principles into a patented cycle or method of combustion that has become known as the &lt;q&gt;diesel&lt;/q&gt; cycle. His patented engine operated when the heat generated during the compression of the air fuel charge caused ignition of the mixture, which then expanded at a constant pressure during the full power stroke of the engine. Dr. Diesel's first engine ran on coal dust and used a compression pressure of 1500 psi to increase its theoretical efficiency. Also, his first engine did not have provisions for any type of cooling system. Consequently, between the extreme pressure and the lack of cooling, the engine exploded and almost killed its inventor. After recovering from his injuries, Diesel tried again using oil as the fuel, adding a cooling water jacket around the cylinder, and lowering the compression pressure to approximately 550 psi. This combination eventually proved successful. Production rights to the engine were sold to Adolphus Bush, who built the first diesel engines for commercial use, installing them in his St. Louis brewery to drive various pumps.</Text>
+        </Document>
         <Document ID="9829A605-54A2-4ECE-922F-B93594FDE50D">
             <Title>introduction</Title>
             <Text>Centrifugal pumps use centrifugal force to transfer the mechanical energy supplied to the pump into primarily kinetic energy (velocity) in the fluid being pumped. Centrifugal force is the force generated by rotation which acts outward from the center of rotation. Using the terminology already covered, centrifugal pumps are classified as:  non-positive displacement pumps,  non-self priming, and are  constant delivery for a given operating speed and discharge pressure. Because of their simplicity, low cost and ability to operate under a wide variety of conditions, centrifugal pumps are widely used. They can be adapted to produce any head up to several thousand feet and will handle liquids at temperatures up to 1000° F. They can also be designed to handle liquids containing a high proportion of rather large solid particles. 
@@ -473,21 +486,6 @@ Impeller vanes which curve backwards with respect to their direction of rotation
  The pump discharge capacity would decrease. 
  The pump efficiency would decrease. 
  &lt;/ul&gt;&lt;/p&gt;</Text>
-        </Document>
-        <Document ID="0348DE80-DE65-4463-84A0-8E513365C8ED">
-            <Title>History of the Internal Combustion Engine</Title>
-            <Text>&lt;figure&gt;
-   &lt;caption&gt; Nicolaus Otto (1832)&lt;/caption&gt; 
-  &lt;image source="images/diesel-image3.png" width="25%"/&gt; 
-&lt;/figure&gt;
-The first practical alternative to the steam engine was invented in 1861 Nicolaus August Otto. Later, in partnership with German industrialist Eugen Langen, they improved the design and won a gold medal at the World Exposition in Paris of 1867.  In 1876, Otto, then a traveling salesman, chanced upon a newspaper account of the Lenoir internal combustion engine. Before year's end, Otto had built an internal combustion engine, utilizing a four-stroke piston cycle. 
-Otto's design called for four strokes of a piston to draw in and compress a gas-air mixture within a cylinder resulting in an internal explosion.  He received patent #365,701 for his gas-motor engine, now called the Otto cycle in his honor. Because of its reliability, efficiency, and relative quietness, more than 30,000 Otto cycle engines were built in the next 10 years. He also developed low-voltage magneto ignition systems for his engines, allowing a much greater ease in starting. 
-&lt;figure&gt;
-   &lt;caption&gt; Rudolf Diesel (1858) &lt;/caption&gt;
-  &lt;image source="images/diesel-image4.png" width="25%"/&gt; 
-&lt;/figure&gt;
-Dr. Rudolf Diesel was born in 1858 in France and began his career as a refrigeration engineer. For ten years he worked on various heat engines, including a solar-powered air engine. Diesel's ideas for an engine where the combustion would be carried out within the cylinder were published in 1893. 
-The modern diesel engine came about as the result of the internal combustion principles first proposed by Sadi Carnot in the early 19th century. Dr. Rudolf Diesel applied Sadi Carnot's principles into a patented cycle or method of combustion that has become known as the &lt;q&gt;diesel&lt;/q&gt; cycle. His patented engine operated when the heat generated during the compression of the air fuel charge caused ignition of the mixture, which then expanded at a constant pressure during the full power stroke of the engine. Dr. Diesel's first engine ran on coal dust and used a compression pressure of 1500 psi to increase its theoretical efficiency. Also, his first engine did not have provisions for any type of cooling system. Consequently, between the extreme pressure and the lack of cooling, the engine exploded and almost killed its inventor. After recovering from his injuries, Diesel tried again using oil as the fuel, adding a cooling water jacket around the cylinder, and lowering the compression pressure to approximately 550 psi. This combination eventually proved successful. Production rights to the engine were sold to Adolphus Bush, who built the first diesel engines for commercial use, installing them in his St. Louis brewery to drive various pumps.</Text>
         </Document>
         <Document ID="4220B3A7-F96B-49C7-9CDA-0A9F744F958B">
             <Title>Gate Valves</Title>
@@ -704,7 +702,7 @@ The non-rising type is the least likely to leak in the packing area and requires
 &lt;figure xml:id="induction_motor"&gt;
 &lt;caption&gt;  Three-phases Induction Motor  &lt;/caption&gt;
 &lt;image width="50%" source="images/induction_motor"&gt;
-&lt;remix&gt;&lt;![CDATA[   Source:  Siemens STEP program Basics of Induction Motors    ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;&lt;source&gt;Siemens STEP program Basics of Induction Motors   &lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 &lt;/figure&gt;
 The stator carries three identical sets of phase windings placed 120 degrees apart in a symmetrical pattern and connected in wye.. The specific pattern of the windings determines the number of magnetic poles.  Small motors typically have two or four poles per phase, but the ship’s propulsion motors have ten poles per phase. 
@@ -715,7 +713,7 @@ The stator carries three identical sets of phase windings placed 120 degrees apa
 
 &lt;caption&gt; Partially Wound  &lt;/caption&gt;
 &lt;image source="images/stator_1"&gt;
-&lt;remix&gt;&lt;![CDATA[   Source:  Siemens STEP program Basics of Induction Motors    ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;&lt;source&gt;Siemens STEP program Basics of Induction Motors   &lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 &lt;/figure&gt;
 &lt;figure xml:id="stator_2"&gt;
@@ -739,7 +737,7 @@ The rotor is typically made of a laminated iron core with conductive bars embedd
 
 &lt;caption&gt;  Rotor Cutaway Diagram &lt;/caption&gt;
 &lt;image width="75%" source="images/rotor_cutaway"&gt;
-&lt;remix&gt;&lt;![CDATA[   Source:  Siemens STEP program Basics of Induction Motors    ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;&lt;source&gt;Siemens STEP program Basics of Induction Motors   &lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 &lt;/figure&gt;
 As the rotating magnetic field passes over the rotor windings, it induces a voltage, according to Faraday's law of electromagnetic induction. This voltage drives a current through the rotor windings, which, in turn, generates a magnetic field surrounding the rotor windings.
@@ -770,21 +768,8 @@ A good deal of confusion exists concerning the use of the word &lt;q&gt;heat.&lt
             <Text>This material has better insulating properties than firebrick, but can not be exposed to direct flame. It is used behind the firebrick. 
 </Text>
         </Document>
-        <Document ID="E21C7AC5-6DB9-4370-8618-6389ACC50514">
-            <Title>introduction</Title>
-            <Text>Safety management is a systematic approach taken by regulatory bodies and companies to identify, assess, control, and mitigate risks in order to ensure the safety of personnel, assets, and the environment. It involves the development and implementation of policies, procedures, and practices aimed at preventing accidents, injuries, and damage. 
-Key components of safety management include risk assessment, safety planning, establishment of policies and procedures, training and education, reporting and investigation of incidents, audits and inspections, and continuous improvement efforts. The goal of safety management is to protect lives, prevent harm, and promote a culture of safety within organizations across various industries.</Text>
-        </Document>
         <Document ID="71C5C3B2-8E7A-46E1-A64E-8619D6DAD346">
             <Text>How many square kilometers  are there in 2 square miles?</Text>
-        </Document>
-        <Document ID="10FE68A2-915A-4424-BD7A-79DE8ADE2813">
-            <Title>What to expect on the training cruise</Title>
-        </Document>
-        <Document ID="5FDBB9D5-A0CD-4F3A-AC4B-CB47966B2996">
-            <Title>Boiler Casing</Title>
-            <Text>The entire boiler is surrounded by a two-layered casing which provides an airtight enclosure for the boiler, see &lt;xref ref="refractory_png"/&gt;. Air from the forced draft blowers flows between the two casings. Both the inner and outer casings of the boiler are made of steel panels. The panels are removable to provide access to the boiler tubes for inspection or repair, and are welded or bolted together with gaskets to form an airtight seal. 
-</Text>
         </Document>
         <Document ID="D5F58053-F988-4B24-96FF-7010B6E9E9CC">
             <Title>Capsule Gages is a device used to measure low-pressure ranges with high accuracy. It is particularly effective in applications where sensitive pressure measurement is required, such as in laboratory settings, HVAC systems, and certain industrial processes.
@@ -829,7 +814,19 @@ Capsule-type pressure gauges are commonly used in scenarios requiring precise me
 - **Limited Pressure Range**: Typically suitable only for low-pressure measurements.
 
 In summary, capsule-type pressure gauges are specialized instruments designed for precise low-pressure measurement. Their unique design, based on the deformation of a capsule element, allows for high sensitivity and accuracy, making them suitable for various sensitive and critical applications.</Title>
-            <Text> </Text>
+        </Document>
+        <Document ID="10FE68A2-915A-4424-BD7A-79DE8ADE2813">
+            <Title>What to expect on the training cruise</Title>
+        </Document>
+        <Document ID="5FDBB9D5-A0CD-4F3A-AC4B-CB47966B2996">
+            <Title>Boiler Casing</Title>
+            <Text>The entire boiler is surrounded by a two-layered casing which provides an airtight enclosure for the boiler, see &lt;xref ref="refractory_png"/&gt;. Air from the forced draft blowers flows between the two casings. Both the inner and outer casings of the boiler are made of steel panels. The panels are removable to provide access to the boiler tubes for inspection or repair, and are welded or bolted together with gaskets to form an airtight seal. 
+</Text>
+        </Document>
+        <Document ID="E21C7AC5-6DB9-4370-8618-6389ACC50514">
+            <Title>introduction</Title>
+            <Text>Safety management is a systematic approach taken by regulatory bodies and companies to identify, assess, control, and mitigate risks in order to ensure the safety of personnel, assets, and the environment. It involves the development and implementation of policies, procedures, and practices aimed at preventing accidents, injuries, and damage. 
+Key components of safety management include risk assessment, safety planning, establishment of policies and procedures, training and education, reporting and investigation of incidents, audits and inspections, and continuous improvement efforts. The goal of safety management is to protect lives, prevent harm, and promote a culture of safety within organizations across various industries.</Text>
         </Document>
         <Document ID="D4AD0181-964C-4548-8EFB-6673964758E3">
             <Title>Electrical Equipment</Title>
@@ -859,7 +856,7 @@ The advantage of higher voltages is that for a given power, higher voltage means
 &lt;figure xml:id="fig_distribution_simplified" landscape="yes"&gt;
 &lt;caption&gt;  NSMV Electrical Distribution (simplified) &lt;/caption&gt;
 &lt;image width="100%" source="images/Distribution_simplified"&gt;
-&lt;remix&gt;&lt;![CDATA[   Source:  whaynes from Diagram NSMV=321-B607   ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;&lt;source&gt;whaynes from Diagram NSMV=321-B607  &lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 &lt;/figure&gt;
 An extremely simplified representation of the Patriot State II electrical distribution system is shown in &lt;xref ref="fig_distribution_simplified"/&gt;.  This diagram represents only about half the distribution system and only shows the portion of the system which is supplied from the after engine room.
@@ -915,7 +912,7 @@ The propeller shaft is supported by journal bearings which maintain radial align
 &lt;figure xml:id="DriveTrain" landscape="yes"&gt;
 &lt;caption&gt; Drive Train  &lt;/caption&gt;
 &lt;image width="100%" source="images/DriveTrain"&gt;
-&lt;remix&gt;&lt;![CDATA[   Source:  P1206 EMPIRE STATE MACHINERY MANUAL  FIRST DRAFT MAY 2022    ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;&lt;source&gt;P1206 EMPIRE STATE MACHINERY MANUAL  FIRST DRAFT MAY 2022   &lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 &lt;/figure&gt;
 </Text>
@@ -954,7 +951,7 @@ Phase Shift Phase shift refers to the time difference between two periodic wavef
 &lt;figure xml:id="fig_phase-shift"&gt;
 &lt;caption&gt;  E_2 lags E_1 with a phase shift \theta  &lt;/caption&gt;
 &lt;image width="50%" source="images/phase-shift"&gt;
-&lt;remix&gt; &lt;![CDATA[  whaynes CC0  ]]&gt;&lt;/remix&gt;
+&lt;remix&gt; &lt;source&gt;whaynes CC0&lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 &lt;/figure&gt;
 </Text>
@@ -1021,6 +1018,14 @@ An example of a fuel flow path is shown in &lt;xref ref="fuel-system-pic"/&gt;.
 &lt;/figure&gt; 
 </Text>
         </Document>
+        <Document ID="2085C06B-8D1F-4B38-BCA4-A3BA35252FCD">
+            <Title>Gauge Pressure</Title>
+            <Text>in gauge pressure, 0 gauge = One Atmosphere at Sea Level = 14.7 psia = 101.325 kPa 
+&lt;figure&gt;
+   &lt;caption&gt;Gauge Pressure&lt;/caption&gt;
+   &lt;image width="50%" source="images/image5.png"/&gt;
+&lt;/figure&gt;</Text>
+        </Document>
         <Document ID="66E78489-5E26-4645-B3E5-EE2B8D9CB779">
             <Title>Fire Prevention Measures</Title>
         </Document>
@@ -1040,14 +1045,6 @@ One of the most important technological applications of Pascal’s principle is 
 &lt;/figure&gt;
 A typical hydraulic system with two fluid-filled cylinders, capped with pistons and connected by a tube called a hydraulic line. A downward force F1F1 on the left piston creates a pressure that is transmitted undiminished to all parts of the enclosed fluid. This results in an upward force F2F2 on the right piston that is larger than F1F1 because the right piston has a larger area. 
 </Text>
-        </Document>
-        <Document ID="2085C06B-8D1F-4B38-BCA4-A3BA35252FCD">
-            <Title>Gauge Pressure</Title>
-            <Text>in gauge pressure, 0 gauge = One Atmosphere at Sea Level = 14.7 psia = 101.325 kPa 
-&lt;figure&gt;
-   &lt;caption&gt;Gauge Pressure&lt;/caption&gt;
-   &lt;image width="50%" source="images/image5.png"/&gt;
-&lt;/figure&gt;</Text>
         </Document>
         <Document ID="82C9A66E-F17F-41D5-94DA-606D917485AA">
             <Title>Principles of Thermodynamics</Title>
@@ -1119,7 +1116,7 @@ The permit to work system is designed to prevent accidents, injuries, and damage
 &lt;figure xml:id="hot-work-tag"&gt;
 &lt;caption&gt;Hot Work Tag&lt;/caption&gt;
 &lt;image width="75%" source="images/hot-work-tag.png"&gt;
-&lt;remix&gt;&lt;![CDATA[  Source:  https://www.idescosafety.com/   ]]&gt;&lt;/remix&gt;&lt;/image&gt;
+&lt;remix&gt;&lt;source&gt;https://www.idescosafety.com/  &lt;/source&gt;&lt;/remix&gt;&lt;/image&gt;
 &lt;/figure&gt;
 </Text>
         </Document>
@@ -1137,7 +1134,7 @@ The permit to work system is designed to prevent accidents, injuries, and damage
 
 &lt;caption&gt;  Three resistors in parallel  &lt;/caption&gt;
 &lt;image width="60%" source="images/parallel_resistors"&gt;
-&lt;remix&gt;&lt;![CDATA[   Source:  whaynes CC0   ]]&gt;&lt;/remix&gt;&lt;/image&gt;
+&lt;remix&gt;&lt;source&gt;whaynes CC0  &lt;/source&gt;&lt;/remix&gt;&lt;/image&gt;
 &lt;/figure&gt;
 The key characteristics parallel circuits are: &lt;ul&gt;
 The same voltage is applied to all parallel components.
@@ -1158,7 +1155,6 @@ The total resistance of a parallel circuit containing n branches is given by thi
         </Document>
         <Document ID="F5A0F03C-2EA3-40E2-ABD6-9F3CCB0DC386">
             <Title>Examples</Title>
-            <Text> </Text>
         </Document>
         <Document ID="F5E2724E-1C74-47BC-8DBB-7CA3AD6064D9">
             <Title>Heat Exchangers</Title>
@@ -1175,6 +1171,23 @@ The flow order through these heat exchangers is always from coolest to hottest. 
         <Document ID="0CD197D1-392B-4DAB-A205-F2C83F67C2E8">
             <Title>answer</Title>
             <Text>&lt;me&gt;5 \mathrm{\ bar}  =  \psi{72.7}  =   \kPa{500} &lt;/me&gt;
+</Text>
+        </Document>
+        <Document ID="E90423B5-659A-417E-ABC7-D074377C61A4">
+            <Title>PASCAL’S PRINCIPLE</Title>
+            <Text>PASCAL’S PRINCIPLE 
+A change in pressure applied to an enclosed fluid is transmitted undiminished to all portions of the fluid and to the walls of its container. 
+Pascal’s principle, an experimentally verified fact, is what makes pressure so important in fluids. Since a change in pressure is transmitted undiminished in an enclosed fluid, we often know more about pressure than other physical quantities in fluids. Moreover, Pascal’s principle implies that &lt;em&gt;the total pressure in a fluid is the sum of the pressures from different sources&lt;/em&gt;. We shall find this fact—that pressures add—very useful. 
+Blaise Pascal had an interesting life in that he was home-schooled by his father who removed all of the mathematics textbooks from his house and forbade him to study mathematics until the age of 15. This, of course, raised the boy’s curiosity, and by the age of 12, he started to teach himself geometry. Despite this early deprivation, Pascal went on to make major contributions in the mathematical fields of probability theory, number theory, and geometry. He is also well known for being the inventor of the first mechanical digital calculator, in addition to his contributions in the field of fluid statics. 
+Application of Pascal’s Principle 
+One of the most important technological applications of Pascal’s principle is found in a &lt;em&gt;hydraulic system&lt;/em&gt;, which is an enclosed fluid system used to exert forces. The most common hydraulic systems are those that operate car brakes. Let us first consider the simple hydraulic system shown in &lt;xref ref="one-cubic-inch"/&gt;
+
+&lt;figure xml:id="one-cubic-inch"&gt;
+   &lt;caption&gt;1 cubic inch    A small force can be converted into a larger force when pressure is transmitted through liquids in different containers with pistons that are connected.
+&lt;/caption&gt;
+   &lt;image width="50%" source="images/image9.jpeg"/&gt;
+&lt;/figure&gt;
+A typical hydraulic system with two fluid-filled cylinders, capped with pistons and connected by a tube called a hydraulic line. A downward force F1F1 on the left piston creates a pressure that is transmitted undiminished to all parts of the enclosed fluid. This results in an upward force F2F2 on the right piston that is larger than F1F1 because the right piston has a larger area. 
 </Text>
         </Document>
         <Document ID="9D17C38D-7178-43C2-B30D-FCEDCDDDB94E">
@@ -1204,23 +1217,6 @@ The flow order through these heat exchangers is always from coolest to hottest. 
       &lt;/statement&gt;
    &lt;/choice&gt;
 &lt;/choices&gt;
-</Text>
-        </Document>
-        <Document ID="E90423B5-659A-417E-ABC7-D074377C61A4">
-            <Title>PASCAL’S PRINCIPLE</Title>
-            <Text>PASCAL’S PRINCIPLE 
-A change in pressure applied to an enclosed fluid is transmitted undiminished to all portions of the fluid and to the walls of its container. 
-Pascal’s principle, an experimentally verified fact, is what makes pressure so important in fluids. Since a change in pressure is transmitted undiminished in an enclosed fluid, we often know more about pressure than other physical quantities in fluids. Moreover, Pascal’s principle implies that &lt;em&gt;the total pressure in a fluid is the sum of the pressures from different sources&lt;/em&gt;. We shall find this fact—that pressures add—very useful. 
-Blaise Pascal had an interesting life in that he was home-schooled by his father who removed all of the mathematics textbooks from his house and forbade him to study mathematics until the age of 15. This, of course, raised the boy’s curiosity, and by the age of 12, he started to teach himself geometry. Despite this early deprivation, Pascal went on to make major contributions in the mathematical fields of probability theory, number theory, and geometry. He is also well known for being the inventor of the first mechanical digital calculator, in addition to his contributions in the field of fluid statics. 
-Application of Pascal’s Principle 
-One of the most important technological applications of Pascal’s principle is found in a &lt;em&gt;hydraulic system&lt;/em&gt;, which is an enclosed fluid system used to exert forces. The most common hydraulic systems are those that operate car brakes. Let us first consider the simple hydraulic system shown in &lt;xref ref="one-cubic-inch"/&gt;
-
-&lt;figure xml:id="one-cubic-inch"&gt;
-   &lt;caption&gt;1 cubic inch    A small force can be converted into a larger force when pressure is transmitted through liquids in different containers with pistons that are connected.
-&lt;/caption&gt;
-   &lt;image width="50%" source="images/image9.jpeg"/&gt;
-&lt;/figure&gt;
-A typical hydraulic system with two fluid-filled cylinders, capped with pistons and connected by a tube called a hydraulic line. A downward force F1F1 on the left piston creates a pressure that is transmitted undiminished to all parts of the enclosed fluid. This results in an upward force F2F2 on the right piston that is larger than F1F1 because the right piston has a larger area. 
 </Text>
         </Document>
         <Document ID="997A4ACA-FF05-46BC-B8C0-266CCA4D412C">
@@ -2072,6 +2068,14 @@ The energy generated by the combustion process is not all harnessed. In a two st
    &lt;image width="30%" source="images/temperature-image3.png"/&gt;
 &lt;/figure&gt;</Text>
         </Document>
+        <Document ID="3117E545-D17B-4424-8D9F-D47B9FC3B2CC">
+            <Title>Dual Scale Gage</Title>
+            <Text>The Dial contains a basic pressure scale and one or more additional concentric scales in equivalent values of a different pressure unit. 
+&lt;figure&gt;
+   &lt;caption&gt;Dual Gauge&lt;/caption&gt;
+   &lt;image width="50%" source="images/image5.jpeg"/&gt;
+&lt;/figure&gt;</Text>
+        </Document>
         <Document ID="5EB14D26-26BA-4355-BF47-25B540862F6E">
             <Title>Time Measuring Instruments</Title>
             <Text>Solar Day and Sundials: One of the earliest methods of measuring time is based on the solar day—the time it takes for the Earth to complete one rotation on its axis relative to the sun. Ancient cultures, such as the Egyptians and Babylonians, observed the motion of the sun's shadow to create sundials. These sundials divided the day into various parts based on the position of the sun. 
@@ -2112,14 +2116,6 @@ Nautical Time: In the past, sailors aboard ships used nautical time to simplify 
 The choice of timekeeping instrument depends on factors such as accuracy requirements, portability, and intended use. Atomic clocks, based on the vibrations of atoms, are among the most accurate timekeeping devices developed to date. 
 The history of time measurement is a fascinating subject, from the ancient sundials to the modern atomic clocks. Today, the most accurate time measurement is based on the behavior of atoms. The definition of a second as the duration of 9,192,631,770 periods of radiation corresponding to the transition between the two hyperfine levels of the ground state of the cesium-133 atom is now the universally accepted standard. It is amazing to think that the behavior of an atom can be used to measure time with such incredible accuracy. 
 </Text>
-        </Document>
-        <Document ID="3117E545-D17B-4424-8D9F-D47B9FC3B2CC">
-            <Title>Dual Scale Gage</Title>
-            <Text>The Dial contains a basic pressure scale and one or more additional concentric scales in equivalent values of a different pressure unit. 
-&lt;figure&gt;
-   &lt;caption&gt;Dual Gauge&lt;/caption&gt;
-   &lt;image width="50%" source="images/image5.jpeg"/&gt;
-&lt;/figure&gt;</Text>
         </Document>
         <Document ID="C7AEBBCE-673E-43A0-9664-0D996DDB3326">
             <Title>Timing</Title>
@@ -2219,7 +2215,7 @@ Unlike the straight threads used for nuts and bolts, NPT pipe threads are tapere
 &lt;figure xml:id="fig_npt_threads" &gt;
 &lt;caption&gt;   NPT Threads  &lt;/caption&gt;
 &lt;image width="50%" source="images/npt_threads.png"&gt;
-&lt;remix&gt; &lt;![CDATA[ https://www.wermac.org/flanges/flanges_pipe-connections_pipe-flanges.html  ]]&gt;&lt;/remix&gt;
+&lt;remix&gt; &lt;source&gt; https://www.wermac.org/flanges/flanges_pipe-connections_pipe-flanges.html  &lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 &lt;/figure&gt;
 Because of the taper, a pipe thread can only screw into a fitting so far before it jams. The standard specifies this distance as the length of hand tight engagement, the distance the pipe thread can be screwed in by hand. It also specifies another distance – the effective thread, this is the length of the thread which makes the seal on a conventional machined pipe thread. For workers, instead of these distances, it is more convenient to know how many turns to make by hand and how many with a wrench. A simple rule of thumb for installing tapered pipe threads, both metal and plastic, is finger tight plus one to two turns with a wrench.
@@ -2243,17 +2239,17 @@ To clarify the numerous meanings of the word pressure, the relationship among ga
 If you can remember these values, which are all equivalent expressions for atmospheric pressure, you can use them to create unit-factors as needed.
 &lt;mdn&gt;
 &lt;mrow  xml:id='atmos' &gt;P_\text{atm} \amp = 1 \text{ atm} = 14.7 \text{ psi} = 101.3 \textrm{ kPa} =1.01 \textrm{ bar}\\ \amp= 29.92 \textrm{ in Hg} = 760 \textrm{ mm Hg} = 33.9 \textrm{ ft H}_2\textrm{O}&lt;/mrow&gt;
-&lt;/mdn&gt;
+&lt;/mdn&gt;&lt;/p&gt;
 &lt;p&gt;&lt;ul&gt;
-Absolute pressure measures up from zero 
-Gage pressure measures up or down from atmospheric pressure 
-Vacuum measures down from atmospheric pressure 
-&lt;/ul&gt;&lt;/p&gt;
+Absolute pressure measures up from zero.
+Gage pressure measures up or down from atmospheric pressure.
+Vacuum measures down from atmospheric pressure.
+&lt;/ul&gt;
 &lt;md&gt;
 &lt;mrow&gt;P_\text{abs}   \amp =  P_\text{atm} + P_\text{gage}&lt;/mrow&gt;
 &lt;mrow&gt;P_\text{gage}  \amp =  P_\text{abs} - P_\text{atm}&lt;/mrow&gt;
 &lt;mrow&gt;P_\text{vacuum}   \amp =  P_\text{atm}- P_\text{abs} &lt;/mrow&gt;
-&lt;/md&gt;
+&lt;/md&gt;&lt;/p&gt;
 </Text>
         </Document>
         <Document ID="192D5ED8-D9E3-455C-9B19-1A6B237D525F">
@@ -2304,7 +2300,7 @@ The ratio of an engine's brake horsepower and its indicated horsepower is called
 
 &lt;caption&gt;  Three resistors in series  &lt;/caption&gt;
 &lt;image width="60%" source="images/series_resistors"&gt;
-&lt;remix&gt;&lt;![CDATA[  Source:  whaynes CC0  ]]&gt;&lt;/remix&gt; &lt;/image&gt;
+&lt;remix&gt;&lt;source&gt;whaynes CC0 &lt;/source&gt;&lt;/remix&gt; &lt;/image&gt;
 &lt;/figure&gt;
 The key characteristics series circuits are: &lt;ul&gt;
 The same current flows through each series component.
@@ -2505,15 +2501,15 @@ Good conductors are materials that have low resistance because their electrons a
 &lt;caption&gt;Stranded copper wire, power cables, circuit board traces&lt;/caption&gt;
 &lt;sidebyside width="33%"&gt;
 &lt;image  source="images/wire_stranded.png"&gt;
-&lt;remix&gt;&lt;![CDATA[  &lt;a href="https://commons.wikimedia.org/wiki/File:Lautsprecherkabel_Makro_nah.jpg"&gt;RobertKuhlmann&lt;/a&gt;, &lt;a href="https://creativecommons.org/licenses/by-sa/3.0"&gt;CC BY-SA 3.0&lt;/a&gt;, via Wikimedia Commons  ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;&lt;source href="https://commons.wikimedia.org/wiki/File:Lautsprecherkabel_Makro_nah.jpg"&gt;RobertKuhlmann&lt;/source&gt; &lt;license href="https://creativecommons.org/licenses/by-sa/3.0"&gt;CC BY-SA 3.0, via Wikimedia Commons&lt;/license&gt;&lt;/remix&gt;
 &lt;/image&gt;
 
 &lt;image  source="images/wire_spools.png"&gt;
-&lt;remix&gt;&lt;![CDATA[  https://pxhere.com/en/photo/795689  CC0  ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;&lt;source&gt;https://pxhere.com/en/photo/795689  CC0&lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 
 &lt;image width="100%" source="images/circuit_traces.png"&gt;
-&lt;remix&gt;&lt;![CDATA[  https://www.rawpixel.com/image/6069741/free-public-domain-cc0-photo  ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;&lt;source&gt;https://www.rawpixel.com/image/6069741/free-public-domain-cc0-photo&lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 
 &lt;/sidebyside&gt;
@@ -2658,7 +2654,7 @@ Welding produces a strong and permanent connection suitable for high-pressure an
 &lt;figure xml:id="fig_pipe_welding" &gt;
 &lt;caption&gt;  Arc Welding  &lt;/caption&gt;
 &lt;image width="100%" source="images/pipe_welding.png"&gt;
-&lt;remix&gt; &lt;![CDATA[ https://www.wallpaperflare.com/man-worker-sparks-metallurgical-welding-welder-mask-protection-wallpaper-gathq/download/1920x1080  ]]&gt;&lt;/remix&gt;
+&lt;remix&gt; &lt;source&gt; https://www.wallpaperflare.com/man-worker-sparks-metallurgical-welding-welder-mask-protection-wallpaper-gathq/download/1920x1080  &lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 &lt;/figure&gt;
 Welding requires considerable skill and experience in order to make high quality connections, but properly made welded connections can last the lifetime of the ship.
@@ -2828,7 +2824,6 @@ In terms of statute or land miles, a nautical mile represents 1.15 miles. This i
         </Document>
         <Document ID="226BFB73-24D3-485A-BEAE-0D717A4BA743">
             <Title>Manometers</Title>
-            <Text> </Text>
         </Document>
         <Document ID="D3A69991-48ED-4C86-B3FE-0D351BDF8FE5">
             <Title>Gage Pressure</Title>
@@ -4240,7 +4235,7 @@ A Megohmmeter or megger is a electrical meter specifically designed to measure v
 
 &lt;caption&gt;Megohmmeter&lt;/caption&gt;
 &lt;image source="images/megger.png"&gt;
-&lt;remix&gt;&lt;![CDATA[  https://www.mitchellinstrument.com/aemc-6503-handcrank-analog-1000v-megohmmeter-cat-212652.html  ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;&lt;source&gt;https://www.mitchellinstrument.com/aemc-6503-handcrank-analog-1000v-megohmmeter-cat-212652.html&lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 &lt;/figure&gt;
 &lt;/sidebyside&gt;
@@ -4304,11 +4299,11 @@ An inductor is like a "magnetic energy storage" device. It resists changes in cu
 &lt;sidebyside width="40%"&gt;
 
 &lt;image width="100%" source="images/inductor_coil"&gt;
-&lt;remix&gt;&lt;![CDATA[  &lt;a href="https://commons.wikimedia.org/wiki/File:VFPt_cylindrical_loosely-wound_coil_2.svg"&gt;File:VFPt cylindrical coil real.svg:  Geek3 / derivative work: MikeRun&lt;/a&gt;, &lt;a href="https://creativecommons.org/licenses/by-sa/3.0"&gt;CC BY-SA 3.0&lt;/a&gt;, via Wikimedia Commons  ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;&lt;source href="https://commons.wikimedia.org/wiki/File:VFPt_cylindrical_loosely-wound_coil_2.svg"&gt;File:VFPt cylindrical coil real.svg:  Geek3 / derivative work: MikeRun&lt;/source&gt;  &lt;license href="https://creativecommons.org/licenses/by-sa/3.0"&gt;CC BY-SA 3.0, via Wikimedia Commons&lt;/license&gt;&lt;/remix&gt;
 &lt;/image&gt;
 
 &lt;image width="50%" source="images/inductors.png"&gt;
-&lt;remix&gt;&lt;![CDATA[  https://www.flickr.com/photos/jonathancharles/2504810153/in/photostream/   CC BY-SA  ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;&lt;source href="https://www.flickr.com/photos/jonathancharles/2504810153/in/photostream/"&gt;   CC BY-SA&lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 
 &lt;/sidebyside&gt;
@@ -4332,10 +4327,21 @@ Field windings are used to create magnetic field in motors and generators.
 &lt;figure xml:id="fig_cap_plug" &gt;
 &lt;caption&gt; Cap and Plug  &lt;/caption&gt;
 &lt;image width="50%" source="images/cap_plug.png"&gt;
-&lt;remix&gt; &lt;![CDATA[ https://www.wallpaperflare.com/man-worker-sparks-metallurgical-welding-welder-mask-protection-wallpaper-gathq/download/1920x1080  ]]&gt;&lt;/remix&gt;
+&lt;remix&gt; &lt;source&gt; https://www.wallpaperflare.com/man-worker-sparks-metallurgical-welding-welder-mask-protection-wallpaper-gathq/download/1920x1080  &lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 &lt;/figure&gt;
 </Text>
+        </Document>
+        <Document ID="DE86183A-E5A6-44AA-8D48-F0F81BA5EA3D">
+            <Title>Vacuum Gauge</Title>
+        </Document>
+        <Document ID="D99C4489-7A91-4EE0-B168-AC1D27977C1B">
+            <Title>Four Stroke Cycle</Title>
+            <Text>In a four-stroke engine the camshaft is geared so that it rotates at half the speed of the crankshaft (1:2). This means that the crankshaft must make two complete revolutions before the camshaft will complete one revolution. The following section will describe a four-stroke, normally aspirated, diesel engine having both intake and exhaust valves with a 3.5-inch bore and 4-inch stroke with a 16:1 compression ratio, as it passes through one complete cycle. We will start on the intake stroke. All the timing marks given are generic and will vary from engine to engine. 
+&lt;figure&gt;
+   &lt;caption&gt; 16-Intake &lt;/caption&gt; 
+  &lt;image source="images/diesel-image5.png" width="30%"/&gt; 
+&lt;/figure&gt;</Text>
         </Document>
         <Document ID="43B2DD1B-3FB7-40C9-9FB7-D951A9AC99FD">
             <Title>Symbols</Title>
@@ -4360,20 +4366,17 @@ Field windings are used to create magnetic field in motors and generators.
 
 &lt;/ul&gt;&lt;/p&gt;</Text>
         </Document>
-        <Document ID="D99C4489-7A91-4EE0-B168-AC1D27977C1B">
-            <Title>Four Stroke Cycle</Title>
-            <Text>In a four-stroke engine the camshaft is geared so that it rotates at half the speed of the crankshaft (1:2). This means that the crankshaft must make two complete revolutions before the camshaft will complete one revolution. The following section will describe a four-stroke, normally aspirated, diesel engine having both intake and exhaust valves with a 3.5-inch bore and 4-inch stroke with a 16:1 compression ratio, as it passes through one complete cycle. We will start on the intake stroke. All the timing marks given are generic and will vary from engine to engine. 
-&lt;figure&gt;
-   &lt;caption&gt; 16-Intake &lt;/caption&gt; 
-  &lt;image source="images/diesel-image5.png" width="30%"/&gt; 
-&lt;/figure&gt;</Text>
+        <Document ID="3F88F6D2-A280-4D81-8FE0-01EA2857A310">
+            <Title>Introduction</Title>
+            <Text>Here are some electric measuring instruments likely to be of interest to marine engineers.
+</Text>
         </Document>
         <Document ID="71F67220-492E-4788-8B6A-D5427BA9B099">
             <Title>What is an IGBT?</Title>
             <Text>&lt;sidebyside widths="65% 35%" valign="middle" &gt;
 An IGBT (Insulated Gate Bipolar Transistor) is a power semiconductor device that combines the characteristics of a MOSFET (Metal-Oxide-Semiconductor Field-Effect Transistor) and a bipolar junction transistor (BJT). IGBTs are known for their high voltage and current handling capabilities, low conduction losses, and fast switching speeds. IGBTs can rapidly switch on and off in the range of microseconds to a few tens of nanoseconds. They are widely used in high-power electronic applications, such as motor drives, power converters, and inverters.
 &lt;image source="images/IGBT_symbol"&gt;
-&lt;remix&gt;&lt;![CDATA[   Source:  weh cc0    ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;&lt;source&gt;weh cc0   &lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 &lt;/sidebyside&gt;
 The operation of an IGBT involves three main states:
@@ -4381,14 +4384,6 @@ Off State When no voltage is applied to the gate, the IGBT is in an off state, a
 On State When full voltage is applied to the gate with respect to the emitter, current freely flows from the collector to the emitter. This is the on state of the IGBT, and it can conduct high currents like a closed switch.
 Control State The IGBT can be controlled by applying a variable voltage to the gate. When a positive voltage is applied, it turns on the IGBT, allowing current flow. By adjusting the gate voltage, the IGBT can regulate the current flow.
 </Text>
-        </Document>
-        <Document ID="3F88F6D2-A280-4D81-8FE0-01EA2857A310">
-            <Title>Introduction</Title>
-            <Text>Here are some electric measuring instruments likely to be of interest to marine engineers.
-</Text>
-        </Document>
-        <Document ID="DE86183A-E5A6-44AA-8D48-F0F81BA5EA3D">
-            <Title>Vacuum Gauge</Title>
         </Document>
         <Document ID="812627AD-9D7F-41D8-A658-E45E989CF259">
             <Title>Infrared (IR) Thermometer</Title>
@@ -4552,12 +4547,6 @@ Optical Encoders: Detect rotational position and speed by using light and photod
             <Text>Electricity is associated with the accumulation or the flow of charged particles, particularly electrons, which are negatively-charged, subatomic particles. Charged particles will naturally flow from areas of high concentration to low concentration if a conductive path is available. The conductor is usually solid, like a copper wire, but can also be liquids such as salt water and mercury, or ionized gases. 
 Static electricity is caused by the accumulation of electrons, as might occur from rubbing hard rubber on a wool carpet. The resulting static charge  can be released suddenly as a spark when you touch a metal object. During a thunderstorm, large quantities of charged particles build up in the clouds and are eventually released to the earth as lightning through ionized air. 
 In practical devices, the charged particles are made to flow in a controlled fashion through an electrical circuit to supply power to electrical loads, such as lights, motors, heating elements, electronic devices, etc.  This flow of charged particles is called electrical current.
-Current can be initiated and sustained in a number of ways, including&lt;ul&gt;
-Chemical reaction. Batteries and fuel cells use this principle.
-Electromagnetic induction, whereby mechanical power supplied by a prime mover is converted to electrical power by means of a changing magnetic field   This is the principle used by electrical generators.
-Photovoltaic effect.   When sunlight strikes the surface of a solar cell, photons are absorbed by the semiconductor material used in the cell which causes some electrons  break free from their normal positions, creating a charge imbalance.
-Seebeck effect. The Seebeck effect is a phenomenon where a  small current is produced between two different types of metals or semiconductor materials when  a temperature difference exists between them.  Thermocouples use this principle to produce electric signals for temperature measurement.
-&lt;/ul&gt;&lt;/p&gt;
 In this section we introduce some important concepts and vocabulary related to electricity, electric circuits, and electrical machines. </Text>
         </Document>
         <Document ID="98E4FA7C-719B-4827-8431-5FFC66DFE5EA">
@@ -4593,7 +4582,7 @@ Note that the three voltage drops add up to the 48 V supply.
 The duty cycle is a parameter of PWM that represents the percentage of time the signal is on or at a high level compared to the period &lt;mdash/&gt; the time to complete one cycle. It determines the average value of the signal. A duty cycle of 50% means the signal is on for half the time and off for the other half, resulting in an average voltage or power that is halfway between the high and low levels. By changing the duty cycle, the average value of the signal can be controlled. Increasing the duty cycle increases the average value, while decreasing the duty cycle decreases the average value.
 &lt;sidebyside width="75%"&gt;
 &lt;image width="60%" source="images/pulse_width_mod"&gt;
-&lt;remix&gt;&lt;![CDATA[   Source:  Pulse Width Modulation weh cc0   ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;&lt;source&gt;Pulse Width Modulation weh cc0  &lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 &lt;/sidebyside&gt;
 PWM requires a control signal that determines the desired average value. This control signal could come from a microcontroller, analog circuit, or other control systems.
@@ -4704,7 +4693,7 @@ Applying Ohm’s Law with this resistance gives the current&lt;me&gt; I =  E/R_t
 &lt;figure xml:id="fig_coupling_union" &gt;
 &lt;caption&gt;  Coupling and Union  &lt;/caption&gt;
 &lt;image width="50%" source="images/coupling_union.png"&gt;
-&lt;remix&gt; &lt;![CDATA[ https://www.wallpaperflare.com/man-worker-sparks-metallurgical-welding-welder-mask-protection-wallpaper-gathq/download/1920x1080  ]]&gt;&lt;/remix&gt;
+&lt;remix&gt; &lt;source&gt; https://www.wallpaperflare.com/man-worker-sparks-metallurgical-welding-welder-mask-protection-wallpaper-gathq/download/1920x1080  &lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 &lt;/figure&gt;
 A coupling is a simple, short section of pipe with internal female threads.  Two sections of pipe are tightened into the coupling to make the connection.  In order to disassemble the connection, one of the pipes needs to be rotated through several rotations to unscrew it.  This is not too practical because the entire system may need to be taken apart to remove one piece.  
@@ -4713,10 +4702,10 @@ A union consists of three parts – male and female parts with matching tapered 
 &lt;caption&gt;Union Cross-section and Disassembled&lt;/caption&gt;
 &lt;sidebyside widths="40% 40%" valign="middle"&gt;
 &lt;image source="images/union_cross_section.png"&gt;
-&lt;remix&gt;&lt;![CDATA[  https://www.wermac.org/specials/orificeplate.html  ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;&lt;source&gt;  https://www.wermac.org/specials/orificeplate.html  &lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 &lt;image source="images/union_exploded.png"&gt;
-&lt;remix&gt;&lt;![CDATA[  https://www.wermac.org/specials/orificeplate.html  ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;&lt;source&gt;  https://www.wermac.org/specials/orificeplate.html  &lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 &lt;/sidebyside&gt;
 &lt;/figure&gt;
@@ -9860,8 +9849,6 @@ The superheater elements are normally filled entirely with steam, not water. Sin
         </Document>
         <Document ID="89C89468-D5D1-411E-B857-BF9A811A72E1">
             <Title>Electrical Components</Title>
-            <Text>
-</Text>
         </Document>
         <Document ID="04A2B7DC-0FE6-47C8-B1CD-41CFA9714E15">
             <Title>Frequency</Title>
@@ -9905,9 +9892,6 @@ The liter is commonly used for everyday measurements of liquid volumes. One lite
 The cubic meter (CBM or \m{}^3) is the standard unit for larger volumes,  and is equal to the volume of a cube with sides of one meter. 
 </Text>
         </Document>
-        <Document ID="447CA2F9-C266-47DF-B3D9-E0E4A1F3B192">
-            <Title>Units of Measurement</Title>
-        </Document>
         <Document ID="5240E44D-FC28-46FA-B942-DA235E2D0ABF">
             <Title>International System of Units (SI)/Metric (kPa)</Title>
             <Text>In the metric system, pressure is typically measured using kilopascals (kPa), which represent newtons per square meter (N/m²). One pascal is equal to one newton of force distributed over a one-square-meter area. However, this is a relatively small pressure, so in practical applications, kilopascals (kPa) or megapascals (MPa) are commonly used. 
@@ -9919,6 +9903,9 @@ Pressure (pascals) = \frac{Force}{Area} =\frac{Newtons}{MetersSquared} =\frac{N}
 
 Pressure = \frac{Force}{Area}
    \frac{Newtons}{Meterssquared}= \frac{F = ma}{MetersSquared} = \frac{kgxM/s^{2}}{MetersSquared}=\frac{Forceduetogravity = 9.8m/s^{2}}{Area}</Text>
+        </Document>
+        <Document ID="447CA2F9-C266-47DF-B3D9-E0E4A1F3B192">
+            <Title>Units of Measurement</Title>
         </Document>
         <Document ID="BB12ECF6-3D56-4084-84C0-3EE687D6E072">
             <Title>Area</Title>
@@ -9940,6 +9927,9 @@ Pressure = \frac{Force}{Area}
             <Title>Follow Emergency Procedures</Title>
             <Text>Familiarize yourself with the ship's emergency procedures, including evacuation routes, muster stations, and the proper use of life-saving equipment. Be prepared to respond calmly and promptly in case of an emergency.</Text>
         </Document>
+        <Document ID="1ED8E24C-AFD0-4EBA-87A7-990D5C533B1B">
+            <Text>&lt;me&gt;p = \psi{14.8}&lt;/me&gt;</Text>
+        </Document>
         <Document ID="A7AD48B6-606A-45A0-AF7A-E0455E4B90CA">
             <Title>Mass Conversion 2</Title>
         </Document>
@@ -9957,7 +9947,7 @@ A simple single-phase transformer consists of two wire coils, called the primary
 
 &lt;caption&gt;  Transformer terminology &lt;/caption&gt;
 &lt;image width="90%" source="images/transformer_terms"&gt;
-&lt;remix&gt;&lt;![CDATA[  &lt;a href="https://commons.wikimedia.org/wiki/File:Transformer3d_col3.svg"&gt;BillC at the English-language Wikipedia&lt;/a&gt;, &lt;a href="http://creativecommons.org/licenses/by-sa/3.0/"&gt;CC BY-SA 3.0&lt;/a&gt;, via Wikimedia Commons  ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;&lt;source  href="https://commons.wikimedia.org/wiki/File:Transformer3d_col3.svg"&gt;BillC at the English-language Wikipedia&lt;/source&gt;  &lt;license href="http://creativecommons.org/licenses/by-sa/3.0/"&gt;CC BY-SA 3.0, via Wikimedia Commons&lt;/license&gt;&lt;/remix&gt;
 &lt;/image&gt;
 &lt;/figure&gt;
 When alternating current flows through the primary winding, it generates an alternating magnetic field in the magnetic core.  This changing magnetic field, in turn, induces a voltage in the secondary winding through electromagnetic induction.  If the secondary winding has more turns than the primary winding, the secondary voltage will be higher than the input voltage and the transformer is referred to as a step-up  transformer. Conversely, if the secondary winding has fewer turns than the primary winding the secondary voltage will be less than the primary voltage, and the transformer is a  step-down transformer. 
@@ -10053,7 +10043,7 @@ individual pump or jerk type.
 &lt;figure xml:id="reddy_kilowatt"&gt;
 &lt;caption&gt; Danger High Voltage &lt;/caption&gt;
 &lt;image width="40%" source="images/reddy_kilowatt.jpg"&gt;
-&lt;remix&gt;&lt;![CDATA[  Source:  Public Domain   ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;&lt;source&gt;Public Domain  &lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 &lt;/figure&gt;
 Here are some of the main hazards associated with electricity:</Text>
@@ -10073,6 +10063,10 @@ From the superheater header, the steam is directed into the superheater tubes, w
 Superheated steam leaves the outlet header and flows to the one of three places: the main engine, the turbogenerators, or back into the boiler. The portion returning to the boiler enters the desuperheater, which is a pipe submerged below the water level in the steam drum. There the steam cools back down to near its saturation temperature, flows out through the auxiliary steam stop valve, and on to all the remaining steam consumers on the ship. 
 At the same time this is occurring, air from the engine room is being drawn in by the forced draft fans, blown across the tubes of the steam air heater and down through the space between the inner and outer casing. This air then passes through the register air doors and into the furnace. Here it meets with the finely atomized fuel droplets, which quickly heat up to their ignition temperature and burn. 
 The resulting combustion gases, under a slight pressure due to the forced draft fans, pass across the boiler tubes; first the screen tubes, then the superheater tubes, the generating tubes, and finally the economizer tubes, before leaving the boiler up the stack. 
+</Text>
+        </Document>
+        <Document ID="CCCC809E-CF8F-4D1A-B4B3-EC42F29AACF7">
+            <Text>What head of water will cause a pressure of \psi{1}?
 </Text>
         </Document>
         <Document ID="18A28618-DAAC-4EEE-B952-C0737DD2FF24">
@@ -10282,7 +10276,7 @@ There are several important differences between the main generator and the excit
 &lt;figure xml:id="excitation_system_schematic"&gt;
 &lt;caption&gt;  Hyundai HSJ9 Excitation System&lt;/caption&gt;
 &lt;image width="100%" source="images/excitation_system"&gt;
-&lt;remix&gt;&lt;![CDATA[   Source: weh CC0  ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;&lt;source&gt;weh CC0 &lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 &lt;/figure&gt;
 The 3-phase output of the exciter is directed through the hollow drive shaft to the rotating rectifier mounted on the non-drive end of the shaft.  The rectifier is a solid-state electronic device which uses six diodes arranged as shown in &lt;xref ref="three_phase_rectifier"/&gt; to convert the three-phase AC produced by the exciter generator into direct current. From there, DC current travels back through the shaft to excite the rotating main field windings.
@@ -10294,18 +10288,18 @@ The 3-phase output of the exciter is directed through the hollow drive shaft to 
 &lt;figure xml:id="diodes_in"&gt;
 &lt;caption&gt;  3 phase AC in &lt;/caption&gt;
 &lt;image  source="images/diodes_in"&gt;
-&lt;remix&gt;&lt;![CDATA[   Source:  weh cc0    ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;&lt;source&gt;weh cc0   &lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 &lt;/figure&gt;
 &lt;figure xml:id="six_diodes"&gt;
 &lt;caption&gt;  Rotating Diodes  &lt;/caption&gt;
 &lt;image  source="images/six_diodes"&gt;
-&lt;remix&gt;&lt;![CDATA[   Source:  weh cc0    ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;&lt;source&gt;weh cc0   &lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;&lt;/figure&gt;
 &lt;figure xml:id="diodes_out"&gt;
 &lt;caption&gt; DC out  &lt;/caption&gt;
 &lt;image  source="images/diodes_out"&gt;
-&lt;remix&gt;&lt;![CDATA[   Source:  weh cc0    ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;&lt;source&gt;weh cc0   &lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 &lt;/figure&gt;
 &lt;/sidebyside&gt;
@@ -10565,15 +10559,15 @@ Statics or statics or mechanics?  I say statics for the subject, and Statics for
 &lt;sidebyside width="30%" margins="0%"&gt;
 
 &lt;image  source="images/stadium_lights.png"&gt;
-&lt;remix&gt;&lt;![CDATA[  https://www.rawpixel.com/image/6035449/lamp-post-free-public-domain-cc0-photo  CCO  ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;&lt;source href="https://www.rawpixel.com/image/6035449/lamp-post-free-public-domain-cc0-photo"&gt;  CCO&lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 
 &lt;image source="images/single_phase_motor"&gt;
-&lt;remix&gt;&lt;![CDATA[  https://freesvg.org/electric-motor CC0  ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;&lt;source href= "https://freesvg.org/electric-motor"&gt; CC0&lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 
 &lt;image source="images/burners.png"&gt;
-&lt;remix&gt;&lt;![CDATA[  image by &lt;a href="http://www.freeimageslive.co.uk/free_stock_image/electric-ring-jpg" target="_blank"&gt; freeimageslive.co.uk - freefoodphotos&lt;/a&gt;  ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;&lt;source href="http://www.freeimageslive.co.uk/free_stock_image/electric-ring-jpg"&gt; freeimageslive.co.uk - freefoodphotos&lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 
 &lt;/sidebyside&gt;
@@ -10611,51 +10605,6 @@ Statics or statics or mechanics?  I say statics for the subject, and Statics for
         </Document>
         <Document ID="970629F8-F64E-4038-889F-C04A7A4BB900">
             <Title>Work</Title>
-        </Document>
-        <Document ID="ED6866C0-2D6A-4434-9B8F-5D2C846C8D45">
-            <Title>exercise</Title>
-            <Text>&lt;statement&gt;
- The primary purpose of the refractory in a marine boiler is to ______. 
-&lt;/statement&gt;
-&lt;choices&gt;
- &lt;choice&gt; &lt;statement&gt; conduct the heat of combustion away from the water wall tubes &lt;/statement&gt;
- &lt;/choice&gt;
- &lt;choice&gt; &lt;statement&gt; protect the furnace casing and retain furnace heat &lt;/statement&gt;
- &lt;/choice&gt;
- &lt;choice correct="yes"&gt; &lt;statement&gt; support the outer casing &lt;/statement&gt;
- &lt;/choice&gt;
- &lt;choice&gt; &lt;statement&gt; protect the superheater from convectional heat transfer &lt;/statement&gt;
- &lt;/choice&gt;
-&lt;/choices&gt;
-</Text>
-        </Document>
-        <Document ID="463FDA98-8F2C-4E81-AB33-81ABE1636216">
-            <Title>The Diesel Cycle</Title>
-        </Document>
-        <Document ID="38271428-54C1-4C67-96C8-9B77A8BF565C">
-            <Title>Diesel Engine Systems</Title>
-            <Text>&lt;figure&gt;
-   &lt;caption/&gt; 
-  &lt;image source="images/diesel-image16.png" width="50%"/&gt; 
-&lt;/figure&gt;</Text>
-        </Document>
-        <Document ID="479F263D-A33A-4EFA-83C5-78A2C31C31E0">
-            <Title>Electrical Power</Title>
-        </Document>
-        <Document ID="181131F9-5576-4A03-8579-943FD8A7ACAD">
-            <Title>FLANGES</Title>
-        </Document>
-        <Document ID="627908B8-5114-49EB-83FA-EDD91423474B">
-            <Title>The Ton</Title>
-            <Text>A ton has a long history and has acquired several meanings and uses. Depending on context, a ton may refer to a unit measure of mass, volume or force. 
-A metric ton (tonne)  is the mass of water which occupies \m{1} \times \m{1} \times \m{1} cube, and equals \kg{1000}.  
-A deadweight ton is a measure of the weight of cargo a ship can safely carry.
-In transportation, the Measurement Ton, or Shipping Ton, is a volume measure equal to one cubic meter  (\m{}^3 or CBM) .  A CBM is used in the shipping and transportation industries to describe how much space a shipment takes up, &lt;ie/&gt;  1 cubic meter .  Note that the weight of one cubic meter of water is one metric ton, but the weight of one CBM of other material will vary depending on the material's density.
-&lt;figure&gt;
-&lt;caption&gt;1 cubic meter tank&lt;/caption&gt;
-&lt;image width='50%' source='images/ibc-tote-1cbm.jpg'/&gt;
-&lt;/figure&gt;
-</Text>
         </Document>
         <Document ID="E899A24A-0A22-41B6-9881-293BCC790AED">
             <Title>Gauge pressure (psig)</Title>
@@ -10696,6 +10645,51 @@ We sometimes say psig to indicate gauge pressure and other times we merely say p
 &lt;/table&gt;
 </Text>
         </Document>
+        <Document ID="463FDA98-8F2C-4E81-AB33-81ABE1636216">
+            <Title>The Diesel Cycle</Title>
+        </Document>
+        <Document ID="38271428-54C1-4C67-96C8-9B77A8BF565C">
+            <Title>Diesel Engine Systems</Title>
+            <Text>&lt;figure&gt;
+   &lt;caption/&gt; 
+  &lt;image source="images/diesel-image16.png" width="50%"/&gt; 
+&lt;/figure&gt;</Text>
+        </Document>
+        <Document ID="479F263D-A33A-4EFA-83C5-78A2C31C31E0">
+            <Title>Electrical Power</Title>
+        </Document>
+        <Document ID="ED6866C0-2D6A-4434-9B8F-5D2C846C8D45">
+            <Title>exercise</Title>
+            <Text>&lt;statement&gt;
+ The primary purpose of the refractory in a marine boiler is to ______. 
+&lt;/statement&gt;
+&lt;choices&gt;
+ &lt;choice&gt; &lt;statement&gt; conduct the heat of combustion away from the water wall tubes &lt;/statement&gt;
+ &lt;/choice&gt;
+ &lt;choice&gt; &lt;statement&gt; protect the furnace casing and retain furnace heat &lt;/statement&gt;
+ &lt;/choice&gt;
+ &lt;choice correct="yes"&gt; &lt;statement&gt; support the outer casing &lt;/statement&gt;
+ &lt;/choice&gt;
+ &lt;choice&gt; &lt;statement&gt; protect the superheater from convectional heat transfer &lt;/statement&gt;
+ &lt;/choice&gt;
+&lt;/choices&gt;
+</Text>
+        </Document>
+        <Document ID="181131F9-5576-4A03-8579-943FD8A7ACAD">
+            <Title>FLANGES</Title>
+        </Document>
+        <Document ID="627908B8-5114-49EB-83FA-EDD91423474B">
+            <Title>The Ton</Title>
+            <Text>A ton has a long history and has acquired several meanings and uses. Depending on context, a ton may refer to a unit measure of mass, volume or force. 
+A metric ton (tonne)  is the mass of water which occupies \m{1} \times \m{1} \times \m{1} cube, and equals \kg{1000}.  
+A deadweight ton is a measure of the weight of cargo a ship can safely carry.
+In transportation, the Measurement Ton, or Shipping Ton, is a volume measure equal to one cubic meter  (\m{}^3 or CBM) .  A CBM is used in the shipping and transportation industries to describe how much space a shipment takes up, &lt;ie/&gt;  1 cubic meter .  Note that the weight of one cubic meter of water is one metric ton, but the weight of one CBM of other material will vary depending on the material's density.
+&lt;figure&gt;
+&lt;caption&gt;1 cubic meter tank&lt;/caption&gt;
+&lt;image width='50%' source='images/ibc-tote-1cbm.jpg'/&gt;
+&lt;/figure&gt;
+</Text>
+        </Document>
         <Document ID="7121E58E-FDA4-4C8B-84A5-2CEC815A3195">
             <Title>Diodes</Title>
             <Text>A diode is an electrical component that allows current to flow in one direction while blocking it in the opposite direction. It acts as a &lt;q&gt;one-way valve&lt;/q&gt; for electric current. Diodes are made from semiconductor materials and have two terminals: an anode (positive side) and a cathode (negative side).
@@ -10707,13 +10701,13 @@ Light Emitting Diodes (LEDs)  emit light when current flows through them. They a
 &lt;caption&gt;Rectifier diode, zener diode, LED&lt;/caption&gt;
 &lt;sidebyside widths="38% 23% 38%"&gt;
 &lt;image source="images/diodes_2.png"&gt;
-&lt;remix&gt;&lt;![CDATA[  https://pixabay.com/da/photos/eic-diode-dioder-5907539/  ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;&lt;source&gt;https://pixabay.com/da/photos/eic-diode-dioder-5907539/&lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 &lt;image source="images/zener_diode.png"&gt;
-&lt;remix&gt;&lt;![CDATA[  &lt;a href="https://commons.wikimedia.org/wiki/File:Zener_diode_(aka).jpg"&gt;André Karwath aka Aka&lt;/a&gt;, &lt;a href="https://creativecommons.org/licenses/by-sa/2.5"&gt;CC BY-SA 2.5&lt;/a&gt;, via Wikimedia Commons  ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;&lt;source href="https://commons.wikimedia.org/wiki/File:Zener_diode_(aka).jpg"&gt;André Karwath aka Aka&lt;/source&gt;  &lt;license href="https://creativecommons.org/licenses/by-sa/2.5"&gt;CC BY-SA 2.5, via Wikimedia Commons&lt;/license&gt;&lt;/remix&gt;
 &lt;/image&gt;
 &lt;image source="images/leds.png"&gt;
-&lt;remix&gt;&lt;![CDATA[  &lt;a href="https://commons.wikimedia.org/wiki/File:LEDs.jpg"&gt;Afrank99&lt;/a&gt;, &lt;a href="https://creativecommons.org/licenses/by-sa/2.0"&gt;CC BY-SA 2.0&lt;/a&gt;, via Wikimedia Commons ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;&lt;source href="https://commons.wikimedia.org/wiki/File:LEDs.jpg"&gt;Afrank99&lt;/source&gt;&lt;license href="https://creativecommons.org/licenses/by-sa/2.0"&gt;CC BY-SA 2.0, via Wikimedia Commons&lt;/license&gt;&lt;/remix&gt;
 &lt;/image&gt;
 &lt;/sidebyside&gt;
 &lt;/figure&gt;
@@ -10785,6 +10779,15 @@ In summary, while both pipes and tubes are used for transporting materials, pipe
 The main purpose of the PMS is to ensure that there is always a sufficient power reserve available for the essential services of the vessel.  The system continuously monitors the generators and the electrical loads, and automatically starts and stops generators to match electrical power generation to the ship’s needs.
 During critical times when energy demand is exceptionally high or during emergencies, the power management system can shed or temporarily drop non-essential loads. This ensures that essential equipment and services receive power while minimizing strain on the electrical system.
 </Text>
+        </Document>
+        <Document ID="407D490E-F41F-4586-9988-8D6F9958C777">
+            <Text>Applying &lt;xref ref='head-equation'/&gt; for mercury, which has a specific gravity of 13.633. 
+&lt;md&gt;
+&lt;mrow&gt;p \amp =   \left[\frac{\psi{0.433}}{\ft{1}}\right ] (\textrm{s.g.})\  h&lt;/mrow&gt;
+&lt;mrow&gt;\amp =  \psi{14.8}&lt;/mrow&gt;
+&lt;mrow&gt;\amp =   \left[\frac{\psi{0.433}}{\ft{1}}\right] (13.633) \times (\inch{30}) \left[\frac{\ft{1}}{\inch{12}}\right]&lt;/mrow&gt;
+&lt;/md&gt;&lt;/p&gt;
+ </Text>
         </Document>
         <Document ID="CA7F4D57-3E75-4CE8-AEC3-42E45DDEFBE6">
             <Title>Air-purifying Respirators</Title>
@@ -10982,7 +10985,7 @@ The main field (4) on the rotor is wound to create eight alternating north and s
 
 &lt;caption&gt; Hyundai HSJ9 Generator &lt;/caption&gt;
 &lt;image width="100%" source="images/generator"&gt;
-&lt;remix&gt;&lt;![CDATA[   Source:  P1206 EMPIRE STATE MACHINERY MANUAL  FIRST DRAFT MAY 2022     ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;&lt;source&gt;P1206 EMPIRE STATE MACHINERY MANUAL  FIRST DRAFT MAY 2022    &lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 &lt;/figure&gt;
 
@@ -10990,7 +10993,7 @@ The main field (4) on the rotor is wound to create eight alternating north and s
 
 &lt;caption&gt; Generator Exploded View &lt;/caption&gt;
 &lt;image width="100%" source="images/generator_exploded.png"&gt;&lt;remix&gt;
-&lt;![CDATA[   Source: DV951E001_MAIN ALTERNATOR_OPERATION MANUAL_ALTERNATOR   ]]&gt;&lt;/remix&gt;
+&lt;source&gt;DV951E001_MAIN ALTERNATOR_OPERATION MANUAL_ALTERNATOR  &lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 &lt;/figure&gt;
 
@@ -11039,11 +11042,11 @@ When a capacitor is charged in this way, energy is stored in the electric field.
 &lt;sidebyside width="40%"&gt;
 
 &lt;image source="images/capacitors_field"&gt;
-&lt;remix&gt;&lt;![CDATA[  &lt;a href="https://commons.wikimedia.org/wiki/File:VFPt_capacitor_mod.svg"&gt;MikeRun&lt;/a&gt;, &lt;a href="https://creativecommons.org/licenses/by-sa/4.0"&gt;CC BY-SA 4.0&lt;/a&gt;, via Wikimedia Commons  ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;&lt;source href="https://commons.wikimedia.org/wiki/File:VFPt_capacitor_mod.svg"&gt;MikeRun&lt;/source&gt;  &lt;license href="https://creativecommons.org/licenses/by-sa/4.0"&gt;CC BY-SA 4.0, via Wikimedia Commons&lt;/license&gt;&lt;/remix&gt;
 &lt;/image&gt;
 
 &lt;image source="images/capacitors.png"&gt;
-&lt;remix&gt;&lt;![CDATA[  &lt;a href="https://commons.wikimedia.org/wiki/File:Capacitors_(7189597135).jpg"&gt;Eric Schrader from San Francisco, CA, United States&lt;/a&gt;, &lt;a href="https://creativecommons.org/licenses/by-sa/2.0"&gt;CC BY-SA 2.0&lt;/a&gt;, via Wikimedia Commons  ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;&lt;source  href="https://commons.wikimedia.org/wiki/File:Capacitors_(7189597135).jpg"&gt;Eric Schrader from San Francisco, CA, United States&lt;/source&gt;  &lt;license href="https://creativecommons.org/licenses/by-sa/2.0"&gt;CC BY-SA 2.0, via Wikimedia Commons&lt;/license&gt;&lt;/remix&gt;
 &lt;/image&gt;
 
 &lt;/sidebyside&gt;
@@ -11087,6 +11090,10 @@ For example, electromagnetic relays control the switching of electric circuits. 
 &lt;me&gt;V = 760 - p = 222.3 \textrm{ mm Hg (vacuum)}&lt;/me&gt; &lt;/p&gt;&lt;/li&gt;
 &lt;/ol&gt;&lt;/p&gt;</Text>
         </Document>
+        <Document ID="5C9A2446-7691-424C-BBAE-F0A3412B7410">
+            <Text>Since \ft{1} of water is equivalent to \psi{0.433}, we can create a unit-factor to solve for how many feet are equivalent to  \psi{1}.  &lt;me&gt;  h = \psi{1} \times \left[\frac{\ft{1}}{\psi{0.433}}\right] = \ft{2.31}&lt;/me&gt;.
+</Text>
+        </Document>
         <Document ID="962B1754-9CE8-4782-AAFF-B74413C7DDCC">
             <Title>Find Current</Title>
             <Text>&lt;statement&gt;
@@ -11101,17 +11108,6 @@ Directly applying &lt;xref ref="ohms-law"/&gt; we get: &lt;me&gt;I = \frac{E}{R}
         </Document>
         <Document ID="92F1BACA-35D4-48B9-B17F-5E9BCE66D463">
             <Title>Pressure to Head</Title>
-            <Text>&lt;example&gt;
-    &lt;statement&gt;
-What head of water will cause a pressure of \psi{1}?
-    &lt;/statement&gt;
-    &lt;answer&gt;
-&lt;me&gt;h = \ft{2.31}&lt;/me&gt;
-&lt;/answer&gt;
-    &lt;solution&gt;
-        Since \ft{1} of water is equivalent to \psi{0.433}, we can create a unit-factor to solve for how many feet are equivalent to  \psi{1}.  &lt;me&gt;  h = \psi{1} \times \left[\frac{\ft{1}}{\psi{0.433}}\right] = \ft{2.31}&lt;/me&gt;.
-    &lt;/solution&gt;
-  &lt;/example&gt;</Text>
         </Document>
         <Document ID="65E9FBAD-A001-43AE-8FD3-FF0FDDA8A214">
             <Title>Electrically Powered Servo-Operated Gauges</Title>
@@ -11468,7 +11464,7 @@ In a three-phase wye circuit, &lt;mdn&gt;
 
 &lt;caption&gt; Three inductors, wye connected  &lt;/caption&gt;
 &lt;image width="40%" source="images/wye_connection"&gt;
-&lt;remix&gt;&lt;![CDATA[  whaynes CC0  ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;&lt;source&gt;whaynes CC0&lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 &lt;/figure&gt;
 </Text>
@@ -11570,7 +11566,7 @@ Mathematically, pressure is expressed as:  &lt;me&gt;Pressure = \frac{Force}{Are
 &lt;figure&gt;
 &lt;caption&gt;Camlock, Push-to-connect, Twistlock&lt;/caption&gt;
 &lt;image width="90%" source="images/quick_connect_fittings.png"&gt;
-&lt;remix&gt;&lt;![CDATA[ camlockcoupling.org,  homedepot.com, zoro.com ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;&lt;source&gt; camlockcoupling.org,  homedepot.com, zoro.com &lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 &lt;/figure&gt;
 There are several types of quick connect fittings. Some of the most commonly used ones are:
@@ -12028,6 +12024,47 @@ Electrical phenomena include static electricity, electrical discharges like ligh
 In this chapter we will define some basic electrical concepts and describe some important electrical devices in order to give you a framework to understand how we harness and use electrical power aboard the training ship.
 </Text>
         </Document>
+        <Document ID="91E78655-3EF3-4DA2-A958-4404BF7CF795">
+            <Title>Pressure Units</Title>
+            <Text>There are numerous units of measurement for pressure: 
+US Standard Pressure, pounds per square inch (psi) 
+International (SI) or Metric, pascal or kilo-pascal, Newtons per Meter Squared (kPa) 
+Atmospheric Pressure (atm) 
+Absolute Pressure (psia) 
+Gauge Pressure (psig) 
+Head Pressure (feet) 
+Torr (torr) 
+Bar (Bar) 
+Gauge Vacuum (inHg) 
+Compound Gauge (psig and inHg) 
+Dual Gauge (Multiple Units) 
+Guage for Inches of water (in H20)</Text>
+        </Document>
+        <Document ID="9CFE450C-8B9C-4788-AF43-2366679242FC">
+            <Title>Delta Circuit</Title>
+            <Text>In a delta configuration, three components are connected in a closed loop resembling a triangle.  Each component is connected across two lines, and no neutral point is used. 
+In a three-phase delta circuit, &lt;mdn&gt; 
+&lt;mrow&gt;V_L \amp= V_\phi.&lt;/mrow&gt;
+&lt;mrow&gt;I_L \amp = \sqrt{3} I_\phi&lt;/mrow&gt;
+&lt;/mdn&gt;&lt;/p&gt;
+&lt;figure xml:id="fig_delta_connection"&gt;
+&lt;caption&gt;  Three inductors, delta connected  &lt;/caption&gt;
+&lt;image width="40%" source="images/delta_connection"&gt;
+&lt;remix&gt;&lt;source&gt;whaynes CC0&lt;/source&gt;&lt;/remix&gt;
+&lt;/image&gt;
+&lt;/figure&gt;
+</Text>
+        </Document>
+        <Document ID="803EB210-B0D5-4AE2-86E7-8D1A5FCC0811">
+            <Title>Ship Obligations</Title>
+            <Text>&lt;p&gt; &lt;ul&gt;
+Implement the Safety Management System (SMS): The ship is responsible for implementing and following the SMS as defined by the company. This includes adhering to the documented procedures and instructions outlined in the SMS.
+Report Hazards and Non-conformities: The ship is obligated to report any hazards, accidents, or non-conformities that may affect the safety of the ship, its personnel, or the environment. This includes reporting incidents, near-misses, and deficiencies in the SMS.
+Participate in Training and Drills: All personnel on board the ship must undergo appropriate training to ensure they have the necessary skills and knowledge to perform their duties safely. They are also required to actively participate in safety drills and exercises.
+Comply with Safety Procedures: The ship must comply with all safety procedures and guidelines outlined in the SMS. This includes following safe working practices, adhering to emergency response plans, and utilizing safety equipment as required.
+Maintain Records: The ship is responsible for maintaining accurate records of safety-related activities, including incidents, inspections, audits, drills, and maintenance activities. These records provide evidence of compliance with the ISM Code.
+&lt;/ul&gt;&lt;/p&gt;</Text>
+        </Document>
         <Document ID="53AFDE3C-A21E-4B06-AC16-C47820FBBA77">
             <Title>exercise</Title>
             <Text>&lt;statement&gt;
@@ -12044,31 +12081,6 @@ In this chapter we will define some basic electrical concepts and describe some 
  &lt;/choice&gt;
 &lt;/choices&gt;
 </Text>
-        </Document>
-        <Document ID="9CFE450C-8B9C-4788-AF43-2366679242FC">
-            <Title>Delta Circuit</Title>
-            <Text>In a delta configuration, three components are connected in a closed loop resembling a triangle.  Each component is connected across two lines, and no neutral point is used. 
-In a three-phase delta circuit, &lt;mdn&gt; 
-&lt;mrow&gt;V_L \amp= V_\phi.&lt;/mrow&gt;
-&lt;mrow&gt;I_L \amp = \sqrt{3} I_\phi&lt;/mrow&gt;
-&lt;/mdn&gt;&lt;/p&gt;
-&lt;figure xml:id="fig_delta_connection"&gt;
-&lt;caption&gt;  Three inductors, delta connected  &lt;/caption&gt;
-&lt;image width="40%" source="images/delta_connection"&gt;
-&lt;remix&gt;&lt;![CDATA[  whaynes CC0  ]]&gt;&lt;/remix&gt;
-&lt;/image&gt;
-&lt;/figure&gt;
-</Text>
-        </Document>
-        <Document ID="803EB210-B0D5-4AE2-86E7-8D1A5FCC0811">
-            <Title>Ship Obligations</Title>
-            <Text>&lt;p&gt; &lt;ul&gt;
-Implement the Safety Management System (SMS): The ship is responsible for implementing and following the SMS as defined by the company. This includes adhering to the documented procedures and instructions outlined in the SMS.
-Report Hazards and Non-conformities: The ship is obligated to report any hazards, accidents, or non-conformities that may affect the safety of the ship, its personnel, or the environment. This includes reporting incidents, near-misses, and deficiencies in the SMS.
-Participate in Training and Drills: All personnel on board the ship must undergo appropriate training to ensure they have the necessary skills and knowledge to perform their duties safely. They are also required to actively participate in safety drills and exercises.
-Comply with Safety Procedures: The ship must comply with all safety procedures and guidelines outlined in the SMS. This includes following safe working practices, adhering to emergency response plans, and utilizing safety equipment as required.
-Maintain Records: The ship is responsible for maintaining accurate records of safety-related activities, including incidents, inspections, audits, drills, and maintenance activities. These records provide evidence of compliance with the ISM Code.
-&lt;/ul&gt;&lt;/p&gt;</Text>
         </Document>
         <Document ID="9F6889D7-357E-45EA-BD9F-A0088EB67BC6">
             <Title>exercise</Title>
@@ -12102,36 +12114,20 @@ Brushless exciters use solid-state devices, such as diodes, thyristors, and tran
 &lt;figure xml:id="brushes_sliprings"&gt;
 &lt;caption&gt; Brushes and Slip Rings &lt;/caption&gt;
 &lt;image  source="images/brushes_sliprings.png"&gt;
-&lt;remix&gt;&lt;![CDATA[   Source:  https://pdfs.semanticscholar.org/658b/d1175e37de0040d98f072a8d48a7b3dac713.pdf    ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;&lt;source&gt;https://pdfs.semanticscholar.org/658b/d1175e37de0040d98f072a8d48a7b3dac713.pdf   &lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 &lt;/figure&gt;
 
 &lt;figure xml:id="diode_wheel"&gt;
 &lt;caption&gt; Rotating Diodes &lt;/caption&gt;
 &lt;image  source="images/diode_wheel.png"&gt;
-&lt;remix&gt;&lt;![CDATA[   Source:  Marad Field Acceptance test    ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;&lt;source&gt;Marad Field Acceptance test   &lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 &lt;/figure&gt;
 &lt;/sidebyside&gt;
 &lt;/figure&gt;
 The excitation system used aboard the training ship is shown in &lt;xref ref="excitation_system_schematic"/&gt;.  This system is categorized as a brushless and self-excited.  The main components include the the exciter generator and rotating diodes, the pilot generator, and the voltage regulator, each of which will be discussed in the following sections.
 </Text>
-        </Document>
-        <Document ID="91E78655-3EF3-4DA2-A958-4404BF7CF795">
-            <Title>Pressure Units</Title>
-            <Text>There are numerous units of measurement for pressure: 
-US Standard Pressure, pounds per square inch (psi) 
-International (SI) or Metric, pascal or kilo-pascal, Newtons per Meter Squared (kPa) 
-Atmospheric Pressure (atm) 
-Absolute Pressure (psia) 
-Gauge Pressure (psig) 
-Head Pressure (feet) 
-Torr (torr) 
-Bar (Bar) 
-Gauge Vacuum (inHg) 
-Compound Gauge (psig and inHg) 
-Dual Gauge (Multiple Units) 
-Guage for Inches of water (in H20)</Text>
         </Document>
         <Document ID="61A8C683-4946-4C3B-8F3C-EC5712792CC0">
             <Title>Power</Title>
@@ -12441,13 +12437,13 @@ The direction of flow through this type of pump can be reversed by rotating the 
         <Document ID="C57C33E4-DCE0-4C14-B039-2F6FEDD7F6FC">
             <Title>Pressure Units</Title>
         </Document>
+        <Document ID="D7509586-EBA9-4330-AE0E-BD5115439B5C">
+            <Title>Pressure Units</Title>
+        </Document>
         <Document ID="2D003243-E242-4F27-9AC9-B07357BE907D">
             <Title>Strainer</Title>
             <Text>A steam strainer is placed in the steam line upstream of the main engine to prevent objects other than steam from entering the turbines, since solid objects impacting the turbine blades would quickly destroy them. Steam lines would normally be expected to be quite clean, but a strainer is cheap insurance against nuts, tools, and gloves left in the lines by shipyard workers, or rust flakes formed during a layup period. Unfortunately, water droplets due to wet steam or carryover will pass through the steam strainer.
 </Text>
-        </Document>
-        <Document ID="D7509586-EBA9-4330-AE0E-BD5115439B5C">
-            <Title>Pressure Units</Title>
         </Document>
         <Document ID="01CD0ECF-0FD0-4452-BEBA-C4A412EB148C">
             <Title>Overcurrent Protection</Title>
@@ -12459,7 +12455,7 @@ The direction of flow through this type of pump can be reversed by rotating the 
 &lt;figure xml:id="nsmv_rendering"&gt;
 &lt;caption&gt; NSMV Rendering&lt;/caption&gt;
 &lt;image source="images/nsmv_model.png" width="75%"&gt;
-&lt;remix&gt;&lt;![CDATA[ https://www.maritime.dot.gov/sites/marad.dot.gov/files/images/NSMV%20Model%20V12_7_6%20Forward%20Port%20Cloudy.png ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;&lt;source&gt;https://www.maritime.dot.gov/sites/marad.dot.gov/files/images/NSMV%20Model%20V12_7_6%20Forward%20Port%20Cloudy.png&lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 &lt;/figure&gt;
 The ship has dual missions:  its primary mission is to provide a modern platform for training future Merchant Marine Officers, additionally, she is also an available government resource to provide Humanitarian Assistance end Disaster Relief (HA/DR) where and when needed.
@@ -12822,13 +12818,6 @@ The furnace is the space inside the boiler where combustion occurs. Heat loss fr
 Partial Vacuum gauge pressure measurements require conversions which will be discussed in the following sections. 
 </Text>
         </Document>
-        <Document ID="43747D63-F976-4166-99E2-CF7C29A9B2A1">
-            <Title>introduction</Title>
-            <Text>To control an engine means to keep it running at a desired speed, either in accordance with, or regardless of, the changes in the load carried by the engine. The degree of control required depends upon two factors: the engine's performance characteristics, and the type of load which it drives.
-Control of a diesel engine is accomplished through several components: the camshaft, the fuel injector pump, fuel injector and the governor. The camshaft provides the timing needed to properly inject the fuel, the fuel injector pump provides the components that meters and injects the fuel, and the governor regulates the amount of fuel that the injector is to inject. Together, these three major components ensure that the engine runs at the desired speed.
-In diesel engines, a varying amount of fuel is mixed with a constant amount of compressed air inside the cylinder. A full charge of air enters the cylinder during each intake event. The amount of fuel injected into the cylinders controls combustion and thus determines the speed and power output of a diesel engine. 
-A governor is provided to regulate the flow of fuel.  Other devices, either integral with the governor or mounted separately on the engine, are used to control overspeed or overload.</Text>
-        </Document>
         <Document ID="805D2940-743A-4ADC-ACBC-B42E482792FA">
             <Title>Pressure Conversions </Title>
             <Text>Gauge to Absolute Pressure Conversions 
@@ -12863,6 +12852,13 @@ Convert 35 psig to kPa
 35 psig + 14.7 psia = 49.7 psia 
 49.7 psia x \frac{101.325kPa}{14.7psia} = 343 kPa</Text>
         </Document>
+        <Document ID="43747D63-F976-4166-99E2-CF7C29A9B2A1">
+            <Title>introduction</Title>
+            <Text>To control an engine means to keep it running at a desired speed, either in accordance with, or regardless of, the changes in the load carried by the engine. The degree of control required depends upon two factors: the engine's performance characteristics, and the type of load which it drives.
+Control of a diesel engine is accomplished through several components: the camshaft, the fuel injector pump, fuel injector and the governor. The camshaft provides the timing needed to properly inject the fuel, the fuel injector pump provides the components that meters and injects the fuel, and the governor regulates the amount of fuel that the injector is to inject. Together, these three major components ensure that the engine runs at the desired speed.
+In diesel engines, a varying amount of fuel is mixed with a constant amount of compressed air inside the cylinder. A full charge of air enters the cylinder during each intake event. The amount of fuel injected into the cylinders controls combustion and thus determines the speed and power output of a diesel engine. 
+A governor is provided to regulate the flow of fuel.  Other devices, either integral with the governor or mounted separately on the engine, are used to control overspeed or overload.</Text>
+        </Document>
         <Document ID="DE874D11-C7EF-4EE4-AEC4-705682EAE532">
             <Title>Electrical Hazards</Title>
         </Document>
@@ -12881,11 +12877,10 @@ Conduction, radiation, and convection are usually considered to be the three met
         </Document>
         <Document ID="52446522-320C-457E-908C-6D2B6723A890">
             <Title>solution</Title>
-            <Text>&lt;md&gt;
+            <Text>&lt;p&gt;&lt;md&gt;
 &lt;mrow&gt;\psi{35} \text{ (gage)}  \amp =  (45 + 14.7)  \textrm{ psi (absolute)} = 49.7 \textrm{psia}&lt;/mrow&gt;
 &lt;mrow&gt;\amp =   \psi{49.7}  \times \left[\frac{\kPa{101.3}}{\psi{14.7}}\right]  =  \kPa{343} \textrm{ (absolute)}&lt;/mrow&gt;
-&lt;/md&gt;
-&lt;p/&gt;
+&lt;/md&gt;&lt;/p&gt;
 </Text>
         </Document>
         <Document ID="B94194FE-4C42-4263-B6FE-AE4ED2FA911B">
@@ -12896,21 +12891,28 @@ The water jacket temperature sensors provide early warning of abnormal engine te
         <Document ID="E0298280-6622-480B-905A-86466E8A2B6C">
             <Title>Current</Title>
             <Text>Current refers to the flow of electric charge in an electrical circuit. It is the rate at which electric charges, typically electrons, move through a conductor. Electrons, which are negatively charged particles, are the primary carriers of electric charge in most conductive materials.
-&lt;definition&gt;&lt;statement&gt;
+Current can be initiated and sustained in a number of ways, including&lt;ul&gt;
+Chemical reaction Batteries and fuel cells use this principle.
+Electromagnetic induction whereby mechanical power supplied by a prime mover is converted to electrical power by means of a changing magnetic field   This is the principle used by electrical generators.
+Photovoltaic effect   When sunlight strikes the surface of a solar cell, photons are absorbed by the semiconductor material used in the cell which causes some electrons  break free from their normal positions, creating a charge imbalance.
+Seebeck effect The Seebeck effect is a phenomenon where a  small current is produced between two different types of metals or semiconductor materials when  a temperature difference exists between them.  Thermocouples use this principle to produce electric signals for temperature measurement.
+&lt;/ul&gt;&lt;/p&gt;
 Current is measured in amperes (A) and is represented by the symbol I. It can be thought of as the quantity of charge passing through a point in a circuit per unit of time, or alternately as the rate of charge flow. 
 The ampere, or amp (unit symbol: A) is the unit of electrical current.  One ampere is equal to one coulomb of charge moving past a point in one second.
-&lt;/statement&gt;&lt;/definition&gt;
 Consider the battery shown in &lt;xref ref="fig_battery"/&gt;.  The chemical reaction inside the battery causes electrons to move from the positive terminal to the negative terminal, making the negative terminal more negative and the positive terminal more positive.  This creates a potential difference, or voltage across the battery terminals.  
 When the switch is closed, excess electrons will naturally be attracted to the positive terminal and they will migrate through the wire  to attempt to equalize the charge.  This create a flow of electrons that will continue until the chemical reaction is depleted and the battery &lt;q&gt;dies&lt;/q&gt;.
 &lt;figure xml:id="fig_battery" &gt;
 &lt;caption&gt;  The battery creates a voltage to drive current through a circuit.  &lt;/caption&gt;
 &lt;image width="60%" source="images/battery.png"&gt;
-&lt;remix&gt;&lt;![CDATA[  &lt;a href="https://www.freepik.com/free-vector/diagram-showing-electric-circuit-with-battery-lightbulb_7103656.htm"&gt;Image by brgfx&lt;/a&gt; on Freepik  ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;&lt;source href="https://www.freepik.com/free-vector/diagram-showing-electric-circuit-with-battery-lightbulb_7103656.htm"&gt;Image by brgfx on Freepik&lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 &lt;/figure&gt;
 Whenever a potential difference exists between two points in a circuit, whether created by a battery, a generator, or some other voltage source, it will drive electrons from the more negative point towards the more positive point.  This is called electron flow, or electron current.
-Sadly, electron current is not technically current! This is because, in 1752, before the nature of electric charge and electrons was fully understood,  Benjamin Franklin unknowingly defined the charge on an electron as negative.  Current is defined as a stream of charge that flows from a more positively charged area to a more negatively charged area (less positive),  so the direction of current is exactly opposite to the electron flow. This convention was adopted because it is easier to think of current as a flow going from a higher level (more positive) to a lower level (less positive), like water flowing down hill. 
-&lt;image source="images/urgent_mission.png" width="40%"/&gt;&lt;fn&gt;Comic credit: xkcd.com&lt;/fn&gt;
+Sadly, electron current is not technically current!  Current is defined as a stream of charge that flows from a more positively charged area to a more negatively charged area.  This definition was adopted because we want to think of current as a flow going from a higher level (more positive) to a lower level (less positive), like water flowing down hill.  Unfortunately, in 1752, before the nature of electric charge and electrons was fully understood,  Benjamin Franklin unknowingly defined the charge on an electron as negative,  so the direction of conventional current is exactly opposite to electron flow.
+&lt;image source="images/urgent_mission.png" width="40%"&gt;&lt;remix&gt;
+&lt;source href="https://xkcd.com/567/"&gt;xkcd.com&lt;/source&gt; 
+&lt;license href="https://creativecommons.org/licenses/by-sa/3.0"&gt;CC BY-SA 3.0, via Wikimedia Commons&lt;/license&gt;
+&lt;/remix&gt;&lt;/image&gt;
 This definition of current, sometimes called conventional current for clarity, is the one used by physicists, engineers, and in textbooks.  You should think of current as positive charge flowing from a positive terminal to a negative terminal, even though, in reality, negatively charged electrons flow in the other direction.
 
 </Text>
@@ -13215,11 +13217,11 @@ The most common variety of transistor is the bipolar junction transistor (BJT), 
 &lt;sidebyside width="40%"&gt;
 
 &lt;image source="images/transistors.png"&gt;
-&lt;remix&gt;&lt;![CDATA[  &lt;a href="https://commons.wikimedia.org/wiki/File:Electronic_component_transistors.jpg"&gt;me&lt;/a&gt;, &lt;a href="http://creativecommons.org/licenses/by-sa/3.0/"&gt;CC BY-SA 3.0&lt;/a&gt;, via Wikimedia Commons&lt;a href="https://commons.wikimedia.org/wiki/File:Electronic_component_transistors.jpg"&gt;me&lt;/a&gt;, &lt;a href="http://creativecommons.org/licenses/by-sa/3.0/"&gt;CC BY-SA 3.0&lt;/a&gt;, via Wikimedia Commons  ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;&lt;source href="https://commons.wikimedia.org/wiki/File:Electronic_component_transistors.jpg"&gt;me&lt;/source&gt;  &lt;license href="http://creativecommons.org/licenses/by-sa/3.0/"&gt;CC BY-SA 3.0, via Wikimedia Commons&lt;/license&gt;&lt;/remix&gt;
 &lt;/image&gt;
 
 &lt;image source="images/integrated_circuit_chip.png"&gt;
-&lt;remix&gt;&lt;![CDATA[  &lt;a href="https://commons.wikimedia.org/wiki/File:2011-06-03-bios.jpg"&gt;Thomas Bresson&lt;/a&gt;, &lt;a href="https://creativecommons.org/licenses/by/3.0"&gt;CC BY 3.0&lt;/a&gt;, via Wikimedia Commons  ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;&lt;source href="https://commons.wikimedia.org/wiki/File:2011-06-03-bios.jpg"&gt;Thomas Bresson&lt;/source&gt;  &lt;license href="https://creativecommons.org/licenses/by/3.0"&gt;CC BY 3.0, via Wikimedia Commons&lt;/license&gt;&lt;/remix&gt;
 &lt;/image&gt;
 
 &lt;/sidebyside&gt;
@@ -13235,15 +13237,15 @@ An integrated circuit (IC), also known as a microchip or chip, is a compact elec
 &lt;caption&gt;Circuit breaker, fuses, ground fault circuit interupter&lt;/caption&gt;
 &lt;sidebyside widths="25% 50% 25%"&gt;
 &lt;image source="images/circuit_breaker.png" &gt;
-&lt;remix&gt;&lt;![CDATA[  &lt;a href="https://commons.wikimedia.org/wiki/File:Residual_current_operated_circuit-breaker_with_integral_overcurrent_protection.jpg"&gt;User-2000&lt;/a&gt;, &lt;a href="https://creativecommons.org/licenses/by-sa/3.0"&gt;CC BY-SA 3.0&lt;/a&gt;, via Wikimedia Commons  ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;&lt;source href="https://commons.wikimedia.org/wiki/File:Residual_current_operated_circuit-breaker_with_integral_overcurrent_protection.jpg"&gt;User-2000&lt;/source&gt;  &lt;license href="https://creativecommons.org/licenses/by-sa/3.0"&gt;CC BY-SA 3.0, via Wikimedia Commons&lt;/license&gt;&lt;/remix&gt;
 &lt;/image&gt;
 
 &lt;image source="images/fuses.png"&gt;
-&lt;remix&gt;&lt;![CDATA[  &lt;a href="https://commons.wikimedia.org/wiki/File:Different_Sizes_of_Insert_Fuses.jpg"&gt;Medvedev&lt;/a&gt;, &lt;a href="https://creativecommons.org/licenses/by-sa/3.0"&gt;CC BY-SA 3.0&lt;/a&gt;, via Wikimedia Commons  ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;&lt;source  href="https://commons.wikimedia.org/wiki/File:Different_Sizes_of_Insert_Fuses.jpg"&gt;Medvedev&lt;/source&gt; &lt;license href="https://creativecommons.org/licenses/by-sa/3.0"&gt;CC BY-SA 3.0, via Wikimedia Commons&lt;/license&gt;&lt;/remix&gt;
 &lt;/image&gt;
 
 &lt;image source="images/gfci.png"&gt;
-&lt;remix&gt;&lt;![CDATA[  &lt;a href="https://commons.wikimedia.org/wiki/File:Residential_GFCI_receptacle.jpg"&gt;Ben Kurtovic&lt;/a&gt;, &lt;a href="https://creativecommons.org/licenses/by-sa/4.0"&gt;CC BY-SA 4.0&lt;/a&gt;, via Wikimedia Commons  ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;&lt;source  href="https://commons.wikimedia.org/wiki/File:Residential_GFCI_receptacle.jpg"&gt;Ben Kurtovic&lt;/source&gt; &lt;license href="https://creativecommons.org/licenses/by-sa/4.0"&gt;CC BY-SA 4.0, via Wikimedia Commons&lt;/license&gt;&lt;/remix&gt;
 &lt;/image&gt;
 &lt;/sidebyside&gt;
 &lt;/figure&gt;
@@ -13416,9 +13418,6 @@ In summary, a series circuit has components connected in a single path with the 
             <Title>Lack of oxygen</Title>
             <Text>Confined spaces often have limited ventilation, which can lead to a decrease in oxygen levels. This oxygen-deficient atmosphere can cause dizziness, loss of consciousness, or even asphyxiation.</Text>
         </Document>
-        <Document ID="E213DD71-A205-4EBE-8165-C02A7FFBACE3">
-            <Text>&lt;me&gt;m = 600 \mathrm{\ oz\ } \times  \left[\frac{\lb{1}}{16 \mathrm{\ oz\ }} \right] \left[\frac{\kg{1}}{\lb{2.205}} \right] = \kg{17}&lt;/me&gt;</Text>
-        </Document>
         <Document ID="13B13BB2-8F58-431A-B282-F87BF9A91CF3">
             <Title>Example Problem</Title>
             <Text>The last example explains how to convert meters to inches. We start with the same units as in the first example, but finish with different units. There will be two separate conversions. First, we convert from meters to feet. Then we convert from feet to inches. Remember, there are 
@@ -13433,6 +13432,9 @@ KM to Miles
 
 
  </Text>
+        </Document>
+        <Document ID="E213DD71-A205-4EBE-8165-C02A7FFBACE3">
+            <Text>&lt;me&gt;m = 600 \mathrm{\ oz\ } \times  \left[\frac{\lb{1}}{16 \mathrm{\ oz\ }} \right] \left[\frac{\kg{1}}{\lb{2.205}} \right] = \kg{17}&lt;/me&gt;</Text>
         </Document>
         <Document ID="04D7584D-D984-4C47-B000-6CD2DBD228C3">
             <Title>Firing Order</Title>
@@ -13864,43 +13866,6 @@ Correct adjustment and fit of the your hard hat is required for maximum safety. 
         </Document>
         <Document ID="246612B2-87BC-437D-A066-662605D6F664">
             <Title>Head to pressure</Title>
-            <Text>&lt;example&gt;
-    &lt;statement&gt;
-What is the pressure in pascals caused by a \m{2} head of fresh water?
-    &lt;/statement&gt;
-    &lt;answer&gt;
-&lt;me&gt;p = \kPa{19.6}&lt;/me&gt;
-&lt;/answer&gt;
-&lt;solution&gt;
-&lt;p/&gt;
-&lt;md&gt;
-&lt;mrow&gt;p \amp =  \left[\frac{\psi{0.433}}{\ft{1}}\right] h&lt;/mrow&gt;
-&lt;mrow&gt;\amp =  \left[\frac{\psi{0.433}}{\ft{1}}\right] \times \m{2}\left[\frac{\ft{1}}{\m{0.3048}}\right]&lt;/mrow&gt;
-&lt;mrow&gt;\amp = \psi{2.84}&lt;/mrow&gt;
-&lt;mrow&gt;\amp = \psi{2.84} \times \left[\frac{\Pa{6894.757}}{\psi{1}}\right]&lt;/mrow&gt;
-&lt;mrow&gt;\amp = \Pa{19581} = \kPa{19.6}&lt;/mrow&gt;
-&lt;/md&gt;
-&lt;/solution&gt;
-&lt;/example&gt;
-&lt;example&gt;
-    &lt;statement&gt;
-What is the pressure in psi equivalent to a \inch{30} column of mercury?
-    &lt;/statement&gt;
-    &lt;answer&gt;
-&lt;me&gt;p = \psi{14.8}&lt;/me&gt;
-&lt;/answer&gt;
-    &lt;solution&gt;
-Applying &lt;xref ref='head-equation'/&gt; for mercury, which has a specific gravity of 13.633. 
-&lt;md&gt;
-&lt;mrow&gt;p \amp =   \left[\frac{\psi{0.433}}{\ft{1}}\right ] (\textrm{s.g.})\  h&lt;/mrow&gt;
-&lt;mrow&gt;\amp =  \psi{14.8}&lt;/mrow&gt;
-&lt;mrow&gt;\amp =   \left[\frac{\psi{0.433}}{\ft{1}}\right] (13.633) \times (\inch{30}) \left[\frac{\ft{1}}{\inch{12}}\right]&lt;/mrow&gt;
-
-&lt;/md&gt;        
-    &lt;/solution&gt;
-  &lt;/example&gt;
-
-</Text>
         </Document>
         <Document ID="C06686EA-B59F-4FED-B5EA-D8F4C78FC836">
             <Text>The unit-factor method or the unity bracket method is a widely used method for unit conversions using the rules of algebra. This method utilizes the fact that any number or expression can be multiplied by one (unity) without changing its value.  The advantage of this method is that it explicitly accounts for units, rather than treating a conversion factor as a magic number.
@@ -14114,19 +14079,13 @@ Limit Process: The area of a shape can also be approximated using a limit proces
 These are just a few examples of how mathematics can be used to find area, and there are many other techniques and methods depending on the specific shape or surface being considered. 
 </Text>
         </Document>
-        <Document ID="FD773A1A-EB9E-4792-B465-87A04C3F42C2">
-            <Title>Timing</Title>
-            <Text>In addition to measuring the amount of fuel injected, the system must properly time the injection to ensure efficient combustion so that maximum energy can be obtained from the fuel. When fuel is injected too early into the cylinder, it may cause the engine to detonate and lose power, and have low exhaust temperatures. If the fuel is injected late into the cylinder, it will cause the engine to have high exhaust temperatures, smoky exhaust, and a loss of power. In both situations, fuel economy will be low and fuel consumption will be high.</Text>
-        </Document>
         <Document ID="AC8541A6-3672-42B9-9837-8C84F0438F9F">
             <Title>Pressure Scales</Title>
             <Text>Pressure scales are systems used to measure and quantify pressure. There are several types of pressure scales, including: Atmospheric Pressure, Absolute Pressure, Gauge Pressure, Vacuum Pressure.</Text>
         </Document>
-        <Document ID="0675DD9F-DE70-48FE-8589-6980F6ECECA8">
-            <Title>Tee Fittings</Title>
-            <Text>Equal Tee
-Reducing Tee
-Barred Tee (Branching Tee)</Text>
+        <Document ID="FD773A1A-EB9E-4792-B465-87A04C3F42C2">
+            <Title>Timing</Title>
+            <Text>In addition to measuring the amount of fuel injected, the system must properly time the injection to ensure efficient combustion so that maximum energy can be obtained from the fuel. When fuel is injected too early into the cylinder, it may cause the engine to detonate and lose power, and have low exhaust temperatures. If the fuel is injected late into the cylinder, it will cause the engine to have high exhaust temperatures, smoky exhaust, and a loss of power. In both situations, fuel economy will be low and fuel consumption will be high.</Text>
         </Document>
         <Document ID="129AFEAA-2A72-44BD-90D9-02309E149194">
             <Title>PASCAL’S PRINCIPLE</Title>
@@ -14144,6 +14103,12 @@ One of the most important technological applications of Pascal’s principle is 
 &lt;/figure&gt;
 A typical hydraulic system with two fluid-filled cylinders, capped with pistons and connected by a tube called a hydraulic line. A downward force F1F1 on the left piston creates a pressure that is transmitted undiminished to all parts of the enclosed fluid. This results in an upward force F2F2 on the right piston that is larger than F1F1 because the right piston has a larger area. 
 </Text>
+        </Document>
+        <Document ID="0675DD9F-DE70-48FE-8589-6980F6ECECA8">
+            <Title>Tee Fittings</Title>
+            <Text>Equal Tee
+Reducing Tee
+Barred Tee (Branching Tee)</Text>
         </Document>
         <Document ID="61305976-CB9F-43DE-857B-12C465851690">
             <Title>Summary</Title>
@@ -14237,7 +14202,6 @@ A pipe plug is a fitting to close or seal the end of a pipe. A plug has male thr
         </Document>
         <Document ID="610E74CC-4248-4120-BD83-1AEE763C8BAC">
             <Title>Speed and Velodity</Title>
-            <Text> </Text>
         </Document>
         <Document ID="A151F21E-9DB0-4A2E-8CC0-F258638E7524">
             <Title>introduction</Title>
@@ -14419,7 +14383,7 @@ Note that you must perform the meter to feet conversion twice,  once for each me
 &lt;figure xml:id="hazardous-material-placards"&gt;
 &lt;caption&gt; Hazardous Material Placards  &lt;/caption&gt;
 &lt;image width="90%" source="images/hazardous-material-placards.jpg"&gt;
-&lt;remix&gt;&lt;![CDATA[  Source:  https://airseacontainers.com/blog/how-to-read-and-understand-hazmat-placards/   ]]&gt; &lt;/remix&gt;
+&lt;remix&gt;&lt;source&gt;https://airseacontainers.com/blog/how-to-read-and-understand-hazmat-placards/  &lt;/source&gt; &lt;/remix&gt;
 &lt;/image&gt;
 &lt;/figure&gt;</Text>
         </Document>
@@ -14624,7 +14588,7 @@ Lockout-Tagout (LOTO) is a safety procedure used to ensure that dangerous equipm
 &lt;figure xml:id="fig_612524341066_T9-13"&gt;
 &lt;caption&gt; Lockout Tag &lt;/caption&gt;
 &lt;image width="40%" source="images/612524341066_T9-13.png"&gt;
-&lt;remix&gt; &lt;![CDATA[  https://www.idescosafety.com/  ]]&gt;&lt;/remix&gt;
+&lt;remix&gt; &lt;source&gt;  https://www.idescosafety.com/  &lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 &lt;/figure&gt;
 &lt;/sidebyside&gt;
@@ -14670,14 +14634,14 @@ The output of the pilot generator is transmitted to the automatic voltage regula
         &lt;figure xml:id="pmg_rotor"&gt;
           &lt;caption&gt; Permanent Magnet Rotor&lt;/caption&gt;
           &lt;image width="100%" source="images/pmg_rotor.png"&gt;
-          &lt;remix&gt;&lt;![CDATA[   DV951E001_MAIN ALTERNATOR_OPERATION MANUAL_PMG    ]]&gt;&lt;/remix&gt;
+          &lt;remix&gt;&lt;source&gt;DV951E001_MAIN ALTERNATOR_OPERATION MANUAL_PMG&lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
         &lt;/figure&gt;
 
         &lt;figure xml:id="pmg_stator"&gt;
           &lt;caption&gt; PMG Stator &lt;/caption&gt;
           &lt;image width="100%" source="images/pmg_stator.png"&gt;
-&lt;remix&gt;&lt;![CDATA[   Source: DV951E001_MAIN ALTERNATOR_OPERATION MANUAL_PMG   ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;&lt;source&gt;DV951E001_MAIN ALTERNATOR_OPERATION MANUAL_PMG&lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
         &lt;/figure&gt;
 &lt;/sidebyside&gt;
@@ -14725,7 +14689,7 @@ The NSMV power distribution system consists of the following: &lt;ul&gt;
 &lt;figure xml:id="fig_elbows" &gt;
 &lt;caption&gt; Elbows: 90&lt;degree/&gt;, 45&lt;degree/&gt;, 22.5&lt;degree/&gt;, Street Ell, Reducing Ell  &lt;/caption&gt;
 &lt;image width="100%" source="images/elbows.png"&gt;
-&lt;remix&gt; &lt;![CDATA[ https://www.wallpaperflare.com/man-worker-sparks-metallurgical-welding-welder-mask-protection-wallpaper-gathq/download/1920x1080  ]]&gt;&lt;/remix&gt;
+&lt;remix&gt; &lt;source&gt; https://www.wallpaperflare.com/man-worker-sparks-metallurgical-welding-welder-mask-protection-wallpaper-gathq/download/1920x1080  &lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 &lt;/figure&gt;
 Standard elbows are available in 90&lt;degree/&gt;  , 45&lt;degree/&gt; and less commonly 22.5&lt;degree/&gt; angles.  A 90&lt;degree/&gt; Ell is also called a quarter-bend.   
@@ -14837,9 +14801,6 @@ The crankcase is usually located on the bottom of the cylinder block with the oi
             <Title>Introduction</Title>
             <Text>(TBD)</Text>
         </Document>
-        <Document ID="2D8C5E03-A494-4C5B-8A1D-DADA2CE9F416">
-            <Title>Solenoids</Title>
-        </Document>
         <Document ID="796290D9-165B-4CB0-BB48-E091FE89B936">
             <Text>The problem supplies the weight  &lt;me&gt;w = \N{150}&lt;/me&gt; and its location, Earth, which has a gravitational acceleration of &lt;me&gt;g = \aSI{9.8}&lt;/me&gt;. 
 Solving &lt;xref ref="wmg"/&gt; for mass and substituting gives:
@@ -14852,9 +14813,11 @@ Solving &lt;xref ref="wmg"/&gt; for mass and substituting gives:
 &lt;/md&gt;&lt;/p&gt;
 Note that we used the conversion &lt;me&gt;\N{1} = 1 \mathrm{kg\ m}/\mathrm{s}^2&lt;/me&gt;.</Text>
         </Document>
+        <Document ID="2D8C5E03-A494-4C5B-8A1D-DADA2CE9F416">
+            <Title>Solenoids</Title>
+        </Document>
         <Document ID="A967A6F0-8B50-46E6-9D05-B62A1078AC5B">
             <Title>in Hg to psi conversion</Title>
-            <Text> </Text>
         </Document>
         <Document ID="BEEA511A-C355-47FD-A22F-D44ABF912F5F">
             <Title>DC Power</Title>
@@ -14909,11 +14872,6 @@ In working with Inches Mercury Gauge readings, it is essential to convert those 
         <Document ID="EF1F8DBC-113F-45E2-9BA9-A684C5F54751">
             <Title>Heat Transfer</Title>
         </Document>
-        <Document ID="9D5FBD2F-F4F0-4943-8D3C-67C7A2188BCF">
-            <Title>Store </Title>
-            <Text>Finally the DC Heater acts as a storage location for feedwater. It acts as a surge tank for the system, allowing fluctuations in the amount of water contained in the cycle to occur without upsetting the feed pump and feedwater regulators. 
-</Text>
-        </Document>
         <Document ID="457FAB2C-5B38-4D56-9809-69A387B83181">
             <Title>Thermistor</Title>
             <Text>Thermistors are a type of temperature-sensitive resistor whose electrical resistance changes significantly with temperature. They are commonly used in electronic devices and temperature control systems.
@@ -14921,6 +14879,11 @@ In working with Inches Mercury Gauge readings, it is essential to convert those 
 &lt;image source="images/temperature-image6.png"  width="40%"/&gt;
 &lt;caption&gt;Thermistor&lt;/caption&gt;
 &lt;/figure&gt;
+</Text>
+        </Document>
+        <Document ID="9D5FBD2F-F4F0-4943-8D3C-67C7A2188BCF">
+            <Title>Store </Title>
+            <Text>Finally the DC Heater acts as a storage location for feedwater. It acts as a surge tank for the system, allowing fluctuations in the amount of water contained in the cycle to occur without upsetting the feed pump and feedwater regulators. 
 </Text>
         </Document>
         <Document ID="FCF1DC3E-5C4C-44B0-A7E6-24A68D270924">
@@ -15132,7 +15095,7 @@ For large or irregularly shaped containers, the volume can be determined or appr
 &lt;figure xml:id="fig_nipples" &gt;
 &lt;caption&gt; Nipples: Close, Short, Hex, Long  &lt;/caption&gt;
 &lt;image width="100%" source="images/nipples.png"&gt;
-&lt;remix&gt; &lt;![CDATA[ https://www.wallpaperflare.com/man-worker-sparks-metallurgical-welding-welder-mask-protection-wallpaper-gathq/download/1920x1080  ]]&gt;&lt;/remix&gt;
+&lt;remix&gt; &lt;source&gt; https://www.wallpaperflare.com/man-worker-sparks-metallurgical-welding-welder-mask-protection-wallpaper-gathq/download/1920x1080  &lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 &lt;/figure&gt;
 Close nipples are the shortest practical pipe nipple. The are used to connect two fittings very close to one another, leaving no unthreaded pipe exposed. Close or nipples are difficult to work with because the threads will be damaged with a pipe wrench, and the are difficult to remove without damage.
@@ -15153,6 +15116,10 @@ A-Intake valve Opening, B- Exhaust Valve Closing, C- Exhaust Valve Opening, D- I
         </Document>
         <Document ID="9A588431-F7BD-483F-8AED-2EA5D8CAE96D">
             <Title>Mechanical Energy</Title>
+        </Document>
+        <Document ID="ED00B76A-0693-4742-B82B-ED107A1D0A8B">
+            <Text>&lt;me&gt;p = \kPa{19.6}&lt;/me&gt;
+</Text>
         </Document>
         <Document ID="D14EBB19-CC74-43AD-B6ED-53560AA7C6DC">
             <Title>Electrical Distribution</Title>
@@ -15235,6 +15202,9 @@ In the metric system, torque is measured in newton-meters (N-m) or in some cases
         <Document ID="128B4AC0-E0F0-496B-85AB-1F613FBBFEF2">
             <Title>Four Stroke Cycle</Title>
         </Document>
+        <Document ID="E9C9BF4D-1A28-41D9-90B5-E52441ECD3C7">
+            <Title>Length</Title>
+        </Document>
         <Document ID="EF444405-9209-4695-892C-21AAA9F96164">
             <Title>introduction</Title>
             <Text>Mechanical hazards are a physical hazards associated with machines and other movable objects that may cause harm to a person.
@@ -15242,29 +15212,26 @@ Injuries caused by mechanical hazards include friction or abrasion, lacerations,
 &lt;figure xml:id="machine-safety"&gt;
 &lt;caption&gt;Rotating Shaft Hazard Sign&lt;/caption&gt;
 &lt;image width="50%" source="images/machine-safety.jpg"&gt;
-&lt;remix&gt;&lt;![CDATA[  Source: https://www.compliancesigns.com  ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;&lt;source&gt;https://www.compliancesigns.com &lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 &lt;/figure&gt;
 Mechanical hazards can be managed by adopting safe work procedures and the application of appropriate safeguards. As such, you should always wear appropriate PPE, follow the machine’s operating instructions, and ensure that all machine safety features and guards are in place. Be aware that some machines may start automatically at any time, so take appropriate precautions including de-energizing and locking out machinery before working on it.
 </Text>
-        </Document>
-        <Document ID="E9C9BF4D-1A28-41D9-90B5-E52441ECD3C7">
-            <Title>Length</Title>
         </Document>
         <Document ID="00784E0C-A73D-4D6D-AA80-5ACC42A488FE">
             <Title>connections</Title>
             <Text>Pipe or tubing alone does not constitute a piping system. To make the pipe or tubing into a system, the various components of the complete system must be connected together.  
 A number of different methods are available for making these pipe connections.  Some common connection methods are described below.</Text>
         </Document>
-        <Document ID="BEA6B4B6-7D1B-4EF0-8D30-B2F593BF6D1C">
-            <Title>Inertia</Title>
-            <Text>Mass is a measure of an object's resistance to changes in its motion. The greater the mass, the more force is required to change its state of motion (i.e., to accelerate it).  This relation is expressed by Newton's Second law of motion: &lt;me&gt;F = ma &lt;/me&gt;.</Text>
-        </Document>
         <Document ID="670935E1-07DF-4CD4-AF5D-7521F1888A7F">
             <Title>Atmospheric Pressure (psia)</Title>
             <Text>Atmospheric pressure, as stated earlier, is specific to elevation. Air, which is all around you, has weight, and it presses against everything it touches. That pressure is called atmospheric pressure, or air pressure. It is the force exerted on a surface by the air above it as gravity pulls it to Earth. Atmospheric pressure is the pressure exerted by the Earth's atmosphere at a given location. For example, standard atmospheric pressure at sea level is 760mmHg, 14.7 psia or 101.325 kPa. In Denver, Colorado, atmospheric pressure 12.4 psi or about 84.0 kPa, and in Death Valley, California it is 14.9 psi or 102.6 kPa. 
 Atmospheric pressure is commonly measured with a barometer. 
 One Atmosphere at Sea Level = 14.7 psi, 101.325 kPa and 760 mmHg (1 Torr).</Text>
+        </Document>
+        <Document ID="BEA6B4B6-7D1B-4EF0-8D30-B2F593BF6D1C">
+            <Title>Inertia</Title>
+            <Text>Mass is a measure of an object's resistance to changes in its motion. The greater the mass, the more force is required to change its state of motion (i.e., to accelerate it).  This relation is expressed by Newton's Second law of motion: &lt;me&gt;F = ma &lt;/me&gt;.</Text>
         </Document>
         <Document ID="2B8604CB-F91A-4D3F-96BD-EC80DA4DD23C">
             <Text>The problem supplies the weight  &lt;me&gt;w = \N{150}&lt;/me&gt; and its location, Earth, which has a gravitational acceleration of &lt;me&gt;g = \aSI{9.8}&lt;/me&gt;. 
@@ -15303,7 +15270,7 @@ A digital multimeter (DMM) is a versatile electronic tool that combines multiple
 
 &lt;caption&gt;  Digital Multimeter  &lt;/caption&gt;
 &lt;image source="images/digital_multimeter.png"&gt;
-&lt;remix&gt;&lt;![CDATA[  https://www.fluke.com/en-us/product/electrical-testing/digital-multimeters/fluke-87v  ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;&lt;source&gt;https://www.fluke.com/en-us/product/electrical-testing/digital-multimeters/fluke-87v&lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 &lt;/figure&gt;
 &lt;/sidebyside&gt;
@@ -15376,7 +15343,7 @@ First convert the given value to an absolute pressure.
 &lt;mrow&gt;\amp =  29.92 \textrm{ in Hg} -  10 \textrm{ in Hg} \amp =  19.92 \textrm{ in Hg abs} \text{ (absolute)}&lt;/mrow&gt;
 &lt;mrow&gt;\amp =  19.92 \textrm{ in Hg}\times \left[\frac{\psi{14.7}}{29.92 \textrm{ in Hg}}\right]&lt;/mrow&gt;
 &lt;mrow&gt;\amp = \psi{9.79}&lt;/mrow&gt;
-&lt;/md&gt;
+&lt;/md&gt;&lt;/p&gt;
 </Text>
         </Document>
         <Document ID="CBA833CF-D873-4D52-B532-468FA0293852">
@@ -15397,6 +15364,15 @@ Rotation of the plungers changes the part of the plunger helix that passes over 
         <Document ID="55237C9C-A4FF-480C-AD26-80E1DAB1A996">
             <Title>Diesel Engine Systems</Title>
         </Document>
+        <Document ID="0E7A06E3-B01F-4DB1-9547-0C6DB2126DB7">
+            <Title>Resistance Temperature Detector</Title>
+            <Text>Resistance Temperature Detectors (RTD) determine temperature by measuring the resistance of an electrical wire, which increases as the temperature rises and decreases when the temperature falls. The change in resistance of the wire indicates the temperature change.
+&lt;figure&gt;
+&lt;image source="images/temperature-image5.jpg"  width="40%"/&gt;
+&lt;caption&gt; Resistance Temperature Detector RTD &lt;/caption&gt;
+&lt;/figure&gt;
+</Text>
+        </Document>
         <Document ID="4F9D59B3-5692-49FD-83EC-07C4A8BF2192">
             <Title>Miscellaneous Fittings</Title>
             <Text>* Reducing Coupling
@@ -15413,23 +15389,13 @@ The first of these two turbines is known as the high pressure turbine (HP) and t
 &lt;figure xml:id="fig_turbines_and_gears"&gt;
 &lt;caption&gt; Main Engine and Gears for Tanker &lt;em&gt;Batillus&lt;/em&gt; under construction.  Photo by &lt;url href="http://www.aukevisser.nl/supertankers/id316.htm" &gt;Jorgen Lonn.&lt;/url&gt;&lt;/caption&gt;
 &lt;image width="100%" source="images/turbines_and_gears.png"&gt;
-&lt;remix&gt; &lt;![CDATA[  http://www.aukevisser.nl/supertankers/id317.htm
-from the collection of Jorgen Lonn
-http://www.aukevisser.nl/supertankers/id317.htm" &gt;Jorgen Lonn.  ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;&lt;source href="http://www.aukevisser.nl/supertankers/id317.htm"&gt;
+from the collection of Jorgen Lonn.&lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 &lt;/figure&gt;
 Superheated steam from the throttles enters the HP turbine where its pressure drops and its thermal energy is converted to mechanical energy. The LP turbine follows the HP turbine and continues to extract energy from the steam. The steam enters at a low pressure (a vacuum actually, at low loads) and exits at an even lower pressure into the main condenser. The specific volume of steam at these low pressures is large, which means that the turbine blades and the LP turbine itself are also large. When looking at the two turbines, it is always easy to identify the LP turbine because of its size; eight to ten feet in diameter is not unusual.
 The forward end of the LP Turbine rotor contains the Astern Elements. These are two or three rows of blades designed to rotate the shaft in the astern direction. Since there are so few rows of astern blades, the power the turbine is capable of producing in the astern direction is limited.
 The HP and LP turbines and the reduction gear together are known as the Main Engine.
-</Text>
-        </Document>
-        <Document ID="0E7A06E3-B01F-4DB1-9547-0C6DB2126DB7">
-            <Title>Resistance Temperature Detector</Title>
-            <Text>Resistance Temperature Detectors (RTD) determine temperature by measuring the resistance of an electrical wire, which increases as the temperature rises and decreases when the temperature falls. The change in resistance of the wire indicates the temperature change.
-&lt;figure&gt;
-&lt;image source="images/temperature-image5.jpg"  width="40%"/&gt;
-&lt;caption&gt; Resistance Temperature Detector RTD &lt;/caption&gt;
-&lt;/figure&gt;
 </Text>
         </Document>
         <Document ID="4BEA9BB2-9C30-479B-A04F-54053E50F0C3">
@@ -15540,11 +15506,11 @@ A high pressure pump and an injection nozzle for each cylinder are combined into
         <Document ID="D4499CD7-4218-4DDD-8ACB-A8A39325A1D6">
             <Title>Components of a Safety Management System</Title>
         </Document>
-        <Document ID="AEF89D6A-5D7C-4212-B478-C066D2101DCD">
-            <Title>Convert to h:m:s to decimal time</Title>
-        </Document>
         <Document ID="3414F9E1-2A12-4EAB-A39D-A63EA0EB4780">
             <Title>Bourdon Tube Gauges</Title>
+        </Document>
+        <Document ID="AEF89D6A-5D7C-4212-B478-C066D2101DCD">
+            <Title>Convert to h:m:s to decimal time</Title>
         </Document>
         <Document ID="1BF5E6E8-51AD-4EC1-BE0A-7F905C7B6B3F">
             <Title>Main Steam Cycle </Title>
@@ -15652,11 +15618,6 @@ As the piston approaches 48° BBDC, the cam of the exhaust lobe starts to force 
         <Document ID="D1AFC683-3074-467D-A83E-789F1CC63924">
             <Title>Pressure Scales</Title>
         </Document>
-        <Document ID="16973B43-CD05-43B5-A3FC-BB216B24FB0A">
-            <Title>introduction</Title>
-            <Text>Pipe fittings are the parts used to join pipe sections together with other system components like valves and pumps to build complete piping systems.
-As discussed in &lt;xref ref="pipe-connections"/&gt;, pipe fittings may be welded,  threaded, mechanically joined, or chemically adhered, to name the most common mechanisms, depending on the material of the pipe.  Some of the most common pipe fittings are described in the following sections.  The photos show threaded iron fittings, but similar fittings are available for other materials and connection methods.</Text>
-        </Document>
         <Document ID="D4183644-2A98-4FC8-A547-DFCB23CB08C8">
             <Text>----
 Gauge to Absolute Pressure Conversions 
@@ -15675,6 +15636,11 @@ Absolute Pressure = &lt;em&gt;P&lt;/em&gt;
 
 Absolute Pressure = 14.7 psia + 100 psig 
 Absolute Pressure = 114.7 psia</Text>
+        </Document>
+        <Document ID="16973B43-CD05-43B5-A3FC-BB216B24FB0A">
+            <Title>introduction</Title>
+            <Text>Pipe fittings are the parts used to join pipe sections together with other system components like valves and pumps to build complete piping systems.
+As discussed in &lt;xref ref="pipe-connections"/&gt;, pipe fittings may be welded,  threaded, mechanically joined, or chemically adhered, to name the most common mechanisms, depending on the material of the pipe.  Some of the most common pipe fittings are described in the following sections.  The photos show threaded iron fittings, but similar fittings are available for other materials and connection methods.</Text>
         </Document>
         <Document ID="9C23C44B-171B-44E2-A34A-CC86D60665E0">
             <Title>By Displacement Characteristics</Title>
@@ -15800,6 +15766,9 @@ WELDING PIPE NIPPLE
 A welding pipe nipple has a male threaded connection on one end and a standard cut pipe on the other end. Once the unthreaded end is welded and connected, fitting a pipe to the threaded end becomes much easier. Welding pipe nipples are normally used in piping systems that require welding to connect components.
 </Text>
         </Document>
+        <Document ID="93FC48D5-7C7B-499D-B91B-77C28B62C87B">
+            <Text>How many square feet are there in 1 square meter?</Text>
+        </Document>
         <Document ID="921BDA22-6431-4EAD-B09C-293FEB037266">
             <Title>Common Rail System</Title>
             <Text>The basic common-rail system consists of a high-pressure pump which discharges very high-pressure fuel into a common rail, or header, to which each fuel injector is connected by tubing. A spring-loaded bypass valve on the header maintains a constant pressure in the system, returning all excess fuel to the fuel supply tank. The fuel injectors are operated mechanically, and or electrically by the engine computer which controls the amount of diesel fuel oil injected into the cylinder at each power stroke by the lift of the needle valve in the injector. The principal parts of a basic common-rail system are shown in figure below. 
@@ -15807,9 +15776,6 @@ A welding pipe nipple has a male threaded connection on one end and a standard c
    &lt;caption&gt;Common Rail System&lt;/caption&gt;
   &lt;image source="images/common-rail-pic.png" width="75%"/&gt; 
 &lt;/figure&gt;</Text>
-        </Document>
-        <Document ID="93FC48D5-7C7B-499D-B91B-77C28B62C87B">
-            <Text>How many square feet are there in 1 square meter?</Text>
         </Document>
         <Document ID="4C00553A-7822-41AC-B670-CE08A2F22C6E">
             <Title>Motor Control</Title>
@@ -15820,7 +15786,7 @@ The power circuit consists of a circuit breaker (1), three main contacts (2),  t
 &lt;figure xml:id="fig_motor_controller"&gt;
 &lt;caption&gt; Across-the-line starter  &lt;/caption&gt;
 &lt;image width="90%" source="images/motor_controller"&gt;
-&lt;remix&gt; &lt;![CDATA[ whaynes@maritime.edu cc0  ]]&gt;&lt;/remix&gt;
+&lt;remix&gt; &lt;source&gt;whaynes@maritime.edu cc0&lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 &lt;/figure&gt;
 
@@ -16180,6 +16146,21 @@ To detect leaks or loss of content from the tank.
 &lt;/choices&gt;
 </Text>
         </Document>
+        <Document ID="112C6839-42E7-498D-814D-AD6304842465">
+            <Title>BAR</Title>
+            <Text>BAR 
+The bar is defined using the SI derived unit, pascal: 1 bar= =100,000 Pa (100 kPa). =100,000 N/m2. 
+1 bar is slightly less than the current average atmospheric pressure on Earth at sea level being 14.5 psia. The bar and the millibar were introduced by the Norwegian meteorologist Vilhelm Bjerknes, who was a founder of the modern practice of weather forecasting. 
+One Atmosphere =\frac{USSystem}{MetricSystem} = \frac{14.7psia}{101.325kPa} = .145 
+1 Bar = 100 kPa 
+100 kPa X .145 = 14.5 psia 
+1 Bar =14.5 psia 
+&lt;figure&gt;
+   &lt;caption&gt;bar Gauge&lt;/caption&gt;
+   &lt;image width="50%" source="images/image15.png"/&gt;
+&lt;/figure&gt;
+</Text>
+        </Document>
         <Document ID="C7F6C614-D9BD-41DB-AAA7-1F0E4DB56284">
             <Text>WHAT ARE NPT FITTINGS?
 
@@ -16206,21 +16187,6 @@ Given that the standard has been around for a while, it has a set of advantages 
 DISADVANTAGES OF USING NPT THREAD FITTINGS
 The metal-to-metal contact in NPT fittings relies on the deformation of the threads to form a secure seal. This, however, means that one cannot use them in applications that require frequent disassembly.
 If used improperly, that is, without correct alignment, overtightening, or wrong sizing, ports may expand, and cracks may form on the threads. This, in turn, leads to the formation of leakage pathways from where the medium can leak out. It is for this reason that NPT fittings are not recommended for extremely high-pressure applications.
-</Text>
-        </Document>
-        <Document ID="112C6839-42E7-498D-814D-AD6304842465">
-            <Title>BAR</Title>
-            <Text>BAR 
-The bar is defined using the SI derived unit, pascal: 1 bar= =100,000 Pa (100 kPa). =100,000 N/m2. 
-1 bar is slightly less than the current average atmospheric pressure on Earth at sea level being 14.5 psia. The bar and the millibar were introduced by the Norwegian meteorologist Vilhelm Bjerknes, who was a founder of the modern practice of weather forecasting. 
-One Atmosphere =\frac{USSystem}{MetricSystem} = \frac{14.7psia}{101.325kPa} = .145 
-1 Bar = 100 kPa 
-100 kPa X .145 = 14.5 psia 
-1 Bar =14.5 psia 
-&lt;figure&gt;
-   &lt;caption&gt;bar Gauge&lt;/caption&gt;
-   &lt;image width="50%" source="images/image15.png"/&gt;
-&lt;/figure&gt;
 </Text>
         </Document>
         <Document ID="7A0303C4-970D-4183-B8F7-A93914BBEDDC">
@@ -16277,6 +16243,10 @@ Result: t = \hr{12}:\minute{56}:\second{49.2}
    &lt;caption&gt; 18- Compression &lt;/caption&gt; 
   &lt;image source="images/diesel-image6.png" width="30%"/&gt; 
 &lt;/figure&gt;</Text>
+        </Document>
+        <Document ID="92DDB0B3-DE62-4AD1-95AD-31F3B018E481">
+            <Text>&lt;me&gt;h = \ft{2.31}&lt;/me&gt;
+</Text>
         </Document>
         <Document ID="966F41AB-6C5C-4E2B-B2D8-076C12116F78">
             <Title>Mass Conversion 1</Title>
@@ -16342,7 +16312,6 @@ The material chosen for a pipe depends on factors such as the fluid being transp
         </Document>
         <Document ID="B9B5196F-CBAA-4527-8718-6AB5F0188B9D">
             <Title> Torque </Title>
-            <Text> </Text>
         </Document>
         <Document ID="EEC1189A-9DA8-4823-8994-A809EA63A03D">
             <Title>Reciprocating Pumps</Title>
@@ -16370,8 +16339,6 @@ Reciprocating pumps are classified as positive displacement, self-priming and mo
         </Document>
         <Document ID="86E448C7-AB0D-4824-9745-BF3635EA332E">
             <Title>Fundamental Concepts</Title>
-            <Text>
-</Text>
         </Document>
         <Document ID="4BF3E8A7-1793-4614-B525-2AF0F6F34BB4">
             <Title>conclusion</Title>
@@ -16435,7 +16402,7 @@ Mathematically, pressure is expressed as:  &lt;me&gt;Pressure = \frac{Force}{Are
 &lt;caption&gt;Main Engine and Generator  
  &lt;/caption&gt;
 &lt;image source="images/wabtec_engine_generator"&gt;
-&lt;remix&gt;&lt;![CDATA[ DV651M001-R5-MAIN GENERATOR ENGINE.pdf ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;&lt;source&gt;DV651M001-R5-MAIN GENERATOR ENGINE.pdf&lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 &lt;/figure&gt;
  
@@ -16622,14 +16589,14 @@ mount and support electrical components, preventing them from coming into direct
 &lt;sidebyside widths="36% 27% 36%"&gt;
 
 &lt;image width="100%" source="images/insulation_wire.png"&gt;
-&lt;remix&gt;&lt;![CDATA[  https://www.homedepot.com/c/ab/types-of-electrical-wires-and-cables/9ba683603be9fa5395fab909fc2be22  ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;&lt;source&gt;https://www.homedepot.com/c/ab/types-of-electrical-wires-and-cables/9ba683603be9fa5395fab909fc2be22&lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 &lt;image width="100%" source="images/insulating_tape.png"&gt;
-&lt;remix&gt;&lt;![CDATA[  Adam Ensign https://www.pinterest.com/pin/386183736777263448/  ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;&lt;source&gt;Adam Ensign https://www.pinterest.com/pin/386183736777263448/&lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 
 &lt;image width="100%" source="images/insulators_ceramic.png"&gt;
-&lt;remix&gt;&lt;![CDATA[  https://pixabay.com/photos/technology-railway-engineering-857868/  Public Domain  ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;&lt;source&gt;https://pixabay.com/photos/technology-railway-engineering-857868/  Public Domain&lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 &lt;/sidebyside&gt;
 &lt;/figure&gt;</Text>
@@ -16650,7 +16617,6 @@ mount and support electrical components, preventing them from coming into direct
         </Document>
         <Document ID="79BADF36-E0A5-4314-B5FA-363B29A1E3D5">
             <Title>psig to kPa absolute</Title>
-            <Text>Example Problems:</Text>
         </Document>
         <Document ID="3FD48C3B-5B21-4948-9652-62D28B11306E">
             <Title>Basic Concepts</Title>
@@ -16679,11 +16645,10 @@ Ball valves are compact, self-sealing, non-sticking, require little effort to ro
         </Document>
         <Document ID="4144534E-1E4E-4BB3-87BE-BCCA637FA3CB">
             <Title>solution</Title>
-            <Text>&lt;md&gt;
+            <Text>&lt;p&gt;&lt;md&gt;
 &lt;mrow&gt;5 \textrm{ bar} \amp =  5 \textrm{ bar} \times  \left[\frac{\psi{14.7}}{1.01 \textrm{ bar}}\right]  \amp=  \psi{72.7} &lt;/mrow&gt;
 &lt;mrow&gt; \amp =  5 \textrm{ bar} \times  \left[\frac{\kPa{100}}{1 \textrm{ bar}}\right]  \amp =   \kPa{500} &lt;/mrow&gt;
-&lt;/md&gt;
-&lt;p/&gt;
+&lt;/md&gt;&lt;/p&gt;
 </Text>
         </Document>
         <Document ID="DA880566-2C22-4EA1-82E5-1414E1040249">
@@ -16838,7 +16803,7 @@ A turbine is the device used to accomplish the energy transformation in the expa
 &lt;figure xml:id="fig_turbine_blades"&gt;
 &lt;caption&gt;  Turbine Blades  &lt;/caption&gt;
 &lt;image width="50%" source="images/turbine_blades.png"&gt;
-&lt;remix&gt; &lt;![CDATA[ Intro to Steam book ]]&gt;&lt;/remix&gt;
+&lt;remix&gt; &lt;source&gt; Intro to Steam book &lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 &lt;/figure&gt;
 High-pressure, high-temperature steam passes through the nozzle, which has a very small opening, and it emerges with a high velocity. The thermal energy of the steam is converted into mechanical kinetic energy in the nozzle. This high velocity steam jet hits the blades and imparts a turning torque to the rotor shaft and converts its kinetic energy to rotational kinetic energy of the shaft. Most turbines have several rows of blades, forming multiple stages to extract the maximum energy from the steam. As the steam gives up its thermal energy, its temperature and pressure both drop. The steam leaves the turbine at a low temperature and low pressure.
@@ -16880,15 +16845,15 @@ High steam pressure at the inlet to the turbine is important for energy conversi
 &lt;sidebyside widths="36% 22% 36%"&gt;
 
 &lt;image source="images/resistors.png"&gt;
-&lt;remix&gt;&lt;![CDATA[  https://www.pxfuel.com/en/free-photo-qkwuo  ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;&lt;source&gt;https://www.pxfuel.com/en/free-photo-qkwuo&lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 
 &lt;image source="images/rheostat.png"&gt;
-&lt;remix&gt;&lt;![CDATA[  https://www.ebay.com/itm/392635069343  ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;&lt;source&gt;https://www.ebay.com/itm/392635069343&lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 
 &lt;image source="images/surface_mount.png"&gt;
-&lt;remix&gt;&lt;![CDATA[  https://www.wallpaperflare.com/pcb-printed-circuit-board-components-electronic-resistor-wallpaper-akiom  ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;&lt;source&gt;https://www.wallpaperflare.com/pcb-printed-circuit-board-components-electronic-resistor-wallpaper-akiom&lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 
 &lt;/sidebyside&gt;
@@ -16988,13 +16953,6 @@ These units supply clean air directly to the user from a source other than the a
    &lt;/ul&gt;&lt;/p&gt;
 </Text>
         </Document>
-        <Document ID="428DCEE5-FF99-4F91-B9D8-DF34A8412F99">
-            <Title>introduction</Title>
-            <Text>Circuit faults or malfunctions can usually be grouped into one of the following categories:</Text>
-        </Document>
-        <Document ID="666815FB-B502-49C1-B94F-1F098EDCF2A7">
-            <Title>Fatigue</Title>
-        </Document>
         <Document ID="D663EA3E-123E-44A1-817A-0A6BE7738AC2">
             <Title>Gauge; Inches of Water</Title>
             <Text>The units are conventionally used for measurement of certain pressure differentials such as small pressure differences across an orifice. 
@@ -17002,6 +16960,13 @@ These units supply clean air directly to the user from a source other than the a
    &lt;caption&gt;Inches of water Gauge&lt;/caption&gt;
    &lt;image width="50%" source="images/image7.jpeg"/&gt;
 &lt;/figure&gt;</Text>
+        </Document>
+        <Document ID="428DCEE5-FF99-4F91-B9D8-DF34A8412F99">
+            <Title>introduction</Title>
+            <Text>Circuit faults or malfunctions can usually be grouped into one of the following categories:</Text>
+        </Document>
+        <Document ID="666815FB-B502-49C1-B94F-1F098EDCF2A7">
+            <Title>Fatigue</Title>
         </Document>
         <Document ID="F16C5FCD-E879-4024-9FC3-3FADEED51BB8">
             <Title>Inttroduction</Title>
@@ -17077,7 +17042,7 @@ Pressure =\frac{Force}{Area} =\frac{Force = ma}{Area} F = ma (mass x acceleratio
 &lt;figure xml:id="propulsion_converter"&gt;
 &lt;caption&gt; Propulsion Frequency Converter, exterior &lt;/caption&gt;
 &lt;image width="100%" source="images/propulsion_converter"&gt;
-&lt;remix&gt;&lt;![CDATA[   Source:  P1206 EMPIRE STATE MACHINERY MANUAL  FIRST DRAFT MAY 2022   ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;&lt;source&gt;P1206 EMPIRE STATE MACHINERY MANUAL  FIRST DRAFT MAY 2022  &lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 &lt;/figure&gt;
 </Text>
@@ -17118,16 +17083,16 @@ These instruments allow engineers, sailors, and others to accurately measure len
             <Title>Symbols</Title>
             <Text>
 &lt;image source="images/pipe_symbols_1"&gt;
-&lt;remix&gt;&lt;![CDATA[ MARAD ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;&lt;source&gt; MARAD &lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 &lt;image source="images/pipe_symbols_2"&gt;
-&lt;remix&gt;&lt;![CDATA[ MARAD ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;&lt;source&gt; MARAD &lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 &lt;image source="images/pipe_symbols_3"&gt;
-&lt;remix&gt;&lt;![CDATA[ MARAD ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;&lt;source&gt; MARAD &lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 &lt;image source="images/pipe_symbols_4"&gt;
-&lt;remix&gt;&lt;![CDATA[ MARAD ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;&lt;source&gt; MARAD &lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 </Text>
         </Document>
@@ -17137,7 +17102,7 @@ These instruments allow engineers, sailors, and others to accurately measure len
 &lt;figure xml:id="fig_tee_cross" &gt;
 &lt;caption&gt; Tee and Cross  &lt;/caption&gt;
 &lt;image width="50%" source="images/tee_cross.png"&gt;
-&lt;remix&gt; &lt;![CDATA[ https://www.wallpaperflare.com/man-worker-sparks-metallurgical-welding-welder-mask-protection-wallpaper-gathq/download/1920x1080  ]]&gt;&lt;/remix&gt;
+&lt;remix&gt; &lt;source&gt; https://www.wallpaperflare.com/man-worker-sparks-metallurgical-welding-welder-mask-protection-wallpaper-gathq/download/1920x1080  &lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 &lt;/figure&gt;
 Standard Tees and Crosses use female threads and all connections are the same size, but unequal (reducing) and street (one male thread) varieties are sometimes available.</Text>
@@ -17210,10 +17175,10 @@ Vacuum Gauge Reading Equivalent psia = 14.7 psia – (10 inHg x .491 psi Hg)
 &lt;caption&gt;Flanged Connections&lt;/caption&gt;
 &lt;sidebyside widths="45% 45%"  valign="middle"&gt;
 &lt;image source="images/cadet_flange.png"&gt;
-&lt;remix&gt; &lt;![CDATA[ whaynes CC0  ]]&gt;&lt;/remix&gt;
+&lt;remix&gt; &lt;source&gt; whaynes CC0  &lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 &lt;image source="images/flange_connection.png"&gt;
-&lt;remix&gt; &lt;![CDATA[ https://www.wermac.org/flanges/flanges_pipe-connections_pipe-flanges.html  ]]&gt;&lt;/remix&gt;
+&lt;remix&gt; &lt;source&gt; https://www.wermac.org/flanges/flanges_pipe-connections_pipe-flanges.html  &lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 &lt;/sidebyside&gt;
 &lt;/figure&gt;
@@ -17223,7 +17188,7 @@ A blind flange (also called a 'closure plate flange') has no center hole, so not
 &lt;figure xml:id="fig_blind_flange" &gt;
 &lt;caption&gt;   Blind Flange  &lt;/caption&gt;
 &lt;image width="25%" source="images/blind_flange.png"&gt;
-&lt;remix&gt; &lt;![CDATA[ https://www.wermac.org/flanges/flanges_pipe-connections_pipe-flanges.html  ]]&gt;&lt;/remix&gt;
+&lt;remix&gt; &lt;source&gt; https://www.wermac.org/flanges/flanges_pipe-connections_pipe-flanges.html  &lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 &lt;/figure&gt;
 A spectacle blind flange is shaped like a pair of glasses or spectacles  &lt;mdash/&gt; hence the name. One half is open to allow flow through during normal operation and the other side is solid to block flow and secure the system for maintenance.  The two halves are separated by a spacer with a hole for one flange bolt. They are generally installed in the piping system permanently. 
@@ -17231,10 +17196,10 @@ A spectacle blind flange is shaped like a pair of glasses or spectacles  &lt;mda
 &lt;caption&gt;   Spectacle Blind Flange  &lt;/caption&gt;
 &lt;sidebyside width="40%" valign="middle"&gt;
 &lt;image source="images/spectical_blind_flange.png"&gt;
-&lt;remix&gt; &lt;![CDATA[ https://www.wermac.org/flanges/flanges_pipe-connections_pipe-flanges.html  ]]&gt;&lt;/remix&gt;
+&lt;remix&gt; &lt;source&gt; https://www.wermac.org/flanges/flanges_pipe-connections_pipe-flanges.html  &lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 &lt;image source="images/spectical_pipe.png"&gt;
-&lt;remix&gt; &lt;![CDATA[ https://www.piping-designer.com/index.php/disciplines/mechanical/stationary-equipment/pipe-flanges/92-spectacle-blind]]&gt;&lt;/remix&gt;
+&lt;remix&gt; &lt;source&gt; https://www.piping-designer.com/index.php/disciplines/mechanical/stationary-equipment/pipe-flanges/92-spectacle-blind&lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 &lt;/sidebyside&gt;
 &lt;/figure&gt;
@@ -17246,10 +17211,10 @@ An orifice is a hole through which fluid may pass. When fluid flows through an o
 &lt;caption&gt;Orifice Plates and Orifice Flange&lt;/caption&gt;
 &lt;sidebyside widths="35% 30%" valign="middle"&gt;
 &lt;image source="images/orifice_plates.png"&gt;
-&lt;remix&gt;&lt;![CDATA[  https://www.wermac.org/specials/orificeplate.html  ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;&lt;source&gt;  https://www.wermac.org/specials/orificeplate.html  &lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 &lt;image source="images/orifice_flange.png"&gt;
-&lt;remix&gt; &lt;![CDATA[ https://www.wermac.org/flanges/flanges_pipe-connections_pipe-flanges.html  ]]&gt;&lt;/remix&gt;
+&lt;remix&gt; &lt;source&gt; https://www.wermac.org/flanges/flanges_pipe-connections_pipe-flanges.html  &lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 &lt;/sidebyside&gt;
 &lt;/figure&gt;
@@ -21126,11 +21091,6 @@ D
      Hyundai Heavy Industries Co., Ltd 123 Electro Electric Systems
 </Text>
         </Document>
-        <Document ID="4ED9208F-5DC3-4F69-9D22-3A96F0511552">
-            <Title>Conduction</Title>
-            <Text>Conduction is the method by which heat flows from a hotter to a colder substance when there is physical contact between the two substances. For example, consider a cold metal bar which is held firmly against a piece of red-hot metal. In a short time, the end of the bar which is not touching the hotter metal will have become too hot to hold. We say that heat has been conducted from molecule to molecule, throughout the entire bar. The process of conduction will continue as long as there is a temperature difference between the two ends of the bar. 
-</Text>
-        </Document>
         <Document ID="C326C5C1-84DB-4822-9E91-50156CDF3B7D">
             <Title>General Purpose</Title>
             <Text>Rulers and Yardsticks  are straight, flat measuring tools commonly used for shorter lengths. A ruler measure 1 ft. or 12 inches whereas a yardstick measure 3 ft. or 1 yd.
@@ -21165,6 +21125,11 @@ Sonar is an object-finding system that uses sound waves to determine the distan
 &lt;image  width="50%" source="images/sonar.png"/&gt;
 
 These instruments allow engineers, sailors, and others to accurately measure lengths and distances according to their respective systems of measurement. It's important to note that many professionals now use digital instruments, such as laser distance measurers, which can provide precise measurements in multiple units.
+</Text>
+        </Document>
+        <Document ID="4ED9208F-5DC3-4F69-9D22-3A96F0511552">
+            <Title>Conduction</Title>
+            <Text>Conduction is the method by which heat flows from a hotter to a colder substance when there is physical contact between the two substances. For example, consider a cold metal bar which is held firmly against a piece of red-hot metal. In a short time, the end of the bar which is not touching the hotter metal will have become too hot to hold. We say that heat has been conducted from molecule to molecule, throughout the entire bar. The process of conduction will continue as long as there is a temperature difference between the two ends of the bar. 
 </Text>
         </Document>
         <Document ID="A57CE6E1-DFD3-4600-A941-7A5ED239A234">
@@ -21425,6 +21390,16 @@ Example Problem
         <Document ID="F050B1E3-6EA9-4B99-B287-D114F3FFD773">
             <Title>Pressure Scales</Title>
         </Document>
+        <Document ID="8614914C-78B4-4CAD-A86F-6EEFEA4CF772">
+            <Title>solution</Title>
+            <Text>&lt;p&gt;&lt;md&gt;
+&lt;mrow&gt;p \amp =  \left[\frac{\psi{0.433}}{\ft{1}}\right] h&lt;/mrow&gt;
+&lt;mrow&gt;\amp =  \left[\frac{\psi{0.433}}{\ft{1}}\right] \times \m{2}\left[\frac{\ft{1}}{\m{0.3048}}\right]&lt;/mrow&gt;
+&lt;mrow&gt;\amp = \psi{2.84}&lt;/mrow&gt;
+&lt;mrow&gt;\amp = \psi{2.84} \times \left[\frac{\Pa{6894.757}}{\psi{1}}\right]&lt;/mrow&gt;
+&lt;mrow&gt;\amp = \Pa{19581} = \kPa{19.6}&lt;/mrow&gt;
+&lt;/md&gt;&lt;/p&gt;</Text>
+        </Document>
         <Document ID="6E7A2EF5-7A2F-43BF-AFD6-57D5ACF91B9D">
             <Title>Introduction</Title>
             <Text>Your feet are vulnerable to many potential hazards aboard ship. For example, slips and falls due to wet and slippery decks; heavy objects falling on or rolling over your foot because of the ship’s motion or accident; punctures caused by stepping on sharp objects; and potential electrical shock when your body is grounded through the soles of your shoes. In other industries, there are other hazards to consider, chemical exposure, high temperatures, molten metal splashes, static electricity, to name a few. Proper selection of footwear can minimize the danger of these hazards. 
@@ -21509,11 +21484,11 @@ Aboard ship, we continuously monitor for ground faults using ground lamps and gr
 &lt;sidebyside widths="50% 38%"&gt;
 
 &lt;image source="images/ground_lamps.png"&gt;
-&lt;remix&gt;&lt;![CDATA[  whaynes CC0  ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;&lt;source&gt;whaynes CC0&lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 
 &lt;image source="images/ground_ammeter.png"&gt;
-&lt;remix&gt;&lt;![CDATA[  whaynes CC0  ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;&lt;source&gt;whaynes CC0&lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 &lt;/sidebyside&gt;
 &lt;/figure&gt;
@@ -21579,7 +21554,7 @@ The motors are fitted with two air-water heat exchangers providing cooled air wh
 &lt;figure xml:id="propulsion_motor"&gt;
 &lt;caption&gt;No. 1 Propulsion Motor &lt;/caption&gt;
 &lt;image width="100%" source="images/propulsion_motor"&gt;
-&lt;remix&gt;&lt;![CDATA[   Source:  DV951E001_MAIN ALTERNATOR_OPERATION MANUAL_ALTERNATOR  ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;&lt;source&gt;DV951E001_MAIN ALTERNATOR_OPERATION MANUAL_ALTERNATOR &lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 &lt;/figure&gt;
 
@@ -21633,9 +21608,6 @@ To calculate the pressure in pounds per square inch, we derive a unit factor rel
 We sometimes say psig to indicate gage pressure and other times we merely say psi. By common convention, gage pressure is always assumed when pressure is given in pounds per square inch, pounds per square foot, or similar units. The &lt;q&gt;g&lt;/q&gt; (for gage) is added only when there is some possibility of confusion. Absolute pressure, on the other hand, is always expressed as pounds per square inch absolute (psia), pounds per square foot absolute (psfa), and so forth. It is always necessary to establish clearly just what kind of pressure we are talking about, unless this is very clear from the nature of the discussion. 
 </Text>
         </Document>
-        <Document ID="275F7907-CEA1-497B-BC1C-F06954AB9524">
-            <Title>Marine Propulsion</Title>
-        </Document>
         <Document ID="5C030AF3-4DBA-4FCD-A9AE-94C0DF27FEB4">
             <Title>TORR</Title>
             <Text>TORR 
@@ -21666,6 +21638,9 @@ For each conversion, we apply a unit conversion factor related to units of stand
 27.5 inHg X \frac{101.325kPa}{29.92inHg} = 93kPa 
 To calculate the pressure in pounds per square inch, we derive a unit factor related to the equivalent relationship, 29.9 inHg = 14.7 psi. 
 27.5 inHg x \frac{14.7psia}{29.92inHg} = 13.5 psi</Text>
+        </Document>
+        <Document ID="275F7907-CEA1-497B-BC1C-F06954AB9524">
+            <Title>Marine Propulsion</Title>
         </Document>
         <Document ID="7E3F274D-D471-4271-BE09-8EBD247F3A82">
             <Title>exercise</Title>
@@ -21751,7 +21726,7 @@ Clamp-on ammeters are hand-held instruments used to measure AC currents. A plier
 
 &lt;caption&gt; Clamp-on ammeter &lt;/caption&gt;
 &lt;image width="100%" source="images/clamp_on.png"&gt;
-&lt;remix&gt;&lt;![CDATA[  &lt;a href="https://commons.wikimedia.org/wiki/File:Clampmeter_Fluke_337.jpg"&gt;Harke&lt;/a&gt;, Public domain, via Wikimedia Commons  ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;&lt;source href="https://commons.wikimedia.org/wiki/File:Clampmeter_Fluke_337.jpg"&gt;Harke, Public domain, via Wikimedia Commons&lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 &lt;/figure&gt;
 &lt;/sidebyside&gt;
@@ -21785,7 +21760,7 @@ Generators 1 and 2 are located in engineroom 1 and directly feed main switchboar
 &lt;figure xml:id="propulsion_system" landscape="yes"&gt;
 &lt;caption&gt;Propulsion System One Line Diagram  &lt;/caption&gt;
 &lt;image width="100%" source="images/propulsion_system"&gt;
-&lt;remix&gt;&lt;![CDATA[   Source:  P1206 EMPIRE STATE MACHINERY MANUAL  FIRST DRAFT MAY 2022    ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;&lt;source&gt;P1206 EMPIRE STATE MACHINERY MANUAL  FIRST DRAFT MAY 2022   &lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 &lt;/figure&gt;
 
@@ -21800,7 +21775,7 @@ The term press pack refers to the physical packaging of electronic components.  
 &lt;figure xml:id="IGBT_stack"&gt;
 &lt;caption&gt; IGBT Stack  &lt;/caption&gt;
 &lt;image width="75%" source="images/IGBT_stack.png"&gt;
-&lt;remix&gt;&lt;![CDATA[   Source:  IGBT    ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;&lt;source&gt;IGBT   &lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 &lt;/figure&gt;
 The IGBT gates are triggered by pulse width signals produced in the CLC section which change the direct current stored in the DC capacitors into variable voltage, variable frequency alternating current.
@@ -22056,14 +22031,14 @@ A simplified block diagram of the components of the Hyundai HDEC2000 AVR used on
 &lt;figure xml:id="Front_Panel"&gt;
 &lt;caption&gt; Front Panel  &lt;/caption&gt;
 &lt;image source="images/AVR"&gt;
-&lt;remix&gt;&lt;![CDATA[   Source:  DV951E001_MAIN ALTERNATOR_OPERATION MANUAL_AVR    ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;&lt;source&gt;DV951E001_MAIN ALTERNATOR_OPERATION MANUAL_AVR   &lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 &lt;/figure&gt;
 &lt;figure xml:id="avr_block_diagram"&gt;
 
 &lt;caption&gt;Simplified Block Diagram&lt;/caption&gt;
 &lt;image  source="images/AVR_block_diagram"&gt;
-&lt;remix&gt;&lt;![CDATA[   Source:  weh cc0    ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;&lt;source&gt;weh cc0   &lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 &lt;/figure&gt;
 &lt;/sidebyside&gt;
@@ -22099,7 +22074,7 @@ Additional windings can be fitted to the stator for each phase. Each additional 
 &lt;figure xml:id="MV7000_internal"&gt;
 &lt;caption&gt;  Drive Cabinets, interior &lt;/caption&gt;
 &lt;image width="100%" source="images/MV7000_internal.png"&gt;
-&lt;remix&gt;&lt;![CDATA[   Source: GEA30737C MV7000 Press Pack    ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;&lt;source&gt;GEA30737C MV7000 Press Pack   &lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 &lt;/figure&gt;
 </Text>
@@ -22110,7 +22085,7 @@ Additional windings can be fitted to the stator for each phase. Each additional 
 &lt;figure xml:id="fig_adapters" &gt;
 &lt;caption&gt; Adapters:  NPT to straight, NPT to Flare Fitting, NPT to copper pipe  &lt;/caption&gt;
 &lt;image width="80%" source="images/adapters.png"&gt;
-&lt;remix&gt; &lt;![CDATA[ https://www.wallpaperflare.com/man-worker-sparks-metallurgical-welding-welder-mask-protection-wallpaper-gathq/download/1920x1080  ]]&gt;&lt;/remix&gt;
+&lt;remix&gt; &lt;source&gt; https://www.wallpaperflare.com/man-worker-sparks-metallurgical-welding-welder-mask-protection-wallpaper-gathq/download/1920x1080  &lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 &lt;/figure&gt;
 Reducing adapters, as the name suggests, are used to connect pipes of different sizes.  A straight reducer has female threads on both ends, while a straight reducing bushing has a large male thread and a smaller female thread.  Other reducing adapters including reducing elbow and tees are available with different combinations of male and female threads.
@@ -22118,7 +22093,7 @@ Reducing adapters, as the name suggests, are used to connect pipes of different 
 &lt;figure xml:id="fig_reducer_bushing" &gt;
 &lt;caption&gt;  Straight Reducer and Reducing Bushing  &lt;/caption&gt;
 &lt;image width="50%" source="images/reducer_bushing.png"&gt;
-&lt;remix&gt; &lt;![CDATA[ https://www.wallpaperflare.com/man-worker-sparks-metallurgical-welding-welder-mask-protection-wallpaper-gathq/download/1920x1080  ]]&gt;&lt;/remix&gt;
+&lt;remix&gt; &lt;source&gt; https://www.wallpaperflare.com/man-worker-sparks-metallurgical-welding-welder-mask-protection-wallpaper-gathq/download/1920x1080  &lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 &lt;/figure&gt;
 
@@ -22203,6 +22178,9 @@ Notice that mechanical potential energy, mechanical kinetic energy and work are 
 Determine the torque applied to the bolt.
 </Text>
         </Document>
+        <Document ID="2EF330A9-4BDA-4AFE-9813-4670BAF2763D">
+            <Title>psi to inHg</Title>
+        </Document>
         <Document ID="44F2A5EB-A595-4CFF-842D-7EC47D926A51">
             <Title>Chapter Questions</Title>
         </Document>
@@ -22237,12 +22215,12 @@ Another principle, the &lt;em&gt;Principle of Conservation of Matter,&lt;/em&gt;
 The interchangeability of matter and energy is mentioned here only to point out that the statement &lt;q&gt;energy in must equal energy out&lt;/q&gt; is not strictly true for certain situations. However, any noticeable conversion of matter into energy or energy into matter can occur only under very special conditions that we need not consider now. All the energy transformations that we will deal with can be understood quite simply if we consider only the Principle of the Conservation of Energy, that is, &lt;em&gt;Energy in must equal Energy out&lt;/em&gt;. 
 </Text>
         </Document>
+        <Document ID="CF1CC4B6-DA80-4B30-9B3E-84F075E69847">
+            <Title>Power</Title>
+        </Document>
         <Document ID="6AA2C2F6-9C35-430A-A5B5-DDC170C27A40">
             <Text>The object has a calculated mass of 79.4 kg. 
 </Text>
-        </Document>
-        <Document ID="CF1CC4B6-DA80-4B30-9B3E-84F075E69847">
-            <Title>Power</Title>
         </Document>
         <Document ID="D507EA60-FEC9-4A37-A632-DC18C72DC7E1">
             <Title>Heat </Title>
@@ -22259,15 +22237,15 @@ The interchangeability of matter and energy is mentioned here only to point out 
 &lt;caption&gt;Diesel generator, power strip, batteries&lt;/caption&gt;
 &lt;sidebyside width="33%"&gt;
 &lt;image source="images/diesel_gen.png"&gt;
-&lt;remix&gt;&lt;![CDATA[  &lt;a href="https://commons.wikimedia.org/wiki/File:Power_strip.JPG"&gt;Ivy Main&lt;/a&gt;, &lt;a href="https://creativecommons.org/licenses/by-sa/3.0"&gt;CC BY-SA 3.0&lt;/a&gt;, via Wikimedia Commons  ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;&lt;source href="https://commons.wikimedia.org/wiki/File:Power_strip.JPG"&gt;Ivy Main&lt;/source&gt;  &lt;license href="https://creativecommons.org/licenses/by-sa/3.0"&gt;CC BY-SA 3.0, via Wikimedia Commons&lt;/license&gt;&lt;/remix&gt;
 &lt;/image&gt;
 
 &lt;image source="images/power_strip.png"&gt;
-&lt;remix&gt;&lt;![CDATA[  &lt;a href="https://commons.wikimedia.org/wiki/File:%D9%88%D8%AD%D8%AF%D8%A9_%D8%A7%D9%84%D8%AA%D9%88%D9%84%D9%8A%D8%AF_%D8%A7%D9%84%D9%83%D9%87%D8%B1%D8%A8%D9%8A%D8%A9.jpg"&gt;file&lt;/a&gt;, &lt;a href="https://creativecommons.org/licenses/by-sa/3.0"&gt;CC BY-SA 3.0&lt;/a&gt;, via Wikimedia Commons  ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;&lt;source href="https://commons.wikimedia.org/wiki/File:%D9%88%D8%AD%D8%AF%D8%A9_%D8%A7%D9%84%D8%AA%D9%88%D9%84%D9%8A%D8%AF_%D8%A7%D9%84%D9%83%D9%87%D8%B1%D8%A8%D9%8A%D8%A9.jpg"/&gt; &lt;license href="https://creativecommons.org/licenses/by-sa/3.0"&gt;CC BY-SA 3.0, via Wikimedia Commons&lt;/license&gt;&lt;/remix&gt;
 &lt;/image&gt;
 
 &lt;image source="images/batteries.png"&gt;
-&lt;remix&gt;&lt;![CDATA[  https://www.hippopx.com/en/batteries-energy-battery-duracell-technology-warning-low-power-consumption-483120  CC0  ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;&lt;source href="https://www.hippopx.com/en/batteries-energy-battery-duracell-technology-warning-low-power-consumption-483120"&gt;  CC0&lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 
 &lt;/sidebyside&gt;
@@ -22422,19 +22400,19 @@ In the engine room, particular hazards include high temperatures and moving mach
             <Text>Construction History:  design started, keel laid, ship launched, ship delivered, first cruise,$300 million cost, Philly shipyard, TOTE services.
 </Text>
         </Document>
-        <Document ID="0E5E7548-42EC-4800-8E3A-5A5AE46483EE">
-            <Title>exercise</Title>
-            <Text>&lt;statement&gt; Which of the devices listed is used to convert thermal energy to useful mechanical work? 
-&lt;/statement&gt;
-&lt;choices&gt; &lt;choice correct="yes"&gt; &lt;statement&gt; Turbine  &lt;/statement&gt; &lt;/choice&gt; &lt;choice&gt; &lt;statement&gt; Condenser  &lt;/statement&gt; &lt;/choice&gt; &lt;choice&gt; &lt;statement&gt; Air ejector  &lt;/statement&gt; &lt;/choice&gt; &lt;choice&gt; &lt;statement&gt; Each of the above  &lt;/statement&gt; &lt;/choice&gt;
-&lt;/choices&gt;
-</Text>
-        </Document>
         <Document ID="4C265676-35F7-47B2-9D79-DFF21E79CFCF">
             <Title>exercise</Title>
             <Text>&lt;statement&gt; Heat which brings about a change in the physical state of a substance without a change in temperature, is called ______. 
 &lt;/statement&gt;
 &lt;choices&gt; &lt;choice&gt; &lt;statement&gt; specific heat  &lt;/statement&gt; &lt;/choice&gt; &lt;choice&gt; &lt;statement&gt; sensible heat  &lt;/statement&gt; &lt;/choice&gt; &lt;choice correct="yes"&gt; &lt;statement&gt; latent heat  &lt;/statement&gt; &lt;/choice&gt; &lt;choice&gt; &lt;statement&gt; ambient heat  &lt;/statement&gt; &lt;/choice&gt;
+&lt;/choices&gt;
+</Text>
+        </Document>
+        <Document ID="0E5E7548-42EC-4800-8E3A-5A5AE46483EE">
+            <Title>exercise</Title>
+            <Text>&lt;statement&gt; Which of the devices listed is used to convert thermal energy to useful mechanical work? 
+&lt;/statement&gt;
+&lt;choices&gt; &lt;choice correct="yes"&gt; &lt;statement&gt; Turbine  &lt;/statement&gt; &lt;/choice&gt; &lt;choice&gt; &lt;statement&gt; Condenser  &lt;/statement&gt; &lt;/choice&gt; &lt;choice&gt; &lt;statement&gt; Air ejector  &lt;/statement&gt; &lt;/choice&gt; &lt;choice&gt; &lt;statement&gt; Each of the above  &lt;/statement&gt; &lt;/choice&gt;
 &lt;/choices&gt;
 </Text>
         </Document>
@@ -23147,7 +23125,10 @@ Electrical charge is a fundamental property of matter that gives rise to the ele
 &lt;figure xml:id="fig_electric_field"&gt;
 &lt;caption&gt; Electric Field between + and - charges  &lt;/caption&gt;
 &lt;image width="100%" source="images/electric_field"&gt;
-&lt;remix&gt; &lt;![CDATA[  &lt;a href="https://commons.wikimedia.org/wiki/File:VFPt_charges_plus_minus_thumb.svg"&gt;Geek3&lt;/a&gt;, &lt;a href="https://creativecommons.org/licenses/by-sa/3.0"&gt;CC BY-SA 3.0&lt;/a&gt;, via Wikimedia Commons  ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;
+&lt;source href="https://commons.wikimedia.org/wiki/File:VFPt_charges_plus_minus_thumb.svg"&gt;Geek3&lt;/source&gt; 
+&lt;license href="https://creativecommons.org/licenses/by-sa/3.0"&gt;CC BY-SA 3.0, via Wikimedia Commons&lt;/license&gt;
+&lt;/remix&gt;
 &lt;/image&gt;
 &lt;/figure&gt;
 &lt;/sidebyside&gt;
@@ -23209,7 +23190,7 @@ On ships, some examples of confined spaces include:  Cargo and fuel tanks, coffe
 &lt;figure xml:id="confined-space-sign"&gt;
 &lt;caption&gt; Confined Space Hazards  &lt;/caption&gt;
 &lt;image width="50%" source="images/confined-space-sign.png"&gt;
-&lt;remix&gt;&lt;![CDATA[  Source:  smartsign.com   ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;&lt;source&gt;smartsign.com  &lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 &lt;/figure&gt;
 Here are some hazards associated with confined spaces:</Text>
@@ -23222,7 +23203,7 @@ A prime mover such as an engine or turbine spins the rotor and supplies the inpu
 
 &lt;caption&gt;  Simplified single-phase AC generator &lt;/caption&gt;
 &lt;image width="80%" source="images/simple_ac_generator.png"&gt;
-&lt;remix&gt;&lt;![CDATA[  https://www.brown.edu/Departments/Engineering/Courses/ENGN1931F/AC_Electrical_Generators_ASOPE.pdf  ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;&lt;source&gt;https://www.brown.edu/Departments/Engineering/Courses/ENGN1931F/AC_Electrical_Generators_ASOPE.pdf&lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 &lt;/figure&gt;
 
@@ -23261,7 +23242,7 @@ If the height difference measured by a mercury manometer is 25 cm, determine the
 &lt;mrow&gt;\N{1} \amp =  \kg{1}\aSI{}&lt;/mrow&gt;
 &lt;mrow&gt;\Pa{1} \amp =  \N{1}/\m{}^2&lt;/mrow&gt;
 &lt;mrow&gt;\kPa{1} \amp =  \Pa{1000}&lt;/mrow&gt;
-&lt;/md&gt;
+&lt;/md&gt;&lt;/p&gt;
 Apply equation &lt;xref ref='rho-g-h'/&gt; using the density of mercury \rho_{\text{Hg}} =  13.6 \mathrm{\ grams}/\mathrm{cm}^3.
 &lt;md&gt;
 &lt;mrow&gt;\Delta p \amp = \rho g h&lt;/mrow&gt;
@@ -23269,7 +23250,7 @@ Apply equation &lt;xref ref='rho-g-h'/&gt; using the density of mercury \rho_{\t
 &lt;mrow&gt;\amp = 3.33 \frac{\kg{} \m{}}{\sec{}^2 \cm{}^2} = 3.33 \frac{\N{}}{\cm{}^2}&lt;/mrow&gt;
 &lt;mrow&gt; \amp= 3.33 \frac{\N{}}{\cm{}^2}\times\left[\frac{\cm{100}}{\m{1}}\right]^2&lt;/mrow&gt;
 &lt;mrow&gt; \amp= 33300 \frac{\N{}}{\m{}^2} = \kPa{33.3}&lt;/mrow&gt;
-&lt;/md&gt;
+&lt;/md&gt;&lt;/p&gt;
 &lt;/solution&gt;</Text>
         </Document>
         <Document ID="F0479944-632E-496F-A63B-9C4D615810F7">
@@ -23306,8 +23287,6 @@ Head injuries are caused by falling or flying objects, or by bumping your head a
         </Document>
         <Document ID="72618669-6F5E-436C-BFD8-44D905BCED0B">
             <Title>Pipe Fittings</Title>
-            <Text>
-</Text>
         </Document>
         <Document ID="15B6D460-608A-48C9-94B3-88A197779B22">
             <Title>Introduction</Title>
@@ -23459,12 +23438,12 @@ The first new item is the condensate pump, which is a centrifugal pump that take
             <Title>Handling and Transporation</Title>
             <Text> Improper handling of hazardous chemicals, such as careless pouring, transferring chemicals without suitable protective measures, or failure to follow established protocols, can result in spills, splashes, or exposure.  </Text>
         </Document>
-        <Document ID="4E17619D-3B88-47E3-BD76-6618FD2580D5">
-            <Title>Fuel Injection</Title>
-        </Document>
         <Document ID="2C47E551-1BB6-44B9-B68D-FD544B5FA454">
             <Title>Pressure Scales</Title>
             <Text>Pressure scales are systems used to measure and quantify pressure. There are several types of pressure scales, including: Atmospheric Pressure, Absolute Pressure, Gauge Pressure, Vacuum Pressure.</Text>
+        </Document>
+        <Document ID="4E17619D-3B88-47E3-BD76-6618FD2580D5">
+            <Title>Fuel Injection</Title>
         </Document>
         <Document ID="0537C11A-7DA4-47C1-B5FD-4530DB8A6395">
             <Title>Cylinder Sleeve or Bore</Title>
@@ -24622,7 +24601,7 @@ Compression fittings are made up of three basic elements: the compression nut , 
 &lt;figure xml:id="fig_compression_fitting" &gt;
 &lt;caption&gt;  Compression Fitting  &lt;/caption&gt;
 &lt;image width="50%" source="images/compression_fitting.png"&gt;
-&lt;remix&gt; &lt;![CDATA[ https://www.globalspec.com/learnmore/flow_control_fluid_transfer/pipe_tubing_hose_fittings_accessories/pipe_fittings ]]&gt;&lt;/remix&gt;
+&lt;remix&gt; &lt;source&gt; https://www.globalspec.com/learnmore/flow_control_fluid_transfer/pipe_tubing_hose_fittings_accessories/pipe_fittings &lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 &lt;/figure&gt;
 
@@ -24631,7 +24610,7 @@ Flare fittings consist of a body with a flared or coned end. Special flaring too
 &lt;figure xml:id="fig_flare_fitting" &gt;
 &lt;caption&gt;  Flare Fitting &lt;/caption&gt;
 &lt;image width="50%" source="images/flare_fitting.png"&gt;
-&lt;remix&gt; &lt;![CDATA[ Home Depot  ]]&gt;&lt;/remix&gt;
+&lt;remix&gt; &lt;source&gt; Home Depot  &lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 &lt;/figure&gt;
 
@@ -24789,14 +24768,24 @@ As the piston is forced down, the pressure of 800 to over 1400 PSI and temperatu
 While speed tells you how fast an object is moving, velocity tells you how fast and in which direction. For example, a car moving north at 60 km/h has a different velocity than the same car moving south at 60 km/h, even though their speeds are the same.
 </Text>
         </Document>
+        <Document ID="43B288A8-29F2-449E-8833-BA21D3702E33">
+            <Title>Sounding</Title>
+        </Document>
+        <Document ID="BF2A12A6-E6F9-4363-A18D-4D41F162A65D">
+            <Title>Introduction</Title>
+            <Text>Measurement is the process of associating numbers with quantities. Units of measurement establish a common language for engineers to communicate and quantify various physical quantities. There are two basic standard units of measurement systems that are used worldwide, the U.S. Standard Measurement System and the Metric System.
+In the world of engineering, measurement is fundamental. Accurate measurements are crucial for designing, constructing, and evaluating systems. Engineers rely on standardized units and principles of measurement to ensure consistency and precision in their work.
+This chapter provides an overview of the categories and units of measurement used in engineering systems, covering both the metric and US standard systems as well as nautical measurement. An overview of basic instruments used for making measurements will be discussed along with the principles of measurement including accuracy, efficiency, percent error and deviation.
+As you study this chapter, you will encounter new terms and definitions for you to learn. At the end of the chapter, you will find example problems. Be sure to take the time to practice with these problems. They will help prepare you to apply these concepts.</Text>
+        </Document>
+        <Document ID="FF412FB0-D6FC-4F76-81CF-00C29F4DCD43">
+            <Title>Time Units</Title>
+        </Document>
         <Document ID="CF0E5DE0-6F37-4E87-B8FF-EBC756B48B3C">
             <Title>Chemical Storage</Title>
             <Text>Chemicals that are improperly stored or incompatible substances stored in close proximity can react with one another, causing fires, explosions, or the release of toxic gases. Inadequate storage practices may also result in spills, leaks, or contamination, endangering both employees and the environment. 
 It is essential to follow proper storage procedures, including segregating incompatible chemicals, labeling containers correctly, ensuring proper ventilation and temperature control, and implementing appropriate containment measures such as spill kits and secondary containment systems.  The MSDS will contain instructions regarding proper storage.
 In particular, aboard ship chemical containers must always be secured so that they don’t break free and cause accidents during heavy weather.   </Text>
-        </Document>
-        <Document ID="FF412FB0-D6FC-4F76-81CF-00C29F4DCD43">
-            <Title>Time Units</Title>
         </Document>
         <Document ID="9DCCAE12-61C2-445E-9A6F-2EB74CDD82BE">
             <Text>Since the applied force is not perpendicular to the handle,  the moment arm d is less than the length of the  handle, r.  &lt;me&gt; d = r \sin \theta&lt;/me&gt;
@@ -24809,16 +24798,6 @@ In particular, aboard ship chemical containers must always be secured so that th
 &lt;/md&gt;&lt;/p&gt;
 Therefore, the applied torque will be \Nm{207.8}, in the clockwise direction.  
 Note that this torque is less than the value found in the previous example, because applying the force at an angle is less effective than applying the force perpendicular to the handle.</Text>
-        </Document>
-        <Document ID="BF2A12A6-E6F9-4363-A18D-4D41F162A65D">
-            <Title>Introduction</Title>
-            <Text>Measurement is the process of associating numbers with quantities. Units of measurement establish a common language for engineers to communicate and quantify various physical quantities. There are two basic standard units of measurement systems that are used worldwide, the U.S. Standard Measurement System and the Metric System.
-In the world of engineering, measurement is fundamental. Accurate measurements are crucial for designing, constructing, and evaluating systems. Engineers rely on standardized units and principles of measurement to ensure consistency and precision in their work.
-This chapter provides an overview of the categories and units of measurement used in engineering systems, covering both the metric and US standard systems as well as nautical measurement. An overview of basic instruments used for making measurements will be discussed along with the principles of measurement including accuracy, efficiency, percent error and deviation.
-As you study this chapter, you will encounter new terms and definitions for you to learn. At the end of the chapter, you will find example problems. Be sure to take the time to practice with these problems. They will help prepare you to apply these concepts.</Text>
-        </Document>
-        <Document ID="43B288A8-29F2-449E-8833-BA21D3702E33">
-            <Title>Sounding</Title>
         </Document>
         <Document ID="DE4CB9F9-1F82-4F4D-BDC8-7A7C3EFDE326">
             <Title>Operating the Boiler</Title>
@@ -24842,7 +24821,7 @@ To synthesize the desired AC waveform, the VFD uses a technique called Pulse Wid
 &lt;figure xml:id="VFD_main_components"&gt;
 &lt;caption&gt; Main Components of a VFD  &lt;/caption&gt;
 &lt;image width="100%" source="images/MV7000_topology"&gt;
-&lt;remix&gt;&lt;![CDATA[   Source:  Siemens STEP program Basics of Induction Motors    ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;&lt;source&gt;Siemens STEP program Basics of Induction Motors   &lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 &lt;/figure&gt;
 By regulating the voltage and frequency supplied to the motor, a VFD allows for precise control of motor speed and torque. This enables energy savings, improved motor performance, and enhanced control in various applications, such as industrial machinery, HVAC systems, and electric vehicle drives.</Text>
@@ -25545,6 +25524,9 @@ Determine the brake horsepower of an engine which produces 330 ft lb of torque a
 &lt;/example&gt;
 </Text>
         </Document>
+        <Document ID="758E9216-E05F-4A47-B16A-A54660432A56">
+            <Text>What is the pressure in psi equivalent to a \inch{30} column of mercury?</Text>
+        </Document>
         <Document ID="7710575C-50FF-4A59-99FC-1F5256CB124D">
             <Text>What is the mass of an object that weighs 150 N on Earth? 
 </Text>
@@ -25585,7 +25567,7 @@ For a U-tube manometer the pressure difference \Delta p  is calculated using the
 &lt;figure&gt;
 &lt;caption&gt;Soldering Copper Pipe&lt;/caption&gt;
 &lt;image width="60%" source="images/sweat_joint.png"&gt;
-&lt;remix&gt;&lt;![CDATA[  Home Depot ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;&lt;source&gt;  Home Depot &lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 &lt;/figure&gt;
 
@@ -25834,7 +25816,6 @@ Understanding the concept of power and its measurement is vital in your journey 
         </Document>
         <Document ID="96072CFD-D310-4AE7-B2C8-38152766E737">
             <Title>Barometer</Title>
-            <Text> </Text>
         </Document>
         <Document ID="07AD1099-F9DB-4BF3-9592-EE067D838FA8">
             <Text>TBD</Text>
@@ -25936,6 +25917,9 @@ It should be noted, however, that most auxiliary machinery is designed to operat
         </Document>
         <Document ID="759750A9-2A37-4BA3-8494-E4E627A18D82">
             <Title>Hazard Mitigation</Title>
+        </Document>
+        <Document ID="C357DC42-B54B-428C-870E-60BC2E30408A">
+            <Text>What is the pressure in pascals caused by a \m{2} head of fresh water?</Text>
         </Document>
         <Document ID="7E2890E7-7A5B-40C8-A468-FE4587B7A060">
             <Title>Individual Pump Injection System</Title>
@@ -49681,105 +49665,105 @@ Produced by: WMT Limited, UK Email: manuals@wmtmarine.com
 &lt;figure xml:id="fig_waterline_profile" landscape="yes"&gt;
 &lt;caption&gt; &lt;em&gt;Patriot State&lt;/em&gt;  Waterline Profile  &lt;/caption&gt;
 &lt;image width="100%" source="images/waterline_profile"&gt;
-&lt;remix&gt; &lt;![CDATA[  MARAD  ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;&lt;source&gt;MARAD&lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 &lt;/figure&gt;
 
 &lt;figure xml:id="fig_outboard_profile" landscape="yes"&gt;
 &lt;caption&gt; &lt;em&gt;Patriot State&lt;/em&gt;  Outboard Profile  &lt;/caption&gt;
 &lt;image width="100%" source="images/outboard_profile"&gt;
-&lt;remix&gt; &lt;![CDATA[  MARAD  ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;&lt;source&gt;MARAD&lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 &lt;/figure&gt;
 
 &lt;figure xml:id="fig_inboard_port" landscape="yes"&gt;
 &lt;caption&gt; &lt;em&gt;Patriot State&lt;/em&gt;  Inboard Profile Port  &lt;/caption&gt;
 &lt;image width="100%" source="images/inboard_port"&gt;
-&lt;remix&gt; &lt;![CDATA[  MARAD  ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;&lt;source&gt;MARAD&lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 &lt;/figure&gt;
 
 &lt;figure xml:id="fig_inboard_stbd" landscape="yes"&gt;
 &lt;caption&gt; &lt;em&gt;Patriot State&lt;/em&gt;  Inboard Profile Starboard  &lt;/caption&gt;
 &lt;image width="100%" source="images/inboard_stbd"&gt;
-&lt;remix&gt; &lt;![CDATA[  MARAD  ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;&lt;source&gt;MARAD&lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 &lt;/figure&gt;
 
 &lt;figure xml:id="fig_05_level" landscape="yes"&gt;
 &lt;caption&gt; &lt;em&gt;Patriot State&lt;/em&gt;  05 Level  &lt;/caption&gt;
 &lt;image width="100%" source="images/05_level"&gt;
-&lt;remix&gt; &lt;![CDATA[  MARAD  ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;&lt;source&gt;MARAD&lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 &lt;/figure&gt;
 
 &lt;figure xml:id="fig_04_level" landscape="yes"&gt;
 &lt;caption&gt; &lt;em&gt;Patriot State&lt;/em&gt;  04 Level  &lt;/caption&gt;
 &lt;image width="100%" source="images/04_level"&gt;
-&lt;remix&gt; &lt;![CDATA[  MARAD  ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;&lt;source&gt;MARAD&lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 &lt;/figure&gt;
 
 &lt;figure xml:id="fig_03_level" landscape="yes"&gt;
 &lt;caption&gt; &lt;em&gt;Patriot State&lt;/em&gt;  O3 Level  &lt;/caption&gt;
 &lt;image width="100%" source="images/03_level"&gt;
-&lt;remix&gt; &lt;![CDATA[  MARAD  ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;&lt;source&gt;MARAD&lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 &lt;/figure&gt;
 
 &lt;figure xml:id="fig_02_level" landscape="yes"&gt;
 &lt;caption&gt; &lt;em&gt;Patriot State&lt;/em&gt;  02 Level  &lt;/caption&gt;
 &lt;image width="100%" source="images/02_level"&gt;
-&lt;remix&gt; &lt;![CDATA[  MARAD  ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;&lt;source&gt;MARAD&lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 &lt;/figure&gt;
 
 &lt;figure xml:id="fig_01_level" landscape="yes"&gt;
 &lt;caption&gt; &lt;em&gt;Patriot State&lt;/em&gt;  01 Level  &lt;/caption&gt;
 &lt;image width="100%" source="images/01_level"&gt;
-&lt;remix&gt; &lt;![CDATA[  MARAD  ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;&lt;source&gt;MARAD&lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 &lt;/figure&gt;
 
 &lt;figure xml:id="fig_main_deck" landscape="yes"&gt;
 &lt;caption&gt; &lt;em&gt;Patriot State&lt;/em&gt;  Main Deck  &lt;/caption&gt;
 &lt;image width="100%" source="images/main_deck"&gt;
-&lt;remix&gt; &lt;![CDATA[  MARAD  ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;&lt;source&gt;MARAD&lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 &lt;/figure&gt;
 
 &lt;figure xml:id="fig_2nd_deck" landscape="yes"&gt;
 &lt;caption&gt; &lt;em&gt;Patriot State&lt;/em&gt;  2nd Deck  &lt;/caption&gt;
 &lt;image width="100%" source="images/2nd_deck"&gt;
-&lt;remix&gt; &lt;![CDATA[  MARAD  ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;&lt;source&gt;MARAD&lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 &lt;/figure&gt;
 
 &lt;figure xml:id="fig_3rd_deck" landscape="yes"&gt;
 &lt;caption&gt; &lt;em&gt;Patriot State&lt;/em&gt;  3rd Deck  &lt;/caption&gt;
 &lt;image width="100%" source="images/3rd_deck"&gt;
-&lt;remix&gt; &lt;![CDATA[  MARAD  ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;&lt;source&gt;MARAD&lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 &lt;/figure&gt;
 
 &lt;figure xml:id="fig_4th_deck" landscape="yes"&gt;
 &lt;caption&gt; &lt;em&gt;Patriot State&lt;/em&gt;  4th Deck  &lt;/caption&gt;
 &lt;image width="100%" source="images/4th_deck"&gt;
-&lt;remix&gt; &lt;![CDATA[  MARAD  ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;&lt;source&gt;MARAD&lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 &lt;/figure&gt;
 
 &lt;figure xml:id="fig_tank_top" landscape="yes"&gt;
 &lt;caption&gt; &lt;em&gt;Patriot State&lt;/em&gt;  Tank Tops  &lt;/caption&gt;
 &lt;image width="100%" source="images/tank_top"&gt;
-&lt;remix&gt; &lt;![CDATA[  MARAD  ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;&lt;source&gt;MARAD&lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 &lt;/figure&gt;
 
 &lt;figure xml:id="fig_inner_bottom" landscape="yes"&gt;
 &lt;caption&gt; &lt;em&gt;Patriot State&lt;/em&gt;  Inner Bottom  &lt;/caption&gt;
 &lt;image width="100%" source="images/inner_bottom"&gt;
-&lt;remix&gt; &lt;![CDATA[  MARAD  ]]&gt;&lt;/remix&gt;
+&lt;remix&gt;&lt;source&gt;MARAD&lt;/source&gt;&lt;/remix&gt;
 &lt;/image&gt;
 &lt;/figure&gt;
 

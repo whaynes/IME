@@ -1,666 +1,810 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
-<chapter xml:id="safety" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Safety</title>
-  <objectives>
-    <ul>
-      <li><url href="https://weh.maritime.edu/stcw/2023/tables/34.html#RFPEW-A1.3" visual="RFPEW-A1.3"/> Safe working practices as related to engine-room operations</li>
-      <li><url href="https://weh.maritime.edu/stcw/2023/tables/31.html#OICEW-C1.5" visual="OICEW-C1.5"/> Safety measures to be taken to ensure a safe working environment</li>
-      <li><url href="https://weh.maritime.edu/stcw/2023/tables/35.html#ABE-C3.1" visual="ABE-C3.1"/> Mechanical safety</li>
-      <li><url href="https://weh.maritime.edu/stcw/2023/tables/35.html#ABE-C3.1" visual="ABE-C3.1"/> Electrical safety</li>
-      <li><url href="https://weh.maritime.edu/stcw/2023/tables/35.html#ABE-C3.1" visual="ABE-C3.1"/> Chemical and biohazard safety</li>
-    </ul>
-  </objectives>
-  <introduction>
-    <p>Ships are dangerous places to live and work for many reasons, some general, and some specific to the marine environment.  These include dynamic and unpredictable marine conditions, extended working hours with small crews, hazardous cargos, isolated work settings, and the potential for fire, explosion, collision, and sinking.</p>
-    <p>Everyone aboard needs to be aware of the potential hazards, actively engage in safety measures, and be prepared to respond to emergencies.  Safety is not solely the responsibility of designated officers or management but is a collective responsibility shared by all onboard.</p>
-    <p>In this chapter we discuss some of the hazards you may encounter aboard ship, approaches to managing and reducing risk, and some things you can do personally do to protect yourself, your shipmates, the vessel, and the environment.</p>
-  </introduction>
-  <section xml:id="Hazards">
-    <title>Hazards in the workplace</title>
-    <introduction>
-      <p>In any workplace, including aboard a ship, exposure to safety hazards is inevitable due to the nature of the work environment. These hazards can have serious repercussions such as injuries, operational disruptions, equipment damage, financial loss, environmental harm, and even loss of life.</p>
-      <p>Identifying, addressing, and avoiding hazards is crucial to maintaining a safe working environment, protecting yourself and others. In this section we describe some common workplace hazards which you should be aware of.</p>
-    </introduction>
-    <subsection xml:id="slips-trips-falls">
-      <title>Slips, Trips and Falls</title>
-      <p>According to the US Bureau of Labor Statistics, slips, trips, and falls cause nearly 700 fatalities per year and many more injurious accidents in the workplace,</p>
-      <p>Common trip and fall hazards include obstructions on walkways, such as cables, tools, or equipment left in pathways. Uneven surfaces, loose gratings, and obstructions, can also contribute to tripping incidents. Additionally, poor lighting, cluttered work areas, improper storage of materials, and inadequate lighting can increase the risk of trips and falls.</p>
-      <p>Spilled liquids, oils, or water can make surfaces extremely slippery. Wet surfaces due to cleaning or maintenance activities, and the presence of loose debris are additional factors that can contribute to slip incidents.</p>
-      <p>Falls can be particularly dangerous when you are working at above the ground, such as on a ladder, scaffolding or staging.</p>
-      <p>Aboard ship, additional hazards exist due to the dynamic and often wet environment. Obstructions such as hatch combings, pad-eyes and container hold-downs can cause individuals to trip. Slip hazards arise from seawater or rainwater on deck surfaces, spilled liquids in galley areas, or lubricants used for machinery maintenance.  In rough seas, the motion of the ship can cause unsecured objects to fall, or cause you to lose your balance and fall. You must be particularly careful when working at heights or over the side. Always follow the old adage, “one hand for the ship and one hand for yourself.</p>
-    </subsection>
-    <subsection xml:id="safety-mechanical-hazards">
-      <title>Mechanical Hazards</title>
-      <p>Mechanical hazards are a physical hazards associated with machines and other movable objects that may cause harm to a person.</p>
-      <p>Injuries caused by mechanical hazards include friction or abrasion, lacerations, cutting, severing, pinching, crushing, or entanglement of body parts. Additionally, non-mechanical hazards such as chips, splashes, and sparks can injure you or others in the area.</p>
-      <figure xml:id="machine-safety">
-        <caption>Rotating Shaft Hazard Sign</caption>
-        <image source="images/machine-safety.jpg" width="50%">
-          <remix>Source: https://www.compliancesigns.com</remix>
-        </image>
-      </figure>
-      <p>Mechanical hazards can be managed by adopting safe work procedures and the application of appropriate safeguards. As such, you should always wear appropriate PPE, follow the machine’s operating instructions, and ensure that all machine safety features and guards are in place. Be aware that some machines may start automatically at any time, so take appropriate precautions including de-energizing and locking out machinery before working on it.</p>
-    </subsection>
-    <subsection xml:id="safety-electrical-hazards">
-      <title>Electrical Hazards</title>
-      <p>Electricity is a powerful and essential source of energy, but it can cause severe injuries, fires, and even fatalities if not handled properly.  Understanding the hazards posed by electricity is crucial for practicing electrical safety.</p>
-      <figure xml:id="reddy_kilowatt">
-        <caption>Danger High Voltage</caption>
-        <image source="images/reddy_kilowatt.jpg" width="40%">
-          <remix>Source:  Public Domain</remix>
-        </image>
-      </figure>
-      <p>Here are some of the main hazards associated with electricity:</p>
-      <paragraphs>
-        <title>Electrical Shock</title>
-        <p>The most immediate and dangerous hazard of electricity is electrical shock. When a person comes into contact with an electrical voltage, current can pass through their body, causing electrical shock.</p>
-        <p>Roughly speaking, the greater the current, the more severe the shock.  High voltage presents more danger than lower voltages, but even normal household voltage (120 V AC) can cause severe shock or even death.</p>
-      </paragraphs>
-      <paragraphs>
-        <title>Electrical Fires</title>
-        <p>Electrical malfunctions can generate heat and sparks, leading to electrical fires. Faulty wiring, overloaded circuits, damaged electrical cords, and short circuits are common causes of electrical fires. These fires can quickly spread and pose a significant risk to property and life. The combination of electricity and flammable materials increases the likelihood of a fire and makes it more challenging to extinguish.</p>
-      </paragraphs>
-      <paragraphs>
-        <title>Arc Flash and Arc Blast</title>
-        <p><term>Arc flash</term> refers to the release of intense heat, light, and energy that occurs during an electrical fault or short circuit. It is characterized by a sudden and violent discharge of electrical energy through the air. The arc flash generates extremely high temperatures, often exceeding 35,000 degrees Fahrenheit (19,400 degrees Celsius). The intense heat emitted during an arc flash can cause severe burns to anyone in its vicinity. Additionally, the arc flash produces a bright flash of light, which can lead to temporary or permanent vision impairment.</p>
-        <p><term>Arc blast</term> , on the other hand, refers to the high-pressure shockwave produced by the rapid expansion of air during an arc flash. The rapid expansion of these vapors creates a blast wave that can cause significant physical damage. Arc blasts can result in powerful pressure waves, similar to those generated by an explosion, which can cause injuries, such as concussions, fractures, hearing loss, and even fatalities. The arc blast can propel debris, molten metal, and hot gases, further exacerbating the risk to individuals in the vicinity.</p>
-      </paragraphs>
-      <paragraphs>
-        <title>Electrical Burns</title>
-        <p>Electrical burns occur when electric current passes through the body, generating heat. These burns can be internal or external, depending on the path the electricity takes. Electrical burns can cause extensive tissue damage and may require specialized medical treatment. The severity of electrical burns depends on the voltage, current, duration of contact, and the body's resistance.</p>
-      </paragraphs>
-      <paragraphs>
-        <title>Electrocution</title>
-        <p>In the most severe cases, electric shocks can lead to electrocution, resulting in death. High-voltage shocks can cause cardiac arrest, severe internal injuries, and other life-threatening conditions. Contact with overhead power lines, unauthorized access to electrical panels or equipment, and improper handling of live wires are some situations that can lead to fatal accidents.</p>
-      </paragraphs>
-      <assemblage xml:id="safety-effects-of-electrical-current-on-the-human-body">
-        <title>Effects of Electrical Current on the Human Body</title>
-        <p>Electrical shock occurs when current passes through the body.  The severity of the shock depends on the current’s magnitude, the duration, the contact area, and the path taken by the current through the body.</p>
-        <p>The shock current received obeys <xref provisional="ohms-law">Ohm’s law</xref> , so high voltages are always more dangerous.  But your body resistance is equally important.  Body resistance with dry skin may be above 100,000 ohms, However, if the skin is wet or broken, the body's resistance decreases to a few thousand ohms.</p>
-        <tabular halign="left" width="100%">
-          <col width="20%"/>
-          <col width="80%"/>
-          <row bottom="minor" header="yes"><cell>Current</cell> <cell>Reaction 1 Second contact</cell></row>
-          <row><cell>&lt; 1 mA</cell> <cell> <p>Generally not perceptible.</p> </cell></row>
-          <row><cell>1 mA</cell> <cell> <p>Threshold of feeling, tingling sensation.</p> </cell></row>
-          <row><cell>3 mA</cell> <cell> <p>Painful shock. Average individual can let go.</p> </cell></row>
-          <row><cell>5 mA</cell> <cell> <p>Accepted as maximum harmless current. Strong involuntary reactions  may cause indirect accidents.</p> </cell></row>
-          <row><cell>6 <ndash/> 25 mA</cell> <cell> <p>Beginning of sustained muscular contraction. ("Can't let go" current.)</p> </cell></row>
-          <row><cell>9 <ndash/> 30 mA</cell> <cell> <p>Lung paralysis, Respiratory arrest ‐ usually temporary, but death is possible.</p> </cell></row>
-          <row><cell>50 mA</cell> <cell> <p>Possible ventricular fibrillation. (heart dysfunction, usually fatal.)</p> </cell></row>
-          <row><cell>100 <ndash/> 300 mA</cell> <cell> <p>Certain ventricular fibrillation, fatal.</p> </cell></row>
-          <row><cell>1 <ndash/> 4 Amps</cell> <cell> <p>Heart paralysis, severe burns. Muscular contraction and nerve damage occur;
-death is likely.</p> </cell></row>
-          <row><cell>5 Amps</cell> <cell> <p>Flesh burns, defibrillation, temporary respiratory paralysis.</p> </cell></row>
-        </tabular>
-      </assemblage>
-    </subsection>
-    <subsection xml:id="safety-chemical-hazards">
-      <title>Chemical Hazards</title>
-      <p>Chemicals can pose significant risks to human health and safety.  By identifying and understanding the potential hazards, following proper storage and handling procedures, and adhering to safety protocols, you can significantly reduce the risks associated with hazardous chemicals and create a safer environment for everyone.</p>
-      <figure xml:id="hazardous-material-placards">
-        <caption>Hazardous Material Placards</caption>
-        <image source="images/hazardous-material-placards.jpg" width="90%">
-          <remix>Source:  https://airseacontainers.com/blog/how-to-read-and-understand-hazmat-placards/</remix>
-        </image>
-      </figure>
-      <paragraphs>
-        <title>Chemical Exposure</title>
-        <p>You may be exposed to hazardous chemicals through inhalation, skin contact, or ingestion. Prolonged exposure or exposure to high concentrations can lead to adverse health effects such as respiratory issues, skin irritation, chemical burns, organ damage, or even long-term illnesses.</p>
-        <p>You should be aware of the hazardous chemicals present in your workplace, handle them safely and take precautions to minimize exposure, such as using proper ventilation systems, wearing personal protective equipment (PPE), and following established protocols.</p>
-        <p>You can learn about the potential risks associated with a chemical, as well as instructions on how to handle and respond to accidents or exposures, in the <term>Material Safety Data Sheet</term> (MSDS), which is required to be available in your workplace. MSDSs are typically created by the manufacturer or supplier of the chemical and are designed to ensure the safe use, storage, and disposal of hazardous substances.</p>
-      </paragraphs>
-      <paragraphs>
-        <title>Chemical Storage</title>
-        <p>Chemicals that are improperly stored or incompatible substances stored in close proximity can react with one another, causing fires, explosions, or the release of toxic gases. Inadequate storage practices may also result in spills, leaks, or contamination, endangering both employees and the environment.</p>
-        <p>It is essential to follow proper storage procedures, including segregating incompatible chemicals, labeling containers correctly, ensuring proper ventilation and temperature control, and implementing appropriate containment measures such as spill kits and secondary containment systems.  The MSDS will contain instructions regarding proper storage.</p>
-        <p>In particular, aboard ship chemical containers must always be secured so that they don’t break free and cause accidents during heavy weather.</p>
-      </paragraphs>
-      <paragraphs>
-        <title>Handling and Transporation</title>
-        <p>Improper handling of hazardous chemicals, such as careless pouring, transferring chemicals without suitable protective measures, or failure to follow established protocols, can result in spills, splashes, or exposure.</p>
-      </paragraphs>
-    </subsection>
-    <subsection xml:id="safety-fire">
-      <title>Fire</title>
-      <p>Fire aboard ship is an ever-present threat that can swiftly escalate into a catastrophic disaster. With limited means of escape, a ship becomes a confined space where flames can spread rapidly, fueled by combustible materials and confined by its structure.</p>
-      <p>The close quarters, complex layout, and intricate ventilation systems aboard ship create formidable challenges for the ship’s small firefighting team. In addition to the immediate threat to human lives, a shipboard fire poses a significant risk to the environment, as toxic smoke, potential oil spills, and the release of hazardous substances can wreak havoc on marine ecosystems.</p>
-      <figure xml:id="Hyundai_Fortune">
-        <caption><em>Hyundai Fortune</em> on fire 21 March 2006</caption>
-        <image source="images/Burning_container_ship_Hyundai_Fortune_yemin-ship-76682.jpg" width="75%">
-          <remix>Source:  Royal Netherlands Navy, CC0, via Wikimedia Commons https://commons.wikimedia.org/wiki/File:Burning_container_ship_Hyundai_Fortune_yemin-ship-76682.jpg</remix>
-        </image>
-      </figure>
-      <p>Effective fire prevention measures, comprehensive emergency response plans, rigorous training, and state-of-the-art firefighting equipment are crucial in mitigating this threat and ensuring the safety of everyone on board.</p>
-      <p>Fire prevention measures play a vital role in minimizing the risk of fire and maintaining a safe environment aboard ship. These measures encompass a range of proactive strategies aimed at preventing fires from starting or spreading. One fundamental aspect is implementing rigorous safety protocols and adhering to international standards, such as the International Maritime Organization's (IMO) regulations for fire safety.</p>
-      <p>
-        Some key fire prevention measures include:
-        <ul>
-          <li>
-            <p><em>Regular Inspections and Maintenance.</em> Conducting routine inspections of electrical systems, machinery, and fire suppression equipment is crucial. Identifying and addressing potential hazards, faulty wiring, or malfunctioning equipment can prevent fire incidents.</p>
-          </li>
-          <li>
-            <p><em>Training and Education.</em> Crew members should receive comprehensive training on fire safety, including proper handling of flammable substances, effective use of firefighting equipment, and emergency response procedures. Increasing awareness and knowledge among the crew can significantly reduce the likelihood of fire-related accidents.</p>
-          </li>
-          <li>
-            <p><em>Fire Detection Systems.</em> Installing advanced fire detection systems, such as smoke detectors, heat sensors, and flame detectors, helps in early detection of fires. These systems can trigger alarms, alerting the crew and initiating immediate response actions.</p>
-          </li>
-          <li>
-            <p><em>Fire Suppression Systems.</em> Equipping ships with reliable fire suppression systems, such as fixed CO2 or water mist systems, can effectively control and extinguish fires. These systems are designed to release the appropriate extinguishing agent in the affected area, limiting the fire's spread.</p>
-          </li>
-          <li>
-            <p><em>Proper Storage and Handling</em> . Storing flammable materials in designated areas and following strict protocols for their handling reduces the risk of accidental ignition. Implementing proper waste management procedures and ensuring the availability of suitable fire-resistant containers also contribute to fire prevention efforts.</p>
-          </li>
-          <li>
-            <p><em>Structural Fire Protection.</em> Regulations require fire-resistant materials and insulation in the ship's construction helps to contain fires and slow down their progression. Fire-resistant doors, bulkheads, and insulation compartmentalize the vessel, preventing the rapid spread of flames.</p>
-          </li>
-          <li>
-            <p><em>Emergency Preparedness.</em> Developing and regularly reviewing comprehensive emergency response plans specific to fire incidents is crucial. This includes establishing evacuation procedures, assigning roles and responsibilities to crew members, and conducting fire drills to ensure everyone knows how to respond swiftly and effectively in an emergency.</p>
-          </li>
-        </ul>
-      </p>
-      <p>By implementing robust fire prevention measures, ships can significantly reduce the risk of fire, enhance the crew's safety, and protect the marine environment from potential devastation.</p>
-    </subsection>
-    <subsection xml:id="safety-fatigue">
-      <title>Fatigue</title>
-      <objectives>
-        <ul>
-          <li><url href="https://weh.maritime.edu/stcw/2023/tables/614.html#PSSR-X6.1" visual="PSSR-X6.1"/> Importance of obtaining the necessary rest</li>
-          <li><url href="https://weh.maritime.edu/stcw/2023/tables/614.html#PSSR-X6.2" visual="PSSR-X6.2"/> Effects of sleep, schedules, and the circadian rhythm on fatigue</li>
-          <li><url href="https://weh.maritime.edu/stcw/2023/tables/614.html#PSSR-X6.3" visual="PSSR-X6.3"/> Effects of physical stressors on seafarers</li>
-          <li><url href="https://weh.maritime.edu/stcw/2023/tables/614.html#PSSR-X6.4" visual="PSSR-X6.4"/> Effects of environmental stressors in and outside the ship and their impact on seafarers</li>
-          <li><url href="https://weh.maritime.edu/stcw/2023/tables/614.html#PSSR-X6.5" visual="PSSR-X6.5"/> Effects of schedule changes on seafarer fatigue</li>
-        </ul>
-      </objectives>
-      <p>Fatigue, which refers to a state of extreme tiredness and lack of energy, can pose several risks.   The primary cause of fatigue is insufficient or poor-quality sleep.  To avoid fatigue, it's important to prioritize adequate rest and sleep, and maintain a healthy lifestyle.</p>
-      <p>Other factor which can contribute to fatigue include: medical conditions such as chronic fatigue syndrome, anemia, and thyroid disorders; depression and anxiety, and unhealthy lifestyle habits, including inadequate physical activity, poor nutrition, excessive caffeine or alcohol intake, and smoking. Certain medications have fatigue as a side effect.</p>
-      <p>The negative consequences of fatigue include:</p>
-      <p>Fatigue can significantly impair cognitive abilities, including attention, concentration, memory, and decision-making. This can lead to reduced performance and increased errors, particularly in tasks that require sustained focus or critical thinking, such as driving, operating machinery, or performing complex work.</p>
-      <p>Fatigue can slow down reaction times and impair alertness, making it more challenging to respond quickly and appropriately to stimuli or unexpected events. This can increase the risk of accidents, both in occupational settings and during activities like driving or operating heavy equipment.</p>
-      <p>Fatigue-related impairment can lead to an increased risk of accidents and injuries across various domains, including workplaces, roadways, and other high-risk environments. Fatigue-related accidents have been linked to major incidents in industries such as transportation, healthcare, and manufacturing.</p>
-      <p>Fatigue can impair an individual's ability to assess risks accurately and make sound judgments. This can result in poor decision-making, potentially leading to safety hazards or negative consequences in various aspects of life, including personal relationships and professional responsibilities.</p>
-      <p>The IMO has developed guidelines for rest requirements to address the issue of fatigue among seafarers. These guidelines are outlined in the International Convention on Standards of Training, Certification, and Watchkeeping for Seafarers (STCW Convention).</p>
-      <p>The STCW Convention sets out minimum hours of rest for seafarers. The standard requires that seafarers receive a minimum of 10 hours of rest in any 24-hour period and a minimum of 77 hours of rest in any 7-day period. The hours of rest may be divided into no more than two periods, with one period being at least 6 hours in length.</p>
-      <p>In situations where the safety of the ship, crew, or passengers is compromised, and in cases of emergencies or drills, the rest period may be temporarily shortened or interrupted. However, the seafarers should be provided with compensatory rest as soon as possible.</p>
-    </subsection>
-    <subsection xml:id="safety-confined-spaces">
-      <title>Confined Spaces</title>
-      <objectives>
-        <ul>
-          <li><url href="https://weh.maritime.edu/stcw/2023/tables/35.html#ABE-C3.1" visual="ABE-C3.1"/> Working in enclosed spaces</li>
-          <li><url href="https://weh.maritime.edu/stcw/2023/tables/614.html#PSSR-X3.3" visual="PSSR-X3.3"/> Precautions to be taken prior to entering enclosed spaces</li>
-        </ul>
-      </objectives>
-      <p>A confined space is defined by OSHA as a space that has limited or restricted means of entry, is not designed for continuous occupancy, and is large enough and configured so that a person can enter the space and maneuver well enough to perform tasks.</p>
-      <p>Confined spaces pose several hazards that can endanger workers who enter  them due to their limited entry and exit points, restricted airflow, and potential for hazardous atmospheres.</p>
-      <p>On ships, some examples of confined spaces include:  Cargo and fuel tanks, cofferdams, pressure vessels, sewage tanks, and void spaces.</p>
-      <figure xml:id="confined-space-sign">
-        <caption>Confined Space Hazards</caption>
-        <image source="images/confined-space-sign.png" width="50%">
-          <remix>Source:  smartsign.com</remix>
-        </image>
-      </figure>
-      <p>Here are some hazards associated with confined spaces:</p>
-      <paragraphs>
-        <title>Lack of oxygen</title>
-        <p>Confined spaces often have limited ventilation, which can lead to a decrease in oxygen levels. This oxygen-deficient atmosphere can cause dizziness, loss of consciousness, or even asphyxiation.</p>
-      </paragraphs>
-      <paragraphs>
-        <title>Toxic gases and vapors</title>
-        <p>Confined spaces may contain hazardous gases or vapors, such as carbon monoxide, hydrogen sulfide, or volatile chemicals. These substances can accumulate in the confined space and pose a serious health risk to individuals who inhale them, leading to poisoning or respiratory problems.</p>
-      </paragraphs>
-      <paragraphs>
-        <title>Fire and explosion risks</title>
-        <p>Confined spaces may contain flammable substances, inadequate electrical systems, or potential ignition sources. This combination can result in the rapid escalation of fire or explosion hazards, especially in spaces with limited airflow and potential fuel accumulation.</p>
-      </paragraphs>
-      <paragraphs>
-        <title>Engulfment or entrapment</title>
-        <p>Confined spaces often have small openings or tight access points. If an individual becomes trapped or engulfed by materials, such as loose soil, water, or flowing grain, it can lead to serious injury, suffocation, or drowning.</p>
-      </paragraphs>
-      <paragraphs>
-        <title>Physical hazards</title>
-        <p>Confined spaces may have uneven surfaces, protruding objects, or low ceilings, increasing the risk of slips, trips, falls, and head injuries. Limited visibility and restricted movement within the space can further contribute to accidents and make rescue difficult.</p>
-      </paragraphs>
-      <paragraphs>
-        <title>Extreme temperatures</title>
-        <p>Some confined spaces can experience extreme temperatures due to insulation issues, lack of ventilation, or the presence of heat-generating equipment. Excessive heat or cold can cause thermal discomfort, heat exhaustion, hypothermia, or heat stroke.</p>
-        <p>Emergency repairs to boilers must sometimes be made before the boiler has had a chance to cool down.</p>
-      </paragraphs>
-      <paragraphs>
-        <title>Biological hazards</title>
-        <p>In certain confined spaces, such as sewage tanks or areas with stagnant water, there may be an increased risk of exposure to bacteria, viruses, or mold, which can lead to respiratory issues, allergies, or infectious diseases.</p>
-      </paragraphs>
-      <p>For safe entry into a confined space, everyone involved should be properly trained on confined space entry and rescue techniques and strictly comply with all regulations and guidelines governing confined space entry.</p>
-      <p>Begin by conducting a thorough risk assessment to identify potential hazards and establish necessary control measures. Inspect the equipment used for entry to guarantee its reliability.</p>
-      <p>Ensure proper ventilation is in place, to maintain fresh air and remove hazardous substances. Test the atmosphere using gas detection equipment before entering to verify safe conditions. Wear the appropriate personal protective equipment (PPE), including respiratory protection and fall protection gear.</p>
-      <p>Maintain proper lighting to ensure visibility within the confined space. Establish effective communication systems between individuals inside and outside the space. Designate a standby person outside the space, equipped with rescue training, to provide immediate assistance if required.</p>
-    </subsection>
-  </section>
-  <section xml:id="Hazard_mitigation">
-    <title>Hazard Mitigation</title>
-    <objectives>
+<chapter xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="safety">
+   <title>Safety</title>
+   <objectives>
       <ul>
-        <li><url href="https://weh.maritime.edu/stcw/2023/tables/31.html#OICEW-C2.1" visual="OICEW-C2.1"/> Safe isolation of shipboard machinery and equipment before personnel are permitted to work</li>
-        <li><url href="https://weh.maritime.edu/stcw/2023/tables/31.html#OICEW-C2.1" visual="OICEW-C2.1"/> Safety measures to be taken for repair and maintenance</li>
-        <li><url href="https://weh.maritime.edu/stcw/2023/tables/35.html#ABE-C3.1" visual="ABE-C3.1"/> Permit to work systems</li>
+         <li>
+            <url href="https://weh.maritime.edu/stcw/2023/tables/34.html#RFPEW-A1.3"
+                 visual="RFPEW-A1.3"/> Safe working practices as related to engine-room operations</li>
+         <li>
+            <url href="https://weh.maritime.edu/stcw/2023/tables/31.html#OICEW-C1.5"
+                 visual="OICEW-C1.5"/> Safety measures to be taken to ensure a safe working environment</li>
+         <li>
+            <url href="https://weh.maritime.edu/stcw/2023/tables/35.html#ABE-C3.1"
+                 visual="ABE-C3.1"/> Mechanical safety</li>
+         <li>
+            <url href="https://weh.maritime.edu/stcw/2023/tables/35.html#ABE-C3.1"
+                 visual="ABE-C3.1"/> Electrical safety</li>
+         <li>
+            <url href="https://weh.maritime.edu/stcw/2023/tables/35.html#ABE-C3.1"
+                 visual="ABE-C3.1"/> Chemical and biohazard safety</li>
       </ul>
-    </objectives>
-    <introduction>
-      <p>TBD</p>
-    </introduction>
-    <subsection xml:id="safety-safety-management">
-      <title>Safety Management</title>
+   </objectives>
+   <introduction>
+      <p>Ships are dangerous places to live and work for many reasons, some general, and some specific to the marine environment.  These include dynamic and unpredictable marine conditions, extended working hours with small crews, hazardous cargos, isolated work settings, and the potential for fire, explosion, collision, and sinking.</p>
+      <p>Everyone aboard needs to be aware of the potential hazards, actively engage in safety measures, and be prepared to respond to emergencies.  Safety is not solely the responsibility of designated officers or management but is a collective responsibility shared by all onboard. </p>
+      <p>In this chapter we discuss some of the hazards you may encounter aboard ship, approaches to managing and reducing risk, and some things you can do personally do to protect yourself, your shipmates, the vessel, and the environment.</p>
+   </introduction>
+   <section xml:id="Hazards">
+      <title>Hazards in the workplace</title>
       <introduction>
-        <p>Safety management is a systematic approach taken by regulatory bodies and companies to identify, assess, control, and mitigate risks in order to ensure the safety of personnel, assets, and the environment. It involves the development and implementation of policies, procedures, and practices aimed at preventing accidents, injuries, and damage.</p>
-        <p>Key components of safety management include risk assessment, safety planning, establishment of policies and procedures, training and education, reporting and investigation of incidents, audits and inspections, and continuous improvement efforts. The goal of safety management is to protect lives, prevent harm, and promote a culture of safety within organizations across various industries.</p>
+         <p>In any workplace, including aboard a ship, exposure to safety hazards is inevitable due to the nature of the work environment. These hazards can have serious repercussions such as injuries, operational disruptions, equipment damage, financial loss, environmental harm, and even loss of life. </p>
+         <p>Identifying, addressing, and avoiding hazards is crucial to maintaining a safe working environment, protecting yourself and others. In this section we describe some common workplace hazards which you should be aware of.</p>
       </introduction>
-      <subsubsection xml:id="safety-ism-code">
-        <title>ISM Code</title>
-        <p>The International Safety Management Code (ISM Code) is a set of guidelines and regulations developed by the International Maritime Organization (IMO) to ensure the safe operation of ships and the prevention of marine pollution. It was adopted in 1993 and became mandatory for all vessels engaged in international voyages in 1998.</p>
-        <p>The primary objective of the ISM Code is to establish a safety management system (SMS) on board ships and ashore, providing a framework for managing safety and minimizing risks in the maritime industry. The code applies to all types and sizes of vessels, including passenger ships, cargo ships, tankers, and offshore drilling units.</p>
-        <p>Under the ISM Code, both the ship and the company have specific obligations to ensure the effective implementation of safety management systems and adherence to safety standards. The obligations of the ship and the company are as follows:</p>
-        <paragraphs>
-          <title>Ship Obligations</title>
-          <p>
+      <subsection xml:id="slips-trips-falls">
+         <title>Slips, Trips and Falls</title>
+         <p>According to the US Bureau of Labor Statistics, slips, trips, and falls cause nearly 700 fatalities per year and many more injurious accidents in the workplace,</p>
+         <p>Common trip and fall hazards include obstructions on walkways, such as cables, tools, or equipment left in pathways. Uneven surfaces, loose gratings, and obstructions, can also contribute to tripping incidents. Additionally, poor lighting, cluttered work areas, improper storage of materials, and inadequate lighting can increase the risk of trips and falls.  </p>
+         <p>Spilled liquids, oils, or water can make surfaces extremely slippery. Wet surfaces due to cleaning or maintenance activities, and the presence of loose debris are additional factors that can contribute to slip incidents.</p>
+         <p>Falls can be particularly dangerous when you are working at above the ground, such as on a ladder, scaffolding or staging.</p>
+         <p>Aboard ship, additional hazards exist due to the dynamic and often wet environment. Obstructions such as hatch combings, pad-eyes and container hold-downs can cause individuals to trip. Slip hazards arise from seawater or rainwater on deck surfaces, spilled liquids in galley areas, or lubricants used for machinery maintenance.  In rough seas, the motion of the ship can cause unsecured objects to fall, or cause you to lose your balance and fall. You must be particularly careful when working at heights or over the side. Always follow the old adage, “one hand for the ship and one hand for yourself.</p>
+      </subsection>
+      <subsection xml:id="safety-mechanical-hazards">
+         <title>Mechanical Hazards</title>
+         <p>Mechanical hazards are a physical hazards associated with machines and other movable objects that may cause harm to a person.</p>
+         <p>Injuries caused by mechanical hazards include friction or abrasion, lacerations, cutting, severing, pinching, crushing, or entanglement of body parts. Additionally, non-mechanical hazards such as chips, splashes, and sparks can injure you or others in the area.</p>
+         <figure xml:id="machine-safety">
+            <caption>Rotating Shaft Hazard Sign</caption>
+            <image source="images/machine-safety.jpg" width="50%">
+               <remix>
+                  <source>https://www.compliancesigns.com </source>
+               </remix>
+            </image>
+         </figure>
+         <p>Mechanical hazards can be managed by adopting safe work procedures and the application of appropriate safeguards. As such, you should always wear appropriate PPE, follow the machine’s operating instructions, and ensure that all machine safety features and guards are in place. Be aware that some machines may start automatically at any time, so take appropriate precautions including de-energizing and locking out machinery before working on it.</p>
+      </subsection>
+      <subsection xml:id="safety-electrical-hazards">
+         <title>Electrical Hazards</title>
+         <p>Electricity is a powerful and essential source of energy, but it can cause severe injuries, fires, and even fatalities if not handled properly.  Understanding the hazards posed by electricity is crucial for practicing electrical safety.</p>
+         <figure xml:id="reddy_kilowatt">
+            <caption> Danger High Voltage </caption>
+            <image source="images/reddy_kilowatt.jpg" width="40%">
+               <remix>
+                  <source>Public Domain  </source>
+               </remix>
+            </image>
+         </figure>
+         <p>Here are some of the main hazards associated with electricity:</p>
+         <paragraphs>
+            <title>Electrical Shock</title>
+            <p>The most immediate and dangerous hazard of electricity is electrical shock. When a person comes into contact with an electrical voltage, current can pass through their body, causing electrical shock. </p>
+            <p>Roughly speaking, the greater the current, the more severe the shock.  High voltage presents more danger than lower voltages, but even normal household voltage (120 V AC) can cause severe shock or even death.</p>
+         </paragraphs>
+         <paragraphs>
+            <title>Electrical Fires</title>
+            <p>Electrical malfunctions can generate heat and sparks, leading to electrical fires. Faulty wiring, overloaded circuits, damaged electrical cords, and short circuits are common causes of electrical fires. These fires can quickly spread and pose a significant risk to property and life. The combination of electricity and flammable materials increases the likelihood of a fire and makes it more challenging to extinguish.</p>
+         </paragraphs>
+         <paragraphs>
+            <title>Arc Flash and Arc Blast</title>
+            <p>
+               <term>Arc flash</term> refers to the release of intense heat, light, and energy that occurs during an electrical fault or short circuit. It is characterized by a sudden and violent discharge of electrical energy through the air. The arc flash generates extremely high temperatures, often exceeding 35,000 degrees Fahrenheit (19,400 degrees Celsius). The intense heat emitted during an arc flash can cause severe burns to anyone in its vicinity. Additionally, the arc flash produces a bright flash of light, which can lead to temporary or permanent vision impairment.</p>
+            <p>
+               <term>Arc blast</term>, on the other hand, refers to the high-pressure shockwave produced by the rapid expansion of air during an arc flash. The rapid expansion of these vapors creates a blast wave that can cause significant physical damage. Arc blasts can result in powerful pressure waves, similar to those generated by an explosion, which can cause injuries, such as concussions, fractures, hearing loss, and even fatalities. The arc blast can propel debris, molten metal, and hot gases, further exacerbating the risk to individuals in the vicinity.</p>
+         </paragraphs>
+         <paragraphs>
+            <title>Electrical Burns</title>
+            <p>Electrical burns occur when electric current passes through the body, generating heat. These burns can be internal or external, depending on the path the electricity takes. Electrical burns can cause extensive tissue damage and may require specialized medical treatment. The severity of electrical burns depends on the voltage, current, duration of contact, and the body's resistance.</p>
+         </paragraphs>
+         <paragraphs>
+            <title>Electrocution</title>
+            <p>In the most severe cases, electric shocks can lead to electrocution, resulting in death. High-voltage shocks can cause cardiac arrest, severe internal injuries, and other life-threatening conditions. Contact with overhead power lines, unauthorized access to electrical panels or equipment, and improper handling of live wires are some situations that can lead to fatal accidents.</p>
+         </paragraphs>
+         <assemblage xml:id="safety-effects-of-electrical-current-on-the-human-body">
+            <title>Effects of Electrical Current on the Human Body</title>
+            <p>Electrical shock occurs when current passes through the body.  The severity of the shock depends on the current’s magnitude, the duration, the contact area, and the path taken by the current through the body. </p>
+            <p>The shock current received obeys <xref provisional="ohms-law">Ohm’s law</xref>, so high voltages are always more dangerous.  But your body resistance is equally important.  Body resistance with dry skin may be above 100,000 ohms, However, if the skin is wet or broken, the body's resistance decreases to a few thousand ohms.</p>
+            <tabular halign="left" width="100%">
+               <col width="20%"/>
+               <col width="80%"/>
+               <row bottom="minor" header="yes">
+                  <cell>Current</cell>
+                  <cell>Reaction 1 Second contact</cell>
+               </row>
+               <row>
+                  <cell> &lt; 1 mA </cell>
+                  <cell>
+                     <p>Generally not perceptible.</p>
+                  </cell>
+               </row>
+               <row>
+                  <cell>1 mA </cell>
+                  <cell>
+                     <p>Threshold of feeling, tingling sensation.</p>
+                  </cell>
+               </row>
+               <row>
+                  <cell>3 mA </cell>
+                  <cell>
+                     <p>Painful shock. Average individual can let go.</p>
+                  </cell>
+               </row>
+               <row>
+                  <cell>5 mA </cell>
+                  <cell>
+                     <p>Accepted as maximum harmless current. Strong involuntary reactions  may cause indirect accidents.</p>
+                  </cell>
+               </row>
+               <row>
+                  <cell>6<ndash/>25 mA </cell>
+                  <cell>
+                     <p>Beginning of sustained muscular contraction. ("Can't let go" current.)</p>
+                  </cell>
+               </row>
+               <row>
+                  <cell>9<ndash/>30 mA </cell>
+                  <cell>
+                     <p>Lung paralysis, Respiratory arrest ‐ usually temporary, but death is possible.</p>
+                  </cell>
+               </row>
+               <row>
+                  <cell>50 mA </cell>
+                  <cell>
+                     <p>Possible ventricular fibrillation. (heart dysfunction, usually fatal.)</p>
+                  </cell>
+               </row>
+               <row>
+                  <cell>100<ndash/>300 mA </cell>
+                  <cell>
+                     <p>Certain ventricular fibrillation, fatal.</p>
+                  </cell>
+               </row>
+               <row>
+                  <cell>1<ndash/>4 Amps </cell>
+                  <cell>
+                     <p>Heart paralysis, severe burns. Muscular contraction and nerve damage occur;
+death is likely.</p>
+                  </cell>
+               </row>
+               <row>
+                  <cell>5 Amps </cell>
+                  <cell>
+                     <p>Flesh burns, defibrillation, temporary respiratory paralysis. </p>
+                  </cell>
+               </row>
+            </tabular>
+         </assemblage>
+      </subsection>
+      <subsection xml:id="safety-chemical-hazards">
+         <title>Chemical Hazards</title>
+         <p>Chemicals can pose significant risks to human health and safety.  By identifying and understanding the potential hazards, following proper storage and handling procedures, and adhering to safety protocols, you can significantly reduce the risks associated with hazardous chemicals and create a safer environment for everyone.</p>
+         <figure xml:id="hazardous-material-placards">
+            <caption> Hazardous Material Placards  </caption>
+            <image source="images/hazardous-material-placards.jpg" width="90%">
+               <remix>
+                  <source>https://airseacontainers.com/blog/how-to-read-and-understand-hazmat-placards/  </source>
+               </remix>
+            </image>
+         </figure>
+         <paragraphs>
+            <title>Chemical Exposure</title>
+            <p>You may be exposed to hazardous chemicals through inhalation, skin contact, or ingestion. Prolonged exposure or exposure to high concentrations can lead to adverse health effects such as respiratory issues, skin irritation, chemical burns, organ damage, or even long-term illnesses. </p>
+            <p>You should be aware of the hazardous chemicals present in your workplace, handle them safely and take precautions to minimize exposure, such as using proper ventilation systems, wearing personal protective equipment (PPE), and following established protocols.  </p>
+            <p>You can learn about the potential risks associated with a chemical, as well as instructions on how to handle and respond to accidents or exposures, in the <term>Material Safety Data Sheet</term> (MSDS), which is required to be available in your workplace. MSDSs are typically created by the manufacturer or supplier of the chemical and are designed to ensure the safe use, storage, and disposal of hazardous substances.</p>
+         </paragraphs>
+         <paragraphs>
+            <title>Chemical Storage</title>
+            <p>Chemicals that are improperly stored or incompatible substances stored in close proximity can react with one another, causing fires, explosions, or the release of toxic gases. Inadequate storage practices may also result in spills, leaks, or contamination, endangering both employees and the environment. </p>
+            <p>It is essential to follow proper storage procedures, including segregating incompatible chemicals, labeling containers correctly, ensuring proper ventilation and temperature control, and implementing appropriate containment measures such as spill kits and secondary containment systems.  The MSDS will contain instructions regarding proper storage.</p>
+            <p>In particular, aboard ship chemical containers must always be secured so that they don’t break free and cause accidents during heavy weather.   </p>
+         </paragraphs>
+         <paragraphs>
+            <title>Handling and Transporation</title>
+            <p> Improper handling of hazardous chemicals, such as careless pouring, transferring chemicals without suitable protective measures, or failure to follow established protocols, can result in spills, splashes, or exposure.  </p>
+         </paragraphs>
+      </subsection>
+      <subsection xml:id="safety-fire-">
+         <title>Fire </title>
+         <p>Fire aboard ship is an ever-present threat that can swiftly escalate into a catastrophic disaster. With limited means of escape, a ship becomes a confined space where flames can spread rapidly, fueled by combustible materials and confined by its structure. </p>
+         <p>The close quarters, complex layout, and intricate ventilation systems aboard ship create formidable challenges for the ship’s small firefighting team. In addition to the immediate threat to human lives, a shipboard fire poses a significant risk to the environment, as toxic smoke, potential oil spills, and the release of hazardous substances can wreak havoc on marine ecosystems. </p>
+         <figure xml:id="Hyundai_Fortune">
+            <caption>
+               <em>Hyundai Fortune</em> on fire 21 March 2006</caption>
+            <image source="images/Burning_container_ship_Hyundai_Fortune_yemin-ship-76682.jpg"
+                   width="75%">
+               <remix>
+                  <source>Royal Netherlands Navy, CC0, via Wikimedia Commons https://commons.wikimedia.org/wiki/File:Burning_container_ship_Hyundai_Fortune_yemin-ship-76682.jpg  </source>
+               </remix>
+            </image>
+         </figure>
+         <p>Effective fire prevention measures, comprehensive emergency response plans, rigorous training, and state-of-the-art firefighting equipment are crucial in mitigating this threat and ensuring the safety of everyone on board.</p>
+         <p>Fire prevention measures play a vital role in minimizing the risk of fire and maintaining a safe environment aboard ship. These measures encompass a range of proactive strategies aimed at preventing fires from starting or spreading. One fundamental aspect is implementing rigorous safety protocols and adhering to international standards, such as the International Maritime Organization's (IMO) regulations for fire safety.</p>
+         <p>
+            Some key fire prevention measures include:
             <ul>
-              <li>Implement the Safety Management System (SMS): The ship is responsible for implementing and following the SMS as defined by the company. This includes adhering to the documented procedures and instructions outlined in the SMS.</li>
-              <li>Report Hazards and Non-conformities: The ship is obligated to report any hazards, accidents, or non-conformities that may affect the safety of the ship, its personnel, or the environment. This includes reporting incidents, near-misses, and deficiencies in the SMS.</li>
-              <li>Participate in Training and Drills: All personnel on board the ship must undergo appropriate training to ensure they have the necessary skills and knowledge to perform their duties safely. They are also required to actively participate in safety drills and exercises.</li>
-              <li>Comply with Safety Procedures: The ship must comply with all safety procedures and guidelines outlined in the SMS. This includes following safe working practices, adhering to emergency response plans, and utilizing safety equipment as required.</li>
-              <li>Maintain Records: The ship is responsible for maintaining accurate records of safety-related activities, including incidents, inspections, audits, drills, and maintenance activities. These records provide evidence of compliance with the ISM Code.</li>
+               <li>
+                  <p>
+                     <em>Regular Inspections and Maintenance.</em> Conducting routine inspections of electrical systems, machinery, and fire suppression equipment is crucial. Identifying and addressing potential hazards, faulty wiring, or malfunctioning equipment can prevent fire incidents.</p>
+               </li>
+               <li>
+                  <p>
+                     <em>Training and Education.</em> Crew members should receive comprehensive training on fire safety, including proper handling of flammable substances, effective use of firefighting equipment, and emergency response procedures. Increasing awareness and knowledge among the crew can significantly reduce the likelihood of fire-related accidents.</p>
+               </li>
+               <li>
+                  <p>
+                     <em>Fire Detection Systems.</em> Installing advanced fire detection systems, such as smoke detectors, heat sensors, and flame detectors, helps in early detection of fires. These systems can trigger alarms, alerting the crew and initiating immediate response actions.</p>
+               </li>
+               <li>
+                  <p>
+                     <em>Fire Suppression Systems.</em> Equipping ships with reliable fire suppression systems, such as fixed CO2 or water mist systems, can effectively control and extinguish fires. These systems are designed to release the appropriate extinguishing agent in the affected area, limiting the fire's spread.</p>
+               </li>
+               <li>
+                  <p>
+                     <em>Proper Storage and Handling</em>. Storing flammable materials in designated areas and following strict protocols for their handling reduces the risk of accidental ignition. Implementing proper waste management procedures and ensuring the availability of suitable fire-resistant containers also contribute to fire prevention efforts.</p>
+               </li>
+               <li>
+                  <p>
+                     <em>Structural Fire Protection.</em> Regulations require fire-resistant materials and insulation in the ship's construction helps to contain fires and slow down their progression. Fire-resistant doors, bulkheads, and insulation compartmentalize the vessel, preventing the rapid spread of flames.</p>
+               </li>
+               <li>
+                  <p>
+                     <em>Emergency Preparedness.</em> Developing and regularly reviewing comprehensive emergency response plans specific to fire incidents is crucial. This includes establishing evacuation procedures, assigning roles and responsibilities to crew members, and conducting fire drills to ensure everyone knows how to respond swiftly and effectively in an emergency.</p>
+               </li>
             </ul>
-          </p>
-        </paragraphs>
-        <paragraphs>
-          <title>Company Obligations</title>
-          <p>
+         </p>
+         <p>By implementing robust fire prevention measures, ships can significantly reduce the risk of fire, enhance the crew's safety, and protect the marine environment from potential devastation.</p>
+      </subsection>
+      <subsection xml:id="safety-fatigue">
+         <title>Fatigue</title>
+         <objectives>
             <ul>
-              <li>Develop and Implement the SMS: The company is responsible for developing and implementing a documented Safety Management System (SMS) for each ship under its management. The SMS should encompass policies, procedures, and instructions that promote safe operations and environmental protection.</li>
-              <li>Appoint a Designated Person Ashore (DPA): The company must appoint a Designated Person Ashore (DPA) who serves as a liaison between the company and the ship. The DPA ensures that the SMS is effectively implemented, maintained, and continuously improved.</li>
-              <li>Provide Adequate Resources: The company must provide the necessary resources, including personnel, equipment, training, and support, to enable the ship to comply with the ISM Code and operate safely.</li>
-              <li>Conduct Audits and Reviews: The company is responsible for conducting internal audits and reviews of the SMS to assess its effectiveness and identify areas for improvement. These audits ensure that the SMS is being followed and that any non-conformities are addressed.</li>
-              <li>Maintain Documentation: The company must maintain comprehensive documentation of the SMS, including policies, procedures, instructions, and records. This documentation serves as evidence of compliance and provides a reference for shipboard personnel.</li>
+               <li>
+                  <url href="https://weh.maritime.edu/stcw/2023/tables/614.html#PSSR-X6.1"
+                       visual="PSSR-X6.1"/> Importance of obtaining the necessary rest</li>
+               <li>
+                  <url href="https://weh.maritime.edu/stcw/2023/tables/614.html#PSSR-X6.2"
+                       visual="PSSR-X6.2"/> Effects of sleep, schedules, and the circadian rhythm on fatigue</li>
+               <li>
+                  <url href="https://weh.maritime.edu/stcw/2023/tables/614.html#PSSR-X6.3"
+                       visual="PSSR-X6.3"/> Effects of physical stressors on seafarers</li>
+               <li>
+                  <url href="https://weh.maritime.edu/stcw/2023/tables/614.html#PSSR-X6.4"
+                       visual="PSSR-X6.4"/> Effects of environmental stressors in and outside the ship and their impact on seafarers</li>
+               <li>
+                  <url href="https://weh.maritime.edu/stcw/2023/tables/614.html#PSSR-X6.5"
+                       visual="PSSR-X6.5"/> Effects of schedule changes on seafarer fatigue</li>
             </ul>
-          </p>
-        </paragraphs>
-        <p>By fulfilling these obligations, everyone works together to promote a culture of safety, prevent accidents, protect the environment, and continuously improve the safety standards in the maritime industry.</p>
-      </subsubsection>
-      <subsubsection xml:id="safety-solas">
-        <title>SOLAS</title>
-        <p>The <term>International Convention for the Safety of Life at Sea</term> (SOLAS) is an international treaty developed by the <term>International Maritime Organization</term> (IMO) in 1914, following the sinking of the Titanic, one of the most famous maritime disasters in history.</p>
-        <p>SOLAS sets out minimum safety standards for the construction, equipment, and operation of ships in order to prevent accidents at sea and ensure that ships are well-prepared to handle emergencies.</p>
-        <p>
-          Key aspects and provisions of SOLAS include:
-          <ul>
-            <li>
-              <title>Structural Integrity</title>
-              <p>It defines requirements for ship construction, stability, and subdivision to ensure that vessels are built to withstand the stresses of the marine environment.</p>
-            </li>
-            <li>
-              <title>Safety Equipment</title>
-              <p>SOLAS mandates the provision of life-saving appliances such as lifeboats, life rafts, lifejackets, and distress signaling equipment on board.</p>
-            </li>
-            <li>
-              <title>Fire Safety</title>
-              <p>The treaty outlines measures for preventing and combating fires on board ships, including fire detection systems, fire-fighting equipment, and fire drills.</p>
-            </li>
-            <li>
-              <title>Navigation Safety</title>
-              <p>SOLAS includes regulations for navigational equipment, including navigation lights, radar systems, and the use of electronic navigation aids.</p>
-            </li>
-            <li>
-              <title>Radio Communications</title>
-              <p>SOLAS establishes regulations for navigation and communication equipment, including requirements for radar systems, navigational aids, and communication devices to ensure safe navigation and effective communication, ensuring that vessels can call for assistance in case of emergencies.</p>
-            </li>
-            <li>
-              <title>Training and Drills</title>
-              <p>SOLAS mandates regular safety training and drills for the crew, including procedures for abandoning ship, using life-saving equipment, and responding to emergencies.</p>
-            </li>
-          </ul>
-        </p>
-      </subsubsection>
-      <subsubsection xml:id="safety-osha---29cfr">
-        <title>OSHA &amp; 29CFR</title>
-        <p><term>OSHA</term> , the Occupational Safety and Health Administration, is a U.S. federal agency under the Department of Labor. OSHA's primary mission is to ensure safe and healthy working conditions for employees by enforcing workplace safety regulations, conducting inspections, and providing resources to help employers and workers prevent workplace injuries, illnesses, and fatalities.</p>
-        <p>
-          OSHA regulations are found in the <term>US Code of Federal Regulations</term>, Title 29 CFR Part 1910  where they address many aspects of workplace safety, including:
-          <ul cols="2">
-            <li>Personal Protective Equipment (PPE)</li>
-            <li>Lockout/Tagout (LOTO)</li>
-            <li>Confined Spaces</li>
-            <li>Electrical Safety</li>
-            <li>Machine Guarding</li>
-            <li>Fall Protection</li>
-            <li>Welding, Cutting, and Brazing</li>
-            <li>Respiratory Protection</li>
-            <li>Chemical Exposure</li>
-            <li>Hazard Communication</li>
-          </ul>
-        </p>
-        <p>It's important to note that OSHA regulations mainly pertain to workplaces on land. For most safety matters on board ship, the U.S. Coast Guard and international maritime regulations (such as SOLAS) take precedence; however OSHA regulations are sensible guidance that should be followed whenever possible whether you are working at sea, at a shore job, or even at home.</p>
-      </subsubsection>
-    </subsection>
-    <subsection xml:id="safety-job-hazard-analysis">
-      <title>Job Hazard Analysis</title>
-      <p>A <term>job hazard analysis</term> (JHA), also known as a <term>job safety analysis</term> (JSA), is a systematic process used to identify and analyze potential hazards or risks associated with specific job tasks or activities. Its primary purpose is to reduce the risk of accidents by identifying potential hazards and developing appropriate controls to mitigate them.</p>
-      <p>The process typically involves breaking down a job into its individual steps  and examining each step to identify potential hazards. Hazards can include physical hazards (e.g., machinery, equipment, or environmental conditions), chemical hazards (e.g., exposure to hazardous substances), biological hazards (e.g., exposure to infectious agents), ergonomic hazards (e.g., repetitive motion or lifting heavy objects), or any other factors that could pose a risk to worker safety and health.</p>
-      <p>
-        The key steps in conducting a job hazard analysis typically include:
-        <ol>
-          <li>Select the job or task to be analyzed.</li>
-          <li>Break down the job into steps.</li>
-          <li>Identify potential hazards for each step.</li>
-          <li>
-            <p>Determine the risk level for each identified hazard.  Risk level multiplies severity and the likelihood of each identified hazard.</p>
-          </li>
-          <li>Develop hazard controls to eliminate or minimize the hazards. This might include engineering controls (e.g., machine guarding), administrative controls (e.g., training or procedures), or personal protective equipment (PPE)</li>
-          <li>Communicate the findings to workers and stakeholders to ensure awareness and buy-in.</li>
-          <li>Regularly review and update the job hazard analysis.</li>
-        </ol>
-      </p>
-      <p>This results of the JHA can be shared with the crew during a <term>toolbox talk</term> in order to raise awareness about known hazards, reinforce safe work practices, and promote a culture of safety. These talks are usually conducted before the start of the work day.</p>
-      <p>Systematically analyzing and communicating job hazards and implementing appropriate controls helps to create a safer workplace.</p>
-      <figure xml:id="safety-jha">
-        <caption>Sample Job Hazard Analysis Form</caption>
-        <image source="images/jha.png"/>
-      </figure>
-    </subsection>
-    <subsection xml:id="safety-permit-to-work">
-      <title>Permit to work</title>
-      <p>A <term>permit to work</term> is a document used to control hazardous activities conducted onboard a ship. It is a written authorization that specifies the work to be performed, identifies the potential hazards involved, and outlines the necessary precautions and safety measures.</p>
-      <p>Permits to work are required for dangerous jobs such as hot work  (welding or burning), confined space entry, working at heights, electrical work, handling hazardous substances, hoisting operations, etc.</p>
-      <p>The permit to work system is designed to prevent accidents, injuries, and damage to the ship and its equipment by ensuring that work activities are conducted in a controlled manner. It helps to manage high-risk tasks and ensure that proper procedures are followed.</p>
-      <figure xml:id="hot-work-tag">
-        <caption>Hot Work Tag</caption>
-        <image source="images/hot-work-tag.png" width="75%">
-          <remix>Source:  https://www.idescosafety.com/</remix>
-        </image>
-      </figure>
-    </subsection>
-    <subsection xml:id="safety-lockout-tagout">
-      <title>Lockout-Tagout</title>
+         </objectives>
+         <p>Fatigue, which refers to a state of extreme tiredness and lack of energy, can pose several risks.   The primary cause of fatigue is insufficient or poor-quality sleep.  To avoid fatigue, it's important to prioritize adequate rest and sleep, and maintain a healthy lifestyle.</p>
+         <p>Other factor which can contribute to fatigue include: medical conditions such as chronic fatigue syndrome, anemia, and thyroid disorders; depression and anxiety, and unhealthy lifestyle habits, including inadequate physical activity, poor nutrition, excessive caffeine or alcohol intake, and smoking. Certain medications have fatigue as a side effect. </p>
+         <p>The negative consequences of fatigue include:</p>
+         <p>Fatigue can significantly impair cognitive abilities, including attention, concentration, memory, and decision-making. This can lead to reduced performance and increased errors, particularly in tasks that require sustained focus or critical thinking, such as driving, operating machinery, or performing complex work.</p>
+         <p>Fatigue can slow down reaction times and impair alertness, making it more challenging to respond quickly and appropriately to stimuli or unexpected events. This can increase the risk of accidents, both in occupational settings and during activities like driving or operating heavy equipment.</p>
+         <p>Fatigue-related impairment can lead to an increased risk of accidents and injuries across various domains, including workplaces, roadways, and other high-risk environments. Fatigue-related accidents have been linked to major incidents in industries such as transportation, healthcare, and manufacturing.</p>
+         <p>Fatigue can impair an individual's ability to assess risks accurately and make sound judgments. This can result in poor decision-making, potentially leading to safety hazards or negative consequences in various aspects of life, including personal relationships and professional responsibilities.</p>
+         <p>The IMO has developed guidelines for rest requirements to address the issue of fatigue among seafarers. These guidelines are outlined in the International Convention on Standards of Training, Certification, and Watchkeeping for Seafarers (STCW Convention). </p>
+         <p>The STCW Convention sets out minimum hours of rest for seafarers. The standard requires that seafarers receive a minimum of 10 hours of rest in any 24-hour period and a minimum of 77 hours of rest in any 7-day period. The hours of rest may be divided into no more than two periods, with one period being at least 6 hours in length.</p>
+         <p>In situations where the safety of the ship, crew, or passengers is compromised, and in cases of emergencies or drills, the rest period may be temporarily shortened or interrupted. However, the seafarers should be provided with compensatory rest as soon as possible.</p>
+      </subsection>
+      <subsection xml:id="safety-confined-spaces">
+         <title>Confined Spaces</title>
+         <objectives>
+            <ul>
+               <li>
+                  <url href="https://weh.maritime.edu/stcw/2023/tables/35.html#ABE-C3.1"
+                       visual="ABE-C3.1"/> Working in enclosed spaces</li>
+               <li>
+                  <url href="https://weh.maritime.edu/stcw/2023/tables/614.html#PSSR-X3.3"
+                       visual="PSSR-X3.3"/> Precautions to be taken prior to entering enclosed spaces</li>
+            </ul>
+         </objectives>
+         <p>A confined space is defined by OSHA as a space that has limited or restricted means of entry, is not designed for continuous occupancy, and is large enough and configured so that a person can enter the space and maneuver well enough to perform tasks.  </p>
+         <p>Confined spaces pose several hazards that can endanger workers who enter  them due to their limited entry and exit points, restricted airflow, and potential for hazardous atmospheres. </p>
+         <p>On ships, some examples of confined spaces include:  Cargo and fuel tanks, cofferdams, pressure vessels, sewage tanks, and void spaces. </p>
+         <figure xml:id="confined-space-sign">
+            <caption> Confined Space Hazards  </caption>
+            <image source="images/confined-space-sign.png" width="50%">
+               <remix>
+                  <source>smartsign.com  </source>
+               </remix>
+            </image>
+         </figure>
+         <p>Here are some hazards associated with confined spaces:</p>
+         <paragraphs>
+            <title>Lack of oxygen</title>
+            <p>Confined spaces often have limited ventilation, which can lead to a decrease in oxygen levels. This oxygen-deficient atmosphere can cause dizziness, loss of consciousness, or even asphyxiation.</p>
+         </paragraphs>
+         <paragraphs>
+            <title>Toxic gases and vapors</title>
+            <p>Confined spaces may contain hazardous gases or vapors, such as carbon monoxide, hydrogen sulfide, or volatile chemicals. These substances can accumulate in the confined space and pose a serious health risk to individuals who inhale them, leading to poisoning or respiratory problems.</p>
+         </paragraphs>
+         <paragraphs>
+            <title>Fire and explosion risks</title>
+            <p>Confined spaces may contain flammable substances, inadequate electrical systems, or potential ignition sources. This combination can result in the rapid escalation of fire or explosion hazards, especially in spaces with limited airflow and potential fuel accumulation.</p>
+         </paragraphs>
+         <paragraphs>
+            <title>Engulfment or entrapment</title>
+            <p>Confined spaces often have small openings or tight access points. If an individual becomes trapped or engulfed by materials, such as loose soil, water, or flowing grain, it can lead to serious injury, suffocation, or drowning.</p>
+         </paragraphs>
+         <paragraphs>
+            <title>Physical hazards</title>
+            <p>Confined spaces may have uneven surfaces, protruding objects, or low ceilings, increasing the risk of slips, trips, falls, and head injuries. Limited visibility and restricted movement within the space can further contribute to accidents and make rescue difficult.</p>
+         </paragraphs>
+         <paragraphs>
+            <title>Extreme temperatures</title>
+            <p>Some confined spaces can experience extreme temperatures due to insulation issues, lack of ventilation, or the presence of heat-generating equipment. Excessive heat or cold can cause thermal discomfort, heat exhaustion, hypothermia, or heat stroke.  </p>
+            <p>Emergency repairs to boilers must sometimes be made before the boiler has had a chance to cool down.</p>
+         </paragraphs>
+         <paragraphs>
+            <title>Biological hazards</title>
+            <p>In certain confined spaces, such as sewage tanks or areas with stagnant water, there may be an increased risk of exposure to bacteria, viruses, or mold, which can lead to respiratory issues, allergies, or infectious diseases.</p>
+         </paragraphs>
+         <p>For safe entry into a confined space, everyone involved should be properly trained on confined space entry and rescue techniques and strictly comply with all regulations and guidelines governing confined space entry. </p>
+         <p>Begin by conducting a thorough risk assessment to identify potential hazards and establish necessary control measures. Inspect the equipment used for entry to guarantee its reliability. </p>
+         <p>Ensure proper ventilation is in place, to maintain fresh air and remove hazardous substances. Test the atmosphere using gas detection equipment before entering to verify safe conditions. Wear the appropriate personal protective equipment (PPE), including respiratory protection and fall protection gear. </p>
+         <p>Maintain proper lighting to ensure visibility within the confined space. Establish effective communication systems between individuals inside and outside the space. Designate a standby person outside the space, equipped with rescue training, to provide immediate assistance if required. </p>
+      </subsection>
+   </section>
+   <section xml:id="Hazard_mitigation">
+      <title>Hazard Mitigation</title>
       <objectives>
-        <ul>
-          <li><url href="https://weh.maritime.edu/stcw/2023/tables/35.html#ABE-C3.1" visual="ABE-C3.1"/> Lockout/tag-out</li>
-        </ul>
+         <ul>
+            <li>
+               <url href="https://weh.maritime.edu/stcw/2023/tables/31.html#OICEW-C2.1"
+                    visual="OICEW-C2.1"/> Safe isolation of shipboard machinery and equipment before personnel are permitted to work</li>
+            <li>
+               <url href="https://weh.maritime.edu/stcw/2023/tables/31.html#OICEW-C2.1"
+                    visual="OICEW-C2.1"/> Safety measures to be taken for repair and maintenance</li>
+            <li>
+               <url href="https://weh.maritime.edu/stcw/2023/tables/35.html#ABE-C3.1"
+                    visual="ABE-C3.1"/> Permit to work systems</li>
+         </ul>
       </objectives>
-      <sidebyside margins="0%" valign="middle" width="48%">
-        <p><term>Lockout-Tagout</term> (LOTO) is a safety procedure used to ensure that dangerous equipment is properly shut down, isolated from energy sources, and secured while undergoing maintenance or repair. The goal of LOTO is to prevent unexpected startup or release of stored energy, which could lead to serious injuries or fatalities for workers involved in maintenance or repair activities.</p>
-        <figure xml:id="fig_612524341066_T9-13">
-          <caption>Lockout Tag</caption>
-          <image source="images/612524341066_T9-13.png" width="40%">
-            <remix>https://www.idescosafety.com/</remix>
-          </image>
-        </figure>
-      </sidebyside>
-      <p><term>Lockout</term> refers to disabling a piece of equipment or machinery by isolating it from its energy sources (electrical, mechanical, hydraulic, pneumatic, chemical, thermal or other), and placing a physical lock on the isolating devices (such as switches, valves, or breakers) that control those energy sources.</p>
-      <p>
-        <term>Tagout</term>refers to affixing a label or tag that communicates information about equipment's status and the ongoing maintenance activities. The tag typically includes information about the equipment being serviced, the reason for the lockout/tagout, the name of the authorized person who applied the lock and tag, contact information, and the expected duration of the job
-        <etc/>
-      </p>
-      <p>
-        The steps of the LOTO process are:
-        <ol>
-          <li>Identify the equipment or machinery that needs maintenance or repair.</li>
-          <li>Inform all affected personell that a LOTO procedure will be performed on the identified equipment.</li>
-          <li>Shut down the equipment using the appropriate procedures outlined in the manufacturer's instructions or company protocols.</li>
-          <li>Physically isolate the equipment from its energy sources. This might involve locking out switches, valves, or other control mechanisms. In some cases, this can involve disconnecting power sources, bleeding fluids, or other actions to ensure there's no energy flowing to the equipment.</li>
-          <li>Place a lock on the energy-isolating device to prevent it from being operated. A tag is also attached to the lock indicating who performed the lockout and why. This helps communicate that the equipment is being worked on and should not be operated.</li>
-          <li>Ensure that any residual or stored energy in the equipment is safely released. This might involve releasing pressure, tension, or any other forms of stored energy.</li>
-          <li>Verify that the equipment is truly isolated by attempting to start or activate it. This step is important to confirm that the energy sources have been effectively disconnected.</li>
-          <li>Perform the necessary maintenance, repairs, or servicing on the equipment while it is in the locked and tagged state.</li>
-          <li>Once the maintenance or servicing is complete, the person who performed the LOTO procedure removes the locks and tags, and the equipment is ready to be safely restarted.</li>
-        </ol>
-      </p>
-    </subsection>
-  </section>
-  <section xml:id="ppe">
-    <title>Personal Protective Equipment</title>
-    <introduction>
-      <p><term>Personal protective equipment</term> (PPE) includes all clothing and other work accessories designed to create a barrier against workplace hazards. It provides an important link in the chain of workplace safety, but PPE alone is not a substitute for safe engineering design, proper training, good work practices, safety awareness, or hazard reduction. All these elements together are required to minimize the danger of workplace hazards and maximize the safety and health of workers.</p>
-      <p>Using personal protective equipment requires hazard awareness and training on the part of the user. You must be trained to know when personal protective equipment is necessary, what type is necessary, how it is to be worn, and what its limitations are, as well as know its proper care, maintenance, useful life, and disposal. In addition, you must be aware that the equipment does not eliminate the hazard. If the equipment fails, you can be injured. To reduce the possibility of failure, equipment must be properly fitted, and maintained in a clean and serviceable condition.</p>
-      <p>To protect yourself, you must be wearing the proper personal protective when it is needed and recognize its limitations. The equipment must not be altered or removed even though you may find it uncomfortable. In some cases however, the equipment may be uncomfortable because it does not fit properly.</p>
-      <p>In this chapter we will discuss some of the personal protective equipment normally found and used aboard ship.</p>
-    </introduction>
-    <subsection xml:id="safety-head-protection">
-      <title>Head Protection</title>
-      <p>Head injuries are caused by falling or flying objects, or by bumping your head against a fixed object. Head protection, in the form of protective hats, must do two things – resist penetration and absorb the shock of the blow. This is accomplished by making the shell of the hat of a material hard enough to resist the blow, and by utilizing a shock-absorbing lining composed of headband and crown straps to keep the shell away from the wearer’s skull. Protective hats are also used to protect against electric shock.</p>
-      <figure xml:id="fig_head_protection">
-        <caption>Head Protection</caption>
-        <sidebyside valign="middle" width="25%">
-          <image source="images/hardhat1.png"/>
-          <image source="images/hardhat2.png"/>
-          <image source="images/hardhat3.png"/>
-        </sidebyside>
-      </figure>
-      <p>There are several types of hard hats available, each designed for specific purposes and levels of protection.</p>
-      <p><term>Class G (General)</term> hard hats and caps are intended for general service and they provide protection against impact hazards and a limited protection against electrical shock (up to 2,200 V). They are used in industries such as construction, manufacturing, mining, and shipbuilding. This is the most suitable hard hat for shipboard use.</p>
-      <p><term>Class E (Electrical)</term> hard hats are utility service hats which are designed to protect the wearer’s head from impact and penetration by falling or flying objects and from high-voltage shock (up to 20,000 V). They are used extensively by electrical workers.</p>
-      <p><term>Class C (Conductive)</term> hard hats or caps, are designed to be light and comfortable while protecting against impact hazards, but they <em>do not</em> provide any protection against contact with electrical conductors. Class C hats often have a front brim to protect the face from sun, reduce glare, and help shed rain. They are used on occasions where there is a possibility of falling objects or bumping the head, but no risk of electrical shock.</p>
-      <p><term>Bump caps</term> are less obtrusive than hard hats and are designed to provide comfortable, lightweight but they have limited protection against minor head bumps, knocks, and scrapes.  They in environments where there is a risk of hitting the head on objects such as low ceilings, beams, or equipment. They are not meant a substitute for a hard hat because they do not afford protection from high electrical shock, high impact forces, or penetration by falling objects, and they are not OSHA approved, so they can not be used in situations where a hard hat is required.</p>
-      <p>Before using a hard hat you should inspect it for signs of damage or abuse of the helmet or any of its parts. A damaged helmet reduces the margin of safety the hat was designed to supply, and should be replaced immediately.</p>
-      <p>Correct adjustment and fit of the your hard hat is required for maximum safety. The internal cradle of the headband and sweatband forms a suspension system which keeps the helmet away from the head and cushions against impact. The headband must be adjusted to the right size in order to provide sufficient clearance between the shell and the headband.</p>
-    </subsection>
-    <subsection xml:id="safety-eye-protection">
-      <title>Eye Protection</title>
-      <p>Every day more than 1,000 eye injuries occur in American workplaces. The US Bureau of Labor Statistics found that three out of five workers who suffered eye injuries were not wearing eye protective equipment at the time of the accident, and when asked why, the victims often claimed that eye protection was not normally used in their type of work, or it was not required for the type of work performed at the time of the accident. Eye protection can save your sight, but you must be wearing it.</p>
-      <p>Eye injuries can occur in many ways, but are primarily caused by rapidly flying objects. The BLS found that almost 70% of eye injuries were caused by flying or falling objects or sparks striking the eye. Most of these objects were smaller than a pin head, and were traveling faster than a hand-thrown object. Another 20% of eye injuries were caused by chemicals, and the remainder due to miscellaneous causes such as objects swinging into the eye, pulled into the eye or by light radiation.</p>
-      <p>Eye injuries can be prevented by wearing effective eye protection. To be effective, the eyewear must be of the appropriate type for the hazard encountered and properly fitted. The BLS survey found that 94% of the injuries to workers wearing eye protection were caused by objects or chemicals going around or under the protector. Goggles provide better protection than face shields or safety glasses, but the best protection is afforded when both goggles and a face shield are worn together.</p>
-      <p>The three main types of eye protection for general maintenance are safety glasses, goggles, and face shields. In addition, when welding, specialized equipment must be used to protect your eyes. Each method of eye protection has its own advantages and disadvantages.</p>
-      <figure xml:id="fig_eye_protection">
-        <caption>Eye Protection</caption>
-        <sidebyside valign="middle" width="25%">
-          <image source="images/glasses1.png"/>
-          <image source="images/glasses2.png"/>
-          <image source="images/glasses3.png"/>
-          <image source="images/glasses4.png"/>
-        </sidebyside>
-      </figure>
-      <p><term>Safety glasses</term> are lightweight glasses that have shatter resistant lenses made of materials like polycarbonate or propionate plastic and often have side shields attached to the side pieces. Safety glasses are designed to stop flying objects such as chips, fragments, sand, and dirt from injuring your eyes. They also can provide laser light filtration to prevent reflections from the laser entering the eye and causing retinal burns. Safety glasses can be purchased with prescription lenses including bifocals if necessary.</p>
-      <p>The main advantage of safety glasses is that they are lightweight and relatively comfortable to wear for long periods of time. The provide little to no protection from liquids or vapors, and some flying particles may get around the side shields.</p>
-      <p><term>Safety goggles</term> provide more complete protection of the eye than safety glasses, since they protect against both frontal and side impact. They come in two different types, vented and non-vented. Vented goggles are used to protect your eyes from splashes and flying objects, while Non-vented Goggles additionally protect your eyes from hazardous vapors, mists, and fumes.</p>
-      <p><term>Face shields</term> are designed to augment other types of eye protection and are not meant to be a stand alone form of eye protection. Face shields are used to protect your entire face with goggles on under the shield to catch any liquids that might make it past the shield.</p>
-      <p><term>Welding helmets</term> are specialized helmets are used by welders to protect their eyes and face from the intense light, sparks, and heat generated during welding processes. They often feature auto-darkening lenses that adjust the shading based on the brightness of the welding arc.</p>
-      <p>Always wear a welding helmet when arc welding. Your eyes, face, and neck need protection against the burning rays of the arc, and from the splatter of molten metal and slag. To protect your eyesight, make sure the welding helmet has a colored lens with at least a No. 10 shade when welding with 200 amperes or less. And never strike a welding arc before your helmet is in place. Never look at an arc from any distance with your naked eyes while someone else is welding.</p>
-      <p>Never chip slag when your eyes (or those of others nearby) are not protected by goggles, an eye shield, or the clear lens of a welding helmet. If fragments of hot slag were to hit the eye, medical attention would be required for their removal, and blindness could result. The risk of permanent eye injury is so great that you should never chip slag from a weld without protecting your eyes.</p>
-    </subsection>
-    <subsection xml:id="safety-hearing-protection">
-      <title>Hearing Protection</title>
-      <p>Over the years, many marine engineers have suffered permanent hearing loss due to hours of exposure to the high noise levels in the engine room. You can prevent the loss of your own hearing by using proper hearing protection such as earplugs and earmuffs religiously whenever you are exposed to loud noises.</p>
-      <p>Your ear is a delicate instrument which contains thousands of fine hair cells called cilia to detect sounds. Prolonged exposure to loud noises can injure or break these cells or even tear off groups of these cells. Since the hair cells don’t ever repair themselves, when enough of them are damaged, a hearing loss results.</p>
-      <p>Short, intense, sounds such as an explosion can cause immediate and permanent hearing loss, but most hearing loss occurs gradually due to prolonged exposure to high noise levels. Most of the time this loss is so gradual that you are not even aware that it is occurring. Hearing loss is progressive and will continue to get worse as you continue to expose yourself to a noisy environment, but if you can avoid further exposure, the hearing loss won’t get any worse.</p>
-      <p>Permanent hearing loss is not the only hazard associated with noisy environments. Tinnitus is a condition where a ringing or roaring sound is heard continuously in one or both ears. Tinnitus occurs when the hair cells are damaged in such a way that they produce sound signals to the brain even in the absence of actual stimulation. This noise is sometimes described as like having a cricket permanently stuck in your ear, and is very annoying.</p>
-      <p>Sound intensity is measured in units of <term>decibels</term> (dB). The decibel scale is a logarithmic scale in which 0 dB indicates the quietest sound that can be heard by a normal person. A quiet library is about 20 dB. A normal conversation occurs at a sound level of about 60 dB. A lawnmower produces about 85 dB, and at this level you should be wearing hearing protection. Sandblasting or a rock concert has a sound intensity of about 115 dB. At this level hearing damage can occur after only about 15 minutes of unprotected exposure.</p>
-      <p>According to OSHA regulations, when the 8 hour average noise exposure is above 85 dB, employers are required to institute a noise monitoring program, provide adequate hearing protectors, and ensure employees wear them. Continual, unprotected exposure to noises louder than 85 decibels for 8 hours or more can be dangerous, and may result in hearing loss.</p>
-      <p>You can easily tell if you should be wearing hearing protection. If you find yourself in a situation where it is too noisy to carry on a conversation at arms length, or if you notice that your ears ring or feel plugged for a time after leaving a noisy environment, you can be sure that you should have been wearing your hearing protection.</p>
-      <p>Here are some commonly available hearing protection devices:</p>
-      <figure xml:id="fig_earplugs">
-        <caption>Hearing Protection</caption>
-        <sidebyside valign="middle" width="25%">
-          <image source="images/earplugs1.png"/>
-          <image source="images/earplugs2.png"/>
-          <image source="images/earplugs3.png"/>
-          <image source="images/earplugs4.png"/>
-        </sidebyside>
-      </figure>
-      <p><term>Disposable foam plugs</term> Foam plugs are inexpensive devices made of a formable material designed to expand to fit to the shape of each person’s ear canal. To use, roll the expandable plugs into a thin, crease-free cylinder, and insert it into the ear canal. Apply a slight pressure to the plug until the foam completely expands. These plugs can be reused a couple of times, but never reuse them if they have become dirty. Some people may find that the standard expandable plug is too large for their ear canal, and may find that the smaller plug model fits better.</p>
-      <p><term>Reusable, pre-molded plugs</term> Pre-molded plugs are made from silicone, plastic or rubber and are manufactured as either as a custom fit,  or are available in several standard sizes. Be sure to choose the proper size for your ear canals. In some cases, different size plugs may be required for each ear. The advantage of pre-molded plugs are that they are inexpensive, reusable, washable, convenient to carry, and come in a variety of sizes. Nearly everyone can find a plug that will be comfortable and effective. Another advantage is that in a dirty environment like the engine room, you don’t need to handle or roll the tips. You insert this type of plug by reaching over your head with one hand to pull up on your ear. Then use your other hand to insert the plug with a gentle rocking motion until you have sealed the ear canal.</p>
-      <p><term>Hearing Bands</term> Hearing Bands, also called canal caps or semi-insert devices often resemble earplugs on a flexible plastic or metal band. The earplug tips of a canal cap may be a formable or pre-molded material. Some have headbands that can be worn over the head, behind the neck or under the chin. The main advantage of canal caps is their convenience They are easy to put on and take off . When it’s quiet, employees can leave the band hanging around their necks, but they can quickly insert the plug tips when hazardous noise starts again. These devices are ideal for intermittent use, but they provide less protection than either plugs or muffs. Some people find the pressure from the bands uncomfortable.</p>
-      <p><term>Over-the-Ear Earmuffs</term> These are designed to cover the entire ear and provide a physical barrier to block out noise. They are often adjustable for a better fit.</p>
-      <assemblage xml:id="what_is_a_decibel">
-        <title>What is a Decibel?</title>
-        <p>The Decibel (dB) is a logarithmic unit used to describe a ratio. The ratio may be power, or voltage or intensity or several other things. To get a taste for logarithmic units, first let’s look at some numbers: Suppose we have two loudspeakers, the first playing a sound with power <m>P_1</m> , and another playing a louder version of the same sound with power <m>P_2</m> , but everything else (how far away, frequency) is kept the same. The difference in decibels between the two is given by <me>10 \log (P_2/P_1) \text{ dB}</me> where the log is to base 10.</p>
-        <p>If the second produces twice as much power than the first, the difference in dB is <me>10 \log (P_2/P_1) = 10 \log 2 = 3 \text{ dB}</me> . If the second had 10 times the power of the first, the difference in dB would be <me>10 \log (P_2/P_1) = 10 \log 10 = 10 \text{ dB}</me> B. If the second had a million times the power of the first, the difference in dB would be <me>10 \log (P_2/P_1) = 10 \log 1,000,000 = 60 \text{ dB}</me> . This example shows one feature of decibel scales that is useful in discussing sound: they can describe very big ratios in power with numbers of modest size.</p>
-        <p>Sound is usually measured with microphones and they respond (approximately) proportionally to the sound pressure, <m>p</m> . The power in a sound wave is approximately equal to the square of the pressure. Since the log of the square of <m>x</m> is just <m>2 \log x</m> , this introduces a factor of 2 when we convert to decibels for pressures. Therefore the difference in sound pressure level between two sounds with <m>p_1</m> and <m>p_2</m> is defined as: <me>20 \log (p_2/ p_1) \text{ dB}</me> where the log is to base 10.</p>
-        <p>This formula involves a ratio of pressures, so to measure the sound level for a single sound, a reference level must be chosen. For sound intensity, the reference level (for air) is usually chosen as 20 micropascals, or 0.02 mPa. This is very low: it is 2 ten billionths of an atmosphere. Nevertheless, this is about the limit of sensitivity of the human ear, in its most sensitive range of frequency. Usually this sensitivity is only found in rather young people or in people who have not been exposed to loud music or other loud noises. Personal music systems with in-ear speakers are capable of very high sound levels in the ear, and are responsible for much of the hearing loss in young adults in developed countries. So if you read of a sound intensity level of 86 dB, it means that <m>20 \log (p_2/p_1) = 86</m> dB where <m>p_1</m> is the sound pressure of the reference level, and <m>p_2</m> that of the sound in question. Divide both sides by 20: <m>\log (p_2/p_1) = 4.3</m> dB. 4 is the log of 10 thousand, 0.3 is the log of 2, so this sound has a sound pressure 20 thousand times greater than that of the reference level. 86 dB is a loud but not dangerous level of sound, if it is not maintained for very long.</p>
-        <p>What does 0 dB mean? This level occurs when the measured intensity is equal to the reference level. i.e., it is the sound level corresponding to 0.02 mPa. In this case we have sound level <me>= 20 \log (p / p_{ref}) = 20 \log 1 = 0 \text{ dB}</me> . So 0 dB does not mean no sound, it means a sound level where the sound pressure is equal to that of the reference level. This is a small pressure, but not zero. It is also possible to have negative sound levels: - 20 dB would mean a sound with pressure 10 times smaller than the reference pressure, i.e. 2 micropascals.</p>
-      </assemblage>
-    </subsection>
-    <subsection xml:id="safety-respiratory-protection">
-      <title>Respiratory Protection</title>
       <introduction>
-        <p>A respirator is a face piece, hood, or helmet that is designed to protect the user from a variety of harmful airborne agents. Respirators can protect you from dust and particulates in the air, hazardous vapors, oxygen deficiency, or a combination of these. Respirators are not necessary for routine operations in the engine room, but may be advisable during certain maintenance procedures such as chipping and painting.</p>
-        <p>
-          OSHA regulations require that respirators shall be used in the following circumstances:
-          <ul>
-            <li>Where exposure levels exceed the <term>permissible exposure limit</term> (PEL), during the time period necessary to install or implement feasible engineering and work practice controls;</li>
-            <li>In those maintenance and repair activities and during those brief or intermittent operations where exposures exceed the PEL and engineering and work practice controls are not feasible or are not required;</li>
-            <li>In regulated areas;</li>
-            <li>Where the employer has implemented all feasible engineering and work practice controls and such controls are not sufficient to reduce exposures to or below the PEL; and,</li>
-            <li>In emergencies.</li>
-          </ul>
-        </p>
-        <p>Before using a respirator you should be thoroughly trained in its use. Some of the areas that you should be familiar with include: respiratory hazards; respirator selection criteria, limitations, adjustment, fit, cleaning, and storage procedures, etc. The selection of a suitable respirator depends on the hazard to which you are exposed, and the correct respirator cannot be selected without a thorough understanding of the hazard.</p>
-        <p>OSHA divides respirators into two categories: <term>Air-purifying</term> and <term>Atmosphere-supplying</term> respirators.</p>
+         <p>TBD</p>
       </introduction>
-      <subsubsection xml:id="safety-air-purifying-respirators">
-        <title>Air-purifying Respirators</title>
-        <figure xml:id="fig_masks">
-          <caption>Air-purifiying respirators</caption>
-          <sidebyside valign="middle" width="25%">
-            <image source="images/mask2.png"/>
-            <image source="images/mask3.png"/>
-            <image source="images/mask1.png"/>
-          </sidebyside>
-        </figure>
-        <p>
-          These units have filters, cartridges, or canisters that remove contaminants from the air by passing the air through the air-purifying element before it reaches the user. Air purifying respirators are further divided into:
-          <ul>
-            <li><term>Particulate Respirators</term> , which capture particles such as dusts, paint fumes, and mists, but do not protect against gases and vapors. The filters in particulate respirators generally work better as particles accumulate on the filter. If the filter becomes so clogged that it is difficult to breathe, it should be replaced.</li>
-            <li><term>Gas and Vapor Respirators</term> , which use a chemical cartridge or canister to remove dangerous gases or vapors, but which do not protect against airborne particles. These units only protect against specific gases or vapors, and only provide protection as long as the filter’s absorbing capacity remains.</li>
-            <li><term>Combination Respirators</term> , which can be used in atmospheres that contain both hazardous gases and particles.</li>
-          </ul>
-        </p>
-      </subsubsection>
-      <subsubsection xml:id="safety-atmosphere-supplying-respirators">
-        <title>Atmosphere-supplying Respirators</title>
-        <figure xml:id="fig_respirators">
-          <caption>Atmosphere-supplying respirators</caption>
-          <sidebyside valign="middle" width="33%">
-            <image source="images/respirator2.png"/>
-            <image source="images/respirator1.png"/>
-          </sidebyside>
-        </figure>
-        <p>
-          These units supply clean air directly to the user from a source other than the air surrounding the user. The types of air-supplying respirators are:
-          <ul>
-            <li><term>Air Supplied Respirators</term> , which have a hose which connects to a source of clean air under pressure. These units have no time limit on the air supply, but the hose limits the range and mobility of the user and is susceptible to damage.</li>
-            <li><term>Self-Contained Breathing Apparatus</term> , which have a wearable clean-air supply pack. These units have better mobility than the air-supplied respirator, but the clean air time is limited to the capacity of the tank.</li>
-            <li><term>Combination Respirators</term> , which are similar to the air-supplied respirators, but also have a small, self-contained air supply which can be used for escape if the primary supply fails.</li>
-          </ul>
-        </p>
-      </subsubsection>
-    </subsection>
-    <subsection xml:id="safety-arm-and-hand-protection">
-      <title>Arm and Hand Protection</title>
-      <p>The National Safety Council has found that hands are the body part most frequently injured on the job. Accidents to the hand fall into these categories: abrasions, cuts, punctures, crushes, contact with moving machinery, burns, and chemical injuries. Gloves and hand protection are available to protect you from nearly all of these hazards. However, glove selection must be based on performance characteristics of the gloves, conditions, durations of use, and hazards present. One type of glove will not work in all situations.</p>
-      <p>In the engine room, particular hazards include high temperatures and moving machinery. Long sleeved shirts are advisable to protect your arms, and you should always have a pair of work gloves available to use when necessary to protect your hands when working around hot pipes. Special high temperature gloves should always be worn when changing burners, and the appropriate chemical resistant gloves should be worn when working with burner cleaning and boiler chemicals. You should also pay particular attention to avoid contact with moving parts of machinery or power tools with moving parts, and insure that safety guards are always in place. Gloves should always be inspected for damage before use.</p>
-      <figure xml:id="fig_gloves">
-        <caption>Hand and Arm Protection</caption>
-        <sidebyside valign="middle" width="25%">
-          <image source="images/gloves1.png"/>
-          <image source="images/gloves2.png"/>
-          <image source="images/gloves3.png"/>
-        </sidebyside>
-      </figure>
+      <subsection xml:id="safety-safety-management">
+         <title>Safety Management</title>
+         <introduction>
+            <p>Safety management is a systematic approach taken by regulatory bodies and companies to identify, assess, control, and mitigate risks in order to ensure the safety of personnel, assets, and the environment. It involves the development and implementation of policies, procedures, and practices aimed at preventing accidents, injuries, and damage. </p>
+            <p>Key components of safety management include risk assessment, safety planning, establishment of policies and procedures, training and education, reporting and investigation of incidents, audits and inspections, and continuous improvement efforts. The goal of safety management is to protect lives, prevent harm, and promote a culture of safety within organizations across various industries.</p>
+         </introduction>
+         <subsubsection xml:id="safety-ism-code">
+            <title>ISM Code</title>
+            <p>The International Safety Management Code (ISM Code) is a set of guidelines and regulations developed by the International Maritime Organization (IMO) to ensure the safe operation of ships and the prevention of marine pollution. It was adopted in 1993 and became mandatory for all vessels engaged in international voyages in 1998.</p>
+            <p>The primary objective of the ISM Code is to establish a safety management system (SMS) on board ships and ashore, providing a framework for managing safety and minimizing risks in the maritime industry. The code applies to all types and sizes of vessels, including passenger ships, cargo ships, tankers, and offshore drilling units.</p>
+            <p>Under the ISM Code, both the ship and the company have specific obligations to ensure the effective implementation of safety management systems and adherence to safety standards. The obligations of the ship and the company are as follows:</p>
+            <paragraphs>
+               <title>Ship Obligations</title>
+               <p>
+                  <ul>
+                     <li>Implement the Safety Management System (SMS): The ship is responsible for implementing and following the SMS as defined by the company. This includes adhering to the documented procedures and instructions outlined in the SMS.</li>
+                     <li>Report Hazards and Non-conformities: The ship is obligated to report any hazards, accidents, or non-conformities that may affect the safety of the ship, its personnel, or the environment. This includes reporting incidents, near-misses, and deficiencies in the SMS.</li>
+                     <li>Participate in Training and Drills: All personnel on board the ship must undergo appropriate training to ensure they have the necessary skills and knowledge to perform their duties safely. They are also required to actively participate in safety drills and exercises.</li>
+                     <li>Comply with Safety Procedures: The ship must comply with all safety procedures and guidelines outlined in the SMS. This includes following safe working practices, adhering to emergency response plans, and utilizing safety equipment as required.</li>
+                     <li>Maintain Records: The ship is responsible for maintaining accurate records of safety-related activities, including incidents, inspections, audits, drills, and maintenance activities. These records provide evidence of compliance with the ISM Code.</li>
+                  </ul>
+               </p>
+            </paragraphs>
+            <paragraphs>
+               <title>Company Obligations</title>
+               <p>
+                  <ul>
+                     <li>Develop and Implement the SMS: The company is responsible for developing and implementing a documented Safety Management System (SMS) for each ship under its management. The SMS should encompass policies, procedures, and instructions that promote safe operations and environmental protection.</li>
+                     <li>Appoint a Designated Person Ashore (DPA): The company must appoint a Designated Person Ashore (DPA) who serves as a liaison between the company and the ship. The DPA ensures that the SMS is effectively implemented, maintained, and continuously improved.</li>
+                     <li>Provide Adequate Resources: The company must provide the necessary resources, including personnel, equipment, training, and support, to enable the ship to comply with the ISM Code and operate safely.</li>
+                     <li>Conduct Audits and Reviews: The company is responsible for conducting internal audits and reviews of the SMS to assess its effectiveness and identify areas for improvement. These audits ensure that the SMS is being followed and that any non-conformities are addressed.</li>
+                     <li>Maintain Documentation: The company must maintain comprehensive documentation of the SMS, including policies, procedures, instructions, and records. This documentation serves as evidence of compliance and provides a reference for shipboard personnel.</li>
+                  </ul>
+               </p>
+            </paragraphs>
+            <p>By fulfilling these obligations, everyone works together to promote a culture of safety, prevent accidents, protect the environment, and continuously improve the safety standards in the maritime industry.</p>
+         </subsubsection>
+         <subsubsection xml:id="safety-solas">
+            <title>SOLAS</title>
+            <p>The <term>International Convention for the Safety of Life at Sea</term> (SOLAS) is an international treaty developed by the <term>International Maritime Organization</term> (IMO) in 1914, following the sinking of the Titanic, one of the most famous maritime disasters in history.   </p>
+            <p>SOLAS sets out minimum safety standards for the construction, equipment, and operation of ships in order to prevent accidents at sea and ensure that ships are well-prepared to handle emergencies. </p>
+            <p>
+              Key aspects and provisions of SOLAS include:
+              <ul>
+                  <li>
+                     <title>Structural Integrity</title>
+                     <p>It defines requirements for ship construction, stability, and subdivision to ensure that vessels are built to withstand the stresses of the marine environment.</p>
+                  </li>
+                  <li>
+                     <title>Safety Equipment</title>
+                     <p>SOLAS mandates the provision of life-saving appliances such as lifeboats, life rafts, lifejackets, and distress signaling equipment on board.</p>
+                  </li>
+                  <li>
+                     <title>Fire Safety</title>
+                     <p>The treaty outlines measures for preventing and combating fires on board ships, including fire detection systems, fire-fighting equipment, and fire drills.</p>
+                  </li>
+                  <li>
+                     <title>Navigation Safety</title>
+                     <p>SOLAS includes regulations for navigational equipment, including navigation lights, radar systems, and the use of electronic navigation aids.</p>
+                  </li>
+                  <li>
+                     <title>Radio Communications</title>
+                     <p>SOLAS establishes regulations for navigation and communication equipment, including requirements for radar systems, navigational aids, and communication devices to ensure safe navigation and effective communication, ensuring that vessels can call for assistance in case of emergencies.</p>
+                  </li>
+                  <li>
+                     <title>Training and Drills</title>
+                     <p>SOLAS mandates regular safety training and drills for the crew, including procedures for abandoning ship, using life-saving equipment, and responding to emergencies.</p>
+                  </li>
+               </ul>
+            </p>
+         </subsubsection>
+         <subsubsection xml:id="safety-osha---29cfr">
+            <title>OSHA &amp; 29CFR</title>
+            <p>
+               <term>OSHA</term>, the Occupational Safety and Health Administration, is a U.S. federal agency under the Department of Labor. OSHA's primary mission is to ensure safe and healthy working conditions for employees by enforcing workplace safety regulations, conducting inspections, and providing resources to help employers and workers prevent workplace injuries, illnesses, and fatalities. </p>
+            <p>
+              OSHA regulations are found in the <term>US Code of Federal Regulations</term>, Title 29 CFR Part 1910  where they address many aspects of workplace safety, including:
+              <ul cols="2">
+                  <li>Personal Protective Equipment (PPE)</li>
+                  <li>Lockout/Tagout (LOTO)</li>
+                  <li>Confined Spaces</li>
+                  <li>Electrical Safety</li>
+                  <li>Machine Guarding</li>
+                  <li>Fall Protection</li>
+                  <li>Welding, Cutting, and Brazing</li>
+                  <li>Respiratory Protection</li>
+                  <li>Chemical Exposure</li>
+                  <li>Hazard Communication</li>
+               </ul>
+            </p>
+            <p>It's important to note that OSHA regulations mainly pertain to workplaces on land. For most safety matters on board ship, the U.S. Coast Guard and international maritime regulations (such as SOLAS) take precedence; however OSHA regulations are sensible guidance that should be followed whenever possible whether you are working at sea, at a shore job, or even at home.</p>
+         </subsubsection>
+      </subsection>
+      <subsection xml:id="safety-job-hazard-analysis">
+         <title>Job Hazard Analysis</title>
+         <p>A <term>job hazard analysis</term> (JHA), also known as a<term> job safety analysis </term>(JSA), is a systematic process used to identify and analyze potential hazards or risks associated with specific job tasks or activities. Its primary purpose is to reduce the risk of accidents by identifying potential hazards and developing appropriate controls to mitigate them.</p>
+         <p>The process typically involves breaking down a job into its individual steps  and examining each step to identify potential hazards. Hazards can include physical hazards (e.g., machinery, equipment, or environmental conditions), chemical hazards (e.g., exposure to hazardous substances), biological hazards (e.g., exposure to infectious agents), ergonomic hazards (e.g., repetitive motion or lifting heavy objects), or any other factors that could pose a risk to worker safety and health.</p>
+         <p>
+            The key steps in conducting a job hazard analysis typically include:
+            <ol>
+               <li>Select the job or task to be analyzed.</li>
+               <li>Break down the job into steps.</li>
+               <li>Identify potential hazards for each step.</li>
+               <li>
+                  <p>Determine the risk level for each identified hazard.  Risk level multiplies severity and the likelihood of each identified hazard.</p>
+               </li>
+               <li>Develop hazard controls to eliminate or minimize the hazards. This might include engineering controls (e.g., machine guarding), administrative controls (e.g., training or procedures), or personal protective equipment (PPE)</li>
+               <li>Communicate the findings to workers and stakeholders to ensure awareness and buy-in.</li>
+               <li>Regularly review and update the job hazard analysis.</li>
+            </ol>
+         </p>
+         <p>This results of the JHA can be shared with the crew during a <term>toolbox talk</term> in order to raise awareness about known hazards, reinforce safe work practices, and promote a culture of safety. These talks are usually conducted before the start of the work day.</p>
+         <p>Systematically analyzing and communicating job hazards and implementing appropriate controls helps to create a safer workplace. </p>
+         <figure xml:id="safety-jha">
+            <caption>Sample Job Hazard Analysis Form</caption>
+            <image source="images/jha.png"/>
+         </figure>
+      </subsection>
+      <subsection xml:id="safety-permit-to-work-">
+         <title>Permit to work </title>
+         <p>A <term>permit to work</term> is a document used to control hazardous activities conducted onboard a ship. It is a written authorization that specifies the work to be performed, identifies the potential hazards involved, and outlines the necessary precautions and safety measures.</p>
+         <p>Permits to work are required for dangerous jobs such as hot work  (welding or burning), confined space entry, working at heights, electrical work, handling hazardous substances, hoisting operations, etc. </p>
+         <p>The permit to work system is designed to prevent accidents, injuries, and damage to the ship and its equipment by ensuring that work activities are conducted in a controlled manner. It helps to manage high-risk tasks and ensure that proper procedures are followed. </p>
+         <figure xml:id="hot-work-tag">
+            <caption>Hot Work Tag</caption>
+            <image source="images/hot-work-tag.png" width="75%">
+               <remix>
+                  <source>https://www.idescosafety.com/  </source>
+               </remix>
+            </image>
+         </figure>
+      </subsection>
+      <subsection xml:id="safety-lockout-tagout">
+         <title>Lockout-Tagout</title>
+         <objectives>
+            <ul>
+               <li>
+                  <url href="https://weh.maritime.edu/stcw/2023/tables/35.html#ABE-C3.1"
+                       visual="ABE-C3.1"/> Lockout/tag-out</li>
+            </ul>
+         </objectives>
+         <sidebyside margins="0%" valign="middle" width="48%">
+            <p>
+               <term>Lockout-Tagout</term> (LOTO) is a safety procedure used to ensure that dangerous equipment is properly shut down, isolated from energy sources, and secured while undergoing maintenance or repair. The goal of LOTO is to prevent unexpected startup or release of stored energy, which could lead to serious injuries or fatalities for workers involved in maintenance or repair activities.</p>
+            <figure xml:id="fig_612524341066_T9-13">
+               <caption> Lockout Tag </caption>
+               <image source="images/612524341066_T9-13.png" width="40%">
+                  <remix>
+                     <source>  https://www.idescosafety.com/  </source>
+                  </remix>
+               </image>
+            </figure>
+         </sidebyside>
+         <p>
+            <term>Lockout</term> refers to disabling a piece of equipment or machinery by isolating it from its energy sources (electrical, mechanical, hydraulic, pneumatic, chemical, thermal or other), and placing a physical lock on the isolating devices (such as switches, valves, or breakers) that control those energy sources. </p>
+         <p>
+            <term>Tagout</term> refers to affixing a label or tag that communicates information about equipment's status and the ongoing maintenance activities. The tag typically includes information about the equipment being serviced, the reason for the lockout/tagout, the name of the authorized person who applied the lock and tag, contact information, and the expected duration of the job
+            <etc/>
+         </p>
+         <p>
+            The steps of the LOTO process are:
+            <ol>
+               <li>Identify the equipment or machinery that needs maintenance or repair.</li>
+               <li>Inform all affected personell that a LOTO procedure will be performed on the identified equipment.</li>
+               <li>Shut down the equipment using the appropriate procedures outlined in the manufacturer's instructions or company protocols.</li>
+               <li>Physically isolate the equipment from its energy sources. This might involve locking out switches, valves, or other control mechanisms. In some cases, this can involve disconnecting power sources, bleeding fluids, or other actions to ensure there's no energy flowing to the equipment.</li>
+               <li>Place a lock on the energy-isolating device to prevent it from being operated. A tag is also attached to the lock indicating who performed the lockout and why. This helps communicate that the equipment is being worked on and should not be operated.</li>
+               <li>Ensure that any residual or stored energy in the equipment is safely released. This might involve releasing pressure, tension, or any other forms of stored energy.</li>
+               <li>Verify that the equipment is truly isolated by attempting to start or activate it. This step is important to confirm that the energy sources have been effectively disconnected.</li>
+               <li>Perform the necessary maintenance, repairs, or servicing on the equipment while it is in the locked and tagged state.</li>
+               <li>Once the maintenance or servicing is complete, the person who performed the LOTO procedure removes the locks and tags, and the equipment is ready to be safely restarted.</li>
+            </ol>
+         </p>
+      </subsection>
+   </section>
+   <section xml:id="ppe">
+      <title>Personal Protective Equipment</title>
+      <introduction>
+         <p>
+            <term>Personal protective equipment</term> (PPE) includes all clothing and other work accessories designed to create a barrier against workplace hazards. It provides an important link in the chain of workplace safety, but PPE alone is not a substitute for safe engineering design, proper training, good work practices, safety awareness, or hazard reduction. All these elements together are required to minimize the danger of workplace hazards and maximize the safety and health of workers.   </p>
+         <p>Using personal protective equipment requires hazard awareness and training on the part of the user. You must be trained to know when personal protective equipment is necessary, what type is necessary, how it is to be worn, and what its limitations are, as well as know its proper care, maintenance, useful life, and disposal. In addition, you must be aware that the equipment does not eliminate the hazard. If the equipment fails, you can be injured. To reduce the possibility of failure, equipment must be properly fitted, and maintained in a clean and serviceable condition. </p>
+         <p>To protect yourself, you must be wearing the proper personal protective when it is needed and recognize its limitations. The equipment must not be altered or removed even though you may find it uncomfortable. In some cases however, the equipment may be uncomfortable because it does not fit properly. </p>
+         <p>In this chapter we will discuss some of the personal protective equipment normally found and used aboard ship. </p>
+      </introduction>
+      <subsection xml:id="safety-head-protection">
+         <title>Head Protection</title>
+         <p>Head injuries are caused by falling or flying objects, or by bumping your head against a fixed object. Head protection, in the form of protective hats, must do two things – resist penetration and absorb the shock of the blow. This is accomplished by making the shell of the hat of a material hard enough to resist the blow, and by utilizing a shock-absorbing lining composed of headband and crown straps to keep the shell away from the wearer’s skull. Protective hats are also used to protect against electric shock. </p>
+         <figure xml:id="fig_head_protection">
+            <caption> Head Protection  </caption>
+            <sidebyside valign="middle" width="25%">
+               <image source="images/hardhat1.png"/>
+               <image source="images/hardhat2.png"/>
+               <image source="images/hardhat3.png"/>
+            </sidebyside>
+         </figure>
+         <p>There are several types of hard hats available, each designed for specific purposes and levels of protection. </p>
+         <p>
+            <term>Class G (General)</term> hard hats and caps are intended for general service and they provide protection against impact hazards and a limited protection against electrical shock (up to 2,200 V). They are used in industries such as construction, manufacturing, mining, and shipbuilding. This is the most suitable hard hat for shipboard use. </p>
+         <p>
+            <term>Class E (Electrical)</term> hard hats are utility service hats which are designed to protect the wearer’s head from impact and penetration by falling or flying objects and from high-voltage shock (up to 20,000 V). They are used extensively by electrical workers. </p>
+         <p>
+            <term>Class C (Conductive)</term> hard hats or caps, are designed to be light and comfortable while protecting against impact hazards, but they <em>do not</em> provide any protection against contact with electrical conductors. Class C hats often have a front brim to protect the face from sun, reduce glare, and help shed rain. They are used on occasions where there is a possibility of falling objects or bumping the head, but no risk of electrical shock. </p>
+         <p>
+            <term>Bump caps</term> are less obtrusive than hard hats and are designed to provide comfortable, lightweight but they have limited protection against minor head bumps, knocks, and scrapes.  They in environments where there is a risk of hitting the head on objects such as low ceilings, beams, or equipment. They are not meant a substitute for a hard hat because they do not afford protection from high electrical shock, high impact forces, or penetration by falling objects, and they are not OSHA approved, so they can not be used in situations where a hard hat is required.</p>
+         <p>Before using a hard hat you should inspect it for signs of damage or abuse of the helmet or any of its parts. A damaged helmet reduces the margin of safety the hat was designed to supply, and should be replaced immediately. </p>
+         <p>Correct adjustment and fit of the your hard hat is required for maximum safety. The internal cradle of the headband and sweatband forms a suspension system which keeps the helmet away from the head and cushions against impact. The headband must be adjusted to the right size in order to provide sufficient clearance between the shell and the headband. </p>
+      </subsection>
+      <subsection xml:id="safety-eye-protection">
+         <title>Eye Protection</title>
+         <p>Every day more than 1,000 eye injuries occur in American workplaces. The US Bureau of Labor Statistics found that three out of five workers who suffered eye injuries were not wearing eye protective equipment at the time of the accident, and when asked why, the victims often claimed that eye protection was not normally used in their type of work, or it was not required for the type of work performed at the time of the accident. Eye protection can save your sight, but you must be wearing it. </p>
+         <p>Eye injuries can occur in many ways, but are primarily caused by rapidly flying objects. The BLS found that almost 70% of eye injuries were caused by flying or falling objects or sparks striking the eye. Most of these objects were smaller than a pin head, and were traveling faster than a hand-thrown object. Another 20% of eye injuries were caused by chemicals, and the remainder due to miscellaneous causes such as objects swinging into the eye, pulled into the eye or by light radiation.</p>
+         <p>Eye injuries can be prevented by wearing effective eye protection. To be effective, the eyewear must be of the appropriate type for the hazard encountered and properly fitted. The BLS survey found that 94% of the injuries to workers wearing eye protection were caused by objects or chemicals going around or under the protector. Goggles provide better protection than face shields or safety glasses, but the best protection is afforded when both goggles and a face shield are worn together. </p>
+         <p>The three main types of eye protection for general maintenance are safety glasses, goggles, and face shields. In addition, when welding, specialized equipment must be used to protect your eyes. Each method of eye protection has its own advantages and disadvantages. </p>
+         <figure xml:id="fig_eye_protection">
+            <caption> Eye Protection  </caption>
+            <sidebyside valign="middle" width="25%">
+               <image source="images/glasses1.png"/>
+               <image source="images/glasses2.png"/>
+               <image source="images/glasses3.png"/>
+               <image source="images/glasses4.png"/>
+            </sidebyside>
+         </figure>
+         <p>
+            <term>Safety glasses</term> are lightweight glasses that have shatter resistant lenses made of materials like polycarbonate or propionate plastic and often have side shields attached to the side pieces. Safety glasses are designed to stop flying objects such as chips, fragments, sand, and dirt from injuring your eyes. They also can provide laser light filtration to prevent reflections from the laser entering the eye and causing retinal burns. Safety glasses can be purchased with prescription lenses including bifocals if necessary. </p>
+         <p>The main advantage of safety glasses is that they are lightweight and relatively comfortable to wear for long periods of time. The provide little to no protection from liquids or vapors, and some flying particles may get around the side shields. </p>
+         <p>
+            <term>Safety goggles</term> provide more complete protection of the eye than safety glasses, since they protect against both frontal and side impact. They come in two different types, vented and non-vented. Vented goggles are used to protect your eyes from splashes and flying objects, while Non-vented Goggles additionally protect your eyes from hazardous vapors, mists, and fumes. </p>
+         <p>
+            <term>Face shields</term> are designed to augment other types of eye protection and are not meant to be a stand alone form of eye protection. Face shields are used to protect your entire face with goggles on under the shield to catch any liquids that might make it past the shield. </p>
+         <p>
+            <term>Welding helmets</term>  are specialized helmets are used by welders to protect their eyes and face from the intense light, sparks, and heat generated during welding processes. They often feature auto-darkening lenses that adjust the shading based on the brightness of the welding arc.</p>
+         <p>Always wear a welding helmet when arc welding. Your eyes, face, and neck need protection against the burning rays of the arc, and from the splatter of molten metal and slag. To protect your eyesight, make sure the welding helmet has a colored lens with at least a No. 10 shade when welding with 200 amperes or less. And never strike a welding arc before your helmet is in place. Never look at an arc from any distance with your naked eyes while someone else is welding. </p>
+         <p>Never chip slag when your eyes (or those of others nearby) are not protected by goggles, an eye shield, or the clear lens of a welding helmet. If fragments of hot slag were to hit the eye, medical attention would be required for their removal, and blindness could result. The risk of permanent eye injury is so great that you should never chip slag from a weld without protecting your eyes. </p>
+      </subsection>
+      <subsection xml:id="safety-hearing-protection">
+         <title>Hearing Protection</title>
+         <p>Over the years, many marine engineers have suffered permanent hearing loss due to hours of exposure to the high noise levels in the engine room. You can prevent the loss of your own hearing by using proper hearing protection such as earplugs and earmuffs religiously whenever you are exposed to loud noises. </p>
+         <p>Your ear is a delicate instrument which contains thousands of fine hair cells called cilia to detect sounds. Prolonged exposure to loud noises can injure or break these cells or even tear off groups of these cells. Since the hair cells don’t ever repair themselves, when enough of them are damaged, a hearing loss results. </p>
+         <p>Short, intense, sounds such as an explosion can cause immediate and permanent hearing loss, but most hearing loss occurs gradually due to prolonged exposure to high noise levels. Most of the time this loss is so gradual that you are not even aware that it is occurring. Hearing loss is progressive and will continue to get worse as you continue to expose yourself to a noisy environment, but if you can avoid further exposure, the hearing loss won’t get any worse. </p>
+         <p>Permanent hearing loss is not the only hazard associated with noisy environments. Tinnitus is a condition where a ringing or roaring sound is heard continuously in one or both ears. Tinnitus occurs when the hair cells are damaged in such a way that they produce sound signals to the brain even in the absence of actual stimulation. This noise is sometimes described as like having a cricket permanently stuck in your ear, and is very annoying. </p>
+         <p>Sound intensity is measured in units of <term>decibels</term> (dB). The decibel scale is a logarithmic scale in which 0 dB indicates the quietest sound that can be heard by a normal person. A quiet library is about 20 dB. A normal conversation occurs at a sound level of about 60 dB. A lawnmower produces about 85 dB, and at this level you should be wearing hearing protection. Sandblasting or a rock concert has a sound intensity of about 115 dB. At this level hearing damage can occur after only about 15 minutes of unprotected exposure. </p>
+         <p>According to OSHA regulations, when the 8 hour average noise exposure is above 85 dB, employers are required to institute a noise monitoring program, provide adequate hearing protectors, and ensure employees wear them. Continual, unprotected exposure to noises louder than 85 decibels for 8 hours or more can be dangerous, and may result in hearing loss. </p>
+         <p>You can easily tell if you should be wearing hearing protection. If you find yourself in a situation where it is too noisy to carry on a conversation at arms length, or if you notice that your ears ring or feel plugged for a time after leaving a noisy environment, you can be sure that you should have been wearing your hearing protection. </p>
+         <p>Here are some commonly available hearing protection devices:</p>
+         <figure xml:id="fig_earplugs">
+            <caption> Hearing Protection  </caption>
+            <sidebyside valign="middle" width="25%">
+               <image source="images/earplugs1.png"/>
+               <image source="images/earplugs2.png"/>
+               <image source="images/earplugs3.png"/>
+               <image source="images/earplugs4.png"/>
+            </sidebyside>
+         </figure>
+         <p>
+            <term>Disposable foam plugs</term> Foam plugs are inexpensive devices made of a formable material designed to expand to fit to the shape of each person’s ear canal. To use, roll the expandable plugs into a thin, crease-free cylinder, and insert it into the ear canal. Apply a slight pressure to the plug until the foam completely expands. These plugs can be reused a couple of times, but never reuse them if they have become dirty. Some people may find that the standard expandable plug is too large for their ear canal, and may find that the smaller plug model fits better. </p>
+         <p>
+            <term>Reusable, pre-molded plugs</term> Pre-molded plugs are made from silicone, plastic or rubber and are manufactured as either as a custom fit,  or are available in several standard sizes. Be sure to choose the proper size for your ear canals. In some cases, different size plugs may be required for each ear. The advantage of pre-molded plugs are that they are inexpensive, reusable, washable, convenient to carry, and come in a variety of sizes. Nearly everyone can find a plug that will be comfortable and effective. Another advantage is that in a dirty environment like the engine room, you don’t need to handle or roll the tips. You insert this type of plug by reaching over your head with one hand to pull up on your ear. Then use your other hand to insert the plug with a gentle rocking motion until you have sealed the ear canal. </p>
+         <p>
+            <term>Hearing Bands</term> Hearing Bands, also called canal caps or semi-insert devices often resemble earplugs on a flexible plastic or metal band. The earplug tips of a canal cap may be a formable or pre-molded material. Some have headbands that can be worn over the head, behind the neck or under the chin. The main advantage of canal caps is their convenience They are easy to put on and take off . When it’s quiet, employees can leave the band hanging around their necks, but they can quickly insert the plug tips when hazardous noise starts again. These devices are ideal for intermittent use, but they provide less protection than either plugs or muffs. Some people find the pressure from the bands uncomfortable. </p>
+         <p>
+            <term>Over-the-Ear Earmuffs</term> These are designed to cover the entire ear and provide a physical barrier to block out noise. They are often adjustable for a better fit.</p>
+         <assemblage xml:id="what_is_a_decibel">
+            <title>What is a Decibel?</title>
+            <p>The Decibel (dB) is a logarithmic unit used to describe a ratio. The ratio may be power, or voltage or intensity or several other things. To get a taste for logarithmic units, first let’s look at some numbers: Suppose we have two loudspeakers, the first playing a sound with power <m>P_1</m>, and another playing a louder version of the same sound with power <m>P_2</m>, but everything else (how far away, frequency) is kept the same. The difference in decibels between the two is given by <me>10 \log (P_2/P_1) \text{ dB}</me> where the log is to base 10. </p>
+            <p>If the second produces twice as much power than the first, the difference in dB is <me> 10 \log (P_2/P_1) = 10 \log 2 = 3 \text{ dB}</me>. If the second had 10 times the power of the first, the difference in dB would be <me>10 \log (P_2/P_1) = 10 \log 10 = 10 \text{ dB}</me>B. If the second had a million times the power of the first, the difference in dB would be <me> 10 \log (P_2/P_1) = 10 \log 1,000,000 = 60 \text{ dB} </me>. This example shows one feature of decibel scales that is useful in discussing sound: they can describe very big ratios in power with numbers of modest size. </p>
+            <p>Sound is usually measured with microphones and they respond (approximately) proportionally to the sound pressure, <m>p</m>. The power in a sound wave is approximately equal to the square of the pressure. Since the log of the square of <m>x</m> is just <m> 2 \log x </m>, this introduces a factor of 2 when we convert to decibels for pressures. Therefore the difference in sound pressure level between two sounds with <m>p_1</m> and <m>p_2</m> is defined as: <me> 20 \log (p_2/ p_1) \text{ dB}</me> where the log is to base 10. </p>
+            <p>This formula involves a ratio of pressures, so to measure the sound level for a single sound, a reference level must be chosen. For sound intensity, the reference level (for air) is usually chosen as 20 micropascals, or 0.02 mPa. This is very low: it is 2 ten billionths of an atmosphere. Nevertheless, this is about the limit of sensitivity of the human ear, in its most sensitive range of frequency. Usually this sensitivity is only found in rather young people or in people who have not been exposed to loud music or other loud noises. Personal music systems with in-ear speakers are capable of very high sound levels in the ear, and are responsible for much of the hearing loss in young adults in developed countries. So if you read of a sound intensity level of 86 dB, it means that <m>20 \log (p_2/p_1) = 86 </m> dB where <m>p_1</m> is the sound pressure of the reference level, and <m>p_2</m> that of the sound in question. Divide both sides by 20: <m>\log (p_2/p_1) = 4.3 </m> dB. 4 is the log of 10 thousand, 0.3 is the log of 2, so this sound has a sound pressure 20 thousand times greater than that of the reference level. 86 dB is a loud but not dangerous level of sound, if it is not maintained for very long. </p>
+            <p>What does 0 dB mean? This level occurs when the measured intensity is equal to the reference level. i.e., it is the sound level corresponding to 0.02 mPa. In this case we have sound level <me> = 20 \log (p / p_{ref}) = 20 \log 1 = 0 \text{ dB}</me>. So 0 dB does not mean no sound, it means a sound level where the sound pressure is equal to that of the reference level. This is a small pressure, but not zero. It is also possible to have negative sound levels: - 20 dB would mean a sound with pressure 10 times smaller than the reference pressure, i.e. 2 micropascals. </p>
+         </assemblage>
+      </subsection>
+      <subsection xml:id="safety-respiratory-protection">
+         <title>Respiratory Protection</title>
+         <introduction>
+            <p>A respirator is a face piece, hood, or helmet that is designed to protect the user from a variety of harmful airborne agents. Respirators can protect you from dust and particulates in the air, hazardous vapors, oxygen deficiency, or a combination of these. Respirators are not necessary for routine operations in the engine room, but may be advisable during certain maintenance procedures such as chipping and painting. </p>
+            <p>
+              OSHA regulations require that respirators shall be used in the following circumstances:
+              <ul>
+                  <li>Where exposure levels exceed the <term>permissible exposure limit</term> (PEL), during the time period necessary to install or implement feasible engineering and work practice controls; </li>
+                  <li>In those maintenance and repair activities and during those brief or intermittent operations where exposures exceed the PEL and engineering and work practice controls are not feasible or are not required; </li>
+                  <li>In regulated areas; </li>
+                  <li>Where the employer has implemented all feasible engineering and work practice controls and such controls are not sufficient to reduce exposures to or below the PEL; and, </li>
+                  <li>In emergencies. </li>
+               </ul>
+            </p>
+            <p>Before using a respirator you should be thoroughly trained in its use. Some of the areas that you should be familiar with include: respiratory hazards; respirator selection criteria, limitations, adjustment, fit, cleaning, and storage procedures, etc. The selection of a suitable respirator depends on the hazard to which you are exposed, and the correct respirator cannot be selected without a thorough understanding of the hazard. </p>
+            <p>OSHA divides respirators into two categories: <term>Air-purifying</term> and <term>Atmosphere-supplying</term> respirators.</p>
+         </introduction>
+         <subsubsection xml:id="safety-air-purifying-respirators">
+            <title>Air-purifying Respirators</title>
+            <figure xml:id="fig_masks">
+               <caption> Air-purifiying respirators  </caption>
+               <sidebyside valign="middle" width="25%">
+                  <image source="images/mask2.png"/>
+                  <image source="images/mask3.png"/>
+                  <image source="images/mask1.png"/>
+               </sidebyside>
+            </figure>
+            <p>
+              These units have filters, cartridges, or canisters that remove contaminants from the air by passing the air through the air-purifying element before it reaches the user. Air purifying respirators are further divided into:
+              <ul>
+                  <li>
+                     <term>Particulate Respirators</term>, which capture particles such as dusts, paint fumes, and mists, but do not protect against gases and vapors. The filters in particulate respirators generally work better as particles accumulate on the filter. If the filter becomes so clogged that it is difficult to breathe, it should be replaced. </li>
+                  <li>
+                     <term>Gas and Vapor Respirators</term>, which use a chemical cartridge or canister to remove dangerous gases or vapors, but which do not protect against airborne particles. These units only protect against specific gases or vapors, and only provide protection as long as the filter’s absorbing capacity remains. </li>
+                  <li>
+                     <term>Combination Respirators</term>, which can be used in atmospheres that contain both hazardous gases and particles. </li>
+               </ul>
+            </p>
+         </subsubsection>
+         <subsubsection xml:id="safety-atmosphere-supplying-respirators">
+            <title>Atmosphere-supplying Respirators</title>
+            <figure xml:id="fig_respirators">
+               <caption> Atmosphere-supplying respirators  </caption>
+               <sidebyside valign="middle" width="33%">
+                  <image source="images/respirator2.png"/>
+                  <image source="images/respirator1.png"/>
+               </sidebyside>
+            </figure>
+            <p>
+              These units supply clean air directly to the user from a source other than the air surrounding the user. The types of air-supplying respirators are:
+              <ul>
+                  <li>
+                     <term>Air Supplied Respirators</term>, which have a hose which connects to a source of clean air under pressure. These units have no time limit on the air supply, but the hose limits the range and mobility of the user and is susceptible to damage. </li>
+                  <li>
+                     <term>Self-Contained Breathing Apparatus</term>, which have a wearable clean-air supply pack. These units have better mobility than the air-supplied respirator, but the clean air time is limited to the capacity of the tank. </li>
+                  <li>
+                     <term>Combination Respirators</term>, which are similar to the air-supplied respirators, but also have a small, self-contained air supply which can be used for escape if the primary supply fails. </li>
+               </ul>
+            </p>
+         </subsubsection>
+      </subsection>
+      <subsection xml:id="safety-arm-and-hand-protection">
+         <title>Arm and Hand Protection</title>
+         <p>The National Safety Council has found that hands are the body part most frequently injured on the job. Accidents to the hand fall into these categories: abrasions, cuts, punctures, crushes, contact with moving machinery, burns, and chemical injuries. Gloves and hand protection are available to protect you from nearly all of these hazards. However, glove selection must be based on performance characteristics of the gloves, conditions, durations of use, and hazards present. One type of glove will not work in all situations. </p>
+         <p>In the engine room, particular hazards include high temperatures and moving machinery. Long sleeved shirts are advisable to protect your arms, and you should always have a pair of work gloves available to use when necessary to protect your hands when working around hot pipes. Special high temperature gloves should always be worn when changing burners, and the appropriate chemical resistant gloves should be worn when working with burner cleaning and boiler chemicals. You should also pay particular attention to avoid contact with moving parts of machinery or power tools with moving parts, and insure that safety guards are always in place. Gloves should always be inspected for damage before use. </p>
+         <figure xml:id="fig_gloves">
+            <caption> Hand and Arm Protection  </caption>
+            <sidebyside valign="middle" width="25%">
+               <image source="images/gloves1.png"/>
+               <image source="images/gloves2.png"/>
+               <image source="images/gloves3.png"/>
+            </sidebyside>
+         </figure>
+         <p>
+            There is a broad selection of safety gloves available to protect your hands from workplace hazards. For example:
+            <ul>
+               <li>Disposable Gloves - protects against mild irritants and bodily fluids </li>
+               <li>Rubber Lineman’s Gloves and sleeves - protects against shock when working on live wires </li>
+               <li>Metal Mesh Gloves - protects against accidental cuts when using knives </li>
+               <li>Chemical Resistant Gloves - proper selection of material can resists chemical attack </li>
+               <li>Cleanroom Gloves - maintains cleanliness of electronic parts </li>
+               <li>Cotton Work Gloves - improves grip and protects from heat and cold </li>
+               <li>General Purpose Leather Gloves - protects against cuts and moderate temperatures </li>
+               <li>Temperature Resistant Gloves - protects from high temperatures </li>
+               <li>Welder’s Gloves - protects from high temperatures and sparks </li>
+            </ul>
+         </p>
+      </subsection>
+      <subsection xml:id="safety-foot-protection">
+         <title>Foot Protection</title>
+         <p>Your feet are vulnerable to many potential hazards aboard ship. For example, slips and falls due to wet and slippery decks; heavy objects falling on or rolling over your foot because of the ship’s motion or accident; punctures caused by stepping on sharp objects; and potential electrical shock when your body is grounded through the soles of your shoes. In other industries, there are other hazards to consider, chemical exposure, high temperatures, molten metal splashes, static electricity, to name a few. Proper selection of footwear can minimize the danger of these hazards. </p>
+         <p>OSHA has established regulations for safety shoe design, including impact and compression strength requirements, and they have mandated footwear requirements for many industries. For example, safety shoes or boots with impact protection are required to be worn in work areas where carrying or handling materials such as packages, objects, parts or heavy tools, which could be dropped; and for other activities where objects might fall onto the feet. Safety shoes or boots with compression protection are required for work activities involving skid trucks (manual materials handling cars) or other activities in which materials or equipment could potentially roll over an employee’s feet. Safety shoes or boots with puncture protection are required where sharp objects such as nails, wire, tacks, screws, large staples, scrap metal etc., could be stepped on by employees causing a foot injury. Although there are no specific OSHA requirements for safety footwear for marine engineers, it is nonetheless sensible to select and wear safety shoes based on the hazards found in the engine room.</p>
+         <figure xml:id="fig_safety_shoes">
+            <caption> Safety Shoes </caption>
+            <sidebyside valign="middle" width="25%">
+               <image source="images/shoes1.png"/>
+               <image source="images/shoes2.png"/>
+               <image source="images/shoes3.png"/>
+            </sidebyside>
+         </figure>
+         <p>
+            <term>Safety Shoes and Boots.</term> Safety shoes and boots are available in many styles depending on the job requirements. Boots provide more protection than shoes from chemicals and molten metals splashes and spark hazards, but they are heavier. Some protective features that are available in both boots and shoes include:
+            <ul>
+               <li>Oil resistant shoes </li>
+               <li>Chemical resistant shoes </li>
+               <li>Heat resistant shoes </li>
+               <li>Slip and skid resistant shoes </li>
+               <li>Waterproof and water resistant shoes </li>
+            </ul>
+         </p>
+         <p>
+            <term>Steel-Reinforced Safety Shoes and Boots</term> Similar to safety shoes, these have the toe box and insole reinforced with steel, and the instep reinforced with steel, aluminum, or plastic. These shoes will protect your feet from falling objects and puncture injuries. </p>
+         <p>
+            <term>Composite-Toe Safety Shoes</term> Composite-toe shoes have a protective cap made of non-metallic materials such as carbon fiber, Kevlar, or fiberglass. They offer lightweight protection and are ideal for environments where metal detection is required or in situations where electrical conductivity needs to be minimized.</p>
+         <p>
+            <term>Electrically Insulated Safety Shoes</term> These shoes have non-conductive soles to prevent the wearer’s feet from completing an electrical circuit to ground. They can protect workers against as much as 600 volts in dry conditions. These shoes should be used in conjunction with insulated tools and precautions to reduce or eliminate the potential for providing a path for hazardous electrical energy. Non-conductive footwear must not be used in explosive or hazardous locations; in such locations, electrically conductive shoes are required. </p>
+         <p>
+            <term>Electrically Conductive Safety Shoes</term> These shoes protect against the buildup of static electricity. Essentially, these shoes ground the employees wearing them. Employees working in explosive and hazardous locations such as explosives manufacturing facilities or grain elevators must wear conductive shoes to reduce the risk of static electricity buildup on an employee’s body that could produce a spark and cause an explosion or fire. During training, employees must be instructed not to use foot powder or wear socks made of silk, wool, or nylon with conductive shoes. Foot powder insulates and retards the conductive ability of the shoes. Silk, wool, and nylon produce static electricity. Conductive shoes are not general-purpose shoes and must be removed upon completion of the tasks for which they are required. Employees exposed to electrical hazards must <em>never</em> wear conductive shoes. </p>
+      </subsection>
+   </section>
+   <section xml:id="Personal_Safety">
+      <title>Personal Safety</title>
+      <objectives>
+         <ul>
+            <li>
+               <url href="https://weh.maritime.edu/stcw/2023/tables/614.html#PSSR-X3.1"
+                    visual="PSSR-X3.1"/> Importance of adhering to safe working practices at all times</li>
+            <li>
+               <url href="https://weh.maritime.edu/stcw/2023/tables/614.html#PSSR-X3.2"
+                    visual="PSSR-X3.2"/> Safety and protective devices available to protect against potential hazards aboard ship</li>
+            <li>
+               <url href="https://weh.maritime.edu/stcw/2023/tables/31.html#OICEW-D8.4"
+                    visual="OICEW-D8.4"/> Knowledge of personal safety</li>
+            <li>
+               <url href="https://weh.maritime.edu/stcw/2023/tables/35.html#ABE-C3.1"
+                    visual="ABE-C3.1"/> Lifting techniques and methods of preventing back injury</li>
+            <li>
+               <url href="https://weh.maritime.edu/stcw/2023/tables/34.html#RFPEW-A3.2"
+                    visual="RFPEW-A3.2"/> Know escape routes from machinery spaces</li>
+         </ul>
+      </objectives>
+      <p>Safety in the workplace is everyone’s responsibility, but no one is more responsible for your own personal safety than you! Here are some key safety practices to follow to ensure your own safety.</p>
       <p>
-        There is a broad selection of safety gloves available to protect your hands from workplace hazards. For example:
-        <ul>
-          <li>Disposable Gloves - protects against mild irritants and bodily fluids</li>
-          <li>Rubber Lineman’s Gloves and sleeves - protects against shock when working on live wires</li>
-          <li>Metal Mesh Gloves - protects against accidental cuts when using knives</li>
-          <li>Chemical Resistant Gloves - proper selection of material can resists chemical attack</li>
-          <li>Cleanroom Gloves - maintains cleanliness of electronic parts</li>
-          <li>Cotton Work Gloves - improves grip and protects from heat and cold</li>
-          <li>General Purpose Leather Gloves - protects against cuts and moderate temperatures</li>
-          <li>Temperature Resistant Gloves - protects from high temperatures</li>
-          <li>Welder’s Gloves - protects from high temperatures and sparks</li>
-        </ul>
+         <ul>
+            <li>
+               <title>Maintain Situational Awareness</title>
+               <p>Always be attentive and aware of your surroundings and what is going on around you. Pay attention to potential hazards, changing conditions, and any applicable safety instructions or procedures.  Make sure you are familiar with the escape routes from the space you are in, and the location of the nearest fire extinguisher.</p>
+            </li>
+            <li>
+               <title>Follow Safe Working Procedures</title>
+               <p>Familiarize yourself with the safe working procedures for your assigned tasks and follow them meticulously. These procedures are designed to minimize risks and ensure your safety. Seek guidance if you are unsure about any aspect of your tasks.</p>
+            </li>
+            <li>
+               <title>Use PPE </title>
+               <p>Wear the appropriate personal protective equipment for your tasks and the specific hazards you may encounter. This includes hard hats, safety glasses, gloves, and safety footwear. Make sure your PPE is in good condition and fits properly.</p>
+            </li>
+            <li>
+               <title>Maintain Cleanliness and Organization</title>
+               <p>Keep your work area clean, organized, and free of clutter. Properly stow tools and equipment after use to prevent trip hazards. Promptly clean up any spills or debris to maintain a safe working environment.</p>
+            </li>
+            <li>
+               <title>Practice Safe Lifting Techniques</title>
+               <p>To lift heavy objects safely, follow these guidelines:</p>
+               <p>Assess the object's weight and plan your lift accordingly. Warm up your muscles with light exercises. Stand close to the object with feet shoulder-width apart, keeping your back straight and bending at the knees. Get a firm grip on the object and lift using the strength of your legs, not your back. Avoid twisting and keep the object close to your body. </p>
+               <p>Don’t hesitate to ask for help if you need it. Prioritize safety and listen to your body to prevent injuries.</p>
+            </li>
+            <li>
+               <title>Maintain Personal Fitness and Well-being</title>
+               <p>Ensure you are physically and mentally fit for the tasks assigned to you. Get enough rest, eat well, and stay hydrated. Fatigue and exhaustion can compromise your alertness and increase the risk of accidents.  Don’t abuse alcohol or drugs, and certainly don’t attempt to perform your duties when you’re impaired.</p>
+            </li>
+            <li>
+               <title>Follow Emergency Procedures</title>
+               <p>Familiarize yourself with the ship's emergency procedures, including evacuation routes, muster stations, and the proper use of life-saving equipment. Be prepared to respond calmly and promptly in case of an emergency.</p>
+            </li>
+            <li>
+               <title>Practice Good Communication</title>
+               <p>Safety is a team effort. Maintain open and effective communication with your fellow crew members.  Share safety-related information, ask questions, and seek clarification when needed. Don’t hesitate to speak up if you notice safety hazards, near misses, or unsafe practices.  Effective communication is essential for preventing, addressing and resolving safety issues promptly.</p>
+            </li>
+            <li>
+               <title>Learn Continuously</title>
+               <p>Stay proactive in expanding your safety knowledge and skills. Participate in safety training programs, attend safety briefings, and stay updated on safety regulations and best practices. Take safety drills seriously.  The more informed you are, the better equipped you will be to protect yourself contribute to a safe working environment.</p>
+            </li>
+         </ul>
       </p>
-    </subsection>
-    <subsection xml:id="safety-foot-protection">
-      <title>Foot Protection</title>
-      <p>Your feet are vulnerable to many potential hazards aboard ship. For example, slips and falls due to wet and slippery decks; heavy objects falling on or rolling over your foot because of the ship’s motion or accident; punctures caused by stepping on sharp objects; and potential electrical shock when your body is grounded through the soles of your shoes. In other industries, there are other hazards to consider, chemical exposure, high temperatures, molten metal splashes, static electricity, to name a few. Proper selection of footwear can minimize the danger of these hazards.</p>
-      <p>OSHA has established regulations for safety shoe design, including impact and compression strength requirements, and they have mandated footwear requirements for many industries. For example, safety shoes or boots with impact protection are required to be worn in work areas where carrying or handling materials such as packages, objects, parts or heavy tools, which could be dropped; and for other activities where objects might fall onto the feet. Safety shoes or boots with compression protection are required for work activities involving skid trucks (manual materials handling cars) or other activities in which materials or equipment could potentially roll over an employee’s feet. Safety shoes or boots with puncture protection are required where sharp objects such as nails, wire, tacks, screws, large staples, scrap metal etc., could be stepped on by employees causing a foot injury. Although there are no specific OSHA requirements for safety footwear for marine engineers, it is nonetheless sensible to select and wear safety shoes based on the hazards found in the engine room.</p>
-      <figure xml:id="fig_safety_shoes">
-        <caption>Safety Shoes</caption>
-        <sidebyside valign="middle" width="25%">
-          <image source="images/shoes1.png"/>
-          <image source="images/shoes2.png"/>
-          <image source="images/shoes3.png"/>
-        </sidebyside>
-      </figure>
-      <p>
-        <term>Safety Shoes and Boots.</term>Safety shoes and boots are available in many styles depending on the job requirements. Boots provide more protection than shoes from chemicals and molten metals splashes and spark hazards, but they are heavier. Some protective features that are available in both boots and shoes include:
-        <ul>
-          <li>Oil resistant shoes</li>
-          <li>Chemical resistant shoes</li>
-          <li>Heat resistant shoes</li>
-          <li>Slip and skid resistant shoes</li>
-          <li>Waterproof and water resistant shoes</li>
-        </ul>
-      </p>
-      <p><term>Steel-Reinforced Safety Shoes and Boots</term> Similar to safety shoes, these have the toe box and insole reinforced with steel, and the instep reinforced with steel, aluminum, or plastic. These shoes will protect your feet from falling objects and puncture injuries.</p>
-      <p><term>Composite-Toe Safety Shoes</term> Composite-toe shoes have a protective cap made of non-metallic materials such as carbon fiber, Kevlar, or fiberglass. They offer lightweight protection and are ideal for environments where metal detection is required or in situations where electrical conductivity needs to be minimized.</p>
-      <p><term>Electrically Insulated Safety Shoes</term> These shoes have non-conductive soles to prevent the wearer’s feet from completing an electrical circuit to ground. They can protect workers against as much as 600 volts in dry conditions. These shoes should be used in conjunction with insulated tools and precautions to reduce or eliminate the potential for providing a path for hazardous electrical energy. Non-conductive footwear must not be used in explosive or hazardous locations; in such locations, electrically conductive shoes are required.</p>
-      <p><term>Electrically Conductive Safety Shoes</term> These shoes protect against the buildup of static electricity. Essentially, these shoes ground the employees wearing them. Employees working in explosive and hazardous locations such as explosives manufacturing facilities or grain elevators must wear conductive shoes to reduce the risk of static electricity buildup on an employee’s body that could produce a spark and cause an explosion or fire. During training, employees must be instructed not to use foot powder or wear socks made of silk, wool, or nylon with conductive shoes. Foot powder insulates and retards the conductive ability of the shoes. Silk, wool, and nylon produce static electricity. Conductive shoes are not general-purpose shoes and must be removed upon completion of the tasks for which they are required. Employees exposed to electrical hazards must <em>never</em> wear conductive shoes.</p>
-    </subsection>
-  </section>
-  <section xml:id="Personal_Safety">
-    <title>Personal Safety</title>
-    <objectives>
-      <ul>
-        <li><url href="https://weh.maritime.edu/stcw/2023/tables/614.html#PSSR-X3.1" visual="PSSR-X3.1"/> Importance of adhering to safe working practices at all times</li>
-        <li><url href="https://weh.maritime.edu/stcw/2023/tables/614.html#PSSR-X3.2" visual="PSSR-X3.2"/> Safety and protective devices available to protect against potential hazards aboard ship</li>
-        <li><url href="https://weh.maritime.edu/stcw/2023/tables/31.html#OICEW-D8.4" visual="OICEW-D8.4"/> Knowledge of personal safety</li>
-        <li><url href="https://weh.maritime.edu/stcw/2023/tables/35.html#ABE-C3.1" visual="ABE-C3.1"/> Lifting techniques and methods of preventing back injury</li>
-        <li><url href="https://weh.maritime.edu/stcw/2023/tables/34.html#RFPEW-A3.2" visual="RFPEW-A3.2"/> Know escape routes from machinery spaces</li>
-      </ul>
-    </objectives>
-    <p>Safety in the workplace is everyone’s responsibility, but no one is more responsible for your own personal safety than you! Here are some key safety practices to follow to ensure your own safety.</p>
-    <p>
-      <ul>
-        <li>
-          <title>Maintain Situational Awareness</title>
-          <p>Always be attentive and aware of your surroundings and what is going on around you. Pay attention to potential hazards, changing conditions, and any applicable safety instructions or procedures.  Make sure you are familiar with the escape routes from the space you are in, and the location of the nearest fire extinguisher.</p>
-        </li>
-        <li>
-          <title>Follow Safe Working Procedures</title>
-          <p>Familiarize yourself with the safe working procedures for your assigned tasks and follow them meticulously. These procedures are designed to minimize risks and ensure your safety. Seek guidance if you are unsure about any aspect of your tasks.</p>
-        </li>
-        <li>
-          <title>Use PPE</title>
-          <p>Wear the appropriate personal protective equipment for your tasks and the specific hazards you may encounter. This includes hard hats, safety glasses, gloves, and safety footwear. Make sure your PPE is in good condition and fits properly.</p>
-        </li>
-        <li>
-          <title>Maintain Cleanliness and Organization</title>
-          <p>Keep your work area clean, organized, and free of clutter. Properly stow tools and equipment after use to prevent trip hazards. Promptly clean up any spills or debris to maintain a safe working environment.</p>
-        </li>
-        <li>
-          <title>Practice Safe Lifting Techniques</title>
-          <p>To lift heavy objects safely, follow these guidelines:</p>
-          <p>Assess the object's weight and plan your lift accordingly. Warm up your muscles with light exercises. Stand close to the object with feet shoulder-width apart, keeping your back straight and bending at the knees. Get a firm grip on the object and lift using the strength of your legs, not your back. Avoid twisting and keep the object close to your body.</p>
-          <p>Don’t hesitate to ask for help if you need it. Prioritize safety and listen to your body to prevent injuries.</p>
-        </li>
-        <li>
-          <title>Maintain Personal Fitness and Well-being</title>
-          <p>Ensure you are physically and mentally fit for the tasks assigned to you. Get enough rest, eat well, and stay hydrated. Fatigue and exhaustion can compromise your alertness and increase the risk of accidents.  Don’t abuse alcohol or drugs, and certainly don’t attempt to perform your duties when you’re impaired.</p>
-        </li>
-        <li>
-          <title>Follow Emergency Procedures</title>
-          <p>Familiarize yourself with the ship's emergency procedures, including evacuation routes, muster stations, and the proper use of life-saving equipment. Be prepared to respond calmly and promptly in case of an emergency.</p>
-        </li>
-        <li>
-          <title>Practice Good Communication</title>
-          <p>Safety is a team effort. Maintain open and effective communication with your fellow crew members.  Share safety-related information, ask questions, and seek clarification when needed. Don’t hesitate to speak up if you notice safety hazards, near misses, or unsafe practices.  Effective communication is essential for preventing, addressing and resolving safety issues promptly.</p>
-        </li>
-        <li>
-          <title>Learn Continuously</title>
-          <p>Stay proactive in expanding your safety knowledge and skills. Participate in safety training programs, attend safety briefings, and stay updated on safety regulations and best practices. Take safety drills seriously.  The more informed you are, the better equipped you will be to protect yourself contribute to a safe working environment.</p>
-        </li>
-      </ul>
-    </p>
-    <p>By following these safety practices, you will not only protect yourself but also contribute to the overall safety of the crew and the smooth operation of the ship. Remember, safety should always be your top priority.</p>
-  </section>
+      <p>By following these safety practices, you will not only protect yourself but also contribute to the overall safety of the crew and the smooth operation of the ship. Remember, safety should always be your top priority.</p>
+   </section>
 </chapter>
