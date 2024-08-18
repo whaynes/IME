@@ -71,28 +71,20 @@
             <ul>
                <li>
                   <title>Chemical reaction</title>
-
-
-                Batteries and fuel cells use this principle.
-              </li>
+                  <p>Batteries and fuel cells use this principle.</p>
+               </li>
                <li>
                   <title>Electromagnetic induction</title>
-
-
-                whereby mechanical power supplied by a prime mover is converted to electrical power by means of a changing magnetic field   This is the principle used by electrical generators.
-              </li>
+                  <p>whereby mechanical power supplied by a prime mover is converted to electrical power by means of a changing magnetic field   This is the principle used by electrical generators.</p>
+               </li>
                <li>
                   <title>Photovoltaic effect</title>
-
-
-                When sunlight strikes the surface of a solar cell, photons are absorbed by the semiconductor material used in the cell which causes some electrons  break free from their normal positions, creating a charge imbalance.
-              </li>
+                  <p>When sunlight strikes the surface of a solar cell, photons are absorbed by the semiconductor material used in the cell which causes some electrons  break free from their normal positions, creating a charge imbalance.</p>
+               </li>
                <li>
                   <title>Seebeck effect</title>
-
-
-                The Seebeck effect is a phenomenon where a  small current is produced between two different types of metals or semiconductor materials when  a temperature difference exists between them.  Thermocouples use this principle to produce electric signals for temperature measurement.
-              </li>
+                  <p>The Seebeck effect is a phenomenon where a  small current is produced between two different types of metals or semiconductor materials when  a temperature difference exists between them.  Thermocouples use this principle to produce electric signals for temperature measurement.</p>
+               </li>
             </ul>
          </p>
          <p>Current is measured in amperes (A) and is represented by the symbol I. It can be thought of as the quantity of charge passing through a point in a circuit per unit of time, or alternately as the rate of charge flow. </p>

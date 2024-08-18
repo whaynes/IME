@@ -2238,10 +2238,10 @@ death is likely.</p>  </cell></row>
 
 <p><term>Current</term> refers to the flow of electric charge in an electrical circuit. It is the rate at which electric charges, typically electrons, move through a <term>conductor</term>. Electrons, which are negatively charged particles, are the primary carriers of electric charge in most conductive materials.</p>
 <p>Current can be initiated and sustained in a number of ways, including<ul>
-<li><title>Chemical reaction</title> Batteries and fuel cells use this principle.</li>
-<li><title>Electromagnetic induction</title> whereby mechanical power supplied by a prime mover is converted to electrical power by means of a changing magnetic field   This is the principle used by electrical generators.</li>
-<li><title>Photovoltaic effect</title>   When sunlight strikes the surface of a solar cell, photons are absorbed by the semiconductor material used in the cell which causes some electrons  break free from their normal positions, creating a charge imbalance.</li>
-<li><title>Seebeck effect</title> The Seebeck effect is a phenomenon where a  small current is produced between two different types of metals or semiconductor materials when  a temperature difference exists between them.  Thermocouples use this principle to produce electric signals for temperature measurement.</li>
+<li><title>Chemical reaction</title> <p>Batteries and fuel cells use this principle.</p></li>
+<li><title>Electromagnetic induction</title> <p>whereby mechanical power supplied by a prime mover is converted to electrical power by means of a changing magnetic field   This is the principle used by electrical generators.</p></li>
+<li><title>Photovoltaic effect</title>   <p>When sunlight strikes the surface of a solar cell, photons are absorbed by the semiconductor material used in the cell which causes some electrons  break free from their normal positions, creating a charge imbalance.</p></li>
+<li><title>Seebeck effect</title> <p>The Seebeck effect is a phenomenon where a  small current is produced between two different types of metals or semiconductor materials when  a temperature difference exists between them.  Thermocouples use this principle to produce electric signals for temperature measurement.</p></li>
 </ul></p>
 <p>Current is measured in amperes (A) and is represented by the symbol I. It can be thought of as the quantity of charge passing through a point in a circuit per unit of time, or alternately as the rate of charge flow. </p>
 <p>The <term>ampere</term>, or <term>amp</term> (unit symbol: A) is the unit of electrical current.  One ampere is equal to one coulomb of charge moving past a point in one second.</p>
@@ -5004,7 +5004,7 @@ https://www.pinterest.com/pin/386183736777263448/
           <interactive aspect="1:2" platform="javascript" preview="images/Diesel_Engine_(4_cycle_running)">
             <slate surface="pretext" >
               <sidebyside>
-               <image source="images/Diesel_Engine_(4_cycle_running).gif"/>
+               <image source="images/Diesel_Engine_(4_cycle_running).gif"><remix><source href="https://commons.wikimedia.org/wiki/File:Diesel_Engine_(4_cycle_running).gif"/></remix></image>
               </sidebyside>
             </slate>
           </interactive>
@@ -5019,7 +5019,7 @@ https://www.pinterest.com/pin/386183736777263448/
 <p>It's important to keep in mind how quickly these actions to occur. Very little time is available to move exhaust gas out of, and fresh air into the cylinders, to compress the air, to inject fuel, and the fuel to burn. If a four-stroke diesel engine is running at a constant 2100 revolutions per minute, the crankshaft would be rotating at 35 revolutions, or 12,600 degrees per second. One stroke is completed in about 0.01429 seconds.  In the discussion to follow, all the timings and angles given are approximate and vary from engine to engine.</p>
 <figure xml:id="four-stroke-timing">
    <caption>Four Stroke Timing Diagram, Naturally Aspirated Engine</caption> 
-  <image source="images/four-stroke-timing" width="75%"/> 
+  <image source="images/four-stroke-timing" width="75%"><remix><source>WEH CC0</source></remix></image> 
 </figure>
 <p>We will now discuss the operation of four-stroke engine as it passes through one complete cycle.    For the purpose of the discussion,  we will assume that the engine is normally aspirated with intake and exhaust valves,  and has a 3.5-inch bore, a 4-inch stroke and a 16:1 compression ratio.</p>
 <paragraphs><title>Intake</title>
@@ -5075,7 +5075,7 @@ https://www.pinterest.com/pin/386183736777263448/
 <p>We will describe a two-stroke, supercharged, diesel engine having intake ports and exhaust valves as it passes through one complete cycle, starting on the exhaust stroke.  The engine has a 3.5-inch bore and 4-inch stroke with a 16:1 compression ratio. All the timings given are generic and will vary from engine to engine.</p>
 <figure>
 <caption>Two Stroke Cycle</caption>
-   <image source="images/two-stroke-timing" width="65%"/>
+   <image source="images/two-stroke-timing" width="65%"><remix><source>WEH CC0</source></remix></image>
 </figure>
 
 
@@ -5122,8 +5122,7 @@ https://www.pinterest.com/pin/386183736777263448/
 <p>Nearly all diesel engines rely on a liquid cooling system to transfer waste heat out of the block and internals as shown in <xref ref="cooling-system-pic"/>. The cooling system consists of a closed loop similar to that of a car engine and contains the following major components: water pump, radiator or heat exchanger, water jacket (which consists of coolant passages in the block and heads), and a thermostat. </p>
 <figure xml:id="cooling-system-pic">
    <caption> Cooling System </caption>
-  <image source="images/diesel-image16.png" width="75%"/> 
-</figure></subsection>
+  <image source="images/cooling-sys.png" width="75%" > <remix><source href="https://www.standards.doe.gov/standards-documents/1000/1018-bhdbk-1993-v1">DOE FUNDAMENTALS HANDBOOK MECHANICAL SCIENCE, US DOE Publication DOE-HDBK-1018/1-93</source></remix></image></figure></subsection>
 
 <subsection xml:id="" ><title>Engine Lubrication System</title>
 
@@ -5134,8 +5133,7 @@ https://www.pinterest.com/pin/386183736777263448/
 <p>The lubrication system also supplies oil to the engine's governor, which is discussed later. </p>
 <figure xml:id="lube-oil-sys-pic">
    <caption/> 
-  <image source="images/diesel-image17.png" width="75%"/> 
-</figure>
+  <image source="images/lube-sys.png" width="75%"> <remix><source href="https://www.standards.doe.gov/standards-documents/1000/1018-bhdbk-1993-v1">DOE FUNDAMENTALS HANDBOOK MECHANICAL SCIENCE, US DOE Publication DOE-HDBK-1018/1-93</source></remix></image></figure>
 </subsection>
 
 <subsection xml:id="" ><title>Fuel System</title>
@@ -5198,7 +5196,7 @@ https://www.pinterest.com/pin/386183736777263448/
 <p><term>Bore</term> and <term>stroke</term> are terms used to define the size of an engine. Bore refers to the diameter of the engine's cylinder, and stroke refers to the distance the piston travels from the top of the cylinder to the bottom. The highest point of travel by the piston is called <term>top dead center</term> (TDC), and the lowest point of travel is called <term>bottom dead center</term> (BDC). One <term>stroke</term> is 180° of travel up or down between TDC and BDC. </p>
 <figure>
    <caption/>
-  <image source="images/bore-stroke" width="50%"/> 
+  <image source="images/bore-stroke" width="50%"><remix><source>WEH CC0</source></remix></image>
 </figure>
 </subsection>
 
@@ -5327,13 +5325,22 @@ https://www.pinterest.com/pin/386183736777263448/
 <introduction>
 <p>To understand how diesel engines work, you will need familiarity with the major components of the engine and how they work together. <xref ref="four-stroke-turbocharged"/> illustrates a medium-sized, four-stroke, turbocharged, diesel engine with inlet ports and exhaust valves. <xref ref="four-stroke-V-engine"/> provides a cross section of a similarly sized V-type diesel engine which might be used for marine propulsion. </p>
 <figure xml:id="four-stroke-turbocharged">
-   <caption> 2- 16 cylinder, 4 stroke, turbocharged diesel engine </caption> 
-  <image source="images/diesel-image27.png" width="50%"/> 
+   <caption>16 cylinder, 4 stroke, turbocharged diesel engine </caption> 
+  <image source="images/diesel-image27.png" width="50%" /> 
 </figure>
+
 <figure xml:id="four-stroke-V-engine">
-   <caption> 3 Cross Section of a V-type Four Stroke Diesel Engine </caption> 
-  <image source="images/diesel-image28.png" width="50%"/> 
-</figure>
+   <caption>End View a V-type Four Stroke Diesel Engine </caption> 
+  <image source="images/v16-cutaway-end" width="100%" popout='yes'> 
+<remix>
+<source href="https://www.standards.doe.gov/standards-documents/1000/1018-bhdbk-1993-v1">DOE FUNDAMENTALS HANDBOOK MECHANICAL SCIENCE, US DOE Publication DOE-HDBK-1018/1-93
+</source></remix></image></figure> 
+
+<figure xml:id="four-stroke-V-engine-side">
+   <caption>Side View a V-type Four Stroke Diesel Engine </caption> 
+  <image source="images/v16-cutaway-side" width="100%" popout='yes'> <remix><source href="https://www.standards.doe.gov/standards-documents/1000/1018-bhdbk-1993-v1">DOE FUNDAMENTALS HANDBOOK MECHANICAL SCIENCE, US DOE Publication DOE-HDBK-1018/1-93
+</source></remix></image></figure>
+
 <p>The major components of a typical engine will be described in the following sections.</p></introduction>
 
 <subsection xml:id="" ><title>The Cylinder Block</title>
@@ -5341,8 +5348,10 @@ https://www.pinterest.com/pin/386183736777263448/
 <p>The cylinder block, as shown in <xref ref="cylinder-block"/>, is the main structure of an internal combustion engine. It houses the cylinders where the engine's pistons move up and down, and it provides the structure and rigid frame for the engine's cylinders, water coolant and oil passages, and support for the crankshaft and camshaft bearings. It is generally a single unit made from cast iron. </p>
 <figure xml:id="cylinder-block">
    <caption>Cylinder Block </caption> 
-  <image source="images/diesel-image29.png" width="50%"/> 
-</figure></subsection>
+  <image source="images/cylinder-block.png" width="50%">
+  <remix><source href="https://www.standards.doe.gov/standards-documents/1000/1018-bhdbk-1993-v1">DOE FUNDAMENTALS HANDBOOK MECHANICAL SCIENCE, US DOE Publication DOE-HDBK-1018/1-93</source></remix></image>
+</figure>
+</subsection>
 
 <subsection xml:id="" ><title>Crankcase and Oil Pan</title>
 
@@ -5431,17 +5440,16 @@ https://www.pinterest.com/pin/386183736777263448/
 <p>The ports are then "closed" when the piston travels back above the level of the ports. Valves (refer to <xref ref="engine-valves-pic"/>) are mechanically opened and closed to admit or exhaust the gases as needed. The valves are located in the head casting of the engine. The point at which the valve seals against the head is called the valve seat. Most medium-sized diesels have either intake ports and exhaust valves, or intake valves and exhaust valves. </p>
 <figure xml:id="engine-valves-pic">
    <caption>Diesel Engine Valves </caption> 
-  <image source="images/diesel-image35.png" width="40%"/> 
-</figure></subsection>
+  <image source="images/valve-nomenclature.png" width="40%" ><remix><source href="https://www.standards.doe.gov/standards-documents/1000/1018-bhdbk-1993-v1">DOE FUNDAMENTALS HANDBOOK MECHANICAL SCIENCE, US DOE Publication DOE-HDBK-1018/1-93</source></remix></image></figure> 
+</subsection>
 
 <subsection xml:id="" ><title> Camshaft,  Valve Mechanism, and Timing Gears</title>
 
 <p>In order for a diesel engine to operate, all of its components must perform their functions at very precise intervals in relation to the motion of the piston. To accomplish this, a component called a <term>camshaft</term> is used. <xref ref="camshaft-and-drive-gear"/> illustrates a camshaft and camshaft drive gear. </p>
 <p>A camshaft is a long bar with egg-shaped eccentric lobes called <term>cams</term>, one lobe for each valve and fuel injector (discussed later). </p>
-<figure xml:id="camshaft-and-drive-gear">
+<figure xml:id="camshaft-and-drive-gear">  
    <caption>Camshaft and Drive Gear </caption> 
-  <image source="images/camshaft.png" width="50%"/> 
-</figure>
+  <image source="images/camshaft" width="50%"> <remix><source href="https://www.standards.doe.gov/standards-documents/1000/1018-bhdbk-1993-v1">DOE FUNDAMENTALS HANDBOOK MECHANICAL SCIENCE, US DOE Publication DOE-HDBK-1018/1-93</source></remix></image></figure> 
 <p>Each lobe has a <term>cam follower</term> as shown on <xref ref="valve-gear"/>. As the camshaft is rotated, the follower is forced up and down as it follows the profile of the <term>cam lobe</term>. The followers are connected to the engine's valves and fuel injectors through various types of linkages called <term>pushrods</term> and <term>rocker arms</term>. The pushrods and rocker arms transfer the reciprocating motion generated by the camshaft lobes to the valves and injectors, opening and closing them as needed. The valves are maintained closed by <term>valve springs</term>. </p>
 <p>As the valve is opened by the camshaft, it compresses the valve spring. The energy stored in the valve spring is then used to close the valve as the camshaft lobe rotates out from under the follower. Because an engine experiences fairly large changes in temperature (e.g., from ambient to a normal running temperature of about 190 °F), its components must be designed to allow for thermal expansion. Therefore, the valves, valve pushrods, and rocker arms must have some method of allowing for the expansion. This is accomplished by the use of <term>valve lash</term>. Valve lash is the term given to the <q>slop</q> or <q>give</q> in the valve train before the cam actually starts to open the valve. </p>
 <figure xml:id="valve-gear">
@@ -5521,7 +5529,7 @@ https://www.pinterest.com/pin/386183736777263448/
 <p>Type APF pumps are of single-cylinder design, the plunger pump for each cylinder being in a separate housing. In a 6-cylinder engine, for example, there are six separate APF pumps. Each pump is cam-driven and regulated by an individual control rack.</p>
 <figure xml:id="bosch-apf">
    <caption>Bosch 1 Cylinder Type APF Injection Pump</caption>
-  <image source="images/bosch-apf.png" width="70%"/> 
+  <image source="images/bosch-apf.png" width="70%"> <remix><source href="https://armypubs.army.mil/epubs/DR_pubs/DR_a/pdf/web/tc55_509.pdf">Marine Engineman’s Handbook, US Army Publication TC 55-509</source></remix></image> 
 </figure></paragraphs>
 
 <paragraphs><title>Type APE</title>
@@ -5532,7 +5540,7 @@ https://www.pinterest.com/pin/386183736777263448/
 <p>By studying <xref ref="bosch-ape"/>, you can obtain a better understanding of the fuel injection mechanism and the control of the amount of fuel injected. The fuel oil sump is filled with clean oil from the supply pump and fuel oil filter. Oil enters the barrel above the plunger through a pair of ports. The amount of fuel forced out through the­ injector nozzle of each upward stroke of the plunger depends on how the plunger is rotated. In <xref ref="bosch-ape"/>, notice that the control rack has teeth all along the side, meshing with a gear segment on each pump. Lengthwise movement of the control rack rotates all the plungers the same amount and in the same direction. </p>
 <figure xml:id="bosch-ape">
    <caption>Bosch 6 CylinderType APE Injection Pump</caption>
-  <image source="images/bosch-ape.png" width="85%"/> 
+  <image source="images/bosch-ape.png" width="85%"> <remix><source href="https://armypubs.army.mil/epubs/DR_pubs/DR_a/pdf/web/tc55_509.pdf">Marine Engineman’s Handbook, US Army Publication TC 55-509</source></remix></image> 
 </figure>
 <p>Rotation of the plungers changes the part of the plunger helix that passes over the spill port (on the right side of each barrel in <xref ref="bosch-ape"/>), thus changing the time at which injection ends.</p></paragraphs>
 
@@ -5575,7 +5583,7 @@ https://www.pinterest.com/pin/386183736777263448/
 <p>When a high pressure pump and an injection nozzle are combined into one piece, the combination is called  a <term>Unit Injector</term> system.  This type of unit is commonly used in Detroit engines</p>
 <figure xml:id="unit-injector-pic">
    <caption>Detroit Diesel Unit Injector </caption> 
-  <image source="images/unit-injector-pic" width="65%"/> 
+  <image source="images/unit-injector-pic" width="65%"> <remix><source href="https://www.standards.doe.gov/standards-documents/1000/1018-bhdbk-1993-v1">DOE FUNDAMENTALS HANDBOOK MECHANICAL SCIENCE, US DOE Publication DOE-HDBK-1018/1-93</source></remix></image> 
 </figure>
 </paragraphs>
 </subsection>
@@ -5594,16 +5602,19 @@ https://www.pinterest.com/pin/386183736777263448/
 <sbsgroup>
 <sidebyside width="50%" valign="bottom">
 <figure><caption>Normal</caption>
-<image source="images/gov-normal-speed" width="50%"/>
+<image source="images/gov-normal-speed" width="50%"> <remix><source href="https://www.standards.doe.gov/standards-documents/1000/1018-bhdbk-1993-v1">DOE FUNDAMENTALS HANDBOOK MECHANICAL SCIENCE, US DOE Publication DOE-HDBK-1018/1-93
+</source></remix></image>
 </figure>
 
 </sidebyside>
 <sidebyside width="50%" valign="bottom">
 <figure><caption>Overspeed</caption>
-<image source="images/gov-over-speed"/>
+<image source="images/gov-over-speed"> <remix><source href="https://www.standards.doe.gov/standards-documents/1000/1018-bhdbk-1993-v1">DOE FUNDAMENTALS HANDBOOK MECHANICAL SCIENCE, US DOE Publication DOE-HDBK-1018/1-93
+</source></remix></image>
 </figure>
 <figure><caption>Underspeed</caption>
-<image source="images/gov-under-speed"/>
+<image source="images/gov-under-speed"> <remix><source href="https://www.standards.doe.gov/standards-documents/1000/1018-bhdbk-1993-v1">DOE FUNDAMENTALS HANDBOOK MECHANICAL SCIENCE, US DOE Publication DOE-HDBK-1018/1-93
+</source></remix></image>
 </figure>
 </sidebyside>
 </sbsgroup>

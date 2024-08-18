@@ -2674,16 +2674,19 @@ The governor controls the fuel rack position through a combined action of the hy
 &lt;sbsgroup&gt;
 &lt;sidebyside width="50%" valign="bottom"&gt;
 &lt;figure&gt;&lt;caption&gt;Normal&lt;/caption&gt;
-&lt;image source="images/gov-normal-speed" width="50%"/&gt;
+&lt;image source="images/gov-normal-speed" width="50%"&gt; &lt;remix&gt;&lt;source href="https://www.standards.doe.gov/standards-documents/1000/1018-bhdbk-1993-v1"&gt;DOE FUNDAMENTALS HANDBOOK MECHANICAL SCIENCE, US DOE Publication DOE-HDBK-1018/1-93
+&lt;/source&gt;&lt;/remix&gt;&lt;/image&gt;
 &lt;/figure&gt;
 
 &lt;/sidebyside&gt;
 &lt;sidebyside width="50%" valign="bottom"&gt;
 &lt;figure&gt;&lt;caption&gt;Overspeed&lt;/caption&gt;
-&lt;image source="images/gov-over-speed"/&gt;
+&lt;image source="images/gov-over-speed"&gt; &lt;remix&gt;&lt;source href="https://www.standards.doe.gov/standards-documents/1000/1018-bhdbk-1993-v1"&gt;DOE FUNDAMENTALS HANDBOOK MECHANICAL SCIENCE, US DOE Publication DOE-HDBK-1018/1-93
+&lt;/source&gt;&lt;/remix&gt;&lt;/image&gt;
 &lt;/figure&gt;
 &lt;figure&gt;&lt;caption&gt;Underspeed&lt;/caption&gt;
-&lt;image source="images/gov-under-speed"/&gt;
+&lt;image source="images/gov-under-speed"&gt; &lt;remix&gt;&lt;source href="https://www.standards.doe.gov/standards-documents/1000/1018-bhdbk-1993-v1"&gt;DOE FUNDAMENTALS HANDBOOK MECHANICAL SCIENCE, US DOE Publication DOE-HDBK-1018/1-93
+&lt;/source&gt;&lt;/remix&gt;&lt;/image&gt;
 &lt;/figure&gt;
 &lt;/sidebyside&gt;
 &lt;/sbsgroup&gt;
@@ -4736,13 +4739,22 @@ Use this digram for the three example problems below.
             <Title>Introduction</Title>
             <Text>To understand how diesel engines work, you will need familiarity with the major components of the engine and how they work together. &lt;xref ref="four-stroke-turbocharged"/&gt; illustrates a medium-sized, four-stroke, turbocharged, diesel engine with inlet ports and exhaust valves. &lt;xref ref="four-stroke-V-engine"/&gt; provides a cross section of a similarly sized V-type diesel engine which might be used for marine propulsion. 
 &lt;figure xml:id="four-stroke-turbocharged"&gt;
-   &lt;caption&gt; 2- 16 cylinder, 4 stroke, turbocharged diesel engine &lt;/caption&gt; 
-  &lt;image source="images/diesel-image27.png" width="50%"/&gt; 
+   &lt;caption&gt;16 cylinder, 4 stroke, turbocharged diesel engine &lt;/caption&gt; 
+  &lt;image source="images/diesel-image27.png" width="50%" /&gt; 
 &lt;/figure&gt;
+
 &lt;figure xml:id="four-stroke-V-engine"&gt;
-   &lt;caption&gt; 3 Cross Section of a V-type Four Stroke Diesel Engine &lt;/caption&gt; 
-  &lt;image source="images/diesel-image28.png" width="50%"/&gt; 
-&lt;/figure&gt;
+   &lt;caption&gt;End View a V-type Four Stroke Diesel Engine &lt;/caption&gt; 
+  &lt;image source="images/v16-cutaway-end" width="100%"&gt; 
+&lt;remix&gt;
+&lt;source href="https://www.standards.doe.gov/standards-documents/1000/1018-bhdbk-1993-v1"&gt;DOE FUNDAMENTALS HANDBOOK MECHANICAL SCIENCE, US DOE Publication DOE-HDBK-1018/1-93
+&lt;/source&gt;&lt;/remix&gt;&lt;/image&gt;&lt;/figure&gt; 
+
+&lt;figure xml:id="four-stroke-V-engine-side"&gt;
+   &lt;caption&gt;Side View a V-type Four Stroke Diesel Engine &lt;/caption&gt; 
+  &lt;image source="images/v16-cutaway-side" width="100%"&gt; &lt;remix&gt;&lt;source href="https://www.standards.doe.gov/standards-documents/1000/1018-bhdbk-1993-v1"&gt;DOE FUNDAMENTALS HANDBOOK MECHANICAL SCIENCE, US DOE Publication DOE-HDBK-1018/1-93
+&lt;/source&gt;&lt;/remix&gt;&lt;/image&gt;&lt;/figure&gt;
+
 The major components of a typical engine will be described in the following sections.</Text>
         </Document>
         <Document ID="E7C5EC98-9273-4A1E-BDD7-98DED4303B84">
@@ -9730,7 +9742,7 @@ Jaraguá do Sul - SC - Brazil
             <Text>Bore and stroke are terms used to define the size of an engine. Bore refers to the diameter of the engine's cylinder, and stroke refers to the distance the piston travels from the top of the cylinder to the bottom. The highest point of travel by the piston is called top dead center (TDC), and the lowest point of travel is called bottom dead center (BDC). One stroke is 180° of travel up or down between TDC and BDC. 
 &lt;figure&gt;
    &lt;caption/&gt;
-  &lt;image source="images/bore-stroke" width="50%"/&gt; 
+  &lt;image source="images/bore-stroke" width="50%"&gt;&lt;remix&gt;&lt;source&gt;WEH CC0&lt;/source&gt;&lt;/remix&gt;&lt;/image&gt;
 &lt;/figure&gt;
 </Text>
         </Document>
@@ -9920,8 +9932,7 @@ Pressure = \frac{Force}{Area}
             <Text>Nearly all diesel engines rely on a liquid cooling system to transfer waste heat out of the block and internals as shown in &lt;xref ref="cooling-system-pic"/&gt;. The cooling system consists of a closed loop similar to that of a car engine and contains the following major components: water pump, radiator or heat exchanger, water jacket (which consists of coolant passages in the block and heads), and a thermostat. 
 &lt;figure xml:id="cooling-system-pic"&gt;
    &lt;caption&gt; Cooling System &lt;/caption&gt;
-  &lt;image source="images/diesel-image16.png" width="75%"/&gt; 
-&lt;/figure&gt;</Text>
+  &lt;image source="images/cooling-sys.png" width="75%" &gt; &lt;remix&gt;&lt;source href="https://www.standards.doe.gov/standards-documents/1000/1018-bhdbk-1993-v1"&gt;DOE FUNDAMENTALS HANDBOOK MECHANICAL SCIENCE, US DOE Publication DOE-HDBK-1018/1-93&lt;/source&gt;&lt;/remix&gt;&lt;/image&gt;&lt;/figure&gt;</Text>
         </Document>
         <Document ID="418A2E61-20EE-4792-8C74-AC27983B9DC4">
             <Title>Follow Emergency Procedures</Title>
@@ -10326,8 +10337,7 @@ Once the oil has cooled and lubricated the bearing surfaces, it flows out of the
 The lubrication system also supplies oil to the engine's governor, which is discussed later. 
 &lt;figure xml:id="lube-oil-sys-pic"&gt;
    &lt;caption/&gt; 
-  &lt;image source="images/diesel-image17.png" width="75%"/&gt; 
-&lt;/figure&gt;
+  &lt;image source="images/lube-sys.png" width="75%"&gt; &lt;remix&gt;&lt;source href="https://www.standards.doe.gov/standards-documents/1000/1018-bhdbk-1993-v1"&gt;DOE FUNDAMENTALS HANDBOOK MECHANICAL SCIENCE, US DOE Publication DOE-HDBK-1018/1-93&lt;/source&gt;&lt;/remix&gt;&lt;/image&gt;&lt;/figure&gt;
 </Text>
         </Document>
         <Document ID="876B48C6-C805-44BE-976A-EFA2B89E1640">
@@ -11072,11 +11082,8 @@ A gate valve, like a globe valve, is constructed in two basic parts, the body, a
 &lt;/figure&gt;
 </Text>
         </Document>
-        <Document ID="CE24CA05-2E67-4B47-8479-227C4063D4CC">
-            <Title>Introduction</Title>
-            <Text>A solenoid is an electromechanical device that consists of a coil of wire wound around a cylindrical core. When electric current passes through the wire coil, it generates a magnetic field around the coil. This controllable magnetic field is used to produce various effects.
-Solenoids are used in various applications, such as in relays, solenoid valves, actuators, &lt;etc/&gt; Solenoid operated device contain an armature, which is a movable part placed near the solenoid coil that responds to the magnetic field generated by the current flowing through the coil and produces mechanical motion. 
-For example, electromagnetic relays control the switching of electric circuits. When the solenoid coil is energized, it generates a magnetic field that can either attract or repel the movable armature to open or close a contact.  When the coil is de-energized a spring restores the contact to its normal position.
+        <Document ID="5C9A2446-7691-424C-BBAE-F0A3412B7410">
+            <Text>Since \ft{1} of water is equivalent to \psi{0.433}, we can create a unit-factor to solve for how many feet are equivalent to  \psi{1}.  &lt;me&gt;  h = \psi{1} \times \left[\frac{\ft{1}}{\psi{0.433}}\right] = \ft{2.31}&lt;/me&gt;.
 </Text>
         </Document>
         <Document ID="17455346-4B98-4746-ABC0-084B85692F22">
@@ -11090,8 +11097,11 @@ For example, electromagnetic relays control the switching of electric circuits. 
 &lt;me&gt;V = 760 - p = 222.3 \textrm{ mm Hg (vacuum)}&lt;/me&gt; &lt;/p&gt;&lt;/li&gt;
 &lt;/ol&gt;&lt;/p&gt;</Text>
         </Document>
-        <Document ID="5C9A2446-7691-424C-BBAE-F0A3412B7410">
-            <Text>Since \ft{1} of water is equivalent to \psi{0.433}, we can create a unit-factor to solve for how many feet are equivalent to  \psi{1}.  &lt;me&gt;  h = \psi{1} \times \left[\frac{\ft{1}}{\psi{0.433}}\right] = \ft{2.31}&lt;/me&gt;.
+        <Document ID="CE24CA05-2E67-4B47-8479-227C4063D4CC">
+            <Title>Introduction</Title>
+            <Text>A solenoid is an electromechanical device that consists of a coil of wire wound around a cylindrical core. When electric current passes through the wire coil, it generates a magnetic field around the coil. This controllable magnetic field is used to produce various effects.
+Solenoids are used in various applications, such as in relays, solenoid valves, actuators, &lt;etc/&gt; Solenoid operated device contain an armature, which is a movable part placed near the solenoid coil that responds to the magnetic field generated by the current flowing through the coil and produces mechanical motion. 
+For example, electromagnetic relays control the switching of electric circuits. When the solenoid coil is energized, it generates a magnetic field that can either attract or repel the movable armature to open or close a contact.  When the coil is de-energized a spring restores the contact to its normal position.
 </Text>
         </Document>
         <Document ID="962B1754-9CE8-4782-AAFF-B74413C7DDCC">
@@ -12892,10 +12902,10 @@ The water jacket temperature sensors provide early warning of abnormal engine te
             <Title>Current</Title>
             <Text>Current refers to the flow of electric charge in an electrical circuit. It is the rate at which electric charges, typically electrons, move through a conductor. Electrons, which are negatively charged particles, are the primary carriers of electric charge in most conductive materials.
 Current can be initiated and sustained in a number of ways, including&lt;ul&gt;
-Chemical reaction Batteries and fuel cells use this principle.
-Electromagnetic induction whereby mechanical power supplied by a prime mover is converted to electrical power by means of a changing magnetic field   This is the principle used by electrical generators.
-Photovoltaic effect   When sunlight strikes the surface of a solar cell, photons are absorbed by the semiconductor material used in the cell which causes some electrons  break free from their normal positions, creating a charge imbalance.
-Seebeck effect The Seebeck effect is a phenomenon where a  small current is produced between two different types of metals or semiconductor materials when  a temperature difference exists between them.  Thermocouples use this principle to produce electric signals for temperature measurement.
+Chemical reaction &lt;p&gt;Batteries and fuel cells use this principle.&lt;/p&gt;
+Electromagnetic induction &lt;p&gt;whereby mechanical power supplied by a prime mover is converted to electrical power by means of a changing magnetic field   This is the principle used by electrical generators.&lt;/p&gt;
+Photovoltaic effect   &lt;p&gt;When sunlight strikes the surface of a solar cell, photons are absorbed by the semiconductor material used in the cell which causes some electrons  break free from their normal positions, creating a charge imbalance.&lt;/p&gt;
+Seebeck effect &lt;p&gt;The Seebeck effect is a phenomenon where a  small current is produced between two different types of metals or semiconductor materials when  a temperature difference exists between them.  Thermocouples use this principle to produce electric signals for temperature measurement.&lt;/p&gt;
 &lt;/ul&gt;&lt;/p&gt;
 Current is measured in amperes (A) and is represented by the symbol I. It can be thought of as the quantity of charge passing through a point in a circuit per unit of time, or alternately as the rate of charge flow. 
 The ampere, or amp (unit symbol: A) is the unit of electrical current.  One ampere is equal to one coulomb of charge moving past a point in one second.
@@ -13392,8 +13402,8 @@ Diesel engines have two methods of admitting and exhausting gases from the cylin
 The ports are then "closed" when the piston travels back above the level of the ports. Valves (refer to &lt;xref ref="engine-valves-pic"/&gt;) are mechanically opened and closed to admit or exhaust the gases as needed. The valves are located in the head casting of the engine. The point at which the valve seals against the head is called the valve seat. Most medium-sized diesels have either intake ports and exhaust valves, or intake valves and exhaust valves. 
 &lt;figure xml:id="engine-valves-pic"&gt;
    &lt;caption&gt;Diesel Engine Valves &lt;/caption&gt; 
-  &lt;image source="images/diesel-image35.png" width="40%"/&gt; 
-&lt;/figure&gt;</Text>
+  &lt;image source="images/valve-nomenclature.png" width="40%" &gt;&lt;remix&gt;&lt;source href="https://www.standards.doe.gov/standards-documents/1000/1018-bhdbk-1993-v1"&gt;DOE FUNDAMENTALS HANDBOOK MECHANICAL SCIENCE, US DOE Publication DOE-HDBK-1018/1-93&lt;/source&gt;&lt;/remix&gt;&lt;/image&gt;&lt;/figure&gt; 
+</Text>
         </Document>
         <Document ID="D088C253-C44F-4B23-A84E-96E05ABC5794">
             <Title>Electrical Circuits</Title>
@@ -15139,7 +15149,7 @@ Roughly speaking, the greater the current, the more severe the shock.  High volt
             <Text>When a high pressure pump and an injection nozzle are combined into one piece, the combination is called  a Unit Injector system.  This type of unit is commonly used in Detroit engines
 &lt;figure xml:id="unit-injector-pic"&gt;
    &lt;caption&gt;Detroit Diesel Unit Injector &lt;/caption&gt; 
-  &lt;image source="images/unit-injector-pic" width="65%"/&gt; 
+  &lt;image source="images/unit-injector-pic" width="65%"&gt; &lt;remix&gt;&lt;source href="https://www.standards.doe.gov/standards-documents/1000/1018-bhdbk-1993-v1"&gt;DOE FUNDAMENTALS HANDBOOK MECHANICAL SCIENCE, US DOE Publication DOE-HDBK-1018/1-93&lt;/source&gt;&lt;/remix&gt;&lt;/image&gt; 
 &lt;/figure&gt;
 </Text>
         </Document>
@@ -15354,7 +15364,7 @@ The plunger traps oil above it during part of the upward stroke and forces it th
 By studying &lt;xref ref="bosch-ape"/&gt;, you can obtain a better understanding of the fuel injection mechanism and the control of the amount of fuel injected. The fuel oil sump is filled with clean oil from the supply pump and fuel oil filter. Oil enters the barrel above the plunger through a pair of ports. The amount of fuel forced out through the­ injector nozzle of each upward stroke of the plunger depends on how the plunger is rotated. In &lt;xref ref="bosch-ape"/&gt;, notice that the control rack has teeth all along the side, meshing with a gear segment on each pump. Lengthwise movement of the control rack rotates all the plungers the same amount and in the same direction. 
 &lt;figure xml:id="bosch-ape"&gt;
    &lt;caption&gt;Bosch 6 CylinderType APE Injection Pump&lt;/caption&gt;
-  &lt;image source="images/bosch-ape.png" width="85%"/&gt; 
+  &lt;image source="images/bosch-ape.png" width="85%"&gt; &lt;remix&gt;&lt;source href="https://armypubs.army.mil/epubs/DR_pubs/DR_a/pdf/web/tc55_509.pdf"&gt;Marine Engineman’s Handbook, US Army Publication TC 55-509&lt;/source&gt;&lt;/remix&gt;&lt;/image&gt; 
 &lt;/figure&gt;
 Rotation of the plungers changes the part of the plunger helix that passes over the spill port (on the right side of each barrel in &lt;xref ref="bosch-ape"/&gt;), thus changing the time at which injection ends.</Text>
         </Document>
@@ -15688,7 +15698,7 @@ In a two-stroke engine the camshaft is geared so that it rotates at the same spe
 We will describe a two-stroke, supercharged, diesel engine having intake ports and exhaust valves as it passes through one complete cycle, starting on the exhaust stroke.  The engine has a 3.5-inch bore and 4-inch stroke with a 16:1 compression ratio. All the timings given are generic and will vary from engine to engine.
 &lt;figure&gt;
 &lt;caption&gt;Two Stroke Cycle&lt;/caption&gt;
-   &lt;image source="images/two-stroke-timing" width="65%"/&gt;
+   &lt;image source="images/two-stroke-timing" width="65%"&gt;&lt;remix&gt;&lt;source&gt;WEH CC0&lt;/source&gt;&lt;/remix&gt;&lt;/image&gt;
 &lt;/figure&gt;
 
 </Text>
@@ -15819,7 +15829,7 @@ The events occurring during each cycle are shown graphically in &lt;xref ref="fo
 It's important to keep in mind how quickly these actions to occur. Very little time is available to move exhaust gas out of, and fresh air into the cylinders, to compress the air, to inject fuel, and the fuel to burn. If a four-stroke diesel engine is running at a constant 2100 revolutions per minute, the crankshaft would be rotating at 35 revolutions, or 12,600 degrees per second. One stroke is completed in about 0.01429 seconds.  In the discussion to follow, all the timings and angles given are approximate and vary from engine to engine.
 &lt;figure xml:id="four-stroke-timing"&gt;
    &lt;caption&gt;Four Stroke Timing Diagram, Naturally Aspirated Engine&lt;/caption&gt; 
-  &lt;image source="images/four-stroke-timing" width="75%"/&gt; 
+  &lt;image source="images/four-stroke-timing" width="75%"&gt;&lt;remix&gt;&lt;source&gt;WEH CC0&lt;/source&gt;&lt;/remix&gt;&lt;/image&gt; 
 &lt;/figure&gt;
 We will now discuss the operation of four-stroke engine as it passes through one complete cycle.    For the purpose of the discussion,  we will assume that the engine is normally aspirated with intake and exhaust valves,  and has a 3.5-inch bore, a 4-inch stroke and a 16:1 compression ratio.</Text>
         </Document>
@@ -22162,6 +22172,12 @@ Notice that mechanical potential energy, mechanical kinetic energy and work are 
         <Document ID="42A31E33-139C-4591-ACE9-AA1E14A61EBD">
             <Title>Area Conversion 2</Title>
         </Document>
+        <Document ID="2EF330A9-4BDA-4AFE-9813-4670BAF2763D">
+            <Title>psi to inHg</Title>
+        </Document>
+        <Document ID="A30B3C69-C741-4C8D-BB24-90C253FB20D6">
+            <Title>conclusion</Title>
+        </Document>
         <Document ID="0C52F7E3-84F8-474C-A04C-042BF78E08BD">
             <Title>exercise</Title>
             <Text>&lt;statement&gt; Mechanical energy in transition is referred to as ______. 
@@ -22170,16 +22186,10 @@ Notice that mechanical potential energy, mechanical kinetic energy and work are 
 &lt;/choices&gt;
 </Text>
         </Document>
-        <Document ID="A30B3C69-C741-4C8D-BB24-90C253FB20D6">
-            <Title>conclusion</Title>
-        </Document>
         <Document ID="81DA8F83-8B03-4850-9F54-BE067D12602E">
             <Text>A mechanic applies a force of \N{400} perpendicular to the handle of a \cm{60} long wrench in order to loosen a bolt as shown in the left diagram of &lt;xref ref="wrench-T"/&gt; . 
 Determine the torque applied to the bolt.
 </Text>
-        </Document>
-        <Document ID="2EF330A9-4BDA-4AFE-9813-4670BAF2763D">
-            <Title>psi to inHg</Title>
         </Document>
         <Document ID="44F2A5EB-A595-4CFF-842D-7EC47D926A51">
             <Title>Chapter Questions</Title>
@@ -22522,8 +22532,10 @@ It's important to note that OSHA regulations mainly pertain to workplaces on lan
             <Text>The cylinder block, as shown in &lt;xref ref="cylinder-block"/&gt;, is the main structure of an internal combustion engine. It houses the cylinders where the engine's pistons move up and down, and it provides the structure and rigid frame for the engine's cylinders, water coolant and oil passages, and support for the crankshaft and camshaft bearings. It is generally a single unit made from cast iron. 
 &lt;figure xml:id="cylinder-block"&gt;
    &lt;caption&gt;Cylinder Block &lt;/caption&gt; 
-  &lt;image source="images/diesel-image29.png" width="50%"/&gt; 
-&lt;/figure&gt;</Text>
+  &lt;image source="images/cylinder-block.png" width="50%"&gt;
+  &lt;remix&gt;&lt;source href="https://www.standards.doe.gov/standards-documents/1000/1018-bhdbk-1993-v1"&gt;DOE FUNDAMENTALS HANDBOOK MECHANICAL SCIENCE, US DOE Publication DOE-HDBK-1018/1-93&lt;/source&gt;&lt;/remix&gt;&lt;/image&gt;
+&lt;/figure&gt;
+</Text>
         </Document>
         <Document ID="E5053EE6-B45F-4083-9EB2-CC7D4399EA1E">
             <Title>Chemical Hazards</Title>
@@ -23308,7 +23320,7 @@ During the cycle, ignition occurs when fuel is injected into the air charge heat
           &lt;interactive aspect="1:2" platform="javascript" preview="images/Diesel_Engine_(4_cycle_running)"&gt;
             &lt;slate surface="pretext" &gt;
               &lt;sidebyside&gt;
-               &lt;image source="images/Diesel_Engine_(4_cycle_running).gif"/&gt;
+               &lt;image source="images/Diesel_Engine_(4_cycle_running).gif"&gt;&lt;remix&gt;&lt;source href="https://commons.wikimedia.org/wiki/File:Diesel_Engine_(4_cycle_running).gif"/&gt;&lt;/remix&gt;&lt;/image&gt;
               &lt;/sidebyside&gt;
             &lt;/slate&gt;
           &lt;/interactive&gt;
@@ -24831,7 +24843,7 @@ By regulating the voltage and frequency supplied to the motor, a VFD allows for 
             <Text>Type APF pumps are of single-cylinder design, the plunger pump for each cylinder being in a separate housing. In a 6-cylinder engine, for example, there are six separate APF pumps. Each pump is cam-driven and regulated by an individual control rack.
 &lt;figure xml:id="bosch-apf"&gt;
    &lt;caption&gt;Bosch 1 Cylinder Type APF Injection Pump&lt;/caption&gt;
-  &lt;image source="images/bosch-apf.png" width="70%"/&gt; 
+  &lt;image source="images/bosch-apf.png" width="70%"&gt; &lt;remix&gt;&lt;source href="https://armypubs.army.mil/epubs/DR_pubs/DR_a/pdf/web/tc55_509.pdf"&gt;Marine Engineman’s Handbook, US Army Publication TC 55-509&lt;/source&gt;&lt;/remix&gt;&lt;/image&gt; 
 &lt;/figure&gt;</Text>
         </Document>
         <Document ID="14B2ECAF-D731-4554-91CC-688489BD424B">
@@ -25877,10 +25889,9 @@ The aneroid barometer contains a small, flexible metal box called an aneroid cha
             <Title> Camshaft,  Valve Mechanism, and Timing Gears</Title>
             <Text>In order for a diesel engine to operate, all of its components must perform their functions at very precise intervals in relation to the motion of the piston. To accomplish this, a component called a camshaft is used. &lt;xref ref="camshaft-and-drive-gear"/&gt; illustrates a camshaft and camshaft drive gear. 
 A camshaft is a long bar with egg-shaped eccentric lobes called cams, one lobe for each valve and fuel injector (discussed later). 
-&lt;figure xml:id="camshaft-and-drive-gear"&gt;
+&lt;figure xml:id="camshaft-and-drive-gear"&gt;  
    &lt;caption&gt;Camshaft and Drive Gear &lt;/caption&gt; 
-  &lt;image source="images/camshaft.png" width="50%"/&gt; 
-&lt;/figure&gt;
+  &lt;image source="images/camshaft" width="50%"&gt; &lt;remix&gt;&lt;source href="https://www.standards.doe.gov/standards-documents/1000/1018-bhdbk-1993-v1"&gt;DOE FUNDAMENTALS HANDBOOK MECHANICAL SCIENCE, US DOE Publication DOE-HDBK-1018/1-93&lt;/source&gt;&lt;/remix&gt;&lt;/image&gt;&lt;/figure&gt; 
 Each lobe has a cam follower as shown on &lt;xref ref="valve-gear"/&gt;. As the camshaft is rotated, the follower is forced up and down as it follows the profile of the cam lobe. The followers are connected to the engine's valves and fuel injectors through various types of linkages called pushrods and rocker arms. The pushrods and rocker arms transfer the reciprocating motion generated by the camshaft lobes to the valves and injectors, opening and closing them as needed. The valves are maintained closed by valve springs. 
 As the valve is opened by the camshaft, it compresses the valve spring. The energy stored in the valve spring is then used to close the valve as the camshaft lobe rotates out from under the follower. Because an engine experiences fairly large changes in temperature (e.g., from ambient to a normal running temperature of about 190 °F), its components must be designed to allow for thermal expansion. Therefore, the valves, valve pushrods, and rocker arms must have some method of allowing for the expansion. This is accomplished by the use of valve lash. Valve lash is the term given to the &lt;q&gt;slop&lt;/q&gt; or &lt;q&gt;give&lt;/q&gt; in the valve train before the cam actually starts to open the valve. 
 &lt;figure xml:id="valve-gear"&gt;
