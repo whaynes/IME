@@ -437,11 +437,11 @@
             <p>During startup, magnetizing the main transformers and charging the DC filter capacitors will draw a large (&gt; 400 A) current which can affect other parts of the electrical distribution system if not controlled.  The pre-charging system reduces the peak currents by limiting the charging rate with resistors and spreading the charging/magnetizing cycle out over about 10 minutes.</p>
             <p>Power for pre-charging is supplied by a 440 V circuit from the main switchboard.</p>
          </subsubsection>
-         <subsubsection xml:id="Electric-propulsion-dfe--diode-front-end-section--dfe-">
-            <title>DFE <ndash/> Diode Front End Section (DFE)</title>
+         <subsubsection xml:id="Electric-propulsion-dfediode-front-end-section--dfe-">
+            <title>DFE<ndash/>Diode Front End Section (DFE)</title>
             <p>This section contains the Diode Front Edge bridge. This bridge receives the output of the two secondary windings of the <term>propulsion transformer</term> and rectifies this to a DC voltage in the <term>diode bridge</term>. </p>
             <p>The propulsion transformers reduce the network voltage (6,600 V) to the requirements of the frequency converters (1,850V).   The transformers have a single primary winding, delta connected, and two secondary windings, one is delta connected and the other is wye connected. This provides a 30° phase shift in one of the supplies to the diode front end.  This arrangement effectively provides a 12-pulse configuration that reduces harmful harmonics. </p>
-            <p>The diode bridge is made up of four stacks of six diodes, one stack to each transformer secondary. The output is passed to the DC Capacitor and filter circuit in the DCC cabinet . </p>
+            <p>The diode bridge is made up of four stacks of six diodes, one stack to each transformer secondary. The output is passed to the DC Capacitor and filter circuit in the DCC cabinet. </p>
          </subsubsection>
          <subsubsection xml:id="Electric-propulsion-dc-capacitor-section--dcc-">
             <title>DC Capacitor Section (DCC)</title>

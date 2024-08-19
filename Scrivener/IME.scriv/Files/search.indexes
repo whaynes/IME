@@ -90,10 +90,9 @@ For each conversion, we create an appropriate unit-factor from &lt;xref ref="atm
 Supercharging provides an immediate power boost without the lag often associated with turbochargers, although supercharging is generally less efficient because it draws power directly from the engine.</Text>
         </Document>
         <Document ID="DC012F76-010A-429A-BD5A-35EA344C9913">
-            <Title>DFE &lt;ndash/&gt; Diode Front End Section (DFE)</Title>
             <Text>This section contains the Diode Front Edge bridge. This bridge receives the output of the two secondary windings of the propulsion transformer and rectifies this to a DC voltage in the diode bridge. 
 The propulsion transformers reduce the network voltage (6,600 V) to the requirements of the frequency converters (1,850V).   The transformers have a single primary winding, delta connected, and two secondary windings, one is delta connected and the other is wye connected. This provides a 30° phase shift in one of the supplies to the diode front end.  This arrangement effectively provides a 12-pulse configuration that reduces harmful harmonics. 
-The diode bridge is made up of four stacks of six diodes, one stack to each transformer secondary. The output is passed to the DC Capacitor and filter circuit in the DCC cabinet . 
+The diode bridge is made up of four stacks of six diodes, one stack to each transformer secondary. The output is passed to the DC Capacitor and filter circuit in the DCC cabinet. 
 </Text>
         </Document>
         <Document ID="1FC470F3-B9B3-4F83-B428-43451037351F">
@@ -2406,7 +2405,7 @@ These units provide a way to express and measure various durations, from tiny fr
         </Document>
         <Document ID="19113C21-9C5D-4D8D-92D4-29D97607090E">
             <Title>Types of Torque</Title>
-            <Text>Static Torque is required to initiate movement from a standstill or to stop an already moving object. It is the torque required to overcome the inertia of a stationary object and start its rotation. Static torque also occurs when tightening or breaking loose a bolt.
+            <Text>Static Torque is required to initiate movement from a standstill or to stop an already moving object. It is the torque required to overcome the inertia of a stationary object and start its rotation, or to overcome static friction such as when breaking loose a bolt.
 Correct torque is crucial for bolted flanges to ensure a secure and leak-free connection. Applying the proper torque to the bolts on a flange ensures that the gasket is properly compressed, which prevents leaks and maintains the integrity of the joint.  Torque is related to bolt tightness, but many additional factors, such as friction, can have a significant impact on the relationship of torque to the tightness of the bolted joint.
 &lt;figure&gt;
    &lt;caption&gt;Static Torque: Turning a bolt&lt;/caption&gt;
@@ -14127,16 +14126,16 @@ Barred Tee (Branching Tee)</Text>
 A four-stroke engine requires two rotations of the crankshaft to complete one cycle. The event occur as follows:  &lt;ul marker=""&gt;
 Intake &lt;mdash/&gt; the piston passes TDC, the intake valve(s) open and the fresh air is admitted into the cylinder, the exhaust valve is still open for a few degrees to allow scavenging to occur. 
 Compression &lt;mdash/&gt; after the piston passes BDC the intake valve closes and the piston travels up to TDC (completion of the first crankshaft rotation). 
-Fuel injection &lt;mdash/&gt; As the piston nears TDC on the compression stroke, the fuel is injected by the injectors and the fuel starts to burn, further heating the gasses in the cylinder. 
-Power &lt;mdash/&gt; the piston passes TDC and the expanding gasses force the piston down, rotating the crankshaft. 
-Exhaust &lt;mdash/&gt; as the piston passes BDC the exhaust valves open and the exhaust gasses start to flow out of the cylinder. This continues as the piston travels up to TDC, pumping the spent gasses out of the cylinder. At TDC the second crankshaft rotation is complete.
+Fuel injection &lt;mdash/&gt; As the piston nears TDC on the compression stroke, the fuel is injected by the injectors and the fuel starts to burn, further heating the gases in the cylinder. 
+Power &lt;mdash/&gt; the piston passes TDC and the expanding gases force the piston down, rotating the crankshaft. 
+Exhaust &lt;mdash/&gt; as the piston passes BDC the exhaust valves open and the exhaust gases start to flow out of the cylinder. This continues as the piston travels up to TDC, pumping the spent gases out of the cylinder. At TDC the second crankshaft rotation is complete.
 &lt;/ul&gt;&lt;/p&gt;
 A two-stroke engine requires one rotation of the crankshaft to complete one cycle. The events occur as follows: &lt;ul marker=""&gt; 
 Intake &lt;mdash/&gt; the piston is near BDC and exhaust is in progress. The intake valve or ports open and the fresh air is forced in. The exhaust valves or ports are closed and intake continues. 
 Compression &lt;mdash/&gt; after both the exhaust and intake valves or ports are closed, the piston travels up towards TDC. The fresh air is heated by the compression. 
-Fuel injection &lt;mdash/&gt; near TDC the fuel is injected by the injectors and the fuel starts to burn, further heating the gasses in the cylinder. 
-Power &lt;mdash/&gt; the piston passes TDC and the expanding gasses force the piston down, rotating the crankshaft. 
-Exhaust &lt;mdash/&gt; as the piston approaches BDC the exhaust valves or ports open and the exhaust gasses start to flow out of the cylinder.
+Fuel injection &lt;mdash/&gt; near TDC the fuel is injected by the injectors and the fuel starts to burn, further heating the gases in the cylinder. 
+Power &lt;mdash/&gt; the piston passes TDC and the expanding gases force the piston down, rotating the crankshaft. 
+Exhaust &lt;mdash/&gt; as the piston approaches BDC the exhaust valves or ports open and the exhaust gases start to flow out of the cylinder.
 &lt;/ul&gt;&lt;/p&gt;</Text>
         </Document>
         <Document ID="74D7577F-FD05-4D15-AA0E-AE0767126FEC">
@@ -15049,7 +15048,7 @@ Length units based on the human body were used for thousands of years. The Roman
 &lt;caption&gt;Traditional length units&lt;/caption&gt;
 &lt;image width="50%" source="images/cubit.png"/&gt;
 &lt;/figure&gt;
-In 1592, English Parliament wanted to standardize the measurement of the mile and made the decision that it should be equal to eight furlongs. Furlongs, which are still used as a unit of measurement in horse racing, are 660 feet long. Thus, the statute mile we use today is 660 feet times eight = 5,280 ft.
+In 1592, English Parliament wanted to standardize the measurement of the mile and made the decision that it should be equal to eight furlongs. Furlongs, which are still used as a unit of measurement in horse racing, are 660 feet long. Thus, the statute mile we use today is 8 \times \ft{660} = \ft{5,280}.
 &lt;figure &gt;
 &lt;caption&gt;Imperial Standards of Length, Greenwich England&lt;/caption&gt;
 &lt;image width="50%" source="images/Imperial_Standards_of_Length,_Greenwich.jpg"/&gt;

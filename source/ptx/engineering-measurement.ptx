@@ -140,7 +140,7 @@
             <caption>Traditional length units</caption>
             <image source="images/cubit.png" width="50%"/>
          </figure>
-         <p>In 1592, English Parliament wanted to standardize the measurement of the mile and made the decision that it should be equal to eight furlongs. Furlongs, which are still used as a unit of measurement in horse racing, are 660 feet long. Thus, the <term>statute mile</term> we use today is 660 feet times eight = 5,280 ft.</p>
+         <p>In 1592, English Parliament wanted to standardize the measurement of the mile and made the decision that it should be equal to eight furlongs. Furlongs, which are still used as a unit of measurement in horse racing, are 660 feet long. Thus, the <term>statute mile</term> we use today is <m>8 \times \ft{660} = \ft{5,280}</m>.</p>
          <figure>
             <caption>Imperial Standards of Length, Greenwich England</caption>
             <image source="images/Imperial_Standards_of_Length,_Greenwich.jpg" width="50%"/>
@@ -865,7 +865,7 @@
       <subsection xml:id="engineering-measurement-types-of-torque">
          <title>Types of Torque</title>
          <p>
-            <term>Static Torque</term> is required to initiate movement from a standstill or to stop an already moving object. It is the torque required to overcome the inertia of a stationary object and start its rotation. Static torque also occurs when tightening or breaking loose a bolt.</p>
+            <term>Static Torque</term> is required to initiate movement from a standstill or to stop an already moving object. It is the torque required to overcome the inertia of a stationary object and start its rotation, or to overcome static friction such as when breaking loose a bolt.</p>
          <p>Correct torque is crucial for bolted flanges to ensure a secure and leak-free connection. Applying the proper torque to the bolts on a flange ensures that the gasket is properly compressed, which prevents leaks and maintains the integrity of the joint.  Torque is related to bolt tightness, but many additional factors, such as friction, can have a significant impact on the relationship of torque to the tightness of the bolted joint.</p>
          <figure>
             <caption>Static Torque: Turning a bolt</caption>
