@@ -5331,14 +5331,14 @@ https://www.pinterest.com/pin/386183736777263448/
 
 <figure xml:id="four-stroke-V-engine">
    <caption>End View a V-type Four Stroke Diesel Engine </caption> 
-  <image source="images/v16-cutaway-end" width="100%" popout='yes'> 
+  <image source="images/v16-cutaway-end" width="100%"> 
 <remix>
 <source href="https://www.standards.doe.gov/standards-documents/1000/1018-bhdbk-1993-v1">DOE FUNDAMENTALS HANDBOOK MECHANICAL SCIENCE, US DOE Publication DOE-HDBK-1018/1-93
 </source></remix></image></figure> 
 
 <figure xml:id="four-stroke-V-engine-side">
    <caption>Side View a V-type Four Stroke Diesel Engine </caption> 
-  <image source="images/v16-cutaway-side" width="100%" popout='yes'> <remix><source href="https://www.standards.doe.gov/standards-documents/1000/1018-bhdbk-1993-v1">DOE FUNDAMENTALS HANDBOOK MECHANICAL SCIENCE, US DOE Publication DOE-HDBK-1018/1-93
+  <image source="images/v16-cutaway-side" width="100%"> <remix><source href="https://www.standards.doe.gov/standards-documents/1000/1018-bhdbk-1993-v1">DOE FUNDAMENTALS HANDBOOK MECHANICAL SCIENCE, US DOE Publication DOE-HDBK-1018/1-93
 </source></remix></image></figure>
 
 <p>The major components of a typical engine will be described in the following sections.</p></introduction>

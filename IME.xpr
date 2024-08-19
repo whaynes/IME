@@ -1373,26 +1373,6 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>source/ptx/ime.xml</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>scriv2ptx</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioStorageLocations">
-                                    <list>
-                                        <Byte>2</Byte>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
                                     <String>Scrivener/ptx2scriv/ptx2scriv.xsl</String>
                                 </field>
                                 <field name="scenarioIds">
@@ -1835,7 +1815,7 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>source/ptx/Electric-propulsion.ptx</String>
+                                    <String>source/ptx/ime.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -1875,7 +1855,7 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>source/ptx/ime.xml</String>
+                                    <String>source/ptx/Electric-propulsion.ptx</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
