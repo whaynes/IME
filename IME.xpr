@@ -1815,7 +1815,7 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>source/ptx/ime.xml</String>
+                                    <String>source/ptx/main.ptx</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -1835,7 +1835,7 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>source/ptx/main.ptx</String>
+                                    <String>source/ptx/ime.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
