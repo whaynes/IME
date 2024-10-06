@@ -120,6 +120,11 @@
                     <g transform="matrix(2,0,0,2,-820.814,-1490.91)">
                         <circle cx="917" cy="1532" r="2"/>
                     </g>
+                    <g transform="matrix(0.614793,0,0,0.614793,390.142,909.535)">
+                        <g transform="matrix(33.8867,0,0,33.8867,904.706,1138)">
+                        </g>
+                        <text x="878px" y="1138px" style="font-family:'Geneva', sans-serif;font-size:33.887px;">M</text>
+                    </g>
                 </g>
                 <g id="NC" transform="matrix(1,0,0,1,-706.463,539.911)">
                     <g transform="matrix(1,0,0,1,1073.69,-976.08)">
@@ -142,10 +147,10 @@
                     <g id="motro" transform="matrix(1.25,0,0,1.25,-105.047,-1152.86)">
                         <circle cx="951" cy="2187" r="18" style="fill:white;stroke:black;stroke-width:2.17px;stroke-linecap:square;stroke-miterlimit:1.5;"/>
                     </g>
-                    <g transform="matrix(0.614793,0,0,0.614793,536.346,888.395)">
-                        <g transform="matrix(40.6641,0,0,40.6641,902.402,1138)">
+                    <g transform="matrix(0.614793,0,0,0.614793,534.069,890.727)">
+                        <g transform="matrix(40.6641,0,0,40.6641,910.047,1138)">
                         </g>
-                        <text x="878px" y="1138px" style="font-family:'CourierNewPSMT', 'Courier New', monospace;font-size:40.664px;">M</text>
+                        <text x="878px" y="1138px" style="font-family:'Geneva', sans-serif;font-size:40.664px;">M</text>
                     </g>
                 </g>
             </g>
@@ -341,10 +346,10 @@
             <g transform="matrix(0.985549,0,0,1,29.8737,-65.8781)">
                 <text x="625px" y="1554px" style="font-family:'STIXTwoMath-Regular', 'STIX Two Math', serif;font-size:33.333px;">➀</text>
             </g>
-            <g transform="matrix(0.605909,0,0,0.614793,424.091,672.206)">
-                <g transform="matrix(40.6641,0,0,40.6641,902.402,1138)">
+            <g transform="matrix(0.605909,0,0,0.614793,420.925,669.684)">
+                <g transform="matrix(33.8867,0,0,33.8867,904.706,1138)">
                 </g>
-                <text x="878px" y="1138px" style="font-family:'CourierNewPSMT', 'Courier New', monospace;font-size:40.664px;">M</text>
+                <text x="878px" y="1138px" style="font-family:'Geneva', sans-serif;font-size:33.887px;">M</text>
             </g>
             <g transform="matrix(0.985549,0,0,1,-188.017,-444)">
                 <g transform="matrix(25,0,0,25,785.054,1844)">
