@@ -12574,7 +12574,7 @@ Conduction, radiation, and convection are usually considered to be the three met
         <Document ID="52446522-320C-457E-908C-6D2B6723A890">
             <Title>solution</Title>
             <Text>&lt;p&gt;&lt;md&gt;
-&lt;mrow&gt;\psi{35} \text{ (gage)}  \amp =  (45 + 14.7)  \textrm{ psi (absolute)} = 49.7 \textrm{psia}&lt;/mrow&gt;
+&lt;mrow&gt;\psi{35} \text{ (gage)}  \amp =  (35 + 14.7)  \textrm{ psi (absolute)} = 49.7 \textrm{psia}&lt;/mrow&gt;
 &lt;mrow&gt;\amp =   \psi{49.7}  \times \left[\frac{\kPa{101.3}}{\psi{14.7}}\right]  =  \kPa{343} \textrm{ (absolute)}&lt;/mrow&gt;
 &lt;/md&gt;&lt;/p&gt;
 </Text>
@@ -21555,9 +21555,9 @@ The sounding tape can be used in either of two ways.  An innage is a measurement
 &lt;caption&gt;Innage and Ullage measurements&lt;/caption&gt;
   &lt;image width="50%" source="images/innage-ullage.jpg"/&gt;
 &lt;/figure&gt;
-An innage bob has a cupped end which will produce a "popping" sound when it is bounced on the liquid surface which can be heard from the top of the sounding tube.  When taking an image, try to locate the the top surface without dropping the tape too deep.
-An ullage bob has a pointed end, and is used by dropping the tape to the bottom of the tank and noting where the liquid (or cut)  line appears, much like using a dipstick in your car.  The cut line is easier to detect in oil tanks than in water tanks.  The ullage bob has a ruler marked on it, which can be used to measure the depth of any water at the bottom of oil tanks by coating the bob with chalk, which will change color if it enters water.  
-When you finish using an ullage tape on an oil tank, you need to wipe the oil off of the length of the tape, which is one reason why an innage measurement may be preferred. 
+An ullage bob has a cupped end which will produce a "popping" sound that can be heard from the top of the sounding tube when it is bounced on the liquid surface.  When taking an ullage, try to locate the top surface without dropping the tape too deep.
+An innage bob has a pointed end, and is used by dropping the tape to the bottom of the tank and noting where the liquid (or cut)  line appears, much like using a dipstick in your car.  The cut line is easier to detect in oil tanks than in water tanks.  The innage bob has a ruler marked on it, which can be used to measure the depth of any water at the bottom of oil tanks by coating the bob with chalk, which will change color if it enters water.  
+When you finish using a sounding tape on an oil tank, you must wipe the oil off the tape before putting it away. Ullage soundings don't leave as much oil on the tape, so they are often preferred for oil tanks. 
 
 &lt;figure&gt;
 &lt;caption&gt; Sounding Tape and Sounding Bobs&lt;/caption&gt; 
@@ -21566,7 +21566,7 @@ When you finish using an ullage tape on an oil tank, you need to wipe the oil of
    &lt;image  source="images/sounding-bobs.png"/&gt;
 &lt;/sidebyside&gt;
 &lt;/figure&gt;
-Although knowing the tank level is sufficient for many purposes, the actual volume of the contents in gallons or tons can be looked up in the Tank tables.  These tables, which depend on the specific shape of each tank, relate tank level to volume. For highly accurate results, the list and trim of the ship and the temperature of the contents (which affects its density) must be taken into account.
+Although knowing the tank level is sufficient for many purposes, the actual volume of the contents in gallons or tons can be looked up in the Tank Tables.  These tables, which depend on the specific shape of each tank, relate tank level to volume. For highly accurate results, the list and trim of the ship and the temperature of the contents (which affects its density) must be taken into account.
 </Text>
         </Document>
         <Document ID="933006AB-076C-4EBF-8041-33F215B53B48">

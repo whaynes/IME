@@ -1011,9 +1011,9 @@ death is likely.</p>  </cell></row>
 <caption>Innage and Ullage measurements</caption>
   <image width="50%" source="images/innage-ullage.jpg"/>
 </figure>
-<p>An innage bob has a cupped end which will produce a "popping" sound when it is bounced on the liquid surface which can be heard from the top of the sounding tube.  When taking an image, try to locate the the top surface without dropping the tape too deep.</p>
-<p>An ullage bob has a pointed end, and is used by dropping the tape to the bottom of the tank and noting where the liquid (or cut)  line appears, much like using a dipstick in your car.  The cut line is easier to detect in oil tanks than in water tanks.  The ullage bob has a ruler marked on it, which can be used to measure the depth of any water at the bottom of oil tanks by coating the bob with chalk, which will change color if it enters water.  </p>
-<p>When you finish using an ullage tape on an oil tank, you need to wipe the oil off of the length of the tape, which is one reason why an innage measurement may be preferred. </p>
+<p>An <term>ullage bob</term> has a cupped end which will produce a "popping" sound that can be heard from the top of the sounding tube when it is bounced on the liquid surface.  When taking an ullage, try to locate the top surface without dropping the tape too deep.</p>
+<p>An <term>innage bob</term> has a pointed end, and is used by dropping the tape to the bottom of the tank and noting where the liquid (or cut)  line appears, much like using a dipstick in your car.  The cut line is easier to detect in oil tanks than in water tanks.  The innage bob has a ruler marked on it, which can be used to measure the depth of any water at the bottom of oil tanks by coating the bob with chalk, which will change color if it enters water.  </p>
+<p>When you finish using a sounding tape on an oil tank, you must wipe the oil off the tape before putting it away. Ullage soundings don't leave as much oil on the tape, so they are often preferred for oil tanks. </p>
 
 <figure>
 <caption> Sounding Tape and Sounding Bobs</caption> 
@@ -1022,7 +1022,7 @@ death is likely.</p>  </cell></row>
    <image  source="images/sounding-bobs.png"/>
 </sidebyside>
 </figure>
-<p>Although knowing the tank level is sufficient for many purposes, the actual volume of the contents in gallons or tons can be looked up in the <term>Tank tables</term>.  These tables, which depend on the specific shape of each tank, relate tank level to volume. For highly accurate results, the list and trim of the ship and the temperature of the contents (which affects its density) must be taken into account.</p>
+<p>Although knowing the tank level is sufficient for many purposes, the actual volume of the contents in gallons or tons can be looked up in the <term>Tank Tables</term>.  These tables, which depend on the specific shape of each tank, relate tank level to volume. For highly accurate results, the list and trim of the ship and the temperature of the contents (which affects its density) must be taken into account.</p>
 </paragraphs>
 
 <paragraphs><title>Level Meaurement</title>
@@ -1807,7 +1807,7 @@ death is likely.</p>  </cell></row>
 
 <solution>
 <p><md>
-<mrow>\psi{35} \text{ (gage)}  \amp =  (45 + 14.7)  \textrm{ psi (absolute)} = 49.7 \textrm{psia}</mrow>
+<mrow>\psi{35} \text{ (gage)}  \amp =  (35 + 14.7)  \textrm{ psi (absolute)} = 49.7 \textrm{psia}</mrow>
 <mrow>\amp =   \psi{49.7}  \times \left[\frac{\kPa{101.3}}{\psi{14.7}}\right]  =  \kPa{343} \textrm{ (absolute)}</mrow>
 </md></p>
 </solution>

@@ -13,24 +13,24 @@
     </ul>
   </objectives>
   <introduction>
-    <p>Electricity is the backbone of modern civilization, supporting nearly every aspect of our lives.  Most people have used electricity every day of their lives without giving it much thought.  Electricity is not a single thing, rather the term encompasses a broad range of phenomena associated with the presence and movement of charged particles. Electricity is related to magnetism, both being part of the phenomenon of electromagnetism, as described by Maxwell's equations. </p>
-    <p>Electrical phenomena include static electricity, electrical discharges like lightning and sparks, electromagnetic waves like light and x-rays, electromagnitism, electrical generation by induction, chemical reaction, and photoelectric effects; power transmission through conductors, resistance heating, conversion of electrical power to motion, and more. </p>
+    <p>Electricity is the backbone of modern civilization, supporting nearly every aspect of our lives.  Most people have used electricity every day of their lives without giving it much thought.  Electricity is not a single thing, rather the term encompasses a broad range of phenomena associated with the presence and movement of charged particles. Electricity is related to magnetism, both being part of the phenomenon of electromagnetism, as described by Maxwell's equations.</p>
+    <p>Electrical phenomena include static electricity, electrical discharges like lightning and sparks, electromagnetic waves like light and x-rays, electromagnitism, electrical generation by induction, chemical reaction, and photoelectric effects; power transmission through conductors, resistance heating, conversion of electrical power to motion, and more.</p>
     <p>In this chapter we will define some basic electrical concepts and describe some important electrical devices in order to give you a framework to understand how we harness and use electrical power aboard the training ship.</p>
   </introduction>
   <section xml:id="electricity-fundamental-concepts">
     <title>Fundamental Concepts</title>
     <introduction>
-      <p>Electricity is associated with the accumulation or the flow of <term>charged particles</term>, particularly <term>electrons</term>, which are negatively-charged, subatomic particles. Charged particles will naturally flow from areas of high concentration to low concentration if a conductive path is available. The conductor is usually solid, like a copper wire, but can also be liquids such as salt water and mercury, or ionized gases. </p>
-      <p>Static electricity is caused by the accumulation of electrons, as might occur from rubbing hard rubber on a wool carpet. The resulting static charge  can be released suddenly as a spark when you touch a metal object. During a thunderstorm, large quantities of charged particles build up in the clouds and are eventually released to the earth as lightning through ionized air. </p>
+      <p>Electricity is associated with the accumulation or the flow of <term>charged particles</term>, particularly <term>electrons</term>, which are negatively-charged, subatomic particles. Charged particles will naturally flow from areas of high concentration to low concentration if a conductive path is available. The conductor is usually solid, like a copper wire, but can also be liquids such as salt water and mercury, or ionized gases.</p>
+      <p>Static electricity is caused by the accumulation of electrons, as might occur from rubbing hard rubber on a wool carpet. The resulting static charge  can be released suddenly as a spark when you touch a metal object. During a thunderstorm, large quantities of charged particles build up in the clouds and are eventually released to the earth as lightning through ionized air.</p>
       <p>In practical devices, the charged particles are made to flow in a controlled fashion through an <term>electrical circuit</term> to supply power to <term>electrical loads</term>, such as lights, motors, heating elements, electronic devices, etc.  This flow of charged particles is called <term>electrical current</term>.</p>
-      <p>In this section we introduce some important concepts and vocabulary related to electricity, electric circuits, and electrical machines. </p>
+      <p>In this section we introduce some important concepts and vocabulary related to electricity, electric circuits, and electrical machines.</p>
     </introduction>
     <subsection xml:id="electricity-charge">
       <title>Charge</title>
       <sidebyside margins="0%" valign="middle" width="48%">
         <p>Electrical <term>charge</term> is a fundamental property of matter that gives rise to the electromagnetic force, one of the four fundamental forces in nature. It is the property that describes the interaction between particles due to their electric fields. Electric charge is responsible for phenomena such as electricity, magnetism, and the behavior of charged particles.</p>
         <figure xml:id="fig_electric_field">
-          <caption> Electric Field between <m>+</m> and <m>-</m> charges  </caption>
+          <caption>Electric Field between <m>+</m> and <m>-</m> charges</caption>
           <image source="images/electric_field" width="100%">
             <remix>
               <source href="https://commons.wikimedia.org/wiki/File:VFPt_charges_plus_minus_thumb.svg">Geek3</source>
@@ -74,12 +74,12 @@
           </li>
         </ul>
       </p>
-      <p>Current is measured in amperes (A) and is represented by the symbol I. It can be thought of as the quantity of charge passing through a point in a circuit per unit of time, or alternately as the rate of charge flow. </p>
+      <p>Current is measured in amperes (A) and is represented by the symbol I. It can be thought of as the quantity of charge passing through a point in a circuit per unit of time, or alternately as the rate of charge flow.</p>
       <p>The <term>ampere</term>, or <term>amp</term> (unit symbol: A) is the unit of electrical current.  One ampere is equal to one coulomb of charge moving past a point in one second.</p>
-      <p>Consider the battery shown in <xref ref="fig_battery"/>.  The chemical reaction inside the battery causes electrons to move from the positive terminal to the negative terminal, making the negative terminal more negative and the positive terminal more positive.  This creates a <term>potential difference</term>, or <term>voltage</term> across the battery terminals.  </p>
+      <p>Consider the battery shown in <xref ref="fig_battery"/>.  The chemical reaction inside the battery causes electrons to move from the positive terminal to the negative terminal, making the negative terminal more negative and the positive terminal more positive.  This creates a <term>potential difference</term>, or <term>voltage</term> across the battery terminals.</p>
       <p>When the switch is closed, excess electrons will naturally be attracted to the positive terminal and they will migrate through the wire  to attempt to equalize the charge.  This create a flow of electrons that will continue until the chemical reaction is depleted and the battery <q>dies</q>.</p>
       <figure xml:id="fig_battery">
-        <caption>  The battery creates a voltage to drive current through a circuit.  </caption>
+        <caption>The battery creates a voltage to drive current through a circuit.</caption>
         <image source="images/battery.png" width="60%">
           <remix>
             <source href="https://www.freepik.com/free-vector/diagram-showing-electric-circuit-with-battery-lightbulb_7103656.htm">Image by brgfx on Freepik</source>
@@ -101,7 +101,7 @@
       <p><term>Voltage</term>, is a fundamental concept in electricity.  In simple terms, voltage serves as the driving <q>push</q> or <q>force</q> that propels electric charges through a circuit. Other terms used for voltage include <term>electromotive force</term> (EMF), or <term>electric potential difference</term>.   In electrical formulas and equations, you will see voltage symbolized with a capital <m>E</m> or <m>V</m> for steady or average values, or with an <m>e</m> or <m>v</m> for time varying values.</p>
       <definition>
         <statement>
-          <p>The <term>volt</term> (unit symbol: V) is the unit of electromotive force in the International System of Units.  An electric potential difference of one volt between two points will impart one joule of energy per coulomb of charge moving between them.  Another, more practical, definition of a volt is the potential difference required to drive one amp of current through one ohm of resistance. </p>
+          <p>The <term>volt</term> (unit symbol: V) is the unit of electromotive force in the International System of Units.  An electric potential difference of one volt between two points will impart one joule of energy per coulomb of charge moving between them.  Another, more practical, definition of a volt is the potential difference required to drive one amp of current through one ohm of resistance.</p>
         </statement>
       </definition>
       <p>Voltage in an electrical system is equivalent to pressure in a fluid system, and just as a pump generates fluid pressure, voltage must be generated somehow.  There are several methods to produce a voltage, including <em>chemical reactions</em> (such as in batteries) and the <em>photovoltaic effect</em> (as in solar cells); however, the most important method is <term>electromagnetic induction</term>.  Electromagnetic induction is the process where a changing magnetic field induces (creates) an electric voltage in a nearby conductor.   This phenomenon is the basis for generating electricity in devices like generators and transformers and it will be described in more detail in <xref ref="topic-faradays-law"/>.</p>
@@ -109,7 +109,7 @@
     </subsection>
     <subsection xml:id="electricity-sine-waves">
       <title>Sine Waves</title>
-      <p>Electrical systems may be described as either <term>DC</term> (direct current) or <term>AC</term> (alternating current) depending on the voltage supply.  </p>
+      <p>Electrical systems may be described as either <term>DC</term> (direct current) or <term>AC</term> (alternating current) depending on the voltage supply.</p>
       <p>
         In DC systems, the power supply maintains a constant polarity,
         <ie/>
@@ -128,7 +128,7 @@
         <p><term>Frequency</term> The frequency <m>f</m> of a periodic waveform is the number of complete cycles or oscillations that occur in one second. It is measured in Hertz (Hz). Frequency determines how quickly the voltage waveform repeats itself.  Standard electrical voltage in the United States is generated at 60 Hz, while 50 Hz is used in Europe and Japan.</p>
         <p><term>Period</term> The period <m>T</m> of a periodic wave is the time it takes for one complete cycle to occur. It is the reciprocal of frequency (<m>T = 1 / f</m>) and is measured in seconds.</p>
         <p><term>Peak-to-Peak Value</term> The peak-to-peak value is the difference between the maximum positive and maximum negative values in a waveform. It represents the total range of voltage variation.</p>
-        <p><term>Root Mean Square (RMS) Voltage</term> The <term/>root mean square is a mathematical concept used to represent the <em>effective</em> or <em>average</em> value of a varying quantity, such as voltage or current, in an AC waveform. It provides a way to express the magnitude of an AC signal in a manner that is equivalent to the magnitude of a DC value. </p>
+        <p><term>Root Mean Square (RMS) Voltage</term> The <term/>root mean square is a mathematical concept used to represent the <em>effective</em> or <em>average</em> value of a varying quantity, such as voltage or current, in an AC waveform. It provides a way to express the magnitude of an AC signal in a manner that is equivalent to the magnitude of a DC value.</p>
         <p>RMS values, rather than peak or instantaneous values, are used to describe the properties of AC systems.   For example, when you see the voltage rating on a household electrical device (e.g., 120V for North America), it's the RMS value that's being specified. Similarly, the current rating (e.g., 15A) refers to the RMS value of the current.</p>
         <p>For a sinusoidal waveform (like the standard AC power supply waveform), the RMS value is approximately <m>1/\sqrt{2} =  0.707</m> times the peak value of the waveform.  <me>V_{\text{RMS}} = \frac{V_{\text{peak}}}{\sqrt{2}}\qquad V_{\text{peak}} =V_{\text{RMS}}\sqrt{2}</me></p>
         <p>The RMS value of an AC voltage is the equivalent steady DC voltage that would produce the same amount of power dissipation across a resistor as the AC voltage across the same resistor. In other words, it's the voltage that gives the same heating effect as the AC voltage. Similarly, the RMS value of an AC current is the equivalent steady DC current that would produce the same power dissipation in a resistor as the AC current through the same resistor.</p>
@@ -144,7 +144,7 @@
       </paragraphs>
       <paragraphs>
         <title>Three phase power</title>
-        <p>Large AC generators including those on the training ship generate <term>three phase</term> power.  Three phase power consists of three identical alternating voltage waveforms 120 degrees out of phase with each other, as shown in <xref ref="fig_three-phase"/>.   </p>
+        <p>Large AC generators including those on the training ship generate <term>three phase</term> power.  Three phase power consists of three identical alternating voltage waveforms 120 degrees out of phase with each other, as shown in <xref ref="fig_three-phase"/>.</p>
         <figure xml:id="fig_three-phase">
           <caption>Three-Phase Voltages</caption>
           <image source="images/three-phase" width="75%"/>
@@ -158,24 +158,24 @@
       <p><term>Resistance</term> is a property of a material or component in an electrical circuit that opposes the flow of electric current. When a voltage is applied across a circuit component, its resistance restricts the flow of charged particles and reduces the magnitude of the current.  Resistance is measured in ohms and is denoted by the symbol <m>R</m>.  Large resistance, particularly electrical insulation resistance is measured in megohms, where 1 megohm = 1 million ohms.</p>
       <definition>
         <statement>
-          <p>One ohm (unit symbol: Greek Capital Omega, <m>\Omega</m>) is defined as that amount of resistance that will produce one ampere of current when a one volt potential difference applied across the conductor. </p>
+          <p>One ohm (unit symbol: Greek Capital Omega, <m>\Omega</m>) is defined as that amount of resistance that will produce one ampere of current when a one volt potential difference applied across the conductor.</p>
         </statement>
       </definition>
       <p>
         The resistance of a conductor depends on three factors
         <ul>
           <li>The <em>material properties</em> of the conductor.  If current flows easily the material is said to be a good conductor, with low <term>resistivity</term>. Gold, silver, copper and aluminum are all good conductors. Copper and aluminum are commonly used for wires and cables, but gold and silver only used for small electrical contacts due to the cost.</li>
-          <li>The <em>conductor length</em>. The resistance of a conductor is directly proportional to the length of the current path. </li>
-          <li>The conductor’s <em>cross-sectional area</em>. As with fluid in a pipe, the narrower the path, the greater the resistance to flow. </li>
+          <li>The <em>conductor length</em>. The resistance of a conductor is directly proportional to the length of the current path.</li>
+          <li>The conductor’s <em>cross-sectional area</em>. As with fluid in a pipe, the narrower the path, the greater the resistance to flow.</li>
         </ul>
       </p>
       <p>
         The resistance of a conductor is given by <men>R = \frac{\rho L}{A}</men> where:
         <ul marker="">
-          <li><m>R\ </m> is the resistance of the conductor, in ohms.</li>
-          <li><m>L\ </m> is the length of the conductor, in meters.</li>
-          <li><m>A\ </m> is the cross-sectional area of the conductor, in square meters.</li>
-          <li><m>\rho\ </m> is the resistivity of the conductor, in ohm-meters.</li>
+          <li><m>R\</m> is the resistance of the conductor, in ohms.</li>
+          <li><m>L\</m> is the length of the conductor, in meters.</li>
+          <li><m>A\</m> is the cross-sectional area of the conductor, in square meters.</li>
+          <li><m>\rho\</m> is the resistivity of the conductor, in ohm-meters.</li>
         </ul>
       </p>
     </subsection>
@@ -183,10 +183,10 @@
       <title>Reactance</title>
       <p><term>Reactance</term> is a property that represents opposition to current flow in AC systems due to reactive components like <term>capacitors</term> and <term>inductors</term>. Unlike resistance, which is related to the dissipation of energy as heat, reactance is associated with the storage and release of energy in the electric or magnetic fields of the reactive components.</p>
       <p>There are two types of reactance:</p>
-      <p><term>Capacitive Reactance</term><m>X_C</m>: Capacitive reactance occurs in circuits containing capacitors. When AC voltage is applied to a capacitor, it causes a displacement of charge between the plates, resulting in the accumulation and discharge of energy. This leads to a phase shift between the voltage and current waveforms. Capacitive reactance is inversely proportional to the frequency of the AC signal so is less significant at high frequencies. </p>
+      <p><term>Capacitive Reactance</term><m>X_C</m>: Capacitive reactance occurs in circuits containing capacitors. When AC voltage is applied to a capacitor, it causes a displacement of charge between the plates, resulting in the accumulation and discharge of energy. This leads to a phase shift between the voltage and current waveforms. Capacitive reactance is inversely proportional to the frequency of the AC signal so is less significant at high frequencies.</p>
       <p><term>Inductive Reactance</term><m>X_L</m>: Inductive reactance arises in circuits containing inductors. When AC voltage is applied to an inductor, it induces a magnetic field that stores energy. Changes in the magnetic field cause an opposing voltage that leads to a phase shift between voltage and current. Inductive reactance is directly proportional to the frequency of the AC signal so is less significant at low frequencies.</p>
       <p>Reactance is measured in ohms (<m>\Omega</m>), just like resistance. However, reactance has both magnitude and phase, making it a complex quantity. The magnitude of reactance determines how much opposition a reactive component offers to the AC current, while the phase shift characterizes the timing difference between the voltage and current waveforms.</p>
-      <p><term>Impedance</term><m>Z</m>: is a measure of the total opposition to flow of current in an AC circuit due to both resistance and reactance.<me> Z = \sqrt{R^2+ (X_L -X_C)^2} </me>.  Impedance has units of ohms.</p>
+      <p><term>Impedance</term><m>Z</m>: is a measure of the total opposition to flow of current in an AC circuit due to both resistance and reactance.<me>Z = \sqrt{R^2+ (X_L -X_C)^2}</me>.  Impedance has units of ohms.</p>
       <p>
         <term>Phase shift</term>:  In a circuit with no reactive elements, the current and voltage sine waves are in phase,
         <ie/>
@@ -196,15 +196,15 @@
         <caption>Phase shifts due to reactive elements</caption>
         <sidebyside width="30%">
           <figure>
-            <caption> Resistor. Current and voltage in phase.</caption>
+            <caption>Resistor. Current and voltage in phase.</caption>
             <image source="images/in-phase"/>
           </figure>
           <figure>
-            <caption> Inductor.  Current lags voltage.</caption>
+            <caption>Inductor.  Current lags voltage.</caption>
             <image source="images/ELI"/>
           </figure>
           <figure>
-            <caption> Capacitor.  Current leads voltage.</caption>
+            <caption>Capacitor.  Current leads voltage.</caption>
             <image source="images/ICE"/>
           </figure>
         </sidebyside>
@@ -213,23 +213,23 @@
     </subsection>
     <subsection xml:id="electricity-power">
       <title>Power</title>
-      <p>Electrical power is the rate at which electrical energy is transferred or converted from one form to another in an electrical circuit. Electrical power can be converted to useful forms such as mechanical power, light, or  heat, with a suitable device such as a motor, lightbulb, or resistor. Electrical power is measured in watts (W) and is represented by the symbol P.  </p>
+      <p>Electrical power is the rate at which electrical energy is transferred or converted from one form to another in an electrical circuit. Electrical power can be converted to useful forms such as mechanical power, light, or  heat, with a suitable device such as a motor, lightbulb, or resistor. Electrical power is measured in watts (W) and is represented by the symbol P.</p>
       <definition>
         <statement>
-          <p>The watt (Unit symbol: W) is the unit of power the International System of Units (SI).  One watt is the power delivered when one ampere of current is pushed through an electric circuit by one volt of electromotive force, or equivalently 1 joule per second. </p>
+          <p>The watt (Unit symbol: W) is the unit of power the International System of Units (SI).  One watt is the power delivered when one ampere of current is pushed through an electric circuit by one volt of electromotive force, or equivalently 1 joule per second.</p>
         </statement>
       </definition>
       <p>The watt is a relatively small quantity, so kilowatts (kW) and  megawatts (MW) are commonly used. One kW is equal to 1000 W, and one MW equals 1000 kW.</p>
       <p>
         To convert between SI and US customary power units, use these conversion factors:
         <md>
-          <mrow>1 \text{ hp} \amp= 746 \text{ W}  \amp \amp =  0.746 \text{ kW} </mrow>
+          <mrow>1 \text{ hp} \amp= 746 \text{ W}  \amp \amp =  0.746 \text{ kW}</mrow>
           <mrow>1 \text{ kW}\amp =  1.340 \text{ hp} \amp \amp= 3412 \text{ Btu/hr}</mrow>
         </md>
       </p>
       <paragraphs>
         <title>DC Circuits</title>
-        <p>In a DC circuits, where the voltage (V) is constant, electrical power can be calculated simply as the product of voltage and current <men xml:id="PEI"> P = EI</men>, or as the product of resistance and current squared. <men xml:id="I2R">P = I^2 R</men></p>
+        <p>In a DC circuits, where the voltage (V) is constant, electrical power can be calculated simply as the product of voltage and current <men xml:id="PEI">P = EI</men>, or as the product of resistance and current squared. <men xml:id="I2R">P = I^2 R</men></p>
         <p>
           Where:
           <md>
@@ -238,14 +238,14 @@
             <mrow>V \amp = \text{Voltage, in volts.}</mrow>
           </md>
         </p>
-        <p>The second version of this equation uses the Ohm’s law relation <m>E = IR</m> to eliminate <m>E</m> and express power in terms of current and resistance.  This equation indicates that the power dissipated by resistance is proportional to the square of the current, and that energy is lost whenever current flows through a resistor.  </p>
+        <p>The second version of this equation uses the Ohm’s law relation <m>E = IR</m> to eliminate <m>E</m> and express power in terms of current and resistance.  This equation indicates that the power dissipated by resistance is proportional to the square of the current, and that energy is lost whenever current flows through a resistor.</p>
       </paragraphs>
       <paragraphs>
         <title>AC Circuits</title>
-        <p>In AC circuits the power cannot be calculated as easily as DC power for two reasons.  First, the sinusoidal current and voltage are continuously changing, which means that the power is too.  Second, any reactive elements in the circuit shift the current out of phase with the voltage, as shown in <xref ref="fig_phase_shift"/>. </p>
+        <p>In AC circuits the power cannot be calculated as easily as DC power for two reasons.  First, the sinusoidal current and voltage are continuously changing, which means that the power is too.  Second, any reactive elements in the circuit shift the current out of phase with the voltage, as shown in <xref ref="fig_phase_shift"/>.</p>
         <p>The first issue is solved by using RMS average values for current, voltage and power, however simply applying <xref ref="PEI"/> and multiplying the RMS voltage by the RMS current does not give the correct RMS power because of the second issue, the phase shift between the current and voltage waveforms.</p>
         <p>
-          The correct formula for calculating power in a single-phase AC circuit is <men xml:id="ACPEI"> P = E I \cos\theta</men> where:
+          The correct formula for calculating power in a single-phase AC circuit is <men xml:id="ACPEI">P = E I \cos\theta</men> where:
           <md>
             <mrow>P \amp =  \text{Real electrical power (RMS, in watts)}</mrow>
             <mrow>I \amp =  \text{Current (RMS, in amperes)}</mrow>
@@ -253,13 +253,13 @@
             <mrow>\theta \amp = \text{phase angle between current and voltage}</mrow>
           </md>
         </p>
-        <p>The <m>\cos\theta</m> term is called the <term>power factor</term>.  Angle <m>\theta</m> is the amount of phase shift, and the power factor the power factor reduces the <term>apparent power</term><m>S = EI</m>, to the true power value, sometimes called the <term>real power</term>. The power factor gives an indication of how reactive elements affect the system.  Note that since the power factor is the <em>cosine</em> of  angle <m>\theta</m>, its value is always between one and negative one.  </p>
+        <p>The <m>\cos\theta</m> term is called the <term>power factor</term>.  Angle <m>\theta</m> is the amount of phase shift, and the power factor the power factor reduces the <term>apparent power</term><m>S = EI</m>, to the true power value, sometimes called the <term>real power</term>. The power factor gives an indication of how reactive elements affect the system.  Note that since the power factor is the <em>cosine</em> of  angle <m>\theta</m>, its value is always between one and negative one.</p>
       </paragraphs>
       <paragraphs>
         <title>Three phase AC Circuits</title>
         <p>Power in a three phase circuit is <m>\sqrt{3}</m> times larger than the power in a single phase circuit.</p>
         <p>
-          The correct formula for calculating power in a three-phase AC circuit is <men xml:id="three-phase-PEI"> P = \sqrt{3} E I \cos\theta</men> where:
+          The correct formula for calculating power in a three-phase AC circuit is <men xml:id="three-phase-PEI">P = \sqrt{3} E I \cos\theta</men> where:
           <md>
             <mrow>P \amp =  \text{Real electrical power (RMS, in watts)}</mrow>
             <mrow>I \amp =  \text{Current (RMS, in amperes)}</mrow>
@@ -275,8 +275,8 @@
         <term>Ohm’s law</term> describes the relationship between current, voltage, and resistance in an electric circuit. According to Ohm's Law, the current flowing through a circuit is directly proportional to the voltage across it and inversely proportional to the resistance of the circuit. Mathematically, this relationship is expressed as <men xml:id="ohms-law">I = V/R</men>  where:
         <ul marker="">
           <li><m>I</m> is the the current in amperes</li>
-          <li><m>V</m> is the voltage in volts, and </li>
-          <li><m>R</m> is the resistance in ohms. </li>
+          <li><m>V</m> is the voltage in volts, and</li>
+          <li><m>R</m> is the resistance in ohms.</li>
         </ul>
       </p>
       <p>In other words, an increase in voltage leads to a corresponding increase in current if the resistance remains constant, while an increase in resistance results in a decrease in current for a given voltage.</p>
@@ -301,7 +301,7 @@
           <p>Given <m>E</m> = 6.2 kV and <m>I</m> = 233 A, determine resistance <m>R</m>.</p>
         </statement>
         <answer>
-          <p><m>R = 26.6 \Omega </m></p>
+          <p><m>R = 26.6 \Omega</m></p>
         </answer>
         <solution>
           <p>Before applying <xref ref="ohms-law"/> the given voltage must be converted from kilovolts to volts. (Recall that1 kV = 1000 V)</p>
@@ -323,10 +323,10 @@
     </subsection>
     <subsection xml:id="topic-faradays-law">
       <title>Faraday's Law</title>
-      <p>Electromagnetic induction was discovered by English scientist Michael Faraday in 1831. It is not an exaggeration to say that this discovery is the foundation of the modern world. </p>
-      <p>Faraday observed that a <em>changing</em> magnetic field induces an EMF in a nearby conductor.  You can observe this yourself by moving a magnet around and through a coil of wire connected to a sensitive voltmeter.  When the magnetic field passing through the coil changes, whether by moving the magnet through the coil, by moving the conductor through the field, or by varying the strength of the field, a voltage is induced in the conductor that can be used to drive current and deliver electrical power. </p>
+      <p>Electromagnetic induction was discovered by English scientist Michael Faraday in 1831. It is not an exaggeration to say that this discovery is the foundation of the modern world.</p>
+      <p>Faraday observed that a <em>changing</em> magnetic field induces an EMF in a nearby conductor.  You can observe this yourself by moving a magnet around and through a coil of wire connected to a sensitive voltmeter.  When the magnetic field passing through the coil changes, whether by moving the magnet through the coil, by moving the conductor through the field, or by varying the strength of the field, a voltage is induced in the conductor that can be used to drive current and deliver electrical power.</p>
       <p>
-        <term>Faraday's law of electromagnetic induction</term> states that the induced EMF in a closed coil is directly proportional to the rate of change of magnetic flux passing through the circuit. Mathematically, it is expressed as: <men xml:id="faradays-law">\text{EMF} = - n \frac{d\Phi}{dt} </men> Where:
+        <term>Faraday's law of electromagnetic induction</term> states that the induced EMF in a closed coil is directly proportional to the rate of change of magnetic flux passing through the circuit. Mathematically, it is expressed as: <men xml:id="faradays-law">\text{EMF} = - n \frac{d\Phi}{dt}</men> Where:
         <ul marker="">
           <li>EMF is the induced electromotive force (in volts)</li>
           <li><m>n</m> is the number of turns in the coil</li>
@@ -334,19 +334,19 @@
         </ul>
       </p>
       <p>The opposite is also true.  When an electric current flows through a conductor, it generates a magnetic field that surrounds the conductor.  This phenomenon is called <term>Oersted’s principle</term>, and it is principle behind motors, solenoids, and electromagnets.</p>
-      <p>The experiment setup in <xref ref="fig_faradays_experiment"/> demonstrates both Faraday’s Law and Oersted’s Principle.  </p>
+      <p>The experiment setup in <xref ref="fig_faradays_experiment"/> demonstrates both Faraday’s Law and Oersted’s Principle.</p>
       <figure xml:id="fig_faradays_experiment">
         <caption>Faraday’s Experiment</caption>
         <image source="images/Faraday_emf_experiment" width="75%"/>
       </figure>
-      <p>Two coils are wrapped around opposite sides of an iron ring. The left coil is connected to a battery and a switch.  The right coil is connected to a galvanometer, which is an instrument that detects small voltages.  </p>
+      <p>Two coils are wrapped around opposite sides of an iron ring. The left coil is connected to a battery and a switch.  The right coil is connected to a galvanometer, which is an instrument that detects small voltages.</p>
       <p>When the switch is closed,  current flowing in the left coil produces a magnetic field surrounding the conductor (Oersted’s principle).  This field is trapped and channeled through the right hand coil by the iron ring.  As the field builds up when the switch is closed, or collapses when the switch is opened, a voltage is detected on the galvanometer (Faraday’s Law).  However, If the switch is left in either position for very long, the voltage decays to zero, and remains that way until the switch is once again flipped.  This indicates the the induced voltage is caused by a <em>changing</em> magnetic flux <m>\dfrac{d\Phi}{dt}</m>and not by the flux alone.</p>
     </subsection>
   </section>
   <section xml:id="electricity-electrical-components">
     <title>Electrical Components</title>
     <introduction>
-      <p>Electrical components are the building blocks of electrical systems and electronic devices. There are many types of electrical components, each with its unique properties and roles. </p>
+      <p>Electrical components are the building blocks of electrical systems and electronic devices. There are many types of electrical components, each with its unique properties and roles.</p>
       <p>This section introduces some electrical components you should be familiar with, along with the symbols used for them on schematic circuit diagrams.</p>
     </introduction>
     <subsection xml:id="electricity-power-source">
@@ -369,7 +369,7 @@
           </image>
           <image source="images/batteries.png">
             <remix>
-              <source href="https://www.hippopx.com/en/batteries-energy-battery-duracell-technology-warning-low-power-consumption-483120">  CC0</source>
+              <source href="https://www.hippopx.com/en/batteries-energy-battery-duracell-technology-warning-low-power-consumption-483120">CC0</source>
             </remix>
           </image>
         </sidebyside>
@@ -414,12 +414,12 @@
     </subsection>
     <subsection xml:id="electricity-ground">
       <title>Ground</title>
-      <p><term>Ground</term> in electricity has several meanings depending on the context in which it's used. Ground primarily means the earth when ashore, or the hull aboard ship.   </p>
-      <p>Circuits are <term>grounded</term> by connecting them to ground. This <term>ground connection</term> provides an alternate path for electrical currents to flow back to the source. Ashore, electrical circuits are grounded by connecting them electrically to a rod or pipe driven into the earth, while aboard ship, a connection the hull serves the same purpose.    A <term>chassis ground</term>, refers to the point on the metal frame or outer casing (chassis) of an electrical or electronic device where the circuit is grounded.  The chassis itself is grounded to the earth or the hull. Ground also refers to a reference point used for voltage measurements.  Finally a ground or <term>ground fault</term> can refer to an accidental connection between the circuit and ground </p>
+      <p><term>Ground</term> in electricity has several meanings depending on the context in which it's used. Ground primarily means the earth when ashore, or the hull aboard ship.</p>
+      <p>Circuits are <term>grounded</term> by connecting them to ground. This <term>ground connection</term> provides an alternate path for electrical currents to flow back to the source. Ashore, electrical circuits are grounded by connecting them electrically to a rod or pipe driven into the earth, while aboard ship, a connection the hull serves the same purpose.    A <term>chassis ground</term>, refers to the point on the metal frame or outer casing (chassis) of an electrical or electronic device where the circuit is grounded.  The chassis itself is grounded to the earth or the hull. Ground also refers to a reference point used for voltage measurements.  Finally a ground or <term>ground fault</term> can refer to an accidental connection between the circuit and ground</p>
       <p>
         The ground connection serves several important functions:
         <ul>
-          <li><term>Reference Point</term> Voltage is always measured relative to a reference point. By defining a specific point as "ground," voltages at other points in the circuit are measured with respect to this reference.  </li>
+          <li><term>Reference Point</term> Voltage is always measured relative to a reference point. By defining a specific point as "ground," voltages at other points in the circuit are measured with respect to this reference.</li>
           <li><term>Safety Grounding</term> is crucial for safety in electrical systems. In case of a fault or short circuit, excess current can flow to the ground, allowing circuit protection devices like fuses and circuit breakers to quickly interrupt the current flow. This helps prevent electrical fires, shocks, and damage to equipment.</li>
           <li><term>Human Safety</term> In the event of a fault that causes a live conductor to come into contact with a conductive surface (like a metal enclosure), the ground connection provides an alternate path for current to flow <em>around</em>, rather than <em>through</em> the victim, reducing the severity of electric shock.</li>
           <li><term>Shielding</term> In electronic devices and systems, grounding is used for shielding against electromagnetic interference (EMI) and radio frequency interference (RFI). Metal enclosures and components can be connected to the ground to create a shield that prevents external electromagnetic signals from interfering with the device's operation.</li>
@@ -453,17 +453,17 @@
         <sidebyside margins="0%" width="30%">
           <image source="images/stadium_lights.png">
             <remix>
-              <source href="https://www.rawpixel.com/image/6035449/lamp-post-free-public-domain-cc0-photo">  CCO</source>
+              <source href="https://www.rawpixel.com/image/6035449/lamp-post-free-public-domain-cc0-photo">CCO</source>
             </remix>
           </image>
           <image source="images/single_phase_motor">
             <remix>
-              <source href="https://freesvg.org/electric-motor"> CC0</source>
+              <source href="https://freesvg.org/electric-motor">CC0</source>
             </remix>
           </image>
           <image source="images/burners.png">
             <remix>
-              <source href="http://www.freeimageslive.co.uk/free_stock_image/electric-ring-jpg"> freeimageslive.co.uk - freefoodphotos</source>
+              <source href="http://www.freeimageslive.co.uk/free_stock_image/electric-ring-jpg">freeimageslive.co.uk - freefoodphotos</source>
             </remix>
           </image>
         </sidebyside>
@@ -503,7 +503,7 @@
     <subsection xml:id="electricity-conductors">
       <title>Conductors</title>
       <p>Conductors are materials that provide a pathway to connect the various components within the circuit, allowing the current to flow from the power source to the load.</p>
-      <p>Good conductors are materials that have low resistance because their electrons are loosely bound to their atoms.  Copper, aluminum, silver, and gold, are all good conductors. </p>
+      <p>Good conductors are materials that have low resistance because their electrons are loosely bound to their atoms.  Copper, aluminum, silver, and gold, are all good conductors.</p>
       <figure xml:id="fig_conductors">
         <caption>Stranded copper wire, power cables, circuit board traces</caption>
         <sidebyside width="33%">
@@ -525,7 +525,7 @@
           </image>
         </sidebyside>
       </figure>
-      <p>Three methods are commonly used to describe the size of wires and electrical conductors. </p>
+      <p>Three methods are commonly used to describe the size of wires and electrical conductors.</p>
       <p>The <term>American Wire Gage</term> (AWG) system assigns a specific number to each wire size, with lower numbers representing larger wires. The system is widely used in the United States for copper and  aluminum wires. For example, a common household electrical wire might be designated as <em>12 AWG</em> or <em>14 AWG</em>. Smaller numbers indicate thicker wires with larger cross-sectional area, capable of carrying higher current loads. Larger numbers represents thinner wires.</p>
       <p>The <term>Metric system</term> simply uses the cross-sectional area of the wire measured in square millimeters (<m>\text{mm}^2</m>). For instance, you might see a wire labeled as <m>2.5 \text{ mm}^2</m> or <m>4.0 \text{ mm}^2</m>. A larger number indicates a larger cross-sectional area and, therefore, a thicker wire capable of carrying more current.</p>
       <p><term>Circular mils.</term> This system is used in the United States when discussing very small or very large wire sizes. The term <em>circular mil</em> is often abbreviated as <em>CM</em>. The circular mil is defined as the area of a circle with a diameter of one mil, where one mil is a unit of length equal to one thousandth of an inch (0.001 inch).</p>
@@ -598,12 +598,12 @@
           </image>
         </sidebyside>
       </figure>
-      <p><term>Carbon resistors</term> are fundamental and affordable resistors made by mixing carbon granules with a binder, suitable for general-purpose applications. </p>
-      <p><term>Film resistors</term>, including metal film and carbon film, have a thin resistive film deposited on a ceramic or glass substrate, and offer higher stability and precision than carbon resistors. </p>
-      <p><term>Wire wound resistors</term> have a resistive wire wound around a core, often made of ceramic or fiberglass. They are used for high-power applications and where precision and stability are crucial. </p>
-      <p><term>Variable resistors</term>, also known as <term>potentiometers</term>, allow manual adjustment of resistance and are used for tuning purposes. </p>
-      <p><term>Metal Oxide Varistor</term>  MOVs are used as voltage-dependent resistors to protect circuits from voltage spikes and surges. </p>
-      <p><term>Surface-mount resistors</term> are compact and designed for surface-mount technology, facilitating modern electronics assembly processes. </p>
+      <p><term>Carbon resistors</term> are fundamental and affordable resistors made by mixing carbon granules with a binder, suitable for general-purpose applications.</p>
+      <p><term>Film resistors</term>, including metal film and carbon film, have a thin resistive film deposited on a ceramic or glass substrate, and offer higher stability and precision than carbon resistors.</p>
+      <p><term>Wire wound resistors</term> have a resistive wire wound around a core, often made of ceramic or fiberglass. They are used for high-power applications and where precision and stability are crucial.</p>
+      <p><term>Variable resistors</term>, also known as <term>potentiometers</term>, allow manual adjustment of resistance and are used for tuning purposes.</p>
+      <p><term>Metal Oxide Varistor</term>  MOVs are used as voltage-dependent resistors to protect circuits from voltage spikes and surges.</p>
+      <p><term>Surface-mount resistors</term> are compact and designed for surface-mount technology, facilitating modern electronics assembly processes.</p>
       <assemblage xml:id="resistor-symbols">
         <title>Symbols</title>
         <p>
@@ -636,7 +636,7 @@
       <p>
         Insulators are not used as <em>part</em> of a circuit, but rather they are used to
         <ul>
-          <li>prevent accidental contact with live electrical components, reducing the risk of electric shock hazards. </li>
+          <li>prevent accidental contact with live electrical components, reducing the risk of electric shock hazards.</li>
           <li>cover electrical wires and cables to prevent contact between conductors and to ensure that current flows along the desired path without unintentional leakage or interference.</li>
           <li>physically separate and electrically isolate different parts of an electrical circuit. This prevents unintended short circuits and interference between components.</li>
           <li>mount and support electrical components, preventing them from coming into direct contact with conductive surfaces or other components that could cause unintended connections.</li>
@@ -665,7 +665,7 @@
     </subsection>
     <subsection xml:id="electricity-switches">
       <title>Switches</title>
-      <p><term>Switches</term> are devices that can open or close the circuit path, controlling the flow of current. They are used to turn devices on or off and control the circuit's operation.  </p>
+      <p><term>Switches</term> are devices that can open or close the circuit path, controlling the flow of current. They are used to turn devices on or off and control the circuit's operation.</p>
       <p>Switches are available in a wide variety of forms suitable for different applications.</p>
       <p><term>Single-Pole, Single-Throw</term> (SPST) Features a single input terminal and two output terminals, enabling a simple on-off switching action to connect or disconnect a circuit.</p>
       <p><term>Single-Pole, Double-Throw</term> (SPDT) With a single input terminal and two output terminals, this form allows toggling between two circuits or states by connecting the input to either of the two outputs.</p>
@@ -694,13 +694,13 @@
       </figure>
       <p>Switches are also available with many operating behaviors, including:</p>
       <p><term>Momentary switches</term> return to the default state, which can be either open or closed, when released, like a doorbell.</p>
-      <p><term>Latching</term> or <term>maintaining contact </term>switches retain the switch position until manually changed, like a light switch.</p>
+      <p><term>Latching</term> or <term>maintaining contact</term>switches retain the switch position until manually changed, like a light switch.</p>
       <p><term>Toggle switches</term> are operated by flipping a lever to toggle between open and closed positions, providing a straightforward on-off control mechanism.</p>
       <p><term>Selector switches</term> have multiple positions to permit users to choose from different settings or options.</p>
       <p><term>Relays</term> are switches that can be operated remotely by means of an electromagnet.   Relays are used in control circuits and may be operated either manually or by automation.</p>
-      <p><term>Contactors</term> are relays designed to handle higher voltages and currents than typical switches or relays, making them suitable for controlling heavy loads, such as motors, heaters, and other heavy-duty equipment.  </p>
+      <p><term>Contactors</term> are relays designed to handle higher voltages and currents than typical switches or relays, making them suitable for controlling heavy loads, such as motors, heaters, and other heavy-duty equipment.</p>
       <figure xml:id="fig_switches_relays">
-        <caption> Switch panel, relay, and contactor</caption>
+        <caption>Switch panel, relay, and contactor</caption>
         <sidebyside widths="47% 26% 26%">
           <image source="images/switch_panel.png">
             <remix>
@@ -834,9 +834,9 @@
     <subsection xml:id="electricity-inductors">
       <title>Inductors</title>
       <p>An inductor is an electrical component that stores energy in a magnetic field when current flows through it. It consists of a coil of wire wound around a core material. When current passes through the coil, a magnetic field is created around it, and this field stores energy. Any device which uses electrical current to produce a magnetic field is an inductor.</p>
-      <p>An inductor is like a "magnetic energy storage" device. It resists changes in current and helps regulate and control the flow of electricity. They are used in applications like filtering, energy storage, and electromagnets. </p>
+      <p>An inductor is like a "magnetic energy storage" device. It resists changes in current and helps regulate and control the flow of electricity. They are used in applications like filtering, energy storage, and electromagnets.</p>
       <figure xml:id="fig_inductors">
-        <caption>Magnetic Field surrounding inductor, toroidal inductors </caption>
+        <caption>Magnetic Field surrounding inductor, toroidal inductors</caption>
         <sidebyside width="40%">
           <image source="images/inductor_coil" width="100%">
             <remix>
@@ -846,7 +846,7 @@
           </image>
           <image source="images/inductors.png" width="50%">
             <remix>
-              <source href="https://www.flickr.com/photos/jonathancharles/2504810153/in/photostream/">   CC BY-SA</source>
+              <source href="https://www.flickr.com/photos/jonathancharles/2504810153/in/photostream/">CC BY-SA</source>
             </remix>
           </image>
         </sidebyside>
@@ -874,7 +874,7 @@
     <subsection xml:id="electricity-diodes">
       <title>Diodes</title>
       <p>A <term>diode</term> is an electrical component that allows current to flow in one direction while blocking it in the opposite direction. It acts as a <q>one-way valve</q> for electric current. Diodes are made from semiconductor materials and have two terminals: an anode (positive side) and a cathode (negative side).</p>
-      <p><term>Rectifier Diodes</term> are used for converting AC to direct current DC (rectification). </p>
+      <p><term>Rectifier Diodes</term> are used for converting AC to direct current DC (rectification).</p>
       <p><term>Zener diodes</term> are used for voltage regulation and voltage reference applications. They maintain a nearly constant voltage across their terminals regardless of current changes.</p>
       <p><term>Light Emitting Diodes</term> (LEDs)  emit light when current flows through them. They are used for indicators, displays, lighting, and optical communication.</p>
       <figure xml:id="fig_diodes">
@@ -994,7 +994,7 @@
         </sidebyside>
       </figure>
       <p><term>Circuit breakers</term> are electromechanical devices that to swiftly interrupt current flow under short circuit and overload conditions.</p>
-      <p>Short circuits protection is provided by the <term>instantaneous trip mechanism</term>. It relies on the electromagnetic force generated by the excessive current passing through a solenoid coil. The large magnetic field generated by the high current causes the solenoid to rapidly trigger a trip mechanism and open the circuit breaker's contacts almost instantly. </p>
+      <p>Short circuits protection is provided by the <term>instantaneous trip mechanism</term>. It relies on the electromagnetic force generated by the excessive current passing through a solenoid coil. The large magnetic field generated by the high current causes the solenoid to rapidly trigger a trip mechanism and open the circuit breaker's contacts almost instantly.</p>
       <p>The <term>overload trip mechanism</term> detects sustained high currents caused by excessive load or faulty equipment, but permits the temporary overloads that occur when a motor starts. The load current passes through a bimetallic strip or a heating element. If the current increases, the temperature of the bimetallic strip rises, causing it to bend. When the bending reaches a critical point, it triggers the trip mechanism, opening the circuit breaker contacts and cutting off the current.</p>
       <p><term>Fuses</term>  are thin wires or elements designed to melt and break the circuit when excessive current flows through them. Like circuit breakers, they provide protection against overcurrents and short circuits but need to be replaced after they "blow."</p>
       <p><term>Ground Fault Circuit Interrupters</term> (GFCIs) monitor current imbalances, and swiftly shut off power if a ground fault is detected, protecting people against electric shocks.</p>
@@ -1040,17 +1040,17 @@
   <section xml:id="electricity-electrical-circuits">
     <title>Electrical Circuits</title>
     <introduction>
-      <p>An <term>electric circuit</term> is a closed loop or pathway through which electric current flows to the various components which supply or utilize electrical power. </p>
+      <p>An <term>electric circuit</term> is a closed loop or pathway through which electric current flows to the various components which supply or utilize electrical power.</p>
       <p>This section introduces four common circuit arrangements that you should be familiar with: series, parallel, wye (also known as star), and delta.</p>
     </introduction>
     <subsection xml:id="electricity-series-circuit">
       <title>Series Circuit</title>
       <p>In a <term>series circuit</term>, the components are connected in a single path, end-to-end, creating a sequential circuit. If one component fails or is disconnected, the entire circuit is broken, and the flow of current stops.</p>
       <figure xml:id="fig_series_resistors">
-        <caption>  Three resistors in series  </caption>
+        <caption>Three resistors in series</caption>
         <image source="images/series_resistors" width="60%">
           <remix>
-            <source>whaynes CC0 </source>
+            <source>whaynes CC0</source>
           </remix>
         </image>
       </figure>
@@ -1065,11 +1065,11 @@
       <example xml:id="electricity-example-series-resistors">
         <title>Series Resistors</title>
         <statement>
-          <p>Consider the series circuit in <xref ref="fig_series_resistors"/>. </p>
+          <p>Consider the series circuit in <xref ref="fig_series_resistors"/>.</p>
           <p>
-            If the battery supplies 48 V, and the resistors are <m>R_1 = 10\ \Omega</m>, <m>R_2 = 20\ \Omega</m>, and<m> R_3= 50\ \Omega</m>, determine
+            If the battery supplies 48 V, and the resistors are <m>R_1 = 10\ \Omega</m>, <m>R_2 = 20\ \Omega</m>, and<m>R_3= 50\ \Omega</m>, determine
             <ol marker="A">
-              <li>The current in the circuit, and </li>
+              <li>The current in the circuit, and</li>
               <li>The voltage drop across each resistor.</li>
             </ol>
           </p>
@@ -1083,7 +1083,7 @@
           <p>
             The voltage drop across each resistor is
             <md>
-              <mrow>E_1  \amp= I R_1= 6 \text{ V} </mrow>
+              <mrow>E_1  \amp= I R_1= 6 \text{ V}</mrow>
               <mrow>E_2  \amp= I R_2 = 12 \text{ V}</mrow>
               <mrow>E_3  \amp= I R_3 = 30 \text{ V}</mrow>
             </md>
@@ -1096,10 +1096,10 @@
       <title>Parallel Circuit</title>
       <p>In a <term>parallel circuit</term>, the components are connected between the same two points, creating a separate current path for each component. Parallel components all use the same power supply but can be turned on and off independently.</p>
       <figure xml:id="fig_parallel_resistors">
-        <caption>  Three resistors in parallel  </caption>
+        <caption>Three resistors in parallel</caption>
         <image source="images/parallel_resistors" width="60%">
           <remix>
-            <source>whaynes CC0  </source>
+            <source>whaynes CC0</source>
           </remix>
         </image>
       </figure>
@@ -1107,24 +1107,24 @@
         The key characteristics parallel circuits are:
         <ul>
           <li>The same voltage is applied to all parallel components.</li>
-          <li>The current through each component may be different, but the total current is the sum of the currents through each component. </li>
+          <li>The current through each component may be different, but the total current is the sum of the currents through each component.</li>
           <li>The total resistance of a parallel circuit containing <m>n</m> branches is given by this formula <men xml:id="parallel_resistors_formula">R_t = \frac{1}{1/R_1 + 1/R_2 + 1/R_3 + ... 1/R_n}</men>.</li>
         </ul>
       </p>
       <example xml:id="electricity-example-parallel-resistors">
         <title>Parallel resistors</title>
         <statement>
-          <p>Consider the series circuit in <xref ref="fig_parallel_resistors"/>. </p>
+          <p>Consider the series circuit in <xref ref="fig_parallel_resistors"/>.</p>
           <p>
-            If the battery supplies 100 V, and the resistors are <m>R_1 = 100\ \Omega</m>, <m>R_2 = 200\ \Omega</m>, and<m> R_3= 500\ \Omega</m>, determine
+            If the battery supplies 100 V, and the resistors are <m>R_1 = 100\ \Omega</m>, <m>R_2 = 200\ \Omega</m>, and<m>R_3= 500\ \Omega</m>, determine
             <ol marker="A">
-              <li>The total current <m>I</m> in the circuit, and </li>
+              <li>The total current <m>I</m> in the circuit, and</li>
               <li>The total current if branch 3 is turned off by opening the third switch.</li>
             </ol>
           </p>
         </statement>
         <answer>
-          <p>For all three branches in operation:  I = 1.7 A. </p>
+          <p>For all three branches in operation:  I = 1.7 A.</p>
           <p>For just the first two branches I = 1.5 A.</p>
         </answer>
         <solution>
@@ -1132,7 +1132,7 @@
           <p>
             Use Ohm’s Law <m>I = E/R</m> to calculate the current through each resistor.
             <md>
-              <mrow>I_1  \amp= E/R_1 =  \frac{100 \text{ V}}{100\ \Omega} = 1.0 \text{ A} </mrow>
+              <mrow>I_1  \amp= E/R_1 =  \frac{100 \text{ V}}{100\ \Omega} = 1.0 \text{ A}</mrow>
               <mrow>I_2  \amp= E/R_2 =  \frac{100 \text{ V}}{200\ \Omega}= 0.5 \text{ A}</mrow>
               <mrow>I_3  \amp= E/R_3 =  \frac{100 \text{ V}}{500\ \Omega}= 0.2 \text{ A}</mrow>
             </md>
@@ -1142,7 +1142,7 @@
         </solution>
         <solution>
           <p>An alternate solution method is to first find the equivalent resistance using <xref ref="parallel_resistors_formula"/>, then use that resistance to find the current.</p>
-          <p>For all three resistors <me> R_t = \frac{1}{\frac{1}{100}+\frac{1}{200} + \frac{1}{500}} = 58.8\ \Omega</me>, and the corresponding current is <me> I =\frac{E}{R_t}= \frac{100 \text{ V}}{58.8\ \Omega} = 1.7 \text{ A}</me></p>
+          <p>For all three resistors <me>R_t = \frac{1}{\frac{1}{100}+\frac{1}{200} + \frac{1}{500}} = 58.8\ \Omega</me>, and the corresponding current is <me>I =\frac{E}{R_t}= \frac{100 \text{ V}}{58.8\ \Omega} = 1.7 \text{ A}</me></p>
           <p>
             Repeating the calculations for the first two resistors only we get
             <md>
@@ -1159,18 +1159,18 @@
           <image source="images/series_parallel" width="60%"/>
         </statement>
         <answer>
-          <p>I = 0.494 A = 494 mA. </p>
+          <p>I = 0.494 A = 494 mA.</p>
         </answer>
         <solution>
           <p>
             The system can be thought of as resistor <m>R_1</m> in series with the parallel combination of resistors <m>R_2</m> and <m>R_3</m>.   The total resistance of this combination is
             <md>
-              <mrow>R_t   \amp= R_1 + \frac{1}{\frac{1}{R_2}+\frac{1}{R_3}} </mrow>
-              <mrow>    \amp=  100  + \frac{1}{\frac{1}{200}+\frac{1}{500}}</mrow>
-              <mrow>    \amp= 242.9\ \Omega</mrow>
+              <mrow>R_t   \amp= R_1 + \frac{1}{\frac{1}{R_2}+\frac{1}{R_3}}</mrow>
+              <mrow>\amp=  100  + \frac{1}{\frac{1}{200}+\frac{1}{500}}</mrow>
+              <mrow>\amp= 242.9\ \Omega</mrow>
             </md>
           </p>
-          <p>Applying Ohm’s Law with this resistance gives the current<me> I =  E/R_t =  \frac{120 \text{ V}}{242.9\ \Omega} = 0.494\text{ A} </me></p>
+          <p>Applying Ohm’s Law with this resistance gives the current<me>I =  E/R_t =  \frac{120 \text{ V}}{242.9\ \Omega} = 0.494\text{ A}</me></p>
         </solution>
       </example>
     </subsection>
@@ -1186,7 +1186,7 @@
         </mdn>
       </p>
       <figure xml:id="fig_wye_connection">
-        <caption> Three inductors, wye connected  </caption>
+        <caption>Three inductors, wye connected</caption>
         <image source="images/wye_connection" width="40%">
           <remix>
             <source>whaynes CC0</source>
@@ -1196,7 +1196,7 @@
     </subsection>
     <subsection xml:id="electricity-delta-circuit">
       <title>Delta Circuit</title>
-      <p>In a delta configuration, three components are connected in a closed loop resembling a triangle.  Each component is connected across two lines, and no neutral point is used. </p>
+      <p>In a delta configuration, three components are connected in a closed loop resembling a triangle.  Each component is connected across two lines, and no neutral point is used.</p>
       <p>
         In a three-phase delta circuit,
         <mdn>
@@ -1205,7 +1205,7 @@
         </mdn>
       </p>
       <figure xml:id="fig_delta_connection">
-        <caption>  Three inductors, delta connected  </caption>
+        <caption>Three inductors, delta connected</caption>
         <image source="images/delta_connection" width="40%">
           <remix>
             <source>whaynes CC0</source>
@@ -1217,7 +1217,7 @@
       <title>Circuit Faults</title>
       <p>Circuit faults or malfunctions can usually be grouped into one of the following categories:</p>
       <p>An <term>open circuit</term> occurs when the conducting path has been broken, intentionally or unintentionally, stopping the flow of current. An open occurs when a switch is opened, a fuse blows or a circuit breaker trips, or when a wire breaks or becomes disconnected.  The resistance of an open circuit is effectively infinite.</p>
-      <p>A <term>short circuit</term> is an unintentional low-resistance pathway between two points at different voltage levels.  Shorts can occur between two points in the same circuit, or between a single point and ground. </p>
+      <p>A <term>short circuit</term> is an unintentional low-resistance pathway between two points at different voltage levels.  Shorts can occur between two points in the same circuit, or between a single point and ground.</p>
       <p>By Ohm’s law, when the resistance is small the resulting current will be large. Large short circuit currents can lead to overheating, damage, fire hazards or arc flash. Electric shock may be caused by a short circuit through the human body.</p>
       <p>In a properly protected circuit, a circuit breaker or fuse should quickly open to interrupt the short circuit current.</p>
       <p>Short circuits can are caused by faulty or incorrect wiring, insulation failure, and particularly by human error.</p>
@@ -1253,9 +1253,9 @@
       <paragraphs>
         <title>Digital Multimeters</title>
         <sidebyside margins="0% 10%" valign="middle" widths="40% 40%">
-          <p>A <term>digital multimeter</term> (DMM) is a versatile electronic tool that combines multiple measurement functions in one device. Most digital multimeters can measure AC and DC voltages, AC and DC currents up to a few amps, resistance, and perform continuity tests.  Some meters can additionally measure capacitance, frequency, check diodes, and measure temperatures with an optional thermocouple. A good digital multimeter is a valuable tool for troubleshooting electrical and electronic devices.  </p>
+          <p>A <term>digital multimeter</term> (DMM) is a versatile electronic tool that combines multiple measurement functions in one device. Most digital multimeters can measure AC and DC voltages, AC and DC currents up to a few amps, resistance, and perform continuity tests.  Some meters can additionally measure capacitance, frequency, check diodes, and measure temperatures with an optional thermocouple. A good digital multimeter is a valuable tool for troubleshooting electrical and electronic devices.</p>
           <figure xml:id="fig_digital_multimeter">
-            <caption>  Digital Multimeter  </caption>
+            <caption>Digital Multimeter</caption>
             <image source="images/digital_multimeter.png">
               <remix>
                 <source>https://www.fluke.com/en-us/product/electrical-testing/digital-multimeters/fluke-87v</source>
@@ -1264,7 +1264,7 @@
           </figure>
         </sidebyside>
         <p>When using a DMM, always ensure that the test leads are correctly connected to the meter; the black lead goes in the common (COM) jack, but the red lead position depends on the measurement you intend to make. Next, select the desired measurement mode with a selector switch to configure the DMM's internal circuitry, and finally connect the test leads to the circuit and make the measurement.   The DMM displays the measured values on a digital screen, showing the numerical value and unit. Some models have auto-ranging, which selects the appropriate measurement range automatically, and data hold functions to freeze the displayed value.</p>
-        <p>To measure voltage you connect the DMM probes to the circuit across two points of interest.  An analog-to-digital converter (ADC) detects the voltage difference between them and converts it into a digital format which is then processed and displayed. When measuring large voltages, a potential divider circuit proportionally reduces the voltage to a suitable lower value. </p>
+        <p>To measure voltage you connect the DMM probes to the circuit across two points of interest.  An analog-to-digital converter (ADC) detects the voltage difference between them and converts it into a digital format which is then processed and displayed. When measuring large voltages, a potential divider circuit proportionally reduces the voltage to a suitable lower value.</p>
         <p>To measure current, the DMM is connected in series with the circuit under test and the voltage drop across a precision internal resistor is measured to determine the current.   However, to use a DMM to measure current you must disconnect and open a portion of the circuit to introduce the meter.  For this reason, DMMs are rarely used for current measurement.</p>
         <p>Resistance measurement involves applying a stabilized voltage from the meter’s battery to the component being tested and measuring the resulting current. Using the applied voltage and measured current, the DMM calculates the resistance.</p>
         <p>A continuity test is just a resistance measurement used to determine if two points are electrically connected.  Often the meter will produce an audible <q>beep</q> if the resistance is below a threshold value of 50-100 ohms.</p>
@@ -1278,7 +1278,7 @@
 Adam Ensign 
 https://www.pinterest.com/pin/386183736777263448/
  -->
-            <caption> Voltage Tester <q>Wiggy</q></caption>
+            <caption>Voltage Tester <q>Wiggy</q></caption>
             <image source="images/wiggys.png" width="100%"/>
           </figure>
         </sidebyside>
@@ -1288,7 +1288,7 @@ https://www.pinterest.com/pin/386183736777263448/
         <sidebyside margins="0% 10%" valign="middle" widths="40% 40%">
           <p><term>Clamp-on ammeters</term> are hand-held instruments used to measure AC currents. A plier-like pick-up coil is closed around the conductor in which current is to be measured, and the movement responds to current induced in the pick-up coil by the changing magnetic field surrounding the conductor.  Clamp-on meters are preferable to digital multimeters for measuring currents because the don’t require the circuit to be disturbed to use, and they can measure larger currents than a DMM, however, because they depend on a changing magnetic field they do not work with DC currents.</p>
           <figure xml:id="fig_clamp_on">
-            <caption> Clamp-on ammeter </caption>
+            <caption>Clamp-on ammeter</caption>
             <image source="images/clamp_on.png" width="100%">
               <remix>
                 <source href="https://commons.wikimedia.org/wiki/File:Clampmeter_Fluke_337.jpg">Harke, Public domain, via Wikimedia Commons</source>
@@ -1300,7 +1300,7 @@ https://www.pinterest.com/pin/386183736777263448/
       <paragraphs>
         <title>Megohmmeters</title>
         <sidebyside margins="0% 10%" valign="middle" widths="40% 40%">
-          <p>A <term>Megohmmeter</term> or <term>megger</term> is a electrical meter specifically designed to measure very large resistances, particularly the resistance of electric insulation, resistance which is too large to be measured accurately with a DMM. It consists of an internal high voltage source (up to 1000 V), an accurate ammeter, and a display scale marked in megohms.   </p>
+          <p>A <term>Megohmmeter</term> or <term>megger</term> is a electrical meter specifically designed to measure very large resistances, particularly the resistance of electric insulation, resistance which is too large to be measured accurately with a DMM. It consists of an internal high voltage source (up to 1000 V), an accurate ammeter, and a display scale marked in megohms.</p>
           <figure xml:id="fig_megger">
             <caption>Megohmmeter</caption>
             <image source="images/megger.png">
@@ -1310,7 +1310,7 @@ https://www.pinterest.com/pin/386183736777263448/
             </image>
           </figure>
         </sidebyside>
-        <p>Before use, the equipment under test must be secured, locked out, and grounded to discharge any residual capacitive static charge. The meter is connected between an insulated conductor and ground, and then the test voltage is applied for 60 seconds or until the resistance  reading stops changing, whichever comes first. The meter measures the current flow through the insulation, and using ohm’s law, calculates and displays the insulation resistance. </p>
+        <p>Before use, the equipment under test must be secured, locked out, and grounded to discharge any residual capacitive static charge. The meter is connected between an insulated conductor and ground, and then the test voltage is applied for 60 seconds or until the resistance  reading stops changing, whichever comes first. The meter measures the current flow through the insulation, and using ohm’s law, calculates and displays the insulation resistance.</p>
       </paragraphs>
       <assemblage xml:id="meter-symbols">
         <title>Symbols</title>
@@ -1340,28 +1340,28 @@ https://www.pinterest.com/pin/386183736777263448/
     </subsection>
     <subsection xml:id="Batteries_and_fuel_cells">
       <title>Batteries</title>
-      <p>Batteries are electro-chemical, direct-current power supplies.  Batteries store and deliver electrical energy through a chemical reaction. Batteries consist of several electro-chemical <term>cells</term>, each containing an <term>anode</term>, <term>cathode</term>, and <term>electrolyte</term>. </p>
+      <p>Batteries are electro-chemical, direct-current power supplies.  Batteries store and deliver electrical energy through a chemical reaction. Batteries consist of several electro-chemical <term>cells</term>, each containing an <term>anode</term>, <term>cathode</term>, and <term>electrolyte</term>.</p>
       <p>When connected to a circuit, the anode releases electrons into the external circuit, while the cathode absorbs them, generating an electrical current.  Each cell creates around 1.5 volts depending on the battery chemistry.</p>
-      <p>The chemical energy stored in a battery is finite, and is measured as its <term>ampere-hour capacity</term>. As current is drawn from the battery the chemical energy is depleted, at which time the battery must be replaced or when possible, recharged.  </p>
-      <p><term>Wet cell</term> batteries contain a <em>liquid</em> electrolyte that is typically a mixture of water and sulfuric acid.  <term>Lead-acid</term> batteries are the most common type of wet cell. Wet-cell batteries are used where large power capacity is required, such as for uninterruptible power supplies and for starting small engines. </p>
+      <p>The chemical energy stored in a battery is finite, and is measured as its <term>ampere-hour capacity</term>. As current is drawn from the battery the chemical energy is depleted, at which time the battery must be replaced or when possible, recharged.</p>
+      <p><term>Wet cell</term> batteries contain a <em>liquid</em> electrolyte that is typically a mixture of water and sulfuric acid.  <term>Lead-acid</term> batteries are the most common type of wet cell. Wet-cell batteries are used where large power capacity is required, such as for uninterruptible power supplies and for starting small engines.</p>
       <p><term>Dry cell</term> batteries contain an electrolyte in a solid, semi-solid, or gel-like state.  <term>Alkaline</term>, <term>nickel-cadmium</term> (Nicad), <term>lithium-ion</term>, and <term>nickel-metal hydride</term> batteries are all dry cells. Dry cells are commonly used for low-power purposes, such as flashlights and portable equipment.</p>
       <p>The state of charge of a battery usually cannot be determined easily or accurately. For lead-acid batteries the approximate charge is determined by measuring the density of the electrolyte with a hydrometer, while the approximate charge of the Nicad batteries is determined by measuring the cell voltage.</p>
     </subsection>
     <subsection xml:id="AC_generators">
       <title>AC Generators</title>
-      <p>A synchronous generator is a device that converts mechanical energy into electrical energy by utilizing the principle of <term>electromagnetic induction</term>. </p>
+      <p>A synchronous generator is a device that converts mechanical energy into electrical energy by utilizing the principle of <term>electromagnetic induction</term>.</p>
       <p>According to Faraday's law of electromagnetic induction, a moving or changing magnetic field induces an electric voltage in a nearby conductor. If the conductor forms a closed loop, an electric current will flow and electrical power will be transmitted.</p>
-      <p>An electrical generator consists of two main <em>mechanical</em> components: a rotating part called the <term>rotor</term> and a stationary part called the <term>stator</term>, and two main <em>electrical</em> components: the <term>armature</term> and the <term>field</term>.  </p>
+      <p>An electrical generator consists of two main <em>mechanical</em> components: a rotating part called the <term>rotor</term> and a stationary part called the <term>stator</term>, and two main <em>electrical</em> components: the <term>armature</term> and the <term>field</term>.</p>
       <p>Both the armature and the field are made of a conducting material, usually copper wire, wound into multi-loop coils called <term>windings</term>. The rotor is connected to a prime mover, such as a steam turbine or a diesel engine which supplies the mechanical energy to the generator.</p>
-      <p>The <term>field windings</term> are like an electromagnet.  When direct current (DC) flows through the field windings, a magnetic field is created similar to the one which surrounds the north and south poles of an ordinary magnet, but adjustable. The strength of the field is controlled by the amount of the field current.  The process of supplying electrical current to the field winding is known as <term>excitation</term>.  </p>
+      <p>The <term>field windings</term> are like an electromagnet.  When direct current (DC) flows through the field windings, a magnetic field is created similar to the one which surrounds the north and south poles of an ordinary magnet, but adjustable. The strength of the field is controlled by the amount of the field current.  The process of supplying electrical current to the field winding is known as <term>excitation</term>.</p>
       <p>The <term>armature windings</term> are the part of the generator where the voltage is induced.  The armature consists of several individual windings connected in a specific configuration. The end points of the armature windings are called the generator <term>terminals</term>.  As long as the generator is spinning, the field will induce a sinusoidal AC voltage into the armature windings.  The armature windings deliver power to the terminals and thence to the load circuit.</p>
       <p>In a typical AC synchronous generator, the rotor carries the field windings and the stator carries the armature windings, however the opposite arrangement is also possible.</p>
       <paragraphs>
         <title>Single-phase generator</title>
-        <p>The diagram below shows a simplified AC, single-phase synchronous generator, illustrating the rotor, stator, armature and field. </p>
+        <p>The diagram below shows a simplified AC, single-phase synchronous generator, illustrating the rotor, stator, armature and field.</p>
         <p>A prime mover such as an engine or turbine spins the rotor and supplies the input mechanical energy.  The rotor carries an externally energized electromagnet (the field) which creates a magnetic field.  The rotor is surrounded by the stator, which carries multiple turns of copper windings, (the stationary armature).   The ends of the armature windings are the generator terminals; the external circuit begins and ends there.</p>
         <figure xml:id="fig_simple_ac_generator">
-          <caption>  Simplified single-phase AC generator </caption>
+          <caption>Simplified single-phase AC generator</caption>
           <image source="images/simple_ac_generator.png" width="80%">
             <remix>
               <source>https://www.brown.edu/Departments/Engineering/Courses/ENGN1931F/AC_Electrical_Generators_ASOPE.pdf</source>
@@ -1369,31 +1369,31 @@ https://www.pinterest.com/pin/386183736777263448/
           </image>
         </figure>
         <p>As the rotating magnetic field passes by the stationary armature, a voltage is induced in the armature.  This voltage varies in magnitude and direction sinusoidally, as shown in <xref ref="fig_sine-wave-definitions"/>.</p>
-        <p>The frequency is related to the rotor rpm according to this relation: <me>f =   \frac{120 \times N}{2 \times 60}</me> where f is the frequency in Hz and N is the total number of poles.   </p>
+        <p>The frequency is related to the rotor rpm according to this relation: <me>f =   \frac{120 \times N}{2 \times 60}</me> where f is the frequency in Hz and N is the total number of poles.</p>
         <p>
           For a two-pole field (one north and one south pole) rotating at 3600 rpm, the voltage will alternate through 60 cycles each second
           <ie/>
           360 Hz. With a four-pole field, the north and south poles will pass by the armature windings twice per rotation. As a result, a four-pole generator will produce the same frequency as a two-pole generator while spinning at half the speed.
         </p>
-        <p>Although the voltage continuously varies from instant to instant, we represent the sine wave voltage using its RMS average.The RMS voltage is proportional to the speed of rotation and also the strength of the magnetic field, therefore the generator output voltage can be adjusted by controlling the current that creates the field. </p>
+        <p>Although the voltage continuously varies from instant to instant, we represent the sine wave voltage using its RMS average.The RMS voltage is proportional to the speed of rotation and also the strength of the magnetic field, therefore the generator output voltage can be adjusted by controlling the current that creates the field.</p>
       </paragraphs>
       <paragraphs>
         <title>Three-phase generator</title>
         <p>To generate three-phase power, the stator is fitted with three armature windings arranged symmetrically, 120 degrees apart from each other.   The three windings are connected together with the common point designated <term>neutral</term>.</p>
         <figure xml:id="fig_three_phase_stator">
-          <caption> Three-phase generator stator, showing three individual armature windings. </caption>
+          <caption>Three-phase generator stator, showing three individual armature windings.</caption>
           <image source="images/three_phase_stator.png" width="50%">
             <remix>
               <source>https://www.allaboutcircuits.com/textbook/alternating-current/chpt-13/tesla-polyphase-induction-motors/</source>
             </remix>
           </image>
         </figure>
-        <p>As the rotor rotates, the rotating magnetic field induces voltages into each stator winding in turn, generating three sine waves of voltage, equally spaced, shown below. </p>
+        <p>As the rotor rotates, the rotating magnetic field induces voltages into each stator winding in turn, generating three sine waves of voltage, equally spaced, shown below.</p>
         <figure xml:id="three-phase">
-          <caption>  Three-phase AC Voltage  </caption>
+          <caption>Three-phase AC Voltage</caption>
           <image source="images/three-phase" width="60%">
             <remix>
-              <source>whaynes CC0   </source>
+              <source>whaynes CC0</source>
             </remix>
           </image>
         </figure>
@@ -1401,39 +1401,39 @@ https://www.pinterest.com/pin/386183736777263448/
     </subsection>
     <subsection xml:id="Electric_motors">
       <title>Induction Motors</title>
-      <p>Although there are dozens of different types of motors, the most important type of motor for industrial applications, by far, is the <term>induction motor</term>.  </p>
+      <p>Although there are dozens of different types of motors, the most important type of motor for industrial applications, by far, is the <term>induction motor</term>.</p>
       <p>Induction motors have many advantages over other designs.  First they are simple, rugged, reliable and require very little maintenance.  Induction motors are relatively cost-effective to manufacture, and are widely available in a broad size range, for all common single and three-phase voltages.  The can be quite efficient, especially at full load. Modern designs and technologies, such as variable frequency drives (VFDs), contribute to improved efficiency allow precise control of motor speed and performance.</p>
       <p>Induction motors are the subject of this section.</p>
-      <p>A three-phase <term>induction motor</term> sometimes called a <term>squirrel-cage motor</term>, is a type of electric motor that operates based on the principles of electromagnetic induction. </p>
+      <p>A three-phase <term>induction motor</term> sometimes called a <term>squirrel-cage motor</term>, is a type of electric motor that operates based on the principles of electromagnetic induction.</p>
       <figure xml:id="induction_motor">
-        <caption>  Three-phases Induction Motor  </caption>
+        <caption>Three-phases Induction Motor</caption>
         <image source="images/induction_motor" width="50%">
           <remix>
-            <source>Siemens STEP program Basics of Induction Motors   </source>
+            <source>Siemens STEP program Basics of Induction Motors</source>
           </remix>
         </image>
       </figure>
-      <p>The stator carries three identical sets of <term>phase windings</term> placed 120 degrees apart in a symmetrical pattern and connected in wye.. The specific pattern of the windings determines the number of magnetic poles.  Small motors typically have two or four poles per phase, but the ship’s propulsion motors have ten poles per phase. </p>
+      <p>The stator carries three identical sets of <term>phase windings</term> placed 120 degrees apart in a symmetrical pattern and connected in wye.. The specific pattern of the windings determines the number of magnetic poles.  Small motors typically have two or four poles per phase, but the ship’s propulsion motors have ten poles per phase.</p>
       <figure>
         <caption>Stator Windings</caption>
         <sidebyside valign="bottom" width="30%">
           <figure xml:id="stator_1">
-            <caption> Partially Wound  </caption>
+            <caption>Partially Wound</caption>
             <image source="images/stator_1">
               <remix>
-                <source>Siemens STEP program Basics of Induction Motors   </source>
+                <source>Siemens STEP program Basics of Induction Motors</source>
               </remix>
             </image>
           </figure>
           <figure xml:id="stator_2">
             <!-- Source:  Siemens STEP program Basics of Induction Motors  "/>
 </figure>  -->
-            <caption>  Complete  </caption>
+            <caption>Complete</caption>
             <image source="images/stator_2"/>
           </figure>
         </sidebyside>
       </figure>
-      <p>When three-phase AC power is applied to the stator windings, a <term>rotating magnetic field</term> develops rotating at the <term>synchronous speed</term>. </p>
+      <p>When three-phase AC power is applied to the stator windings, a <term>rotating magnetic field</term> develops rotating at the <term>synchronous speed</term>.</p>
       <p>
         The synchronous speed is determined by the frequency of the power supply and the number of motor poles.  <me>n_s =\frac{120 f}{ P}</me> Where:
         <ul marker="">
@@ -1442,32 +1442,32 @@ https://www.pinterest.com/pin/386183736777263448/
           <li><m>P</m> is the number of magnetic poles per phase.</li>
         </ul>
       </p>
-      <p>Synchronous speed represents the speed the motor will spin under no load conditions.  </p>
-      <p>The <term>rotor</term> is typically made of a laminated iron core with conductive bars embedded within it.  The bars are shorted at the ends, to form closed loop <term>rotor windings</term>. </p>
+      <p>Synchronous speed represents the speed the motor will spin under no load conditions.</p>
+      <p>The <term>rotor</term> is typically made of a laminated iron core with conductive bars embedded within it.  The bars are shorted at the ends, to form closed loop <term>rotor windings</term>.</p>
       <figure xml:id="rotor_cutaway">
-        <caption>  Rotor Cutaway Diagram </caption>
+        <caption>Rotor Cutaway Diagram</caption>
         <image source="images/rotor_cutaway" width="75%">
           <remix>
-            <source>Siemens STEP program Basics of Induction Motors   </source>
+            <source>Siemens STEP program Basics of Induction Motors</source>
           </remix>
         </image>
       </figure>
       <p>As the rotating magnetic field passes over the rotor windings, it induces a voltage, according to Faraday's law of electromagnetic induction. This voltage drives a current through the rotor windings, which, in turn, generates a magnetic field surrounding the rotor windings.</p>
-      <p>The magnetic field of the rotor interacts with the rotating magnetic field of the stator and magnetic attraction pulls the rotor in the same direction as the rotating magnetic field. As the rotor rotates, it tries to catch up with the rotating magnetic field. </p>
-      <p>However, the mechanical load on the motor retards the shaft, so the rotor  speed <m>n</m>, always remains slightly less than the synchronous speed, <m>n_s</m>.  The difference between the synchronous speed and the actual </p>
+      <p>The magnetic field of the rotor interacts with the rotating magnetic field of the stator and magnetic attraction pulls the rotor in the same direction as the rotating magnetic field. As the rotor rotates, it tries to catch up with the rotating magnetic field.</p>
+      <p>However, the mechanical load on the motor retards the shaft, so the rotor  speed <m>n</m>, always remains slightly less than the synchronous speed, <m>n_s</m>.  The difference between the synchronous speed and the actual</p>
       <p>operating speed is called <term>slip</term>, often expressed as a percentage of the synchronous speed <me>\textrm{\% slip}= \left(\frac{n_s-n}{n_s}\right) \times 100\%</me>.</p>
       <p>The difference in speed between the rotating magnetic field and the rotor's rotational speed induces the current, torque, and power that drives the load connected to the motor shaft.   Slip is required for the motor to generate torque and perform useful work.</p>
       <p>
         The mechanical power produced by a motor can be calculated using the formula:<me>P  = \tau \omega</me> Where:
         <ul marker="">
-          <li><m>P</m> is the shaft power in Watt (W). </li>
+          <li><m>P</m> is the shaft power in Watt (W).</li>
           <li><m>\tau</m> is torque or twisting force generated by the motor, measured in Newton-meters (Nm).</li>
           <li><m>\omega</m> is the angular velocity of the motor in radians per second (rad/s).  Angular velocity is equal to the shaft rpm <m>\times \frac{2\pi}{60}.</m></li>
         </ul>
       </p>
       <p>In practical applications, mechanical power can also be expressed in other units such as kilowatts (kW), Horsepower (HP),  or foot-pounds per minute (ft-lb/min).</p>
       <p>An increase in load on the motor causes the shaft to slow down slightly, which increases both slip and torque.  The power output of the motor automatically adjusts to match the requirements of the load.</p>
-      <p>Although the motor always has some slip, the rotor speed is generally close to the synchronous speed.  For a motor with a fixed number of poles, the rotor speed can be changed by changing the frequency of the power supply with a variable speed drive or a frequency converter. </p>
+      <p>Although the motor always has some slip, the rotor speed is generally close to the synchronous speed.  For a motor with a fixed number of poles, the rotor speed can be changed by changing the frequency of the power supply with a variable speed drive or a frequency converter.</p>
       <p>Although most large motors aboard ship are supplied with three-phase power, smaller motors, such as those driving appliances, must operate from single-phase circuits.   <term>Single-phase motors</term> are most often arranged with two sets of stator windings, with the second set supplied from the line connections through a <term>capacitor</term>. The capacitor imposes a phase shift on the line current reaching these windings, to make it look like two-phase AC current. The stator is thus able to develop a rotating magnetic field to drive a rotor.</p>
     </subsection>
     <subsection xml:id="VFDs">
@@ -1477,22 +1477,22 @@ https://www.pinterest.com/pin/386183736777263448/
         A basic variable frequency drive has three main components:
         <ol>
           <li>
-            <p>The <term>Diode Front End</term>  which takes in an AC power supply from the mains and converts it into DC power using a three-phase rectifier. </p>
+            <p>The <term>Diode Front End</term>  which takes in an AC power supply from the mains and converts it into DC power using a three-phase rectifier.</p>
           </li>
           <li>
             <p>The <term>DC Capacitor</term>  The rectified power is stored in a large capacitor, which acts as a buffer to provide a stable DC voltage to the DC Bus.</p>
           </li>
           <li>
-            <p>The <term>Inverter</term> The inverter is responsible for converting the DC power back into AC power with variable voltage and frequency. This stage utilizes power electronic devices, such as <term>insulated gate bipolar transistors</term> (<term>IGBTs</term>), to switch the DC voltage in a controlled manner. </p>
+            <p>The <term>Inverter</term> The inverter is responsible for converting the DC power back into AC power with variable voltage and frequency. This stage utilizes power electronic devices, such as <term>insulated gate bipolar transistors</term> (<term>IGBTs</term>), to switch the DC voltage in a controlled manner.</p>
             <p>To synthesize the desired AC waveform, the VFD uses a technique called <term>Pulse Width Modulation</term> (<term>PWM</term>). PWM involves rapidly switching the IGBTs on and off to create a series of voltage pulses with varying widths. By adjusting the width of these pulses, the VFD can control the effective voltage and frequency of the output AC waveform.</p>
           </li>
         </ol>
       </p>
       <figure xml:id="VFD_main_components">
-        <caption> Main Components of a VFD  </caption>
+        <caption>Main Components of a VFD</caption>
         <image source="images/MV7000_topology" width="100%">
           <remix>
-            <source>Siemens STEP program Basics of Induction Motors   </source>
+            <source>Siemens STEP program Basics of Induction Motors</source>
           </remix>
         </image>
       </figure>
@@ -1504,7 +1504,7 @@ https://www.pinterest.com/pin/386183736777263448/
         <sidebyside width="75%">
           <image source="images/pulse_width_mod" width="60%">
             <remix>
-              <source>Pulse Width Modulation weh cc0  </source>
+              <source>Pulse Width Modulation weh cc0</source>
             </remix>
           </image>
         </sidebyside>
@@ -1517,7 +1517,7 @@ https://www.pinterest.com/pin/386183736777263448/
           <p>An <term>IGBT</term> (<term>Insulated Gate Bipolar Transistor</term>) is a power semiconductor device that combines the characteristics of a MOSFET (Metal-Oxide-Semiconductor Field-Effect Transistor) and a bipolar junction transistor (BJT). IGBTs are known for their high voltage and current handling capabilities, low conduction losses, and fast switching speeds. IGBTs can rapidly switch on and off in the range of microseconds to a few tens of nanoseconds. They are widely used in high-power electronic applications, such as motor drives, power converters, and inverters.</p>
           <image source="images/IGBT_symbol">
             <remix>
-              <source>weh cc0   </source>
+              <source>weh cc0</source>
             </remix>
           </image>
         </sidebyside>
@@ -1529,15 +1529,15 @@ https://www.pinterest.com/pin/386183736777263448/
     </subsection>
     <subsection xml:id="Motor_starters">
       <title>Motor Controllers</title>
-      <p>Motor controllers electromechanical devices that control the operation of electric motors, and allow them to be operated manually, by automation or both.  </p>
+      <p>Motor controllers electromechanical devices that control the operation of electric motors, and allow them to be operated manually, by automation or both.</p>
       <p>Motor controllers come in various types and forms, ranging from simple relay-based control systems to complex microcontroller-based systems. The choice of motor controller depends on factors such as the specific application requirements, the types of motors being used, and the desired levels of control sophistication.</p>
-      <p>Motor controllers usually provide three basic functions: starting, stopping, and motor protection.  The controller monitors the motor circuit and will secure the motor if it detects common faults such as overload, short circuits, or low voltage conditions.  </p>
+      <p>Motor controllers usually provide three basic functions: starting, stopping, and motor protection.  The controller monitors the motor circuit and will secure the motor if it detects common faults such as overload, short circuits, or low voltage conditions.</p>
       <p>Additional functions such as direction control, speed control, regenerative braking, and reduced voltage (soft) starting, can be added to the control circuitry when required by the application.  Many modern motor controllers also provide diagnostic information and feedback about motor performances, temperatures, and statuses.  This information helps with troubleshooting and preventive maintenance.</p>
       <p>Next, we will describe the operation of one simple and common motor controller: an <term>across-the-line</term> starter.  It is given this name because the controller connects the motor’s stator windings directly across the power lines and starts it using full line voltage. This type of motor controller is very common, and is worth studying as its basic control circuit is the foundation of many other devices.</p>
-      <p>The power and control circuits for an across-the-line starter are shown in <xref ref="fig_motor_controller"/>. The circuit consists of two parts: the three-phase power circuit (blue) , which connects the power supply, entering from the left, to the motor, and the single-phase control circuit (black) which is responsible for the control functions. </p>
+      <p>The power and control circuits for an across-the-line starter are shown in <xref ref="fig_motor_controller"/>. The circuit consists of two parts: the three-phase power circuit (blue) , which connects the power supply, entering from the left, to the motor, and the single-phase control circuit (black) which is responsible for the control functions.</p>
       <p>The power circuit consists of a circuit breaker (1), three main contacts (2),  three overload sensors (3), and connections to the motor (4). The control circuit consists of two control fuses (5), start (6) and stop (7) buttons, an auxiliary relay, (8), the contactor operating coil (9), and normally closed overload relay contacts (10).</p>
       <figure xml:id="fig_motor_controller">
-        <caption> Across-the-line starter  </caption>
+        <caption>Across-the-line starter</caption>
         <image source="images/motor_controller" width="90%">
           <remix>
             <source>whaynes@maritime.edu cc0</source>
@@ -1547,8 +1547,8 @@ https://www.pinterest.com/pin/386183736777263448/
       <p>
         The operation is as follows:
         <ol>
-          <li>The <term>start button</term> is a momentary push-to-close switch. When it is closed, it completes the control circuit, and energizes the main operating coil. </li>
-          <li>The <term>main operating coil</term> is part of the <term>contactor</term> assembly<fn>The contactor assembly consists of the coil (9), and contacts (2), and (8).  When the coil is de-energized, the contacts are held open by a spring.  When it is energized, the coil closes the contacts electromagnetically. </fn>. When the main operating coil energizes it closes three <term>main contacts</term>  in the power circuit and the <term>auxiliary contact</term> in the control circuit. </li>
+          <li>The <term>start button</term> is a momentary push-to-close switch. When it is closed, it completes the control circuit, and energizes the main operating coil.</li>
+          <li>The <term>main operating coil</term> is part of the <term>contactor</term> assembly<fn>The contactor assembly consists of the coil (9), and contacts (2), and (8).  When the coil is de-energized, the contacts are held open by a spring.  When it is energized, the coil closes the contacts electromagnetically.</fn>. When the main operating coil energizes it closes three <term>main contacts</term>  in the power circuit and the <term>auxiliary contact</term> in the control circuit.</li>
           <li>
             <p>Closing the main contacts completes the circuit between the power supply and the motor, allowing current to flow directly to the motor's terminals and start the motor.</p>
             <p>Since the auxiliary contact is  wired in parallel with the start button, after it closes the start button may be released and the motor will continue to operate.  For this reason, the auxiliary contact is sometimes called the <term>latch</term> contact.</p>
@@ -1568,12 +1568,12 @@ https://www.pinterest.com/pin/386183736777263448/
       </p>
       <p>A motor which does not restart after a power failure is described as having <term>Low Voltage Protection</term> (LVP).  The alternate behavior, where the motor automatically restarts after a power failure is called  <term>Low Voltage Release</term> (LVR).  Critical machinery such as the steering gear and lube oil pumps have LVR, while other machines have LVP.</p>
       <p>Because across-the-line starters provide full voltage to the motor from the start, the motor experiences a high starting current. This initial surge of current is called the <term>inrush current</term>, and it can be several times the motor's full-load operating current.  This problem is more acute for large motors.</p>
-      <p>Large starting current has two negative effects. First, the high current in the windings can generate enough heat to damage the motor over time, especially if the driven load accelerates slowly. Second, very high starting current can draw down line voltage sufficiently to cause lights to dim and other equipment being supplied from the same line to malfunction. </p>
+      <p>Large starting current has two negative effects. First, the high current in the windings can generate enough heat to damage the motor over time, especially if the driven load accelerates slowly. Second, very high starting current can draw down line voltage sufficiently to cause lights to dim and other equipment being supplied from the same line to malfunction.</p>
       <p>
         To reduce the starting currents of large motors, several methods are employed.
         <ul>
-          <li><term>Wye-delta starters</term> initially connect the motor to the power supply using a wye connection, which provides only 57% of normal voltage.  After a configurable time delay, the connection switches to delta, and full line voltage is available for normal operation. </li>
-          <li><term>Autotransformer starters</term> operate similarly but can supply more intermediate voltage steps. </li>
+          <li><term>Wye-delta starters</term> initially connect the motor to the power supply using a wye connection, which provides only 57% of normal voltage.  After a configurable time delay, the connection switches to delta, and full line voltage is available for normal operation.</li>
+          <li><term>Autotransformer starters</term> operate similarly but can supply more intermediate voltage steps.</li>
           <li><term>Soft starters</term> and <term>variable frequency drives</term>, which are electronic devices, gradually increase the voltage, effectively limiting the starting current.</li>
         </ul>
       </p>
@@ -1581,9 +1581,9 @@ https://www.pinterest.com/pin/386183736777263448/
     <subsection xml:id="transformers-basic">
       <title>Transformers</title>
       <p>A transformer is an electrical device that uses electromagnetic induction to increase (step-up) or decrease (step-down) AC voltages.  Transformers are simple, efficient, have no moving parts, are easily maintained.</p>
-      <p>A simple single-phase transformer consists of two wire coils, called the <term>primary</term> and <term>secondary</term> windings, wound around a common <term>magnetic core</term>.  The core is made of laminated soft iron sheets or other materials that have high magnetic permeability, to enhance the magnetic coupling between the windings. An AC source voltage is supplied to the primary winding, and the electrical load is connected to the secondary winding. </p>
+      <p>A simple single-phase transformer consists of two wire coils, called the <term>primary</term> and <term>secondary</term> windings, wound around a common <term>magnetic core</term>.  The core is made of laminated soft iron sheets or other materials that have high magnetic permeability, to enhance the magnetic coupling between the windings. An AC source voltage is supplied to the primary winding, and the electrical load is connected to the secondary winding.</p>
       <figure xml:id="fig_transformer_terms">
-        <caption>  Transformer terminology </caption>
+        <caption>Transformer terminology</caption>
         <image source="images/transformer_terms" width="90%">
           <remix>
             <source href="https://commons.wikimedia.org/wiki/File:Transformer3d_col3.svg">BillC at the English-language Wikipedia</source>
@@ -1591,7 +1591,7 @@ https://www.pinterest.com/pin/386183736777263448/
           </remix>
         </image>
       </figure>
-      <p>When alternating current flows through the primary winding, it generates an alternating magnetic field in the magnetic core.  This changing magnetic field, in turn, induces a voltage in the secondary winding through electromagnetic induction.  If the secondary winding has more <term>turns</term> than the primary winding, the secondary voltage will be higher than the input voltage and the transformer is referred to as a <term>step-up</term>  transformer. Conversely, if the secondary winding has fewer turns than the primary winding the secondary voltage will be less than the primary voltage, and the transformer is a  <term>step-down</term> transformer. </p>
+      <p>When alternating current flows through the primary winding, it generates an alternating magnetic field in the magnetic core.  This changing magnetic field, in turn, induces a voltage in the secondary winding through electromagnetic induction.  If the secondary winding has more <term>turns</term> than the primary winding, the secondary voltage will be higher than the input voltage and the transformer is referred to as a <term>step-up</term>  transformer. Conversely, if the secondary winding has fewer turns than the primary winding the secondary voltage will be less than the primary voltage, and the transformer is a  <term>step-down</term> transformer.</p>
       <p>A transformer does not add any power to the electrical circuits only changes its form.  Because electrical power is proportional to the product of current and voltage, when the voltage steps up, the current must step down.</p>
       <p>
         The relationships between the ratios of primary and secondary voltages, currents and turns are as follows:
@@ -1641,15 +1641,15 @@ https://www.pinterest.com/pin/386183736777263448/
     </subsection>
     <subsection xml:id="Shipboard_electric_systems">
       <title>Electrical Distribution System</title>
-      <p>A shipboard electrical distribution system controls and distributes electrical power from the ship’s generators to the electrical consumers around the ship. </p>
-      <p>Ships typically use 460 volt, 60 Hz, three-phase AC for major electrical machinery, and 120 volt, 60 Hz, single-phase for lights, receptacles, and small motors.  These are considered Low Voltage (LV) systems, although even 120 volts can be dangerous. </p>
-      <p>High voltage (above 1 kV) is used for very large motors, 400 kW or greater, such as propulsion motors, and thrusters. Marine HV systems typically operate at 3.3 kV or 6.6 kV or 11 kV.   </p>
-      <p>The advantage of higher voltages is that for a given power, higher voltage means lower current.  (Recall <xref ref="three-phase-PEI"/>) Reduced current means that smaller diameter conductors can be used, the machine will be physically smaller and thus cheaper, and the machine will be more efficient because it will have smaller <m>I^2 R</m> losses. (Recall  <xref ref="I2R"/>) </p>
+      <p>A shipboard electrical distribution system controls and distributes electrical power from the ship’s generators to the electrical consumers around the ship.</p>
+      <p>Ships typically use 460 volt, 60 Hz, three-phase AC for major electrical machinery, and 120 volt, 60 Hz, single-phase for lights, receptacles, and small motors.  These are considered Low Voltage (LV) systems, although even 120 volts can be dangerous.</p>
+      <p>High voltage (above 1 kV) is used for very large motors, 400 kW or greater, such as propulsion motors, and thrusters. Marine HV systems typically operate at 3.3 kV or 6.6 kV or 11 kV.</p>
+      <p>The advantage of higher voltages is that for a given power, higher voltage means lower current.  (Recall <xref ref="three-phase-PEI"/>) Reduced current means that smaller diameter conductors can be used, the machine will be physically smaller and thus cheaper, and the machine will be more efficient because it will have smaller <m>I^2 R</m> losses. (Recall  <xref ref="I2R"/>)</p>
       <figure xml:id="fig_distribution_simplified" landscape="yes">
-        <caption>  NSMV Electrical Distribution (simplified) </caption>
+        <caption>NSMV Electrical Distribution (simplified)</caption>
         <image source="images/Distribution_simplified" width="100%">
           <remix>
-            <source>whaynes from Diagram NSMV=321-B607  </source>
+            <source>whaynes from Diagram NSMV=321-B607</source>
           </remix>
         </image>
       </figure>
@@ -1659,7 +1659,7 @@ https://www.pinterest.com/pin/386183736777263448/
         <title>Power supply</title>
         <p>The <term>ship’s service generators</term> are the primary source of electrical power for the vessel.</p>
         <p>There are four ship’s service generators on the training ship; generators one and two are located in the forward engine room, and three and four are located in the after engine room.  Each can supply 443 A of 6.6 kV, three-phase, 60 Hz AC.  The ship’s service generators are discussed in more detail in <xref ref="ships-generators"/>.</p>
-        <p>A backup <term>emergency generator</term> is provided for use in the event of failure of the ship’s service generators or other emergency.  By regulation the emergency generator must be able to start when the ship has a list of up to 22.5 <degree/>, must come on-line automatically within 45 seconds of a power failure, and must supply power for up to 18 hours. </p>
+        <p>A backup <term>emergency generator</term> is provided for use in the event of failure of the ship’s service generators or other emergency.  By regulation the emergency generator must be able to start when the ship has a list of up to 22.5 <degree/>, must come on-line automatically within 45 seconds of a power failure, and must supply power for up to 18 hours.</p>
         <p>On the training ship, a 500 kW emergency generator is located just forward of the stack on the weather deck (05 level).  The capacity of the emergency generator is less than the ship’s service generators, so when operating it can only supply a limited subset of the ship’s equipment.</p>
         <p>A UPS, or <term>uninterruptible power supply</term>, is a battery-powered system that provides temporary power after a blackout but before the emergency generator comes on line.  UPSs can either supply DC power directly from the batteries, or supply AC by converting the DC battery output to alternating current using an electronic <term>inverter</term>.   UPSs primarily supply power to vital control systems and the emergency light.</p>
         <p>A 440 V <term>shore power</term> connection is provided to supply electrical power to the ship when alongside or in the shipyard when it would be undesirable to operate the ship’s generators.</p>
@@ -1668,7 +1668,7 @@ https://www.pinterest.com/pin/386183736777263448/
         <title>Switchboards and Load centers</title>
         <p>A <term>switchboard</term> is an electrical enclosure containing the equipment that monitors, controls, protects, and distributes electrical power. It divides the electrical system into separate circuits and provides a central point from which electrical power can be managed and routed to different areas or equipment.</p>
         <p>Within the switchboard, electrical current is carried by a <term>bus</term> or <term>bus bar</term>, not by wires or cables. In an electrical system, a bus refers to a conducting bar or strip that serves as a common connection point for multiple electrical circuits.  It's like a highway for electrical current to flow to different destinations. Buses are typically made of  copper must have sufficient cross-sectional area to handle the required current.</p>
-        <p>The training ship has two high voltage main switchboards (HVMSB);  Switchboard one is located in the forward engine room, and switchboard two is the after engine room.  Each switchboard is divided into two connected buses:  Switchboard one contains buses one and two, switchboard two contains buses three and four.  The buses are interconnected with circuit breakers to permit the power to be re-routed in an emergency. </p>
+        <p>The training ship has two high voltage main switchboards (HVMSB);  Switchboard one is located in the forward engine room, and switchboard two is the after engine room.  Each switchboard is divided into two connected buses:  Switchboard one contains buses one and two, switchboard two contains buses three and four.  The buses are interconnected with circuit breakers to permit the power to be re-routed in an emergency.</p>
         <p>The bus bars are connected through circuit breakers to directly supply to some of the major electrical consumers, and also supply <term>load centers</term>.  Load centers are smaller switchboard or electrical panels located around the ship that contain their own bus and further distribute power to smaller, nearby electrical consumers.  Load centers may also be called <em>group-control centers</em>, <em>distribution boards</em>, or <em>power panels</em>.</p>
         <p>
           The NSMV power distribution system consists of the following:
@@ -1689,8 +1689,8 @@ https://www.pinterest.com/pin/386183736777263448/
       </paragraphs>
       <paragraphs>
         <title>Transformers</title>
-        <p>As discussed in <xref ref="transformers-basic"/>, transformers are devices that can step-up or step down AC voltage.  </p>
-        <p>In the electrical distribution system, four three-phase transformers are used to drop the 6,600 volts on the HV bus to the 450 volts required on the LV bus, and four are used to supply the correct voltages to the two propulsion motors, the bow thruster, and the stern thruster.  </p>
+        <p>As discussed in <xref ref="transformers-basic"/>, transformers are devices that can step-up or step down AC voltage.</p>
+        <p>In the electrical distribution system, four three-phase transformers are used to drop the 6,600 volts on the HV bus to the 450 volts required on the LV bus, and four are used to supply the correct voltages to the two propulsion motors, the bow thruster, and the stern thruster.</p>
         <p>Single-phase 440/120 volt transformers are used to supply the 120 volt lighting and distribution panels.</p>
       </paragraphs>
       <paragraphs>
