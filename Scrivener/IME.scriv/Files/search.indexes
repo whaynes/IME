@@ -4423,21 +4423,21 @@ Use this digram for the three example problems below.
         </Document>
         <Document ID="E0164142-9BA4-4423-A825-725BC64D7745">
             <Title>Introduction</Title>
-            <Text>To understand how diesel engines work, you will need familiarity with the major components of the engine and how they work together. &lt;xref ref="four-stroke-turbocharged"/&gt; illustrates a medium-sized, four-stroke, turbocharged, diesel engine with inlet ports and exhaust valves. &lt;xref ref="four-stroke-V-engine"/&gt; provides a cross section of a similarly sized V-type diesel engine which might be used for marine propulsion. 
+            <Text>To understand how diesel engines work, you will need familiarity with the major components of the engine and how they work together. &lt;xref ref="four-stroke-turbocharged"/&gt; illustrates a medium-sized, four-stroke, turbocharged, diesel engine with inlet ports and exhaust valves. &lt;xref ref="two-stroke-V-engine"/&gt; provides a cross section of a similarly sized V-type diesel engine which might be used for marine propulsion. 
 &lt;figure xml:id="four-stroke-turbocharged"&gt;
    &lt;caption&gt;16 cylinder, 4 stroke, turbocharged diesel engine &lt;/caption&gt; 
   &lt;image source="images/diesel-image27.png" width="50%" /&gt; 
 &lt;/figure&gt;
 
-&lt;figure xml:id="four-stroke-V-engine"&gt;
-   &lt;caption&gt;End View a V-type Four Stroke Diesel Engine &lt;/caption&gt; 
+&lt;figure xml:id="two-stroke-V-engine"&gt;
+   &lt;caption&gt;End View of a V-type Two-Stroke Diesel Engine &lt;/caption&gt; 
   &lt;image source="images/v16-cutaway-end" width="100%"&gt; 
 &lt;remix&gt;
 &lt;source href="https://www.standards.doe.gov/standards-documents/1000/1018-bhdbk-1993-v1"&gt;DOE FUNDAMENTALS HANDBOOK MECHANICAL SCIENCE, US DOE Publication DOE-HDBK-1018/1-93
 &lt;/source&gt;&lt;/remix&gt;&lt;/image&gt;&lt;/figure&gt; 
 
-&lt;figure xml:id="four-stroke-V-engine-side"&gt;
-   &lt;caption&gt;Side View a V-type Four Stroke Diesel Engine &lt;/caption&gt; 
+&lt;figure xml:id="two-stroke-V-engine-side"&gt;
+   &lt;caption&gt;Side View of a V-type Two-Stroke Diesel Engine &lt;/caption&gt; 
   &lt;image source="images/v16-cutaway-side" width="100%"&gt; &lt;remix&gt;&lt;source href="https://www.standards.doe.gov/standards-documents/1000/1018-bhdbk-1993-v1"&gt;DOE FUNDAMENTALS HANDBOOK MECHANICAL SCIENCE, US DOE Publication DOE-HDBK-1018/1-93
 &lt;/source&gt;&lt;/remix&gt;&lt;/image&gt;&lt;/figure&gt;
 
@@ -13084,7 +13084,7 @@ After leaving the economizer the feedwater enters the steam drum where the gener
 &lt;/sidebyside&gt;
 &lt;/figure&gt;
 Cylinder heads performs several functions. First, they provide the top seal for the cylinder bore or sleeve. Second, they provide the structure to hold the exhaust valves (and intake valves where applicable), the fuel injector, and necessary linkages. 
-Diesel engines have two methods of admitting and exhausting gases from the cylinder. They can use either ports, valves, or a combination of both. Ports are slots in the cylinder walls located in the lower third of the cylinder liner. See &lt;xref ref="four-stroke-V-engine"/&gt; for examples of intake ports, and note their relative location with respect to the rest of the engine. When the piston travels below the level of the ports, the ports are "opened" and fresh air or exhaust gases are able to enter or leave, depending on the type of port. 
+Diesel engines have two methods of admitting and exhausting gases from the cylinder. They can use either ports, valves, or a combination of both. Ports are slots in the cylinder walls located in the lower third of the cylinder liner. See &lt;xref ref="two-stroke-V-engine"/&gt; for examples of intake ports, and note their relative location with respect to the rest of the engine. When the piston travels below the level of the ports, the ports are "opened" and fresh air or exhaust gases are able to enter or leave, depending on the type of port. 
 The ports are then "closed" when the piston travels back above the level of the ports. Valves (refer to &lt;xref ref="engine-valves-pic"/&gt;) are mechanically opened and closed to admit or exhaust the gases as needed. The valves are located in the head casting of the engine. The point at which the valve seals against the head is called the valve seat. Most medium-sized diesels have either intake ports and exhaust valves, or intake valves and exhaust valves. 
 &lt;figure xml:id="engine-valves-pic"&gt;
    &lt;caption&gt;Diesel Engine Valves &lt;/caption&gt; 
@@ -14480,7 +14480,7 @@ Metric Ton or Tonne:  For larger masses, the metric ton is equivalent to 1000 kg
         <Document ID="DE6CA1D7-1D41-4015-AF34-D0145059FE38">
             <Title>Crankcase and Oil Pan</Title>
             <Text>The crankcase is the part of an engine that houses the crankshaft and the crankshaft counter weights and also directs returning lube oil into the oil pan.   The oil pan collects and stores the engine's supply of lubricating oil. Large diesel engines may have the oil pan divided into several separate pans.
-The crankcase is usually located on the bottom of the cylinder block with the oil pan directly below, as shown in &lt;xref ref="four-stroke-turbocharged"/&gt; and &lt;xref ref="four-stroke-V-engine"/&gt;.</Text>
+The crankcase is usually located on the bottom of the cylinder block with the oil pan directly below, as shown in &lt;xref ref="four-stroke-turbocharged"/&gt; and &lt;xref ref="two-stroke-V-engine"/&gt;.</Text>
         </Document>
         <Document ID="0BC1D249-0FAD-4212-B5B6-5CFD76784516">
             <Title>Economizer</Title>
@@ -25584,7 +25584,7 @@ As the valve is opened by the camshaft, it compresses the valve spring. The ener
   &lt;image source="images/valve-gear.png" width="50%"/&gt; 
 &lt;/figure&gt;
 The camshaft is driven by the engine's crankshaft through a series of gears called idler gears and timing gears. The gears allow the rotation of the camshaft to correspond or be in time with, the rotation of the crankshaft and thereby allows the valve opening, valve closing, and injection of fuel to be timed to occur at precise intervals in the piston's travel. To increase the flexibility in timing the valve opening, valve closing, and injection of fuel, and to increase power or to reduce cost, an engine may have one or more camshafts. Typically, in a medium to large V-type engine, each bank will have one or more camshafts per head. In the larger engines, the intake valves, exhaust valves, and fuel injectors may share a common camshaft or have independent camshafts. 
-Depending on the type and make of the engine, the location of the camshaft or shafts varies. The camshaft(s) in an in-line engine is usually found either in the head of the engine or in the top of the block running down one side of the cylinder bank. &lt;xref ref="valve-gear"/&gt; provides an example of an engine with the camshaft located on the side of the engine. &lt;xref ref="four-stroke-V-engine"/&gt;  provides an example of an overhead cam arrangement as on a V-type engine. On small or mid-sized V-type engines, the camshaft is usually located in the block at the center of the V between the two banks of cylinders. In larger or multi-cam shafted V- type engines, the camshafts are usually located in the heads.</Text>
+Depending on the type and make of the engine, the location of the camshaft or shafts varies. The camshaft(s) in an in-line engine is usually found either in the head of the engine or in the top of the block running down one side of the cylinder bank. &lt;xref ref="valve-gear"/&gt; provides an example of an engine with the camshaft located on the side of the engine. &lt;xref ref="two-stroke-V-engine"/&gt;  provides an example of an overhead cam arrangement as on a V-type engine. On small or mid-sized V-type engines, the camshaft is usually located in the block at the center of the V between the two banks of cylinders. In larger or multi-cam shafted V- type engines, the camshafts are usually located in the heads.</Text>
         </Document>
         <Document ID="206FAC30-97D3-4070-B164-3DA231233971">
             <Title>The Generation of Steam</Title>
