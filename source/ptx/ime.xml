@@ -5005,21 +5005,21 @@ https://www.pinterest.com/pin/386183736777263448/
 
 <section xml:id=""><title>Major Components of a Diesel Engine</title>
 <introduction>
-<p>To understand how diesel engines work, you will need familiarity with the major components of the engine and how they work together. <xref ref="four-stroke-turbocharged"/> illustrates a medium-sized, four-stroke, turbocharged, diesel engine with inlet ports and exhaust valves. <xref ref="four-stroke-V-engine"/> provides a cross section of a similarly sized V-type diesel engine which might be used for marine propulsion. </p>
+<p>To understand how diesel engines work, you will need familiarity with the major components of the engine and how they work together. <xref ref="four-stroke-turbocharged"/> illustrates a medium-sized, four-stroke, turbocharged, diesel engine with inlet ports and exhaust valves. <xref ref="two-stroke-V-engine"/> provides a cross section of a similarly sized V-type diesel engine which might be used for marine propulsion. </p>
 <figure xml:id="four-stroke-turbocharged">
    <caption>16 cylinder, 4 stroke, turbocharged diesel engine </caption> 
   <image source="images/diesel-image27.png" width="50%" /> 
 </figure>
 
-<figure xml:id="four-stroke-V-engine">
-   <caption>End View a V-type Four Stroke Diesel Engine </caption> 
+<figure xml:id="two-stroke-V-engine">
+   <caption>End View of a V-type Two-Stroke Diesel Engine </caption> 
   <image source="images/v16-cutaway-end" width="100%"> 
 <remix>
 <source href="https://www.standards.doe.gov/standards-documents/1000/1018-bhdbk-1993-v1">DOE FUNDAMENTALS HANDBOOK MECHANICAL SCIENCE, US DOE Publication DOE-HDBK-1018/1-93
 </source></remix></image></figure> 
 
-<figure xml:id="four-stroke-V-engine-side">
-   <caption>Side View a V-type Four Stroke Diesel Engine </caption> 
+<figure xml:id="two-stroke-V-engine-side">
+   <caption>Side View of a V-type Two-Stroke Diesel Engine </caption> 
   <image source="images/v16-cutaway-side" width="100%"> <remix><source href="https://www.standards.doe.gov/standards-documents/1000/1018-bhdbk-1993-v1">DOE FUNDAMENTALS HANDBOOK MECHANICAL SCIENCE, US DOE Publication DOE-HDBK-1018/1-93
 </source></remix></image></figure>
 
@@ -5038,7 +5038,7 @@ https://www.pinterest.com/pin/386183736777263448/
 <subsection xml:id="" ><title>Crankcase and Oil Pan</title>
 
 <p>The <term>crankcase</term> is the part of an engine that houses the crankshaft and the crankshaft counter weights and also directs returning lube oil into the <term>oil pan</term>.   The oil pan collects and stores the engine's supply of lubricating oil. Large diesel engines may have the oil pan divided into several separate pans.</p>
-<p>The crankcase is usually located on the bottom of the cylinder block with the oil pan directly below, as shown in <xref ref="four-stroke-turbocharged"/> and <xref ref="four-stroke-V-engine"/>.</p></subsection>
+<p>The crankcase is usually located on the bottom of the cylinder block with the oil pan directly below, as shown in <xref ref="four-stroke-turbocharged"/> and <xref ref="two-stroke-V-engine"/>.</p></subsection>
 
 <subsection xml:id="" ><title>Cylinder Sleeve or Bore</title>
 
@@ -5118,7 +5118,7 @@ https://www.pinterest.com/pin/386183736777263448/
 </sidebyside>
 </figure>
 <p>Cylinder heads performs several functions. First, they provide the top seal for the cylinder bore or sleeve. Second, they provide the structure to hold the exhaust valves (and intake valves where applicable), the fuel injector, and necessary linkages. </p>
-<p>Diesel engines have two methods of admitting and exhausting gases from the cylinder. They can use either ports, valves, or a combination of both. Ports are slots in the cylinder walls located in the lower third of the cylinder liner. See <xref ref="four-stroke-V-engine"/> for examples of intake ports, and note their relative location with respect to the rest of the engine. When the piston travels below the level of the ports, the ports are "opened" and fresh air or exhaust gases are able to enter or leave, depending on the type of port. </p>
+<p>Diesel engines have two methods of admitting and exhausting gases from the cylinder. They can use either ports, valves, or a combination of both. Ports are slots in the cylinder walls located in the lower third of the cylinder liner. See <xref ref="two-stroke-V-engine"/> for examples of intake ports, and note their relative location with respect to the rest of the engine. When the piston travels below the level of the ports, the ports are "opened" and fresh air or exhaust gases are able to enter or leave, depending on the type of port. </p>
 <p>The ports are then "closed" when the piston travels back above the level of the ports. Valves (refer to <xref ref="engine-valves-pic"/>) are mechanically opened and closed to admit or exhaust the gases as needed. The valves are located in the head casting of the engine. The point at which the valve seals against the head is called the valve seat. Most medium-sized diesels have either intake ports and exhaust valves, or intake valves and exhaust valves. </p>
 <figure xml:id="engine-valves-pic">
    <caption>Diesel Engine Valves </caption> 
@@ -5139,7 +5139,7 @@ https://www.pinterest.com/pin/386183736777263448/
   <image source="images/valve-gear.png" width="50%"/> 
 </figure>
 <p>The camshaft is driven by the engine's crankshaft through a series of gears called <term>idler gears</term> and <term>timing</term> gears. The gears allow the rotation of the camshaft to correspond or be in time with, the rotation of the crankshaft and thereby allows the valve opening, valve closing, and injection of fuel to be timed to occur at precise intervals in the piston's travel. To increase the flexibility in timing the valve opening, valve closing, and injection of fuel, and to increase power or to reduce cost, an engine may have one or more camshafts. Typically, in a medium to large V-type engine, each bank will have one or more camshafts per head. In the larger engines, the intake valves, exhaust valves, and fuel injectors may share a common camshaft or have independent camshafts. </p>
-<p>Depending on the type and make of the engine, the location of the camshaft or shafts varies. The camshaft(s) in an in-line engine is usually found either in the head of the engine or in the top of the block running down one side of the cylinder bank. <xref ref="valve-gear"/> provides an example of an engine with the camshaft located on the side of the engine. <xref ref="four-stroke-V-engine"/>  provides an example of an overhead cam arrangement as on a V-type engine. On small or mid-sized V-type engines, the camshaft is usually located in the block at the center of the V between the two banks of cylinders. In larger or multi-cam shafted V- type engines, the camshafts are usually located in the heads.</p></subsection>
+<p>Depending on the type and make of the engine, the location of the camshaft or shafts varies. The camshaft(s) in an in-line engine is usually found either in the head of the engine or in the top of the block running down one side of the cylinder bank. <xref ref="valve-gear"/> provides an example of an engine with the camshaft located on the side of the engine. <xref ref="two-stroke-V-engine"/>  provides an example of an overhead cam arrangement as on a V-type engine. On small or mid-sized V-type engines, the camshaft is usually located in the block at the center of the V between the two banks of cylinders. In larger or multi-cam shafted V- type engines, the camshafts are usually located in the heads.</p></subsection>
 </section>
 
 <section xml:id=""><title>Engine Control</title>
