@@ -1166,7 +1166,7 @@
             <md>
               <mrow>27.5 \textrm{ in Hg} \amp =  27.5 \textrm{ in Hg} \times \left[\frac{1 \textrm{ atm}}{29.92 \textrm{ in Hg}}\right]  \amp = 0.919 \textrm{ atm}</mrow>
               <mrow>\amp =  27.5 \textrm{ in Hg} \times \left[\frac{760 \textrm{ mm Hg}}{29.92 \textrm{ in Hg}}\right] \amp = 698.5  \textrm{ mm Hg}</mrow>
-              <mrow>\amp =  27.5 \textrm{ in Hg} \times \left[\frac{\kPa{101.5}}{29.92 \textrm{ in Hg}}\right] \amp =  93.3 \textrm{ kPa}</mrow>
+              <mrow>\amp =  27.5 \textrm{ in Hg} \times \left[\frac{\kPa{101.3}}{29.92 \textrm{ in Hg}}\right] \amp =  93.3 \textrm{ kPa}</mrow>
               <mrow>\amp =  27.5 \textrm{ in Hg} \times \left[\frac{\psinch{14.7}}{29.92 \textrm{ in Hg}}\right] \amp =  13.5 \textrm{ psia}</mrow>
             </md>
           </p>
