@@ -1,15 +1,6 @@
 var ptx_lunr_search_style = "textbook";
 var ptx_lunr_docs = [
 {
-  "id": "frontmatter",
-  "level": "1",
-  "url": "frontmatter.html",
-  "type": "Front Matter",
-  "number": "",
-  "title": "Front Matter",
-  "body": "   Massachusetts Maritime Academy  Engineering Department  Massachusetts Maritime Academy       "
-},
-{
   "id": "slips-trips-falls",
   "level": "1",
   "url": "slips-trips-falls.html",
