@@ -14980,7 +14980,10 @@ A continuity test is just a resistance measurement used to determine if two poin
         <Document ID="96776348-B035-46DA-A5A5-210E99B93774">
             <Title>Front Matter</Title>
             <Text>&lt;frontmatter xml:id="frontmatter"&gt;
-      &lt;titlepage&gt;
+    &lt;titlepage&gt;
+    &lt;titlepage-items/&gt;
+    &lt;/titlepage&gt;
+&lt;bibinfo&gt;
         &lt;author&gt;
           &lt;personname&gt;Massachusetts Maritime Academy&lt;/personname&gt;
           &lt;department&gt;Engineering Department&lt;/department&gt;
@@ -14989,7 +14992,7 @@ A continuity test is just a resistance measurement used to determine if two poin
        &lt;date&gt;
           &lt;today/&gt;
         &lt;/date&gt; 
-     &lt;/titlepage&gt;
+&lt;/bibinfo&gt;
  &lt;/frontmatter&gt;</Text>
             <Notes>Note that in the “Metadata” pane of the Inspector, under “Section Type”, the “Default Subdocument Type” is set to “Front Matter”. This setting causes all subdocuments of this folder to use the “Front Matter” section type by default (that is, when “Structure-Based” is selected as the section type).
 
