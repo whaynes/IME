@@ -5,7 +5,10 @@
 <book >
 <title>Introduction to Marine Engineering</title>
 <frontmatter xml:id="frontmatter">
-      <titlepage>
+    <titlepage>
+    <titlepage-items/>
+    </titlepage>
+<bibinfo>
         <author>
           <personname>Massachusetts Maritime Academy</personname>
           <department>Engineering Department</department>
@@ -14,7 +17,7 @@
        <date>
           <today/>
         </date> 
-     </titlepage>
+</bibinfo>
  </frontmatter>
 
 <chapter xml:id="safety"> 
