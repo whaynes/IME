@@ -3,9 +3,6 @@
 <docinfo xml:base="docinfo.ptx" xmlns:xi="http://www.w3.org/2001/XInclude">
   <brandlogo source="images/mma_logo.svg" url="https://www.maritime.edu"/>
   <initialism>IME</initialism>
-  <html>
-    <favicon/>
-  </html>
   <math-package latex-name="cancel" mathjax-name="cancel"/>
   <math-package latex-name="mhchem" mathjax-name="mhchem"/>
   <macros>

@@ -80,7 +80,7 @@
     <cover front="images/IME_cover.pdf"/>
   </latex>
 
-  <html platform="web">
+  <html platform="web" favicon="simple">
     <!-- The platform above could also be "runestone" -->
 
     <!-- Whether to knowl a particular elements is set here    -->
