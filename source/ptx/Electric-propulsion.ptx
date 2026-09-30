@@ -34,9 +34,9 @@
     <figure xml:id="propulsion_system" landscape="yes">
       <caption>Propulsion System One Line Diagram</caption>
       <image source="images/propulsion_system" width="100%">
-        <remix>
+        <!-- remix>
           <source>P1206 EMPIRE STATE MACHINERY MANUAL  FIRST DRAFT MAY 2022</source>
-        </remix>
+        </remix -->
       </image>
     </figure>
     <p>Each switchboard supplies electrical power at 60 Hz, 1850 Volts to a <term>Propulsion Converter</term> via a step-down <term>transformer</term>. The purpose of the propulsion converters is to change input voltage and frequency to the voltage and frequency needed to spin the propulsion motor in the desired direction, at the desired speed, as ordered by the bridge.</p>
@@ -110,17 +110,17 @@
       <figure xml:id="generator">
         <caption>Hyundai HSJ9 Generator</caption>
         <image source="images/generator" width="100%">
-          <remix>
+          <!-- remix>
             <source>P1206 EMPIRE STATE MACHINERY MANUAL  FIRST DRAFT MAY 2022</source>
-          </remix>
+          </remix -->
         </image>
       </figure>
       <figure xml:id="generator_exploded">
         <caption>Generator Exploded View</caption>
         <image source="images/generator_exploded.png" width="100%">
-          <remix>
+          <!-- remix>
             <source>DV951E001_MAIN ALTERNATOR_OPERATION MANUAL_ALTERNATOR</source>
-          </remix>
+          </remix -->
         </image>
       </figure>
       <p>
@@ -174,17 +174,17 @@
             <figure xml:id="brushes_sliprings">
               <caption>Brushes and Slip Rings</caption>
               <image source="images/brushes_sliprings.png">
-                <remix>
+                <!-- remix>
                   <source>https://pdfs.semanticscholar.org/658b/d1175e37de0040d98f072a8d48a7b3dac713.pdf</source>
-                </remix>
+                </remix -->
               </image>
             </figure>
             <figure xml:id="diode_wheel">
               <caption>Rotating Diodes</caption>
               <image source="images/diode_wheel.png">
-                <remix>
+                <!-- remix>
                   <source>Marad Field Acceptance test</source>
-                </remix>
+                </remix -->
               </image>
             </figure>
           </sidebyside>
@@ -198,9 +198,9 @@
         <figure xml:id="excitation_system_schematic">
           <caption>Hyundai HSJ9 Excitation System</caption>
           <image source="images/excitation_system" width="100%">
-            <remix>
+            <!-- remix>
               <source>weh CC0</source>
-            </remix>
+            </remix -->
           </image>
         </figure>
         <p>The 3-phase output of the exciter is directed through the hollow drive shaft to the <term>rotating rectifier</term> mounted on the non-drive end of the shaft.  The rectifier is a solid-state electronic device which uses six diodes arranged as shown in <xref ref="three_phase_rectifier"/> to convert the three-phase AC produced by the exciter generator into direct current. From there, DC current travels back through the shaft to excite the rotating main field windings.</p>
@@ -210,25 +210,25 @@
             <figure xml:id="diodes_in">
               <caption>3 phase AC in</caption>
               <image source="images/diodes_in">
-                <remix>
+                <!-- remix>
                   <source>weh cc0</source>
-                </remix>
+                </remix -->
               </image>
             </figure>
             <figure xml:id="six_diodes">
               <caption>Rotating Diodes</caption>
               <image source="images/six_diodes">
-                <remix>
+                <!-- remix>
                   <source>weh cc0</source>
-                </remix>
+                </remix -->
               </image>
             </figure>
             <figure xml:id="diodes_out">
               <caption>DC out</caption>
               <image source="images/diodes_out">
-                <remix>
+                <!-- remix>
                   <source>weh cc0</source>
-                </remix>
+                </remix -->
               </image>
             </figure>
           </sidebyside>
@@ -246,17 +246,17 @@
             <figure xml:id="pmg_rotor">
               <caption>Permanent Magnet Rotor</caption>
               <image source="images/pmg_rotor.png" width="100%">
-                <remix>
+                <!-- remix>
                   <source>DV951E001_MAIN ALTERNATOR_OPERATION MANUAL_PMG</source>
-                </remix>
+                </remix -->
               </image>
             </figure>
             <figure xml:id="pmg_stator">
               <caption>PMG Stator</caption>
               <image source="images/pmg_stator.png" width="100%">
-                <remix>
+                <!-- remix>
                   <source>DV951E001_MAIN ALTERNATOR_OPERATION MANUAL_PMG</source>
-                </remix>
+                </remix -->
               </image>
             </figure>
           </sidebyside>
@@ -273,17 +273,17 @@
             <figure xml:id="Front_Panel">
               <caption>Front Panel</caption>
               <image source="images/AVR">
-                <remix>
+                <!-- remix>
                   <source>DV951E001_MAIN ALTERNATOR_OPERATION MANUAL_AVR</source>
-                </remix>
+                </remix -->
               </image>
             </figure>
             <figure xml:id="avr_block_diagram">
               <caption>Simplified Block Diagram</caption>
               <image source="images/AVR_block_diagram">
-                <remix>
+                <!-- remix>
                   <source>weh cc0</source>
-                </remix>
+                </remix -->
               </image>
             </figure>
           </sidebyside>
@@ -349,9 +349,9 @@
       <figure xml:id="propulsion_converter">
         <caption>Propulsion Frequency Converter, exterior</caption>
         <image source="images/propulsion_converter" width="100%">
-          <remix>
+          <!-- remix>
             <source>P1206 EMPIRE STATE MACHINERY MANUAL  FIRST DRAFT MAY 2022</source>
-          </remix>
+          </remix -->
         </image>
       </figure>
     </subsection>
@@ -362,9 +362,9 @@
         <figure xml:id="MV7000_internal">
           <caption>Drive Cabinets, interior</caption>
           <image source="images/MV7000_internal.png" width="100%">
-            <remix>
+            <!-- remix>
               <source>GEA30737C MV7000 Press Pack</source>
-            </remix>
+            </remix -->
           </image>
         </figure>
       </introduction>
@@ -444,9 +444,9 @@
         <figure xml:id="IGBT_stack">
           <caption>IGBT Stack</caption>
           <image source="images/IGBT_stack.png" width="75%">
-            <remix>
+            <!-- remix>
               <source>IGBT</source>
-            </remix>
+            </remix -->
           </image>
         </figure>
         <p>The IGBT gates are triggered by pulse width signals produced in the CLC section which change the direct current stored in the DC capacitors into variable voltage, variable frequency alternating current.</p>
@@ -516,9 +516,9 @@
       <figure xml:id="DriveTrain" landscape="yes">
         <caption>Drive Train</caption>
         <image source="images/DriveTrain" width="100%">
-          <remix>
+          <!-- remix>
             <source>P1206 EMPIRE STATE MACHINERY MANUAL  FIRST DRAFT MAY 2022</source>
-          </remix>
+          </remix -->
         </image>
       </figure>
     </introduction>
@@ -531,9 +531,9 @@
       <figure xml:id="propulsion_motor">
         <caption>No. 1 Propulsion Motor</caption>
         <image source="images/propulsion_motor" width="100%">
-          <remix>
+          <!-- remix>
             <source>DV951E001_MAIN ALTERNATOR_OPERATION MANUAL_ALTERNATOR</source>
-          </remix>
+          </remix -->
         </image>
       </figure>
     </subsection>

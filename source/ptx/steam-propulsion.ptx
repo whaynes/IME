@@ -50,9 +50,9 @@
       <figure xml:id="fig_turbine_blades">
         <caption>Turbine Blades</caption>
         <image source="images/turbine_blades.png" width="50%">
-          <remix>
+          <!-- remix>
             <source>Intro to Steam book</source>
-          </remix>
+          </remix -->
         </image>
       </figure>
       <p>High-pressure, high-temperature steam passes through the nozzle, which has a very small opening, and it emerges with a high velocity. The thermal energy of the steam is converted into mechanical kinetic energy in the nozzle. This high velocity steam jet hits the blades and imparts a turning torque to the rotor shaft and converts its kinetic energy to rotational kinetic energy of the shaft. Most turbines have several rows of blades, forming multiple stages to extract the maximum energy from the steam. As the steam gives up its thermal energy, its temperature and pressure both drop. The steam leaves the turbine at a low temperature and low pressure.</p>
@@ -154,9 +154,9 @@
       <figure xml:id="fig_turbines_and_gears">
         <caption>Main Engine and Gears for Tanker <em>Batillus</em> under construction.  Photo by <url href="http://www.aukevisser.nl/supertankers/id316.htm">Jorgen Lonn.</url></caption>
         <image source="images/turbines_and_gears.png" width="100%">
-          <remix>
+          <!-- remix>
             <source href="http://www.aukevisser.nl/supertankers/id317.htm">from the collection of Jorgen Lonn.</source>
-          </remix>
+          </remix -->
         </image>
       </figure>
       <p>Superheated steam from the throttles enters the HP turbine where its pressure drops and its thermal energy is converted to mechanical energy. The LP turbine follows the HP turbine and continues to extract energy from the steam. The steam enters at a low pressure (a vacuum actually, at low loads) and exits at an even lower pressure into the main condenser. The specific volume of steam at these low pressures is large, which means that the turbine blades and the LP turbine itself are also large. When looking at the two turbines, it is always easy to identify the LP turbine because of its size; eight to ten feet in diameter is not unusual.</p>
@@ -217,9 +217,9 @@
       <figure xml:id="fig_coffin_feed_pump">
         <caption>Cutaway Coffin Steam-driven Feed Pump from <em>TS Patriot State I</em></caption>
         <image source="images/coffin_feed_pump.png" width="50%">
-          <remix>
+          <!-- remix>
             <source>Own work whaynes@maritime.edu CC0</source>
-          </remix>
+          </remix -->
         </image>
       </figure>
     </subsection>

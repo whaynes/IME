@@ -26,9 +26,9 @@
       <figure>
         <caption>Four-stroke Cycle</caption>
         <image source="images/Diesel_Engine_(4_cycle_running).gif">
-          <remix>
+          <!-- remix>
             <source href="https://commons.wikimedia.org/wiki/File:Diesel_Engine_(4_cycle_running).gif"/>
-          </remix>
+          </remix -->
         </image>
       </figure>
 </sidebyside>
@@ -44,9 +44,9 @@
       <figure xml:id="four-stroke-timing">
         <caption>Four Stroke Timing Diagram, Naturally Aspirated Engine</caption>
         <image source="images/four-stroke-timing" width="75%">
-          <remix>
+          <!-- remix>
             <source>WEH CC0</source>
-          </remix>
+          </remix -->
         </image>
       </figure>
       <p>We will now discuss the operation of four-stroke engine as it passes through one complete cycle.    For the purpose of the discussion,  we will assume that the engine is normally aspirated with intake and exhaust valves,  and has a 3.5-inch bore, a 4-inch stroke and a 16:1 compression ratio.</p>
@@ -99,9 +99,9 @@
       <figure>
         <caption>Two Stroke Cycle</caption>
         <image source="images/two-stroke-timing" width="65%">
-          <remix>
+          <!-- remix>
             <source>WEH CC0</source>
-          </remix>
+          </remix -->
         </image>
       </figure>
       <paragraphs>
@@ -152,9 +152,9 @@
       <figure xml:id="cooling-system-pic">
         <caption>Cooling System</caption>
         <image source="images/cooling-sys.png" width="75%">
-          <remix>
+          <!-- remix>
             <source href="https://www.standards.doe.gov/standards-documents/1000/1018-bhdbk-1993-v1">DOE FUNDAMENTALS HANDBOOK MECHANICAL SCIENCE, US DOE Publication DOE-HDBK-1018/1-93</source>
-          </remix>
+          </remix -->
         </image>
       </figure>
     </subsection>
@@ -168,9 +168,9 @@
       <figure xml:id="lube-oil-sys-pic">
         <caption/>
         <image source="images/lube-sys.png" width="75%">
-          <remix>
+          <!-- remix>
             <source href="https://www.standards.doe.gov/standards-documents/1000/1018-bhdbk-1993-v1">DOE FUNDAMENTALS HANDBOOK MECHANICAL SCIENCE, US DOE Publication DOE-HDBK-1018/1-93</source>
-          </remix>
+          </remix -->
         </image>
       </figure>
     </subsection>
@@ -234,9 +234,9 @@
       <figure>
         <caption/>
         <image source="images/bore-stroke" width="50%">
-          <remix>
+          <!-- remix>
             <source>WEH CC0</source>
-          </remix>
+          </remix -->
         </image>
       </figure>
     </subsection>
@@ -374,17 +374,17 @@
       <figure xml:id="two-stroke-V-engine">
         <caption>End View of a V-type Two-Stroke Diesel Engine</caption>
         <image source="images/v16-cutaway-end" width="100%">
-          <remix>
+          <!-- remix>
             <source href="https://www.standards.doe.gov/standards-documents/1000/1018-bhdbk-1993-v1">DOE FUNDAMENTALS HANDBOOK MECHANICAL SCIENCE, US DOE Publication DOE-HDBK-1018/1-93</source>
-          </remix>
+          </remix -->
         </image>
       </figure>
       <figure xml:id="two-stroke-V-engine-side">
         <caption>Side View of a V-type Two-Stroke Diesel Engine</caption>
         <image source="images/v16-cutaway-side" width="100%">
-          <remix>
+          <!-- remix>
             <source href="https://www.standards.doe.gov/standards-documents/1000/1018-bhdbk-1993-v1">DOE FUNDAMENTALS HANDBOOK MECHANICAL SCIENCE, US DOE Publication DOE-HDBK-1018/1-93</source>
-          </remix>
+          </remix -->
         </image>
       </figure>
       <p>The major components of a typical engine will be described in the following sections.</p>
@@ -395,9 +395,9 @@
       <figure xml:id="cylinder-block">
         <caption>Cylinder Block</caption>
         <image source="images/cylinder-block.png" width="50%">
-          <remix>
+          <!-- remix>
             <source href="https://www.standards.doe.gov/standards-documents/1000/1018-bhdbk-1993-v1">DOE FUNDAMENTALS HANDBOOK MECHANICAL SCIENCE, US DOE Publication DOE-HDBK-1018/1-93</source>
-          </remix>
+          </remix -->
         </image>
       </figure>
     </subsection>
@@ -485,9 +485,9 @@
       <figure xml:id="engine-valves-pic">
         <caption>Diesel Engine Valves</caption>
         <image source="images/valve-nomenclature.png" width="40%">
-          <remix>
+          <!-- remix>
             <source href="https://www.standards.doe.gov/standards-documents/1000/1018-bhdbk-1993-v1">DOE FUNDAMENTALS HANDBOOK MECHANICAL SCIENCE, US DOE Publication DOE-HDBK-1018/1-93</source>
-          </remix>
+          </remix -->
         </image>
       </figure>
     </subsection>
@@ -498,9 +498,9 @@
       <figure xml:id="camshaft-and-drive-gear">
         <caption>Camshaft and Drive Gear</caption>
         <image source="images/camshaft" width="50%">
-          <remix>
+          <!-- remix>
             <source href="https://www.standards.doe.gov/standards-documents/1000/1018-bhdbk-1993-v1">DOE FUNDAMENTALS HANDBOOK MECHANICAL SCIENCE, US DOE Publication DOE-HDBK-1018/1-93</source>
-          </remix>
+          </remix -->
         </image>
       </figure>
       <p>Each lobe has a <term>cam follower</term> as shown on <xref ref="valve-gear"/>. As the camshaft is rotated, the follower is forced up and down as it follows the profile of the <term>cam lobe</term>. The followers are connected to the engine's valves and fuel injectors through various types of linkages called <term>pushrods</term> and <term>rocker arms</term>. The pushrods and rocker arms transfer the reciprocating motion generated by the camshaft lobes to the valves and injectors, opening and closing them as needed. The valves are maintained closed by <term>valve springs</term>.</p>
@@ -586,9 +586,9 @@
         <figure xml:id="bosch-apf">
           <caption>Bosch 1 Cylinder Type APF Injection Pump</caption>
           <image source="images/bosch-apf.png" width="70%">
-            <remix>
+            <!-- remix>
               <source href="https://armypubs.army.mil/epubs/DR_pubs/DR_a/pdf/web/tc55_509.pdf">Marine Engineman’s Handbook, US Army Publication TC 55-509</source>
-            </remix>
+            </remix -->
           </image>
         </figure>
       </paragraphs>
@@ -601,9 +601,9 @@
         <figure xml:id="bosch-ape">
           <caption>Bosch 6 CylinderType APE Injection Pump</caption>
           <image source="images/bosch-ape.png" width="85%">
-            <remix>
+            <!-- remix>
               <source href="https://armypubs.army.mil/epubs/DR_pubs/DR_a/pdf/web/tc55_509.pdf">Marine Engineman’s Handbook, US Army Publication TC 55-509</source>
-            </remix>
+            </remix -->
           </image>
         </figure>
         <p>Rotation of the plungers changes the part of the plunger helix that passes over the spill port (on the right side of each barrel in <xref ref="bosch-ape"/>), thus changing the time at which injection ends.</p>
@@ -659,9 +659,9 @@
         <figure xml:id="unit-injector-pic">
           <caption>Detroit Diesel Unit Injector</caption>
           <image source="images/unit-injector-pic" width="65%">
-            <remix>
+            <!-- remix>
               <source href="https://www.standards.doe.gov/standards-documents/1000/1018-bhdbk-1993-v1">DOE FUNDAMENTALS HANDBOOK MECHANICAL SCIENCE, US DOE Publication DOE-HDBK-1018/1-93</source>
-            </remix>
+            </remix -->
           </image>
         </figure>
       </paragraphs>
@@ -682,25 +682,25 @@
               <figure>
                 <caption>Normal</caption>
                 <image source="images/gov-normal-speed" width="75%">
-                  <remix>
+                  <!-- remix>
                     <source href="https://www.standards.doe.gov/standards-documents/1000/1018-bhdbk-1993-v1">DOE FUNDAMENTALS HANDBOOK MECHANICAL SCIENCE, US DOE Publication DOE-HDBK-1018/1-93</source>
-                  </remix>
+                  </remix -->
                 </image>
               </figure>
               <figure>
                 <caption>Overspeed</caption>
                 <image source="images/gov-over-speed" width="75%">
-                  <remix>
+                  <!-- remix>
                     <source href="https://www.standards.doe.gov/standards-documents/1000/1018-bhdbk-1993-v1">DOE FUNDAMENTALS HANDBOOK MECHANICAL SCIENCE, US DOE Publication DOE-HDBK-1018/1-93</source>
-                  </remix>
+                  </remix -->
                 </image>
               </figure>
               <figure>
                 <caption>Underspeed</caption>
                 <image source="images/gov-under-speed" width="75%">
-                  <remix>
+                  <!-- remix>
                     <source href="https://www.standards.doe.gov/standards-documents/1000/1018-bhdbk-1993-v1">DOE FUNDAMENTALS HANDBOOK MECHANICAL SCIENCE, US DOE Publication DOE-HDBK-1018/1-93</source>
-                  </remix>
+                  </remix -->
                 </image>
               </figure>
               </stack>

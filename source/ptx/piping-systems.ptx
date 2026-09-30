@@ -263,9 +263,9 @@
         <figure xml:id="fig_pipe_welding">
           <caption>Arc Welding</caption>
           <image source="images/pipe_welding.png" width="100%">
-            <remix>
+            <!-- remix>
               <source>https://www.wallpaperflare.com/man-worker-sparks-metallurgical-welding-welder-mask-protection-wallpaper-gathq/download/1920x1080</source>
-            </remix>
+            </remix -->
           </image>
         </figure>
         <p>Welding requires considerable skill and experience in order to make high quality connections, but properly made welded connections can last the lifetime of the ship.</p>
@@ -277,14 +277,14 @@
           <caption>Flanged Connections</caption>
           <sidebyside valign="middle" widths="45% 45%">
             <image source="images/cadet_flange.png">
-              <remix>
+              <!-- remix>
                 <source>whaynes CC0</source>
-              </remix>
+              </remix -->
             </image>
             <image source="images/flange_connection.png">
-              <remix>
+              <!-- remix>
                 <source>https://www.wermac.org/flanges/flanges_pipe-connections_pipe-flanges.html</source>
-              </remix>
+              </remix -->
             </image>
           </sidebyside>
         </figure>
@@ -294,9 +294,9 @@
         <figure xml:id="fig_blind_flange">
           <caption>Blind Flange</caption>
           <image source="images/blind_flange.png" width="25%">
-            <remix>
+            <!-- remix>
               <source>https://www.wermac.org/flanges/flanges_pipe-connections_pipe-flanges.html</source>
-            </remix>
+            </remix -->
           </image>
         </figure>
         <p>A <term>spectacle blind flange</term> is shaped like a pair of glasses or <em>spectacles</em><mdash/> hence the name. One half is open to allow flow through during normal operation and the other side is solid to block flow and secure the system for maintenance.  The two halves are separated by a spacer with a hole for one flange bolt. They are generally installed in the piping system permanently.</p>
@@ -304,14 +304,14 @@
           <caption>Spectacle Blind Flange</caption>
           <sidebyside valign="middle" width="40%">
             <image source="images/spectical_blind_flange.png">
-              <remix>
+              <!-- remix>
                 <source>https://www.wermac.org/flanges/flanges_pipe-connections_pipe-flanges.html</source>
-              </remix>
+              </remix -->
             </image>
             <image source="images/spectical_pipe.png">
-              <remix>
+              <!-- remix>
                 <source>https://www.piping-designer.com/index.php/disciplines/mechanical/stationary-equipment/pipe-flanges/92-spectacle-blind</source>
-              </remix>
+              </remix -->
             </image>
           </sidebyside>
         </figure>
@@ -322,14 +322,14 @@
           <caption>Orifice Plates and Orifice Flange</caption>
           <sidebyside valign="middle" widths="35% 30%">
             <image source="images/orifice_plates.png">
-              <remix>
+              <!-- remix>
                 <source>https://www.wermac.org/specials/orificeplate.html</source>
-              </remix>
+              </remix -->
             </image>
             <image source="images/orifice_flange.png">
-              <remix>
+              <!-- remix>
                 <source>https://www.wermac.org/flanges/flanges_pipe-connections_pipe-flanges.html</source>
-              </remix>
+              </remix -->
             </image>
           </sidebyside>
         </figure>
@@ -347,9 +347,9 @@
         <figure xml:id="fig_npt_threads">
           <caption>NPT Threads</caption>
           <image source="images/npt_threads.png" width="50%">
-            <remix>
+            <!-- remix>
               <source>https://www.wermac.org/flanges/flanges_pipe-connections_pipe-flanges.html</source>
-            </remix>
+            </remix -->
           </image>
         </figure>
         <p>Because of the taper, a pipe thread can only screw into a fitting so far before it jams. The standard specifies this distance as the length of hand tight engagement, the distance the pipe thread can be screwed in by hand. It also specifies another distance – the effective thread, this is the length of the thread which makes the seal on a conventional machined pipe thread. For workers, instead of these distances, it is more convenient to know how many turns to make by hand and how many with a wrench. A simple rule of thumb for installing tapered pipe threads, both metal and plastic, is finger tight plus one to two turns with a wrench.</p>
@@ -361,9 +361,9 @@
         <figure>
           <caption>Soldering Copper Pipe</caption>
           <image source="images/sweat_joint.png" width="60%">
-            <remix>
+            <!-- remix>
               <source>Home Depot</source>
-            </remix>
+            </remix -->
           </image>
         </figure>
         <p>Solder is an alloy that melts at 840 F or less.  Solder is composed primarily of tin, mixed with other metals such as nickel for added strength. Solder used to be a tin/lead mixture, but that is no longer used due to health risks of exposing drinking water to lead pipes.  Soldering is easier to learn than brazing and soldered joints can be reheated and taken apart.</p>
@@ -377,18 +377,18 @@
         <figure xml:id="fig_compression_fitting">
           <caption>Compression Fitting</caption>
           <image source="images/compression_fitting.png" width="50%">
-            <remix>
+            <!-- remix>
               <source>https://www.globalspec.com/learnmore/flow_control_fluid_transfer/pipe_tubing_hose_fittings_accessories/pipe_fittings</source>
-            </remix>
+            </remix -->
           </image>
         </figure>
         <p>Flare fittings consist of a body with a flared or coned end. Special flaring tools are used to create a matching flare on the pipe.  The flare nut compresses the flare into the fitting body and creates the seal. Flare fittings can handle higher pressures and a wider range of operating parameters than standard compression fittings.</p>
         <figure xml:id="fig_flare_fitting">
           <caption>Flare Fitting</caption>
           <image source="images/flare_fitting.png" width="50%">
-            <remix>
+            <!-- remix>
               <source>Home Depot</source>
-            </remix>
+            </remix -->
           </image>
         </figure>
         <p>Compression connections are quick and require little skill to make, but they cannot withstand very high pressures.  Also, there are only a few materials that are suitably compressible (ex. copper, brass, plastic) to use this method.</p>
@@ -399,9 +399,9 @@
         <figure>
           <caption>Camlock, Push-to-connect, Twistlock</caption>
           <image source="images/quick_connect_fittings.png" width="90%">
-            <remix>
+            <!-- remix>
               <source>camlockcoupling.org,  homedepot.com, zoro.com</source>
-            </remix>
+            </remix -->
           </image>
         </figure>
         <p>There are several types of quick connect fittings. Some of the most commonly used ones are:</p>
@@ -427,9 +427,9 @@
         <figure xml:id="fig_nipples">
           <caption>Nipples: Close, Short, Hex, Long</caption>
           <image source="images/nipples.png" width="100%">
-            <remix>
+            <!-- remix>
               <source>https://www.wallpaperflare.com/man-worker-sparks-metallurgical-welding-welder-mask-protection-wallpaper-gathq/download/1920x1080</source>
-            </remix>
+            </remix -->
           </image>
         </figure>
         <p><term>Close nipples</term> are the shortest practical pipe nipple. The are used to connect two fittings very close to one another, leaving no unthreaded pipe exposed. Close or nipples are difficult to work with because the threads will be damaged with a pipe wrench, and the are difficult to remove without damage.</p>
@@ -444,9 +444,9 @@
         <figure xml:id="fig_coupling_union">
           <caption>Coupling and Union</caption>
           <image source="images/coupling_union.png" width="50%">
-            <remix>
+            <!-- remix>
               <source>https://www.wallpaperflare.com/man-worker-sparks-metallurgical-welding-welder-mask-protection-wallpaper-gathq/download/1920x1080</source>
-            </remix>
+            </remix -->
           </image>
         </figure>
         <p>A <term>coupling</term> is a simple, short section of pipe with internal female threads.  Two sections of pipe are tightened into the coupling to make the connection.  In order to disassemble the connection, one of the pipes needs to be rotated through several rotations to unscrew it.  This is not too practical because the entire system may need to be taken apart to remove one piece.</p>
@@ -455,14 +455,14 @@
           <caption>Union Cross-section and Disassembled</caption>
           <sidebyside valign="middle" widths="40% 40%">
             <image source="images/union_cross_section.png">
-              <remix>
+              <!-- remix>
                 <source>https://www.wermac.org/specials/orificeplate.html</source>
-              </remix>
+              </remix -->
             </image>
             <image source="images/union_exploded.png">
-              <remix>
+              <!-- remix>
                 <source>https://www.wermac.org/specials/orificeplate.html</source>
-              </remix>
+              </remix -->
             </image>
           </sidebyside>
         </figure>
@@ -474,9 +474,9 @@
         <figure xml:id="fig_elbows">
           <caption>Elbows: 90<degree/>, 45<degree/>, 22.5<degree/>, Street Ell, Reducing Ell</caption>
           <image source="images/elbows.png" width="100%">
-            <remix>
+            <!-- remix>
               <source>https://www.wallpaperflare.com/man-worker-sparks-metallurgical-welding-welder-mask-protection-wallpaper-gathq/download/1920x1080</source>
-            </remix>
+            </remix -->
           </image>
         </figure>
         <p>Standard elbows are available in 90<degree/>  , 45<degree/> and less commonly 22.5<degree/> angles.  A <term>90<degree/> Ell</term> is also called a <term>quarter-bend</term>.</p>
@@ -489,9 +489,9 @@
         <figure xml:id="fig_tee_cross">
           <caption>Tee and Cross</caption>
           <image source="images/tee_cross.png" width="50%">
-            <remix>
+            <!-- remix>
               <source>https://www.wallpaperflare.com/man-worker-sparks-metallurgical-welding-welder-mask-protection-wallpaper-gathq/download/1920x1080</source>
-            </remix>
+            </remix -->
           </image>
         </figure>
         <p>Standard Tees and Crosses use female threads and all connections are the same size, but unequal (reducing) and street (one male thread) varieties are sometimes available.</p>
@@ -502,9 +502,9 @@
         <figure xml:id="fig_cap_plug">
           <caption>Cap and Plug</caption>
           <image source="images/cap_plug.png" width="50%">
-            <remix>
+            <!-- remix>
               <source>https://www.wallpaperflare.com/man-worker-sparks-metallurgical-welding-welder-mask-protection-wallpaper-gathq/download/1920x1080</source>
-            </remix>
+            </remix -->
           </image>
         </figure>
       </subsubsection>
@@ -518,18 +518,18 @@
         <figure xml:id="fig_adapters">
           <caption>Adapters:  NPT to straight, NPT to Flare Fitting, NPT to copper pipe</caption>
           <image source="images/adapters.png" width="80%">
-            <remix>
+            <!-- remix>
               <source>https://www.wallpaperflare.com/man-worker-sparks-metallurgical-welding-welder-mask-protection-wallpaper-gathq/download/1920x1080</source>
-            </remix>
+            </remix -->
           </image>
         </figure>
         <p><term>Reducing adapters</term>, as the name suggests, are used to connect pipes of different sizes.  A <term>straight reducer</term> has female threads on both ends, while a straight <term>reducing bushing</term> has a large male thread and a smaller female thread.  Other reducing adapters including reducing elbow and tees are available with different combinations of male and female threads.</p>
         <figure xml:id="fig_reducer_bushing">
           <caption>Straight Reducer and Reducing Bushing</caption>
           <image source="images/reducer_bushing.png" width="50%">
-            <remix>
+            <!-- remix>
               <source>https://www.wallpaperflare.com/man-worker-sparks-metallurgical-welding-welder-mask-protection-wallpaper-gathq/download/1920x1080</source>
-            </remix>
+            </remix -->
           </image>
         </figure>
       </subsubsection>
@@ -1048,24 +1048,24 @@
   <section xml:id="piping-systems-piping-and-instrumentation-diagrams">
     <title>Piping and Instrumentation Diagrams</title>
     <image source="images/pipe_symbols_1">
-      <remix>
+      <!-- remix>
         <source>MARAD</source>
-      </remix>
+      </remix -->
     </image>
     <image source="images/pipe_symbols_2">
-      <remix>
+      <!-- remix>
         <source>MARAD</source>
-      </remix>
+      </remix -->
     </image>
     <image source="images/pipe_symbols_3">
-      <remix>
+      <!-- remix>
         <source>MARAD</source>
-      </remix>
+      </remix -->
     </image>
     <image source="images/pipe_symbols_4">
-      <remix>
+      <!-- remix>
         <source>MARAD</source>
-      </remix>
+      </remix -->
     </image>
   </section>
 </chapter>

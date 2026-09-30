@@ -32,10 +32,10 @@
         <figure xml:id="fig_electric_field">
           <caption>Electric Field between <m>+</m> and <m>-</m> charges</caption>
           <image source="images/electric_field" width="100%">
-            <remix>
+            <!-- remix>
               <source href="https://commons.wikimedia.org/wiki/File:VFPt_charges_plus_minus_thumb.svg">Geek3</source>
               <license href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0, via Wikimedia Commons</license>
-            </remix>
+            </remix -->
           </image>
         </figure>
       </sidebyside>
@@ -81,18 +81,18 @@
       <figure xml:id="fig_battery">
         <caption>The battery creates a voltage to drive current through a circuit.</caption>
         <image source="images/battery.png" width="60%">
-          <remix>
+          <!-- remix>
             <source href="https://www.freepik.com/free-vector/diagram-showing-electric-circuit-with-battery-lightbulb_7103656.htm">Image by brgfx on Freepik</source>
-          </remix>
+          </remix -->
         </image>
       </figure>
       <p>Whenever a potential difference exists between two points in a circuit, whether created by a battery, a generator, or some other voltage source, it will drive electrons from the more negative point towards the more positive point.  This is called <term>electron flow</term>, or <term>electron current</term>.</p>
       <p>Sadly, electron current is not technically <term>current</term>!  Current is defined as a stream of charge that flows from a more positively charged area to a more negatively charged area.  This definition was adopted because we want to think of current as a flow going from a higher level (more positive) to a lower level (less positive), like water flowing down hill.  Unfortunately, in 1752, before the nature of electric charge and electrons was fully understood,  Benjamin Franklin unknowingly defined the charge on an electron as negative,  so the direction of conventional current is exactly opposite to electron flow.</p>
       <image source="images/urgent_mission.png" width="40%">
-        <remix>
+        <!-- remix>
           <source href="https://xkcd.com/567/">xkcd.com</source>
           <license href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0, via Wikimedia Commons</license>
-        </remix>
+        </remix -->
       </image>
       <p>This definition of current, sometimes called <term>conventional current</term> for clarity, is the one used by physicists, engineers, and in textbooks.  You should think of current as positive charge flowing from a positive terminal to a negative terminal, even though, in reality, negatively charged electrons flow in the other direction.</p>
     </subsection>
@@ -136,9 +136,9 @@
         <figure xml:id="fig_phase-shift">
           <caption><m>E_2</m> lags <m>E_1</m> with a phase shift <m>\theta</m></caption>
           <image source="images/phase-shift" width="50%">
-            <remix>
+            <!-- remix>
               <source>whaynes CC0</source>
-            </remix>
+            </remix -->
           </image>
         </figure>
       </paragraphs>
@@ -356,21 +356,21 @@
         <caption>Diesel generator, power strip, batteries</caption>
         <sidebyside width="33%">
           <image source="images/diesel_gen.png">
-            <remix>
+            <!-- remix>
               <source href="https://commons.wikimedia.org/wiki/File:Power_strip.JPG">Ivy Main</source>
               <license href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0, via Wikimedia Commons</license>
-            </remix>
+            </remix -->
           </image>
           <image source="images/power_strip.png">
-            <remix>
+            <!-- remix>
               <source href="https://commons.wikimedia.org/wiki/File:%D9%88%D8%AD%D8%AF%D8%A9_%D8%A7%D9%84%D8%AA%D9%88%D9%84%D9%8A%D8%AF_%D8%A7%D9%84%D9%83%D9%87%D8%B1%D8%A8%D9%8A%D8%A9.jpg"/>
               <license href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0, via Wikimedia Commons</license>
-            </remix>
+            </remix -->
           </image>
           <image source="images/batteries.png">
-            <remix>
+            <!-- remix>
               <source href="https://www.hippopx.com/en/batteries-energy-battery-duracell-technology-warning-low-power-consumption-483120">CC0</source>
-            </remix>
+            </remix -->
           </image>
         </sidebyside>
       </figure>
@@ -452,19 +452,19 @@
         <caption>Electric lights, electric motor, electric stove</caption>
         <sidebyside margins="0%" width="30%">
           <image source="images/stadium_lights.png">
-            <remix>
+            <!-- remix>
               <source href="https://www.rawpixel.com/image/6035449/lamp-post-free-public-domain-cc0-photo">CCO</source>
-            </remix>
+            </remix -->
           </image>
           <image source="images/single_phase_motor">
-            <remix>
+            <!-- remix>
               <source href="https://freesvg.org/electric-motor">CC0</source>
-            </remix>
+            </remix -->
           </image>
           <image source="images/burners.png">
-            <remix>
+            <!-- remix>
               <source href="http://www.freeimageslive.co.uk/free_stock_image/electric-ring-jpg">freeimageslive.co.uk - freefoodphotos</source>
-            </remix>
+            </remix -->
           </image>
         </sidebyside>
       </figure>
@@ -508,20 +508,20 @@
         <caption>Stranded copper wire, power cables, circuit board traces</caption>
         <sidebyside width="33%">
           <image source="images/wire_stranded.png">
-            <remix>
+            <!-- remix>
               <source href="https://commons.wikimedia.org/wiki/File:Lautsprecherkabel_Makro_nah.jpg">RobertKuhlmann</source>
               <license href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0, via Wikimedia Commons</license>
-            </remix>
+            </remix -->
           </image>
           <image source="images/wire_spools.png">
-            <remix>
+            <!-- remix>
               <source>https://pxhere.com/en/photo/795689  CC0</source>
-            </remix>
+            </remix -->
           </image>
           <image source="images/circuit_traces.png" width="100%">
-            <remix>
+            <!-- remix>
               <source>https://www.rawpixel.com/image/6069741/free-public-domain-cc0-photo</source>
-            </remix>
+            </remix -->
           </image>
         </sidebyside>
       </figure>
@@ -582,19 +582,19 @@
         <caption>Carbon resistors, potentiometer, surface mount reistors</caption>
         <sidebyside widths="36% 22% 36%">
           <image source="images/resistors.png">
-            <remix>
+            <!-- remix>
               <source>https://www.pxfuel.com/en/free-photo-qkwuo</source>
-            </remix>
+            </remix -->
           </image>
           <image source="images/rheostat.png">
-            <remix>
+            <!-- remix>
               <source>https://www.ebay.com/itm/392635069343</source>
-            </remix>
+            </remix -->
           </image>
           <image source="images/surface_mount.png">
-            <remix>
+            <!-- remix>
               <source>https://www.wallpaperflare.com/pcb-printed-circuit-board-components-electronic-resistor-wallpaper-akiom</source>
-            </remix>
+            </remix -->
           </image>
         </sidebyside>
       </figure>
@@ -646,19 +646,19 @@
         <caption>Wire insulation, insulating tape, ceramic insualtors</caption>
         <sidebyside widths="36% 27% 36%">
           <image source="images/insulation_wire.png" width="100%">
-            <remix>
+            <!-- remix>
               <source>https://www.homedepot.com/c/ab/types-of-electrical-wires-and-cables/9ba683603be9fa5395fab909fc2be22</source>
-            </remix>
+            </remix -->
           </image>
           <image source="images/insulating_tape.png" width="100%">
-            <remix>
+            <!-- remix>
               <source>Adam Ensign https://www.pinterest.com/pin/386183736777263448/</source>
-            </remix>
+            </remix -->
           </image>
           <image source="images/insulators_ceramic.png" width="100%">
-            <remix>
+            <!-- remix>
               <source>https://pixabay.com/photos/technology-railway-engineering-857868/  Public Domain</source>
-            </remix>
+            </remix -->
           </image>
         </sidebyside>
       </figure>
@@ -703,19 +703,19 @@
         <caption>Switch panel, relay, and contactor</caption>
         <sidebyside widths="47% 26% 26%">
           <image source="images/switch_panel.png">
-            <remix>
+            <!-- remix>
               <source>https://www.hippopx.com/en/technology-anlagentechnik-plant-control-control-desk-controller-switch-396455</source>
-            </remix>
+            </remix -->
           </image>
           <image source="images/ice_cube_relay.png">
-            <remix>
+            <!-- remix>
               <source>https://www.grainger.com/product/DAYTON-General-Purpose-Relay-Socket-1EJC1</source>
-            </remix>
+            </remix -->
           </image>
           <image source="images/contactor.png">
-            <remix>
+            <!-- remix>
               <source>https://www.grainger.com/product/SQUARE-D-Definite-Purpose-Magnetic-5KAL8</source>
-            </remix>
+            </remix -->
           </image>
         </sidebyside>
       </figure>
@@ -789,16 +789,16 @@
         <caption>Electric field between capacitor plates, various types of capacitors</caption>
         <sidebyside width="40%">
           <image source="images/capacitors_field">
-            <remix>
+            <!-- remix>
               <source href="https://commons.wikimedia.org/wiki/File:VFPt_capacitor_mod.svg">MikeRun</source>
               <license href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0, via Wikimedia Commons</license>
-            </remix>
+            </remix -->
           </image>
           <image source="images/capacitors.png">
-            <remix>
+            <!-- remix>
               <source href="https://commons.wikimedia.org/wiki/File:Capacitors_(7189597135).jpg">Eric Schrader from San Francisco, CA, United States</source>
               <license href="https://creativecommons.org/licenses/by-sa/2.0">CC BY-SA 2.0, via Wikimedia Commons</license>
-            </remix>
+            </remix -->
           </image>
         </sidebyside>
       </figure>
@@ -839,15 +839,15 @@
         <caption>Magnetic Field surrounding inductor, toroidal inductors</caption>
         <sidebyside width="40%">
           <image source="images/inductor_coil" width="100%">
-            <remix>
+            <!-- remix>
               <source href="https://commons.wikimedia.org/wiki/File:VFPt_cylindrical_loosely-wound_coil_2.svg">File:VFPt cylindrical coil real.svg:  Geek3 / derivative work: MikeRun</source>
               <license href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0, via Wikimedia Commons</license>
-            </remix>
+            </remix -->
           </image>
           <image source="images/inductors.png" width="50%">
-            <remix>
+            <!-- remix>
               <source href="https://www.flickr.com/photos/jonathancharles/2504810153/in/photostream/">CC BY-SA</source>
-            </remix>
+            </remix -->
           </image>
         </sidebyside>
       </figure>
@@ -881,21 +881,21 @@
         <caption>Rectifier diode, zener diode, LED</caption>
         <sidebyside widths="38% 23% 38%">
           <image source="images/diodes_2.png">
-            <remix>
+            <!-- remix>
               <source>https://pixabay.com/da/photos/eic-diode-dioder-5907539/</source>
-            </remix>
+            </remix -->
           </image>
           <image source="images/zener_diode.png">
-            <remix>
+            <!-- remix>
               <source href="https://commons.wikimedia.org/wiki/File:Zener_diode_(aka).jpg">André Karwath aka Aka</source>
               <license href="https://creativecommons.org/licenses/by-sa/2.5">CC BY-SA 2.5, via Wikimedia Commons</license>
-            </remix>
+            </remix -->
           </image>
           <image source="images/leds.png">
-            <remix>
+            <!-- remix>
               <source href="https://commons.wikimedia.org/wiki/File:LEDs.jpg">Afrank99</source>
               <license href="https://creativecommons.org/licenses/by-sa/2.0">CC BY-SA 2.0, via Wikimedia Commons</license>
-            </remix>
+            </remix -->
           </image>
         </sidebyside>
       </figure>
@@ -933,16 +933,16 @@
         <caption>Transisters, integrated circuit chip</caption>
         <sidebyside width="40%">
           <image source="images/transistors.png">
-            <remix>
+            <!-- remix>
               <source href="https://commons.wikimedia.org/wiki/File:Electronic_component_transistors.jpg">me</source>
               <license href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0, via Wikimedia Commons</license>
-            </remix>
+            </remix -->
           </image>
           <image source="images/integrated_circuit_chip.png">
-            <remix>
+            <!-- remix>
               <source href="https://commons.wikimedia.org/wiki/File:2011-06-03-bios.jpg">Thomas Bresson</source>
               <license href="https://creativecommons.org/licenses/by/3.0">CC BY 3.0, via Wikimedia Commons</license>
-            </remix>
+            </remix -->
           </image>
         </sidebyside>
       </figure>
@@ -974,22 +974,22 @@
         <caption>Circuit breaker, fuses, ground fault circuit interupter</caption>
         <sidebyside widths="25% 50% 25%">
           <image source="images/circuit_breaker.png">
-            <remix>
+            <!-- remix>
               <source href="https://commons.wikimedia.org/wiki/File:Residual_current_operated_circuit-breaker_with_integral_overcurrent_protection.jpg">User-2000</source>
               <license href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0, via Wikimedia Commons</license>
-            </remix>
+            </remix -->
           </image>
           <image source="images/fuses.png">
-            <remix>
+            <!-- remix>
               <source href="https://commons.wikimedia.org/wiki/File:Different_Sizes_of_Insert_Fuses.jpg">Medvedev</source>
               <license href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0, via Wikimedia Commons</license>
-            </remix>
+            </remix -->
           </image>
           <image source="images/gfci.png">
-            <remix>
+            <!-- remix>
               <source href="https://commons.wikimedia.org/wiki/File:Residential_GFCI_receptacle.jpg">Ben Kurtovic</source>
               <license href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0, via Wikimedia Commons</license>
-            </remix>
+            </remix -->
           </image>
         </sidebyside>
       </figure>
@@ -1049,9 +1049,9 @@
       <figure xml:id="fig_series_resistors">
         <caption>Three resistors in series</caption>
         <image source="images/series_resistors" width="60%">
-          <remix>
+          <!-- remix>
             <source>whaynes CC0</source>
-          </remix>
+          </remix -->
         </image>
       </figure>
       <p>
@@ -1098,9 +1098,9 @@
       <figure xml:id="fig_parallel_resistors">
         <caption>Three resistors in parallel</caption>
         <image source="images/parallel_resistors" width="60%">
-          <remix>
+          <!-- remix>
             <source>whaynes CC0</source>
-          </remix>
+          </remix -->
         </image>
       </figure>
       <p>
@@ -1188,9 +1188,9 @@
       <figure xml:id="fig_wye_connection">
         <caption>Three inductors, wye connected</caption>
         <image source="images/wye_connection" width="40%">
-          <remix>
+          <!-- remix>
             <source>whaynes CC0</source>
-          </remix>
+          </remix -->
         </image>
       </figure>
     </subsection>
@@ -1207,9 +1207,9 @@
       <figure xml:id="fig_delta_connection">
         <caption>Three inductors, delta connected</caption>
         <image source="images/delta_connection" width="40%">
-          <remix>
+          <!-- remix>
             <source>whaynes CC0</source>
-          </remix>
+          </remix -->
         </image>
       </figure>
     </subsection>
@@ -1228,14 +1228,14 @@
         <caption>Ground lamps, Ground Ammeter</caption>
         <sidebyside widths="50% 38%">
           <image source="images/ground_lamps.png">
-            <remix>
+            <!-- remix>
               <source>whaynes CC0</source>
-            </remix>
+            </remix -->
           </image>
           <image source="images/ground_ammeter.png">
-            <remix>
+            <!-- remix>
               <source>whaynes CC0</source>
-            </remix>
+            </remix -->
           </image>
         </sidebyside>
       </figure>
@@ -1257,9 +1257,9 @@
           <figure xml:id="fig_digital_multimeter">
             <caption>Digital Multimeter</caption>
             <image source="images/digital_multimeter.png">
-              <remix>
+              <!-- remix>
                 <source>https://www.fluke.com/en-us/product/electrical-testing/digital-multimeters/fluke-87v</source>
-              </remix>
+              </remix -->
             </image>
           </figure>
         </sidebyside>
@@ -1290,9 +1290,9 @@ https://www.pinterest.com/pin/386183736777263448/
           <figure xml:id="fig_clamp_on">
             <caption>Clamp-on ammeter</caption>
             <image source="images/clamp_on.png" width="100%">
-              <remix>
+              <!-- remix>
                 <source href="https://commons.wikimedia.org/wiki/File:Clampmeter_Fluke_337.jpg">Harke, Public domain, via Wikimedia Commons</source>
-              </remix>
+              </remix -->
             </image>
           </figure>
         </sidebyside>
@@ -1304,9 +1304,9 @@ https://www.pinterest.com/pin/386183736777263448/
           <figure xml:id="fig_megger">
             <caption>Megohmmeter</caption>
             <image source="images/megger.png">
-              <remix>
+              <!-- remix>
                 <source>https://www.mitchellinstrument.com/aemc-6503-handcrank-analog-1000v-megohmmeter-cat-212652.html</source>
-              </remix>
+              </remix -->
             </image>
           </figure>
         </sidebyside>
@@ -1363,9 +1363,9 @@ https://www.pinterest.com/pin/386183736777263448/
         <figure xml:id="fig_simple_ac_generator">
           <caption>Simplified single-phase AC generator</caption>
           <image source="images/simple_ac_generator.png" width="80%">
-            <remix>
+            <!-- remix>
               <source>https://www.brown.edu/Departments/Engineering/Courses/ENGN1931F/AC_Electrical_Generators_ASOPE.pdf</source>
-            </remix>
+            </remix -->
           </image>
         </figure>
         <p>As the rotating magnetic field passes by the stationary armature, a voltage is induced in the armature.  This voltage varies in magnitude and direction sinusoidally, as shown in <xref ref="fig_sine-wave-definitions"/>.</p>
@@ -1383,18 +1383,18 @@ https://www.pinterest.com/pin/386183736777263448/
         <figure xml:id="fig_three_phase_stator">
           <caption>Three-phase generator stator, showing three individual armature windings.</caption>
           <image source="images/three_phase_stator.png" width="50%">
-            <remix>
+            <!-- remix>
               <source>https://www.allaboutcircuits.com/textbook/alternating-current/chpt-13/tesla-polyphase-induction-motors/</source>
-            </remix>
+            </remix -->
           </image>
         </figure>
         <p>As the rotor rotates, the rotating magnetic field induces voltages into each stator winding in turn, generating three sine waves of voltage, equally spaced, shown below.</p>
         <figure xml:id="three-phase">
           <caption>Three-phase AC Voltage</caption>
           <image source="images/three-phase" width="60%">
-            <remix>
+            <!-- remix>
               <source>whaynes CC0</source>
-            </remix>
+            </remix -->
           </image>
         </figure>
       </paragraphs>
@@ -1408,9 +1408,9 @@ https://www.pinterest.com/pin/386183736777263448/
       <figure xml:id="induction_motor">
         <caption>Three-phases Induction Motor</caption>
         <image source="images/induction_motor" width="50%">
-          <remix>
+          <!-- remix>
             <source>Siemens STEP program Basics of Induction Motors</source>
-          </remix>
+          </remix -->
         </image>
       </figure>
       <p>The stator carries three identical sets of <term>phase windings</term> placed 120 degrees apart in a symmetrical pattern and connected in wye.. The specific pattern of the windings determines the number of magnetic poles.  Small motors typically have two or four poles per phase, but the ship’s propulsion motors have ten poles per phase.</p>
@@ -1420,9 +1420,9 @@ https://www.pinterest.com/pin/386183736777263448/
           <figure xml:id="stator_1">
             <caption>Partially Wound</caption>
             <image source="images/stator_1">
-              <remix>
+              <!-- remix>
                 <source>Siemens STEP program Basics of Induction Motors</source>
-              </remix>
+              </remix -->
             </image>
           </figure>
           <figure xml:id="stator_2">
@@ -1447,9 +1447,9 @@ https://www.pinterest.com/pin/386183736777263448/
       <figure xml:id="rotor_cutaway">
         <caption>Rotor Cutaway Diagram</caption>
         <image source="images/rotor_cutaway" width="75%">
-          <remix>
+          <!-- remix>
             <source>Siemens STEP program Basics of Induction Motors</source>
-          </remix>
+          </remix -->
         </image>
       </figure>
       <p>As the rotating magnetic field passes over the rotor windings, it induces a voltage, according to Faraday's law of electromagnetic induction. This voltage drives a current through the rotor windings, which, in turn, generates a magnetic field surrounding the rotor windings.</p>
@@ -1491,9 +1491,9 @@ https://www.pinterest.com/pin/386183736777263448/
       <figure xml:id="VFD_main_components">
         <caption>Main Components of a VFD</caption>
         <image source="images/MV7000_topology" width="100%">
-          <remix>
+          <!-- remix>
             <source>Siemens STEP program Basics of Induction Motors</source>
-          </remix>
+          </remix -->
         </image>
       </figure>
       <p>By regulating the voltage and frequency supplied to the motor, a VFD allows for precise control of motor speed and torque. This enables energy savings, improved motor performance, and enhanced control in various applications, such as industrial machinery, HVAC systems, and electric vehicle drives.</p>
@@ -1502,9 +1502,9 @@ https://www.pinterest.com/pin/386183736777263448/
         <p><term>Pulse Width Modulation</term> (<term>PWM</term>) is a technique used in electronics to control the average value of a signal.  PWM works by rapidly turning a signal (usually a square wave) on and off. The overall effect is that the signal appears to have varying average voltage or power, depending on the width of the <em>on</em> or <em>high</em> portion of the signal.</p>
         <p>The <term>duty cycle</term> is a parameter of PWM that represents the percentage of time the signal is on or at a high level compared to the <term>period</term><mdash/> the time to complete one cycle. It determines the average value of the signal. A duty cycle of 50% means the signal is on for half the time and off for the other half, resulting in an average voltage or power that is halfway between the high and low levels. By changing the duty cycle, the average value of the signal can be controlled. Increasing the duty cycle increases the average value, while decreasing the duty cycle decreases the average value.</p>
           <image source="images/pulse_width_mod" width="75%">
-            <remix>
+            <!-- remix>
               <source>Pulse Width Modulation weh cc0</source>
-            </remix>
+            </remix -->
           </image>
         <p>PWM requires a control signal that determines the desired average value. This control signal could come from a microcontroller, analog circuit, or other control systems.</p>
         <p>The PWM signal is often passed through a low-pass filter. The filter averages out the rapid switching of the signal, resulting in a smoother output signal with the desired average value.</p>
@@ -1514,9 +1514,9 @@ https://www.pinterest.com/pin/386183736777263448/
         <sidebyside valign="middle" widths="65% 35%">
           <p>An <term>IGBT</term> (<term>Insulated Gate Bipolar Transistor</term>) is a power semiconductor device that combines the characteristics of a MOSFET (Metal-Oxide-Semiconductor Field-Effect Transistor) and a bipolar junction transistor (BJT). IGBTs are known for their high voltage and current handling capabilities, low conduction losses, and fast switching speeds. IGBTs can rapidly switch on and off in the range of microseconds to a few tens of nanoseconds. They are widely used in high-power electronic applications, such as motor drives, power converters, and inverters.</p>
           <image source="images/IGBT_symbol">
-            <remix>
+            <!-- remix>
               <source>weh cc0</source>
-            </remix>
+            </remix -->
           </image>
         </sidebyside>
         <p>The operation of an IGBT involves three main states:</p>
@@ -1537,9 +1537,9 @@ https://www.pinterest.com/pin/386183736777263448/
       <figure xml:id="fig_motor_controller">
         <caption>Across-the-line starter</caption>
         <image source="images/motor_controller" width="90%">
-          <remix>
+          <!-- remix>
             <source>whaynes@maritime.edu cc0</source>
-          </remix>
+          </remix -->
         </image>
       </figure>
       <p>
@@ -1583,10 +1583,10 @@ https://www.pinterest.com/pin/386183736777263448/
       <figure xml:id="fig_transformer_terms">
         <caption>Transformer terminology</caption>
         <image source="images/transformer_terms" width="90%">
-          <remix>
+          <!-- remix>
             <source href="https://commons.wikimedia.org/wiki/File:Transformer3d_col3.svg">BillC at the English-language Wikipedia</source>
             <license href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0, via Wikimedia Commons</license>
-          </remix>
+          </remix -->
         </image>
       </figure>
       <p>When alternating current flows through the primary winding, it generates an alternating magnetic field in the magnetic core.  This changing magnetic field, in turn, induces a voltage in the secondary winding through electromagnetic induction.  If the secondary winding has more <term>turns</term> than the primary winding, the secondary voltage will be higher than the input voltage and the transformer is referred to as a <term>step-up</term>  transformer. Conversely, if the secondary winding has fewer turns than the primary winding the secondary voltage will be less than the primary voltage, and the transformer is a  <term>step-down</term> transformer.</p>
@@ -1646,9 +1646,9 @@ https://www.pinterest.com/pin/386183736777263448/
       <figure xml:id="fig_distribution_simplified" landscape="yes">
         <caption>NSMV Electrical Distribution (simplified)</caption>
         <image source="images/Distribution_simplified" width="100%">
-          <remix>
+          <!-- remix>
             <source>whaynes from Diagram NSMV=321-B607</source>
-          </remix>
+          </remix -->
         </image>
       </figure>
       <p>An extremely simplified representation of the <em>Patriot State II</em> electrical distribution system is shown in <xref ref="fig_distribution_simplified"/>.  This diagram represents only about half the distribution system and only shows the portion of the system which is supplied from the after engine room.</p>

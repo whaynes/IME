@@ -37,9 +37,9 @@
       <figure xml:id="machine-safety">
         <caption>Rotating Shaft Hazard Sign</caption>
         <image source="images/machine-safety.jpg" width="50%">
-          <remix>
+          <!-- remix>
             <source>https://www.compliancesigns.com</source>
-          </remix>
+          </remix -->
         </image>
       </figure>
       <p>Mechanical hazards can be managed by adopting safe work procedures and the application of appropriate safeguards. As such, you should always wear appropriate PPE, follow the machine’s operating instructions, and ensure that all machine safety features and guards are in place. Be aware that some machines may start automatically at any time, so take appropriate precautions including de-energizing and locking out machinery before working on it.</p>
@@ -50,9 +50,9 @@
       <figure xml:id="reddy_kilowatt">
         <caption>Danger High Voltage</caption>
         <image source="images/reddy_kilowatt.jpg" width="40%">
-          <remix>
+          <!-- remix>
             <source>Public Domain</source>
-          </remix>
+          </remix -->
         </image>
       </figure>
       <p>Here are some of the main hazards associated with electricity:</p>
@@ -159,9 +159,9 @@ death is likely.</p>
       <figure xml:id="hazardous-material-placards">
         <caption>Hazardous Material Placards</caption>
         <image source="images/hazardous-material-placards.jpg" width="90%">
-          <remix>
+          <!-- remix>
             <source>https://airseacontainers.com/blog/how-to-read-and-understand-hazmat-placards/</source>
-          </remix>
+          </remix -->
         </image>
       </figure>
       <paragraphs>
@@ -188,9 +188,9 @@ death is likely.</p>
       <figure xml:id="Hyundai_Fortune">
         <caption><em>Hyundai Fortune</em> on fire 21 March 2006</caption>
         <image source="images/Burning_container_ship_Hyundai_Fortune_yemin-ship-76682.jpg" width="75%">
-          <remix>
+          <!-- remix>
             <source>Royal Netherlands Navy, CC0, via Wikimedia Commons https://commons.wikimedia.org/wiki/File:Burning_container_ship_Hyundai_Fortune_yemin-ship-76682.jpg</source>
-          </remix>
+          </remix -->
         </image>
       </figure>
       <p>Effective fire prevention measures, comprehensive emergency response plans, rigorous training, and state-of-the-art firefighting equipment are crucial in mitigating this threat and ensuring the safety of everyone on board.</p>
@@ -259,9 +259,9 @@ death is likely.</p>
       <figure xml:id="confined-space-sign">
         <caption>Confined Space Hazards</caption>
         <image source="images/confined-space-sign.png" width="50%">
-          <remix>
+          <!-- remix>
             <source>smartsign.com</source>
-          </remix>
+          </remix -->
         </image>
       </figure>
       <p>Here are some hazards associated with confined spaces:</p>
@@ -437,9 +437,9 @@ death is likely.</p>
       <figure xml:id="hot-work-tag">
         <caption>Hot Work Tag</caption>
         <image source="images/hot-work-tag.png" width="75%">
-          <remix>
+          <!-- remix>
             <source>https://www.idescosafety.com/</source>
-          </remix>
+          </remix -->
         </image>
       </figure>
     </subsection>
@@ -455,9 +455,9 @@ death is likely.</p>
         <figure xml:id="fig_612524341066_T9-13">
           <caption>Lockout Tag</caption>
           <image source="images/612524341066_T9-13.png" width="40%">
-            <remix>
+            <!-- remix>
               <source>https://www.idescosafety.com/</source>
-            </remix>
+            </remix -->
           </image>
         </figure>
       </sidebyside>
