@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
 <docinfo xml:base="docinfo.ptx" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <directories external="../../output/assets" generated="../../output/generated-assets"/>
   <brandlogo source="images/mma_logo_2.svg" url="https://www.maritime.edu"/>
   <initialism>IME</initialism>
   <math-package latex-name="cancel" mathjax-name="cancel"/>
