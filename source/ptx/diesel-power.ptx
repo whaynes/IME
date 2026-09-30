@@ -12,35 +12,28 @@
     <title>The Diesel Cycle</title>
     <introduction>
       <p>A diesel engine converts the energy stored in the fuel's chemical bonds into mechanical energy by burning fuel in a continuous, cyclic process, called the <term>Diesel Cycle</term>.  The word <term>cycle</term> refers an operation or series of events that repeats itself continuously.</p>
-      <sidebyside margins="0%" valign="middle" widths="70% 25%">
-        <stack>
+<sidebyside widths="70% 20%">
           <p>
             The main events in the diesel cycle are
             <ul>
-              <li>Intake <mdash/> Fresh combustion air enters the cylinder.</li>
-              <li>Compression <mdash/> the combustion air is compressed to high temperature and pressure.</li>
-              <li>Fuel Injection <mdash/> fuel is injected and ignites due the heat of compression.</li>
-              <li>Power <mdash/> the rapidly expanding combustion gases are converted to work.</li>
-              <li>Exhaust <mdash/> the combustion products are expelled from the cylinder.</li>
+              <li><em>Intake</em> <mdash/> Fresh combustion air enters the cylinder.</li>
+              <li><em>Compression</em> <mdash/> the combustion air is compressed to high temperature and pressure.</li>
+              <li><em>Fuel Injection</em> <mdash/> fuel is injected and ignites due the heat of compression.</li>
+              <li><em>Power</em> <mdash/> the rapidly expanding combustion gases are converted to work.</li>
+              <li><em>Exhaust</em> <mdash/> the combustion products are expelled from the cylinder.</li>
             </ul>
           </p>
+      <figure>
+        <caption>Four-stroke Cycle</caption>
+        <image source="images/Diesel_Engine_(4_cycle_running).gif">
+          <remix>
+            <source href="https://commons.wikimedia.org/wiki/File:Diesel_Engine_(4_cycle_running).gif"/>
+          </remix>
+        </image>
+      </figure>
+</sidebyside>
           <p>During the cycle, ignition occurs when fuel is injected into the air charge heated by compression to a temperature greater than the ignition point of the fuel.  The chemical reaction of burning the fuel liberates heat which causes the gases to expand and force the piston down, creating torque to rotate the crankshaft and drive the load.</p>
-        </stack>
-        <figure>
-          <caption>Four-stroke Cycle</caption>
-          <interactive aspect="1:2" platform="javascript" preview="images/Diesel_Engine_(4_cycle_running)">
-            <slate surface="pretext">
-              <sidebyside>
-                <image source="images/Diesel_Engine_(4_cycle_running).gif">
-                  <remix>
-                    <source href="https://commons.wikimedia.org/wiki/File:Diesel_Engine_(4_cycle_running).gif"/>
-                  </remix>
-                </image>
-              </sidebyside>
-            </slate>
-          </interactive>
-        </figure>
-      </sidebyside>
+
       <p>All diesel engines fall into one of two categories, <term>two-stroke</term> or <term>four-stroke</term> engines. In the case of a four-stroke cycle engine, the engine requires four strokes of the piston (down, up, down, up) to complete one full cycle. Therefore, it requires two rotations of the crankshaft, or 720° of crankshaft rotation to complete one cycle.  In a two-stroke cycle engine all the cycle's events occur in just one rotation of the crankshaft, or 360°.</p>
     </introduction>
     <subsection xml:id="diesel-power-four-stroke-cycle">
@@ -685,21 +678,18 @@
         <p>The governor controls the fuel rack position through a combined action of the hydraulic piston and a set of mechanical flyweights, which are driven by the engine blower shaft. <xref ref="hydraulic-governor"/> provides an illustration of a functional diagram of a mechanical-hydraulic governor. The position of the flyweights is determined by the speed of the engine. As the engine speeds up or down, the weights move in or out. The movement of the flyweights, due to a change in engine speed, moves a small piston (pilot valve) in the governor's hydraulic system. This motion adjusts flow of hydraulic fluid to a large hydraulic piston (servo-motor piston). The large hydraulic piston is linked to the fuel rack and its motion resets the fuel rack for increased/decreased fuel.</p>
         <figure xml:id="hydraulic-governor">
           <caption>Simplified Mechanical-Hydraulic Governor</caption>
-          <sbsgroup>
-            <sidebyside valign="bottom" width="50%">
+              <stack>
               <figure>
                 <caption>Normal</caption>
-                <image source="images/gov-normal-speed" width="50%">
+                <image source="images/gov-normal-speed" width="75%">
                   <remix>
                     <source href="https://www.standards.doe.gov/standards-documents/1000/1018-bhdbk-1993-v1">DOE FUNDAMENTALS HANDBOOK MECHANICAL SCIENCE, US DOE Publication DOE-HDBK-1018/1-93</source>
                   </remix>
                 </image>
               </figure>
-            </sidebyside>
-            <sidebyside valign="bottom" width="50%">
               <figure>
                 <caption>Overspeed</caption>
-                <image source="images/gov-over-speed">
+                <image source="images/gov-over-speed" width="75%">
                   <remix>
                     <source href="https://www.standards.doe.gov/standards-documents/1000/1018-bhdbk-1993-v1">DOE FUNDAMENTALS HANDBOOK MECHANICAL SCIENCE, US DOE Publication DOE-HDBK-1018/1-93</source>
                   </remix>
@@ -707,14 +697,13 @@
               </figure>
               <figure>
                 <caption>Underspeed</caption>
-                <image source="images/gov-under-speed">
+                <image source="images/gov-under-speed" width="75%">
                   <remix>
                     <source href="https://www.standards.doe.gov/standards-documents/1000/1018-bhdbk-1993-v1">DOE FUNDAMENTALS HANDBOOK MECHANICAL SCIENCE, US DOE Publication DOE-HDBK-1018/1-93</source>
                   </remix>
                 </image>
               </figure>
-            </sidebyside>
-          </sbsgroup>
+              </stack>
         </figure>
       </paragraphs>
     </subsection>
