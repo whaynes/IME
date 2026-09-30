@@ -313,7 +313,7 @@
           <row>
             <cell>Model</cell>
             <cell>
-              <p>MV7306 DFE 12P <fn>3.3 kV Diode Front End, 12 pulse, Neutral Point Clamped (NPC)</fn></p>
+              <p>MV7306 DFE 12P </p><tn>3.3 kV Diode Front End, 12 pulse, Neutral Point Clamped (NPC)</tn>
             </cell>
           </row>
           <row>
@@ -483,7 +483,7 @@
           <row>
             <cell>Model</cell>
             <cell>
-              <p>N3 HXC 1250 L/10 <fn>Series NC, H=Air/water cooling, X=Medium Voltage, C=Copper Cage, 1250 mm shaft height, L=magnetic circuit type, 10 pole</fn></p>
+              <p>N3 HXC 1250 L/10 </p><tn>Series NC, H=Air/water cooling, X=Medium Voltage, C=Copper Cage, 1250 mm shaft height, L=magnetic circuit type, 10 pole</tn>
             </cell>
           </row>
           <row>
