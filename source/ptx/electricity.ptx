@@ -130,7 +130,7 @@
         <p><term>Peak-to-Peak Value</term> The peak-to-peak value is the difference between the maximum positive and maximum negative values in a waveform. It represents the total range of voltage variation.</p>
         <p><term>Root Mean Square (RMS) Voltage</term> The <term/>root mean square is a mathematical concept used to represent the <em>effective</em> or <em>average</em> value of a varying quantity, such as voltage or current, in an AC waveform. It provides a way to express the magnitude of an AC signal in a manner that is equivalent to the magnitude of a DC value.</p>
         <p>RMS values, rather than peak or instantaneous values, are used to describe the properties of AC systems.   For example, when you see the voltage rating on a household electrical device (e.g., 120V for North America), it's the RMS value that's being specified. Similarly, the current rating (e.g., 15A) refers to the RMS value of the current.</p>
-        <p>For a sinusoidal waveform (like the standard AC power supply waveform), the RMS value is approximately <m>1/\sqrt{2} =  0.707</m> times the peak value of the waveform.  <me>V_{\text{RMS}} = \frac{V_{\text{peak}}}{\sqrt{2}}\qquad V_{\text{peak}} =V_{\text{RMS}}\sqrt{2}</me></p>
+        <p>For a sinusoidal waveform (like the standard AC power supply waveform), the RMS value is approximately <m>1/\sqrt{2} =  0.707</m> times the peak value of the waveform.  <md>V_{\text{RMS}} = \frac{V_{\text{peak}}}{\sqrt{2}}\qquad V_{\text{peak}} =V_{\text{RMS}}\sqrt{2}</md></p>
         <p>The RMS value of an AC voltage is the equivalent steady DC voltage that would produce the same amount of power dissipation across a resistor as the AC voltage across the same resistor. In other words, it's the voltage that gives the same heating effect as the AC voltage. Similarly, the RMS value of an AC current is the equivalent steady DC current that would produce the same power dissipation in a resistor as the AC current through the same resistor.</p>
         <p><term>Phase Shift</term> Phase shift refers to the time difference between two periodic waveforms. It's often expressed in degrees and indicates how far one waveform is shifted in time relative to another. A phase shift of 0 degrees means the waveforms are in sync, while a phase shift of 180 degrees means they are completely out of phase.  Recall that capacitors and inductors cause a phase shift between current and voltage.</p>
         <figure xml:id="fig_phase-shift">
@@ -170,7 +170,7 @@
         </ul>
       </p>
       <p>
-        The resistance of a conductor is given by <men>R = \frac{\rho L}{A}</men> where:
+        The resistance of a conductor is given by <md number="yes" >R = \frac{\rho L}{A}</md> where:
         <ul marker="">
           <li><m>R\</m> is the resistance of the conductor, in ohms.</li>
           <li><m>L\</m> is the length of the conductor, in meters.</li>
@@ -186,7 +186,7 @@
       <p><term>Capacitive Reactance</term><m>X_C</m>: Capacitive reactance occurs in circuits containing capacitors. When AC voltage is applied to a capacitor, it causes a displacement of charge between the plates, resulting in the accumulation and discharge of energy. This leads to a phase shift between the voltage and current waveforms. Capacitive reactance is inversely proportional to the frequency of the AC signal so is less significant at high frequencies.</p>
       <p><term>Inductive Reactance</term><m>X_L</m>: Inductive reactance arises in circuits containing inductors. When AC voltage is applied to an inductor, it induces a magnetic field that stores energy. Changes in the magnetic field cause an opposing voltage that leads to a phase shift between voltage and current. Inductive reactance is directly proportional to the frequency of the AC signal so is less significant at low frequencies.</p>
       <p>Reactance is measured in ohms (<m>\Omega</m>), just like resistance. However, reactance has both magnitude and phase, making it a complex quantity. The magnitude of reactance determines how much opposition a reactive component offers to the AC current, while the phase shift characterizes the timing difference between the voltage and current waveforms.</p>
-      <p><term>Impedance</term><m>Z</m>: is a measure of the total opposition to flow of current in an AC circuit due to both resistance and reactance.<me>Z = \sqrt{R^2+ (X_L -X_C)^2}</me>.  Impedance has units of ohms.</p>
+      <p><term>Impedance</term><m>Z</m>: is a measure of the total opposition to flow of current in an AC circuit due to both resistance and reactance.<md>Z = \sqrt{R^2+ (X_L -X_C)^2}</md>.  Impedance has units of ohms.</p>
       <p>
         <term>Phase shift</term>:  In a circuit with no reactive elements, the current and voltage sine waves are in phase,
         <ie/>
@@ -229,7 +229,7 @@
       </p>
       <paragraphs>
         <title>DC Circuits</title>
-        <p>In a DC circuits, where the voltage (V) is constant, electrical power can be calculated simply as the product of voltage and current <men xml:id="PEI">P = EI</men>, or as the product of resistance and current squared. <men xml:id="I2R">P = I^2 R</men></p>
+        <p>In a DC circuits, where the voltage (V) is constant, electrical power can be calculated simply as the product of voltage and current <md number="yes"  xml:id="PEI">P = EI</md>, or as the product of resistance and current squared. <md number="yes"  xml:id="I2R">P = I^2 R</md></p>
         <p>
           Where:
           <md>
@@ -245,7 +245,7 @@
         <p>In AC circuits the power cannot be calculated as easily as DC power for two reasons.  First, the sinusoidal current and voltage are continuously changing, which means that the power is too.  Second, any reactive elements in the circuit shift the current out of phase with the voltage, as shown in <xref ref="fig_phase_shift"/>.</p>
         <p>The first issue is solved by using RMS average values for current, voltage and power, however simply applying <xref ref="PEI"/> and multiplying the RMS voltage by the RMS current does not give the correct RMS power because of the second issue, the phase shift between the current and voltage waveforms.</p>
         <p>
-          The correct formula for calculating power in a single-phase AC circuit is <men xml:id="ACPEI">P = E I \cos\theta</men> where:
+          The correct formula for calculating power in a single-phase AC circuit is <md number="yes"  xml:id="ACPEI">P = E I \cos\theta</md> where:
           <md>
             <mrow>P \amp =  \text{Real electrical power (RMS, in watts)}</mrow>
             <mrow>I \amp =  \text{Current (RMS, in amperes)}</mrow>
@@ -259,7 +259,7 @@
         <title>Three phase AC Circuits</title>
         <p>Power in a three phase circuit is <m>\sqrt{3}</m> times larger than the power in a single phase circuit.</p>
         <p>
-          The correct formula for calculating power in a three-phase AC circuit is <men xml:id="three-phase-PEI">P = \sqrt{3} E I \cos\theta</men> where:
+          The correct formula for calculating power in a three-phase AC circuit is <md number="yes"  xml:id="three-phase-PEI">P = \sqrt{3} E I \cos\theta</md> where:
           <md>
             <mrow>P \amp =  \text{Real electrical power (RMS, in watts)}</mrow>
             <mrow>I \amp =  \text{Current (RMS, in amperes)}</mrow>
@@ -272,7 +272,7 @@
     <subsection xml:id="electricity-ohm-s-law">
       <title>Ohm’s Law</title>
       <p>
-        <term>Ohm’s law</term> describes the relationship between current, voltage, and resistance in an electric circuit. According to Ohm's Law, the current flowing through a circuit is directly proportional to the voltage across it and inversely proportional to the resistance of the circuit. Mathematically, this relationship is expressed as <men xml:id="ohms-law">I = V/R</men>  where:
+        <term>Ohm’s law</term> describes the relationship between current, voltage, and resistance in an electric circuit. According to Ohm's Law, the current flowing through a circuit is directly proportional to the voltage across it and inversely proportional to the resistance of the circuit. Mathematically, this relationship is expressed as <md number="yes"  xml:id="ohms-law">I = V/R</md>  where:
         <ul marker="">
           <li><m>I</m> is the the current in amperes</li>
           <li><m>V</m> is the voltage in volts, and</li>
@@ -292,7 +292,7 @@
           <p><m>I</m> = 0.24 A</p>
         </answer>
         <solution>
-          <p>Directly applying <xref ref="ohms-law"/> we get: <me>I = \frac{E}{R} = \frac{24 \text{ V}}{100\ \Omega} = 0.24 \text{ A} = 240 \text{ mA}</me>.</p>
+          <p>Directly applying <xref ref="ohms-law"/> we get: <md>I = \frac{E}{R} = \frac{24 \text{ V}}{100\ \Omega} = 0.24 \text{ A} = 240 \text{ mA}</md>.</p>
         </solution>
       </example>
       <example xml:id="ohms-law-example-2">
@@ -305,7 +305,7 @@
         </answer>
         <solution>
           <p>Before applying <xref ref="ohms-law"/> the given voltage must be converted from kilovolts to volts. (Recall that1 kV = 1000 V)</p>
-          <p><me>I = \frac{E}{R} \implies R = \frac{E}{I} = \frac{6200 \text{ V}}{233 \text{ A} }  = 26.6\ \Omega</me>.</p>
+          <p><md>I = \frac{E}{R} \implies R = \frac{E}{I} = \frac{6200 \text{ V}}{233 \text{ A} }  = 26.6\ \Omega</md>.</p>
         </solution>
       </example>
       <example xml:id="ohms-law-example-3">
@@ -317,7 +317,7 @@
           <p><m>E</m> = 0.25 V</p>
         </answer>
         <solution>
-          <p><me>I = \frac{E}{R} \implies E = IR  = (0.005 \text{ A})(50\ \Omega)  = 0.25 \text{ V}</me>.</p>
+          <p><md>I = \frac{E}{R} \implies E = IR  = (0.005 \text{ A})(50\ \Omega)  = 0.25 \text{ V}</md>.</p>
         </solution>
       </example>
     </subsection>
@@ -326,7 +326,7 @@
       <p>Electromagnetic induction was discovered by English scientist Michael Faraday in 1831. It is not an exaggeration to say that this discovery is the foundation of the modern world.</p>
       <p>Faraday observed that a <em>changing</em> magnetic field induces an EMF in a nearby conductor.  You can observe this yourself by moving a magnet around and through a coil of wire connected to a sensitive voltmeter.  When the magnetic field passing through the coil changes, whether by moving the magnet through the coil, by moving the conductor through the field, or by varying the strength of the field, a voltage is induced in the conductor that can be used to drive current and deliver electrical power.</p>
       <p>
-        <term>Faraday's law of electromagnetic induction</term> states that the induced EMF in a closed coil is directly proportional to the rate of change of magnetic flux passing through the circuit. Mathematically, it is expressed as: <men xml:id="faradays-law">\text{EMF} = - n \frac{d\Phi}{dt}</men> Where:
+        <term>Faraday's law of electromagnetic induction</term> states that the induced EMF in a closed coil is directly proportional to the rate of change of magnetic flux passing through the circuit. Mathematically, it is expressed as: <md number="yes"  xml:id="faradays-law">\text{EMF} = - n \frac{d\Phi}{dt}</md> Where:
         <ul marker="">
           <li>EMF is the induced electromotive force (in volts)</li>
           <li><m>n</m> is the number of turns in the coil</li>
@@ -529,8 +529,8 @@
       <p>The <term>American Wire Gage</term> (AWG) system assigns a specific number to each wire size, with lower numbers representing larger wires. The system is widely used in the United States for copper and  aluminum wires. For example, a common household electrical wire might be designated as <em>12 AWG</em> or <em>14 AWG</em>. Smaller numbers indicate thicker wires with larger cross-sectional area, capable of carrying higher current loads. Larger numbers represents thinner wires.</p>
       <p>The <term>Metric system</term> simply uses the cross-sectional area of the wire measured in square millimeters (<m>\text{mm}^2</m>). For instance, you might see a wire labeled as <m>2.5 \text{ mm}^2</m> or <m>4.0 \text{ mm}^2</m>. A larger number indicates a larger cross-sectional area and, therefore, a thicker wire capable of carrying more current.</p>
       <p><term>Circular mils.</term> This system is used in the United States when discussing very small or very large wire sizes. The term <em>circular mil</em> is often abbreviated as <em>CM</em>. The circular mil is defined as the area of a circle with a diameter of one mil, where one mil is a unit of length equal to one thousandth of an inch (0.001 inch).</p>
-      <p>Mathematically, the formula for calculating the circular mil area, <m>A</m>, of a wire with diameter, <m>d</m>, in mils is <me>A = \frac{d^2}{4} \text{ circular mils}</me>.</p>
-      <p>For example, if you have a wire with a diameter of 500 mils, you can calculate its circular mil area as follows: <me>A = \frac{500^2}{4} = 125,000 \text{ circular mils}</me></p>
+      <p>Mathematically, the formula for calculating the circular mil area, <m>A</m>, of a wire with diameter, <m>d</m>, in mils is <md>A = \frac{d^2}{4} \text{ circular mils}</md>.</p>
+      <p>For example, if you have a wire with a diameter of 500 mils, you can calculate its circular mil area as follows: <md>A = \frac{500^2}{4} = 125,000 \text{ circular mils}</md></p>
       <assemblage xml:id="conductor-symbols">
         <title>Symbols</title>
         <p>
@@ -1078,8 +1078,8 @@
           <p>I = 0.6 A, <m>E_1</m> = 6 V, <m>E_2</m> = 12 V, <m>E_3</m> = 30 V.</p>
         </answer>
         <solution>
-          <p>The total resistance is the sum of the individual resistances <me>R_t = R_1 + R_2 + R_3 = 80\ \Omega</me>.</p>
-          <p>By Ohms Law, the current is <me>I = E/R_t = \frac{48 \text{ V}}{80 \Omega} = 0.6 \text{ A}</me>.</p>
+          <p>The total resistance is the sum of the individual resistances <md>R_t = R_1 + R_2 + R_3 = 80\ \Omega</md>.</p>
+          <p>By Ohms Law, the current is <md>I = E/R_t = \frac{48 \text{ V}}{80 \Omega} = 0.6 \text{ A}</md>.</p>
           <p>
             The voltage drop across each resistor is
             <md>
@@ -1108,7 +1108,7 @@
         <ul>
           <li>The same voltage is applied to all parallel components.</li>
           <li>The current through each component may be different, but the total current is the sum of the currents through each component.</li>
-          <li>The total resistance of a parallel circuit containing <m>n</m> branches is given by this formula <men xml:id="parallel_resistors_formula">R_t = \frac{1}{1/R_1 + 1/R_2 + 1/R_3 + ... 1/R_n}</men>.</li>
+          <li>The total resistance of a parallel circuit containing <m>n</m> branches is given by this formula <md number="yes"  xml:id="parallel_resistors_formula">R_t = \frac{1}{1/R_1 + 1/R_2 + 1/R_3 + ... 1/R_n}</md>.</li>
         </ul>
       </p>
       <example xml:id="electricity-example-parallel-resistors">
@@ -1128,7 +1128,7 @@
           <p>For just the first two branches I = 1.5 A.</p>
         </answer>
         <solution>
-          <p>The current in each branch may be found using Ohms Law<me>I = E/R</me>.</p>
+          <p>The current in each branch may be found using Ohms Law<md>I = E/R</md>.</p>
           <p>
             Use Ohm’s Law <m>I = E/R</m> to calculate the current through each resistor.
             <md>
@@ -1137,12 +1137,12 @@
               <mrow>I_3  \amp= E/R_3 =  \frac{100 \text{ V}}{500\ \Omega}= 0.2 \text{ A}</mrow>
             </md>
           </p>
-          <p>The total current for all three branches is <me>I = I_1 + I_2 +I_3 = 1.7 \text{ A}</me></p>
+          <p>The total current for all three branches is <md>I = I_1 + I_2 +I_3 = 1.7 \text{ A}</md></p>
           <p>When the switch in branch 3 is opened current <m>I_3</m> drops to zero, so the total current drops to 1.5 A</p>
         </solution>
         <solution>
           <p>An alternate solution method is to first find the equivalent resistance using <xref ref="parallel_resistors_formula"/>, then use that resistance to find the current.</p>
-          <p>For all three resistors <me>R_t = \frac{1}{\frac{1}{100}+\frac{1}{200} + \frac{1}{500}} = 58.8\ \Omega</me>, and the corresponding current is <me>I =\frac{E}{R_t}= \frac{100 \text{ V}}{58.8\ \Omega} = 1.7 \text{ A}</me></p>
+          <p>For all three resistors <md>R_t = \frac{1}{\frac{1}{100}+\frac{1}{200} + \frac{1}{500}} = 58.8\ \Omega</md>, and the corresponding current is <md>I =\frac{E}{R_t}= \frac{100 \text{ V}}{58.8\ \Omega} = 1.7 \text{ A}</md></p>
           <p>
             Repeating the calculations for the first two resistors only we get
             <md>
@@ -1170,7 +1170,7 @@
               <mrow>\amp= 242.9\ \Omega</mrow>
             </md>
           </p>
-          <p>Applying Ohm’s Law with this resistance gives the current<me>I =  E/R_t =  \frac{120 \text{ V}}{242.9\ \Omega} = 0.494\text{ A}</me></p>
+          <p>Applying Ohm’s Law with this resistance gives the current<md>I =  E/R_t =  \frac{120 \text{ V}}{242.9\ \Omega} = 0.494\text{ A}</md></p>
         </solution>
       </example>
     </subsection>
@@ -1180,10 +1180,10 @@
       <p>In three phase circuits, the voltage measured from line to line is called the <term>line voltage,</term><m>V_L</m>, and the voltage measured across a component is called the <term>phase voltage</term> ,<m>V_\phi</m>.The <term>line current</term>, <m>I_L</m> ,is the current flowing in a power line, while the <term>phase current</term>, <m>I_\phi</m>, is the current flowing through a component.   In a balanced system, all three line voltage are the same, as are all three line currents.</p>
       <p>
         In a three-phase wye circuit,
-        <mdn>
+        <md number="yes" >
           <mrow>V_L \amp= \sqrt{3} V_\phi.</mrow>
           <mrow>I_L \amp = I_\phi</mrow>
-        </mdn>
+        </md>
       </p>
       <figure xml:id="fig_wye_connection">
         <caption>Three inductors, wye connected</caption>
@@ -1199,10 +1199,10 @@
       <p>In a delta configuration, three components are connected in a closed loop resembling a triangle.  Each component is connected across two lines, and no neutral point is used.</p>
       <p>
         In a three-phase delta circuit,
-        <mdn>
+        <md number="yes" >
           <mrow>V_L \amp= V_\phi.</mrow>
           <mrow>I_L \amp = \sqrt{3} I_\phi</mrow>
-        </mdn>
+        </md>
       </p>
       <figure xml:id="fig_delta_connection">
         <caption>Three inductors, delta connected</caption>
@@ -1369,7 +1369,7 @@ https://www.pinterest.com/pin/386183736777263448/
           </image>
         </figure>
         <p>As the rotating magnetic field passes by the stationary armature, a voltage is induced in the armature.  This voltage varies in magnitude and direction sinusoidally, as shown in <xref ref="fig_sine-wave-definitions"/>.</p>
-        <p>The frequency is related to the rotor rpm according to this relation: <me>f =   \frac{120 \times N}{2 \times 60}</me> where f is the frequency in Hz and N is the total number of poles.</p>
+        <p>The frequency is related to the rotor rpm according to this relation: <md>f =   \frac{120 \times N}{2 \times 60}</md> where f is the frequency in Hz and N is the total number of poles.</p>
         <p>
           For a two-pole field (one north and one south pole) rotating at 3600 rpm, the voltage will alternate through 60 cycles each second
           <ie/>
@@ -1435,7 +1435,7 @@ https://www.pinterest.com/pin/386183736777263448/
       </figure>
       <p>When three-phase AC power is applied to the stator windings, a <term>rotating magnetic field</term> develops rotating at the <term>synchronous speed</term>.</p>
       <p>
-        The synchronous speed is determined by the frequency of the power supply and the number of motor poles.  <me>n_s =\frac{120 f}{ P}</me> Where:
+        The synchronous speed is determined by the frequency of the power supply and the number of motor poles.  <md>n_s =\frac{120 f}{ P}</md> Where:
         <ul marker="">
           <li><m>n_s</m> is the synchronous speed in revolutions per minute (RPM).</li>
           <li><m>f</m> is the frequency of the power supply in hertz (Hz).</li>
@@ -1455,10 +1455,10 @@ https://www.pinterest.com/pin/386183736777263448/
       <p>As the rotating magnetic field passes over the rotor windings, it induces a voltage, according to Faraday's law of electromagnetic induction. This voltage drives a current through the rotor windings, which, in turn, generates a magnetic field surrounding the rotor windings.</p>
       <p>The magnetic field of the rotor interacts with the rotating magnetic field of the stator and magnetic attraction pulls the rotor in the same direction as the rotating magnetic field. As the rotor rotates, it tries to catch up with the rotating magnetic field.</p>
       <p>However, the mechanical load on the motor retards the shaft, so the rotor  speed <m>n</m>, always remains slightly less than the synchronous speed, <m>n_s</m>.  The difference between the synchronous speed and the actual</p>
-      <p>operating speed is called <term>slip</term>, often expressed as a percentage of the synchronous speed <me>\textrm{\% slip}= \left(\frac{n_s-n}{n_s}\right) \times 100\%</me>.</p>
+      <p>operating speed is called <term>slip</term>, often expressed as a percentage of the synchronous speed <md>\textrm{\% slip}= \left(\frac{n_s-n}{n_s}\right) \times 100\%</md>.</p>
       <p>The difference in speed between the rotating magnetic field and the rotor's rotational speed induces the current, torque, and power that drives the load connected to the motor shaft.   Slip is required for the motor to generate torque and perform useful work.</p>
       <p>
-        The mechanical power produced by a motor can be calculated using the formula:<me>P  = \tau \omega</me> Where:
+        The mechanical power produced by a motor can be calculated using the formula:<md>P  = \tau \omega</md> Where:
         <ul marker="">
           <li><m>P</m> is the shaft power in Watt (W).</li>
           <li><m>\tau</m> is torque or twisting force generated by the motor, measured in Newton-meters (Nm).</li>
@@ -1595,10 +1595,10 @@ https://www.pinterest.com/pin/386183736777263448/
       <p>A transformer does not add any power to the electrical circuits only changes its form.  Because electrical power is proportional to the product of current and voltage, when the voltage steps up, the current must step down.</p>
       <p>
         The relationships between the ratios of primary and secondary voltages, currents and turns are as follows:
-        <mdn>
+        <md number="yes" >
           <mrow>\frac{V_s}{V_p}\amp= \frac{N_s}{N_p}</mrow>
           <mrow>\frac{I_s}{I_p}\amp= \frac{N_p}{N_s}</mrow>
-        </mdn>
+        </md>
         .  Note that when the turns ratio is greater than one, the voltage steps up and the current steps down.
       </p>
       <p>Beyond voltage transformation, transformers also furnish electrical isolation between primary and secondary circuits, creating physical and electrical separation while maintaining energy transfer.</p>

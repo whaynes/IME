@@ -27,11 +27,11 @@
       <title>Unit-factor Method</title>
       <p>The <term>unit-factor method</term> or the <term>unity bracket method</term> is a widely used method for unit conversions using the rules of algebra. This method utilizes the fact that any number or expression can be multiplied by one (unity) without changing its value.  The advantage of this method is that it explicitly accounts for units, rather than treating a conversion factor as a <em>magic number</em>.</p>
       <p>To use this method, conversion factors are expressed as fraction equal to <em>one</em>, and multiplied against the original value while keeping careful track of the units in each term. Multiplying a value by a unit-factor and canceling any dimensional units appearing in both the numerator and denominator will express the original quantity in different units.</p>
-      <p>For example, since <m>\inch{1} = \cm{2.54}</m>, dividing both sides by <m>\inch{1}</m> inch gives the unit-factor<me>1 = \left[\frac{\cm{2.54}}{\inch{1}}\right]</me>.  The fraction bar in this term can be read as <q>per</q>, so this unit-factor says that there are <q>2.54 centimeters per inch</q>.</p>
+      <p>For example, since <m>\inch{1} = \cm{2.54}</m>, dividing both sides by <m>\inch{1}</m> inch gives the unit-factor<md>1 = \left[\frac{\cm{2.54}}{\inch{1}}\right]</md>.  The fraction bar in this term can be read as <q>per</q>, so this unit-factor says that there are <q>2.54 centimeters per inch</q>.</p>
       <p>To convert <m>36</m> inches to cm, just multiply by <m>36</m> inches by the appropriate unit-factor, and cancel the inch units that appear in both the numerator and denominator.</p>
-      <p><me>\inch{36}  \times \left[\frac{\cm{2.54} }{\inch{1}}\right] =  36 \cancel{\text{ in}} \times \left[\frac{2.54 \text{ cm}}{\cancel{1 \text{ in}}}\right] = \cm{91.44}</me></p>
+      <p><md>\inch{36}  \times \left[\frac{\cm{2.54} }{\inch{1}}\right] =  36 \cancel{\text{ in}} \times \left[\frac{2.54 \text{ cm}}{\cancel{1 \text{ in}}}\right] = \cm{91.44}</md></p>
       <p>To convert from cm to inches, use the reciprocal of this unit-factor, which is also unity.</p>
-      <p><me>\cm{100}  \times \left[\frac{\inch{1}}{\cm{2.54} }\right] =  100 \cancel{\text{ cm}} \times \left[\frac{1 \text{ in}}{2.54 \cancel{\text{ cm}}}\right] = \inch{39.37}</me></p>
+      <p><md>\cm{100}  \times \left[\frac{\inch{1}}{\cm{2.54} }\right] =  100 \cancel{\text{ cm}} \times \left[\frac{1 \text{ in}}{2.54 \cancel{\text{ cm}}}\right] = \inch{39.37}</md></p>
       <p>Thus <m>\yd{1}</m> (<m>\inch{36}</m>) is a bit shorter than a meter (<m>\cm{100}</m>), and <m>\m{1}</m> is a little more than <m>\inch{39}.</m></p>
       <p>Unit conversion is often easier <em>within</em> the the SI system, since the relations between units are logical, and the prefixes increase or decrease by <m>10^3</m>, so unit conversions can often be done in your head.</p>
       <p>
@@ -54,7 +54,7 @@
           <p>How many feet are there in a kilometer?</p>
         </statement>
         <answer>
-          <p><me>d = \ft{3208}</me></p>
+          <p><md>d = \ft{3208}</md></p>
         </answer>
         <solution>
           <p>Refer to <xref ref="length-units"/> for the length relations needed for the unit-factors.</p>
@@ -81,8 +81,8 @@
         <answer>
           <p>
             <ol marker="a">
-              <li><me>10 \mathrm{\ mph} = \mps{4.47}</me></li>
-              <li><me>\mps{0.447} = 1 \mathrm{\ mph}</me></li>
+              <li><md>10 \mathrm{\ mph} = \mps{4.47}</md></li>
+              <li><md>\mps{0.447} = 1 \mathrm{\ mph}</md></li>
             </ol>
           </p>
         </answer>
@@ -104,14 +104,14 @@
               <mrow>\amp = \mps{4.47}</mrow>
             </md>
           </p>
-          <p>By simplifying the unit-factors, we see that <me>\mps{0.447} =\mph{1}</me>.</p>
+          <p>By simplifying the unit-factors, we see that <md>\mps{0.447} =\mph{1}</md>.</p>
         </solution>
       </example>
     </subsection>
     <subsection xml:id="engineering-measurement-conversion-factors">
       <title>Conversion Factors</title>
       <p>The table below contains a large number of values that can be used to make unit-factors.</p>
-      <p>For example, the first entry says: <me>\mathrm{acre} \qquad 43560 \qquad  \ft{}^2</me> The associated unit factors are <me>1 = \left[\frac{ \mathrm{1 \ acre}}{\ft{43560}^2}\right] \quad \text{ or } \quad 1 = \left[\frac{\ft{43560}^2}{\mathrm{1\ acre}}\right]</me>.  Multiplying a quantity by one of these factors will convert acres to square feet, or vice-versa.</p>
+      <p>For example, the first entry says: <md>\mathrm{acre} \qquad 43560 \qquad  \ft{}^2</md> The associated unit factors are <md>1 = \left[\frac{ \mathrm{1 \ acre}}{\ft{43560}^2}\right] \quad \text{ or } \quad 1 = \left[\frac{\ft{43560}^2}{\mathrm{1\ acre}}\right]</md>.  Multiplying a quantity by one of these factors will convert acres to square feet, or vice-versa.</p>
       <figure xml:id="conversion-factor-pdf" landscape="yes">
         <caption>Conversion Factor Table</caption>
         <image source="images/conversion_factors"/>
@@ -275,7 +275,7 @@
             <p>How many square feet are there in 1 square meter?</p>
           </statement>
           <answer>
-            <p><me>A = \m{1}^2 = \ft{10.76}^2</me></p>
+            <p><md>A = \m{1}^2 = \ft{10.76}^2</md></p>
           </answer>
           <solution>
             <p>
@@ -297,7 +297,7 @@
             <p>How many square kilometers are there in 2.5 square miles?</p>
           </statement>
           <answer>
-            <p><me>A = \mi{2.5}^2  = \km{6.47}^2</me></p>
+            <p><md>A = \mi{2.5}^2  = \km{6.47}^2</md></p>
           </answer>
           <solution>
             <p>
@@ -521,19 +521,19 @@
           <p>Convert a time interval of  3:24:45 (3 hours, 24 minutes and 45 seconds) to decimal time</p>
         </statement>
         <answer>
-          <p><me>3:24:45 =  \hr{3.4125}</me></p>
+          <p><md>3:24:45 =  \hr{3.4125}</md></p>
         </answer>
         <solution>
           <p>
             <ol>
               <li>
-                <p>Convert 24 minutes to hours. <me>\minute{24}  = \minute{24} \times \left[ \frac{\hr{1}}{\minute{60}} \right] = \hr{0.4}</me></p>
+                <p>Convert 24 minutes to hours. <md>\minute{24}  = \minute{24} \times \left[ \frac{\hr{1}}{\minute{60}} \right] = \hr{0.4}</md></p>
               </li>
               <li>
-                <p>Convert the seconds to hours.<me>\second{45}  = \second{45} \times \left[ \frac{\hr{1}}{\second{3600}} \right] = \hr{0.0125}</me></p>
+                <p>Convert the seconds to hours.<md>\second{45}  = \second{45} \times \left[ \frac{\hr{1}}{\second{3600}} \right] = \hr{0.0125}</md></p>
               </li>
               <li>
-                <p>Find the decimal time by adding the minutes and seconds values from steps 1 and 2 to the hours. <me>3:24:45 = \hr{3} + \hr{0.4} + \hr{0.0125} = \hr{3.4125}</me></p>
+                <p>Find the decimal time by adding the minutes and seconds values from steps 1 and 2 to the hours. <md>3:24:45 = \hr{3} + \hr{0.4} + \hr{0.0125} = \hr{3.4125}</md></p>
               </li>
             </ol>
           </p>
@@ -545,7 +545,7 @@
           <p>Convert a decimal <m>\hr{12.947}</m> time interval to metric h:m:s time.</p>
         </statement>
         <answer>
-          <p><me>\hr{ 12.947} = \hr{12}:\minute{56}:\second{49.2}</me></p>
+          <p><md>\hr{ 12.947} = \hr{12}:\minute{56}:\second{49.2}</md></p>
         </answer>
         <solution>
           <p>
@@ -553,10 +553,10 @@
               <li>Start with the given value:  <m>t = \hr{12.947}</m></li>
               <li>The whole number portion of this value are the hours.</li>
               <li>
-                <p>Subtract the hours, and multiply the remainder by 60. The whole number portion of the result are the minutes. <me>\hr{0.947} \times \left[\frac{\minute{60}}{\hr{1}}\right] = \minute{56.820}</me></p>
+                <p>Subtract the hours, and multiply the remainder by 60. The whole number portion of the result are the minutes. <md>\hr{0.947} \times \left[\frac{\minute{60}}{\hr{1}}\right] = \minute{56.820}</md></p>
               </li>
               <li>
-                <p>Subtract the minutes, and multiply the remainder by 60.  The result are the seconds. <me>\minute{0.820} \times \left[\frac{\second{60}}{\minute{1}}\right] = \second{49.2}</me></p>
+                <p>Subtract the minutes, and multiply the remainder by 60.  The result are the seconds. <md>\minute{0.820} \times \left[\frac{\second{60}}{\minute{1}}\right] = \second{49.2}</md></p>
                 <p>If the results are not a whole number, you may round the result to the nearest second if you don't need fractional second accuracy.</p>
               </li>
               <li>Result: <m>t = \hr{12}:\minute{56}:\second{49.2}</m></li>
@@ -601,15 +601,15 @@
       </paragraphs>
       <paragraphs>
         <title>Inertia</title>
-        <p>Mass is a measure of an object's resistance to changes in its motion. The greater the mass, the more force is required to change its state of motion (i.e., to accelerate it).  This relation is expressed by Newton's Second law of motion: <me>F = ma</me>.</p>
+        <p>Mass is a measure of an object's resistance to changes in its motion. The greater the mass, the more force is required to change its state of motion (i.e., to accelerate it).  This relation is expressed by Newton's Second law of motion: <md>F = ma</md>.</p>
       </paragraphs>
       <paragraphs>
         <title>Gravitational Attraction</title>
-        <p>Mass is the source of gravitational attraction. According to Newton's law of universal gravitation, the force of attraction between two masses is directly proportional to the product of their masses and inversely proportional to the square of the distance between them. <me>F=G\frac {m_1m_2}{r^2}</me> where <m>F</m> is the gravitational force acting between two objects, <m>m_1</m> and <m>m_2</m> are the masses of the objects, <m>r</m> is the distance between the object, and <m>G</m> is the universal gravitational constant.</p>
+        <p>Mass is the source of gravitational attraction. According to Newton's law of universal gravitation, the force of attraction between two masses is directly proportional to the product of their masses and inversely proportional to the square of the distance between them. <md>F=G\frac {m_1m_2}{r^2}</md> where <m>F</m> is the gravitational force acting between two objects, <m>m_1</m> and <m>m_2</m> are the masses of the objects, <m>r</m> is the distance between the object, and <m>G</m> is the universal gravitational constant.</p>
       </paragraphs>
       <paragraphs>
         <title>Equivalence of Mass and Energy</title>
-        <p>According to Einstein's theory of relativity, mass and energy are equivalent and can be converted into each other. This is expressed in Einestein's famous equation <me>E=mc^2</me>.</p>
+        <p>According to Einstein's theory of relativity, mass and energy are equivalent and can be converted into each other. This is expressed in Einestein's famous equation <md>E=mc^2</md>.</p>
       </paragraphs>
     </subsection>
     <subsection xml:id="mass-unit-conversions">
@@ -630,10 +630,10 @@
           <p>Convert 2 metric tons to pounds.</p>
         </statement>
         <answer>
-          <p><me>m = \lb{4410}</me></p>
+          <p><md>m = \lb{4410}</md></p>
         </answer>
         <solution>
-          <p><me>m = 2 \mathrm{\ tonne\ } \times  \left[\frac{\kg{1000}}{1\mathrm{\ tonne\ }} \right] \left[\frac{\lb{2.205}}{\kg{1}} \right] = \lb{4410}</me></p>
+          <p><md>m = 2 \mathrm{\ tonne\ } \times  \left[\frac{\kg{1000}}{1\mathrm{\ tonne\ }} \right] \left[\frac{\lb{2.205}}{\kg{1}} \right] = \lb{4410}</md></p>
         </solution>
       </example>
       <example xml:id="engineering-measurement-example-mass-conversion-2">
@@ -642,10 +642,10 @@
           <p>Convert 600 oz to kg.</p>
         </statement>
         <answer>
-          <p><me>m = \kg{17}</me></p>
+          <p><md>m = \kg{17}</md></p>
         </answer>
         <solution>
-          <p><me>m = 600 \mathrm{\ oz\ } \times  \left[\frac{\lb{1}}{16 \mathrm{\ oz\ }} \right] \left[\frac{\kg{1}}{\lb{2.205}} \right] = \kg{17}</me></p>
+          <p><md>m = 600 \mathrm{\ oz\ } \times  \left[\frac{\lb{1}}{16 \mathrm{\ oz\ }} \right] \left[\frac{\kg{1}}{\lb{2.205}} \right] = \kg{17}</md></p>
         </solution>
       </example>
     </subsection>
@@ -654,7 +654,7 @@
       <p>What is force? In simple terms, a force is a push or a pull.</p>
       <p>More precisely, a force is a vector quantity which tends to produce an acceleration of a body in the direction of its  application. This means that if you want a stationary object to move, you must apply a force  to it to get it going. If you want to keep it moving, you need to continuously apply a force  to it to overcome friction, which is itself a force. Forces can exist without motion too –  when an object is stationary it’s usually because there are many forces acting on it which  cancel each other out, leaving no net force acting on the object. Forces always occur in  pairs. A push on an object is always accompanied by an equal and opposite force acting on the  pusher.</p>
       <p>In the English system of units, force is measured in pounds, tons, or long tons.</p>
-      <p>In the SI  system, force is measured in newtons (<m>\N{}</m>)  or kilonewtons (<m>\kN{}</m>).  The newton is a derived unit, equal  to the product of mass and acceleration. <me>\N{} =  \mathrm{kg}\cdot  {\mathrm{m}}/{\mathrm{s}^2}</me></p>
+      <p>In the SI  system, force is measured in newtons (<m>\N{}</m>)  or kilonewtons (<m>\kN{}</m>).  The newton is a derived unit, equal  to the product of mass and acceleration. <md>\N{} =  \mathrm{kg}\cdot  {\mathrm{m}}/{\mathrm{s}^2}</md></p>
       <p>For estimation purposes, a newton is about a quarter of a pound.</p>
     </subsection>
     <subsection xml:id="engineering-measurement-mass-vs--weight">
@@ -664,9 +664,9 @@
         <caption>Weight vs. Mass</caption>
         <image source="images/weight-v-mass.png" width="50%"/>
       </figure>
-      <p>Weight is the force of gravity - the attraction between an object and the earth. The force exerted on an object is  proportional to the mass of the object according to Newton’s second law, which states:   <men xml:id="wmg">W=mg</men>, where <m>W</m> is weight, <m>m</m> is mass, and <m>g</m> is the local acceleration due to gravity.  Note that the weight of an object depends on both its mass <em>and</em> the acceleration of gravity acting on it.</p>
+      <p>Weight is the force of gravity - the attraction between an object and the earth. The force exerted on an object is  proportional to the mass of the object according to Newton’s second law, which states:   <md number="yes" xml:id="wmg">W=mg</md>, where <m>W</m> is weight, <m>m</m> is mass, and <m>g</m> is the local acceleration due to gravity.  Note that the weight of an object depends on both its mass <em>and</em> the acceleration of gravity acting on it.</p>
       <p>The value of <em>g</em> depends on where you are: on earth the constant is greater than it  is on the moon, so you weigh less on the moon than you do on earth. In outer space, the  constant is zero, making you weightless there.  The  mass of an object will not change when it moves to another location, but its weight may. For example, on the earth's surface, a one kilogram mass weighs about 2.2 pounds, but on Mars, the same mass would weigh only about 0.8 pounds, and on Jupiter it would weigh roughly 5.5 pounds.</p>
-      <p>One reason why people often confuse weight with mass is because in the English system and on the  surface of the earth, the gravitational constant <em>g</em> is equal to 1, and so one pound of mass has a weight of one pound of force. Move to the moon, and the pound of mass now weighs  about six tenths of a pound. On earth in the SI system,  <me>g = \aSI{9.8}</me>. Note the units of <m>g</m>.   This is a metric quantity; appropriate unit conversions must be made when working with US units. See the following examples.</p>
+      <p>One reason why people often confuse weight with mass is because in the English system and on the  surface of the earth, the gravitational constant <em>g</em> is equal to 1, and so one pound of mass has a weight of one pound of force. Move to the moon, and the pound of mass now weighs  about six tenths of a pound. On earth in the SI system,  <md>g = \aSI{9.8}</md>. Note the units of <m>g</m>.   This is a metric quantity; appropriate unit conversions must be made when working with US units. See the following examples.</p>
       <example xml:id="engineering-measurement-example-weight-1">
         <title>Weight 1</title>
         <statement>
@@ -676,7 +676,7 @@
           <p>The object has a calculated mass of 15.3 kg.</p>
         </answer>
         <solution>
-          <p>The problem supplies the weight  <me>w = \N{150}</me> and its location, Earth, which has a gravitational acceleration of <me>g = \aSI{9.8}</me>.</p>
+          <p>The problem supplies the weight  <md>w = \N{150}</md> and its location, Earth, which has a gravitational acceleration of <md>g = \aSI{9.8}</md>.</p>
           <p>
             Solving <xref ref="wmg"/> for mass and substituting gives:
             <md>
@@ -687,7 +687,7 @@
               <mrow>\amp= \kg{15.3}</mrow>
             </md>
           </p>
-          <p>Note that we used the conversion <me>\N{1} = 1 \mathrm{kg\ m}/\mathrm{s}^2</me>.</p>
+          <p>Note that we used the conversion <md>\N{1} = 1 \mathrm{kg\ m}/\mathrm{s}^2</md>.</p>
         </solution>
       </example>
       <example xml:id="engineering-measurement-example-weight-2">
@@ -700,8 +700,8 @@
         </answer>
         <solution>
           <p>Since the weight is given in pounds-force, first convert it to newtons and then proceed as in the previous example.</p>
-          <p><me>w=  \lbf{175} \times \left[\frac{\N{4.4482}}{\lbf{1}}\right] = \N{778.4}</me></p>
-          <p><me>m = W/g = \frac{\N{7778.4}}{\aSI{9.8}}= \kg{79.43}</me></p>
+          <p><md>w=  \lbf{175} \times \left[\frac{\N{4.4482}}{\lbf{1}}\right] = \N{778.4}</md></p>
+          <p><md>m = W/g = \frac{\N{7778.4}}{\aSI{9.8}}= \kg{79.43}</md></p>
           <p>A person who weighs 175 pounds on a scale, experiences a force of approximately 778.4 Newtons, has a calculated mass of 79.4 kilograms.</p>
         </solution>
       </example>
@@ -722,7 +722,7 @@
       <title>Magnitude and Direction</title>
       <p>The <term>magnitude</term> of a torque describes how strongly it turns an object, in the same way that the magnitude of a force describes how hard it pushes on something. When you turn a door knob, the magnitude is how hard you twist the knob.  When you push on a door, the magnitude is the product of how hard you push and the distance from the hinges.</p>
       <p>Torque is produced by applying a force at some distance from center of rotation. The magnitude <m>T</m> is found by multiplying the applied  force <m>F</m> by the distance <m>d</m> between the force and the axis of rotation measured perpendicularly. The perpendicular distance <m>d</m> between the force and the axis of rotation is called the <term>moment arm</term>, or the <term>lever arm</term>.   Note that if the moment arm is largest when the force is at a right angle with the shank of the wrench.</p>
-      <p><me>T = F d = F r \sin\theta</me></p>
+      <p><md>T = F d = F r \sin\theta</md></p>
       <p>Since the torque is the product of the force’s magnitude and the perpendicular distance, the greater the force, the greater the torque, but the closer force is to the axis of rotation, the smaller the moment.</p>
       <figure xml:id="wrench-T">
         <caption>Moment Arm</caption>
@@ -766,7 +766,7 @@
         </answer>
         <solution>
           <p>
-            Since the applied force is <em>not</em> perpendicular to the handle,  the moment arm <m>d</m> is less than the length of the  handle, <m>r.</m><me>d = r \sin \theta</me>
+            Since the applied force is <em>not</em> perpendicular to the handle,  the moment arm <m>d</m> is less than the length of the  handle, <m>r.</m><md>d = r \sin \theta</md>
             <md>
               <mrow>F \amp= \N{400}</mrow>
               <mrow>r \amp = \cm{60} = \cm{60} \times \left[ \frac{\m{1}}{\cm{100}} \right] = \m{0.60}</mrow>
@@ -855,7 +855,7 @@
         <term>Speed</term> is a scalar quantity that describes how fast an object is moving. It is the rate at which an object covers distance. Speed does not have a direction; it only has magnitude. There are different ways to measure speed:
         <ul marker="">
           <li><term>Instantaneous Speed</term> is the speed of an object at a particular moment in time. Imagine looking at a car's speedometer at a specific instant; the reading is the car's instantaneous speed.</li>
-          <li><term>Average Speed</term> the instantaneous speed averaged over a period of time. Average speed is calculated by dividing the total distance traveled by the total time taken to travel that distance. <me>\text{Average Speed} = \frac{\text{Total Distance}}{\text{Total Time}}</me></li>
+          <li><term>Average Speed</term> the instantaneous speed averaged over a period of time. Average speed is calculated by dividing the total distance traveled by the total time taken to travel that distance. <md>\text{Average Speed} = \frac{\text{Total Distance}}{\text{Total Time}}</md></li>
           <li><term>Rotational Speed</term> refers to how fast an object rotates or spins. It is often measured in revolutions per minute (RPM) or radians per second.</li>
         </ul>
       </p>
@@ -870,7 +870,7 @@
   <section xml:id="pressdef">
     <title>Pressure</title>
     <introduction>
-      <p><term>Pressure</term> is defined as force per unit area. That is, a force acting over an area is a pressure, and when you multiply a pressure by the area that it acts over, you get a force. <me>P = \frac{F}{A} \qquad \text{or} \qquad F = PA</me> Pressure is directly proportional to force and inversely proportional to the area over which it is applied.</p>
+      <p><term>Pressure</term> is defined as force per unit area. That is, a force acting over an area is a pressure, and when you multiply a pressure by the area that it acts over, you get a force. <md>P = \frac{F}{A} \qquad \text{or} \qquad F = PA</md> Pressure is directly proportional to force and inversely proportional to the area over which it is applied.</p>
       <figure>
         <caption>Pressure acting on a body</caption>
         <image source="images/pressure-on-body.png" width="50%"/>
@@ -942,15 +942,15 @@
         <p>What is really being expressed, even though it is not mentioned in the pressure unit, is the fact that a certain quantity of material (water, mercury, etc.) of known density will exert a certain definite force upon a specified area. Pressure is still force per unit area even if the pressure unit refers to the height of some liquid.</p>
         <paragraphs>
           <title>Head Calculations</title>
-          <p>Fresh water has a specific weight  <me>\gamma_{\scriptsize{\ce{H2O}}} = 62.4 \lb{}/\ft{}^3</me>.  This means that a <m>\ft{1}\times\ft{1}\times\ft{1}</m> cube of water weighs <m>\lb{62.4}</m>.  To find the pressure of a column of water 1 foot high, divide the weight of the water by the by the area of the of the base of the cube. <me>\textrm{1 foot of head}  = \frac{\lb{62.4}}{\inch{144}^2} = \psi{0.433}</me></p>
+          <p>Fresh water has a specific weight  <md>\gamma_{\scriptsize{\ce{H2O}}} = 62.4 \lb{}/\ft{}^3</md>.  This means that a <m>\ft{1}\times\ft{1}\times\ft{1}</m> cube of water weighs <m>\lb{62.4}</m>.  To find the pressure of a column of water 1 foot high, divide the weight of the water by the by the area of the of the base of the cube. <md>\textrm{1 foot of head}  = \frac{\lb{62.4}}{\inch{144}^2} = \psi{0.433}</md></p>
           <figure>
             <caption>One cubic foot of fresh water weighs 62.4 pounds.</caption>
             <image source="images/water-cube.jpeg" width="50%"/>
           </figure>
           <p>This equation indicates that a 1 foot head of fresh water exerts a <m>\psi{ 0.433}</m> pressure at the base.</p>
-          <p>Each additional foot of head will increase the pressure by an additional <m>\psi{0.433}</m>, so a head <m>h</m> (of water, in feet) is equivalent to a pressure <me>p = \left[\frac{\psi{0.433}}{\ft{1}}\right] h</me></p>
-          <p>For liquids other than fresh water, the calculation must be adjusted for density.  Recall that the specific gravity of a substance is defined as the ratio of the density (or specific weight) of a substance to the same value for water <me>\textrm{s.g.} = \frac{\rho}{\rho_{\scriptsize{\ce{H2O}}}} = \frac{\gamma}{\gamma_{\scriptsize{\ce{H2O}}}}</me>.  Fresh water has a specific gravity of 1; salt water has a specific gravity of 1.031, so it is slightly denser than fresh water; and mercury has a specific gravity of 13.633, so it is much denser than water.</p>
-          <p>To find the pressure in psi of a head <m>h</m> of a fluid with a specific gravity s.g. <men xml:id="head-equation">p =  \left[\frac{\psi{0.433}}{\ft{1}}\right ] (\textrm{s.g.})\  h</men></p>
+          <p>Each additional foot of head will increase the pressure by an additional <m>\psi{0.433}</m>, so a head <m>h</m> (of water, in feet) is equivalent to a pressure <md>p = \left[\frac{\psi{0.433}}{\ft{1}}\right] h</md></p>
+          <p>For liquids other than fresh water, the calculation must be adjusted for density.  Recall that the specific gravity of a substance is defined as the ratio of the density (or specific weight) of a substance to the same value for water <md>\textrm{s.g.} = \frac{\rho}{\rho_{\scriptsize{\ce{H2O}}}} = \frac{\gamma}{\gamma_{\scriptsize{\ce{H2O}}}}</md>.  Fresh water has a specific gravity of 1; salt water has a specific gravity of 1.031, so it is slightly denser than fresh water; and mercury has a specific gravity of 13.633, so it is much denser than water.</p>
+          <p>To find the pressure in psi of a head <m>h</m> of a fluid with a specific gravity s.g. <md number="yes" xml:id="head-equation">p =  \left[\frac{\psi{0.433}}{\ft{1}}\right ] (\textrm{s.g.})\  h</md></p>
         </paragraphs>
         <example xml:id="engineering-measurement-example-pressure-to-head">
           <title>Pressure to Head</title>
@@ -958,10 +958,10 @@
             <p>What head of water will cause a pressure of <m>\psi{1}</m>?</p>
           </statement>
           <answer>
-            <p><me>h = \ft{2.31}</me></p>
+            <p><md>h = \ft{2.31}</md></p>
           </answer>
           <solution>
-            <p>Since <m>\ft{1}</m> of water is equivalent to <m>\psi{0.433}</m>, we can create a unit-factor to solve for how many feet are equivalent to  <m>\psi{1}</m>.  <me>h = \psi{1} \times \left[\frac{\ft{1}}{\psi{0.433}}\right] = \ft{2.31}</me>.</p>
+            <p>Since <m>\ft{1}</m> of water is equivalent to <m>\psi{0.433}</m>, we can create a unit-factor to solve for how many feet are equivalent to  <m>\psi{1}</m>.  <md>h = \psi{1} \times \left[\frac{\ft{1}}{\psi{0.433}}\right] = \ft{2.31}</md>.</p>
           </solution>
         </example>
         <example xml:id="engineering-measurement-example-head-to-pressure">
@@ -970,7 +970,7 @@
             <p>What is the pressure in pascals caused by a <m>\m{2}</m> head of fresh water?</p>
           </statement>
           <answer>
-            <p><me>p = \kPa{19.6}</me></p>
+            <p><md>p = \kPa{19.6}</md></p>
           </answer>
           <solution>
             <p>
@@ -990,7 +990,7 @@
             <p>What is the pressure in psi equivalent to a <m>\inch{30}</m> column of mercury?</p>
           </statement>
           <answer>
-            <p><me>p = \psi{14.8}</me></p>
+            <p><md>p = \psi{14.8}</md></p>
           </answer>
           <solution>
             <p>
@@ -1038,7 +1038,7 @@
             <caption>U-tube manometer</caption>
             <image source="images/manometers" width="50%"/>
           </figure>
-          <p>For a U-tube manometer the pressure difference <m>\Delta p</m>  is calculated using the formula: <men xml:id="rho-g-h">\Delta p = \rho g h</men>  where <m>\rho</m> is the density of the liquid in the manometer,  <m>g</m> is the acceleration due to gravity, and <m>h</m> is the height difference between the liquid columns.</p>
+          <p>For a U-tube manometer the pressure difference <m>\Delta p</m>  is calculated using the formula: <md number="yes" xml:id="rho-g-h">\Delta p = \rho g h</md>  where <m>\rho</m> is the density of the liquid in the manometer,  <m>g</m> is the acceleration due to gravity, and <m>h</m> is the height difference between the liquid columns.</p>
         </paragraphs>
         <example xml:id="engineering-measurement-example-manometer-example">
           <title>Manometer Example</title>
@@ -1046,7 +1046,7 @@
             <p>If the height difference measured by a mercury manometer is 25 cm, determine the pressure difference .</p>
           </statement>
           <answer>
-            <p><me>\Delta p  = \kPa{33.3}</me></p>
+            <p><md>\Delta p  = \kPa{33.3}</md></p>
           </answer>
           <solution>
             <p>
@@ -1135,9 +1135,9 @@
       </figure>
       <p>
         If you can remember these values, which are all equivalent expressions for atmospheric pressure, you can use them to create unit-factors as needed.
-        <mdn>
+        <md number="yes">
           <mrow xml:id="atmos">P_\text{atm} \amp = 1 \text{ atm} = 14.7 \text{ psi} = 101.3 \textrm{ kPa} =1.01 \textrm{ bar}\\ \amp= 29.92 \textrm{ in Hg} = 760 \textrm{ mm Hg} = 33.9 \textrm{ ft H}_2\textrm{O}</mrow>
-        </mdn>
+        </md>
       </p>
       <p>
         <ul>
@@ -1157,7 +1157,7 @@
           <p>Express a barometric pressure of 27.5 in. Hg, in each of the following units of pressure:  a) atm b) mm Hg c)  kPa d) psi</p>
         </statement>
         <answer>
-          <p><me>27.5 \textrm{ in Hg} = 0.919 \textrm{ atm} = 698.5 \textrm{ mm Hg}= 93.3 \textrm{ kPa} =  13.5 \textrm{ psia}</me></p>
+          <p><md>27.5 \textrm{ in Hg} = 0.919 \textrm{ atm} = 698.5 \textrm{ mm Hg}= 93.3 \textrm{ kPa} =  13.5 \textrm{ psia}</md></p>
         </answer>
         <solution>
           <p>Barometers measure the absolute pressure of the atmosphere, so all results are also absolute pressures.</p>
@@ -1194,7 +1194,7 @@
               </li>
               <li>
                 <p>Subtract from atmospheric pressure to get vacuum
-<me>V = 760 - p = 222.3 \textrm{ mm Hg (vacuum)}</me></p>
+<md>V = 760 - p = 222.3 \textrm{ mm Hg (vacuum)}</md></p>
               </li>
             </ol>
           </p>
@@ -1206,7 +1206,7 @@
           <p>Convert  10 in Hg vacuum to pounds per square inch absolute (psia).</p>
         </statement>
         <answer>
-          <p><me>10 \textrm{ in Hg (vac)} = \psi{9.79}</me></p>
+          <p><md>10 \textrm{ in Hg (vac)} = \psi{9.79}</md></p>
         </answer>
         <solution>
           <p>Vacuum measurements are measured down from atmospheric pressure.</p>
@@ -1227,7 +1227,7 @@
           <p>To convert 5 bar to psi and to kPa.  All pressures are gauge values.</p>
         </statement>
         <answer>
-          <p><me>5 \mathrm{\ bar}  =  \psi{72.7}  =   \kPa{500}</me></p>
+          <p><md>5 \mathrm{\ bar}  =  \psi{72.7}  =   \kPa{500}</md></p>
         </answer>
         <solution>
           <p>
@@ -1244,7 +1244,7 @@
           <p>Convert 35 psig to kPa (absolute)</p>
         </statement>
         <answer>
-          <p><me>\psi{35} \text{ (gage)}  =  \kPa{343} \text{ (absolute)}</me></p>
+          <p><md>\psi{35} \text{ (gage)}  =  \kPa{343} \text{ (absolute)}</md></p>
         </answer>
         <solution>
           <p>

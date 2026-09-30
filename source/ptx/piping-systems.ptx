@@ -737,7 +737,7 @@
       <p>Relief valves are designed to close at a pressure lower than their opening pressure (The difference between opening and closing pressure is called <em>blowdown</em>). This is done to prevent <em>valve chattering</em>, which is a rapid opening and closing of the valve. Chattering is undesirable because it can damage the seat and disk. If the valve opened and closed at exactly the same pressure, it would chatter, because as soon as it opened, the pressure would drop and cause the valve to close, and as soon as it closed the pressure would cause it to open again.</p>
       <p>Chattering is prevented by exposing an additional disk surface area to the fluid pressure immediately after the valve opens. This increased area, acted upon by the fluid pressure, increases the force against the spring, and makes the valve open rapidly once it starts to open, but it will not close again until the pressure falls significantly below the opening pressure.</p>
       <p>
-        It must be remembered that the coil spring force acting when the valve begins to open is the same as the spring force acting when the valve closes. Since <m>F = PA</m>:  <me>P_o A_o = P_c A_c</me>  Where:
+        It must be remembered that the coil spring force acting when the valve begins to open is the same as the spring force acting when the valve closes. Since <m>F = PA</m>:  <md>P_o A_o = P_c A_c</md>  Where:
         <ul marker="">
           <li><m>P_o</m> is the Opening pressure.</li>
           <li><m>P_c</m> is the Closing pressure.</li>
@@ -752,7 +752,7 @@
           <p>A relief valve opens at 250 psi and has a bottom surface area when closed of 0.75 <m>\text{in}^2</m>. When the valve opens, the bottom surface area increases by 10%.     What pressure does the valve close at?</p>
         </statement>
         <answer>
-          <p><me>P_c = 227 \text{ psi}</me></p>
+          <p><md>P_c = 227 \text{ psi}</md></p>
         </answer>
         <solution>
           <p>
@@ -900,9 +900,9 @@
         <paragraphs>
           <title>Centrifugal Pump Principles</title>
           <p>The discharge capacity, discharge pressure and horsepower required to drive the pump varies as shown below with changes in impeller speed <m>n</m> or impeller diameter <m>d</m>.</p>
-          <p>The discharge capacity Q varies DIRECTLY as the impeller speed <m>n</m> or impeller diameter <m>d</m>. <me>\left(\frac{Q_2}{Q_1}\right) =\left(\frac{n_2}{n_1}\right)=\left(\frac{d_2}{d_1}\right)</me></p>
-          <p>The discharge pressure <m>p</m> from the AS THE SQUARE of the impeller rpm or diameter. <me>\left(\frac{p_2}{p_1}\right) =\left(\frac{n_2}{n_1}\right)^2=\left(\frac{d_2}{d_1}\right)^2</me></p>
-          <p>The horsepower necessary to drive the pump varies AS THE CUBE of the impeller rpm or diameter. <me>\left(\frac{HP_2}{HP_1}\right) =\left(\frac{n_2}{n_1}\right)^3=\left(\frac{d_2}{d_1}\right)^3</me></p>
+          <p>The discharge capacity Q varies DIRECTLY as the impeller speed <m>n</m> or impeller diameter <m>d</m>. <md>\left(\frac{Q_2}{Q_1}\right) =\left(\frac{n_2}{n_1}\right)=\left(\frac{d_2}{d_1}\right)</md></p>
+          <p>The discharge pressure <m>p</m> from the AS THE SQUARE of the impeller rpm or diameter. <md>\left(\frac{p_2}{p_1}\right) =\left(\frac{n_2}{n_1}\right)^2=\left(\frac{d_2}{d_1}\right)^2</md></p>
+          <p>The horsepower necessary to drive the pump varies AS THE CUBE of the impeller rpm or diameter. <md>\left(\frac{HP_2}{HP_1}\right) =\left(\frac{n_2}{n_1}\right)^3=\left(\frac{d_2}{d_1}\right)^3</md></p>
         </paragraphs>
         <paragraphs>
           <title>Operations</title>
