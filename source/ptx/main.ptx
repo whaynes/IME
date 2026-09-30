@@ -14,7 +14,7 @@
     <xi:include href="piping-systems.ptx"/>
     <xi:include href="diesel-power.ptx"/>
     <xi:include href="steam-propulsion.ptx"/>
-    <xi:include href="Electric-propulsion.ptx"/>
+    <xi:include href="electric-propulsion.ptx"/>
     <xi:include href="auxiliary-systems.ptx"/>
     <xi:include href="TSPS.ptx"/>
   </book>

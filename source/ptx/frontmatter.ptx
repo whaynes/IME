@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
 <frontmatter xml:id="frontmatter" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <titlepage>
-    <titlepage-items/>
-  </titlepage>
-  <bibinfo>
+<bibinfo>
     <author>
       <personname>Massachusetts Maritime Academy</personname>
       <department>Engineering Department</department>
@@ -14,4 +11,7 @@
       <today/>
     </date>
   </bibinfo>
+  <titlepage>
+    <titlepage-items/>
+  </titlepage>
 </frontmatter>
