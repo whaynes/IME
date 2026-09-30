@@ -110,6 +110,7 @@
   </latex>
 
   <html favicon="simple">
+    <brandlogo source="images/mma_logo_2.svg" url="https://www.maritime.edu"/>
     <!-- A possible attribute for the html tag above is @short-answer-responses, with values either "always" or "graded".  As in: -->
     <!--<html short-answer-responses="always">-->
 
